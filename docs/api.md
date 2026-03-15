@@ -8,6 +8,8 @@ All API endpoints are Next.js API routes deployed to Vercel. The base URL for al
 
 **Session identity:** An anonymous session ID is issued on first session creation and stored in a `tc_session` cookie (HttpOnly, SameSite=Strict). No user accounts or authentication tokens are required for MVP.
 
+**AI provider:** The server defaults to the provider set by the `AI_PROVIDER` environment variable (`"claude"` or `"deepseek"`). Clients may request a specific provider and model at session creation time. Once a session is created, its provider is fixed.
+
 **Error format:** All error responses follow a common shape:
 
 ```json
@@ -119,9 +121,22 @@ Creates a new game session for a given scenario and role.
 ```json
 {
   "scenarioId": "verdun-1916",
-  "roleId": "falkenhayn"
+  "roleId": "falkenhayn",
+  "aiProvider": {
+    "provider": "deepseek",
+    "model": "deepseek-chat"
+  }
 }
 ```
+
+`aiProvider` is optional. When omitted, the server default is used. Valid values:
+
+| `provider`  | `model`               | Notes                                   |
+|-------------|-----------------------|-----------------------------------------|
+| `"claude"`  | `"claude-sonnet-4-6"` | Default Claude model                    |
+| `"claude"`  | `"claude-opus-4-6"`   | Higher quality, higher cost             |
+| `"deepseek"`| `"deepseek-chat"`     | Default DeepSeek model                  |
+| `"deepseek"`| `"deepseek-reasoner"` | Chain-of-thought; better for summaries  |
 
 **Response `201`**
 
@@ -132,7 +147,8 @@ Creates a new game session for a given scenario and role.
     "scenarioId": "verdun-1916",
     "roleId": "falkenhayn",
     "status": "active",
-    "startedAt": "2026-03-15T10:00:00Z"
+    "startedAt": "2026-03-15T10:00:00Z",
+    "aiProvider": { "provider": "deepseek", "model": "deepseek-chat" }
   },
   "scene": { /* See Scene response shape below */ }
 }
@@ -142,10 +158,12 @@ Sets `tc_session` cookie to the session ID.
 
 **Errors**
 
-| Code                  | Status | Description                              |
-|-----------------------|--------|------------------------------------------|
-| `SCENARIO_NOT_FOUND`  | 404    | Scenario ID does not exist               |
-| `ROLE_NOT_FOUND`      | 404    | Role ID does not exist in this scenario  |
+| Code                   | Status | Description                                      |
+|------------------------|--------|--------------------------------------------------|
+| `SCENARIO_NOT_FOUND`   | 404    | Scenario ID does not exist                       |
+| `ROLE_NOT_FOUND`       | 404    | Role ID does not exist in this scenario          |
+| `INVALID_AI_PROVIDER`  | 400    | `provider` value is not `"claude"` or `"deepseek"` |
+| `INVALID_AI_MODEL`     | 400    | `model` is not valid for the specified provider  |
 
 ---
 
@@ -170,7 +188,8 @@ Returns the current session state, including the active scene and decision histo
     "status": "active",
     "startedAt": "2026-03-15T10:00:00Z",
     "lastActivityAt": "2026-03-15T10:12:00Z",
-    "decisionCount": 2
+    "decisionCount": 2,
+    "aiProvider": { "provider": "deepseek", "model": "deepseek-chat" }
   },
   "scene": { /* current scene, see GET /api/sessions/:id/scene */ },
   "gameState": {
@@ -302,7 +321,7 @@ If the next scene is terminal (`isTerminal: true`), `sessionStatus` will be `"co
 | `SESSION_COMPLETED`   | 409    | Session has already ended                             |
 | `INVALID_CHOICE`      | 400    | Choice ID not valid for current scene                 |
 | `CHOICE_UNAVAILABLE`  | 400    | Choice conditions not met by current game state       |
-| `AI_UNAVAILABLE`      | 503    | Claude API failed; retry is safe                      |
+| `AI_UNAVAILABLE`      | 503    | AI provider API failed; retry is safe                 |
 
 ---
 
@@ -332,7 +351,8 @@ This endpoint triggers AI generation on first call and caches the result in the 
       "Delayed the flanking maneuver at Fort Douaumont",
       "Prioritized troop morale over territorial gain"
     ],
-    "generatedAt": "2026-03-15T10:45:00Z"
+    "generatedAt": "2026-03-15T10:45:00Z",
+    "aiProvider": { "provider": "deepseek", "model": "deepseek-reasoner" }
   }
 }
 ```
@@ -343,7 +363,7 @@ This endpoint triggers AI generation on first call and caches the result in the 
 |-----------------------|--------|-------------------------------------------|
 | `SESSION_NOT_FOUND`   | 404    | Session does not exist                    |
 | `SESSION_NOT_COMPLETE`| 409    | Session is still active                   |
-| `AI_UNAVAILABLE`      | 503    | Claude API failed; retry is safe          |
+| `AI_UNAVAILABLE`      | 503    | AI provider API failed; retry is safe     |
 
 ---
 
@@ -425,5 +445,7 @@ Exceeded limits return `429 Too Many Requests`.
 | `INVALID_CHOICE`       | 400         | Choice ID not valid for the current scene            |
 | `CHOICE_UNAVAILABLE`   | 400         | Choice conditions not met by current game state      |
 | `VALIDATION_ERROR`     | 400         | Request body failed schema validation                |
-| `AI_UNAVAILABLE`       | 503         | Claude API returned an error; client may retry       |
+| `INVALID_AI_PROVIDER`  | 400         | `provider` is not `"claude"` or `"deepseek"`         |
+| `INVALID_AI_MODEL`     | 400         | `model` is not valid for the specified provider      |
+| `AI_UNAVAILABLE`       | 503         | AI provider API returned an error; client may retry  |
 | `INTERNAL_ERROR`       | 500         | Unexpected server error                              |

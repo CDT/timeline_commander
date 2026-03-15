@@ -9,6 +9,33 @@ Data is divided into two categories:
 
 ---
 
+## AI Provider Types
+
+Used across runtime data to track which AI backend generated content for a session.
+
+```ts
+type AiProvider = "claude" | "deepseek";
+
+type ClaudeModel =
+  | "claude-sonnet-4-6"
+  | "claude-opus-4-6";
+
+type DeepSeekModel =
+  | "deepseek-chat"
+  | "deepseek-reasoner";
+
+type AiModel = ClaudeModel | DeepSeekModel;
+
+interface AiProviderConfig {
+  provider: AiProvider;
+  model: AiModel;
+}
+```
+
+The default provider and model are set via environment variables (`AI_PROVIDER`, `AI_MODEL`). A per-session override is recorded in `GameSession.aiProvider` at creation time.
+
+---
+
 ## Content Data
 
 ### Scenario
@@ -192,6 +219,7 @@ interface GameSession {
   status: "active" | "completed" | "abandoned";
   gameState: GameState;
   decisions: DecisionRecord[];
+  aiProvider: AiProviderConfig;   // Provider used for narrative generation
   startedAt: string;              // ISO 8601
   completedAt: string | null;     // ISO 8601, set when status = "completed"
   lastActivityAt: string;         // ISO 8601, used for TTL management
@@ -232,6 +260,7 @@ interface DecisionRecord {
   choiceId: string;
   choiceText: string;             // Snapshot of choice text at time of decision
   outcomeNarration: string;       // AI-generated consequence text
+  aiProvider: AiProviderConfig;   // Provider that generated outcomeNarration
   stateSnapshotAfter: GameState;  // Full state after this decision was applied
   decidedAt: string;              // ISO 8601
 }
@@ -256,6 +285,7 @@ interface SessionSummary {
   realHistoricalOutcome: string;      // From HistoricalRecord.outcome
   divergenceAnalysis: string;         // AI-generated: where/why paths diverged
   keyInfluences: string[];            // Top 3–5 decisions that most shaped the outcome
+  aiProvider: AiProviderConfig;       // Provider used to generate this summary
   generatedAt: string;                // ISO 8601
 }
 ```
