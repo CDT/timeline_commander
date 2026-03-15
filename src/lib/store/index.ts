@@ -11,21 +11,32 @@ import type { GameSession } from "@/lib/types";
 const SESSION_TTL_SECONDS = 7 * 24 * 60 * 60; // 7 days
 
 // ─── In-memory fallback ─────────────────────────────────────────────────────
+// Attach to globalThis so the store survives across Next.js module evaluations
+// (API route handlers and Server Components may get separate module instances).
 
-const memStore = new Map<string, { session: GameSession; expiresAt: number }>();
+const globalKey = "__tc_session_store__" as const;
+
+function getMemStore(): Map<string, { session: GameSession; expiresAt: number }> {
+  const g = globalThis as unknown as Record<string, unknown>;
+  if (!g[globalKey]) {
+    g[globalKey] = new Map<string, { session: GameSession; expiresAt: number }>();
+  }
+  return g[globalKey] as Map<string, { session: GameSession; expiresAt: number }>;
+}
 
 function memSet(id: string, session: GameSession): void {
-  memStore.set(id, {
+  getMemStore().set(id, {
     session,
     expiresAt: Date.now() + SESSION_TTL_SECONDS * 1000,
   });
 }
 
 function memGet(id: string): GameSession | null {
-  const entry = memStore.get(id);
+  const store = getMemStore();
+  const entry = store.get(id);
   if (!entry) return null;
   if (Date.now() > entry.expiresAt) {
-    memStore.delete(id);
+    store.delete(id);
     return null;
   }
   return entry.session;

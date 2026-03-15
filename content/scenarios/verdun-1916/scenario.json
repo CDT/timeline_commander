@@ -22,7 +22,7 @@
   "historicalOverview": {
     "en": "The Battle of Verdun was one of the longest and most destructive battles of the First World War. Fought between the German and French armies on the Western Front, it lasted ten months and resulted in nearly a million casualties combined. The German offensive, codenamed Operation Judgement, was conceived by Chief of the German General Staff Erich von Falkenhayn with the stated aim of bleeding France white by attacking a position so psychologically significant that France would be compelled to defend it at any cost. Verdun had been a fortified city of immense symbolic value to France for centuries. The battle began on 21 February 1916 with a massive artillery bombardment and continued until December, consuming entire divisions on both sides in a grinding war of attrition.",
     "ja": "ヴェルダンの戦いは、第一次世界大戦における最も長く、最も壊滅的な戦いの一つでした。西部戦線でドイツ軍とフランス軍の間で戦われ、10ヶ月間続き、両軍合わせて約100万人の死傷者を出しました。ドイツの攻勢は「審判作戦」というコードネームで、ドイツ参謀総長エーリッヒ・フォン・ファルケンハインによって立案されました。その目的は、フランスが何としても守らざるを得ないほど心理的に重要な拠点を攻撃することで、フランスを「白血死」させることでした。ヴェルダンは数世紀にわたってフランスにとって計り知れない象徴的価値を持つ要塞都市でした。戦いは1916年2月21日の大規模な砲撃で始まり、12月まで続き、双方の師団全体が消耗戦の中で消えていきました。",
-    "zh-CN": "凡尔登战役是第一次世界大战中持续时间最长、破坏性最强的战役之一。这场战役在西线德法两军之间进行，历时十个月，双方伤亡合计近百万人。德国的攻势代号为"审判行动"，由德国参谋总长埃里希·冯·法金汉构思，其明确目的是通过攻击一个对法国具有重要心理意义的阵地来消耗法国的力量，迫使法国不惜一切代价守卫。几个世纪以来，凡尔登对法国具有不可估量的象征价值。战役于1916年2月21日以大规模炮击开始，持续到12月，在消耗战中双方整个师都被消耗殆尽。"
+    "zh-CN": "凡尔登战役是第一次世界大战中持续时间最长、破坏性最强的战役之一。这场战役在西线德法两军之间进行，历时十个月，双方伤亡合计近百万人。德国的攻势代号为\u201c审判行动\u201d，由德国参谋总长埃里希·冯·法金汉构思，其明确目的是通过攻击一个对法国具有重要心理意义的阵地来消耗法国的力量，迫使法国不惜一切代价守卫。几个世纪以来，凡尔登对法国具有不可估量的象征价值。战役于1916年2月21日以大规模炮击开始，持续到12月，在消耗战中双方整个师都被消耗殆尽。"
   },
   "realWorldOutcome": {
     "en": "Despite initial German gains, the French held Verdun. By December 1916, French counterattacks had recaptured most lost ground. Germany had failed to achieve a decisive breakthrough and suffered casualties comparable to France's. Falkenhayn was removed from command in August 1916 and replaced by Hindenburg and Ludendorff. The battle became a defining trauma of French national memory and is still commemorated today.",
@@ -42,7 +42,7 @@
       "description": {
         "en": "The French general who organized the defense of Verdun, famous for establishing the Voie Sacrée supply route and his stubborn commitment to holding the fortress city.",
         "ja": "ヴェルダン防衛を組織したフランス将軍。「聖なる道」補給路を確立したことと、要塞都市を守るための頑固な決意で有名。",
-        "zh-CN": "组织凡尔登防御的法国将军，以建立"圣路"补给线和坚守要塞城市的顽强决心而闻名。"
+        "zh-CN": "组织凡尔登防御的法国将军，以建立\u201c圣路\u201d补给线和坚守要塞城市的顽强决心而闻名。"
       }
     },
     {
