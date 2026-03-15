@@ -8,7 +8,7 @@
  */
 
 export interface AiProvider {
-  generateNarration(prompt: string, systemPrompt: string): Promise<string>;
+  generateNarration(prompt: string, systemPrompt: string, maxTokens?: number): Promise<string>;
 }
 
 // ─── Claude ─────────────────────────────────────────────────────────────────
@@ -22,13 +22,14 @@ export class ClaudeProvider implements AiProvider {
 
   async generateNarration(
     prompt: string,
-    systemPrompt: string
+    systemPrompt: string,
+    maxTokens = 1024
   ): Promise<string> {
     const { default: Anthropic } = await import("@anthropic-ai/sdk");
     const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
     const response = await client.messages.create({
       model: this.model,
-      max_tokens: 1024,
+      max_tokens: maxTokens,
       system: systemPrompt,
       messages: [{ role: "user", content: prompt }],
     });
@@ -49,7 +50,8 @@ export class DeepSeekProvider implements AiProvider {
 
   async generateNarration(
     prompt: string,
-    systemPrompt: string
+    systemPrompt: string,
+    maxTokens = 1024
   ): Promise<string> {
     const { default: OpenAI } = await import("openai");
     const client = new OpenAI({
@@ -58,7 +60,7 @@ export class DeepSeekProvider implements AiProvider {
     });
     const response = await client.chat.completions.create({
       model: this.model,
-      max_tokens: 1024,
+      max_tokens: maxTokens,
       messages: [
         { role: "system", content: systemPrompt },
         { role: "user", content: prompt },

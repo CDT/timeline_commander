@@ -2,28 +2,33 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import type { Locale, LocalizedString } from "@/lib/types";
 
 interface RoleInfo {
   id: string;
   name: string;
-  title: string;
+  title: LocalizedString;
   perspective: string;
 }
 
 interface Props {
   scenarioId: string;
-  title: string;
-  period: string;
+  title: LocalizedString;
+  period: LocalizedString;
   dates: { start: string; end: string };
   difficulty: string;
   roles: RoleInfo[];
 }
 
 const LOCALES = [
-  { value: "en", label: "English" },
-  { value: "ja", label: "日本語" },
-  { value: "zh-CN", label: "中文（简体）" },
+  { value: "en" as Locale, label: "English" },
+  { value: "ja" as Locale, label: "日本語" },
+  { value: "zh-CN" as Locale, label: "中文（简体）" },
 ];
+
+function t(ls: LocalizedString, locale: Locale): string {
+  return ls[locale] ?? ls["en"];
+}
 
 export default function ScenarioSelect({
   scenarioId,
@@ -35,7 +40,7 @@ export default function ScenarioSelect({
 }: Props) {
   const router = useRouter();
   const [selectedRole, setSelectedRole] = useState<string>(roles[0]?.id ?? "");
-  const [selectedLocale, setSelectedLocale] = useState("en");
+  const [selectedLocale, setSelectedLocale] = useState<Locale>("en");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -43,7 +48,6 @@ export default function ScenarioSelect({
     setLoading(true);
     setError(null);
     try {
-      // Set locale cookie
       document.cookie = `tc_locale=${selectedLocale}; path=/; max-age=${7 * 24 * 3600}`;
 
       const res = await fetch("/api/sessions", {
@@ -71,6 +75,41 @@ export default function ScenarioSelect({
 
   return (
     <div>
+      {/* Language selection — top */}
+      <section style={{ marginBottom: "2rem" }}>
+        <h3 style={sectionHeading}>Language</h3>
+        <div style={{ display: "flex", gap: "0.75rem", flexWrap: "wrap" }}>
+          {LOCALES.map((l) => (
+            <button
+              key={l.value}
+              onClick={() => setSelectedLocale(l.value)}
+              style={{
+                background:
+                  selectedLocale === l.value
+                    ? "var(--tc-choice-hover)"
+                    : "var(--tc-choice-bg)",
+                border: `1px solid ${
+                  selectedLocale === l.value
+                    ? "var(--tc-accent)"
+                    : "var(--tc-border)"
+                }`,
+                borderRadius: 4,
+                padding: "0.5rem 1rem",
+                cursor: "pointer",
+                color:
+                  selectedLocale === l.value
+                    ? "var(--tc-text)"
+                    : "var(--tc-muted)",
+                fontSize: "0.9rem",
+                transition: "all 0.15s",
+              }}
+            >
+              {l.label}
+            </button>
+          ))}
+        </div>
+      </section>
+
       {/* Scenario card */}
       <div
         style={{
@@ -90,7 +129,7 @@ export default function ScenarioSelect({
             marginBottom: "0.25rem",
           }}
         >
-          {period} · {difficulty}
+          {t(period, selectedLocale)} · {difficulty}
         </div>
         <h2
           style={{
@@ -100,7 +139,7 @@ export default function ScenarioSelect({
             margin: "0 0 0.25rem",
           }}
         >
-          {title}
+          {t(title, selectedLocale)}
         </h2>
         <div style={{ color: "var(--tc-muted)", fontSize: "0.85rem" }}>
           {dates.start} — {dates.end}
@@ -109,17 +148,12 @@ export default function ScenarioSelect({
 
       {/* Role selection */}
       <section style={{ marginBottom: "2rem" }}>
-        <h3
-          style={{
-            fontSize: "0.75rem",
-            letterSpacing: "0.15em",
-            textTransform: "uppercase",
-            color: "var(--tc-muted)",
-            marginBottom: "1rem",
-            fontWeight: "normal",
-          }}
-        >
-          Choose Your Role
+        <h3 style={sectionHeading}>
+          {selectedLocale === "ja"
+            ? "役割を選択"
+            : selectedLocale === "zh-CN"
+            ? "选择角色"
+            : "Choose Your Role"}
         </h3>
         <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
           {roles.map((role) => (
@@ -154,54 +188,8 @@ export default function ScenarioSelect({
                 {role.name}
               </div>
               <div style={{ color: "var(--tc-muted)", fontSize: "0.85rem" }}>
-                {role.title}
+                {t(role.title, selectedLocale)}
               </div>
-            </button>
-          ))}
-        </div>
-      </section>
-
-      {/* Locale selection */}
-      <section style={{ marginBottom: "2rem" }}>
-        <h3
-          style={{
-            fontSize: "0.75rem",
-            letterSpacing: "0.15em",
-            textTransform: "uppercase",
-            color: "var(--tc-muted)",
-            marginBottom: "1rem",
-            fontWeight: "normal",
-          }}
-        >
-          Language
-        </h3>
-        <div style={{ display: "flex", gap: "0.75rem", flexWrap: "wrap" }}>
-          {LOCALES.map((l) => (
-            <button
-              key={l.value}
-              onClick={() => setSelectedLocale(l.value)}
-              style={{
-                background:
-                  selectedLocale === l.value
-                    ? "var(--tc-choice-hover)"
-                    : "var(--tc-choice-bg)",
-                border: `1px solid ${
-                  selectedLocale === l.value
-                    ? "var(--tc-accent)"
-                    : "var(--tc-border)"
-                }`,
-                borderRadius: 4,
-                padding: "0.5rem 1rem",
-                cursor: "pointer",
-                color:
-                  selectedLocale === l.value
-                    ? "var(--tc-text)"
-                    : "var(--tc-muted)",
-                fontSize: "0.9rem",
-                transition: "all 0.15s",
-              }}
-            >
-              {l.label}
             </button>
           ))}
         </div>
@@ -239,8 +227,27 @@ export default function ScenarioSelect({
           fontFamily: "inherit",
         }}
       >
-        {loading ? "Starting…" : "Begin Scenario"}
+        {loading
+          ? selectedLocale === "ja"
+            ? "開始中…"
+            : selectedLocale === "zh-CN"
+            ? "启动中…"
+            : "Starting…"
+          : selectedLocale === "ja"
+          ? "シナリオを開始"
+          : selectedLocale === "zh-CN"
+          ? "开始场景"
+          : "Begin Scenario"}
       </button>
     </div>
   );
 }
+
+const sectionHeading: React.CSSProperties = {
+  fontSize: "0.75rem",
+  letterSpacing: "0.15em",
+  textTransform: "uppercase",
+  color: "var(--tc-muted)",
+  marginBottom: "1rem",
+  fontWeight: "normal",
+};

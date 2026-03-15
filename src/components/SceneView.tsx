@@ -74,9 +74,9 @@ export default function SceneView({
       )}
 
       {/* Choices */}
-      {!scene.isTerminal && scene.choices.length > 0 && (
+      {scene.choices.length > 0 && (
         <section>
-          <div style={labelStyle}>What will you do?</div>
+          <div style={labelStyle}>{scene.isTerminal ? "One final decision" : "What will you do?"}</div>
           <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
             {scene.choices.map((choice) => (
               <button
@@ -126,7 +126,7 @@ export default function SceneView({
         </section>
       )}
 
-      {scene.isTerminal && (
+      {scene.isTerminal && scene.choices.length === 0 && (
         <div style={{ color: "var(--tc-muted)", textAlign: "center", marginTop: "2rem" }}>
           — End of Scenario —
         </div>

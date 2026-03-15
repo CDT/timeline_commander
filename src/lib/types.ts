@@ -158,6 +158,28 @@ export interface GameSession {
   lastActivityAt: string;
 }
 
+// ─── Choice Evaluation ──────────────────────────────────────────────────────
+
+export interface ChoiceEvaluation {
+  sceneId: string;
+  sceneTitle: string;
+  choiceId: string;
+  choiceText: string;
+  grade: "A" | "B" | "C" | "D" | "F";
+  assessment: string;
+  misleadingFactors: string;
+  historicalChoice: string;
+  allOptions: {
+    id: string;
+    text: string;
+    wasSelected: boolean;
+    grade: "A" | "B" | "C" | "D" | "F";
+    briefAssessment: string;
+  }[];
+}
+
+export type OverallGrade = "A" | "B" | "C" | "D" | "F";
+
 // ─── Session Summary ─────────────────────────────────────────────────────────
 
 export interface SessionSummary {
@@ -173,6 +195,9 @@ export interface SessionSummary {
   realHistoricalOutcome: string;
   divergenceAnalysis: string;
   keyInfluences: string[];
+  choiceEvaluations: ChoiceEvaluation[];
+  overallGrade: OverallGrade;
+  overallAssessment: string;
   aiProvider: AiProviderConfig;
   generatedAt: string;
 }

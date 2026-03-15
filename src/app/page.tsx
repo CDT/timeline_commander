@@ -56,14 +56,14 @@ export default function HomePage() {
       {scenario ? (
         <ScenarioSelect
           scenarioId={scenario.id}
-          title={scenario.title.en}
-          period={scenario.period.en}
+          title={scenario.title}
+          period={scenario.period}
           dates={scenario.dates}
           difficulty={scenario.difficulty}
           roles={scenario.roles.map((r) => ({
             id: r.id,
             name: r.name,
-            title: r.title.en,
+            title: r.title,
             perspective: r.perspective,
           }))}
         />
