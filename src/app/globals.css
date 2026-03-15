@@ -65,3 +65,15 @@ body {
 .tc-pulse {
   animation: tc-pulse 1.5s ease-in-out infinite;
 }
+
+/* Streaming cursor */
+@keyframes tc-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.tc-cursor::after {
+  content: "\2588";
+  color: var(--tc-accent);
+  animation: tc-blink 0.8s step-end infinite;
+  margin-left: 1px;
+}

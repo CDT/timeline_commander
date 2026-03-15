@@ -3,14 +3,11 @@ import { v4 as uuidv4 } from "uuid";
 import { apiCreated, apiError } from "@/lib/api-helpers";
 import {
   loadScenario,
-  loadScene,
-  resolve,
 } from "@/lib/engine/scenario-loader";
-import { resolveScene } from "@/lib/engine/decision-processor";
 import { saveSession } from "@/lib/store";
 import { isLocale, VALID_MODELS, DEFAULT_PROVIDER } from "@/lib/types";
 import type { GameSession, Locale, AiProviderName } from "@/lib/types";
-import { expandScene, getProviderForSession } from "@/lib/ai/narration";
+// AI narration is now streamed separately via /api/sessions/{id}/narrate
 
 export const runtime = "nodejs";
 
@@ -94,29 +91,8 @@ export async function POST(request: NextRequest) {
 
   await saveSession(session);
 
-  // Load and expand the first scene
-  const rawScene = loadScene(scenarioId, role.startingSceneId);
-  const resolved = resolveScene(rawScene, locale, session.gameState);
-
-  let narrative = resolved.narrative;
-  try {
-    const provider = getProviderForSession(session);
-    narrative = await expandScene(
-      provider,
-      resolved.narrative,
-      resolve(scenario.title, locale),
-      role.name,
-      resolve(role.title, locale),
-      locale,
-      session.gameState
-    );
-  } catch {
-    // If AI fails, fall back to the seed prompt — game still works
-  }
-
   return apiCreated({
     session: sessionMeta(session),
-    scene: { ...resolved, narrative },
   });
 }
 

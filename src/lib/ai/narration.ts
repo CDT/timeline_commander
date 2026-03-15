@@ -82,6 +82,32 @@ Write as if you are describing the scene to the player in the second person ("Yo
   return provider.generateNarration(userPrompt, systemPrompt, MAX_TOKENS_NARRATION);
 }
 
+export function expandSceneStream(
+  provider: AiProvider,
+  sceneNarrativePrompt: string,
+  scenarioTitle: string,
+  roleName: string,
+  roleTitle: string,
+  locale: string,
+  gameState: GameState
+): AsyncIterable<string> {
+  const systemPrompt = buildSystemPrompt(scenarioTitle, roleName, roleTitle, locale);
+  const stateContext = Object.entries(gameState.variables)
+    .filter(([, v]) => typeof v === "number")
+    .map(([k, v]) => `${k}: ${v}`)
+    .join(", ");
+
+  const userPrompt = `Expand the following scene narrative seed into vivid, immersive prose (2–3 paragraphs).
+
+Scene seed: "${sceneNarrativePrompt}"
+
+Current situation context: ${stateContext || "start of game"}
+
+Write as if you are describing the scene to the player in the second person ("You stand…", "You hear…"). Ground every sentence in the historical reality of this moment.`;
+
+  return provider.streamNarration(userPrompt, systemPrompt, MAX_TOKENS_NARRATION);
+}
+
 export async function generateOutcome(
   provider: AiProvider,
   outcomePromptSeed: string,
@@ -108,6 +134,29 @@ Outcome seed: "${outcomePromptSeed}"
 Write in second person. Show the immediate consequences of this choice, grounded in historical plausibility. End on a note that naturally leads into the next scene.`;
 
   return provider.generateNarration(userPrompt, systemPrompt, MAX_TOKENS_NARRATION);
+}
+
+export function generateOutcomeStream(
+  provider: AiProvider,
+  outcomePromptSeed: string,
+  choiceText: string,
+  scenarioTitle: string,
+  roleName: string,
+  roleTitle: string,
+  locale: string,
+  gameState: GameState
+): AsyncIterable<string> {
+  const systemPrompt = buildSystemPrompt(scenarioTitle, roleName, roleTitle, locale);
+
+  const userPrompt = `The player has made a decision. Write the immediate consequences (2–3 paragraphs).
+
+Decision taken: "${choiceText}"
+
+Outcome seed: "${outcomePromptSeed}"
+
+Write in second person. Show the immediate consequences of this choice, grounded in historical plausibility. End on a note that naturally leads into the next scene.`;
+
+  return provider.streamNarration(userPrompt, systemPrompt, MAX_TOKENS_NARRATION);
 }
 
 export async function generateSummary(

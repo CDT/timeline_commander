@@ -65,8 +65,8 @@ export default function ScenarioSelect({
         throw new Error(data?.error?.message ?? "Failed to start session");
       }
 
-      const data = await res.json();
-      router.push(`/play/${data.session.id}`);
+      const { session } = await res.json();
+      router.push(`/play/${session.id}`);
     } catch (err) {
       setError((err as Error).message);
       setLoading(false);

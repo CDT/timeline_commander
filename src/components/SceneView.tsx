@@ -4,6 +4,7 @@ interface Props {
   scene: ResolvedScene;
   narrative: string;
   submitting: boolean;
+  isStreaming: boolean;
   onChoose: (choiceId: string) => void;
 }
 
@@ -11,6 +12,7 @@ export default function SceneView({
   scene,
   narrative,
   submitting,
+  isStreaming,
   onChoose,
 }: Props) {
   return (
@@ -24,9 +26,18 @@ export default function SceneView({
           marginBottom: "2rem",
         }}
       >
-        {narrative.split("\n").filter(Boolean).map((para, i) => (
-          <p key={i}>{para}</p>
-        ))}
+        {narrative ? (
+          narrative.split("\n").filter(Boolean).map((para, i) => (
+            <p key={i}>{para}</p>
+          ))
+        ) : isStreaming ? (
+          <p style={{ color: "var(--tc-muted)" }}>
+            <span className="tc-pulse">...</span>
+          </p>
+        ) : null}
+        {isStreaming && narrative && (
+          <span className="tc-cursor" />
+        )}
       </div>
 
       {/* Situation Report */}
@@ -73,8 +84,8 @@ export default function SceneView({
         </aside>
       )}
 
-      {/* Choices */}
-      {scene.choices.length > 0 && (
+      {/* Choices — hidden while narration is streaming */}
+      {scene.choices.length > 0 && !isStreaming && (
         <section>
           <div style={labelStyle}>{scene.isTerminal ? "One final decision" : "What will you do?"}</div>
           <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>

@@ -2,8 +2,8 @@ import { NextRequest } from "next/server";
 import { apiOk, apiError } from "@/lib/api-helpers";
 import { getSession, saveSession } from "@/lib/store";
 import { processDecision } from "@/lib/engine/decision-processor";
-import { generateOutcome, getProviderForSession } from "@/lib/ai/narration";
-import { loadScenario, resolve } from "@/lib/engine/scenario-loader";
+
+// AI narration is now streamed separately via /api/sessions/{id}/narrate
 
 export const runtime = "nodejs";
 
@@ -48,30 +48,8 @@ export async function POST(
   }
 
   const { session: updatedSession, outcomePrompt, nextScene } = result;
-  await saveSession(updatedSession);
-
-  const scenario = loadScenario(session.scenarioId);
-  const role = scenario.roles.find((r) => r.id === session.roleId);
-  const roleName = role?.name ?? session.roleId;
-  const roleTitle = role ? resolve(role.title, session.locale) : "";
   const decisionRecord = updatedSession.decisions[updatedSession.decisions.length - 1];
-
-  let narration = outcomePrompt;
-  try {
-    const provider = getProviderForSession(updatedSession);
-    narration = await generateOutcome(
-      provider,
-      outcomePrompt,
-      decisionRecord.choiceText,
-      resolve(scenario.title, session.locale),
-      roleName,
-      roleTitle,
-      session.locale,
-      updatedSession.gameState
-    );
-  } catch {
-    // AI failure is non-fatal — use seed text
-  }
+  await saveSession(updatedSession);
 
   return apiOk({
     session: {
@@ -80,7 +58,9 @@ export async function POST(
       decisionCount: updatedSession.decisions.length,
       lastActivityAt: updatedSession.lastActivityAt,
     },
-    narration,
+    outcomePrompt,
+    choiceText: decisionRecord.choiceText,
+    narration: outcomePrompt,
     nextScene,
     isTerminal: updatedSession.status === "completed",
   });

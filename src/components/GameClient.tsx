@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useCallback } from "react";
 import type { ResolvedScene, Locale } from "@/lib/types";
 import StatusBar from "./StatusBar";
 import SceneView from "./SceneView";
@@ -28,9 +28,41 @@ interface Props {
 
 type GamePhase =
   | { type: "briefing" }
-  | { type: "scene"; scene: ResolvedScene; narrative: string }
-  | { type: "outcome"; narration: string; nextScene: ResolvedScene | null; isTerminal: boolean }
+  | { type: "scene"; scene: ResolvedScene }
+  | { type: "outcome"; nextScene: ResolvedScene | null; isTerminal: boolean }
   | { type: "summary" };
+
+async function streamNarration(
+  sessionId: string,
+  body: { type: "scene" | "outcome"; outcomePrompt?: string; choiceText?: string },
+  onChunk: (text: string) => void,
+  signal?: AbortSignal
+): Promise<string> {
+  const res = await fetch(`/api/sessions/${sessionId}/narrate`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+    signal,
+  });
+
+  if (!res.ok || !res.body) {
+    throw new Error("Narration stream failed");
+  }
+
+  const reader = res.body.getReader();
+  const decoder = new TextDecoder();
+  let accumulated = "";
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    const chunk = decoder.decode(value, { stream: true });
+    accumulated += chunk;
+    onChunk(accumulated);
+  }
+
+  return accumulated;
+}
 
 export default function GameClient({
   sessionId,
@@ -43,11 +75,40 @@ export default function GameClient({
   const [phase, setPhase] = useState<GamePhase>(
     isNewSession
       ? { type: "briefing" }
-      : { type: "scene", scene: initialScene, narrative: initialScene.narrative }
+      : { type: "scene", scene: initialScene }
   );
+  const [narrativeText, setNarrativeText] = useState(
+    isNewSession ? "" : initialScene.narrative
+  );
+  const [isStreaming, setIsStreaming] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [currentScene, setCurrentScene] = useState(initialScene);
+  const abortRef = useRef<AbortController | null>(null);
+
+  const startNarrationStream = useCallback(
+    async (body: { type: "scene" | "outcome"; outcomePrompt?: string; choiceText?: string }, fallback: string) => {
+      abortRef.current?.abort();
+      const controller = new AbortController();
+      abortRef.current = controller;
+
+      setIsStreaming(true);
+      setNarrativeText("");
+      try {
+        await streamNarration(sessionId, body, setNarrativeText, controller.signal);
+      } catch {
+        // If streaming fails, use seed text as fallback
+        setNarrativeText((prev) => prev || fallback);
+      }
+      setIsStreaming(false);
+    },
+    [sessionId]
+  );
+
+  function handleBeginFromBriefing() {
+    setPhase({ type: "scene", scene: initialScene });
+    startNarrationStream({ type: "scene" }, initialScene.narrative);
+  }
 
   async function submitChoice(choiceId: string) {
     setSubmitting(true);
@@ -63,13 +124,19 @@ export default function GameClient({
         throw new Error(d?.error?.message ?? "Decision failed");
       }
       const data = await res.json();
+
+      if (data.nextScene) setCurrentScene(data.nextScene);
       setPhase({
         type: "outcome",
-        narration: data.narration,
         nextScene: data.nextScene,
         isTerminal: data.isTerminal,
       });
-      if (data.nextScene) setCurrentScene(data.nextScene);
+
+      // Start streaming outcome narration
+      startNarrationStream(
+        { type: "outcome", outcomePrompt: data.outcomePrompt, choiceText: data.choiceText },
+        data.narration
+      );
     } catch (err) {
       setError((err as Error).message);
     } finally {
@@ -77,15 +144,12 @@ export default function GameClient({
     }
   }
 
-  function proceedFromOutcome(
-    narration: string,
-    nextScene: ResolvedScene | null,
-    isTerminal: boolean
-  ) {
+  function proceedFromOutcome(nextScene: ResolvedScene | null, isTerminal: boolean) {
     if (isTerminal || !nextScene) {
       setPhase({ type: "summary" });
     } else {
-      setPhase({ type: "scene", scene: nextScene, narrative: nextScene.narrative });
+      setPhase({ type: "scene", scene: nextScene });
+      startNarrationStream({ type: "scene" }, nextScene.narrative);
     }
   }
 
@@ -127,32 +191,28 @@ export default function GameClient({
         {phase.type === "briefing" && (
           <BriefingView
             roleMeta={roleMeta}
-            onContinue={() =>
-              setPhase({
-                type: "scene",
-                scene: initialScene,
-                narrative: initialScene.narrative,
-              })
-            }
+            onContinue={handleBeginFromBriefing}
           />
         )}
 
         {phase.type === "scene" && (
           <SceneView
             scene={phase.scene}
-            narrative={phase.narrative}
+            narrative={narrativeText}
             submitting={submitting}
+            isStreaming={isStreaming}
             onChoose={submitChoice}
           />
         )}
 
         {phase.type === "outcome" && (
           <OutcomeView
-            narration={phase.narration}
+            narration={narrativeText}
             nextScene={phase.nextScene}
             isTerminal={phase.isTerminal}
+            isStreaming={isStreaming}
             onContinue={() =>
-              proceedFromOutcome(phase.narration, phase.nextScene, phase.isTerminal)
+              proceedFromOutcome(phase.nextScene, phase.isTerminal)
             }
           />
         )}
