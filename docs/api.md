@@ -10,6 +10,8 @@ All API endpoints are Next.js API routes deployed to Vercel. The base URL for al
 
 **AI provider:** The server defaults to the provider set by the `AI_PROVIDER` environment variable (`"claude"` or `"deepseek"`). Clients may request a specific provider and model at session creation time. Once a session is created, its provider is fixed.
 
+**Locale:** All user-facing text is returned in a single locale. The locale is set at session creation and fixed for the session's lifetime. Supported values: `"en"` (English), `"ja"` (Japanese), `"zh-CN"` (Simplified Chinese). Defaults to `"en"` if omitted.
+
 **Error format:** All error responses follow a common shape:
 
 ```json
@@ -33,15 +35,26 @@ Returns a list of all available scenarios.
 
 **Response `200`**
 
+Accepts an optional `locale` query parameter (`en`, `ja`, `zh-CN`). Defaults to `en`.
+
+**Query parameters**
+
+| Parameter | Type   | Default | Description                              |
+|-----------|--------|---------|------------------------------------------|
+| `locale`  | string | `"en"`  | Locale for returned title, period, location |
+
+**Response `200`**
+
 ```json
 {
+  "locale": "ja",
   "scenarios": [
     {
       "id": "verdun-1916",
-      "title": "Battle of Verdun",
-      "period": "World War I",
+      "title": "ヴェルダンの戦い",
+      "period": "第一次世界大戦",
       "dates": { "start": "1916-02-21", "end": "1916-12-18" },
-      "location": "Verdun, France",
+      "location": "フランス、ヴェルダン",
       "difficulty": "intermediate",
       "tags": ["WWI", "military", "France"],
       "roleCount": 2
@@ -58,9 +71,15 @@ Returns full scenario details including roles and key figures. Does not return s
 
 **Path parameters**
 
-| Parameter    | Type   | Description           |
-|--------------|--------|-----------------------|
-| `scenarioId` | string | Scenario ID           |
+| Parameter    | Type   | Description  |
+|--------------|--------|--------------|
+| `scenarioId` | string | Scenario ID  |
+
+**Query parameters**
+
+| Parameter | Type   | Default | Description                     |
+|-----------|--------|---------|---------------------------------|
+| `locale`  | string | `"en"`  | Locale for all returned strings |
 
 **Response `200`**
 
@@ -122,12 +141,15 @@ Creates a new game session for a given scenario and role.
 {
   "scenarioId": "verdun-1916",
   "roleId": "falkenhayn",
+  "locale": "zh-CN",
   "aiProvider": {
     "provider": "deepseek",
     "model": "deepseek-chat"
   }
 }
 ```
+
+`locale` is optional. Accepted values: `"en"`, `"ja"`, `"zh-CN"`. Defaults to `"en"`. Once set, the locale cannot be changed for this session.
 
 `aiProvider` is optional. When omitted, the server default is used. Valid values:
 
@@ -147,10 +169,11 @@ Creates a new game session for a given scenario and role.
     "scenarioId": "verdun-1916",
     "roleId": "falkenhayn",
     "status": "active",
+    "locale": "zh-CN",
     "startedAt": "2026-03-15T10:00:00Z",
     "aiProvider": { "provider": "deepseek", "model": "deepseek-chat" }
   },
-  "scene": { /* See Scene response shape below */ }
+  "scene": { /* See Scene response shape below — all strings in zh-CN */ }
 }
 ```
 
@@ -158,12 +181,13 @@ Sets `tc_session` cookie to the session ID.
 
 **Errors**
 
-| Code                   | Status | Description                                      |
-|------------------------|--------|--------------------------------------------------|
-| `SCENARIO_NOT_FOUND`   | 404    | Scenario ID does not exist                       |
-| `ROLE_NOT_FOUND`       | 404    | Role ID does not exist in this scenario          |
-| `INVALID_AI_PROVIDER`  | 400    | `provider` value is not `"claude"` or `"deepseek"` |
-| `INVALID_AI_MODEL`     | 400    | `model` is not valid for the specified provider  |
+| Code                   | Status | Description                                                  |
+|------------------------|--------|--------------------------------------------------------------|
+| `SCENARIO_NOT_FOUND`   | 404    | Scenario ID does not exist                                   |
+| `ROLE_NOT_FOUND`       | 404    | Role ID does not exist in this scenario                      |
+| `INVALID_LOCALE`       | 400    | `locale` is not `"en"`, `"ja"`, or `"zh-CN"`                |
+| `INVALID_AI_PROVIDER`  | 400    | `provider` value is not `"claude"` or `"deepseek"`           |
+| `INVALID_AI_MODEL`     | 400    | `model` is not valid for the specified provider              |
 
 ---
 
@@ -186,6 +210,7 @@ Returns the current session state, including the active scene and decision histo
     "scenarioId": "verdun-1916",
     "roleId": "falkenhayn",
     "status": "active",
+    "locale": "zh-CN",
     "startedAt": "2026-03-15T10:00:00Z",
     "lastActivityAt": "2026-03-15T10:12:00Z",
     "decisionCount": 2,
@@ -444,6 +469,7 @@ Exceeded limits return `429 Too Many Requests`.
 | `SESSION_NOT_COMPLETE` | 409         | Summary requested before session has ended           |
 | `INVALID_CHOICE`       | 400         | Choice ID not valid for the current scene            |
 | `CHOICE_UNAVAILABLE`   | 400         | Choice conditions not met by current game state      |
+| `INVALID_LOCALE`       | 400         | Locale is not `"en"`, `"ja"`, or `"zh-CN"`           |
 | `VALIDATION_ERROR`     | 400         | Request body failed schema validation                |
 | `INVALID_AI_PROVIDER`  | 400         | `provider` is not `"claude"` or `"deepseek"`         |
 | `INVALID_AI_MODEL`     | 400         | `model` is not valid for the specified provider      |

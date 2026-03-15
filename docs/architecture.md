@@ -6,6 +6,8 @@ Timeline Commander is a mobile-first, text-based historical role-playing game th
 
 The AI orchestration layer is **provider-agnostic**. Both **Anthropic Claude** and **DeepSeek** are supported as interchangeable backends. The active provider is selected via environment configuration and can be overridden per session at creation time.
 
+The system supports **three locales**: English (`en`), Japanese (`ja`), and Simplified Chinese (`zh-CN`). All user-facing content is authored as `LocalizedString` objects with all three locales present. The player's locale is set at session creation and cannot be changed mid-session.
+
 ---
 
 ## System Layers
@@ -60,6 +62,8 @@ The AI orchestration layer is **provider-agnostic**. Both **Anthropic Claude** a
 - Designed mobile-first: `max-width: 600px` core layout, then scales up
 - No client-side game state beyond what the API returns in each response
 - Optimistic UI for decision submission; full state refresh from server
+- Locale is passed to the server at session creation; the client stores it in a cookie (`tc_locale`) for subsequent requests. No client-side translation — all text arrives pre-resolved from the API.
+- `lang` attribute on `<html>` is set per locale for correct browser rendering of CJK fonts
 
 ### 2. API Layer
 
@@ -79,7 +83,8 @@ All endpoints are documented in `api.md`.
 
 Core logic, independent of HTTP or AI concerns:
 
-- **ScenarioLoader** — reads and validates scenario content files
+- **ScenarioLoader** — reads and validates scenario content files; rejects any `LocalizedString` missing a required locale
+- **LocaleResolver** — resolves `LocalizedString` fields to a plain `string` for a given `Locale` before data leaves the engine. All content passed to the AI layer and returned to the API layer is already locale-resolved.
 - **SessionManager** — creates, reads, and updates game sessions
 - **DecisionProcessor** — validates choice, applies state changes, resolves next scene
 - **StateEvaluator** — checks branching conditions against game state variables
@@ -189,6 +194,9 @@ Reduces infrastructure scope. Session ID in a cookie is sufficient for a solo pl
 
 **Why is the game engine separate from the AI layer?**
 Game correctness (valid transitions, state integrity) must not depend on AI output. The engine runs deterministically; AI provides prose only. This makes the game testable without API calls.
+
+**Why is locale resolution server-side?**
+Sending `LocalizedString` objects to the client and resolving there would expose all locale variants in every response, tripling payload size for content. Resolving on the server means the client receives only the string it needs. It also means locale logic is in one place and cannot drift between client and server implementations.
 
 **Why a provider-agnostic AI layer?**
 Locking to a single AI vendor creates cost and availability risk. Both Claude and DeepSeek produce high-quality instruction-following text suitable for constrained historical narration. DeepSeek offers a cost-effective alternative, and `deepseek-reasoner` can improve summary coherence. The adapter pattern lets the active provider be swapped via environment config with no code changes.
