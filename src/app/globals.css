@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  --tc-bg: #1a1610;
+  --tc-surface: #231f18;
+  --tc-border: #3d3628;
+  --tc-text: #e8dcc8;
+  --tc-muted: #8f7e65;
+  --tc-accent: #c8a96e;
+  --tc-accent-hover: #dbbf83;
+  --tc-choice-bg: #2a2419;
+  --tc-choice-hover: #342e22;
+  --tc-danger: #b85c38;
+}
+
+@theme inline {
+  --color-background: var(--tc-bg);
+  --color-foreground: var(--tc-text);
+  --font-sans: Georgia, "Times New Roman", serif;
+  --font-mono: "Courier New", Courier, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--tc-bg);
+  color: var(--tc-text);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: var(--tc-bg);
+  color: var(--tc-text);
+  min-height: 100dvh;
+  margin: 0;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--tc-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--tc-border);
+  border-radius: 3px;
+}
+
+/* Typography helpers */
+.tc-prose p {
+  margin: 0 0 1rem;
+}
+
+/* Animated pulse for loading */
+@keyframes tc-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+.tc-pulse {
+  animation: tc-pulse 1.5s ease-in-out infinite;
+}

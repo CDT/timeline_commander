@@ -1,0 +1,112 @@
+{
+  "id": "verdun-1916-nurse-scene-002",
+  "scenarioId": "verdun-1916",
+  "title": "Triage",
+  "date": {
+    "en": "March 1, 1916",
+    "ja": "1916年3月1日",
+    "zh-CN": "1916年3月1日"
+  },
+  "location": {
+    "en": "Field Hospital, Verdun sector",
+    "ja": "野戦病院、ヴェルダン方面",
+    "zh-CN": "野战医院，凡尔登方向"
+  },
+  "narrativePrompt": {
+    "en": "Eight days into the battle, the hospital is beyond capacity. Wounded men lie in the courtyard. Supplies are running out faster than the Voie Sacrée convoys can replenish them. Dr. Renard has not slept in thirty-six hours. Neither has Marie. A convoy has just arrived with sixty-three men. There is morphine for perhaps thirty. There is surgical capacity for perhaps twenty. Three of the incoming men are clearly beyond saving — their wounds are unsurvivable and treating them would consume resources that might save five others. One of them is barely twenty years old and is conscious enough to recognize that everyone is walking past him.",
+    "ja": "戦いが始まって8日、病院は収容能力を超えている。負傷した男たちが中庭に横たわっている。物資は聖なる道の輸送車が補充できる速さより早く尽きていく。ルナール医師は36時間眠っていない。マリーも同様だ。63人の男を乗せた輸送隊が到着したばかりだ。モルヒネはおそらく30人分しかない。外科的処置能力はおそらく20人分しかない。到着した3人は明らかに救いようがない——彼らの傷は生き残れないものであり、彼らを治療すると他の5人を救えるかもしれないリソースが消費される。そのうちの1人はかろうじて20歳で、全員が自分の前を歩き過ぎていることを認識できるほど意識がある。",
+    "zh-CN": "战役开始第八天，医院已超出容量。受伤的士兵躺在院子里。物资消耗速度超过圣路车队的补充速度。勒纳尔医生已经36小时没有睡觉了。马里也是如此。一支车队刚刚到达，带来了六十三名伤员。吗啡大概只够三十人。手术能力大概只够二十人。新到的三名伤员显然已无法救治——他们的伤势无法存活，救治他们将消耗可能救活其他五人的资源。其中一人勉强二十岁，意识清醒到能认出所有人都从他身边走过。"
+  },
+  "situationReport": [
+    {
+      "en": "63 new casualties have arrived — hospital capacity is at 340% of intended maximum",
+      "ja": "63人の新たな死傷者が到着——病院の収容能力は意図された最大値の340%に達している",
+      "zh-CN": "63名新伤员已到达——医院容量已达预定最大值的340%"
+    },
+    {
+      "en": "Morphine stocks will last approximately 8 hours at current demand",
+      "ja": "モルヒネの在庫は現在の需要で約8時間持つ",
+      "zh-CN": "按目前需求，吗啡存量大约还能维持8小时"
+    },
+    {
+      "en": "Next supply convoy expected in 14–18 hours",
+      "ja": "次の補給車列は14〜18時間後に到着予定",
+      "zh-CN": "下一批补给车队预计14-18小时后到达"
+    },
+    {
+      "en": "Three incoming men are unsalvageable — fatal wounds, survivable only with resources that don't exist",
+      "ja": "到着した3人は救いようがない——致命傷であり、存在しないリソースがあれば辛うじて生き延びられる",
+      "zh-CN": "三名到来的伤员无法救治——致命伤，只有不存在的资源才能使其存活"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Save as many men as possible with available resources",
+      "ja": "利用可能なリソースでできるだけ多くの男性を救う",
+      "zh-CN": "用现有资源尽可能多地救治伤员"
+    },
+    {
+      "en": "Make triage decisions that are defensible and that you can live with",
+      "ja": "弁護可能であり、あなたが折り合いをつけられるトリアージの決断を下す",
+      "zh-CN": "做出可以辩护且您能接受的分诊决策"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Supplies are finite — treating one person always means not treating another",
+      "ja": "物資は有限——一人を治療することは常に別の誰かを治療しないことを意味する",
+      "zh-CN": "物资有限——救治一人总意味着不救治另一人"
+    },
+    {
+      "en": "The conscious, dying soldier can hear and understand what is happening around him",
+      "ja": "意識のある、死にかけている兵士は周囲で何が起きているかを聞いて理解できる",
+      "zh-CN": "那名有意识的垂死士兵能听到并理解周围发生的一切"
+    }
+  ],
+  "choices": [
+    {
+      "id": "nurse-scene-002-choice-a",
+      "text": {
+        "en": "Apply strict triage. Give morphine for comfort to the unsalvageable men and focus all surgical resources on those who can be saved.",
+        "ja": "厳格なトリアージを適用する。救いようがない男たちに楽にするためのモルヒネを与え、すべての外科的リソースを救える人々に集中させる。",
+        "zh-CN": "实施严格分诊。给无法救治的伤员吗啡以减轻痛苦，将所有手术资源集中于可以救治的伤员。"
+      },
+      "historicalContext": "The standard triage protocol used in WWI field hospitals.",
+      "outcomePrompt": {
+        "en": "You make the call. Three men receive morphine and are placed in the corner of the ward where a chaplain is waiting. You do not look at the young one's face as you move on. Over the next twelve hours, your surgical team saves nineteen men who would otherwise have died. You do not know how to feel about the arithmetic. Late that night, Dr. Renard finds you outside in the courtyard. He does not say anything. He sits next to you for a while. That is enough.",
+        "ja": "あなたは決断を下す。3人の男がモルヒネを受け取り、牧師が待っている病棟の隅に置かれる。あなたは次に進む時、若い兵士の顔を見ない。次の12時間で、あなたの外科チームは他の方法なら死んでいたであろう19人の男を救う。あなたはその計算についてどう感じるか分からない。その夜遅く、ルナール医師が中庭の外であなたを見つける。彼は何も言わない。しばらくあなたの隣に座る。それで十分だ。",
+        "zh-CN": "您做了决定。三名伤员获得吗啡，被安置在有牧师等候的病房角落。您继续前行时没有看那个年轻人的脸。在接下来的十二小时里，您的外科团队救活了十九名本会死去的士兵。您不知道该如何看待这道算术题。那天深夜，勒纳尔医生在院子外找到您。他什么也没说。他在您旁边坐了一会儿。这就足够了。"
+      },
+      "nextSceneId": "verdun-1916-nurse-scene-003",
+      "stateChanges": [
+        { "variable": "patientsSaved", "operation": "add", "value": 19 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": -25 },
+        { "variable": "staffMorale", "operation": "add", "value": -10 },
+        { "variable": "drRenardRelationship", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "nurse-scene-002-choice-b",
+      "text": {
+        "en": "Try to treat the young soldier. He is conscious and frightened. You cannot walk past him.",
+        "ja": "若い兵士を治療しようとする。彼は意識があり怯えている。あなたは彼の前を通り過ぎることができない。",
+        "zh-CN": "尝试救治那名年轻士兵。他有意识，心里害怕。您无法从他身边走过。"
+      },
+      "historicalContext": "A human impulse that cost resources — and sometimes the nurse's sanity.",
+      "outcomePrompt": {
+        "en": "You stop. You take the young man's hand. You spend forty minutes trying to stabilize a wound that cannot be stabilized. He dies anyway, at 0340. In that forty minutes, two other men in the salvageable group deteriorate past the point where surgery can help. Dr. Renard finds you afterward. He is not angry. He looks at you with something worse than anger — understanding. 'We can't do this,' he says quietly. 'Not every time. We will break.' You know he is right. You also know you would do the same thing again.",
+        "ja": "あなたは立ち止まる。若い兵士の手を握る。あなたは安定させることのできない傷を安定させようとして40分を費やす。彼はいずれにせよ午前3時40分に死ぬ。その40分間で、救えるグループの他の2人の男が外科手術が助けられる段階を超えて悪化する。ルナール医師がその後あなたを見つける。彼は怒っていない。怒りよりも悪いもの——理解——であなたを見る。「これはできない」と彼は静かに言う。「毎回ではない。我々は壊れる。」あなたは彼が正しいことを知っている。あなたはまた、同じことをもう一度するだろうとも知っている。",
+        "zh-CN": "您停下来了。您握住年轻人的手。您花了四十分钟试图稳定一处无法稳定的伤口。他还是在凌晨3点40分去世了。在那四十分钟里，可救治组中的另外两名士兵恶化到超过手术能帮助的程度。勒纳尔医生之后找到您。他没有生气。他用比愤怒更糟糕的东西——理解——看着您。\"我们不能这样做，\"他轻声说，\"不是每次。我们会崩溃的。\"您知道他是对的。您也知道您会再次做同样的事。"
+      },
+      "nextSceneId": "verdun-1916-nurse-scene-003",
+      "stateChanges": [
+        { "variable": "patientsSaved", "operation": "add", "value": 14 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": -30 },
+        { "variable": "staffMorale", "operation": "add", "value": -20 },
+        { "variable": "drRenardRelationship", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "roleFilter": ["verdun-nurse"],
+  "isTerminal": false
+}

@@ -1,0 +1,247 @@
+{
+  "id": "verdun-1916",
+  "title": {
+    "en": "Battle of Verdun",
+    "ja": "ヴェルダンの戦い",
+    "zh-CN": "凡尔登战役"
+  },
+  "period": {
+    "en": "World War I",
+    "ja": "第一次世界大戦",
+    "zh-CN": "第一次世界大战"
+  },
+  "dates": {
+    "start": "1916-02-21",
+    "end": "1916-12-18"
+  },
+  "location": {
+    "en": "Verdun, France",
+    "ja": "フランス、ヴェルダン",
+    "zh-CN": "法国凡尔登"
+  },
+  "historicalOverview": {
+    "en": "The Battle of Verdun was one of the longest and most destructive battles of the First World War. Fought between the German and French armies on the Western Front, it lasted ten months and resulted in nearly a million casualties combined. The German offensive, codenamed Operation Judgement, was conceived by Chief of the German General Staff Erich von Falkenhayn with the stated aim of bleeding France white by attacking a position so psychologically significant that France would be compelled to defend it at any cost. Verdun had been a fortified city of immense symbolic value to France for centuries. The battle began on 21 February 1916 with a massive artillery bombardment and continued until December, consuming entire divisions on both sides in a grinding war of attrition.",
+    "ja": "ヴェルダンの戦いは、第一次世界大戦における最も長く、最も壊滅的な戦いの一つでした。西部戦線でドイツ軍とフランス軍の間で戦われ、10ヶ月間続き、両軍合わせて約100万人の死傷者を出しました。ドイツの攻勢は「審判作戦」というコードネームで、ドイツ参謀総長エーリッヒ・フォン・ファルケンハインによって立案されました。その目的は、フランスが何としても守らざるを得ないほど心理的に重要な拠点を攻撃することで、フランスを「白血死」させることでした。ヴェルダンは数世紀にわたってフランスにとって計り知れない象徴的価値を持つ要塞都市でした。戦いは1916年2月21日の大規模な砲撃で始まり、12月まで続き、双方の師団全体が消耗戦の中で消えていきました。",
+    "zh-CN": "凡尔登战役是第一次世界大战中持续时间最长、破坏性最强的战役之一。这场战役在西线德法两军之间进行，历时十个月，双方伤亡合计近百万人。德国的攻势代号为"审判行动"，由德国参谋总长埃里希·冯·法金汉构思，其明确目的是通过攻击一个对法国具有重要心理意义的阵地来消耗法国的力量，迫使法国不惜一切代价守卫。几个世纪以来，凡尔登对法国具有不可估量的象征价值。战役于1916年2月21日以大规模炮击开始，持续到12月，在消耗战中双方整个师都被消耗殆尽。"
+  },
+  "realWorldOutcome": {
+    "en": "Despite initial German gains, the French held Verdun. By December 1916, French counterattacks had recaptured most lost ground. Germany had failed to achieve a decisive breakthrough and suffered casualties comparable to France's. Falkenhayn was removed from command in August 1916 and replaced by Hindenburg and Ludendorff. The battle became a defining trauma of French national memory and is still commemorated today.",
+    "ja": "当初のドイツの前進にもかかわらず、フランスはヴェルダンを守り抜きました。1916年12月までに、フランスの反撃によって失った土地のほとんどが奪還されました。ドイツは決定的な突破口を開くことができず、フランスと同様の損害を被りました。ファルケンハインは1916年8月に指揮権を解かれ、ヒンデンブルクとルーデンドルフに交代しました。この戦いはフランスの国民的記憶における決定的な傷となり、今日でも追悼されています。",
+    "zh-CN": "尽管德国最初取得了一些进展，但法国守住了凡尔登。到1916年12月，法国的反攻已夺回大部分失地。德国未能实现决定性突破，伤亡与法国相当。法金汉于1916年8月被解除指挥职务，由兴登堡和鲁登道夫接替。这场战役成为法国国家记忆中决定性的创伤，至今仍被纪念。"
+  },
+  "keyFigures": [
+    {
+      "id": "petain",
+      "name": "Philippe Pétain",
+      "role": {
+        "en": "Commander of the French Second Army at Verdun",
+        "ja": "ヴェルダンにおけるフランス第二軍司令官",
+        "zh-CN": "凡尔登法国第二军团司令"
+      },
+      "faction": "France",
+      "description": {
+        "en": "The French general who organized the defense of Verdun, famous for establishing the Voie Sacrée supply route and his stubborn commitment to holding the fortress city.",
+        "ja": "ヴェルダン防衛を組織したフランス将軍。「聖なる道」補給路を確立したことと、要塞都市を守るための頑固な決意で有名。",
+        "zh-CN": "组织凡尔登防御的法国将军，以建立"圣路"补给线和坚守要塞城市的顽强决心而闻名。"
+      }
+    },
+    {
+      "id": "joffre",
+      "name": "Joseph Joffre",
+      "role": {
+        "en": "Commander-in-Chief of the French Army",
+        "ja": "フランス軍最高司令官",
+        "zh-CN": "法国军队总司令"
+      },
+      "faction": "France",
+      "description": {
+        "en": "The overall commander of French forces, under intense political pressure to hold Verdun without weakening the planned Somme offensive.",
+        "ja": "フランス軍の最高司令官。ヴェルダンを守りながら、計画中のソンム攻勢を弱めないよう強い政治的圧力にさらされていた。",
+        "zh-CN": "法国军队总司令，在保守凡尔登的同时，还承受着不削弱计划中的索姆河攻势的巨大政治压力。"
+      }
+    },
+    {
+      "id": "crown-prince",
+      "name": "Crown Prince Wilhelm",
+      "role": {
+        "en": "Commander of the German Fifth Army",
+        "ja": "ドイツ第五軍司令官",
+        "zh-CN": "德国第五军团司令"
+      },
+      "faction": "Germany",
+      "description": {
+        "en": "The Kaiser's son and nominal commander of the German forces at Verdun, increasingly doubtful of the operation's viability as casualties mounted.",
+        "ja": "カイザーの息子でヴェルダンにおけるドイツ軍の名目上の司令官。損害が増大するにつれ、作戦の実行可能性に疑念を抱くようになった。",
+        "zh-CN": "皇帝之子，凡尔登德国军队的名义指挥官，随着伤亡不断增加，对行动的可行性越来越怀疑。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "falkenhayn",
+      "scenarioId": "verdun-1916",
+      "name": "Erich von Falkenhayn",
+      "title": {
+        "en": "Chief of the German General Staff",
+        "ja": "ドイツ参謀総長",
+        "zh-CN": "德国参谋总长"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are General Erich von Falkenhayn, Chief of the German General Staff. It is February 1916. For over a year, the war on the Western Front has ground to a stalemate that costs both sides enormously in blood and treasure. You have concluded that Germany cannot win a war of attrition against the combined resources of France and Britain. Your solution: choose a target so symbolically vital to France that Paris will be compelled to pour every available man into its defense, until the French army bleeds itself to death. You have chosen Verdun. The Kaiser has approved your plan. The artillery is in position. The operation begins tomorrow. Every decision you make now will shape how history remembers this moment — and whether Germany achieves the decisive blow you have promised.",
+        "ja": "あなたはドイツ参謀総長、エーリッヒ・フォン・ファルケンハイン将軍です。1916年2月。1年以上、西部戦線での戦争は両軍に莫大な血と財を費やしながら膠着状態に陥っています。あなたはフランスとイギリスの合算された資源に対する消耗戦でドイツが勝てないと結論付けました。あなたの解決策：フランスにとって象徴的に不可欠な標的を選び、パリがフランス軍が死ぬまで出血するまで全ての可用兵士をその防衛に投入せざるを得ないようにすることです。あなたはヴェルダンを選びました。カイザーは計画を承認しました。砲兵は配置についています。作戦は明日始まります。今あなたが下す全ての決断が、歴史がこの瞬間をどのように記憶するか、そしてドイツがあなたが約束した決定的打撃を達成できるかを形作るでしょう。",
+        "zh-CN": "您是德国参谋总长埃里希·冯·法金汉将军。1916年2月，战争已持续逾年，西线战事陷入僵局，双方均付出了巨大的人员和物资代价。您已得出结论：德国无法赢得与法英联合资源的消耗战。您的解决方案：选择一个对法国具有如此重要象征意义的目标，迫使巴黎不惜一切将所有可用兵力投入防御，直至法国军队流尽鲜血。您选择了凡尔登。皇帝已批准您的计划。炮兵已就位。行动明日开始。您现在做出的每一个决定将决定历史如何铭记这一刻——以及德国能否实现您承诺的决定性打击。"
+      },
+      "objectives": [
+        {
+          "en": "Bleed the French army to the point of operational collapse",
+          "ja": "フランス軍を作戦崩壊の点まで出血させる",
+          "zh-CN": "消耗法国军队至作战崩溃的程度"
+        },
+        {
+          "en": "Maintain sufficient German reserves to sustain the offensive",
+          "ja": "攻勢を維持するために十分なドイツの予備軍を維持する",
+          "zh-CN": "维持足够的德国预备队以持续进攻"
+        },
+        {
+          "en": "Demonstrate to the Kaiser and the High Command that the strategy is working",
+          "ja": "カイザーと最高司令部に戦略が機能していることを証明する",
+          "zh-CN": "向皇帝和最高司令部证明战略正在发挥作用"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "You cannot withdraw without political consequences; the Kaiser and German public expect victory",
+          "ja": "政治的影響なしに撤退することはできない。カイザーとドイツ国民は勝利を期待している",
+          "zh-CN": "没有政治后果就无法撤退；皇帝和德国公众期待胜利"
+        },
+        {
+          "en": "German reserves on the Western Front are finite; you cannot sustain unlimited losses",
+          "ja": "西部戦線のドイツ予備軍には限りがある。無限の損失は維持できない",
+          "zh-CN": "西线德国预备队有限；无法承受无限损失"
+        },
+        {
+          "en": "Crown Prince Wilhelm commands the Fifth Army in the field; his cooperation is necessary",
+          "ja": "皇太子ヴィルヘルムが野外の第五軍を指揮している。彼の協力が必要である",
+          "zh-CN": "皇太子威廉在前线指挥第五军团；他的合作是必要的"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Allied pressure on other fronts may force Germany to divert reserves away from Verdun",
+          "ja": "他の戦線への連合国の圧力により、ドイツがヴェルダンから予備軍を転用せざるを得なくなる可能性がある",
+          "zh-CN": "协约国在其他战线的压力可能迫使德国将预备队从凡尔登调走"
+        },
+        {
+          "en": "German casualties are mounting faster than anticipated; the 'bleeding' is not one-sided",
+          "ja": "ドイツ軍の死傷者は予想より速く増加している。「出血」は一方的ではない",
+          "zh-CN": "德国伤亡增长速度超出预期；\"消耗\"并非单方面的"
+        },
+        {
+          "en": "Political rivals in Berlin are watching for signs that you have overreached",
+          "ja": "ベルリンの政治的ライバルたちは、あなたが無理をしている兆候を監視している",
+          "zh-CN": "柏林的政治对手正在寻找您过度延伸的迹象"
+        }
+      ],
+      "startingSceneId": "verdun-1916-scene-001",
+      "initialState": {
+        "germanCasualties": 0,
+        "frenchCasualties": 0,
+        "germanMorale": 80,
+        "frenchMorale": 70,
+        "germansHoldFortDouaumont": false,
+        "reservesCommitted": 0,
+        "kaisersConfidence": 80
+      }
+    },
+    {
+      "id": "verdun-nurse",
+      "scenarioId": "verdun-1916",
+      "name": "Marie Leclerc",
+      "title": {
+        "en": "Field Nurse, French Army Medical Corps",
+        "ja": "フランス陸軍医療部隊、野戦看護師",
+        "zh-CN": "法国陆军医疗队野战护士"
+      },
+      "perspective": "civilian",
+      "isHistoricalFigure": false,
+      "briefing": {
+        "en": "You are Marie Leclerc, a nurse from Lyon who volunteered for the French Army Medical Corps after your brother was wounded at Ypres. You are stationed at a field hospital near Souilly, the main logistics hub for the French defense of Verdun. You have been here three months. You have seen more death than you ever imagined possible. The wounded come in waves, faster than you can treat them. You know nothing of the generals' strategies or the maps in Paris. You only know what arrives at your door each morning: men broken by artillery, gas, and mud. Today, February 21st, the guns are louder than anything you have ever heard.",
+        "ja": "あなたはマリー・ルクレール、リヨン出身の看護師で、兄がイープルで負傷した後にフランス陸軍医療部隊に志願しました。あなたはヴェルダンのフランス防衛の主要な兵站拠点であるスイイ近くの野戦病院に配属されています。ここに来て3ヶ月になります。あなたは想像していた以上の死を目にしてきました。負傷者は波のように押し寄せ、治療が追いつかないほどです。あなたは将軍たちの戦略やパリの地図については何も知りません。あなたが知っているのは毎朝玄関に届くもの、つまり砲撃、ガス、泥によって打ち砕かれた人々だけです。今日、2月21日、銃声はこれまでに聞いたことがないほど大きくなっています。",
+        "zh-CN": "您是马里·勒克莱尔，来自里昂的护士。您的兄弟在伊普尔受伤后，您志愿加入了法国陆军医疗队。您被分配到苏伊利附近的一所野战医院，那里是凡尔登法国防御的主要后勤枢纽。您已经在这里工作了三个月。您目睹的死亡比您所能想象的还要多。伤员一波接一波地涌来，多得无法及时救治。您对将军们的战略和巴黎的地图一无所知。您只知道每天早上送到门口的东西：被炮击、毒气和泥土摧残的士兵。今天，2月21日，枪炮声比您以往听到的任何声音都要响亮。"
+      },
+      "objectives": [
+        {
+          "en": "Keep as many wounded soldiers alive as your resources allow",
+          "ja": "リソースが許す限り、できるだけ多くの負傷した兵士を生かし続ける",
+          "zh-CN": "在资源允许的情况下，尽可能多地救活伤员"
+        },
+        {
+          "en": "Maintain your own physical and mental capacity to continue working",
+          "ja": "働き続けるための自分自身の身体的・精神的能力を維持する",
+          "zh-CN": "维持自己继续工作的身心能力"
+        },
+        {
+          "en": "Protect the patients and staff from shelling and other threats",
+          "ja": "患者とスタッフを砲撃やその他の脅威から守る",
+          "zh-CN": "保护患者和工作人员免受炮击和其他威胁"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Supplies are rationed and frequently delayed or lost on the Voie Sacrée",
+          "ja": "物資は配給制で、聖なる道では頻繁に遅延したり紛失したりする",
+          "zh-CN": "物资受到配给限制，在圣路上经常延误或丢失"
+        },
+        {
+          "en": "You have no authority over military decisions; you can only react to what the army sends you",
+          "ja": "あなたには軍事的決定に関する権限はない。軍が送ってくるものに対応するしかない",
+          "zh-CN": "您对军事决策没有权力；您只能对军队派来的事物作出反应"
+        },
+        {
+          "en": "The hospital is understaffed; every choice about who to treat first has consequences",
+          "ja": "病院は人手不足で、誰を最初に治療するかという選択にはそれぞれ結果が伴う",
+          "zh-CN": "医院人手不足；关于优先治疗谁的每一个选择都有后果"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "The scale of the bombardment suggests this will be far worse than any previous battle",
+          "ja": "砲撃の規模から、これがこれまでのどの戦いよりもはるかにひどいものになることが示唆される",
+          "zh-CN": "炮击的规模表明这将比以往任何战役都要严重得多"
+        },
+        {
+          "en": "Your colleague Dr. Renard wants to move the hospital further back; you must decide whether to support him",
+          "ja": "同僚のルナール医師は病院をさらに後方に移動させたがっている。あなたは彼を支持するかどうかを決めなければならない",
+          "zh-CN": "您的同事勒纳尔医生想要将医院迁移到更后方；您必须决定是否支持他"
+        },
+        {
+          "en": "Letters from home remind you that people in Lyon have no idea what is happening here",
+          "ja": "故郷からの手紙は、リヨンの人々がここで何が起きているかを全く知らないことを思い出させる",
+          "zh-CN": "来自家乡的信件提醒您，里昂的人们完全不知道这里发生了什么"
+        }
+      ],
+      "startingSceneId": "verdun-1916-nurse-scene-001",
+      "initialState": {
+        "suppliesRemaining": 70,
+        "staffMorale": 65,
+        "patientsSaved": 0,
+        "hospitalIntegrity": 100,
+        "drRenardRelationship": 50
+      }
+    }
+  ],
+  "sceneIds": [
+    "verdun-1916-scene-001",
+    "verdun-1916-scene-002",
+    "verdun-1916-scene-003",
+    "verdun-1916-scene-004",
+    "verdun-1916-scene-005",
+    "verdun-1916-nurse-scene-001",
+    "verdun-1916-nurse-scene-002",
+    "verdun-1916-nurse-scene-003"
+  ],
+  "tags": ["WWI", "military", "France", "Germany", "trench warfare"],
+  "difficulty": "intermediate"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "verdun-1916-nurse-scene-001",
+  "scenarioId": "verdun-1916",
+  "title": "The Bombardment Begins",
+  "date": {
+    "en": "February 21, 1916",
+    "ja": "1916年2月21日",
+    "zh-CN": "1916年2月21日"
+  },
+  "location": {
+    "en": "Field Hospital No. 14, Souilly, France",
+    "ja": "第14野戦病院、フランス、スイイ",
+    "zh-CN": "法国苏伊利第14野战医院"
+  },
+  "narrativePrompt": {
+    "en": "Marie Leclerc has been awake since four in the morning. At nine, the sound begins — a low rumble to the north that shakes the windows of the converted schoolhouse serving as the ward. By noon it is deafening. Dr. Renard rushes in with a report from a dispatch rider: the German offensive has begun, and the casualty estimates are unlike anything in previous battles. Renard has a plan: he wants to move the hospital eight kilometers further back, to Bar-le-Duc, arguing the bombardment signals a German advance that could threaten Souilly within days. He is asking Marie to support him when he presents this to the commanding medical officer. But the Voie Sacrée runs through Souilly — moving the hospital means wounded men traveling further on that brutal road.",
+    "ja": "マリー・ルクレールは朝4時から起きている。9時に音が始まる——北の方からの低い轟きが、病棟として使われている改装された校舎の窓を揺らす。正午までに耳が聞こえなくなるほどの大きさになる。ルナール医師が急使からの報告を持って駆け込んでくる：ドイツの攻勢が始まり、死傷者の見積もりはこれまでのどの戦闘とも異なるというのだ。ルナールには計画がある：彼は病院をさらに8キロ後方のバール＝ル＝デュックに移動させたい。砲撃はドイツの前進を示しており、数日以内にスイイを脅かす可能性があると主張している。彼はマリーに、これを医療指揮官に提示する際に支持してほしいと頼んでいる。しかし聖なる道はスイイを通っている——病院を移動させることは、負傷者があの過酷な道をさらに遠く移動することを意味する。",
+    "zh-CN": "马里·勒克莱尔从凌晨四点就醒着了。九点钟，声音开始了——北方传来低沉的隆隆声，震动着作为病房的改建学校的窗户。到正午时分已经震耳欲聋。勒纳尔医生拿着一名信使的报告冲了进来：德国攻势已经开始，伤亡估计与以往任何战斗都不同。勒纳尔有一个计划：他想将医院迁移到距后方八公里的巴勒迪克，理由是炮击预示着德国的推进，可能在数天内威胁到苏伊利。他请求马里在向医疗指挥官提出此事时支持他。但圣路经过苏伊利——移动医院意味着伤员要在那条艰难的道路上走更远的路。"
+  },
+  "situationReport": [
+    {
+      "en": "German bombardment began at 0715 — heaviest artillery fire anyone here has ever heard",
+      "ja": "ドイツ軍の砲撃が07時15分に始まった——ここにいる誰もが聞いたことのある最も激しい砲撃",
+      "zh-CN": "德国炮击于07:15开始——这里所有人听过的最猛烈炮击"
+    },
+    {
+      "en": "First casualties expected within hours — Dr. Renard estimates 200+ per day initially",
+      "ja": "最初の死傷者は数時間以内に予想される——ルナール医師は最初は1日200人以上と見積もっている",
+      "zh-CN": "预计数小时内出现首批伤员——勒纳尔医生估计初期每天超过200人"
+    },
+    {
+      "en": "Hospital has supplies for approximately 72 hours of heavy operations",
+      "ja": "病院には約72時間の激しい作戦に対応できる物資がある",
+      "zh-CN": "医院有约72小时重型手术的物资"
+    },
+    {
+      "en": "Dr. Renard believes Souilly could be in artillery range within 72 hours if the German advance is swift",
+      "ja": "ルナール医師は、ドイツ軍の前進が速ければ72時間以内にスイイが砲撃圏内に入る可能性があると考えている",
+      "zh-CN": "勒纳尔医生认为如果德军推进迅速，72小时内苏伊利可能处于炮兵射程内"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Prepare the hospital to receive a massive influx of casualties",
+      "ja": "大量の死傷者を受け入れるために病院を準備する",
+      "zh-CN": "为医院准备接收大量伤员"
+    },
+    {
+      "en": "Make the right decision about the hospital's location",
+      "ja": "病院の場所について正しい決断を下す",
+      "zh-CN": "对医院位置做出正确决策"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Moving the hospital requires authorization from the commanding medical officer — Dr. Renard needs your support",
+      "ja": "病院の移動には医療指揮官の許可が必要——ルナール医師にはあなたの支持が必要",
+      "zh-CN": "移动医院需要医疗指挥官授权——勒纳尔医生需要您的支持"
+    },
+    {
+      "en": "Every hour spent preparing to move is an hour not spent preparing to treat casualties",
+      "ja": "移動の準備に費やされる1時間ごとに、死傷者の治療準備に費やされない1時間になる",
+      "zh-CN": "每花一小时准备转移就是少一小时准备救治伤员"
+    }
+  ],
+  "choices": [
+    {
+      "id": "nurse-scene-001-choice-a",
+      "text": {
+        "en": "Support Dr. Renard. Advocate for moving the hospital to Bar-le-Duc before the casualties arrive.",
+        "ja": "ルナール医師を支持する。死傷者が到着する前に病院をバール＝ル＝デュックに移動させることを主張する。",
+        "zh-CN": "支持勒纳尔医生。在伤员到来之前主张将医院迁往巴勒迪克。"
+      },
+      "historicalContext": "Some field hospitals did relocate; others stayed and were caught in the storm.",
+      "outcomePrompt": {
+        "en": "You add your voice to Dr. Renard's request. The commanding medical officer agrees reluctantly. The move takes sixteen hours. By the time the hospital is operational in Bar-le-Duc, the first convoys of wounded are already backed up on the road. Two men die in the ambulances waiting for you to be ready. But when the German advance pushes to within artillery range of Souilly three days later, your hospital is intact. Renard is quiet in the way of someone who knows he was right but wishes he hadn't been.",
+        "ja": "あなたはルナール医師の要求に自分の声を加える。医療指揮官は渋々同意する。移動には16時間かかる。病院がバール＝ル＝デュックで稼働する頃には、最初の負傷者の輸送車がすでに道路で詰まっている。2人の兵士が、あなたが準備できるのを待つ救急車の中で死亡する。しかし3日後にドイツ軍の前進がスイイの砲撃圏内まで迫ると、あなたの病院は無事だ。ルナールは正しかったことを知っているが、そうでなかったらよかったと思う人のように黙っている。",
+        "zh-CN": "您为勒纳尔医生的请求增添了您的声音。医疗指挥官勉强同意。转移花了十六个小时。当医院在巴勒迪克重新运作时，第一批运送伤员的车队已经在路上堵塞。两名士兵在救护车里等待您准备就绪时死去。但当三天后德国的推进进入苏伊利炮击范围时，您的医院完好无损。勒纳尔沉默着，像一个知道自己是对的但希望自己不是的人。"
+      },
+      "nextSceneId": "verdun-1916-nurse-scene-002",
+      "stateChanges": [
+        { "variable": "hospitalIntegrity", "operation": "set", "value": 100 },
+        { "variable": "patientsSaved", "operation": "add", "value": -2 },
+        { "variable": "drRenardRelationship", "operation": "add", "value": 20 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "nurse-scene-001-choice-b",
+      "text": {
+        "en": "Stay in Souilly. Moving will cost lives on the road. You are here to treat the wounded, not to protect yourselves.",
+        "ja": "スイイに留まる。移動すれば道路で命が失われる。あなたは自分たちを守るためではなく、負傷者を治療するためにここにいる。",
+        "zh-CN": "留在苏伊利。转移会在路上造成伤亡。您在这里是为了救治伤员，而不是保护自己。"
+      },
+      "historicalContext": "Many medical staff stayed as close to the front as possible — the Voie Sacrée made staying logistically necessary.",
+      "outcomePrompt": {
+        "en": "You tell Dr. Renard you cannot support moving. He looks at you for a long moment, then nods. The hospital stays. Within six hours the first carts arrive from the front — men with shell fragments in their chests, gas burns across their faces, legs gone below the knee. You work through the night. The volume is exactly as terrible as you feared. Souilly is shelled on the second day — two orderlies are wounded and a supply truck is destroyed. But the hospital stands. You treat four times what you would have if you had moved.",
+        "ja": "あなたはルナール医師に移動を支持できないと告げる。彼はあなたをしばらく見つめ、それからうなずく。病院は残る。6時間以内に前線から最初の荷車が到着する——胸に砲弾の破片が刺さった男たち、顔全体にガスやけどを負った男たち、膝から下がない男たち。あなたは夜通し働く。量はまさに恐れていたほど酷い。スイイは2日目に砲撃される——2人の衛生兵が負傷し、補給トラックが破壊される。しかし病院は持ちこたえる。移動していた場合の4倍の患者を治療する。",
+        "zh-CN": "您告诉勒纳尔医生您无法支持转移。他盯着您看了很长时间，然后点了点头。医院留了下来。六小时内，前线的第一批马车到达——胸部有炮弹碎片的士兵、脸部被毒气灼伤的士兵、膝盖以下截肢的士兵。您彻夜工作。数量正如您所担心的那样可怕。苏伊利在第二天遭到炮击——两名勤务兵受伤，一辆补给卡车被摧毁。但医院坚持了下来。您治疗的患者是如果转移后的四倍。"
+      },
+      "nextSceneId": "verdun-1916-nurse-scene-002",
+      "stateChanges": [
+        { "variable": "hospitalIntegrity", "operation": "add", "value": -20 },
+        { "variable": "patientsSaved", "operation": "add", "value": 15 },
+        { "variable": "drRenardRelationship", "operation": "add", "value": -10 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": -20 }
+      ]
+    }
+  ],
+  "roleFilter": ["verdun-nurse"],
+  "isTerminal": false
+}

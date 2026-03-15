@@ -1,0 +1,112 @@
+{
+  "id": "verdun-1916-scene-004",
+  "scenarioId": "verdun-1916",
+  "title": "The Somme Crisis",
+  "date": {
+    "en": "July 2, 1916",
+    "ja": "1916年7月2日",
+    "zh-CN": "1916年7月2日"
+  },
+  "location": {
+    "en": "German General Headquarters, Charleville-Mézières",
+    "ja": "ドイツ総司令部、シャルルヴィル＝メジエール",
+    "zh-CN": "德国总司令部，沙勒维尔-梅济耶尔"
+  },
+  "narrativePrompt": {
+    "en": "Yesterday, July 1st, the British launched the largest offensive in their history along the Somme — 57,000 casualties in a single day, but the British are still pushing forward. The Somme offensive is clearly designed to relieve pressure on Verdun, and it is working. German reserves on the Western Front are being pulled north to plug the British assault. Falkenhayn now faces an impossible arithmetic: continue the Verdun offensive with diminishing reserves, or redirect strength to the Somme at the cost of momentum at Verdun. His political position is already weakening. The Kaiser is asking pointed questions. And there is another option — if Germany cannot continue both operations at full strength, perhaps it is time to consider a negotiated ceasefire through neutral intermediaries before the army is bled to exhaustion.",
+    "ja": "昨日、7月1日、イギリス軍はソンムに沿って自国史上最大の攻勢を開始した——1日だけで57,000人の死傷者が出たが、イギリス軍はまだ前進している。ソンム攻勢は明らかにヴェルダンへの圧力を軽減するために設計されており、それは機能している。西部戦線のドイツ軍予備軍はイギリスの突撃を封じ込めるために北に引っ張られている。ファルケンハインは今、不可能な計算に直面している：減少する予備軍でヴェルダンの攻勢を続けるか、ヴェルダンでの勢いを犠牲にしてソンムに戦力を振り向けるか。彼の政治的立場はすでに弱まっている。カイザーは鋭い質問を投げかけている。そして別の選択肢もある——ドイツが両方の作戦を全力で続けられないなら、軍が疲弊し尽くす前に中立の仲介者を通じた交渉による休戦を検討すべき時かもしれない。",
+    "zh-CN": "昨天，7月1日，英国沿索姆河发动了其历史上最大规模的进攻——单日57000人伤亡，但英军仍在继续推进。索姆河攻势显然是为了减轻凡尔登的压力，而且正在奏效。西线的德国预备队正被抽调北上以堵住英国的进攻。法金汉现在面临着一道无解的算术题：以减少的预备队继续凡尔登攻势，还是以失去凡尔登势头为代价将兵力重新调向索姆河。他的政治地位已经在动摇。皇帝正在提出尖锐的问题。还有另一个选择——如果德国无法以全力继续两项作战，也许是时候考虑在军队耗尽之前通过中立中间人进行停战谈判了。"
+  },
+  "situationReport": [
+    {
+      "en": "British Somme offensive began July 1st — 57,000 British casualties, but significant Allied pressure on the German line",
+      "ja": "イギリス軍のソンム攻勢が7月1日に始まった——57,000人のイギリス軍死傷者が出たが、ドイツ軍戦線にかなりの連合国の圧力がかかっている",
+      "zh-CN": "英国索姆河攻势于7月1日开始——57000英军伤亡，但对德国防线形成了重大协约国压力"
+    },
+    {
+      "en": "4 German reserve divisions have already been transferred from Verdun sector to the Somme",
+      "ja": "4個のドイツ軍予備師団がすでにヴェルダン方面からソンムに転送された",
+      "zh-CN": "4个德国预备师已从凡尔登方向调往索姆河"
+    },
+    {
+      "en": "Romania is reportedly preparing to enter the war on the Allied side — a third front is possible",
+      "ja": "ルーマニアが連合国側で参戦する準備をしているとの報告がある——第三の戦線の可能性",
+      "zh-CN": "据报道罗马尼亚正准备加入协约国一方——可能开辟第三条战线"
+    },
+    {
+      "en": "Falkenhayn's critics in Berlin — including Hindenburg's supporters — are circulating reports that the Verdun strategy has failed",
+      "ja": "ベルリンのファルケンハインの批判者たち——ヒンデンブルクの支持者たちを含む——がヴェルダン戦略は失敗したという報告を広めている",
+      "zh-CN": "法金汉在柏林的批评者——包括兴登堡的支持者——正在散布凡尔登战略已经失败的报告"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Prevent German positions at Verdun from collapsing under reduced reserves",
+      "ja": "減少した予備軍のもとでヴェルダンのドイツ軍陣地が崩壊するのを防ぐ",
+      "zh-CN": "防止德国在凡尔登的阵地在预备队减少的情况下崩溃"
+    },
+    {
+      "en": "Manage the Kaiser's confidence and political pressures from Berlin",
+      "ja": "カイザーの信頼とベルリンからの政治的圧力を管理する",
+      "zh-CN": "管理皇帝的信心和来自柏林的政治压力"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Reserves cannot be in two places simultaneously — Somme and Verdun compete for the same divisions",
+      "ja": "予備軍は同時に二か所にはいられない——ソンムとヴェルダンは同じ師団をめぐって競合している",
+      "zh-CN": "预备队不能同时出现在两个地方——索姆河和凡尔登在争夺同样的师"
+    },
+    {
+      "en": "A ceasefire proposal would be seen by the Kaiser as an admission of defeat",
+      "ja": "休戦提案はカイザーに敗北の認識と見なされるだろう",
+      "zh-CN": "停战提议将被皇帝视为失败的承认"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-004-choice-a",
+      "text": {
+        "en": "Transfer reserves to the Somme and move to a purely defensive posture at Verdun.",
+        "ja": "予備軍をソンムに転送し、ヴェルダンで純粋に防衛態勢に移行する。",
+        "zh-CN": "将预备队调往索姆河，在凡尔登转入纯粹的防御态势。"
+      },
+      "historicalContext": "Close to what happened historically — German forces at Verdun were increasingly stripped to feed other fronts.",
+      "outcomePrompt": {
+        "en": "You give the order that ends the German offensive at Verdun. Reserves flow north to the Somme. At Verdun, German units dig in and shift to defense. The French notice the change within a week. Pétain quietly begins rotating rested divisions into the line and consolidating his artillery advantage. You spend the next weeks managing the Kaiser's growing anxiety, deflecting blame for the stalemate, and watching Hindenburg's star rise in Berlin. The strategic picture is not catastrophic yet — but you know your time is running out.",
+        "ja": "あなたはヴェルダンでのドイツの攻勢を終わらせる命令を下す。予備軍はソンムに北流する。ヴェルダンでは、ドイツ軍部隊が陣地を固め防衛に移行する。フランス軍は1週間以内に変化に気づく。ペタンはひそかに休養した師団を戦線に交代させ始め、砲兵の優位性を強化する。あなたは次の数週間を、カイザーの高まる不安を管理し、膠着状態の責任をかわし、ベルリンでヒンデンブルクの星が昇るのを見守ることに費やす。戦略的状況はまだ壊滅的ではないが——しかしあなたは自分の時間が切れつつあることを知っている。",
+        "zh-CN": "您下令结束德国在凡尔登的攻势。预备队向北流往索姆河。在凡尔登，德国部队固守并转入防御。法国人在一周内注意到了变化。贝当悄然开始将休整好的师轮换上线并巩固其炮兵优势。您将接下来数周时间花在处理皇帝日益增长的焦虑、转移对僵局的指责，以及眼睁睁看着兴登堡在柏林声望上升。战略局面目前还不是灾难性的——但您知道您的时间正在流逝。"
+      },
+      "nextSceneId": "verdun-1916-scene-005",
+      "stateChanges": [
+        { "variable": "reservesCommitted", "operation": "add", "value": 20 },
+        { "variable": "kaisersConfidence", "operation": "add", "value": -20 },
+        { "variable": "germanMorale", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-004-choice-b",
+      "text": {
+        "en": "Hold firm at Verdun. The Somme will exhaust the British — accept losses there and keep the pressure on France.",
+        "ja": "ヴェルダンで踏みとどまる。ソンムはイギリス軍を消耗させるだろう——そこでの損失を受け入れ、フランスへの圧力を維持する。",
+        "zh-CN": "在凡尔登坚守。索姆河将耗尽英国——接受那里的损失，继续向法国施压。"
+      },
+      "historicalContext": "A counterfactual — holding at Verdun while absorbing Somme losses would have accelerated German exhaustion.",
+      "outcomePrompt": {
+        "en": "You refuse to cede ground at Verdun. German units at the Somme fight with what they have. Casualties on both fronts surge. By the end of July, German losses at Verdun and the Somme combined exceed anything the war has yet produced. The math is becoming clear even to the Kaiser: Germany is bleeding at both ends. Your critics in Berlin grow louder. Hindenburg and Ludendorff are summoned for private consultations with the Kaiser — a signal you cannot ignore. You have bought time at Verdun. The question is whether time is running out for you.",
+        "ja": "あなたはヴェルダンで陣地を明け渡すことを拒否する。ソンムのドイツ軍部隊は手持ちのもので戦う。両戦線での死傷者が急増する。7月末までに、ヴェルダンとソンムでのドイツ軍の損失の合計はこれまでの戦争が生み出したものを超える。計算はカイザーにも明らかになりつつある：ドイツは両端で出血している。ベルリンのあなたの批判者たちはより大声になる。ヒンデンブルクとルーデンドルフはカイザーとの非公開の協議に召喚される——あなたが無視できないシグナルだ。ヴェルダンで時間を買った。問題はあなた自身の時間が切れつつあるかどうかだ。",
+        "zh-CN": "您拒绝在凡尔登放弃阵地。索姆河的德国部队以手头的力量作战。两条战线的伤亡急剧上升。到7月底，凡尔登和索姆河的德国损失合计超过战争迄今产生的任何数字。这道算术题即使对皇帝来说也变得清晰：德国在两端都在流血。您在柏林的批评者越来越大声。兴登堡和鲁登道夫被召唤与皇帝进行私下磋商——这是您无法忽视的信号。您为凡尔登争取了时间。问题是您自己的时间是否正在流逝。"
+      },
+      "nextSceneId": "verdun-1916-scene-005",
+      "stateChanges": [
+        { "variable": "germanCasualties", "operation": "add", "value": 50 },
+        { "variable": "frenchCasualties", "operation": "add", "value": 25 },
+        { "variable": "reservesCommitted", "operation": "add", "value": 40 },
+        { "variable": "kaisersConfidence", "operation": "add", "value": -25 },
+        { "variable": "germanMorale", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "roleFilter": ["falkenhayn"],
+  "isTerminal": false
+}

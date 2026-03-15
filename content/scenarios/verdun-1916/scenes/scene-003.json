@@ -1,0 +1,113 @@
+{
+  "id": "verdun-1916-scene-003",
+  "scenarioId": "verdun-1916",
+  "title": "The Question of the West Bank",
+  "date": {
+    "en": "March 6, 1916",
+    "ja": "1916年3月6日",
+    "zh-CN": "1916年3月6日"
+  },
+  "location": {
+    "en": "German General Headquarters, Charleville-Mézières",
+    "ja": "ドイツ総司令部、シャルルヴィル＝メジエール",
+    "zh-CN": "德国总司令部，沙勒维尔-梅济耶尔"
+  },
+  "narrativePrompt": {
+    "en": "The German offensive has stalled along the east bank of the Meuse. French artillery positioned on the west bank — particularly the heights of Mort-Homme — is enfilading German assault troops from the flank with devastating effect. Every advance on the east bank costs double what it should because French guns to the west can fire without interference. Crown Prince Wilhelm and his chief of staff Schmidt von Knobelsdorf are pressing Falkenhayn to extend the attack to the west bank. But doing so will double the front, consume additional reserves, and move the battle further from its original strategic purpose of attrition. This is a decision that will define the battle's entire character.",
+    "ja": "ドイツの攻勢はムーズ川東岸に沿って停滞している。西岸——特にモール・オム高地——に配置されたフランス砲兵が、ドイツ突撃部隊の側面に壊滅的な効果をもたらす縦射を行っている。西のフランス砲が妨害なく発射できるため、東岸での前進はすべて、本来の倍のコストがかかる。皇太子ヴィルヘルムと彼の参謀長シュミット・フォン・クノーベルスドルフは、ファルケンハインに西岸への攻撃拡大を迫っている。しかしそうすることで戦線は2倍になり、追加の予備軍を消費し、戦闘を消耗という当初の戦略目的からさらに遠ざける。これは戦いの全体的な性格を定義する決断である。",
+    "zh-CN": "德国进攻在默兹河东岸陷入停滞。布置在西岸的法国炮兵——尤其是死人山高地——正在从侧翼对德国突击部队进行毁灭性的纵射。由于西侧法国炮可以不受干扰地射击，东岸的每一次推进代价是应有的两倍。皇太子威廉和他的参谋长施密特·冯·克诺贝尔斯多夫正在向法金汉施压，要求将进攻扩展到西岸。但这样做将使战线加倍，消耗额外的预备队，并使战役进一步偏离其最初的消耗战略目的。这是一个将决定整场战役性质的决策。"
+  },
+  "situationReport": [
+    {
+      "en": "French artillery on the Mort-Homme heights (west bank) is inflicting severe casualties on German east-bank operations",
+      "ja": "西岸のモール・オム高地にあるフランス砲兵が、ドイツ軍の東岸作戦に甚大な損害を与えている",
+      "zh-CN": "西岸死人山高地的法国炮兵正对德军东岸作战造成严重伤亡"
+    },
+    {
+      "en": "German advance on the east bank has slowed to 200–300 meters per week",
+      "ja": "東岸でのドイツ軍の前進は1週間に200〜300メートルに鈍化した",
+      "zh-CN": "德军在东岸的推进已减慢至每周200-300米"
+    },
+    {
+      "en": "Extending to the west bank would require 4–5 additional divisions",
+      "ja": "西岸への拡張には追加で4〜5個師団が必要になる",
+      "zh-CN": "向西岸扩展将需要4-5个额外师"
+    },
+    {
+      "en": "Total German casualties to date: approximately 80,000. French: approximately 90,000",
+      "ja": "これまでのドイツ軍の総死傷者数：約80,000人。フランス軍：約90,000人",
+      "zh-CN": "德国迄今总伤亡：约8万人。法国：约9万人"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Eliminate the flanking threat from west-bank French artillery",
+      "ja": "西岸フランス砲兵からの側面脅威を排除する",
+      "zh-CN": "消除西岸法国炮兵的侧翼威胁"
+    },
+    {
+      "en": "Keep German casualties within sustainable limits relative to French losses",
+      "ja": "フランス軍の損失に対してドイツ軍の死傷者を維持可能な範囲内に保つ",
+      "zh-CN": "相对于法国损失，将德国伤亡控制在可持续范围内"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Extending the battle risks consuming reserves needed for other fronts",
+      "ja": "戦闘を拡大すると、他の戦線に必要な予備軍を消費するリスクがある",
+      "zh-CN": "扩大战役有消耗其他战线所需预备队的风险"
+    },
+    {
+      "en": "The original plan was to bleed France — not to conquer Verdun outright",
+      "ja": "当初の計画はフランスを出血させることだった——ヴェルダンを完全に征服することではない",
+      "zh-CN": "最初的计划是消耗法国——不是彻底征服凡尔登"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Extend the attack to the west bank. The Mort-Homme heights must be captured to protect the east-bank advance.",
+        "ja": "西岸への攻撃を拡大する。東岸の前進を保護するために、モール・オム高地を占領しなければならない。",
+        "zh-CN": "将进攻扩展到西岸。必须占领死人山高地以保护东岸的推进。"
+      },
+      "historicalContext": "The historical decision — Germany extended to the west bank on March 6th, dramatically escalating the battle's cost.",
+      "outcomePrompt": {
+        "en": "The attack on the west bank begins. For the next two months, the slopes of Mort-Homme become a slaughterhouse. The French defend the heights with ferocity. German units take the crest, lose it, retake it. Artillery tears the hillside apart. By the time Germany holds the heights in late May, both sides have paid an appalling price for ground that never quite silences the French guns on the far ridge. The battle has grown far beyond your original design.",
+        "ja": "西岸への攻撃が始まる。次の2ヶ月間、モール・オムの斜面は屠殺場となる。フランス軍は激しく高地を守る。ドイツ軍部隊は山頂を取り、失い、また取り返す。砲撃が山腹をバラバラに引き裂く。5月末にドイツが高地を保持するころには、双方とも、遠くの尾根にあるフランスの砲をまったく沈黙させることのない土地のために恐ろしい代価を払った。戦いはあなたの当初の設計をはるかに超えて拡大した。",
+        "zh-CN": "西岸进攻开始。接下来两个月，死人山的山坡变成了屠宰场。法国人顽强守卫高地。德国部队占领山顶，失去，再次夺回。炮火将山坡撕裂。到德国于五月末占领高地时，双方都为从未完全压制远处山脊上法国炮兵的土地付出了令人骇然的代价。这场战役已远远超出您最初的设计。"
+      },
+      "nextSceneId": "verdun-1916-scene-004",
+      "stateChanges": [
+        { "variable": "germanCasualties", "operation": "add", "value": 40 },
+        { "variable": "frenchCasualties", "operation": "add", "value": 35 },
+        { "variable": "reservesCommitted", "operation": "add", "value": 25 },
+        { "variable": "germanMorale", "operation": "add", "value": -5 },
+        { "variable": "kaisersConfidence", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Refuse the west bank extension. Accept the flanking fire and compensate with heavier counter-battery work on the east bank.",
+        "ja": "西岸への拡張を拒否する。側面砲火を受け入れ、東岸でのより重い対砲兵射撃で補う。",
+        "zh-CN": "拒绝西岸扩张。接受侧翼炮火，用东岸更强的反炮兵作战来弥补。"
+      },
+      "historicalContext": "A counterfactual — not extending may have preserved reserves but left a critical tactical problem unsolved.",
+      "outcomePrompt": {
+        "en": "You refuse to extend the front. The Crown Prince is furious. You authorize additional heavy howitzer batteries to conduct counter-battery fire against the Mort-Homme guns, with limited effect — the French guns are dug into the reverse slope and hard to reach. German infantry on the east bank continues to pay in blood for every hundred meters. Over the following weeks, the attrition ratios remain roughly even — France bleeds, but so does Germany. The plan's logic is still working, but the pace is slower than you promised the Kaiser.",
+        "ja": "あなたは戦線の拡張を拒否する。皇太子は激怒する。あなたはモール・オムの砲兵に対する対砲兵射撃のために追加の重榴弾砲部隊を承認するが、効果は限定的だ——フランスの砲は逆斜面に掘り込まれており、届きにくい。東岸のドイツ歩兵は100メートルごとに血を払い続ける。その後数週間、消耗率はほぼ均衡したまま——フランスは出血するが、ドイツも同様だ。計画の論理はまだ機能しているが、ペースはカイザーに約束したより遅い。",
+        "zh-CN": "您拒绝扩大战线。皇太子勃然大怒。您批准增加重型榴弹炮连对死人山炮兵进行反炮兵射击，效果有限——法国炮兵深挖在反斜面，难以覆盖。东岸的德国步兵继续为每一百米付出血的代价。在随后数周内，消耗比率保持大致均衡——法国在流血，但德国也在流血。计划的逻辑仍在运转，但速度比您承诺给皇帝的要慢。"
+      },
+      "nextSceneId": "verdun-1916-scene-004",
+      "stateChanges": [
+        { "variable": "germanCasualties", "operation": "add", "value": 20 },
+        { "variable": "frenchCasualties", "operation": "add", "value": 20 },
+        { "variable": "reservesCommitted", "operation": "add", "value": 10 },
+        { "variable": "kaisersConfidence", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "roleFilter": ["falkenhayn"],
+  "isTerminal": false
+}

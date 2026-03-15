@@ -1,0 +1,109 @@
+{
+  "id": "verdun-1916-scene-001",
+  "scenarioId": "verdun-1916",
+  "title": "Eve of the Offensive",
+  "date": {
+    "en": "February 20, 1916",
+    "ja": "1916年2月20日",
+    "zh-CN": "1916年2月20日"
+  },
+  "location": {
+    "en": "German General Headquarters, Charleville-Mézières",
+    "ja": "ドイツ総司令部、シャルルヴィル＝メジエール",
+    "zh-CN": "德国总司令部，沙勒维尔-梅济耶尔"
+  },
+  "narrativePrompt": {
+    "en": "Falkenhayn stands in the operations room on the eve of the greatest offensive Germany has launched on the Western Front. Maps cover every table. The artillery plan has been rehearsed. The men are in position. Tomorrow, the guns begin. But tonight, a final briefing from his intelligence officer reveals an unexpected complication: aerial reconnaissance suggests the French have detected unusual activity behind the German lines and may be reinforcing Verdun sooner than expected. The question is whether to delay twenty-four hours to allow additional preparation, or to proceed at dawn as planned before the French can react.",
+    "ja": "ファルケンハインはドイツが西部戦線で開始した最大の攻勢の前夜、作戦室に立っている。地図がすべてのテーブルを覆っている。砲兵計画は演習された。兵士たちは配置についている。明日、砲撃が始まる。しかし今夜、情報将校からの最終ブリーフィングが予想外の複雑な状況を明かす。航空偵察によると、フランス軍はドイツ軍の戦線後方での異常な活動を察知し、予想より早くヴェルダンを増強している可能性がある。問題は、追加準備のために24時間遅らせるか、フランス軍が対応する前に計画通り夜明けに進めるかである。",
+    "zh-CN": "法金汉站在作战室里，迎接德国在西线发动的最大规模攻势前夕。地图覆盖了每张桌子。炮兵计划已经演练过。士兵已就位。明天，炮击开始。但今晚，情报官的最终简报揭示了一个意外的复杂情况：航空侦察显示法国人已经察觉到德国防线后方的异常活动，可能比预期更早增援凡尔登。问题是是否要延迟24小时以便进行额外准备，还是在法国人能够做出反应之前按计划在黎明时分推进。"
+  },
+  "situationReport": [
+    {
+      "en": "Over 1,200 artillery pieces are in position along a 15 km front north of Verdun",
+      "ja": "ヴェルダン北部の15kmの戦線に沿って1,200門以上の砲が配置されている",
+      "zh-CN": "超过1200门火炮已就位于凡尔登北部15公里的战线上"
+    },
+    {
+      "en": "French aerial observers have been unusually active in the past 48 hours",
+      "ja": "過去48時間、フランスの航空観測員が異常に活発に活動している",
+      "zh-CN": "过去48小时，法国航空观测员活动异常频繁"
+    },
+    {
+      "en": "German infantry divisions are assembled and ready in forward positions",
+      "ja": "ドイツ歩兵師団は前進陣地に集結し、準備が整っている",
+      "zh-CN": "德国步兵师已在前进阵地集结就绪"
+    },
+    {
+      "en": "Weather forecast predicts clear conditions tomorrow — ideal for artillery observation",
+      "ja": "天気予報は明日は晴れの予報で、砲撃観測に理想的な条件",
+      "zh-CN": "天气预报预测明天天气晴朗——非常适合炮兵观测"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Maximize the impact of the opening bombardment",
+      "ja": "開幕砲撃の効果を最大化する",
+      "zh-CN": "最大化开场炮击的效果"
+    },
+    {
+      "en": "Prevent the French from effectively reinforcing before the infantry advances",
+      "ja": "歩兵が前進する前にフランス軍が効果的に増援するのを防ぐ",
+      "zh-CN": "防止法国在步兵推进前有效增援"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Kaiser has been told the offensive begins February 21st — any delay requires explanation",
+      "ja": "カイザーには攻勢が2月21日に始まると伝えられている——いかなる遅延も説明が必要",
+      "zh-CN": "皇帝已被告知进攻于2月21日开始——任何延迟都需要解释"
+    },
+    {
+      "en": "A delay gives French reinforcements more time to arrive",
+      "ja": "遅延はフランスの増援が到着するより多くの時間を与える",
+      "zh-CN": "延迟会给法国援军更多时间到达"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Proceed as planned at dawn on February 21st. Surprise and momentum matter more than French awareness.",
+        "ja": "2月21日の夜明けに計画通り進める。奇襲と勢いはフランスの認識より重要である。",
+        "zh-CN": "按计划于2月21日黎明时分推进。突然性和势头比法国人的察觉更重要。"
+      },
+      "historicalContext": "The historical choice — Falkenhayn proceeded on schedule.",
+      "outcomePrompt": {
+        "en": "The bombardment begins at dawn, exactly as planned. For nine hours the guns roar without pause. The French lines dissolve into smoke and rubble. When the German infantry finally advances in the afternoon, they find shattered trenches and stunned survivors. The pace of advance is faster than anyone dared predict. But reports from Crown Prince Wilhelm's headquarters suggest the French are already rushing reinforcements south from Reims.",
+        "ja": "砲撃は計画通り夜明けに始まる。9時間、砲は休みなく轟く。フランスの戦線は煙と瓦礫の中に溶けていく。ドイツ歩兵が午後についに前進すると、粉砕された塹壕と放心した生存者を見つける。前進のペースは誰もが敢えて予測したより速い。しかし皇太子ヴィルヘルムの司令部からの報告は、フランス軍がすでにランスから南に増援を急いでいることを示唆している。",
+        "zh-CN": "炮击在黎明时分按计划开始。九小时内，火炮不停地轰鸣。法国防线在硝烟和瓦砾中消散。当德国步兵终于在下午推进时，发现的是被摧毁的战壕和惊魂未定的幸存者。推进速度比任何人敢于预测的都要快。但皇太子威廉司令部的报告表明，法国人已经在从兰斯向南紧急调遣援军。"
+      },
+      "nextSceneId": "verdun-1916-scene-002",
+      "stateChanges": [
+        { "variable": "germanMorale", "operation": "add", "value": 10 },
+        { "variable": "frenchMorale", "operation": "add", "value": -15 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Delay twenty-four hours. Use the time to move additional heavy artillery batteries forward and improve the bombardment plan.",
+        "ja": "24時間遅らせる。その時間を使って追加の重砲兵部隊を前進させ、砲撃計画を改善する。",
+        "zh-CN": "延迟24小时。利用这段时间将额外的重型火炮连前移，改进炮击计划。"
+      },
+      "historicalContext": "A counterfactual — would have strengthened the initial bombardment but risked French preparation.",
+      "outcomePrompt": {
+        "en": "You issue orders to postpone by twenty-four hours. The artillery commanders are not pleased — they had planned every detail for the 21st — but additional batteries are moved into position overnight. You send a terse message to the Kaiser explaining that preparations require minor adjustment. When the guns finally open on February 22nd, the bombardment is even heavier. But French cavalry patrols on the Meuse have spotted the delay and a report reaches Pétain's headquarters that something is coming.",
+        "ja": "あなたは24時間延期する命令を出す。砲兵指揮官たちは不満だ——彼らは21日のすべての細部を計画していた——しかし追加の砲兵部隊が一晩で配置に就く。あなたは準備にわずかな調整が必要だと説明する簡潔なメッセージをカイザーに送る。2月22日にようやく砲撃が始まると、砲撃はさらに激しくなる。しかしムーズ川のフランス騎兵斥候が遅延を察知し、何かが来るというレポートがペタンの司令部に届く。",
+        "zh-CN": "您下令推迟24小时。炮兵指挥官们并不高兴——他们已经为21日安排好了每一个细节——但额外的炮兵连在一夜之间移至阵地。您向皇帝发送了一封简短的电报，解释准备工作需要小幅调整。当火炮终于在2月22日开炮时，炮击更加猛烈。但默兹河上的法国骑兵巡逻队发现了延迟，一份报告传到了贝当的司令部，称有什么东西正在逼近。"
+      },
+      "nextSceneId": "verdun-1916-scene-002",
+      "stateChanges": [
+        { "variable": "germanMorale", "operation": "add", "value": 5 },
+        { "variable": "frenchMorale", "operation": "add", "value": -5 },
+        { "variable": "kaisersConfidence", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "roleFilter": ["falkenhayn"],
+  "isTerminal": false
+}

@@ -1,0 +1,89 @@
+{
+  "scenarioId": "verdun-1916",
+  "timeline": [
+    {
+      "date": "1916-02-21",
+      "description": {
+        "en": "Germany launches Operation Judgement with the largest artillery bombardment in history to that point — over 1,200 guns fire on a 15 km front for nine hours. German infantry advances in the afternoon.",
+        "ja": "ドイツは「審判作戦」を開始。1,200門以上の砲が15kmの戦線で9時間砲撃する、当時史上最大の砲撃を行う。午後にドイツ歩兵が前進。",
+        "zh-CN": "德国发动"审判行动"，以当时史上最大规模的炮击——逾1200门火炮在15公里战线上连续炮击九小时。下午步兵发起进攻。"
+      }
+    },
+    {
+      "date": "1916-02-25",
+      "description": {
+        "en": "Fort Douaumont, the largest and most powerful of Verdun's ring of forts, falls to a small German patrol in one of the war's most embarrassing French failures. Pétain is placed in command of Verdun's defense.",
+        "ja": "ヴェルダンの環状要塞の中で最大かつ最強のドゥオーモン要塞が、少数のドイツ哨戒隊に陥落する。これは戦争中最も恥ずべきフランスの失敗の一つとなる。ペタンがヴェルダン防衛の指揮を任される。",
+        "zh-CN": "凡尔登环形要塞中最大、最强的杜奥蒙要塞落入一支小股德国巡逻队之手，成为战争中法国最令人尴尬的失败之一。贝当被任命指挥凡尔登防御。"
+      }
+    },
+    {
+      "date": "1916-03-06",
+      "description": {
+        "en": "Germany extends the attack to the west bank of the Meuse River, escalating the battle's scale and German casualty rates significantly.",
+        "ja": "ドイツはムーズ川西岸まで攻撃を拡大し、戦闘の規模とドイツ軍の死傷者数を大幅に増加させた。",
+        "zh-CN": "德国将进攻扩展至默兹河西岸，大幅扩大了战役规模，也显著提高了德军伤亡率。"
+      }
+    },
+    {
+      "date": "1916-06-01",
+      "description": {
+        "en": "Fort Vaux falls to the Germans after a week-long siege. German forces are now only a few kilometers from Verdun town itself.",
+        "ja": "ヴォー要塞が1週間の包囲の末、ドイツ軍に陥落。ドイツ軍はヴェルダン市街まで数キロのところまで迫った。",
+        "zh-CN": "沃要塞在经历一周围攻后落入德军之手。德国军队现在距凡尔登城本身只有几公里。"
+      }
+    },
+    {
+      "date": "1916-07-01",
+      "description": {
+        "en": "The Battle of the Somme begins. Britain launches a massive offensive intended to relieve pressure on Verdun, suffering 57,000 casualties on the first day alone — the bloodiest day in British military history.",
+        "ja": "ソンムの戦いが始まる。イギリスはヴェルダンへの圧力を軽減するために大規模な攻勢を開始したが、初日だけで57,000人の死傷者を出す。これはイギリス軍事史上最も血なまぐさい日となった。",
+        "zh-CN": "索姆河战役开始。英国发动大规模进攻，旨在减轻凡尔登的压力，仅第一天就伤亡57000人——这是英国军事史上最血腥的一天。"
+      }
+    },
+    {
+      "date": "1916-08-29",
+      "description": {
+        "en": "Falkenhayn is dismissed as Chief of the German General Staff and replaced by Field Marshal Paul von Hindenburg and General Erich Ludendorff.",
+        "ja": "ファルケンハインがドイツ参謀総長を解任され、パウル・フォン・ヒンデンブルク元帥とエーリッヒ・ルーデンドルフ将軍に交代。",
+        "zh-CN": "法金汉被解除德国参谋总长职务，由保罗·冯·兴登堡元帅和埃里希·鲁登道夫将军接替。"
+      }
+    },
+    {
+      "date": "1916-10-24",
+      "description": {
+        "en": "French forces launch a major counterattack, retaking Fort Douaumont in a single day. The tide of battle has reversed.",
+        "ja": "フランス軍が大規模な反撃を開始し、1日でドゥオーモン要塞を奪還。戦況の流れが逆転した。",
+        "zh-CN": "法国军队发动大规模反攻，一天内夺回杜奥蒙要塞。战役形势发生逆转。"
+      }
+    },
+    {
+      "date": "1916-12-18",
+      "description": {
+        "en": "The Battle of Verdun officially ends. French forces have recovered virtually all the ground lost in ten months of fighting. Total casualties: approximately 377,000 French and 337,000 German — nearly three-quarters of a million men.",
+        "ja": "ヴェルダンの戦いが公式に終結。フランス軍は10ヶ月の戦闘で失った土地のほぼ全てを奪還。死傷者の合計：フランス軍約377,000人、ドイツ軍337,000人——約75万人。",
+        "zh-CN": "凡尔登战役正式结束。法国军队几乎收复了十个月战斗中失去的所有阵地。总伤亡：法国约37.7万人，德国约33.7万人——近75万人。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "France held Verdun. Germany failed to achieve the decisive attrition of the French army that Falkenhayn had planned. Both sides suffered catastrophic losses. Falkenhayn was dismissed. The battle became a symbol of French national resistance and the futility of attrition warfare.",
+    "ja": "フランスはヴェルダンを守り抜いた。ドイツはファルケンハインが計画したフランス軍への決定的な消耗を達成することができなかった。両軍とも壊滅的な損害を被った。ファルケンハインは解任された。この戦いはフランス国民の抵抗と消耗戦の無益さの象徴となった。",
+    "zh-CN": "法国守住了凡尔登。德国未能实现法金汉计划的对法国军队的决定性消耗。双方均遭受灾难性损失。法金汉被解职。这场战役成为法国民族抵抗精神和消耗战徒劳性的象征。"
+  },
+  "casualties": {
+    "en": "France: approximately 377,000 casualties. Germany: approximately 337,000 casualties. Combined: approximately 714,000 men over ten months.",
+    "ja": "フランス：約377,000人の死傷者。ドイツ：約337,000人の死傷者。合計：10ヶ月で約714,000人。",
+    "zh-CN": "法国：约37.7万人伤亡。德国：约33.7万人伤亡。合计：十个月内约71.4万人。"
+  },
+  "significance": {
+    "en": "Verdun became the defining battle of French military identity in the twentieth century. It demonstrated that neither side could achieve a decisive breakthrough through pure attrition on the Western Front, contributing to the eventual development of new tactical doctrines. For Germany, it exposed the flaws in Falkenhayn's strategy: Germany bled almost as heavily as France. The battle, combined with the Somme, accelerated the exhaustion of all major powers involved.",
+    "ja": "ヴェルダンは20世紀のフランス軍の精神を定義する戦いとなった。それはどちらの陣営も西部戦線での純粋な消耗戦によって決定的な突破口を開けないことを示し、新しい戦術教義の発展に貢献した。ドイツにとっては、ファルケンハインの戦略の欠点を露わにした。ドイツはフランスとほぼ同じだけ出血した。この戦いはソンムと合わさって、関与した全ての主要列強の疲弊を加速させた。",
+    "zh-CN": "凡尔登成为20世纪法国军事精神的决定性战役。它证明了任何一方都无法在西线通过纯粹的消耗战实现决定性突破，这促进了新战术学说的最终发展。对德国而言，它暴露了法金汉战略的缺陷：德国几乎与法国流血一样惨重。这场战役与索姆河战役合在一起，加速了所有主要参战国的力量耗尽。"
+  },
+  "furtherReading": [
+    "Alistair Horne — The Price of Glory: Verdun 1916",
+    "John Keegan — The First World War",
+    "Holger Herwig — The First World War: Germany and Austria-Hungary 1914–1918"
+  ]
+}

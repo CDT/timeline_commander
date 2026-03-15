@@ -1,0 +1,107 @@
+{
+  "id": "verdun-1916-nurse-scene-003",
+  "scenarioId": "verdun-1916",
+  "title": "The Letter",
+  "date": {
+    "en": "April 14, 1916",
+    "ja": "1916年4月14日",
+    "zh-CN": "1916年4月14日"
+  },
+  "location": {
+    "en": "Field Hospital, Verdun sector",
+    "ja": "野戦病院、ヴェルダン方面",
+    "zh-CN": "野战医院，凡尔登方向"
+  },
+  "narrativePrompt": {
+    "en": "A letter has arrived from Marie's mother in Lyon. Her mother has received word from a neighbor that Marie's brother, Thomas, has been reported missing near Verdun following the fighting at Fort Vaux. Missing does not mean dead. But Marie has seen enough of this war to know what missing usually means. She has a choice: she can request emergency leave to travel to Lyon to be with her family, or she can stay at the hospital. If she leaves, Dr. Renard will be the only qualified surgical assistant for a ward of ninety-four men. If she stays, she may not see her family for months. There is a third path: she can write the most honest letter she has ever written to her mother — not to comfort her, but to tell her exactly what it is like here, what she has seen, what she needs her mother to understand about where Thomas probably is.",
+    "ja": "リヨンのマリーの母親からの手紙が届いた。母親は近所の人から、マリーの兄、トーマスが、ヴォー要塞での戦闘の後ヴェルダン付近で行方不明として報告されたという知らせを受けた。行方不明は死を意味しない。しかしマリーは、行方不明が通常何を意味するかを知るほどこの戦争を見てきた。彼女には選択肢がある：家族と共にいるためにリヨンに旅する緊急休暇を申請するか、病院に留まるか。もし彼女が去ると、ルナール医師だけが94人の患者の病棟のための唯一の資格を持った外科助手になる。もし彼女が留まると、何ヶ月も家族に会えないかもしれない。第三の道もある：彼女はこれまでで最も正直な手紙を母親に書くことができる——彼女を慰めるためではなく、ここがどんな様子か、何を見てきたか、トーマスがおそらくどこにいるかについて母親に理解してほしいことを正確に伝えるために。",
+    "zh-CN": "一封来自里昂母亲的信到了。母亲从邻居那里得知，马里的兄弟托马斯在沃要塞战斗后被报告在凡尔登附近失踪。失踪不意味着死亡。但马里已经看过足够多的战争，知道失踪通常意味着什么。她有选择：申请紧急假期前往里昂陪伴家人，或者留在医院。如果她离开，勒纳尔医生将是九十四名患者病房的唯一合格外科助手。如果她留下，可能数月无法见到家人。还有第三条路：她可以给母亲写一封她有生以来最诚实的信——不是为了安慰她，而是告诉她这里究竟是什么样子，她所见过的一切，以及托马斯可能在哪里，她希望母亲明白这一点。"
+  },
+  "situationReport": [
+    {
+      "en": "Thomas Leclerc, 22nd Infantry Regiment, reported missing near Fort Vaux — status unknown",
+      "ja": "第22歩兵連隊のトーマス・ルクレール、ヴォー要塞近くで行方不明として報告——状況不明",
+      "zh-CN": "第22步兵团托马斯·勒克莱尔，在沃要塞附近被报告失踪——状况不明"
+    },
+    {
+      "en": "Hospital currently has 94 patients; Dr. Renard has asked Marie not to leave",
+      "ja": "病院には現在94名の患者がいる。ルナール医師はマリーに去らないよう求めている",
+      "zh-CN": "医院目前有94名患者；勒纳尔医生已请求马里不要离开"
+    },
+    {
+      "en": "Emergency leave requires 3 days minimum travel and a week's absence from the hospital",
+      "ja": "緊急休暇には最低3日間の移動と1週間の病院からの不在が必要",
+      "zh-CN": "紧急假期需要至少3天旅行时间和一周的医院缺席"
+    },
+    {
+      "en": "No additional nursing staff are available to cover Marie's absence",
+      "ja": "マリーの不在を補うための追加看護スタッフはいない",
+      "zh-CN": "没有额外的护理人员可以填补马里的缺席"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Honor your duty to the patients",
+      "ja": "患者への義務を果たす",
+      "zh-CN": "履行您对患者的职责"
+    },
+    {
+      "en": "Maintain a connection to your family and your reasons for being here",
+      "ja": "家族とここにいる理由とのつながりを維持する",
+      "zh-CN": "保持与家人以及您来这里原因的联系"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "There is no choice that is not a loss",
+      "ja": "損失を伴わない選択肢はない",
+      "zh-CN": "没有一个选择是没有代价的"
+    }
+  ],
+  "choices": [
+    {
+      "id": "nurse-scene-003-choice-a",
+      "text": {
+        "en": "Stay. Write your mother a letter that tells the truth about what this place is.",
+        "ja": "留まる。この場所が何であるかについて真実を語る手紙を母親に書く。",
+        "zh-CN": "留下。给母亲写一封讲述这里真实情况的信。"
+      },
+      "historicalContext": "Letters from nurses and soldiers documenting the reality of Verdun became crucial historical testimony.",
+      "outcomePrompt": {
+        "en": "You pick up a pen. You write to your mother for two hours. You do not protect her. You tell her what the ward smells like. You tell her what a man looks like after three days without morphine. You tell her that Thomas, if he is where you think he is, is not suffering anymore. You seal the letter and give it to the post orderly. You do not know if she will forgive you for writing it. You go back to work. Three weeks later, a letter arrives from your mother. It says: 'I understand. Come home when you can.' You fold it small and put it in your uniform pocket, where it stays for the rest of the battle.",
+        "ja": "あなたはペンを手に取る。2時間、母親に手紙を書く。あなたは彼女を守らない。病棟がどんなにおいがするかを伝える。3日間モルヒネなしの男がどんな様子かを伝える。トーマスが、あなたが思う場所にいるなら、もう苦しんでいないと伝える。あなたは手紙を封印し、郵便係に渡す。この手紙を書いたことを彼女が許してくれるかどうか分からない。あなたは仕事に戻る。3週間後、母親からの手紙が届く。それには「わかった。帰れる時に帰ってきて」と書いてある。あなたはそれを小さく折り、軍服のポケットに入れる。それは戦いの残りの間ずっとそこに留まる。",
+        "zh-CN": "您拿起笔。您给母亲写了两个小时的信。您没有保护她。您告诉她病房的气味是什么样的。您告诉她一个没有吗啡三天的人是什么样子。您告诉她托马斯，如果他在您认为他在的地方，就不再受苦了。您把信封好，交给邮务人员。您不知道她是否会原谅您写了这封信。您回去工作。三周后，母亲的来信到了。信上写道：\"我明白了。能回来的时候回来。\"您把它叠小放入军装口袋，在整场战役剩余的时间里它一直留在那里。"
+      },
+      "nextSceneId": null,
+      "nextScenePool": [],
+      "stateChanges": [
+        { "variable": "staffMorale", "operation": "add", "value": 10 },
+        { "variable": "patientsSaved", "operation": "add", "value": 8 },
+        { "variable": "drRenardRelationship", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "nurse-scene-003-choice-b",
+      "text": {
+        "en": "Request emergency leave. Your family needs you and you cannot keep pretending they don't exist.",
+        "ja": "緊急休暇を申請する。家族はあなたを必要としており、彼らが存在しないふりをし続けることはできない。",
+        "zh-CN": "申请紧急假期。您的家人需要您，您不能继续假装他们不存在。"
+      },
+      "historicalContext": "Many nurses and soldiers faced this impossible choice throughout the war.",
+      "outcomePrompt": {
+        "en": "You request the leave. Dr. Renard grants it without a word of reproach, which is worse than if he had argued. The journey to Lyon takes four days — the trains are packed with soldiers going the other direction. Your mother holds you for a long time at the door. She does not ask about Thomas. You spend three days at home. On the morning of the fourth day, you are on the train back before she wakes up. She finds the note you left on the kitchen table. It says only: 'I had to go back. I'm sorry. I love you.' You never speak about that visit. But you carry it with you for the rest of the battle, like a stone in your chest that makes you heavier and somehow also keeps you upright.",
+        "ja": "あなたは休暇を申請する。ルナール医師は一言の非難もなくそれを承認する。それは彼が主張した場合よりも悪い。リヨンへの旅には4日かかる——列車は反対方向に向かう兵士たちで満員だ。お母さんはドアであなたを長い間抱きしめる。彼女はトーマスについて尋ねない。あなたは3日間家で過ごす。4日目の朝、あなたは彼女が目覚める前に帰りの列車に乗っている。彼女はあなたがキッチンテーブルに残したメモを見つける。それはこう書いてある：「戻らなければならなかった。ごめんなさい。愛してる。」あなたはその訪問について決して話さない。しかし戦いの残りの間ずっと、それを胸の中の石のように運ぶ。それはあなたを重くするが、なぜかまっすぐに立てるようにもする。",
+        "zh-CN": "您申请了假期。勒纳尔医生一句责备的话都没有就批准了，这比他争辩更难受。去里昂的旅途花了四天——列车上挤满了朝反方向走的士兵。母亲在门口抱了您很长时间。她没有问到托马斯。您在家待了三天。第四天早上，您在她醒来之前就上了回程的列车。她发现您留在厨房桌上的纸条。上面只写着：\"我必须回去。对不起。我爱你。\"您从未谈起那次探望。但您在整场战役剩余的时间里带着它，像胸口的一块石头，让您更沉重，却也莫名地让您保持直立。"
+      },
+      "nextSceneId": null,
+      "nextScenePool": [],
+      "stateChanges": [
+        { "variable": "staffMorale", "operation": "add", "value": 5 },
+        { "variable": "drRenardRelationship", "operation": "add", "value": -5 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "roleFilter": ["verdun-nurse"],
+  "isTerminal": true
+}

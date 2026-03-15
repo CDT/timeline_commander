@@ -1,0 +1,97 @@
+{
+  "id": "verdun-1916-scene-005",
+  "scenarioId": "verdun-1916",
+  "title": "The End of Command",
+  "date": {
+    "en": "August 28, 1916",
+    "ja": "1916年8月28日",
+    "zh-CN": "1916年8月28日"
+  },
+  "location": {
+    "en": "German General Headquarters, Charleville-Mézières",
+    "ja": "ドイツ総司令部、シャルルヴィル＝メジエール",
+    "zh-CN": "德国总司令部，沙勒维尔-梅济耶尔"
+  },
+  "narrativePrompt": {
+    "en": "Romania has declared war on the Central Powers. The Kaiser has summoned Falkenhayn to Headquarters. The message is unmistakable: Hindenburg will replace him as Chief of the German General Staff. Falkenhayn has one final audience with the Kaiser. In it, he can attempt to defend his strategy and argue for continuation of his plan, or he can use his remaining influence to shape what comes next — recommending a specific approach to his successor and trying to protect the legacy of what was, in his view, a strategically sound idea undermined by circumstances. How he handles this final moment will define how history judges him.",
+    "ja": "ルーマニアが中央同盟国に宣戦布告した。カイザーはファルケンハインを司令部に呼んだ。メッセージは明確だ：ヒンデンブルクがドイツ参謀総長として彼に取って代わる。ファルケンハインはカイザーとの最後の謁見を行う。その中で、彼は自分の戦略を守り、計画の継続を主張しようとするか、残りの影響力を使って次に来るものを形作ろうとするか——後継者に特定のアプローチを推薦し、彼の見解では状況によって損なわれた戦略的に健全なアイデアの遺産を保護しようとするかを選ぶことができる。この最後の瞬間をどう扱うかが、歴史が彼をどう評価するかを決定するだろう。",
+    "zh-CN": "罗马尼亚已对同盟国宣战。皇帝召唤法金汉到司令部。信息明确无误：兴登堡将取代他担任德国参谋总长。法金汉与皇帝进行了最后一次会面。在会面中，他可以试图为自己的战略辩护并主张继续他的计划，或者他可以利用剩余的影响力来塑造下一步——向继任者推荐具体方法，并试图保护他认为在战略上合理但被形势所破坏的想法的遗产。他如何处理这最后一刻将决定历史如何评判他。"
+  },
+  "situationReport": [
+    {
+      "en": "Romania's declaration of war opens a new front in the east — Germany's strategic situation has worsened significantly",
+      "ja": "ルーマニアの宣戦布告により東部に新たな戦線が開かれた——ドイツの戦略的状況は大幅に悪化した",
+      "zh-CN": "罗马尼亚的宣战在东部开辟了新战线——德国的战略形势显著恶化"
+    },
+    {
+      "en": "The Kaiser has decided: Hindenburg and Ludendorff take command effective tomorrow",
+      "ja": "カイザーは決定した：ヒンデンブルクとルーデンドルフが明日付けで指揮を引き継ぐ",
+      "zh-CN": "皇帝已做决定：兴登堡和鲁登道夫明日起接管指挥"
+    },
+    {
+      "en": "Verdun: German lines are holding but the offensive is over — both sides have taken over 300,000 casualties",
+      "ja": "ヴェルダン：ドイツ軍戦線は保持しているが攻勢は終わった——双方とも30万人以上の死傷者を出した",
+      "zh-CN": "凡尔登：德国防线在坚守但攻势已结束——双方伤亡均超过30万人"
+    },
+    {
+      "en": "Falkenhayn's personal reputation is destroyed in the German press — he is portrayed as the architect of pointless slaughter",
+      "ja": "ファルケンハインの個人的な評判はドイツのプレスで失墜した——彼は無意味な虐殺の設計者として描かれている",
+      "zh-CN": "法金汉的个人声誉在德国媒体上已经毁灭——他被描绘为无意义屠杀的策划者"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Shape how your command is remembered and influence what comes next",
+      "ja": "あなたの指揮がどのように記憶されるかを形作り、次に来るものに影響を与える",
+      "zh-CN": "塑造您的指挥如何被铭记，并影响下一步的走向"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You have no authority remaining — this is a final conversation, not a command decision",
+      "ja": "あなたにはもはや権限がない——これは最後の会話であり、指揮上の決定ではない",
+      "zh-CN": "您不再有任何权力——这是最后的对话，不是指挥决策"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-005-choice-a",
+      "text": {
+        "en": "Defend your strategy to the Kaiser. The plan was sound — it was Germany's failure to commit fully that undermined it.",
+        "ja": "カイザーに自分の戦略を弁護する。計画は健全だった——それを損なったのはドイツが完全にコミットできなかったことだ。",
+        "zh-CN": "向皇帝为您的战略辩护。计划是合理的——破坏它的是德国未能全力投入。"
+      },
+      "historicalContext": "Falkenhayn historically maintained that his strategy was sound and had been undermined by operational failures.",
+      "outcomePrompt": {
+        "en": "You stand before the Kaiser and make your case plainly. You accept no apology and offer no retreat from your logic. The attrition strategy was correct, you argue — what failed was the army's ability to sustain it against simultaneous pressure on two fronts. The Kaiser listens without warmth. Hindenburg's supporters are already in the room. You leave Headquarters that evening with your rank intact but your influence gone. History will spend decades debating whether you were right. The men buried at Verdun will not contribute to the debate.",
+        "ja": "あなたはカイザーの前に立ち、明確に自分の主張を述べる。あなたは謝罪を受け入れず、自分の論理から後退しない。消耗戦略は正しかった、あなたは主張する——失敗したのは、二つの戦線への同時プレッシャーに対してそれを維持する軍の能力だった。カイザーは温かみなく聞く。ヒンデンブルクの支持者たちはすでに部屋にいる。その夜、あなたは階級を保ったまま、しかし影響力を失って司令部を去る。歴史はあなたが正しかったかどうかについて何十年も議論するだろう。ヴェルダンに埋葬された男たちはその議論に貢献しないだろう。",
+        "zh-CN": "您站在皇帝面前，直接陈述您的观点。您不接受任何道歉，也不从您的逻辑中退缩。消耗战略是正确的，您争辩说——失败的是军队在两条战线同时承受压力时维持这一战略的能力。皇帝面无温情地聆听。兴登堡的支持者们已经在房间里。那天晚上，您带着完整的军衔离开司令部，但影响力已经消逝。历史将花费数十年争论您是否正确。埋葬在凡尔登的士兵们不会参与这场辩论。"
+      },
+      "nextSceneId": null,
+      "nextScenePool": [],
+      "stateChanges": [],
+      "conditions": []
+    },
+    {
+      "id": "scene-005-choice-b",
+      "text": {
+        "en": "Accept responsibility quietly. Recommend to the Kaiser that Hindenburg focus on a negotiated peace before Germany's reserves are completely exhausted.",
+        "ja": "静かに責任を受け入れる。ドイツの予備軍が完全に尽きる前に、ヒンデンブルクが交渉による和平に集中するようカイザーに勧める。",
+        "zh-CN": "默默接受责任。向皇帝建议兴登堡在德国预备队完全耗尽之前专注于谈判和平。"
+      },
+      "historicalContext": "A counterfactual — a graceful exit recommending de-escalation rather than self-justification.",
+      "outcomePrompt": {
+        "en": "You stand before the Kaiser and offer no defense of yourself. Instead, you look at the maps on the wall — both fronts, the Somme and Verdun, bleeding at once — and you speak plainly: Germany must end this war through diplomacy before the army ceases to exist. You recommend opening secret channels through neutral Sweden. The Kaiser dismisses the idea sharply. But two years later, when Hindenburg and Ludendorff finally collapse under the weight of the same arithmetic you described, the record will show you saw it first. That is a cold comfort. But it is yours.",
+        "ja": "あなたはカイザーの前に立ち、自分への弁護を一切しない。代わりに、壁の地図を眺める——ソンムとヴェルダン、両方の戦線が同時に出血している——そしてあなたは率直に語る：ドイツは軍が消滅する前に外交によってこの戦争を終わらせなければならない。あなたは中立のスウェーデンを通じた秘密チャンネルの開設を推薦する。カイザーはその考えを鋭く退ける。しかし2年後、ヒンデンブルクとルーデンドルフがついにあなたが描いたのと同じ計算の重さの下で崩壊した時、記録はあなたがそれを最初に見たことを示すだろう。それは冷たい慰めだ。しかしそれはあなたのものだ。",
+        "zh-CN": "您站在皇帝面前，对自己没有任何辩护。相反，您注视着墙上的地图——索姆河和凡尔登，两条战线同时在流血——您直言不讳：德国必须在军队消亡之前通过外交结束这场战争。您建议通过中立的瑞典开启秘密渠道。皇帝断然拒绝了这个想法。但两年后，当兴登堡和鲁登道夫最终在您所描述的相同算术重压下崩溃时，记录将显示您最先看到了这一点。这是一种冷淡的安慰。但它属于您。"
+      },
+      "nextSceneId": null,
+      "nextScenePool": [],
+      "stateChanges": [
+        { "variable": "kaisersConfidence", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "roleFilter": ["falkenhayn"],
+  "isTerminal": true
+}
