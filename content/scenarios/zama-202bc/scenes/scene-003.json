@@ -1,0 +1,113 @@
+{
+  "id": "zama-202bc-scene-003",
+  "scenarioId": "zama-202bc",
+  "title": {
+    "en": "The Decisive Hour",
+    "ja": "決定的な時",
+    "zh-CN": "决定性时刻"
+  },
+  "date": {
+    "en": "October 19, 202 BC, afternoon",
+    "ja": "紀元前202年10月19日午後",
+    "zh-CN": "公元前202年10月19日下午"
+  },
+  "location": {
+    "en": "The battlefield of Zama, North Africa",
+    "ja": "北アフリカ、ザマの戦場",
+    "zh-CN": "北非扎马战场"
+  },
+  "narrativePrompt": {
+    "en": "The elephant charge has been neutralized, but the battle is far from over. Hannibal's first two lines — his mercenary infantry and Carthaginian levies — have been ground down and pushed aside by the Roman legions, but at terrible cost. Now Scipio's exhausted legionaries face Hannibal's third and final line: the Italian veterans, the men who crossed the Alps, who annihilated Roman armies at Trebia, Trasimene, and Cannae. They stand fresh and unbroken in a long, disciplined line, their spears leveled, waiting. They have never been defeated. The Roman infantry line is disordered from hours of fighting, and the men are bloodied and tired. But there is hope: Masinissa's Numidian cavalry routed the Carthaginian horsemen early in the battle and has been pursuing them off the field. If Masinissa returns in time, his cavalry could strike Hannibal's veterans from behind — the same double envelopment that Hannibal himself used to destroy the Romans at Cannae. The supreme irony: Hannibal's own masterpiece, turned against him. But if Masinissa does not return in time, holding the line against the finest infantry in the world may be impossible.",
+    "ja": "象の突撃は無力化されたが、戦いはまだ終わっていない。ハンニバルの最初の二列——傭兵歩兵とカルタゴ市民兵——はローマ軍団に圧倒され押しのけられたが、大きな犠牲を伴った。今、疲弊したスキピオの軍団兵はハンニバルの第三にして最後の戦列に直面する：イタリア古参兵、アルプスを越え、トレビア、トラシメヌス、カンナエでローマ軍を全滅させた男たちだ。彼らは新鮮で崩れることなく長い規律ある戦列に立ち、槍を水平に構えて待っている。一度も負けたことがない。ローマの歩兵戦列は数時間の戦闘で乱れ、兵士たちは血まみれで疲れている。しかし希望がある：マシニッサのヌミディア騎兵が戦いの序盤にカルタゴの騎兵を敗走させ、戦場外へ追撃している。マシニッサが間に合えば、その騎兵がハンニバルの古参兵を背後から攻撃できる——ハンニバル自身がカンナエでローマ軍を壊滅させた二重包囲と同じ戦術だ。究極の皮肉：ハンニバル自身の傑作が彼に向けられる。しかしマシニッサが間に合わなければ、世界最強の歩兵に対して戦線を維持するのは不可能かもしれない。",
+    "zh-CN": "战象冲锋已被化解，但战斗远未结束。汉尼拔的前两线——雇佣兵步兵和迦太基征召兵——已被罗马军团碾压推开，但代价惨重。现在，西庇阿精疲力竭的军团士兵面对汉尼拔的第三也是最后一道防线：意大利老兵，那些翻越阿尔卑斯山、在特雷比亚、特拉西梅诺和坎尼歼灭罗马军队的人。他们精力充沛、阵型不乱地站成一条纪律严明的长线，长矛平举，静待来敌。他们从未被击败。罗马步兵战线经过数小时战斗已经散乱，士兵们伤痕累累、疲惫不堪。但希望仍在：马西尼萨的努米底亚骑兵在战斗初期击溃了迦太基骑兵，一直在战场外追击。如果马西尼萨及时返回，他的骑兵可以从背后攻击汉尼拔的老兵——这正是汉尼拔本人在坎尼用来歼灭罗马人的双重包围战术。最高的讽刺：汉尼拔自己的杰作被反过来对付他。但如果马西尼萨不能及时返回，面对世界上最精锐的步兵坚守战线可能是不可能的。"
+  },
+  "situationReport": [
+    {
+      "en": "Hannibal's first two infantry lines have been defeated, but his Italian veterans stand fresh and unbroken",
+      "ja": "ハンニバルの最初の二列の歩兵は敗北したが、イタリア古参兵は新鮮で崩れていない",
+      "zh-CN": "汉尼拔的前两线步兵已被击败，但他的意大利老兵依然精力充沛、阵型完整"
+    },
+    {
+      "en": "The Roman infantry is exhausted and disordered from hours of continuous fighting",
+      "ja": "ローマ歩兵は数時間の連続戦闘で疲弊し陣形が乱れている",
+      "zh-CN": "罗马步兵经过数小时连续作战已精疲力竭、阵型散乱"
+    },
+    {
+      "en": "Masinissa's cavalry has routed the Carthaginian horsemen and is pursuing them off the field — his return is expected but not guaranteed",
+      "ja": "マシニッサの騎兵がカルタゴの騎兵を敗走させ戦場外で追撃中——帰還は予想されるが保証はない",
+      "zh-CN": "马西尼萨的骑兵已击溃迦太基骑兵并在战场外追击——预计他会返回但无法保证"
+    },
+    {
+      "en": "Both armies have suffered significant casualties — the next engagement will decide the battle",
+      "ja": "両軍とも大きな損害を受けている——次の交戦が戦いを決する",
+      "zh-CN": "双方都遭受了重大伤亡——下一次交战将决定战局"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Defeat Hannibal's veteran infantry and win the Battle of Zama",
+      "ja": "ハンニバルの古参兵を破り、ザマの戦いに勝利する",
+      "zh-CN": "击败汉尼拔的精锐步兵，赢得扎马战役"
+    },
+    {
+      "en": "End the Second Punic War with a decisive Roman victory",
+      "ja": "決定的なローマの勝利で第二次ポエニ戦争を終結させる",
+      "zh-CN": "以罗马的决定性胜利结束第二次布匿战争"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Roman legionaries are exhausted — a prolonged frontal engagement against fresh troops could break them",
+      "ja": "ローマ軍団兵は疲弊している——新鮮な部隊に対する長期の正面戦闘は彼らを崩壊させかねない",
+      "zh-CN": "罗马军团士兵已精疲力竭——与生力军的长时间正面交战可能导致崩溃"
+    },
+    {
+      "en": "There is no guarantee Masinissa will return before the infantry lines collapse",
+      "ja": "マシニッサが歩兵戦線の崩壊前に戻る保証はない",
+      "zh-CN": "无法保证马西尼萨会在步兵战线崩溃前返回"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Hold the line. Reform the legions into a single extended battle line and engage Hannibal's veterans steadily. Buy time for Masinissa's cavalry to return and strike from behind — give Hannibal a taste of his own Cannae.",
+        "ja": "戦線を維持する。軍団を一つの延長された戦闘線に再編し、ハンニバルの古参兵と着実に交戦する。マシニッサの騎兵が戻って背後から攻撃する時間を稼ぐ——ハンニバルに自らのカンナエを味わわせる。",
+        "zh-CN": "坚守战线。将军团重新编成一条延伸的战斗线，稳步与汉尼拔的老兵交战。为马西尼萨的骑兵返回并从背后攻击争取时间——让汉尼拔尝尝自己的坎尼战术。"
+      },
+      "historicalContext": "The historical choice — Scipio reformed his line and held until Masinissa's cavalry returned to complete a double envelopment, turning Hannibal's own Cannae tactic against him.",
+      "outcomePrompt": {
+        "en": "Scipio rides along the Roman line, shouting orders. The centurions — the backbone of Rome — dress their ranks with iron discipline. The exhausted legionaries form a single long battle line, principes and hastati side by side, and advance to meet Hannibal's veterans. The clash is horrific. Shield against shield, gladius against spear, the two finest infantry forces in the world lock together in a grinding, merciless struggle. For an agonizing half hour, neither side gives ground. Roman soldiers fall but their comrades close the gaps. Hannibal's veterans push forward but cannot break through. Then — the thunder of hooves. Masinissa's Numidian cavalry, having rallied from the pursuit, crashes into the rear of Hannibal's line. The Italian veterans, undefeated for sixteen years, find themselves in the same trap their general devised at Cannae. Attacked from front and rear simultaneously, the Carthaginian line disintegrates. Hannibal, watching his masterpiece turned against him, orders a retreat that becomes a rout. Twenty thousand Carthaginians fall. The Second Punic War is over. Rome rules the Mediterranean. And the young general who defeated the man who once defeated Rome will forever be known as Scipio Africanus.",
+        "ja": "スキピオがローマの戦列に沿って馬を走らせ、命令を叫ぶ。百人隊長たち——ローマの屋台骨——が鉄の規律で隊列を整える。疲弊した軍団兵がプリンキペスとハスタティを並べて一つの長い戦闘線を形成し、ハンニバルの古参兵に向かって前進する。衝突は凄惨だ。盾と盾、グラディウスと槍がぶつかり、世界最強の二つの歩兵が容赦のない消耗戦で組み合う。苦悶の30分間、どちらも一歩も譲らない。ローマ兵が倒れるが仲間が隙間を埋める。ハンニバルの古参兵は前進するが突破できない。そして——蹄の轟音。追撃から集結したマシニッサのヌミディア騎兵がハンニバルの戦列の背後に突入する。16年間無敗のイタリア古参兵が、彼らの将軍がカンナエで考案した同じ罠に陥る。前後から同時に攻撃され、カルタゴの戦線は崩壊する。自らの傑作が自分に向けられるのを見たハンニバルは撤退を命じるが、敗走となる。2万のカルタゴ兵が倒れる。第二次ポエニ戦争は終わった。ローマが地中海を支配する。そしてかつてローマを破った男を破った若き将軍は永遠にスキピオ・アフリカヌスとして知られることになる。",
+        "zh-CN": "西庇阿骑马沿罗马战线奔驰，高呼命令。百夫长们——罗马的脊梁——以铁一般的纪律整顿队列。精疲力竭的军团士兵组成一条长长的战斗线，青年兵和壮年兵并肩而立，向汉尼拔的老兵推进。冲撞惨烈至极。盾对盾，短剑对长矛，世界上最精锐的两支步兵力量在残酷无情的厮杀中纠缠在一起。令人窒息的半小时里，双方寸步不让。罗马士兵倒下，但同伴填补空缺。汉尼拔的老兵奋力推进却无法突破。然后——马蹄声如雷。从追击中重新集结的马西尼萨努米底亚骑兵猛烈冲入汉尼拔战线的后方。十六年不败的意大利老兵发现自己陷入了他们的将军在坎尼设计的同样陷阱。前后夹击之下，迦太基战线瓦解。汉尼拔眼睁睁看着自己的杰作被反转对付自己，下令撤退，但撤退变成了溃逃。两万迦太基人阵亡。第二次布匿战争结束了。罗马统治地中海。而那位击败了曾经击败罗马之人的年轻将领，将永远被铭记为西庇阿·阿非利加努斯。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "romanMorale", "operation": "add", "value": 25 },
+        { "variable": "cavalryStrength", "operation": "add", "value": 15 },
+        { "variable": "infantryFormation", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Attack now with everything. Order an all-out frontal assault before Hannibal can reform his lines. Do not wait for cavalry that may never come — Roman steel will decide this.",
+        "ja": "今すぐ全力で攻撃する。ハンニバルが戦線を再編する前に全面正面攻撃を命じる。来ないかもしれない騎兵を待つな——ローマの剣がこれを決する。",
+        "zh-CN": "立刻全力进攻。在汉尼拔重整阵线之前下令发动全面正面突击。不要等可能永远不会来的骑兵——罗马的钢铁将决定一切。"
+      },
+      "historicalContext": "A counterfactual — Scipio historically chose to hold and wait for the cavalry envelopment rather than risk an all-out frontal assault.",
+      "outcomePrompt": {
+        "en": "The Roman trumpets sound the general advance. The exhausted legionaries, summoning their last reserves of courage, charge headlong into Hannibal's veteran line with a roar that echoes across the plain. The impact is tremendous. Roman fury and momentum drive a deep wedge into the Carthaginian center. For a moment, it seems the charge might break through. But Hannibal's veterans are the finest soldiers in the world, and they do not break. They bend, absorb the shock, and counterattack. The Roman momentum stalls. Now it becomes a grinding battle of attrition — exhausted Romans against fresh veterans — and the odds favor Hannibal. The Roman line begins to buckle in places. Centurions fall. Units waver. Just as it seems the Roman assault will collapse, dust rises on the horizon: Masinissa, returning at last. His cavalry slams into the Carthaginian flank, but the impact is less decisive than it might have been against a stationary line — Hannibal's veterans are already in motion, already fighting, and some manage to wheel to face the new threat. The battle dissolves into a chaotic melee. Rome wins, but barely. The victory is costly — thousands of Roman dead litter the field alongside the Carthaginian fallen. It is a victory, not the annihilation Scipio had hoped for. Hannibal escapes with a portion of his veterans intact.",
+        "ja": "ローマのラッパが総攻撃を告げる。疲弊した軍団兵が最後の勇気を振り絞り、平原に響き渡る雄叫びを上げてハンニバルの古参兵の戦列に突進する。衝撃は凄まじい。ローマの猛攻と勢いがカルタゴの中央に深い楔を打ち込む。一瞬、突破できるかに見える。しかしハンニバルの古参兵は世界最強の兵士であり、崩れない。たわみ、衝撃を吸収し、反撃する。ローマの勢いが止まる。ここから消耗戦となる——疲弊したローマ兵対新鮮な古参兵——形勢はハンニバルに有利だ。ローマの戦線が所々で崩れ始める。百人隊長が倒れる。部隊が動揺する。ローマの攻撃が崩壊しそうになった時、地平線に砂塵が上がる：マシニッサがついに戻ってきた。騎兵がカルタゴの側面に突入するが、静止した戦列に対するほど決定的ではない——ハンニバルの古参兵はすでに動いており、すでに戦っており、一部は新たな脅威に向きを変えることに成功する。戦いは混沌とした乱戦と化す。ローマが勝つ。しかし辛うじて。勝利は高くついた——カルタゴの戦死者と並んで何千ものローマの戦死者が戦場に散らばっている。勝利ではあるが、スキピオが望んだ殲滅ではない。ハンニバルは古参兵の一部を率いて脱出する。",
+        "zh-CN": "罗马号角吹响总攻。精疲力竭的军团士兵拼尽最后的勇气，发出响彻平原的怒吼，向汉尼拔的老兵防线猛冲。冲击力巨大。罗马人的狂怒和冲劲在迦太基中央撕开一个深深的楔子。一瞬间，似乎冲锋就要突破了。但汉尼拔的老兵是世界上最精锐的士兵，他们没有崩溃。他们弯曲、吸收冲击、然后反击。罗马人的冲劲停滞。战斗变成了残酷的消耗战——精疲力竭的罗马人对阵精力充沛的老兵——形势有利于汉尼拔。罗马战线开始在多处动摇。百夫长倒下。部队开始犹豫。就在罗马人的进攻似乎要崩溃时，地平线上扬起烟尘：马西尼萨终于回来了。他的骑兵猛击迦太基侧翼，但冲击不如打击静止战线时那样具有决定性——汉尼拔的老兵已经在运动中、已经在战斗中，一些人成功转向面对新的威胁。战斗演变成混乱的肉搏。罗马获胜，但仅仅是勉强获胜。胜利代价高昂——数千罗马阵亡者与迦太基阵亡者一同散布战场。这是一场胜利，但不是西庇阿所期望的歼灭战。汉尼拔率领一部分老兵完好脱逃。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "romanMorale", "operation": "add", "value": 5 },
+        { "variable": "cavalryStrength", "operation": "add", "value": -10 },
+        { "variable": "infantryFormation", "operation": "add", "value": -20 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

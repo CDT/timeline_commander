@@ -1,0 +1,108 @@
+{
+  "id": "red-cliffs-208-scene-001",
+  "scenarioId": "red-cliffs-208",
+  "title": "Forging the Alliance",
+  "date": {
+    "en": "October, 208 AD",
+    "ja": "208年10月",
+    "zh-CN": "公元208年10月"
+  },
+  "location": {
+    "en": "Sun Quan's Court, Chaisang",
+    "ja": "孫権の朝廷、柴桑",
+    "zh-CN": "孙权朝廷，柴桑"
+  },
+  "narrativePrompt": {
+    "en": "Zhou Yu has arrived at Sun Quan's court in Chaisang to find it paralyzed by fear. Cao Cao's letter boasting of 800,000 troops has shaken the resolve of many senior officials. Zhang Zhao, the most respected civil advisor, openly advocates surrender, arguing that resistance is futile against such numbers. Meanwhile, Zhuge Liang has arrived as Liu Bei's envoy, eloquently arguing for an alliance — but his brilliance makes Zhou Yu uneasy, for a man this talented serving Liu Bei could become a greater threat than Cao Cao in time. Zhou Yu must convince Sun Quan to fight, choose his overall strategy for the campaign, and decide how closely to cooperate with Liu Bei's forces.",
+    "ja": "周瑜が柴桑の孫権の朝廷に到着すると、恐怖で麻痺した状態だった。80万の兵を誇る曹操の書状は多くの重臣の決意を揺るがしていた。最も尊敬される文官・張昭は公然と降伏を主張し、このような数に対する抵抗は無意味だと論じた。一方、劉備の使者として諸葛亮が到着し、雄弁に同盟を説いていたが、その才能は周瑜を不安にさせた——このような逸材が劉備に仕えていれば、いずれ曹操以上の脅威となり得るからだ。周瑜は孫権を戦いに導き、戦役全体の戦略を選び、劉備軍との協力の度合いを決めなければならない。",
+    "zh-CN": "周瑜来到柴桑的孙权朝廷，发现朝堂上下被恐惧所笼罩。曹操号称八十万大军的书信动摇了许多重臣的决心。最受尊敬的文臣张昭公开主张投降，认为面对如此兵力抵抗毫无意义。与此同时，诸葛亮作为刘备的使者前来，雄辩地主张联盟——但他的才华让周瑜感到不安，如此人才效力于刘备，日后可能成为比曹操更大的威胁。周瑜必须说服孙权迎战，选择整体战役策略，并决定与刘备军队合作的紧密程度。"
+  },
+  "situationReport": [
+    {
+      "en": "Cao Cao's army of over 200,000 is advancing south along the Yangtze",
+      "ja": "曹操の20万以上の軍が長江沿いに南下中",
+      "zh-CN": "曹操二十余万大军正沿长江南下"
+    },
+    {
+      "en": "Sun Quan's court is divided — Zhang Zhao's surrender faction holds significant influence",
+      "ja": "孫権の朝廷は分裂——張昭の降伏派が大きな影響力を持つ",
+      "zh-CN": "孙权朝堂意见分裂——张昭的主降派拥有相当影响力"
+    },
+    {
+      "en": "Zhuge Liang has arrived offering Liu Bei's forces for the alliance — roughly 20,000 men",
+      "ja": "諸葛亮が劉備の兵力約2万を同盟に提供して到着",
+      "zh-CN": "诸葛亮已到，提议以刘备约两万兵力加入联盟"
+    },
+    {
+      "en": "Reports indicate disease is already spreading through Cao Cao's northern troops unaccustomed to the southern climate",
+      "ja": "報告によると、南方の気候に慣れない曹操の北方兵の間で既に疫病が蔓延している",
+      "zh-CN": "报告显示疫病已在不适应南方气候的曹操北方军中蔓延"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure Sun Quan's commitment to resist Cao Cao",
+      "ja": "孫権の曹操への抵抗の決意を確保する",
+      "zh-CN": "确保孙权抗曹的决心"
+    },
+    {
+      "en": "Establish a viable military strategy that exploits the Yangtze advantage",
+      "ja": "長江の利点を活かした実行可能な軍事戦略を立てる",
+      "zh-CN": "制定利用长江优势的可行军事策略"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The surrender faction is powerful — alienating them could fracture Wu's internal politics",
+      "ja": "降伏派は強力——彼らを敵に回すと呉の内政が分裂する可能性がある",
+      "zh-CN": "主降派势力强大——疏远他们可能导致吴国内部政治分裂"
+    },
+    {
+      "en": "Liu Bei's forces are essential but trusting Zhuge Liang completely could empower a future rival",
+      "ja": "劉備の兵力は不可欠だが、諸葛亮を完全に信頼すると将来の競争相手を強化する可能性がある",
+      "zh-CN": "刘备的兵力不可或缺，但完全信任诸葛亮可能会壮大未来的对手"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Advocate a naval-focused strategy. Concentrate all allied forces on the Yangtze, exploit Cao Cao's weakness at sea, and refuse any land engagement.",
+        "ja": "水上戦中心の戦略を主張する。全連合軍を長江に集中させ、曹操の水上での弱点を突き、陸上戦を一切避ける。",
+        "zh-CN": "主张以水战为核心的策略。将联军全部力量集中在长江上，利用曹操的水战弱点，拒绝任何陆上交战。"
+      },
+      "historicalContext": "The historical approach — Zhou Yu recognized that the Yangtze was the great equalizer against Cao Cao's numerical superiority.",
+      "outcomePrompt": {
+        "en": "Sun Quan is persuaded. Zhou Yu draws his sword and cuts the corner of his desk, declaring that any who speak of surrender again shall meet the same fate. The court falls silent. The strategy is set: the allied fleet will anchor at Red Cliffs and force Cao Cao to fight on the water, where his advantages in numbers count for far less. Zhuge Liang nods approvingly, and the two commanders begin coordinating their naval forces. The alliance holds — for now.",
+        "ja": "孫権は説得された。周瑜は剣を抜き、机の角を切り落とし、再び降伏を口にする者は同じ運命を辿ると宣言した。朝廷は沈黙に包まれた。戦略は決まった：連合艦隊は赤壁に布陣し、曹操を水上での戦いに引き込む。そこでは数の優位ははるかに小さくなる。諸葛亮は頷き、二人の指揮官は水軍の調整を始めた。同盟は保たれている——今のところは。",
+        "zh-CN": "孙权被说服了。周瑜拔剑砍下桌角，宣布再有敢言投降者，当如此桌。朝堂一片寂静。战略已定：联军舰队将在赤壁布阵，迫使曹操在水上交战，在那里他的兵力优势将大打折扣。诸葛亮赞许地点头，两位统帅开始协调水军力量。联盟维系住了——暂时。"
+      },
+      "nextSceneId": "red-cliffs-208-scene-002",
+      "stateChanges": [
+        { "variable": "allianceCohesion", "operation": "add", "value": 10 },
+        { "variable": "navalSuperiority", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Propose a combined land-and-naval strategy. Use the fleet to hold the river while sending Liu Bei's forces to harass Cao Cao's supply lines on land.",
+        "ja": "水陸両用の戦略を提案する。艦隊で長江を守りつつ、劉備の軍を陸上で曹操の補給線を攪乱させる。",
+        "zh-CN": "提出水陆并用的策略。用舰队封锁长江，同时派刘备的军队在陆上骚扰曹操的补给线。"
+      },
+      "historicalContext": "A counterfactual — dividing forces could have weakened the naval attack but disrupted Cao Cao's logistics.",
+      "outcomePrompt": {
+        "en": "Sun Quan agrees, but the plan creates immediate friction. Liu Bei is wary of being assigned the more dangerous land operations while Wu holds the safer river positions. Zhuge Liang argues that Liu Bei's forces should have joint command of the naval fleet as well. Zhou Yu manages to hold the alliance together by conceding some naval positions to Liu Bei's officers, but the divided strategy means neither front has overwhelming strength. Reports arrive that Cao Cao has begun chaining his ships together to create a stable platform for his land-trained soldiers.",
+        "ja": "孫権は同意したが、この計画は即座に摩擦を生む。劉備は呉が安全な水上陣地を保持する一方で、自軍がより危険な陸上作戦を任されることを警戒する。諸葛亮は劉備の軍もまた水軍の共同指揮権を持つべきだと主張する。周瑜は劉備の将校にいくつかの水軍の配置を譲ることで同盟をかろうじて保つが、分散戦略のためにどちらの戦線も圧倒的な兵力を持てない。曹操が陸上訓練を受けた兵士のために安定した足場を作ろうと船を鎖で連結し始めたという報告が届く。",
+        "zh-CN": "孙权同意了，但此计划立刻引发摩擦。刘备对被分配更危险的陆上任务而吴军据守较安全的水上阵地心存疑虑。诸葛亮主张刘备的军队也应共同指挥水军。周瑜向刘备的将领让出一些水军位置，勉强维持住了联盟，但分兵策略意味着两条战线都没有压倒性的兵力。消息传来，曹操已开始用铁链将战船连接起来，为他训练于陆战的士兵创造稳固的平台。"
+      },
+      "nextSceneId": "red-cliffs-208-scene-002",
+      "stateChanges": [
+        { "variable": "allianceCohesion", "operation": "add", "value": -5 },
+        { "variable": "navalSuperiority", "operation": "add", "value": 5 },
+        { "variable": "caoStrength", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

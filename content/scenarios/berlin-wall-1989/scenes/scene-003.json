@@ -1,0 +1,109 @@
+{
+  "id": "berlin-wall-1989-scene-003",
+  "scenarioId": "berlin-wall-1989",
+  "title": "The Wall Comes Down",
+  "date": {
+    "en": "November 10, 1989",
+    "ja": "1989年11月10日",
+    "zh-CN": "1989年11月10日"
+  },
+  "location": {
+    "en": "SED Central Committee Building, East Berlin",
+    "ja": "SED中央委員会ビル、東ベルリン",
+    "zh-CN": "统一社会党中央委员会大楼，东柏林"
+  },
+  "narrativePrompt": {
+    "en": "Dawn breaks on a changed world. The Wall is open. East Berliners are crossing freely into the West and returning home again — the one-way exodus the Party feared has not materialized. Instead, something more dangerous has happened: the people have lost their fear. Citizens are physically dismantling sections of the Wall with hammers and picks. The international community is already responding — President Bush has made a cautious statement, Helmut Kohl is flying back from Poland, Margaret Thatcher and François Mitterrand are alarmed. The SED Politburo is meeting in emergency session. Hardliners want to restore order — they argue that if the Party acts decisively, the situation can still be reversed. Reformers say the only path forward is to embrace change and negotiate the best terms possible. Egon Krenz asks you directly: what should the Party do now?",
+    "ja": "変わった世界に夜が明けます。壁は開いています。東ベルリン市民は自由に西側に渡り、また帰ってきています——党が恐れた一方通行の大脱出は現実化していません。代わりに、もっと危険なことが起きました：市民が恐怖を失いました。市民がハンマーやつるはしで壁の一部を物理的に解体しています。国際社会はすでに反応しています——ブッシュ大統領は慎重な声明を出し、ヘルムート・コールはポーランドから飛行機で戻り、マーガレット・サッチャーとフランソワ・ミッテランは動揺しています。SED政治局は緊急会議を開いています。強硬派は秩序の回復を求めています——党が断固として行動すれば、状況はまだ逆転できると主張しています。改革派は前に進む唯一の道は変化を受け入れ、可能な限り最善の条件を交渉することだと言っています。エゴン・クレンツがあなたに直接尋ねます：党は今何をすべきか？",
+    "zh-CN": "黎明降临在一个改变了的世界。墙已经开放。东柏林人自由地越境到西方，然后又回家——党所担心的单向外流并没有出现。相反，发生了更危险的事情：人民失去了恐惧。市民们正在用锤子和镐头拆除墙体。国际社会已经在回应——布什总统发表了谨慎的声明，赫尔穆特·科尔正从波兰飞回，撒切尔夫人和密特朗总统感到震惊。统一社会党政治局正在召开紧急会议。强硬派要求恢复秩序——他们认为如果党果断行动，局势仍然可以逆转。改革派说唯一的出路是拥抱变革，尽可能争取最好的条件。埃贡·克伦茨直接问您：党现在应该怎么做？"
+  },
+  "situationReport": [
+    {
+      "en": "Over 100,000 East Berliners crossed to the West overnight — virtually all have returned home",
+      "ja": "10万人以上の東ベルリン市民が一晩で西側に渡った——ほぼ全員が帰宅した",
+      "zh-CN": "超过10万名东柏林人一夜之间越境到西方——几乎全部都已返回家中"
+    },
+    {
+      "en": "Citizens are physically breaking down sections of the Wall — 'Mauerspechte' (wall woodpeckers) are chipping away with hammers",
+      "ja": "市民が壁の一部を物理的に壊している——「マウアースペヒテ」（壁キツツキ）がハンマーで削っている",
+      "zh-CN": "市民正在物理拆除墙体部分——「啄墙鸟」们正在用锤子凿墙"
+    },
+    {
+      "en": "The Soviet military in East Germany has made no move — Moscow is silent",
+      "ja": "東ドイツのソ連軍は動いていない——モスクワは沈黙している",
+      "zh-CN": "驻东德苏军没有任何动作——莫斯科保持沉默"
+    },
+    {
+      "en": "West German Chancellor Kohl is expected to call for rapid reunification talks",
+      "ja": "西ドイツのコール首相が急速な統一交渉を呼びかけると予想される",
+      "zh-CN": "预计西德总理科尔将呼吁迅速进行统一谈判"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Shape the aftermath of the Wall's opening to preserve what stability remains",
+      "ja": "残った安定を保つために壁の開放後の事態を形作る",
+      "zh-CN": "塑造柏林墙开放后的局势以保持残存的稳定"
+    },
+    {
+      "en": "Determine whether the SED can survive as a reformed political party",
+      "ja": "SEDが改革された政党として存続できるかどうかを見極める",
+      "zh-CN": "确定统一社会党是否能作为改革后的政党存续"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Any attempt to close the Wall again would require force that could trigger international intervention",
+      "ja": "壁を再び閉じようとする試みは国際的介入を引き起こしかねない武力を必要とする",
+      "zh-CN": "任何重新关闭墙的尝试都需要可能引发国际干预的武力"
+    },
+    {
+      "en": "The East German economy cannot survive without either Soviet support or Western integration",
+      "ja": "東ドイツ経済はソ連の支援か西側への統合なしには存続できない",
+      "zh-CN": "东德经济没有苏联支持或西方一体化就无法存续"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Advise Krenz to embrace the opening. Announce free elections, begin negotiations with West Germany, and position the SED as the party that brought peaceful change. Accept that reunification is now inevitable and try to shape its terms.",
+        "ja": "クレンツに開放を受け入れるよう助言する。自由選挙を発表し、西ドイツとの交渉を始め、SEDを平和的変革をもたらした政党として位置付ける。再統一は今や避けられないことを受け入れ、その条件を形作ることを試みる。",
+        "zh-CN": "建议克伦茨拥抱开放。宣布自由选举，开始与西德谈判，将统一社会党定位为带来和平变革的政党。接受统一现在不可避免，并尝试塑造其条件。"
+      },
+      "historicalContext": "Roughly the historical path — the SED attempted reforms but was swept aside. Free elections in March 1990 produced a mandate for rapid reunification.",
+      "outcomePrompt": {
+        "en": "Krenz accepts your advice. He goes before the cameras and declares that the opening of the Wall represents a new era of freedom and reform. He announces that free elections will be held. The world watches, astonished. For a brief moment, it seems the SED might survive as a reformed party. But the pace of events is relentless. Kohl seizes the initiative, proposing a ten-point plan for reunification. The SED hemorrhages members daily. By December, Krenz himself will be forced to resign. Free elections in March 1990 will produce an overwhelming vote for reunification. By October 3, 1990, the German Democratic Republic will cease to exist. But tonight, November 10, 1989, there is no Tiananmen. There is no violence. There is only the sound of hammers on concrete and the laughter of a city reuniting with itself.",
+        "ja": "クレンツはあなたの助言を受け入れます。彼はカメラの前に立ち、壁の開放は自由と改革の新時代を意味すると宣言します。自由選挙を行うと発表します。世界は驚きながら見守ります。一瞬、SEDが改革政党として存続できるかもしれないと思われます。しかし事態の展開のペースは容赦がありません。コールが主導権を握り、再統一のための10項目計画を提案します。SEDは毎日メンバーが流出します。12月にはクレンツ自身が辞任を余儀なくされます。1990年3月の自由選挙は再統一への圧倒的な支持を示します。1990年10月3日までにドイツ民主共和国は消滅します。しかし今夜、1989年11月10日、天安門はありません。暴力はありません。あるのはコンクリートを叩くハンマーの音と、自らと再会する街の笑い声だけです。",
+        "zh-CN": "克伦茨接受了您的建议。他面对镜头宣布，柏林墙的开放代表着自由和改革的新时代。他宣布将举行自由选举。全世界惊讶地注视着。有那么一刻，统一社会党似乎可以作为改革后的政党存续下去。但事态发展的速度是无情的。科尔抓住主动权，提出了统一十点计划。统一社会党每天都在流失成员。到12月，克伦茨本人将被迫辞职。1990年3月的自由选举将产生压倒性的统一投票。到1990年10月3日，德意志民主共和国将不复存在。但今晚，1989年11月10日，没有天安门。没有暴力。只有锤子敲击混凝土的声音和一座城市与自身重聚的笑声。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "partyControl", "operation": "add", "value": -10 },
+        { "variable": "publicPressure", "operation": "add", "value": -30 },
+        { "variable": "sovietSupport", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Advise Krenz to reassert control. Close some crossings, deploy police to prevent further dismantling of the Wall, and demand that citizens follow the proper visa application process. Try to preserve the state.",
+        "ja": "クレンツに統制を再確立するよう助言する。一部の検問所を閉鎖し、壁のさらなる解体を防ぐために警察を配備し、市民に適切なビザ申請手続きに従うよう要求する。国家の存続を試みる。",
+        "zh-CN": "建议克伦茨重新建立控制。关闭一些过境点，部署警察防止进一步拆除墙体，要求公民遵循正规签证申请程序。试图保存国家。"
+      },
+      "historicalContext": "A counterfactual — any attempt to re-close the Wall after November 9 would have faced massive resistance and international condemnation.",
+      "outcomePrompt": {
+        "en": "Krenz hesitates, then agrees to try. Police units are dispatched to the crossings. But the order is impossible to enforce. When officers arrive at Bornholmer Straße, they find 50,000 people celebrating in the streets. The police commander takes one look at the crowd, radios back, and says his men will not act against the people. Similar reports come from every crossing. By afternoon, the attempt is abandoned. The failed crackdown has only accelerated the regime's collapse. Krenz is finished — his attempt to reverse the opening has destroyed whatever credibility he had left. Reformers within the Party move to replace him. The Wall stays open. Reunification comes anyway, but the SED's last hours are remembered not for peaceful transition but for a regime that tried to put the genie back in the bottle and failed.",
+        "ja": "クレンツは躊躇しますが、試みることに同意します。警察部隊が検問所に派遣されます。しかし命令の遂行は不可能です。警官たちがボルンホルマー通りに到着すると、5万人が通りで祝っているのを目にします。警察の指揮官は群衆を一目見て無線で報告し、部下は市民に対して行動しないと言います。すべての検問所から同様の報告が来ます。午後までに試みは放棄されます。失敗した弾圧は政権の崩壊を加速しただけです。クレンツは終わりです——開放を覆そうとした試みが残っていた信頼性をすべて破壊しました。党内の改革派が彼を交代させる動きを始めます。壁は開いたままです。再統一はいずれにしても来ますが、SEDの最後の時間は平和的移行ではなく、魔人をランプに戻そうとして失敗した政権として記憶されます。",
+        "zh-CN": "克伦茨犹豫了一下，然后同意尝试。警察部队被派往各过境点。但命令无法执行。当警察到达博恩霍尔姆大街时，他们发现5万人在街上庆祝。警察指挥官看了一眼人群，用无线电回复说他的人不会对人民采取行动。每个过境点都传来类似的报告。到下午，这次尝试被放弃。失败的镇压只是加速了政权的崩溃。克伦茨完了——他试图逆转开放的行为摧毁了他仅存的信誉。党内改革派开始着手替换他。墙继续开放。统一无论如何都会到来，但统一社会党的最后时刻被人记住的不是和平过渡，而是一个试图把精灵放回瓶子却失败了的政权。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "partyControl", "operation": "add", "value": -25 },
+        { "variable": "publicPressure", "operation": "add", "value": 15 },
+        { "variable": "sovietSupport", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

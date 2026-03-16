@@ -1,14 +1,81 @@
+import fs from "fs";
+import path from "path";
 import { loadScenario } from "@/lib/engine/scenario-loader";
-import ScenarioSelect from "@/components/ScenarioSelect";
+import CampaignSelect from "@/components/CampaignSelect";
+
+interface ManifestScenario {
+  id: string;
+}
+
+interface ManifestEra {
+  scenarios: ManifestScenario[];
+}
+
+interface ManifestRegion {
+  eras: ManifestEra[];
+}
+
+interface Manifest {
+  regions: ManifestRegion[];
+}
+
+function loadManifest() {
+  const filePath = path.join(process.cwd(), "content", "manifest.json");
+  if (!fs.existsSync(filePath)) return null;
+  return JSON.parse(fs.readFileSync(filePath, "utf-8")) as Manifest;
+}
 
 export default function HomePage() {
-  const scenario = (() => {
-    try {
-      return loadScenario("verdun-1916");
-    } catch {
-      return null;
+  const manifest = loadManifest();
+  if (!manifest) {
+    return (
+      <main style={{ maxWidth: 600, margin: "0 auto", padding: "2rem 1rem" }}>
+        <p style={{ color: "var(--tc-muted)", textAlign: "center" }}>
+          No scenarios available.
+        </p>
+      </main>
+    );
+  }
+
+  // Pre-load scenario details for all scenarios in the manifest
+  const scenarioDetails: Record<string, unknown> = {};
+  for (const region of manifest.regions) {
+    for (const era of region.eras) {
+      for (const sc of era.scenarios) {
+        try {
+          const full = loadScenario(sc.id);
+          scenarioDetails[sc.id] = {
+            id: full.id,
+            title: full.title,
+            period: full.period,
+            dates: full.dates,
+            difficulty: full.difficulty,
+            roles: full.roles.map((r) => ({
+              id: r.id,
+              name: r.name,
+              title: r.title,
+              perspective: r.perspective,
+            })),
+          };
+        } catch {
+          // Scenario not yet available — skip
+        }
+      }
     }
-  })();
+  }
+
+  // Filter manifest to only include scenarios that loaded successfully
+  const filteredRegions = manifest.regions
+    .map((region) => ({
+      ...region,
+      eras: region.eras
+        .map((era) => ({
+          ...era,
+          scenarios: era.scenarios.filter((sc) => sc.id in scenarioDetails),
+        }))
+        .filter((era) => era.scenarios.length > 0),
+    }))
+    .filter((region) => region.eras.length > 0);
 
   return (
     <main
@@ -53,19 +120,10 @@ export default function HomePage() {
         </p>
       </header>
 
-      {scenario ? (
-        <ScenarioSelect
-          scenarioId={scenario.id}
-          title={scenario.title}
-          period={scenario.period}
-          dates={scenario.dates}
-          difficulty={scenario.difficulty}
-          roles={scenario.roles.map((r) => ({
-            id: r.id,
-            name: r.name,
-            title: r.title,
-            perspective: r.perspective,
-          }))}
+      {filteredRegions.length > 0 ? (
+        <CampaignSelect
+          regions={filteredRegions as never}
+          scenarios={scenarioDetails as never}
         />
       ) : (
         <p style={{ color: "var(--tc-muted)", textAlign: "center" }}>

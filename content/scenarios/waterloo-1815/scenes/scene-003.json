@@ -1,0 +1,108 @@
+{
+  "id": "waterloo-1815-scene-003",
+  "scenarioId": "waterloo-1815",
+  "title": "The Arrival of Blücher and the Final Gamble",
+  "date": {
+    "en": "June 18, 1815 — Late Afternoon",
+    "ja": "1815年6月18日 — 午後遅く",
+    "zh-CN": "1815年6月18日 - 傍晚"
+  },
+  "location": {
+    "en": "Napoleon's command post, La Belle Alliance",
+    "ja": "ナポレオンの指揮所、ラ・ベル・アリアンス",
+    "zh-CN": "拿破仑的指挥所，美丽联盟"
+  },
+  "narrativePrompt": {
+    "en": "The crisis has arrived. Blücher's Prussians are pouring onto the battlefield from the east in ever-increasing numbers. The village of Plancenoit on your right flank has changed hands twice. Your Young Guard has been thrown into the fight to hold the village, and even they are being pushed back. Wellington's line, though battered, has not broken. You have one final reserve: the Imperial Guard — the elite of the French army, the men who have never been defeated. Committing the Guard is the ultimate gamble. If they break Wellington's line, the battle is won. If they fail, there is nothing left between the Prussians and the total destruction of your army. The sun is low. The shadows are lengthening. This is the moment that will define your legacy.",
+    "ja": "危機が訪れた。ブリュッヒャーのプロイセン軍が東方から次々と戦場に押し寄せている。右翼のプランスノワ村は二度手を変えた。若い近衛兵が村を守るために投入されたが、彼らさえも押し戻されつつある。ウェリントンの戦線は打撃を受けたが崩れていない。あなたには最後の予備が一つ残っている：近衛軍——フランス軍の精鋭、かつて敗北したことのない兵士たちだ。近衛軍の投入は究極の賭けである。もし彼らがウェリントンの戦線を崩せば、戦いに勝つ。もし失敗すれば、プロイセン軍とあなたの軍の完全な壊滅の間には何も残らない。太陽は低い。影が伸びている。これはあなたの遺産を決定づける瞬間だ。",
+    "zh-CN": "危机已经到来。布吕歇尔的普鲁士军正从东方源源不断地涌入战场。您右翼的普朗斯诺瓦村已经两度易手。您的青年近卫军已被投入战斗保卫该村，但连他们也在被逼退。威灵顿的防线虽遭重创但没有崩溃。您还有最后一支预备队：帝国近卫军——法国军队的精锐，从未被击败过的士兵。投入近卫军是最终的赌注。如果他们突破威灵顿的防线，战役就赢了。如果他们失败，在普鲁士军与您军队的彻底覆灭之间将一无所有。太阳已低垂。影子在拉长。这是将定义您传奇的时刻。"
+  },
+  "situationReport": [
+    {
+      "en": "Blücher's Prussians have arrived in force and are attacking Plancenoit on your right flank",
+      "ja": "ブリュッヒャーのプロイセン軍が大挙到着し、右翼のプランスノワを攻撃している",
+      "zh-CN": "布吕歇尔的普鲁士军已大举到达，正在攻击您右翼的普朗斯诺瓦"
+    },
+    {
+      "en": "Wellington's center is weakened but holding; his reserves are nearly exhausted",
+      "ja": "ウェリントンの中央は弱体化しているが持ちこたえている。予備軍はほぼ枯渇",
+      "zh-CN": "威灵顿的中央已被削弱但仍在坚守；他的预备队几乎耗尽"
+    },
+    {
+      "en": "The Imperial Guard — eight battalions of the finest soldiers in Europe — is your last uncommitted force",
+      "ja": "近衛軍——ヨーロッパ最精鋭の8個大隊——があなたの最後の未投入の戦力である",
+      "zh-CN": "帝国近卫军——欧洲最精锐的八个营——是您最后未投入的力量"
+    },
+    {
+      "en": "Grouchy has not appeared; his 33,000 men have been effectively lost to you for this battle",
+      "ja": "グルーシーは姿を見せていない。彼の33,000人はこの戦いにおいて事実上失われた",
+      "zh-CN": "格鲁希没有出现；他的33000人在这场战役中实际上已经失去了"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Make the final decision: commit the Imperial Guard or preserve the army",
+      "ja": "最終決断を下す：近衛軍を投入するか、軍を保全するか",
+      "zh-CN": "做出最终决定：投入帝国近卫军还是保存军队"
+    },
+    {
+      "en": "Determine the fate of the French Empire",
+      "ja": "フランス帝国の運命を決定する",
+      "zh-CN": "决定法兰西帝国的命运"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "If the Guard is committed and fails, there is no reserve to cover a retreat",
+      "ja": "近衛軍を投入して失敗すれば、退却を援護する予備がない",
+      "zh-CN": "如果近卫军投入后失败，没有预备队可以掩护撤退"
+    },
+    {
+      "en": "If you retreat without committing the Guard, the army survives but the campaign — and your reign — is almost certainly over",
+      "ja": "近衛軍を投入せずに撤退すれば、軍は生き残るが、戦役は——そしてあなたの統治は——ほぼ確実に終わる",
+      "zh-CN": "如果不投入近卫军就撤退，军队可以保存但战役——以及您的统治——几乎肯定结束"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Send in the Imperial Guard. Everything or nothing. Lead them forward personally if you must. Break Wellington's line before the Prussians overwhelm you.",
+        "ja": "近衛軍を投入する。すべてか無か。必要なら自ら先頭に立って前進する。プロイセン軍に圧倒される前にウェリントンの戦線を突破する。",
+        "zh-CN": "投入帝国近卫军。一切或一无所有。如有必要亲自率领他们前进。在普鲁士军将您压倒之前突破威灵顿的防线。"
+      },
+      "historicalContext": "The historical choice — Napoleon sent the Guard forward in the early evening. They were repulsed, and their visible defeat caused the rest of the French army to panic and flee.",
+      "outcomePrompt": {
+        "en": "You give the order that echoes across the battlefield: 'The Guard advances!' Eight battalions of the Old and Middle Guard form their columns and march up the slope with drums beating. For a terrible, magnificent moment, it seems as though nothing can stop them. Wellington's tired troops watch them come with something between awe and dread. But Wellington has hidden a brigade of Guards behind the ridge. As the Imperial Guard crests the slope, a wall of musket fire erupts at point-blank range. The Guard staggers. For the first time in living memory, the words ring out across the battlefield: 'La Garde recule!' — The Guard retreats! The effect is instantaneous and catastrophic. French units that had been fighting doggedly all day see the invincible Guard falling back and lose all will to resist. The army dissolves. The Prussians sweep through. The Battle of Waterloo is over. Your empire is over. The age of Napoleon has ended in a Belgian field at sunset.",
+        "ja": "あなたは戦場に響く命令を下す：「近衛軍、前進！」老近衛と中近衛の8個大隊が縦隊を組み、太鼓を打ち鳴らしながら斜面を登る。恐ろしくも壮大な瞬間、何も彼らを止められないように見える。ウェリントンの疲弊した兵士たちは畏怖と恐怖の入り混じった目で彼らが来るのを見つめる。しかしウェリントンは尾根の裏に近衛旅団を隠していた。近衛軍が斜面の頂に達すると、至近距離からマスケット銃の銃火の壁が噴出する。近衛軍がよろめく。記憶にある限り初めて、戦場にこの言葉が響き渡る：「ラ・ガルド・ルキュル！」——近衛軍が退却する！その効果は即座で壊滅的だ。一日中頑強に戦っていたフランス軍の部隊が、無敵の近衛軍の退却を見て、抵抗の意志を完全に失う。軍は崩壊する。プロイセン軍が突進する。ワーテルローの戦いは終わった。あなたの帝国は終わった。ナポレオンの時代はベルギーの野原で日没とともに幕を閉じた。",
+        "zh-CN": "您下达了回荡在整个战场的命令：'近卫军，前进！'老近卫军和中近卫军的八个营排成纵队，在鼓声中向山坡进发。在一个可怕而壮丽的时刻，似乎没有什么能阻挡他们。威灵顿疲惫的士兵们带着敬畏和恐惧注视着他们走来。但威灵顿在山脊后方隐藏了一个近卫旅。当帝国近卫军登上山坡顶部时，一道近距离的排枪火墙爆发。近卫军踉跄了。有史以来第一次，战场上响起这样的呼喊：'近卫军在后退！'效果立竿见影而且是灾难性的。整日顽强作战的法军部队看到不可战胜的近卫军后退，丧失了一切抵抗意志。军队瓦解了。普鲁士军席卷而过。滑铁卢战役结束了。您的帝国结束了。拿破仑时代在日落时分的比利时田野上画上了句号。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "frenchMorale", "operation": "set", "value": 0 },
+        { "variable": "cavalryReserve", "operation": "set", "value": 0 },
+        { "variable": "artilleryAmmo", "operation": "set", "value": 0 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Order a general retreat while the Guard forms a rearguard. Save the army to fight another day. The battle is lost, but the war need not be.",
+        "ja": "近衛軍が後衛を務める間に総退却を命じる。別の日に戦うために軍を救う。戦闘には負けたが、戦争まで負ける必要はない。",
+        "zh-CN": "下令全面撤退，由近卫军担任后卫。保存军队以待来日再战。战役输了，但战争不必输。"
+      },
+      "historicalContext": "A counterfactual — Napoleon did not order retreat until after the Guard's failure, by which time an orderly withdrawal was impossible.",
+      "outcomePrompt": {
+        "en": "You make the hardest decision of your life. The Imperial Guard, the pride of France, forms a hollow square and begins a fighting retreat, covering the withdrawal of the rest of the army. It is the first time you have ordered a retreat without first seeking victory, and every fiber of your being rebels against it. The Guard holds magnificently. Blücher's cavalry pursues but cannot break the squares. By nightfall, you have extracted perhaps 50,000 men in some semblance of order — battered, demoralized, but alive. The campaign is over. Belgium is lost. Your enemies will demand your abdication, and this time there will be no return from exile. But the army of France survives, and with it some shred of honor. At Le Caillou, as the last campfires flicker out, you sit alone and contemplate the letter of abdication you know you must write.",
+        "ja": "あなたは人生で最も困難な決断を下す。フランスの誇りである近衛軍が方陣を組み、残りの軍の撤退を援護しながら戦闘退却を開始する。勝利を求めずに退却を命じたのはこれが初めてで、あなたの全身がそれに反発する。近衛軍は見事に持ちこたえる。ブリュッヒャーの騎兵が追撃するが方陣を崩せない。日没までに、おそらく5万人をある程度の秩序を保って撤退させた——打ちのめされ、士気を失い、しかし生きている。戦役は終わった。ベルギーは失われた。敵はあなたの退位を要求するだろう。そして今度は流刑からの帰還はない。しかしフランス軍は生き残り、そして名誉のかけらも。ル・カイユで最後の焚火が消えていく中、あなたは一人座り、書かなければならないと分かっている退位の書簡を熟考する。",
+        "zh-CN": "您做出了一生中最艰难的决定。帝国近卫军——法兰西的骄傲——组成空心方阵开始战斗撤退，掩护其余部队撤离。这是您第一次在未寻求胜利的情况下下令撤退，您的每一根神经都在抗拒。近卫军表现出色地坚守住了。布吕歇尔的骑兵追击但无法突破方阵。到夜幕降临，您大约撤出了5万人，尚有些许秩序——虽然遍体鳞伤、士气低落，但活着。战役结束了。比利时失去了。您的敌人将要求您退位，这一次将不会再从流放中归来。但法兰西的军队存活了下来，连同些许荣誉。在勒卡尤，当最后的篝火渐渐熄灭时，您独自坐着，思索着那封您知道必须写下的退位信。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "frenchMorale", "operation": "add", "value": -30 },
+        { "variable": "cavalryReserve", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

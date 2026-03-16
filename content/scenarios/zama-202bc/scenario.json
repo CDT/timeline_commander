@@ -1,0 +1,163 @@
+{
+  "id": "zama-202bc",
+  "title": {
+    "en": "Battle of Zama",
+    "ja": "ザマの戦い",
+    "zh-CN": "扎马战役"
+  },
+  "period": {
+    "en": "Second Punic War",
+    "ja": "第二次ポエニ戦争",
+    "zh-CN": "第二次布匿战争"
+  },
+  "dates": {
+    "start": "-202-10-19",
+    "end": "-202-10-19"
+  },
+  "location": {
+    "en": "Zama, North Africa (modern Tunisia)",
+    "ja": "北アフリカ、ザマ（現代のチュニジア）",
+    "zh-CN": "北非扎马（今突尼斯）"
+  },
+  "historicalOverview": {
+    "en": "The Battle of Zama, fought in October 202 BC, was the decisive engagement of the Second Punic War. For sixteen years, Hannibal Barca had terrorized Rome, inflicting catastrophic defeats at Trebia, Lake Trasimene, and Cannae. But the young Roman general Publius Cornelius Scipio had turned the tide by invading Carthage's homeland in North Africa, forcing the Carthaginian Senate to recall Hannibal from Italy. At Zama, the two greatest generals of their age met on the battlefield for the first and only time. Hannibal deployed war elephants and his veteran infantry, while Scipio countered with superior cavalry provided by his Numidian ally Masinissa and innovative tactical formations designed to neutralize the elephant charge. The battle ended in a complete Roman victory, shattering Carthaginian military power and establishing Rome as the dominant power of the western Mediterranean.",
+    "ja": "紀元前202年10月に戦われたザマの戦いは、第二次ポエニ戦争の決定的な会戦であった。16年間、ハンニバル・バルカはローマを脅かし、トレビア、トラシメヌス湖、カンナエで壊滅的な敗北を与えてきた。しかし若きローマ将軍プブリウス・コルネリウス・スキピオは北アフリカのカルタゴ本国を侵攻することで戦局を転換し、カルタゴ元老院にハンニバルをイタリアから召還させた。ザマでは、彼らの時代の最も偉大な二人の将軍が戦場で初めて、そして唯一の対面を果たした。ハンニバルは戦象と精鋭歩兵を配置し、スキピオはヌミディアの同盟者マシニッサが提供する優勢な騎兵と、象の突撃を無力化するために設計された革新的な戦術陣形で対抗した。戦いはローマの完全勝利で終わり、カルタゴの軍事力を粉砕し、ローマを西地中海の支配的勢力として確立した。",
+    "zh-CN": "扎马战役发生在公元前202年10月，是第二次布匿战争的决定性会战。十六年来，汉尼拔·巴卡一直令罗马胆寒，在特雷比亚、特拉西梅诺湖和坎尼接连给罗马造成灾难性的惨败。但年轻的罗马将领普布利乌斯·科尔内利乌斯·西庇阿通过入侵迦太基在北非的本土扭转了战局，迫使迦太基元老院将汉尼拔从意大利召回。在扎马，这个时代最伟大的两位将领在战场上首次也是唯一一次正面交锋。汉尼拔部署了战象和精锐步兵，而西庇阿则以其努米底亚盟友马西尼萨提供的优势骑兵以及专门设计用来化解战象冲锋的创新战术阵型予以反击。战役以罗马的完全胜利告终，粉碎了迦太基的军事力量，确立了罗马在西地中海的霸主地位。"
+  },
+  "realWorldOutcome": {
+    "en": "Scipio's victory at Zama ended the Second Punic War. Carthage was forced to accept harsh peace terms: it surrendered its war elephants and fleet, paid an enormous indemnity, and was forbidden from waging war without Roman permission. Hannibal survived the battle and later served as a Carthaginian political leader before being hunted by Rome and dying in exile. Scipio earned the honorific 'Africanus' and became the most celebrated Roman of his generation. The battle established Rome's supremacy over the western Mediterranean for centuries.",
+    "ja": "スキピオのザマでの勝利は第二次ポエニ戦争を終結させた。カルタゴは厳しい和平条件を受け入れることを強いられた：戦象と艦隊の引き渡し、巨額の賠償金の支払い、ローマの許可なしの戦争禁止。ハンニバルは戦いを生き延び、後にカルタゴの政治指導者として活動したが、ローマに追われ亡命先で死去した。スキピオは「アフリカヌス」の称号を得て、同世代で最も称賛されたローマ人となった。この戦いはその後数世紀にわたる西地中海におけるローマの覇権を確立した。",
+    "zh-CN": "西庇阿在扎马的胜利结束了第二次布匿战争。迦太基被迫接受苛刻的和约条件：交出战象和舰队，支付巨额赔款，未经罗马许可不得发动战争。汉尼拔幸存于战场，后来曾担任迦太基政治领袖，但最终被罗马追捕，客死异乡。西庇阿获得了“阿非利加努斯“的荣衔，成为其一代人中最受赞誉的罗马人。这场战役确立了罗马在此后数个世纪内对西地中海的霸权。"
+  },
+  "keyFigures": [
+    {
+      "id": "scipio",
+      "name": "Publius Cornelius Scipio Africanus",
+      "role": {
+        "en": "Commander of the Roman expeditionary force in Africa",
+        "ja": "アフリカにおけるローマ遠征軍司令官",
+        "zh-CN": "罗马远征非洲军团指挥官"
+      },
+      "faction": "Rome",
+      "description": {
+        "en": "The young Roman general who had already conquered Carthaginian Spain, now bringing the war to Hannibal's homeland. His tactical genius at Zama would earn him the surname Africanus.",
+        "ja": "すでにカルタゴ領スペインを征服した若きローマ将軍。今やハンニバルの祖国に戦争を持ち込んでいる。ザマでの彼の戦術的天才がアフリカヌスの称号をもたらすことになる。",
+        "zh-CN": "已经征服迦太基属西班牙的年轻罗马将领，如今将战火烧到了汉尼拔的故土。他在扎马展现的战术天才将为他赢得“阿非利加努斯“的称号。"
+      }
+    },
+    {
+      "id": "hannibal",
+      "name": "Hannibal Barca",
+      "role": {
+        "en": "Supreme commander of Carthaginian forces",
+        "ja": "カルタゴ軍最高司令官",
+        "zh-CN": "迦太基军队最高统帅"
+      },
+      "faction": "Carthage",
+      "description": {
+        "en": "The legendary Carthaginian general who had spent sixteen years fighting in Italy, considered one of the greatest military commanders in history, now recalled to defend his homeland.",
+        "ja": "16年間イタリアで戦い続けた伝説的なカルタゴの将軍で、歴史上最も偉大な軍事指揮官の一人と評される。今や祖国を守るために召還された。",
+        "zh-CN": "在意大利征战十六年的传奇迦太基将领，被认为是历史上最伟大的军事统帅之一，如今被召回保卫祖国。"
+      }
+    },
+    {
+      "id": "masinissa",
+      "name": "Masinissa",
+      "role": {
+        "en": "King of the Numidians, Roman ally",
+        "ja": "ヌミディア王、ローマの同盟者",
+        "zh-CN": "努米底亚国王，罗马盟友"
+      },
+      "faction": "Rome",
+      "description": {
+        "en": "The Numidian prince whose superb cavalry proved decisive at Zama. His alliance with Scipio deprived Hannibal of the cavalry superiority that had been key to Carthaginian victories.",
+        "ja": "ザマで決定的な役割を果たした優れた騎兵を率いたヌミディアの王子。スキピオとの同盟がハンニバルからカルタゴの勝利の鍵であった騎兵の優位を奪った。",
+        "zh-CN": "其精锐骑兵在扎马战役中发挥了决定性作用的努米底亚王子。他与西庇阿的联盟使汉尼拔失去了此前迦太基胜利的关键——骑兵优势。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "scipio",
+      "scenarioId": "zama-202bc",
+      "name": "Publius Cornelius Scipio Africanus",
+      "title": {
+        "en": "Commander of the Roman Army in Africa",
+        "ja": "アフリカにおけるローマ軍司令官",
+        "zh-CN": "罗马驻非洲军团指挥官"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Publius Cornelius Scipio, commander of Rome's expeditionary force in North Africa. It is October 202 BC. Your daring strategy of invading Carthage's homeland has worked — the Carthaginian Senate has recalled Hannibal from Italy to face you. The man who destroyed Roman armies at Cannae, who has haunted Rome's nightmares for sixteen years, is now camped across the plain from you with his veteran army and eighty war elephants. You have the advantage in cavalry thanks to your alliance with the Numidian king Masinissa, but Hannibal's infantry is battle-hardened from years of campaigning in Italy. Tomorrow's battle will decide the fate of the entire war. If you win, Rome dominates the Mediterranean. If you lose, everything you have built in Africa collapses, and Hannibal may yet save Carthage.",
+        "ja": "あなたは北アフリカにおけるローマ遠征軍の司令官、プブリウス・コルネリウス・スキピオです。紀元前202年10月。カルタゴ本国を侵攻するというあなたの大胆な戦略は成功しました——カルタゴ元老院はあなたに対峙させるためハンニバルをイタリアから召還しました。カンナエでローマ軍を壊滅させ、16年間ローマの悪夢であった男が、今や精鋭軍と80頭の戦象を率いてあなたの対面の平原に野営しています。ヌミディア王マシニッサとの同盟により騎兵では優位に立っていますが、ハンニバルの歩兵はイタリアでの長年の遠征で鍛え上げられています。明日の戦いが戦争全体の運命を決します。勝てば、ローマが地中海を支配します。負ければ、アフリカで築いたすべてが崩壊し、ハンニバルがカルタゴを救うかもしれません。",
+        "zh-CN": "您是普布利乌斯·科尔内利乌斯·西庇阿，罗马远征北非军团的指挥官。公元前202年10月。您入侵迦太基本土的大胆战略已经奏效——迦太基元老院已将汉尼拔从意大利召回来对付您。这个在坎尼摧毁罗马大军、令罗马噩梦了十六年的人，如今率领他的精锐军队和八十头战象在对面的平原上扎营。多亏与努米底亚国王马西尼萨的联盟，您在骑兵方面占有优势，但汉尼拔的步兵经过多年意大利征战的锤炼，久经沙场。明天的战役将决定整场战争的命运。如果您获胜，罗马将称霸地中海。如果您失败，您在非洲建立的一切将化为乌有，汉尼拔可能仍会拯救迦太基。"
+      },
+      "objectives": [
+        {
+          "en": "Defeat Hannibal's army and end the Second Punic War",
+          "ja": "ハンニバルの軍を破り、第二次ポエニ戦争を終結させる",
+          "zh-CN": "击败汉尼拔的军队，结束第二次布匿战争"
+        },
+        {
+          "en": "Neutralize Hannibal's war elephants without catastrophic losses",
+          "ja": "壊滅的な損害なしにハンニバルの戦象を無力化する",
+          "zh-CN": "在不遭受灾难性损失的情况下化解汉尼拔的战象攻势"
+        },
+        {
+          "en": "Secure Roman dominance of the western Mediterranean",
+          "ja": "西地中海におけるローマの覇権を確立する",
+          "zh-CN": "确保罗马对西地中海的统治地位"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Hannibal's veteran infantry from Italy is the finest in the world; a frontal assault would be costly",
+          "ja": "イタリアから来たハンニバルの精鋭歩兵は世界最強。正面攻撃は大きな犠牲を伴う",
+          "zh-CN": "汉尼拔从意大利带回的精锐步兵是世界上最优秀的；正面进攻代价高昂"
+        },
+        {
+          "en": "Your Numidian allies are essential but their loyalty depends on continued success",
+          "ja": "ヌミディアの同盟者は不可欠だが、彼らの忠誠は継続的な成功に依存している",
+          "zh-CN": "努米底亚盟友至关重要，但他们的忠诚取决于持续的胜利"
+        },
+        {
+          "en": "You are far from Rome; defeat in Africa would be catastrophic with no possibility of easy retreat",
+          "ja": "ローマから遠く離れている。アフリカでの敗北は壊滅的で、容易な撤退の可能性はない",
+          "zh-CN": "您远离罗马；在非洲战败将是灾难性的，没有轻易撤退的可能"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Hannibal has requested a personal meeting before battle — his reputation may intimidate your officers",
+          "ja": "ハンニバルが戦前の会見を要請している——彼の名声があなたの将校を威圧する可能性がある",
+          "zh-CN": "汉尼拔已请求战前会面——他的威名可能会使您的军官们心生畏惧"
+        },
+        {
+          "en": "The Roman Senate expects total victory; anything less will end your political career",
+          "ja": "ローマ元老院は完全勝利を期待している。それ未満の結果はあなたの政治生命を終わらせる",
+          "zh-CN": "罗马元老院期待全面胜利；任何不足都将终结您的政治生涯"
+        },
+        {
+          "en": "Eighty war elephants are a terrifying weapon that could shatter your infantry's nerve before the battle even begins",
+          "ja": "80頭の戦象は恐るべき兵器で、戦いが始まる前に歩兵の気力を打ち砕く可能性がある",
+          "zh-CN": "八十头战象是令人恐惧的武器，可能在战斗开始前就摧毁您步兵的士气"
+        }
+      ],
+      "startingSceneId": "zama-202bc-scene-001",
+      "initialState": {
+        "romanMorale": 80,
+        "cavalryStrength": 70,
+        "infantryFormation": 60,
+        "hannibalsElephants": 80
+      }
+    }
+  ],
+  "sceneIds": [
+    "zama-202bc-scene-001",
+    "zama-202bc-scene-002",
+    "zama-202bc-scene-003"
+  ],
+  "tags": ["ancient", "military", "Rome", "Carthage", "Punic Wars"],
+  "difficulty": "advanced"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "french-revolution-1789-scene-001",
+  "scenarioId": "french-revolution-1789",
+  "title": "The Tennis Court Oath",
+  "date": {
+    "en": "June 20, 1789",
+    "ja": "1789年6月20日",
+    "zh-CN": "1789年6月20日"
+  },
+  "location": {
+    "en": "Royal Tennis Court, Versailles",
+    "ja": "ヴェルサイユ、王立球戯場",
+    "zh-CN": "凡尔赛王家网球场"
+  },
+  "narrativePrompt": {
+    "en": "You arrive at the Menus-Plaisirs hall to find the doors locked and guarded by royal soldiers. The King has ordered the hall closed under the pretext of preparations for a royal session. The delegates of the Third Estate — now calling themselves the National Assembly — mill about in the rain, furious and afraid. Someone suggests the nearby royal tennis court. Within the hour, 577 delegates have crowded into the echoing indoor court. Mirabeau calls for order. The question before the assembly is whether to take an oath never to disband until France has a constitution, or to seek negotiation with the crown through more cautious channels. The mood is electric, but the risk is real: the King could send soldiers at any moment.",
+    "ja": "あなたがムニュ・プレジール館に到着すると、扉は閉ざされ王室の兵士に守られている。国王は王室会議の準備を口実に会場の閉鎖を命じた。第三身分の代議士たち——今や国民議会と名乗っている——は雨の中をうろうろし、激怒と恐怖に駆られている。誰かが近くの王立球戯場を提案する。1時間以内に577人の代議士がこだまする屋内の球戯場に押し込まれた。ミラボーが秩序を呼びかける。議会に提示された問題は、フランスに憲法が制定されるまで決して解散しないという宣誓を行うか、より慎重な方法で王政との交渉を求めるかである。雰囲気は熱気に満ちているが、リスクは現実的だ：国王はいつでも兵士を送り込むことができる。",
+    "zh-CN": "您来到梅尼-普莱西尔大厅，发现大门紧锁，由王室士兵把守。国王以准备王室会议为借口下令关闭大厅。第三等级的代表们——现在自称国民议会——在雨中四处徘徊，愤怒而恐惧。有人建议去附近的王家网球场。不到一小时，577名代表挤进了回声阵阵的室内球场。米拉波呼吁秩序。摆在议会面前的问题是：是否宣誓在法国制定宪法之前绝不解散，还是通过更谨慎的渠道寻求与王权的谈判。气氛异常激动，但风险是真实的：国王随时可能派来士兵。"
+  },
+  "situationReport": [
+    {
+      "en": "The King has locked the Third Estate out of its meeting hall at the Menus-Plaisirs",
+      "ja": "国王が第三身分をムニュ・プレジール館の会議場から締め出した",
+      "zh-CN": "国王将第三等级锁在梅尼-普莱西尔大厅之外"
+    },
+    {
+      "en": "577 delegates have gathered in the royal tennis court; emotions are running high",
+      "ja": "577人の代議士が王立球戯場に集結；感情が高ぶっている",
+      "zh-CN": "577名代表聚集在王家网球场；情绪高涨"
+    },
+    {
+      "en": "Mirabeau and other moderates favor a strong declaration but want to leave room for compromise with the crown",
+      "ja": "ミラボーら穏健派は強い宣言を支持するが、王政との妥協の余地を残したいと考えている",
+      "zh-CN": "米拉波和其他温和派赞成发表强硬声明，但希望为与王权妥协留有余地"
+    },
+    {
+      "en": "Royal troops are garrisoned near Versailles and could intervene if ordered",
+      "ja": "王軍がヴェルサイユ近くに駐屯しており、命令があれば介入できる",
+      "zh-CN": "王室军队驻扎在凡尔赛附近，如有命令可随时介入"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Unite the delegates behind a common purpose despite fear and uncertainty",
+      "ja": "恐怖と不確実性にもかかわらず、共通の目的のもとに代議士を団結させる",
+      "zh-CN": "在恐惧和不确定性中将代表们团结在共同目标之下"
+    },
+    {
+      "en": "Establish the legitimacy of the National Assembly as the voice of the French people",
+      "ja": "国民議会をフランス国民の声としての正統性を確立する",
+      "zh-CN": "确立国民议会作为法国人民代言人的合法性"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The assembly has no military force; any confrontation with royal troops would be one-sided",
+      "ja": "議会には軍事力がない。王軍との対決は一方的なものとなる",
+      "zh-CN": "议会没有军事力量；与王室军队的任何对抗都将是一边倒的"
+    },
+    {
+      "en": "Some delegates are wavering — too radical an oath could split the assembly",
+      "ja": "一部の代議士は動揺している——あまりに急進的な宣誓は議会を分裂させる可能性がある",
+      "zh-CN": "一些代表正在动摇——过于激进的誓言可能导致议会分裂"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Champion the oath with full force. Stand before the assembly, invoke Rousseau and the rights of man, and demand that every delegate swear never to disband until France has a constitution.",
+        "ja": "全力で宣誓を支持する。議会の前に立ち、ルソーと人権を引き合いに出し、フランスに憲法が制定されるまで決して解散しないと全ての代議士に誓うよう要求する。",
+        "zh-CN": "全力支持宣誓。站在议会面前，援引卢梭和人权理念，要求每位代表宣誓在法国制定宪法之前绝不解散。"
+      },
+      "historicalContext": "The historical outcome — the delegates took the oath with near-unanimity, and only one delegate refused to sign.",
+      "outcomePrompt": {
+        "en": "Your voice rings through the tennis court. You invoke Rousseau, the starving people of Paris, the centuries of injustice that have brought France to this moment. Mirabeau steps forward to second you with thunderous eloquence. One by one, then in a flood, the delegates rise and raise their right hands. The oath passes with only a single dissent. Word of the Tennis Court Oath spreads through Paris within hours. The King's attempt to silence the assembly has instead given it a purpose that cannot be undone. But at Versailles, the royal court is alarmed. The Queen's faction urges the King to act decisively before the assembly grows stronger.",
+        "ja": "あなたの声が球戯場に響き渡る。あなたはルソー、パリの飢えた人々、フランスをこの瞬間に導いた数世紀の不正を訴える。ミラボーが雷のような雄弁であなたを支持する。一人ずつ、そして洪水のように、代議士たちが立ち上がり右手を挙げる。宣誓はたった一人の反対で可決される。球戯場の誓いの知らせは数時間以内にパリ中に広まる。議会を沈黙させようとした国王の試みは、逆に取り消すことのできない目的を議会に与えた。しかしヴェルサイユでは宮廷が警戒している。王妃の派閥は、議会がさらに強くなる前に断固として行動するよう国王に促している。",
+        "zh-CN": "您的声音在网球场内回荡。您援引卢梭、巴黎饥饿的人民、将法国推向这一刻的数百年不公。米拉波以雷鸣般的雄辩站出来支持您。代表们一个接一个，然后如潮水般站起来举起右手。宣誓以仅一票反对通过。网球场宣誓的消息在数小时内传遍巴黎。国王试图压制议会的企图反而赋予了它一个不可逆转的使命。但在凡尔赛，王室宫廷感到震惊。王后的派系敦促国王在议会更加壮大之前果断行动。"
+      },
+      "nextSceneId": "french-revolution-1789-scene-002",
+      "stateChanges": [
+        { "variable": "popularSupport", "operation": "add", "value": 15 },
+        { "variable": "assemblyInfluence", "operation": "add", "value": 20 },
+        { "variable": "factionalUnity", "operation": "add", "value": 15 },
+        { "variable": "royalThreat", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Advocate for a moderate resolution. Propose that the assembly send a formal petition to the King requesting a constitutional convention, while affirming the assembly's right to exist — but without the provocative language of an oath.",
+        "ja": "穏健な決議を主張する。議会の存在権を確認しつつ、宣誓という挑発的な表現を避け、憲法制定会議を求める正式な請願書を国王に送ることを提案する。",
+        "zh-CN": "倡导温和的决议。提议议会向国王递交正式请愿书，要求召开制宪会议，同时确认议会的存在权利——但不使用宣誓那样具有挑衅性的措辞。"
+      },
+      "historicalContext": "A counterfactual — a more cautious approach might have preserved options for negotiation but risked losing the revolutionary moment.",
+      "outcomePrompt": {
+        "en": "You propose a formal petition rather than an oath. Mirabeau supports you, arguing that measured language will prevent the King from claiming the assembly has become a mob. The petition is drafted and approved, though some radical delegates mutter that you have shown weakness. The petition reaches the King the next day. Louis receives it politely but makes no commitments. The moderates are pleased; the radicals are frustrated. The assembly remains intact, but the decisive moment of unity has been diluted. In the streets of Paris, people hear that the assembly petitioned rather than defied, and the response is muted.",
+        "ja": "あなたは宣誓ではなく正式な請願を提案する。ミラボーはあなたを支持し、抑制された言葉遣いが議会を暴徒と呼ぶ口実を国王に与えないと主張する。請願書は作成され承認されるが、一部の急進派代議士はあなたが弱さを見せたとつぶやく。請願書は翌日国王に届く。ルイは丁重に受け取るが何も約束しない。穏健派は満足し、急進派は不満を抱く。議会は無傷のままだが、団結の決定的瞬間は薄められた。パリの街では、議会が反抗したのではなく請願したと聞き、反応は控えめである。",
+        "zh-CN": "您提议递交正式请愿书而非宣誓。米拉波支持您，认为措辞温和可以防止国王声称议会已变成暴民。请愿书被起草并获得批准，尽管一些激进代表小声抱怨您表现出了软弱。请愿书在次日送达国王手中。路易礼貌地接待但不作任何承诺。温和派感到满意；激进派感到沮丧。议会保持完整，但团结的决定性时刻被淡化了。在巴黎街头，人们听说议会是请愿而非反抗，反应平淡。"
+      },
+      "nextSceneId": "french-revolution-1789-scene-002",
+      "stateChanges": [
+        { "variable": "popularSupport", "operation": "add", "value": 5 },
+        { "variable": "assemblyInfluence", "operation": "add", "value": 10 },
+        { "variable": "factionalUnity", "operation": "add", "value": -10 },
+        { "variable": "royalThreat", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

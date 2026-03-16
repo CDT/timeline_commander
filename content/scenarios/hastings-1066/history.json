@@ -1,0 +1,73 @@
+{
+  "scenarioId": "hastings-1066",
+  "timeline": [
+    {
+      "date": "1066-01-05",
+      "description": {
+        "en": "Edward the Confessor dies. Harold Godwinson is crowned King of England the next day, ignoring William's claim to the throne.",
+        "ja": "エドワード懺悔王が崩御。翌日、ハロルド・ゴドウィンソンがウィリアムの王位請求を無視してイングランド王として戴冠。",
+        "zh-CN": "忏悔者爱德华驾崩。次日，哈罗德·戈德温森无视威廉的王位继承权，加冕为英格兰国王。"
+      }
+    },
+    {
+      "date": "1066-09-25",
+      "description": {
+        "en": "Harold defeats the Norwegian King Harald Hardrada at the Battle of Stamford Bridge in Yorkshire, destroying the Norse invasion. His army suffers significant casualties.",
+        "ja": "ハロルドがヨークシャーのスタンフォード・ブリッジの戦いでノルウェー王ハーラル・ハードラーダを打ち破り、ノース人の侵攻を壊滅させる。彼の軍は大きな損害を被る。",
+        "zh-CN": "哈罗德在约克郡的斯坦福桥战役中击败挪威国王哈拉尔·哈德拉达，粉碎了北欧人的入侵。他的军队遭受了重大伤亡。"
+      }
+    },
+    {
+      "date": "1066-09-28",
+      "description": {
+        "en": "William lands his invasion fleet at Pevensey on the Sussex coast. He builds a wooden fort and begins ravaging the surrounding countryside to provoke Harold into a hasty response.",
+        "ja": "ウィリアムが侵攻艦隊をサセックス海岸のペヴェンジーに上陸させる。木造の砦を築き、ハロルドを急がせて引き寄せるため周辺の田園地帯を荒らし始める。",
+        "zh-CN": "威廉的入侵舰队在苏塞克斯海岸的佩文西登陆。他修建木制堡垒并开始劫掠周围乡村，以激怒哈罗德使其仓促应战。"
+      }
+    },
+    {
+      "date": "1066-10-13",
+      "description": {
+        "en": "Harold arrives at Senlac Hill, approximately 10 km northwest of Hastings, after a forced march of over 400 km from Stamford Bridge. He positions his army on the ridge and forms a shield wall.",
+        "ja": "ハロルドがスタンフォード・ブリッジから400km以上の強行軍の後、ヘイスティングズの北西約10kmのセンラック・ヒルに到着。尾根に軍を配置し、盾の壁を形成する。",
+        "zh-CN": "哈罗德从斯坦福桥强行军400余公里后抵达黑斯廷斯西北约10公里的森拉克山。他在山脊上布阵，组成盾墙。"
+      }
+    },
+    {
+      "date": "1066-10-14",
+      "description": {
+        "en": "The Battle of Hastings is fought. After a full day of combat, Norman cavalry and archery break the English shield wall. Harold is killed. The English army routs.",
+        "ja": "ヘイスティングズの戦いが行われる。一日にわたる戦闘の後、ノルマン騎兵と弓兵がイングランドの盾の壁を突破。ハロルドが戦死。イングランド軍は敗走。",
+        "zh-CN": "黑斯廷斯战役爆发。经过一整天的战斗，诺曼骑兵和弓箭手突破了英格兰盾墙。哈罗德阵亡。英格兰军队溃败。"
+      }
+    },
+    {
+      "date": "1066-12-25",
+      "description": {
+        "en": "William is crowned King of England at Westminster Abbey on Christmas Day, completing the Norman Conquest.",
+        "ja": "ウィリアムがクリスマスにウェストミンスター寺院でイングランド王として戴冠し、ノルマン征服が完了する。",
+        "zh-CN": "威廉于圣诞节在威斯敏斯特大教堂加冕为英格兰国王，完成诺曼征服。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "William won a decisive victory. Harold was killed and the English army destroyed. William subsequently marched on London, receiving the submission of the remaining English nobility, and was crowned king. The Norman Conquest reshaped England's ruling class, legal system, language, and architecture for centuries.",
+    "ja": "ウィリアムが決定的な勝利を収めた。ハロルドは戦死し、イングランド軍は壊滅した。ウィリアムはその後ロンドンに進軍し、残りのイングランド貴族の服従を受け入れ、王として戴冠した。ノルマン征服はイングランドの支配階級、法制度、言語、建築を何世紀にもわたって変容させた。",
+    "zh-CN": "威廉取得了决定性胜利。哈罗德阵亡，英格兰军队被摧毁。威廉随后进军伦敦，接受剩余英格兰贵族的臣服，并加冕为王。诺曼征服重塑了英格兰数百年来的统治阶层、法律体系、语言和建筑。"
+  },
+  "casualties": {
+    "en": "English: approximately 4,000 killed including King Harold and his brothers Gyrth and Leofwine. Norman: approximately 2,000 killed. Exact figures are uncertain due to limited medieval record-keeping.",
+    "ja": "イングランド軍：ハロルド王とその兄弟ガースおよびレオフワインを含む約4,000人が戦死。ノルマン軍：約2,000人が戦死。中世の記録の限界のため正確な数字は不確か。",
+    "zh-CN": "英格兰方面：约4000人阵亡，包括哈罗德国王及其兄弟盖尔斯和利奥夫温。诺曼方面：约2000人阵亡。由于中世纪记录有限，确切数字不确定。"
+  },
+  "significance": {
+    "en": "The Battle of Hastings was one of the most consequential battles in European history. It ended Anglo-Saxon rule in England and began nearly three centuries of Norman and Plantagenet dominance. The conquest introduced feudalism, transformed the English language by infusing it with Norman French, replaced the English Church hierarchy, and led to the construction of castles and cathedrals across England. The Domesday Book, commissioned by William in 1086, became the most comprehensive survey of any European kingdom in the medieval period.",
+    "ja": "ヘイスティングズの戦いはヨーロッパ史上最も重大な結果をもたらした戦いの一つでした。イングランドにおけるアングロ・サクソンの支配を終わらせ、約三世紀にわたるノルマンおよびプランタジネット朝の支配を開始しました。征服は封建制を導入し、ノルマン・フランス語を注入してイングランドの言語を変容させ、イングランド教会の階層を置き換え、イングランド全土に城と大聖堂の建設をもたらしました。1086年にウィリアムが命じたドゥームズデイ・ブックは、中世のヨーロッパの王国の中で最も包括的な調査となりました。",
+    "zh-CN": "黑斯廷斯战役是欧洲历史上影响最为深远的战役之一。它结束了盎格鲁-撒克逊人对英格兰的统治，开启了近三个世纪的诺曼和金雀花王朝的主导地位。征服引入了封建制度，通过注入诺曼法语改变了英语，替换了英格兰教会的等级制度，并在英格兰各地建造了城堡和大教堂。威廉于1086年下令编制的《末日审判书》成为中世纪欧洲最全面的王国调查。"
+  },
+  "furtherReading": [
+    "David Howarth — 1066: The Year of the Conquest",
+    "Marc Morris — The Norman Conquest",
+    "R. Allen Brown — The Battle of Hastings"
+  ]
+}

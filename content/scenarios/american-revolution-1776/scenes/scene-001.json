@@ -1,0 +1,109 @@
+{
+  "id": "american-revolution-1776-scene-001",
+  "scenarioId": "american-revolution-1776",
+  "title": "The Declaration and the Defense of New York",
+  "date": {
+    "en": "August 22, 1776",
+    "ja": "1776年8月22日",
+    "zh-CN": "1776年8月22日"
+  },
+  "location": {
+    "en": "Continental Army Headquarters, Brooklyn Heights, New York",
+    "ja": "大陸軍司令部、ブルックリン高地、ニューヨーク",
+    "zh-CN": "大陆军司令部，布鲁克林高地，纽约"
+  },
+  "narrativePrompt": {
+    "en": "Seven weeks ago, the Continental Congress declared independence. The words of Jefferson's Declaration still ring in your ears: 'We hold these truths to be self-evident.' But now you face the military reality of that declaration. From Brooklyn Heights, you watch as the largest British armada ever assembled — over 400 ships carrying 32,000 soldiers — gathers in New York Harbor. General Howe has landed troops on Staten Island and is preparing to move on Long Island. Your army of 19,000, many of them untrained militia, is spread thinly across Brooklyn and Manhattan. Your generals are divided. Nathanael Greene, who knows the Brooklyn terrain best, is bedridden with fever. Your remaining officers disagree about whether to defend Brooklyn in force or concentrate on Manhattan. The British will attack within days. How do you position your forces?",
+    "ja": "7週間前、大陸会議は独立を宣言しました。ジェファーソンの独立宣言の言葉がまだ耳に残っています：「我々はこれらの真理を自明のものとする」。しかし今、あなたはその宣言の軍事的現実に直面しています。ブルックリン高地から、400隻以上の船が32,000人の兵士を乗せた、史上最大のイギリス艦隊がニューヨーク港に集結するのを見ています。ハウ将軍はスタテン島に上陸し、ロングアイランドへの進軍を準備しています。19,000人のあなたの軍は、多くが訓練を受けていない民兵で、ブルックリンとマンハッタンに薄く広がっています。将軍たちの意見は分かれています。ブルックリンの地形を最もよく知るナサニエル・グリーンは熱病で寝込んでいます。残りの将校たちはブルックリンを本格的に防衛するかマンハッタンに集中するかで意見が割れています。イギリス軍は数日以内に攻撃してきます。部隊をどう配置しますか？",
+    "zh-CN": "七周前，大陆会议宣布了独立。杰斐逊《独立宣言》的话语仍在您耳边回响：「我们认为这些真理是不言而喻的。」但现在您面对的是这一宣言的军事现实。从布鲁克林高地，您看着有史以来规模最大的英国舰队——400多艘船载着32000名士兵——在纽约港集结。豪将军已在斯塔滕岛登陆，正准备向长岛推进。您的19000人军队，其中许多是未经训练的民兵，分散在布鲁克林和曼哈顿各处。您的将军们意见分歧。最熟悉布鲁克林地形的纳撒尼尔·格林因发烧卧床不起。其余军官们对是全力防守布鲁克林还是集中力量到曼哈顿意见不一。英军将在几天内发动进攻。您如何部署兵力？"
+  },
+  "situationReport": [
+    {
+      "en": "The British fleet in New York Harbor is the largest expeditionary force in British history — 32,000 troops including 8,000 Hessian mercenaries",
+      "ja": "ニューヨーク港のイギリス艦隊はイギリス史上最大の遠征軍——8,000人のヘッセン傭兵を含む32,000人",
+      "zh-CN": "纽约港的英国舰队是英国历史上最大的远征军——32000名士兵，包括8000名黑森雇佣军"
+    },
+    {
+      "en": "General Greene is ill; command of Brooklyn defenses has been transferred to General Sullivan, who does not know the ground",
+      "ja": "グリーン将軍が病気のため、ブルックリン防衛の指揮がサリバン将軍に移されたが、彼は地形を知らない",
+      "zh-CN": "格林将军病了；布鲁克林防御指挥权已移交给不熟悉地形的沙利文将军"
+    },
+    {
+      "en": "Continental Army strength: approximately 19,000, but many are short-term militia with no combat experience",
+      "ja": "大陸軍の兵力：約19,000人だが、多くは戦闘経験のない短期民兵",
+      "zh-CN": "大陆军兵力：约19000人，但许多是没有战斗经验的短期民兵"
+    },
+    {
+      "en": "Congress expects you to hold New York — abandoning the city without a fight would damage morale and political support",
+      "ja": "議会はあなたにニューヨークを守ることを期待している——戦わずに市を放棄すれば士気と政治的支持が損なわれる",
+      "zh-CN": "国会期望您守住纽约——不战而弃城将损害士气和政治支持"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Defend the army's position while preserving the force for future operations",
+      "ja": "将来の作戦のために戦力を温存しながら軍の陣地を防衛する",
+      "zh-CN": "在保存兵力用于未来行动的同时防守军队阵地"
+    },
+    {
+      "en": "Maintain Congressional and public confidence in the army's ability to fight",
+      "ja": "軍の戦闘能力に対する議会と国民の信頼を維持する",
+      "zh-CN": "维持国会和公众对军队战斗能力的信心"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The British have absolute naval superiority — they can land troops anywhere and cut off your retreat by water",
+      "ja": "イギリスは絶対的な海軍力の優位を持つ——どこにでも軍を上陸させ、水上での退路を断つことができる",
+      "zh-CN": "英国拥有绝对的海军优势——他们可以在任何地方登陆并从水路切断您的退路"
+    },
+    {
+      "en": "Abandoning New York entirely would be politically devastating even if militarily wise",
+      "ja": "ニューヨークを完全に放棄するのは軍事的に賢明であっても政治的には壊滅的",
+      "zh-CN": "完全放弃纽约即使在军事上明智，在政治上也是毁灭性的"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Commit heavily to Brooklyn's defense. Station 9,000 troops on the forward lines along the Gowanus Heights. Show Congress and the world that the Continental Army will stand and fight.",
+        "ja": "ブルックリンの防衛に大きく兵力を投入する。ゴワヌス高地沿いの前線に9,000人を配置する。議会と世界に大陸軍が踏みとどまって戦うことを示す。",
+        "zh-CN": "大量投入兵力防守布鲁克林。在高纳斯高地前沿阵线部署9000名士兵。向国会和世界展示大陆军将坚守战斗。"
+      },
+      "historicalContext": "The historical choice — Washington committed heavily to Brooklyn, then nearly lost his entire army when the British flanked the position.",
+      "outcomePrompt": {
+        "en": "You commit your best troops to Brooklyn. On August 27th, Howe strikes. While a feint pins your forces along the Gowanus Road, 10,000 British troops march undetected through the unguarded Jamaica Pass and fall on your left flank at dawn. The result is catastrophic. Your forward units are surrounded and destroyed. Over 1,000 men are killed or captured, including Generals Sullivan and Stirling. Only a desperate rearguard action by a Maryland regiment — 400 men charging repeatedly into British lines to buy time — prevents total annihilation. You retreat to Brooklyn Heights with the remnants. Now the British fleet can trap your army against the East River. You have one night to decide whether to attempt an evacuation across the water — or face the destruction of the Continental Army.",
+        "ja": "あなたは最精鋭をブルックリンに投入します。8月27日、ハウが攻撃。陽動作戦があなたの部隊をゴワヌス道路沿いに釘付けにする間、10,000人のイギリス軍が無防備なジャマイカ峠を検出されずに行軍し、夜明けにあなたの左翼に襲いかかります。結果は壊滅的です。前線部隊は包囲され壊滅します。サリバン将軍とスターリング将軍を含む1,000人以上が戦死または捕虜になります。メリーランド連隊の400人が時間を稼ぐためにイギリス軍の戦線に繰り返し突撃する必死の後衛戦だけが全滅を防ぎます。あなたは残兵とともにブルックリン高地に退却します。今やイギリス艦隊はあなたの軍をイーストリバーに追い詰めることができます。水上への撤退を試みるか、大陸軍の壊滅に直面するか、一晩で決めなければなりません。",
+        "zh-CN": "您将最好的部队投入布鲁克林。8月27日，豪发动进攻。在佯攻将您的部队牵制在高纳斯路沿线的同时，10000名英军从未设防的牙买加隘口悄无声息地通过，在黎明时分袭击了您的左翼。结果是灾难性的。您的前线部队被包围消灭。超过1000人阵亡或被俘，包括沙利文将军和斯特林将军。只有一个马里兰团400人的拼死后卫战——反复冲向英军阵线争取时间——才避免了全军覆没。您带着残部退到布鲁克林高地。现在英国舰队可以将您的军队困在东河边。您有一个晚上的时间决定是尝试跨水撤退——还是面对大陆军的毁灭。"
+      },
+      "nextSceneId": "american-revolution-1776-scene-002",
+      "stateChanges": [
+        { "variable": "armyMorale", "operation": "add", "value": -15 },
+        { "variable": "troopStrength", "operation": "add", "value": -20 },
+        { "variable": "congressSupport", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Deploy a screening force in Brooklyn but keep the main army concentrated on Manhattan. Accept that Brooklyn may fall, but preserve the army to fight another day.",
+        "ja": "ブルックリンに遮蔽部隊を配置するが、主力軍はマンハッタンに集中させる。ブルックリンが陥落する可能性を受け入れるが、別の日に戦うために軍を温存する。",
+        "zh-CN": "在布鲁克林部署掩护部队，但将主力集中在曼哈顿。接受布鲁克林可能沦陷，但保存军队以便日后再战。"
+      },
+      "historicalContext": "A counterfactual — a lighter defense of Brooklyn would have reduced American losses but ceded the position more quickly.",
+      "outcomePrompt": {
+        "en": "You station 4,000 men in Brooklyn as a delaying force and keep the bulk of the army on Manhattan. When Howe attacks on August 27th, the Jamaica Pass flanking maneuver still succeeds — but the screening force has orders to delay and withdraw, not to hold at all costs. American losses are lighter: 500 casualties rather than over 1,000. The retreat to Manhattan is more orderly. But Congress is shaken by the rapid loss of Brooklyn, and newspapers in Philadelphia question whether the army is capable of defending anything. You have preserved more of your fighting strength, but the political cost of appearing to retreat without a real fight is significant. General Lee openly criticizes your caution to members of Congress.",
+        "ja": "あなたはブルックリンに4,000人を遅滞戦力として配置し、軍の大部分をマンハッタンに維持します。ハウが8月27日に攻撃したとき、ジャマイカ峠の側面機動は成功しますが、遮蔽部隊は何としても守るのではなく、遅延して撤退する命令を受けています。アメリカ側の損害は軽微です：1,000人以上ではなく500人の死傷者。マンハッタンへの退却はより整然としています。しかし議会はブルックリンの急速な喪失に動揺し、フィラデルフィアの新聞は軍が何かを防衛する能力があるのかと疑問を呈します。あなたは戦闘力の多くを温存しましたが、本格的な戦いなしに退却したように見える政治的代償は大きいです。リー将軍が議会のメンバーにあなたの慎重さを公然と批判します。",
+        "zh-CN": "您在布鲁克林部署4000人作为迟滞力量，主力部队留在曼哈顿。当豪在8月27日发动进攻时，牙买加隘口的侧翼机动仍然成功——但掩护部队接到的命令是迟滞和撤退，而不是不惜一切代价坚守。美军损失较轻：500人伤亡而非超过1000人。向曼哈顿的撤退更加有序。但国会因布鲁克林的迅速失守而震惊，费城的报纸质疑军队是否有能力防守任何东西。您保存了更多战斗力量，但看起来不战而退的政治代价很大。李将军公开向国会议员批评您的谨慎。"
+      },
+      "nextSceneId": "american-revolution-1776-scene-002",
+      "stateChanges": [
+        { "variable": "armyMorale", "operation": "add", "value": -5 },
+        { "variable": "troopStrength", "operation": "add", "value": -10 },
+        { "variable": "congressSupport", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

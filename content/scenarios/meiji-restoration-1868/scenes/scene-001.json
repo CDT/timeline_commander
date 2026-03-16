@@ -1,0 +1,109 @@
+{
+  "id": "meiji-restoration-1868-scene-001",
+  "scenarioId": "meiji-restoration-1868",
+  "title": "The Imperial Restoration Decree",
+  "date": {
+    "en": "January 3, 1868",
+    "ja": "1868年1月3日",
+    "zh-CN": "1868年1月3日"
+  },
+  "location": {
+    "en": "Imperial Palace, Kyoto",
+    "ja": "京都御所",
+    "zh-CN": "京都皇宫"
+  },
+  "narrativePrompt": {
+    "en": "The young Emperor Meiji has just issued the Decree of the Restoration of Imperial Rule. Satsuma and Choshu soldiers have seized the gates of the imperial palace. The Tokugawa Shogunate has been formally abolished — at least on paper. But the former Shogun, Tokugawa Yoshinobu, commands a large army in Osaka, and he has not accepted his removal. His supporters argue that the decree is illegal, a coup by a handful of western domains. In the palace council chamber, the atmosphere is electric. Saigo Takamori must decide the next move. Okubo Toshimichi counsels patience — let Yoshinobu come to terms politically. But Saigo senses that Yoshinobu is stalling, building strength for a counterattack. The question is whether to provoke a military confrontation now, while imperial momentum is high, or to seek a political settlement that might leave the Tokugawa with residual power.",
+    "ja": "若き明治天皇が王政復古の大号令を発した。薩摩と長州の兵が皇居の門を制圧した。徳川幕府は公式に廃止された——少なくとも紙の上では。しかし前将軍・徳川慶喜は大阪に大軍を擁し、その解任を受け入れていない。彼の支持者たちは、この勅令は違法であり、いくつかの西国の藩によるクーデターだと主張する。御前会議の場は緊張に包まれている。西郷隆盛は次の一手を決めなければならない。大久保利通は忍耐を勧める——慶喜に政治的に折り合いをつけさせよ、と。しかし西郷は慶喜が時間稼ぎをし、反撃のために力を蓄えていると感じている。問題は、官軍の勢いが高い今のうちに軍事的対決を誘発するか、徳川に残余の権力を残す可能性のある政治的解決を模索するかである。",
+    "zh-CN": "年轻的明治天皇刚刚颁布了王政复古大号令。萨摩和长州士兵占据了皇宫门户。德川幕府已被正式废除——至少在纸面上。但前将军德川庆喜在大阪拥有一支大军，且并未接受被罢黜的事实。他的支持者辩称此令违法，是少数西部藩阀的政变。御前会议大厅气氛紧张。西乡隆盛必须决定下一步行动。大久保利通建议耐心——让庆喜通过政治途径达成妥协。但西乡感觉庆喜在拖延时间，积蓄反击力量。问题在于是趁官军士气正盛时挑起军事对抗，还是寻求可能让德川保留残余权力的政治解决方案。"
+  },
+  "situationReport": [
+    {
+      "en": "The Decree of Restoration has been issued — the shogunate is formally abolished",
+      "ja": "王政復古の大号令が発布された——幕府は正式に廃止",
+      "zh-CN": "王政复古大号令已颁布——幕府正式废除"
+    },
+    {
+      "en": "Tokugawa Yoshinobu commands approximately 15,000 troops in Osaka — outnumbering imperial forces",
+      "ja": "徳川慶喜が大阪で約15,000の兵を指揮——官軍を上回る兵力",
+      "zh-CN": "德川庆喜在大阪指挥约一万五千人——兵力超过官军"
+    },
+    {
+      "en": "Satsuma and Choshu forces hold Kyoto with roughly 5,000 men equipped with modern rifles",
+      "ja": "薩摩・長州軍が近代的な小銃を装備した約5,000の兵で京都を確保",
+      "zh-CN": "萨摩和长州军以约五千名配备现代步枪的士兵控制京都"
+    },
+    {
+      "en": "The French minister has expressed support for Yoshinobu; the British favor the imperial side",
+      "ja": "フランス公使が慶喜への支持を表明；イギリスは官軍側を支持",
+      "zh-CN": "法国公使表示支持庆喜；英国倾向于支持官军"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Consolidate the imperial restoration and neutralize Tokugawa resistance",
+      "ja": "王政復古を固め、徳川の抵抗を無力化する",
+      "zh-CN": "巩固王政复古，瓦解德川的抵抗"
+    },
+    {
+      "en": "Maintain unity among the anti-shogunate domains",
+      "ja": "倒幕派の藩の団結を維持する",
+      "zh-CN": "维持倒幕各藩的团结"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Open aggression by imperial forces could turn neutral domains against the restoration",
+      "ja": "官軍の公然たる攻撃は中立藩を維新に敵対させる可能性がある",
+      "zh-CN": "官军的公开攻击可能导致中立藩转而反对维新"
+    },
+    {
+      "en": "Western powers are watching closely — a prolonged civil war invites foreign intervention",
+      "ja": "西洋列強が注視している——長期化する内戦は外国の介入を招く",
+      "zh-CN": "西方列强密切关注——旷日持久的内战将招致外国干涉"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Provoke a confrontation. Send Satsuma ronin to create incidents in Edo that will force Yoshinobu to act rashly, giving the imperial side justification for military action.",
+        "ja": "対決を誘発する。薩摩浪士を江戸に送り込み事件を起こさせ、慶喜に軽率な行動を取らせ、官軍に軍事行動の大義名分を与える。",
+        "zh-CN": "挑起对抗。派萨摩浪人在江户制造事端，迫使庆喜轻举妄动，为官军的军事行动提供正当理由。"
+      },
+      "historicalContext": "The historical approach — Saigo sent provocateurs to Edo, and the resulting incidents helped trigger the Battle of Toba-Fushimi.",
+      "outcomePrompt": {
+        "en": "Saigo dispatches a band of Satsuma ronin to Edo with orders to create chaos. They burn warehouses, attack shogunate patrols, and spread inflammatory rumors. The provocations succeed beyond expectation: Yoshinobu's furious retainers demand action, and the former Shogun — against his own better judgment — orders his forces to march on Kyoto to 'rescue the Emperor from traitorous advisors.' The pretext Saigo needed has been handed to him. The imperial side can now claim it is defending the Emperor against Tokugawa aggression. Battle is inevitable.",
+        "ja": "西郷は薩摩浪士の一団を江戸に送り込み、混乱を起こすよう命じる。彼らは倉庫を焼き、幕府の巡回を襲い、扇動的な噂を広める。挑発は予想以上に成功する：激怒した慶喜の家臣たちは行動を要求し、前将軍は——自らのより良い判断に反して——「天皇を反逆的な顧問から救出する」ため京都への進軍を命じる。西郷が必要としていた口実が手に入った。官軍側は今や徳川の攻撃から天皇を守っていると主張できる。戦いは避けられない。",
+        "zh-CN": "西乡派遣一队萨摩浪人前往江户制造混乱。他们焚烧仓库、袭击幕府巡逻队、散布煽动性谣言。挑衅的效果超出预期：庆喜愤怒的家臣要求采取行动，前将军——违背自己更好的判断——下令军队进军京都以'将天皇从奸臣手中解救'。西乡所需的借口已经到手。官军一方现在可以声称是在抵御德川的侵犯以保卫天皇。战争不可避免。"
+      },
+      "nextSceneId": "meiji-restoration-1868-scene-002",
+      "stateChanges": [
+        { "variable": "imperialSupport", "operation": "add", "value": 10 },
+        { "variable": "shogunateStrength", "operation": "add", "value": -10 },
+        { "variable": "foreignPressure", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Pursue negotiation first. Offer Yoshinobu a dignified role in the new government in exchange for disbanding his army and accepting imperial authority.",
+        "ja": "まず交渉を追求する。慶喜に軍の解散と天皇の権威の受け入れと引き換えに、新政府での名誉ある役割を提供する。",
+        "zh-CN": "先寻求谈判。向庆喜提供在新政府中的体面职位，换取其解散军队并接受天皇权威。"
+      },
+      "historicalContext": "A counterfactual — a negotiated settlement could have avoided bloodshed but might have preserved Tokugawa influence.",
+      "outcomePrompt": {
+        "en": "Saigo reluctantly agrees to Okubo's approach and sends emissaries to Osaka. Yoshinobu appears receptive — he has always been more pragmatist than warrior. Negotiations begin, and for a week it seems a peaceful resolution is possible. But Yoshinobu's hardline retainers view the talks as betrayal. Aizu Domain commanders refuse to accept any settlement that strips the Tokugawa of military power. The negotiations stall, and both sides begin quietly reinforcing their positions. The delay has cost the imperial side its momentum, but it has also exposed deep divisions within the Tokugawa camp.",
+        "ja": "西郷は渋々大久保の方針に同意し、大阪に使者を送る。慶喜は受け入れる姿勢を見せる——彼は常に武人というより実利主義者だった。交渉が始まり、一週間ほどは平和的解決が可能に思えた。しかし慶喜の強硬派の家臣たちは交渉を裏切りと見なす。会津藩の指揮官たちは徳川から軍事力を剥奪するいかなる解決も拒否する。交渉は行き詰まり、双方が密かに陣地を強化し始める。遅延により官軍は勢いを失ったが、徳川陣営内部の深い分裂も露呈させた。",
+        "zh-CN": "西乡不情愿地同意了大久保的方案，向大阪派出使者。庆喜似乎愿意接受——他向来更是实用主义者而非武人。谈判开始，一周内和平解决似乎是可能的。但庆喜的强硬派家臣将谈判视为背叛。会津藩的指挥官们拒绝接受任何剥夺德川军事力量的方案。谈判陷入僵局，双方开始悄悄增兵。延误使官军失去了势头，但也暴露了德川阵营内部的深刻分裂。"
+      },
+      "nextSceneId": "meiji-restoration-1868-scene-002",
+      "stateChanges": [
+        { "variable": "domainAlliance", "operation": "add", "value": 5 },
+        { "variable": "shogunateStrength", "operation": "add", "value": -5 },
+        { "variable": "foreignPressure", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

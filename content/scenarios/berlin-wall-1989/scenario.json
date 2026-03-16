@@ -1,0 +1,163 @@
+{
+  "id": "berlin-wall-1989",
+  "title": {
+    "en": "Fall of the Berlin Wall",
+    "ja": "ベルリンの壁崩壊",
+    "zh-CN": "柏林墙倒塌"
+  },
+  "period": {
+    "en": "Cold War",
+    "ja": "冷戦",
+    "zh-CN": "冷战"
+  },
+  "dates": {
+    "start": "1989-11-09",
+    "end": "1989-11-11"
+  },
+  "location": {
+    "en": "Berlin, Germany",
+    "ja": "ドイツ、ベルリン",
+    "zh-CN": "德国柏林"
+  },
+  "historicalOverview": {
+    "en": "By November 1989, the German Democratic Republic was in crisis. Mass protests had swept through Leipzig and other cities throughout October, the economy was crumbling, and hundreds of thousands of East Germans had fled to the West through Hungary and Czechoslovakia. The aging Communist leadership was paralyzed. On November 9th, government spokesman Günter Schabowski prematurely announced new travel regulations at a press conference, inadvertently declaring that the borders were open 'immediately, without delay.' Tens of thousands of East Berliners surged to the checkpoints. Border guards, lacking clear orders, eventually opened the gates. By midnight, jubilant crowds were dancing on top of the wall. The Cold War's most powerful symbol had fallen — not through war, but through a bureaucratic miscommunication and the unstoppable force of popular will.",
+    "ja": "1989年11月までに、ドイツ民主共和国は危機に陥っていました。10月を通じてライプツィヒやその他の都市で大規模な抗議運動が起こり、経済は崩壊し、数十万人の東ドイツ市民がハンガリーやチェコスロバキアを経由して西側に逃れていました。高齢化した共産党指導部は麻痺状態でした。11月9日、政府報道官ギュンター・シャボウスキーが記者会見で新しい渡航規制を早まって発表し、国境が「即座に、遅滞なく」開放されると不注意に宣言しました。数万人の東ベルリン市民が検問所に殺到しました。明確な命令を受けていない国境警備隊は、最終的にゲートを開放しました。深夜までに歓喜する群衆が壁の上で踊っていました。冷戦の最も強力な象徴が崩壊しました——戦争によってではなく、官僚的な伝達ミスと民衆の意志の止められない力によって。",
+    "zh-CN": "到1989年11月，德意志民主共和国已陷入危机。整个10月，大规模抗议活动席卷了莱比锡和其他城市，经济崩溃，数十万东德人通过匈牙利和捷克斯洛伐克逃往西方。年迈的共产党领导层已陷入瘫痪。11月9日，政府发言人京特·沙博夫斯基在新闻发布会上过早地宣布了新的旅行规定，无意中宣称边境「立即、毫不拖延」地开放。数万名东柏林人涌向检查站。缺乏明确命令的边境警卫最终打开了大门。到午夜时分，欢呼的人群在墙上跳舞。冷战最有力的象征倒塌了——不是通过战争，而是通过一次官僚沟通失误和不可阻挡的民众意志。"
+  },
+  "realWorldOutcome": {
+    "en": "The Berlin Wall fell peacefully on the night of November 9-10, 1989. Schabowski's premature announcement triggered an irreversible chain of events. East German border guards, overwhelmed and without orders to use force, opened the checkpoints. Within days, East Germans were freely crossing to the West. The fall of the Wall led directly to German reunification on October 3, 1990, and accelerated the collapse of Communist regimes across Eastern Europe.",
+    "ja": "ベルリンの壁は1989年11月9日から10日の夜、平和的に崩壊しました。シャボウスキーの早まった発表は不可逆的な連鎖反応を引き起こしました。圧倒され、武力行使の命令も受けていない東ドイツの国境警備隊は検問所を開放しました。数日以内に東ドイツ市民は自由に西側に渡れるようになりました。壁の崩壊は1990年10月3日のドイツ再統一に直接つながり、東ヨーロッパ全体での共産主義政権の崩壊を加速させました。",
+    "zh-CN": "柏林墙于1989年11月9日至10日夜间和平倒塌。沙博夫斯基的过早宣布引发了不可逆转的连锁反应。不堪重负且没有接到使用武力命令的东德边境警卫打开了检查站。几天之内，东德人就可以自由穿越到西方。柏林墙的倒塌直接导致了1990年10月3日的德国统一，并加速了整个东欧共产主义政权的崩溃。"
+  },
+  "keyFigures": [
+    {
+      "id": "schabowski",
+      "name": "Günter Schabowski",
+      "role": {
+        "en": "East German Government Spokesman and SED Politburo Member",
+        "ja": "東ドイツ政府報道官・SED政治局員",
+        "zh-CN": "东德政府发言人、统一社会党政治局委员"
+      },
+      "faction": "East Germany",
+      "description": {
+        "en": "The Communist Party official whose premature announcement at a press conference triggered the opening of the Berlin Wall. Schabowski had not been fully briefed on the new travel regulations and announced them as effective immediately.",
+        "ja": "記者会見での早まった発表がベルリンの壁の開放を引き起こした共産党幹部。シャボウスキーは新しい渡航規制について十分な説明を受けておらず、即座に有効と発表してしまった。",
+        "zh-CN": "在新闻发布会上过早宣布新旅行规定从而触发柏林墙开放的共产党官员。沙博夫斯基没有得到关于新旅行规定的充分说明，便宣布其立即生效。"
+      }
+    },
+    {
+      "id": "krenz",
+      "name": "Egon Krenz",
+      "role": {
+        "en": "General Secretary of the SED and Head of State of East Germany",
+        "ja": "SED書記長・東ドイツ国家元首",
+        "zh-CN": "统一社会党总书记、东德国家元首"
+      },
+      "faction": "East Germany",
+      "description": {
+        "en": "The recently appointed leader of East Germany who replaced Erich Honecker in October 1989. Krenz attempted reforms but was overwhelmed by the pace of events.",
+        "ja": "1989年10月にエーリッヒ・ホーネッカーの後任として就任した東ドイツの新指導者。クレンツは改革を試みたが、事態の展開の速さに圧倒された。",
+        "zh-CN": "1989年10月接替埃里希·昂纳克的东德新任领导人。克伦茨试图进行改革，但被事态的发展速度所压倒。"
+      }
+    },
+    {
+      "id": "kohl",
+      "name": "Helmut Kohl",
+      "role": {
+        "en": "Chancellor of West Germany",
+        "ja": "西ドイツ首相",
+        "zh-CN": "西德总理"
+      },
+      "faction": "West Germany",
+      "description": {
+        "en": "The West German leader who would seize the moment to push for German reunification, navigating between American support and Soviet and French concerns.",
+        "ja": "ドイツ再統一を推進するためにこの瞬間を捉えた西ドイツの指導者。アメリカの支持とソ連・フランスの懸念の間を巧みに渡った。",
+        "zh-CN": "抓住时机推动德国统一的西德领导人，在美国的支持与苏联和法国的顾虑之间巧妙周旋。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "schabowski-role",
+      "scenarioId": "berlin-wall-1989",
+      "name": "Günter Schabowski",
+      "title": {
+        "en": "East German Government Spokesman",
+        "ja": "東ドイツ政府報道官",
+        "zh-CN": "东德政府发言人"
+      },
+      "perspective": "political",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Günter Schabowski, a member of the SED Politburo and the government's spokesman. It is November 9, 1989. East Germany is in turmoil. Hundreds of thousands have fled to the West through Hungary and Czechoslovakia. Mass demonstrations fill the streets of Leipzig and East Berlin every Monday. Erich Honecker was forced from power just three weeks ago, replaced by Egon Krenz, who has promised reform but delivered little. Tonight, you have been handed a note about new travel regulations drafted by the Interior Ministry. You have not been fully briefed on the details or the intended timeline. In minutes, you will face a room full of international journalists broadcasting live to the world. What you say next will either buy the regime time to manage a controlled opening — or unleash forces that no one can control.",
+        "ja": "あなたはSED政治局員で政府報道官のギュンター・シャボウスキーです。1989年11月9日です。東ドイツは混乱の中にあります。数十万人がハンガリーやチェコスロバキアを経由して西側に逃れています。毎週月曜日、ライプツィヒや東ベルリンの通りは大規模なデモで埋め尽くされています。エーリッヒ・ホーネッカーはわずか3週間前に権力の座を追われ、改革を約束しながらほとんど実行していないエゴン・クレンツに交代しました。今夜、あなたは内務省が起草した新しい渡航規制に関するメモを渡されました。詳細や予定されたタイムラインについて十分な説明を受けていません。数分後、世界中に生放送されている国際ジャーナリストでいっぱいの部屋に向かいます。あなたが次に言うことは、政権に管理された開放を行う時間を与えるか、誰にも制御できない力を解き放つかのどちらかです。",
+        "zh-CN": "您是京特·沙博夫斯基，统一社会党政治局委员和政府发言人。现在是1989年11月9日。东德正处于动荡之中。数十万人通过匈牙利和捷克斯洛伐克逃往西方。每周一，莱比锡和东柏林的街道上都挤满了大规模示威者。埃里希·昂纳克在仅仅三周前被迫下台，由承诺改革但几乎没有兑现的埃贡·克伦茨接替。今晚，您收到了一张关于内政部起草的新旅行规定的便条。您没有得到关于细节或预定时间表的充分说明。几分钟后，您将面对一屋子向全世界现场直播的国际记者。您接下来说的话，要么为政权争取到时间来管理有控制的开放——要么释放出没有人能控制的力量。"
+      },
+      "objectives": [
+        {
+          "en": "Manage the political crisis without provoking a violent crackdown",
+          "ja": "暴力的な弾圧を引き起こすことなく政治危機を管理する",
+          "zh-CN": "在不引发暴力镇压的情况下管理政治危机"
+        },
+        {
+          "en": "Navigate between hardliners who want to maintain control and reformers who want to open the borders",
+          "ja": "統制を維持したい強硬派と国境を開放したい改革派の間を渡る",
+          "zh-CN": "在想要维持控制的强硬派和想要开放边境的改革派之间周旋"
+        },
+        {
+          "en": "Prevent violence at the border checkpoints",
+          "ja": "国境検問所での暴力を防ぐ",
+          "zh-CN": "防止边境检查站发生暴力事件"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "You do not fully understand the new travel regulations you have been given to announce",
+          "ja": "あなたは発表するために渡された新しい渡航規制を完全に理解していない",
+          "zh-CN": "您并不完全理解被交代要宣布的新旅行规定"
+        },
+        {
+          "en": "Soviet troops are stationed throughout East Germany; any miscalculation could provoke a Tiananmen-style response",
+          "ja": "ソ連軍は東ドイツ全土に駐留している。いかなる誤算も天安門のような対応を引き起こす可能性がある",
+          "zh-CN": "苏联军队驻扎在东德各地；任何误判都可能引发天安门式的回应"
+        },
+        {
+          "en": "The Politburo is divided; some members would support a Chinese-style crackdown",
+          "ja": "政治局は分裂している。一部のメンバーは中国式の弾圧を支持する可能性がある",
+          "zh-CN": "政治局内部分裂；一些成员会支持中国式的镇压"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Public pressure is immense — protests are growing larger every week",
+          "ja": "市民の圧力は計り知れない——抗議運動は毎週拡大している",
+          "zh-CN": "公众压力巨大——抗议活动每周都在扩大"
+        },
+        {
+          "en": "The international media is broadcasting every development live to the world",
+          "ja": "国際メディアがあらゆる動向を世界中に生放送している",
+          "zh-CN": "国际媒体正在向全世界现场直播每一个进展"
+        },
+        {
+          "en": "Gorbachev has made clear that the Soviet Union will not intervene to save the East German regime",
+          "ja": "ゴルバチョフはソ連が東ドイツ政権を救うために介入しないことを明確にしている",
+          "zh-CN": "戈尔巴乔夫已经明确表示苏联不会干预来挽救东德政权"
+        }
+      ],
+      "startingSceneId": "berlin-wall-1989-scene-001",
+      "initialState": {
+        "publicPressure": 85,
+        "partyControl": 40,
+        "sovietSupport": 30,
+        "protestSize": 70
+      }
+    }
+  ],
+  "sceneIds": [
+    "berlin-wall-1989-scene-001",
+    "berlin-wall-1989-scene-002",
+    "berlin-wall-1989-scene-003"
+  ],
+  "tags": ["Cold War", "political", "Germany", "Berlin", "peaceful revolution"],
+  "difficulty": "intermediate"
+}

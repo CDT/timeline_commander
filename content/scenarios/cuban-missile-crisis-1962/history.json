@@ -1,0 +1,76 @@
+{
+  "scenarioId": "cuban-missile-crisis-1962",
+  "timeline": [
+    {
+      "date": "1962-10-14",
+      "description": {
+        "en": "A U-2 reconnaissance aircraft photographs Soviet medium-range ballistic missile sites under construction in western Cuba near San Cristóbal.",
+        "ja": "U-2偵察機がキューバ西部サン・クリストバル近くで建設中のソ連の中距離弾道ミサイル施設を撮影する。",
+        "zh-CN": "一架U-2侦察机在古巴西部圣克里斯托瓦尔附近拍摄到正在建设中的苏联中程弹道导弹发射场。"
+      }
+    },
+    {
+      "date": "1962-10-16",
+      "description": {
+        "en": "President Kennedy is briefed on the photographs. He convenes the Executive Committee of the National Security Council (ExComm) to discuss the American response. The group debates options ranging from diplomatic protest to full-scale invasion.",
+        "ja": "ケネディ大統領に写真のブリーフィングが行われる。大統領は国家安全保障会議の執行委員会（エクスコム）を招集し、アメリカの対応を議論する。グループは外交的抗議から全面侵攻まで選択肢を議論する。",
+        "zh-CN": "肯尼迪总统听取照片汇报。他召集国家安全委员会执行委员会（ExComm）讨论美国的应对措施。该小组讨论了从外交抗议到全面入侵的各种方案。"
+      }
+    },
+    {
+      "date": "1962-10-22",
+      "description": {
+        "en": "Kennedy addresses the nation on television, revealing the missiles and announcing a naval 'quarantine' of Cuba. American military forces worldwide are placed on DEFCON 3 alert.",
+        "ja": "ケネディがテレビで国民に演説し、ミサイルの存在を明かしキューバの海上「隔離」を発表する。世界中のアメリカ軍がデフコン3警戒態勢に入る。",
+        "zh-CN": "肯尼迪在电视上向全国发表讲话，揭露了导弹的存在并宣布对古巴实施海上「隔离」。全球美军进入三级战备状态。"
+      }
+    },
+    {
+      "date": "1962-10-24",
+      "description": {
+        "en": "The naval quarantine takes effect. Soviet ships approach the quarantine line. Several ships stop or turn back, but construction on the missile sites continues at an accelerated pace.",
+        "ja": "海上封鎖が発効する。ソ連の船が封鎖線に近づく。数隻の船が停止または引き返すが、ミサイル施設の建設は加速して続く。",
+        "zh-CN": "海上隔离生效。苏联船只逼近隔离线。几艘船停下或掉头，但导弹基地的建设以加速的步伐继续进行。"
+      }
+    },
+    {
+      "date": "1962-10-26",
+      "description": {
+        "en": "Khrushchev sends a long, emotional letter to Kennedy offering to remove the missiles in exchange for an American pledge not to invade Cuba. Hours later a second, harder letter demands the removal of American Jupiter missiles from Turkey.",
+        "ja": "フルシチョフがケネディに長い感情的な手紙を送り、アメリカがキューバに侵攻しないと約束する代わりにミサイルを撤去すると提案する。数時間後、2通目のより厳しい手紙がトルコのアメリカのジュピターミサイルの撤去を要求する。",
+        "zh-CN": "赫鲁晓夫给肯尼迪发了一封冗长而激动的信，提出以美国保证不入侵古巴为条件撤走导弹。数小时后，第二封更强硬的信要求撤走美国部署在土耳其的朱庇特导弹。"
+      }
+    },
+    {
+      "date": "1962-10-27",
+      "description": {
+        "en": "Black Saturday — the most dangerous day of the crisis. A U-2 is shot down over Cuba, killing Major Rudolf Anderson. A Soviet submarine nearly launches a nuclear torpedo at the American fleet. Kennedy and ExComm agonize over the response. Robert Kennedy meets secretly with Ambassador Dobrynin.",
+        "ja": "「黒い土曜日」——危機の最も危険な日。キューバ上空でU-2が撃墜され、ルドルフ・アンダーソン少佐が死亡する。ソ連の潜水艦がアメリカ艦隊に核魚雷を発射しそうになる。ケネディとエクスコムが対応に苦悩する。ロバート・ケネディがドブルイニン大使と密かに会談する。",
+        "zh-CN": "「黑色星期六」——危机最危险的一天。一架U-2在古巴上空被击落，鲁道夫·安德森少校阵亡。一艘苏联潜艇差点向美国舰队发射核鱼雷。肯尼迪和执行委员会为如何回应而痛苦挣扎。罗伯特·肯尼迪与多勃雷宁大使秘密会面。"
+      }
+    },
+    {
+      "date": "1962-10-28",
+      "description": {
+        "en": "Khrushchev announces on Radio Moscow that the Soviet Union will dismantle and remove the missiles from Cuba. The crisis ends. The secret agreement on Turkish missiles will not become public for decades.",
+        "ja": "フルシチョフがモスクワ放送でソ連がキューバからミサイルを解体・撤去すると発表する。危機が終結する。トルコのミサイルに関する秘密合意は数十年間公にされない。",
+        "zh-CN": "赫鲁晓夫在莫斯科广播电台宣布苏联将拆除并撤走古巴的导弹。危机结束。关于土耳其导弹的秘密协议数十年后才公之于众。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Cuban Missile Crisis was resolved peacefully, but the world came closer to nuclear annihilation than at any point before or since. The resolution involved a public Soviet withdrawal of missiles from Cuba, a public American pledge not to invade Cuba, and a secret American agreement to remove Jupiter missiles from Turkey. The crisis led to the installation of the Moscow-Washington hotline and the beginning of arms control negotiations between the superpowers.",
+    "ja": "キューバ危機は平和的に解決されましたが、世界はそれ以前にもそれ以降にもないほど核の壊滅に近づきました。解決には、ソ連のキューバからのミサイル公開撤去、アメリカのキューバ不侵攻の公開約束、そしてアメリカのトルコからのジュピターミサイル撤去の秘密合意が含まれていました。この危機はモスクワ・ワシントン間のホットラインの設置と超大国間の軍備管理交渉の開始につながりました。",
+    "zh-CN": "古巴导弹危机和平解决，但世界比以往任何时候都更接近核毁灭。解决方案包括苏联公开从古巴撤走导弹、美国公开承诺不入侵古巴，以及美国秘密同意从土耳其撤走朱庇特导弹。这场危机促成了莫斯科-华盛顿热线的建立和超级大国之间军备控制谈判的开始。"
+  },
+  "significance": {
+    "en": "The Cuban Missile Crisis was the closest the Cold War came to turning hot. It demonstrated both the terrifying dangers of nuclear brinkmanship and the possibility of resolving superpower confrontations through diplomacy rather than war. The crisis profoundly shaped both American and Soviet nuclear strategy, leading to the Partial Nuclear Test Ban Treaty of 1963, the Nuclear Non-Proliferation Treaty, and the broader architecture of Cold War arms control. It remains the most studied case of crisis decision-making in the nuclear age.",
+    "ja": "キューバ危機は冷戦が熱い戦争に転化しそうになった最も近い瞬間でした。核の瀬戸際政策の恐ろしい危険性と、超大国の対立を戦争ではなく外交によって解決する可能性の両方を示しました。この危機はアメリカとソ連の核戦略に深い影響を与え、1963年の部分的核実験禁止条約、核不拡散条約、そして冷戦の軍備管理のより広い枠組みにつながりました。核時代の危機意思決定の最も研究されたケースであり続けています。",
+    "zh-CN": "古巴导弹危机是冷战最接近变为热战的时刻。它既展示了核边缘政策的可怕危险，也展示了通过外交而非战争解决超级大国对抗的可能性。这场危机深刻影响了美苏两国的核战略，促成了1963年《部分禁止核试验条约》、《核不扩散条约》以及冷战军备控制的更广泛框架。它仍然是核时代危机决策中研究最多的案例。"
+  },
+  "furtherReading": [
+    "Graham Allison — Essence of Decision: Explaining the Cuban Missile Crisis",
+    "Sheldon Stern — The Cuban Missile Crisis in American Memory",
+    "Michael Dobbs — One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"
+  ]
+}

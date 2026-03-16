@@ -1,0 +1,163 @@
+{
+  "id": "red-cliffs-208",
+  "title": {
+    "en": "Battle of Red Cliffs",
+    "ja": "赤壁の戦い",
+    "zh-CN": "赤壁之战"
+  },
+  "period": {
+    "en": "Three Kingdoms",
+    "ja": "三国時代",
+    "zh-CN": "三国时期"
+  },
+  "dates": {
+    "start": "0208-11-01",
+    "end": "0208-12-15"
+  },
+  "location": {
+    "en": "Red Cliffs, Yangtze River, China",
+    "ja": "中国、長江、赤壁",
+    "zh-CN": "中国长江赤壁"
+  },
+  "historicalOverview": {
+    "en": "The Battle of Red Cliffs was a decisive naval engagement fought in the winter of 208 AD during the late Eastern Han dynasty, at the cusp of the Three Kingdoms period. The warlord Cao Cao, having unified most of northern China, marched south with an army estimated at over 200,000 men to crush the remaining resistance in the Southlands. Against this overwhelming force stood the allied armies of Sun Quan's Wu and Liu Bei's forces, commanded by the young strategist Zhou Yu with roughly 50,000 men. The allied commanders exploited Cao Cao's unfamiliarity with naval warfare and the epidemic diseases ravaging his forces to achieve one of the most celebrated victories in Chinese military history through the ingenious use of fire ships.",
+    "ja": "赤壁の戦いは、後漢末期の208年冬、三国時代の幕開けに行われた決定的な水上戦でした。中国北部の大部分を統一した曹操は、南方に残る抵抗を潰すため、推定20万以上の軍を率いて南下しました。この圧倒的な兵力に対峙したのは、孫権の呉と劉備の軍勢からなる連合軍で、若き戦略家・周瑜が約5万の兵を指揮しました。連合軍の指揮官たちは、曹操の水戦への不慣れと軍を蝕む疫病を利用し、火計という巧みな戦術により、中国軍事史上最も名高い勝利の一つを収めました。",
+    "zh-CN": "赤壁之战是公元208年冬季东汉末年、三国时期开端的一场决定性水战。统一了中国北方大部分地区的曹操率领估计超过二十万大军南下，意图消灭南方残余势力。面对这支压倒性的力量，孙权的吴国和刘备的军队结成联盟，由年轻的战略家周瑜指挥约五万兵力迎战。联军将领们利用曹操对水战的生疏以及肆虐其军中的瘟疫，通过巧妙运用火攻战术，取得了中国军事史上最为人称道的胜利之一。"
+  },
+  "realWorldOutcome": {
+    "en": "The allied fire attack devastated Cao Cao's fleet and forced his army into a chaotic retreat northward. Cao Cao lost the majority of his forces to fire, drowning, disease, and the subsequent pursuit. The defeat shattered Cao Cao's dream of reunifying China under his rule and ensured the survival of independent powers in the south and west. This led directly to the formation of the Three Kingdoms: Wei in the north under Cao Cao, Wu in the southeast under Sun Quan, and Shu in the southwest under Liu Bei.",
+    "ja": "連合軍の火攻めは曹操の艦隊を壊滅させ、その軍勢を混乱の中で北方へ撤退させました。曹操は火災、溺死、疫病、そしてその後の追撃により大半の兵力を失いました。この敗北は曹操の中国統一の夢を打ち砕き、南方と西方の独立勢力の存続を保証しました。これは直接的に三国の形成につながりました：北方の曹操の魏、東南の孫権の呉、西南の劉備の蜀です。",
+    "zh-CN": "联军的火攻摧毁了曹操的舰队，迫使其军队混乱北撤。曹操因火灾、溺亡、瘟疫及随后的追击损失了大部分兵力。这场失败粉碎了曹操统一中国的梦想，确保了南方和西方独立势力的存续。这直接导致了三国的形成：北方曹操的魏国、东南孙权的吴国、西南刘备的蜀国。"
+  },
+  "keyFigures": [
+    {
+      "id": "zhou-yu",
+      "name": "Zhou Yu",
+      "role": {
+        "en": "Commander of the Wu-Shu Allied Forces",
+        "ja": "呉蜀連合軍総指揮官",
+        "zh-CN": "吴蜀联军总指挥"
+      },
+      "faction": "Wu-Shu Alliance",
+      "description": {
+        "en": "The brilliant young strategist and military commander of Sun Quan's forces, who devised the fire attack strategy that destroyed Cao Cao's fleet. Known for his keen intellect and composure under pressure.",
+        "ja": "孫権軍の優れた若き戦略家にして軍事指揮官。曹操の艦隊を壊滅させた火攻め戦略を考案した。鋭い知性と圧力下での冷静さで知られる。",
+        "zh-CN": "孙权麾下杰出的年轻战略家和军事指挥官，策划了摧毁曹操舰队的火攻计策。以敏锐的才智和临危不乱著称。"
+      }
+    },
+    {
+      "id": "cao-cao",
+      "name": "Cao Cao",
+      "role": {
+        "en": "Chancellor of the Han Dynasty and Commander of the Northern Army",
+        "ja": "漢の丞相・北方軍総司令",
+        "zh-CN": "汉朝丞相、北方军总司令"
+      },
+      "faction": "Wei",
+      "description": {
+        "en": "The dominant warlord of northern China who sought to conquer the south and reunify the empire. A skilled strategist on land but fatally unfamiliar with naval warfare on the Yangtze.",
+        "ja": "南方を征服し帝国を再統一しようとした中国北方の支配的な群雄。陸上戦に長けた戦略家だが、長江での水戦には致命的に不慣れだった。",
+        "zh-CN": "中国北方最强大的军阀，企图征服南方、统一帝国。他是出色的陆战战略家，但对长江上的水战极为生疏，这成为致命弱点。"
+      }
+    },
+    {
+      "id": "zhuge-liang",
+      "name": "Zhuge Liang",
+      "role": {
+        "en": "Chief Advisor to Liu Bei",
+        "ja": "劉備の軍師",
+        "zh-CN": "刘备首席谋士"
+      },
+      "faction": "Shu",
+      "description": {
+        "en": "Liu Bei's legendary advisor who helped broker the Wu-Shu alliance and contributed strategic counsel during the battle. His diplomatic skill was essential in uniting the southern resistance.",
+        "ja": "呉蜀同盟の成立を助け、戦中に戦略的助言を行った劉備の伝説的な軍師。その外交手腕は南方の抵抗勢力を結集する上で不可欠だった。",
+        "zh-CN": "刘备的传奇谋士，帮助促成吴蜀联盟，并在战役中提供战略指导。他的外交才能对于团结南方抵抗力量至关重要。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "zhou-yu-commander",
+      "scenarioId": "red-cliffs-208",
+      "name": "Zhou Yu",
+      "title": {
+        "en": "Commander of the Wu-Shu Alliance",
+        "ja": "呉蜀連合軍総指揮官",
+        "zh-CN": "吴蜀联军总指挥"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Zhou Yu, Grand Commander of the forces of Wu under Sun Quan. It is the winter of 208 AD. Cao Cao, the most powerful warlord in China, has swept south with an army that dwarfs your own. He controls the Han court, commands seasoned veterans, and has already absorbed the naval forces of Jing Province. Your lord Sun Quan has chosen to fight rather than submit. You have forged a fragile alliance with Liu Bei and his advisor Zhuge Liang, but trust between your factions is thin. You command perhaps 50,000 men against Cao Cao's 200,000 or more. Your one advantage is the Yangtze River itself — Cao Cao's northerners are poor sailors, prone to seasickness, and ravaged by unfamiliar southern diseases. You must find a way to turn this advantage into a decisive victory, or the Southlands will fall.",
+        "ja": "あなたは周瑜、孫権のもとでの呉軍大都督です。208年の冬。中国で最も強力な群雄・曹操が、あなたの軍をはるかに凌ぐ大軍を率いて南下してきました。彼は漢の朝廷を支配し、歴戦の兵を指揮し、すでに荊州の水軍を吸収しています。主君の孫権は降伏ではなく戦うことを選びました。あなたは劉備とその軍師・諸葛亮と脆い同盟を結びましたが、両陣営の信頼は薄いものです。あなたは曹操の20万以上に対し、おそらく5万の兵を指揮しています。あなたの唯一の優位は長江そのものです——曹操の北方兵は水戦が下手で、船酔いしやすく、馴染みのない南方の疫病に苦しんでいます。この優位を決定的勝利に変える方法を見つけなければ、南方は陥落するでしょう。",
+        "zh-CN": "您是周瑜，孙权麾下吴军大都督。公元208年冬。中国最强大的军阀曹操率领远超您兵力的大军南下。他控制着汉室朝廷，统帅久经沙场的老兵，并已吸收了荆州的水军。您的主公孙权选择了战斗而非屈服。您与刘备及其谋士诸葛亮结成了脆弱的联盟，但双方之间的信任十分薄弱。您指挥着大约五万人对抗曹操的二十万大军。您唯一的优势是长江本身——曹操的北方士兵不善水战，容易晕船，且饱受南方陌生疫病的侵袭。您必须找到将这一优势转化为决定性胜利的方法，否则江东将会沦陷。"
+      },
+      "objectives": [
+        {
+          "en": "Defeat Cao Cao's northern army and prevent the conquest of the Southlands",
+          "ja": "曹操の北方軍を撃破し、南方の征服を阻止する",
+          "zh-CN": "击败曹操的北方大军，阻止其征服南方"
+        },
+        {
+          "en": "Protect the territorial integrity of Sun Quan's domain",
+          "ja": "孫権の領土の完全性を守る",
+          "zh-CN": "保卫孙权领土的完整"
+        },
+        {
+          "en": "Maintain the alliance with Liu Bei without ceding too much power",
+          "ja": "過度な譲歩をせずに劉備との同盟を維持する",
+          "zh-CN": "在不让渡过多权力的前提下维持与刘备的联盟"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "You are outnumbered roughly four to one; a direct confrontation on land would be suicidal",
+          "ja": "兵力は約四対一で劣勢であり、陸上での直接対決は自殺行為である",
+          "zh-CN": "兵力大约以一比四处于劣势；在陆地上正面交锋无异于自杀"
+        },
+        {
+          "en": "The alliance with Liu Bei is fragile — Zhuge Liang's ambitions may not align with Wu's interests",
+          "ja": "劉備との同盟は脆い——諸葛亮の野心は呉の利益と一致しない可能性がある",
+          "zh-CN": "与刘备的联盟十分脆弱——诸葛亮的野心可能与吴国利益不一致"
+        },
+        {
+          "en": "Sun Quan's court is divided — powerful advisors like Zhang Zhao still advocate surrender",
+          "ja": "孫権の朝廷は分裂している——張昭のような有力な顧問はいまだ降伏を主張している",
+          "zh-CN": "孙权的朝堂意见分裂——张昭等重臣仍主张投降"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Cao Cao has sent a letter to Sun Quan boasting of 800,000 troops — the court is terrified",
+          "ja": "曹操は孫権に80万の兵を誇る書状を送った——朝廷は恐怖に包まれている",
+          "zh-CN": "曹操致信孙权，号称八十万大军——朝堂上下恐惧不已"
+        },
+        {
+          "en": "Disease is spreading in Cao Cao's camp but time works against you — his reinforcements continue to arrive",
+          "ja": "曹操の陣営では疫病が蔓延しているが、時間はあなたに不利だ——増援が続々と到着している",
+          "zh-CN": "疫病在曹操营中蔓延，但时间对您不利——他的援军仍在不断抵达"
+        },
+        {
+          "en": "Your subordinate officers question whether Liu Bei's forces can be trusted in battle",
+          "ja": "部下の将校たちは、劉備の軍勢が戦場で信頼できるかどうかを疑問視している",
+          "zh-CN": "您的部将质疑刘备的军队在战场上是否可靠"
+        }
+      ],
+      "startingSceneId": "red-cliffs-208-scene-001",
+      "initialState": {
+        "allianceCohesion": 60,
+        "navalSuperiority": 75,
+        "caoStrength": 90,
+        "fireAttackReady": 0
+      }
+    }
+  ],
+  "sceneIds": [
+    "red-cliffs-208-scene-001",
+    "red-cliffs-208-scene-002",
+    "red-cliffs-208-scene-003"
+  ],
+  "tags": ["ancient", "military", "China", "Three Kingdoms", "naval"],
+  "difficulty": "intermediate"
+}

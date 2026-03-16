@@ -1,0 +1,163 @@
+{
+  "id": "spanish-armada-1588",
+  "title": {
+    "en": "The Spanish Armada",
+    "ja": "スペイン無敵艦隊",
+    "zh-CN": "西班牙无敌舰队"
+  },
+  "period": {
+    "en": "Early Modern Europe",
+    "ja": "近世ヨーロッパ",
+    "zh-CN": "近代早期欧洲"
+  },
+  "dates": {
+    "start": "1588-07-29",
+    "end": "1588-08-08"
+  },
+  "location": {
+    "en": "English Channel",
+    "ja": "イギリス海峡",
+    "zh-CN": "英吉利海峡"
+  },
+  "historicalOverview": {
+    "en": "The Spanish Armada of 1588 was a fleet of 130 ships assembled by King Philip II of Spain to invade England, overthrow Queen Elizabeth I, and restore Catholicism to the English throne. The Armada was to sail up the English Channel, rendezvous with the Duke of Parma's Army of Flanders in the Netherlands, and escort the invasion barges across the Channel. The English fleet, commanded by Lord Howard of Effingham with Sir Francis Drake as his vice-admiral, employed faster, more maneuverable ships armed with long-range guns. After running battles up the Channel, the English launched fireships against the Armada anchored at Calais, scattering the Spanish formation. The decisive Battle of Gravelines followed, after which the Armada was forced to flee north around Scotland and Ireland, losing dozens of ships to storms. Fewer than half the ships returned to Spain.",
+    "ja": "1588年のスペイン無敵艦隊は、イングランドに侵攻し、エリザベス1世女王を倒し、イングランドの王位にカトリックを復活させるためにスペイン王フェリペ2世が編成した130隻の艦隊でした。無敵艦隊はイギリス海峡を北上し、オランダでパルマ公のフランドル軍と合流し、侵攻用のはしけを海峡を越えて護衛する計画でした。エフィンガム男爵ハワード卿率いるイングランド艦隊は、フランシス・ドレイク卿を副司令官として、長距離砲を搭載したより速く機動性の高い船を運用しました。海峡での追撃戦の後、イングランドはカレーに停泊していた無敵艦隊に火船を放ち、スペインの陣形を散乱させました。続く決定的なグラヴリーヌの海戦の後、無敵艦隊はスコットランドとアイルランドを回って北に逃れることを余儀なくされ、嵐で数十隻を失いました。スペインに帰還できたのは半数に満たない船でした。",
+    "zh-CN": "1588年的西班牙无敌舰队是西班牙国王腓力二世集结的130艘战船，旨在入侵英格兰、推翻伊丽莎白一世女王并恢复天主教在英格兰王位上的地位。无敌舰队计划沿英吉利海峡北上，在荷兰与帕尔马公爵的佛兰德斯军团会合，护送入侵驳船渡过海峡。由埃芬厄姆的霍华德勋爵指挥、弗朗西斯·德雷克爵士任副司令的英格兰舰队，使用更快速、更灵活且配备远程火炮的战船。在海峡中进行多次追击战后，英格兰人在加来向停泊的无敌舰队发射火船，打散了西班牙阵形。随后爆发了决定性的格拉沃利讷海战，之后无敌舰队被迫向北绕过苏格兰和爱尔兰逃离，在风暴中损失了数十艘船。返回西班牙的船只不到一半。"
+  },
+  "realWorldOutcome": {
+    "en": "The Spanish Armada was decisively defeated. After the Battle of Gravelines, the surviving ships fled north around Scotland and Ireland, where storms destroyed many more vessels. Of the 130 ships that sailed, only about 65 returned to Spain. England's victory secured the Protestant settlement, established England as a rising naval power, and marked the beginning of Spain's slow decline as the dominant European power.",
+    "ja": "スペイン無敵艦隊は決定的に敗北しました。グラヴリーヌの海戦の後、生き残った船はスコットランドとアイルランドを回って北に逃れましたが、嵐がさらに多くの船を破壊しました。出航した130隻のうち、スペインに帰還できたのは約65隻でした。イングランドの勝利はプロテスタントの体制を確固たるものとし、イングランドを新興の海軍強国として確立し、ヨーロッパの支配的な大国としてのスペインの緩やかな衰退の始まりを示しました。",
+    "zh-CN": "西班牙无敌舰队遭受了决定性失败。格拉沃利讷海战后，幸存的船只向北绕过苏格兰和爱尔兰逃离，风暴又摧毁了更多船只。出发的130艘船中，仅约65艘返回西班牙。英格兰的胜利巩固了新教体制，确立了英格兰作为崛起中的海军强国的地位，标志着西班牙作为欧洲主导大国缓慢衰落的开始。"
+  },
+  "keyFigures": [
+    {
+      "id": "drake",
+      "name": "Sir Francis Drake",
+      "role": {
+        "en": "Vice-Admiral of the English Fleet",
+        "ja": "イングランド艦隊副司令官",
+        "zh-CN": "英格兰舰队副司令"
+      },
+      "faction": "England",
+      "description": {
+        "en": "England's most famous sea captain, the first Englishman to circumnavigate the globe, renowned as a brilliant tactician and feared by the Spanish as 'El Draque.'",
+        "ja": "イングランド最も有名な船長で、イングランド人として初めて世界を周航した。卓越した戦術家として名高く、スペイン人に「エル・ドラケ」として恐れられた。",
+        "zh-CN": "英格兰最著名的海上船长，第一位环球航行的英格兰人，以卓越的战术才能闻名，被西班牙人畏惧地称为'埃尔·德拉克'。"
+      }
+    },
+    {
+      "id": "medina-sidonia",
+      "name": "Duke of Medina Sidonia",
+      "role": {
+        "en": "Commander of the Spanish Armada",
+        "ja": "スペイン無敵艦隊司令官",
+        "zh-CN": "西班牙无敌舰队司令"
+      },
+      "faction": "Spain",
+      "description": {
+        "en": "A wealthy nobleman with limited naval experience, appointed by Philip II to command the Armada after the death of the more experienced Marquis of Santa Cruz.",
+        "ja": "海軍経験が限られた裕福な貴族で、より経験豊富なサンタ・クルス侯爵の死後、フェリペ2世によって無敵艦隊の指揮を任された。",
+        "zh-CN": "一位海军经验有限的富有贵族，在更有经验的圣克鲁斯侯爵去世后被腓力二世任命为无敌舰队司令。"
+      }
+    },
+    {
+      "id": "howard",
+      "name": "Lord Howard of Effingham",
+      "role": {
+        "en": "Lord Admiral, Commander of the English Fleet",
+        "ja": "海軍卿、イングランド艦隊司令官",
+        "zh-CN": "海军大臣，英格兰舰队总指挥"
+      },
+      "faction": "England",
+      "description": {
+        "en": "The overall commander of the English fleet, a skilled administrator who wisely deferred to Drake's tactical expertise during the campaign.",
+        "ja": "イングランド艦隊の総司令官。熟練した管理者で、作戦中はドレイクの戦術的専門知識に賢明に委ねた。",
+        "zh-CN": "英格兰舰队总指挥，精明的行政官员，在战役中明智地听从德雷克的战术专长。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "francis-drake",
+      "scenarioId": "spanish-armada-1588",
+      "name": "Sir Francis Drake",
+      "title": {
+        "en": "Vice-Admiral of the English Fleet",
+        "ja": "イングランド艦隊副司令官",
+        "zh-CN": "英格兰舰队副司令"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Sir Francis Drake, Vice-Admiral of the English Fleet. It is July 1588. The moment you have warned England about for years has arrived: Spain's Invincible Armada is sailing up the Channel. One hundred and thirty ships carrying thirty thousand men, with the Duke of Parma's veteran Army of Flanders waiting in the Netherlands to join them. If the Armada links with Parma, England will face the most powerful invasion force since the Norman Conquest. Your fleet is faster and more maneuverable, your guns shoot farther, and your crews are the finest sailors in the world. But you are outnumbered, outgunned at close range, and your supplies of powder and shot are dangerously low. Queen Elizabeth and all of Protestant England are depending on you. You must find a way to prevent the junction of the Armada with Parma's army, and if possible, destroy the Spanish fleet entirely.",
+        "ja": "あなたはイングランド艦隊副司令官、フランシス・ドレイク卿です。1588年7月。あなたが長年イングランドに警告してきた瞬間が到来しました：スペインの無敵艦隊が海峡を北上しています。3万人を乗せた130隻の船。オランダではパルマ公の精鋭フランドル軍が合流を待っています。無敵艦隊がパルマと合流すれば、イングランドはノルマン征服以来最強の侵攻軍に直面します。あなたの艦隊はより速く機動性があり、砲はより遠くまで届き、乗組員は世界最高の船乗りです。しかし数で劣り、近距離では火力で劣り、火薬と砲弾の備蓄は危険なほど少ない。エリザベス女王とプロテスタント・イングランド全体があなたに頼っています。無敵艦隊とパルマの軍の合流を阻止し、可能であればスペイン艦隊を完全に壊滅させる方法を見つけなければなりません。",
+        "zh-CN": "您是英格兰舰队副司令弗朗西斯·德雷克爵士。1588年7月。您多年来一直警告英格兰的时刻已经到来：西班牙的无敌舰队正沿海峡北上。一百三十艘船载着三万人，帕尔马公爵的佛兰德斯精锐陆军正在荷兰等待会合。如果无敌舰队与帕尔马会合，英格兰将面临自诺曼征服以来最强大的入侵力量。您的舰队更快速、更灵活，火炮射程更远，船员是世界上最优秀的水手。但您在数量上处于劣势，近距离火力不如对方，火药和炮弹的储备危险地匮乏。伊丽莎白女王和整个新教英格兰都依靠着您。您必须找到阻止无敌舰队与帕尔马军队会合的方法，如果可能的话，彻底摧毁西班牙舰队。"
+      },
+      "objectives": [
+        {
+          "en": "Prevent the Armada from linking with the Army of Flanders under the Duke of Parma",
+          "ja": "無敵艦隊がパルマ公のフランドル軍と合流するのを阻止する",
+          "zh-CN": "阻止无敌舰队与帕尔马公爵的佛兰德斯军团会合"
+        },
+        {
+          "en": "Protect England from invasion",
+          "ja": "イングランドを侵攻から守る",
+          "zh-CN": "保护英格兰免受入侵"
+        },
+        {
+          "en": "Destroy or scatter the Spanish fleet",
+          "ja": "スペイン艦隊を壊滅または散乱させる",
+          "zh-CN": "摧毁或驱散西班牙舰队"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Your ammunition supply is critically low — you cannot afford a prolonged close-range engagement",
+          "ja": "弾薬の備蓄が決定的に不足している——長時間の近距離戦闘を行う余裕はない",
+          "zh-CN": "弹药供应严重不足——无法承受长时间近距离交战"
+        },
+        {
+          "en": "Lord Howard commands the fleet; you must work within his authority while pressing your tactical vision",
+          "ja": "ハワード卿が艦隊を指揮している。あなたは自分の戦術的見解を主張しつつ、彼の権限の範囲内で行動しなければならない",
+          "zh-CN": "霍华德勋爵统率舰队；您必须在他的权力框架内行事，同时推动您的战术构想"
+        },
+        {
+          "en": "The Spanish ships are heavily armed for close-range boarding — you must avoid letting them grapple",
+          "ja": "スペイン船は近距離での接舷切り込みのために重武装されている——接舷されることを避けなければならない",
+          "zh-CN": "西班牙战船重装备用于近距离接舷战——必须避免被他们靠帮"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "The Armada is maintaining its crescent formation and making steady progress up the Channel toward Parma",
+          "ja": "無敵艦隊は三日月陣形を維持してパルマに向かって海峡を着実に進んでいる",
+          "zh-CN": "无敌舰队保持新月阵形，沿海峡稳步向帕尔马推进"
+        },
+        {
+          "en": "English coastal towns are in panic — the beacon fires are burning from Cornwall to London",
+          "ja": "イングランドの沿岸の町はパニック状態——コーンウォールからロンドンまで狼煙が燃えている",
+          "zh-CN": "英格兰沿海城镇陷入恐慌——从康沃尔到伦敦烽火连天"
+        },
+        {
+          "en": "Resupply ships from English ports are slow and unreliable — you may run out of ammunition mid-battle",
+          "ja": "イングランドの港からの補給船は遅く信頼できない——戦闘中に弾薬が尽きる可能性がある",
+          "zh-CN": "来自英格兰港口的补给船缓慢且不可靠——战斗中可能耗尽弹药"
+        }
+      ],
+      "startingSceneId": "spanish-armada-1588-scene-001",
+      "initialState": {
+        "englishMorale": 70,
+        "fleetReadiness": 75,
+        "weatherAdvantage": 50,
+        "spanishFormation": 90
+      }
+    }
+  ],
+  "sceneIds": [
+    "spanish-armada-1588-scene-001",
+    "spanish-armada-1588-scene-002",
+    "spanish-armada-1588-scene-003"
+  ],
+  "tags": ["early modern", "naval", "England", "Spain", "naval warfare"],
+  "difficulty": "intermediate"
+}

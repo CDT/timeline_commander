@@ -1,0 +1,113 @@
+{
+  "id": "crossing-rubicon-49bc-scene-002",
+  "scenarioId": "crossing-rubicon-49bc",
+  "title": {
+    "en": "The March on Rome",
+    "ja": "ローマへの進軍",
+    "zh-CN": "进军罗马"
+  },
+  "date": {
+    "en": "January 17, 49 BC",
+    "ja": "紀元前49年1月17日",
+    "zh-CN": "公元前49年1月17日"
+  },
+  "location": {
+    "en": "The Via Flaminia, Central Italy",
+    "ja": "中央イタリア、フラミニア街道",
+    "zh-CN": "意大利中部弗拉米尼亚大道"
+  },
+  "narrativePrompt": {
+    "en": "Caesar's advance through Italy has been astonishingly swift. Town after town has opened its gates — some out of fear, but many out of genuine enthusiasm for Caesar. His policy of absolute clemency toward surrendered garrisons has turned potential enemies into neutrals and neutrals into supporters. The garrison of Corfinium, commanded by the senator Lucius Domitius Ahenobarbus, has just surrendered after its soldiers mutinied rather than fight Caesar's veterans. Caesar freed Domitius and his officers unharmed — a gesture of mercy that stunned all of Italy. But now a critical decision arises. Scouts report that Pompey has abandoned Rome itself, declaring the city indefensible, and is retreating south to Brundisium with the Senate leadership and the core of his forces. He clearly intends to cross the Adriatic to Greece, where he can recruit the vast armies of the eastern provinces. Caesar must choose: race to Rome to seize the political capital and the state treasury, or bypass Rome entirely and pursue Pompey south before he can escape across the sea.",
+    "ja": "カエサルのイタリア縦断は驚くほど迅速であった。次々と町が門を開いた——恐怖からの者もいたが、多くはカエサルへの本当の熱意からであった。降伏した守備隊への絶対的寛大さの方針が、潜在的な敵を中立に、中立を支持者に変えた。元老院議員ルキウス・ドミティウス・アヘノバルブスが指揮するコルフィニウムの守備隊は、兵士がカエサルの歴戦兵と戦うよりも反乱を起こしたため降伏した。カエサルはドミティウスと将校たちを無傷で解放した——イタリア全土を驚愕させた寛大な措置であった。しかし今、重大な決断が迫っている。斥候が報告するところによると、ポンペイウスはローマそのものを放棄し、防衛不可能と宣言し、元老院指導部と主力部隊を率いてブルンディシウムへ南に撤退中である。彼は明らかにアドリア海を渡ってギリシアに行き、東方属州の膨大な軍を動員する意図である。カエサルは選ばなければならない：政治的首都と国庫を押さえるためにローマに急行するか、ローマを完全に迂回してポンペイウスが海を渡って逃亡する前に南に追撃するか。",
+    "zh-CN": "恺撒在意大利的推进速度惊人。一个又一个城镇打开了城门——有些出于恐惧，但许多是出于对恺撒的真诚拥护。他对投降驻军绝对宽赦的政策将潜在的敌人变成了中立者，将中立者变成了支持者。由元老院议员卢基乌斯·多米提乌斯·阿赫诺巴尔布斯指挥的科菲尼乌姆驻军刚刚投降了——士兵们宁可哗变也不愿与恺撒的老兵作战。恺撒释放了多米提乌斯和他的军官，毫发无损——这一仁慈之举震惊了全意大利。但现在一个关键的决定摆在面前。斥候报告庞培已放弃罗马本身，宣称该城无法防守，正率领元老院领导层和主力部队向南撤往布伦迪西乌姆。他显然打算渡过亚得里亚海前往希腊，在那里他可以征募东方行省的庞大军队。恺撒必须做出选择：直奔罗马夺取政治首都和国库，还是完全绕过罗马，在庞培渡海逃跑之前向南追击。"
+  },
+  "situationReport": [
+    {
+      "en": "Caesar has crossed the Rubicon and advanced swiftly through Italy with minimal resistance",
+      "ja": "カエサルはルビコン川を渡り、最小限の抵抗でイタリアを迅速に進軍した",
+      "zh-CN": "恺撒已渡过卢比孔河，在极少抵抗下迅速穿越意大利"
+    },
+    {
+      "en": "Pompey has abandoned Rome and is retreating to Brundisium with the Senate leadership",
+      "ja": "ポンペイウスはローマを放棄し、元老院指導部と共にブルンディシウムへ撤退中",
+      "zh-CN": "庞培已放弃罗马，正率元老院领导层撤往布伦迪西乌姆"
+    },
+    {
+      "en": "Caesar's clemency policy has won over many Italian towns and turned public opinion in his favor",
+      "ja": "カエサルの寛大さの方針が多くのイタリアの町を味方にし、世論を彼に有利に変えた",
+      "zh-CN": "恺撒的宽赦政策赢得了许多意大利城镇的支持，使舆论转向有利于他"
+    },
+    {
+      "en": "The state treasury remains in Rome; Pompey did not have time to remove it",
+      "ja": "国庫はローマに残っている。ポンペイウスにはそれを持ち出す時間がなかった",
+      "zh-CN": "国库仍在罗马；庞培来不及转移"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide whether to secure Rome or pursue Pompey before he escapes to Greece",
+      "ja": "ローマを確保するか、ポンペイウスがギリシアに逃亡する前に追撃するかを決定する",
+      "zh-CN": "决定是先确保罗马还是在庞培逃往希腊之前追击他"
+    },
+    {
+      "en": "Maintain the loyalty and momentum of your forces",
+      "ja": "軍の忠誠と勢いを維持する",
+      "zh-CN": "维持军队的忠诚和势头"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You cannot do both — Rome and Brundisium are in opposite directions",
+      "ja": "両方はできない——ローマとブルンディシウムは反対方向にある",
+      "zh-CN": "两者不可兼得——罗马和布伦迪西乌姆方向相反"
+    },
+    {
+      "en": "If Pompey reaches Greece with the Senate, he becomes the legitimate government-in-exile with vast resources",
+      "ja": "ポンペイウスが元老院と共にギリシアに到達すれば、膨大な資源を持つ正統な亡命政府となる",
+      "zh-CN": "如果庞培带着元老院到达希腊，他将成为拥有庞大资源的合法流亡政府"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "March on Rome first. Seize the capital, the treasury, and the political legitimacy. Pompey can be dealt with later.",
+        "ja": "まずローマに進軍する。首都と国庫と政治的正統性を掴む。ポンペイウスは後で対処できる。",
+        "zh-CN": "先进军罗马。夺取首都、国库和政治合法性。庞培以后再对付。"
+      },
+      "historicalContext": "Roughly the historical approach — Caesar entered Rome first, then pursued Pompey.",
+      "outcomePrompt": {
+        "en": "Caesar turns his forces toward Rome. The city lies open before him — Pompey has withdrawn every organized military force. Caesar enters through the Porta Flaminia to the stunned silence of Roman citizens who cannot believe they are seeing a general march into their city under arms. There is no violence, no looting. Caesar immediately convenes what remains of the Senate — mostly junior senators who did not flee — and presents himself as a defender of the tribunes' rights, not a tyrant. He seizes the state treasury in the Temple of Saturn, overriding the protests of the tribune Metellus with a quiet threat. The treasury contains enormous wealth that will fund his campaign. But Pompey has used the time well. Reports confirm he has reached Brundisium and is beginning to embark his forces for Greece.",
+        "ja": "カエサルは軍をローマに向ける。都市は目の前に開けている——ポンペイウスはすべての組織された軍事力を撤退させた。カエサルはフラミニア門を通って入城する。ローマ市民は将軍が武装して自分たちの都市に行進してくるのを信じられず、呆然と静まり返っている。暴力も略奪もない。カエサルは直ちに残った元老院——主に逃亡しなかった下位の元老院議員——を招集し、護民官の権利の守護者として、暴君としてではなく、自らを提示する。サトゥルヌス神殿の国庫を押さえ、護民官メテッルスの抗議を静かな脅迫で退ける。国庫には彼の遠征に資金を提供する莫大な富が含まれている。しかしポンペイウスは時間をうまく使った。報告はポンペイウスがブルンディシウムに到着し、ギリシアへの軍の乗船を開始していることを確認する。",
+        "zh-CN": "恺撒将军队转向罗马。城市在他面前敞开——庞培已撤走所有有组织的军事力量。恺撒从弗拉米尼亚门入城，罗马市民目瞪口呆地看着一位将军武装入城，全城寂静无声。没有暴力，没有掠夺。恺撒立即召集残余的元老院——主要是未出逃的低级别元老——将自己定位为保民官权利的捍卫者，而非暴君。他夺取了萨图恩神殿中的国库，以平静的威胁压制了保民官梅特卢斯的抗议。国库中有大量财富，将为他的战役提供资金。但庞培充分利用了这段时间。报告确认他已到达布伦迪西乌姆，正开始将部队运往希腊。"
+      },
+      "nextSceneId": "crossing-rubicon-49bc-scene-003",
+      "stateChanges": [
+        { "variable": "publicSupport", "operation": "add", "value": 10 },
+        { "variable": "pompeyStrength", "operation": "add", "value": 15 },
+        { "variable": "senateOpposition", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Bypass Rome. Pursue Pompey to Brundisium at maximum speed. If we trap him in Italy, the war ends now.",
+        "ja": "ローマを迂回する。最大速度でポンペイウスをブルンディシウムまで追撃する。イタリアで彼を捕らえれば、戦争は今終わる。",
+        "zh-CN": "绕过罗马。以最大速度追击庞培到布伦迪西乌姆。如果我们把他困在意大利，战争现在就结束。"
+      },
+      "historicalContext": "A counterfactual — Caesar did not immediately pursue Pompey, who escaped to Greece.",
+      "outcomePrompt": {
+        "en": "Caesar makes the bold decision to ignore Rome entirely and race south after Pompey. His veterans cover the distance at a pace that astonishes even their own officers — thirty miles a day over rough mountain roads. Town after town is bypassed or absorbs a brief ultimatum before the column moves on. Caesar's messengers reach Italian communities ahead of the army, promising clemency and turning potential resistance into passive acceptance. But when Caesar arrives at Brundisium, he finds Pompey's rearguard still holding the port. Pompey himself has already embarked with the first transport. A tense standoff develops — Caesar's single legion facing Pompey's garrison across hastily constructed barricades in the narrow harbor streets. Rome, meanwhile, sits unoccupied and leaderless, with the treasury unguarded.",
+        "ja": "カエサルはローマを完全に無視してポンペイウスを追って南に急ぐという大胆な決断を下す。歴戦の兵士たちは自軍の将校さえ驚くペースで距離を踏破する——荒れた山道を1日30マイル。次々と町を通過するか、短い最後通牒を残して隊列が先に進む。カエサルの使者が軍に先行してイタリアの共同体に到着し、寛大さを約束して潜在的な抵抗を受動的な受容に変える。しかしカエサルがブルンディシウムに到着すると、ポンペイウスの後衛がまだ港を守っていた。ポンペイウス自身はすでに最初の輸送船で出航していた。緊迫した膠着状態が展開する——カエサルの1個軍団が、狭い港の通りに急造された障壁を挟んでポンペイウスの守備隊と対峙する。一方ローマは無人で指導者もなく、国庫は無防備なまま残されている。",
+        "zh-CN": "恺撒做出了大胆的决定，完全不理会罗马，直接向南追击庞培。他的老兵们以连自己军官都惊讶的速度行军——在崎岖的山路上日行三十英里。一个个城镇或被绕过，或仅接到简短的最后通牒后大军便继续前进。恺撒的信使先于军队到达各意大利城镇，承诺宽赦，将潜在的抵抗变为消极接受。但当恺撒到达布伦迪西乌姆时，他发现庞培的后卫仍在控制港口。庞培本人已随第一批运输船出航。紧张的对峙随之展开——恺撒的一个军团隔着在狭窄港口街道上仓促搭建的路障与庞培的守军对峙。与此同时，罗马无人占领，群龙无首，国库无人看守。"
+      },
+      "nextSceneId": "crossing-rubicon-49bc-scene-003",
+      "stateChanges": [
+        { "variable": "legionLoyalty", "operation": "add", "value": 5 },
+        { "variable": "pompeyStrength", "operation": "add", "value": -10 },
+        { "variable": "publicSupport", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

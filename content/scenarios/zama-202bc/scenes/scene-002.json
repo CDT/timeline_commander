@@ -1,0 +1,115 @@
+{
+  "id": "zama-202bc-scene-002",
+  "scenarioId": "zama-202bc",
+  "title": {
+    "en": "The Elephant Charge",
+    "ja": "戦象の突撃",
+    "zh-CN": "战象冲锋"
+  },
+  "date": {
+    "en": "October 19, 202 BC",
+    "ja": "紀元前202年10月19日",
+    "zh-CN": "公元前202年10月19日"
+  },
+  "location": {
+    "en": "The battlefield of Zama, North Africa",
+    "ja": "北アフリカ、ザマの戦場",
+    "zh-CN": "北非扎马战场"
+  },
+  "narrativePrompt": {
+    "en": "Dawn breaks over the plain of Zama and the two armies face each other across the dusty ground. Hannibal has placed his eighty war elephants in front of his battle line — the largest elephant force ever assembled for a single engagement. The ground trembles as the massive beasts shift and stamp, their mahouts steadying them with iron goads. Behind the elephants, Hannibal's army is drawn up in three lines: mercenary infantry in front, Carthaginian levies in the center, and his undefeated Italian veterans in the rear — the men who marched with him across the Alps and shattered every Roman army they met. The elephants are meant to break the Roman formation before the infantry engages. Scipio must neutralize them or his legions will be trampled before they can fight. He has drilled his men for this moment. The question is how to counter the charge — with formation or with aggression.",
+    "ja": "ザマの平原に夜明けが訪れ、両軍が砂埃の立つ大地を挟んで対峙する。ハンニバルは80頭の戦象を戦列の前面に配置した——一回の会戦に投入された史上最大の戦象部隊である。巨大な獣たちが身じろぎし足踏みするたびに大地が震え、象使いたちが鉄の棒で制御している。象の後方にはハンニバルの軍が三列に布陣している：前衛に傭兵歩兵、中央にカルタゴ市民兵、そして後衛にイタリアからの無敗の古参兵——アルプスを越えて行軍し、出会うローマ軍をことごとく粉砕した男たちだ。象は歩兵が交戦する前にローマの陣形を粉砕するためのものだ。スキピオは象を無力化しなければ、軍団は戦う前に踏みつぶされる。彼はこの瞬間のために兵士を訓練してきた。問題は突撃にどう対処するか——陣形で受けるか、攻撃で対処するかだ。",
+    "zh-CN": "黎明照亮了扎马平原，两军隔着尘土飞扬的地面对峙。汉尼拔将八十头战象部署在阵线前方——这是有史以来为单次交战集结的最大战象部队。巨兽们移动踏步时大地震颤，驭象手用铁钩控制着它们。战象后面，汉尼拔的军队排成三线：最前面是雇佣兵步兵，中间是迦太基征召兵，最后面是他那支从未败过的意大利老兵——那些随他翻越阿尔卑斯山、击溃所遇每支罗马军队的人。战象的目的是在步兵交战之前打垮罗马阵型。西庇阿必须化解它们，否则他的军团在开打前就会被踏碎。他已为这一刻训练了士兵。问题是如何应对冲锋——以阵型化解还是以攻击迎击。"
+  },
+  "situationReport": [
+    {
+      "en": "Eighty war elephants are arrayed in front of Hannibal's battle line, preparing to charge",
+      "ja": "80頭の戦象がハンニバルの戦列前面に整列し、突撃準備中",
+      "zh-CN": "八十头战象排列在汉尼拔阵线前方，准备发起冲锋"
+    },
+    {
+      "en": "Hannibal's army is deployed in three lines of increasing quality, with his Italian veterans in the rear",
+      "ja": "ハンニバルの軍は品質が順に上がる三列に展開、イタリア古参兵が後衛に配置",
+      "zh-CN": "汉尼拔的军队以三线部署，质量逐线递增，意大利老兵在最后方"
+    },
+    {
+      "en": "Masinissa's Numidian cavalry holds the Roman right flank, outnumbering Hannibal's cavalry",
+      "ja": "マシニッサのヌミディア騎兵がローマの右翼を保持、ハンニバルの騎兵を数で上回っている",
+      "zh-CN": "马西尼萨的努米底亚骑兵守在罗马右翼，在数量上超过汉尼拔的骑兵"
+    },
+    {
+      "en": "Roman velites (light infantry skirmishers) stand ready in front of the legions with javelins",
+      "ja": "ローマの散兵（軽歩兵）が投槍を持って軍団の前に待機している",
+      "zh-CN": "罗马散兵（轻步兵）持标枪在军团前方待命"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Neutralize the war elephant charge without breaking the Roman formation",
+      "ja": "ローマの陣形を崩さずに戦象の突撃を無力化する",
+      "zh-CN": "在不打乱罗马阵型的情况下化解战象冲锋"
+    },
+    {
+      "en": "Preserve infantry strength for the decisive engagement against Hannibal's veterans",
+      "ja": "ハンニバルの古参兵との決戦に備え歩兵戦力を温存する",
+      "zh-CN": "为与汉尼拔老兵的决战保存步兵力量"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Panicked elephants are as dangerous to their own side as to the enemy — but only if they can be turned",
+      "ja": "パニックに陥った象は敵と同じくらい味方にも危険——ただし方向を変えさせることができればの話",
+      "zh-CN": "受惊的战象对己方和敌方同样危险——但前提是能让它们掉头"
+    },
+    {
+      "en": "The elephant charge will happen within minutes — there is no time to rethink the formation",
+      "ja": "象の突撃は数分以内に起こる——陣形を再考する時間はない",
+      "zh-CN": "战象冲锋将在几分钟内发生——没有时间重新考虑阵型"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Open lanes in the Roman formation. Order the maniples to create wide corridors so the elephants charge through harmlessly, then close ranks behind them. Use trumpet blasts to panic the animals as they pass.",
+        "ja": "ローマの陣形に通路を開く。マニプルスに広い回廊を作らせ、象を無害に通過させ、通過後に隊列を閉じる。ラッパの音で通過する動物をパニックに陥らせる。",
+        "zh-CN": "在罗马阵型中打开通道。命令各中队开辟宽阔的走廊，让战象无害地穿过，然后在身后合拢队列。用号角声惊吓通过的战象。"
+      },
+      "historicalContext": "The historical Scipio tactic — he ordered lanes opened in the formation, allowing elephants to pass through harmlessly while trumpets panicked them.",
+      "outcomePrompt": {
+        "en": "The order ripples down the Roman line: open the lanes. Centuries of drill pay off as the maniples shift with disciplined precision, creating wide corridors between their formations. The elephants charge. The ground shakes. Roman trumpeters blow their horns with all their strength, and the terrible blaring noise — unfamiliar and overwhelming — sends many of the beasts into panic before they even reach the Roman line. Those that keep coming find nothing but empty lanes. They thunder through the gaps harmlessly while Roman legionaries jab at them with javelins from the sides. Several elephants, maddened by the trumpets and the javelins, turn and stampede back into Hannibal's own lines, smashing into his Carthaginian cavalry on the left wing and throwing them into complete disorder. Masinissa seizes the moment and charges, routing the Carthaginian horsemen from the field. The elephant charge — Hannibal's opening gambit — has not only failed but turned against him. Scipio's infantry closes ranks and advances.",
+        "ja": "命令がローマの戦列を伝わる：通路を開け。何世紀もの訓練が報われ、マニプルスが規律ある正確さで移動し、陣形の間に広い回廊を作る。象が突撃する。大地が震える。ローマの喇叭手が全力で角笛を吹き、その恐ろしい轟音——聞き慣れない圧倒的な音——がローマの戦列に到達する前に多くの獣をパニックに陥らせる。突進を続ける象は空の通路しか見つけない。隙間を無害に駆け抜ける間、ローマ軍団兵が側面から投槍で刺す。ラッパと投槍に狂わされた数頭の象が向きを変え、ハンニバル自身の戦列に突進し、左翼のカルタゴ騎兵に突っ込んで完全な混乱に陥れる。マシニッサがこの瞬間を捉えて突撃し、カルタゴの騎兵を戦場から駆逐する。象の突撃——ハンニバルの先制策——は失敗しただけでなく、彼自身に跳ね返った。スキピオの歩兵は隊列を閉じて前進する。",
+        "zh-CN": "命令沿罗马战线传递：打开通道。多年严格训练在此刻得到回报，各中队以纪律严明的精确度移动，在阵型之间开辟出宽阔的走廊。战象发起冲锋。大地震颤。罗马号手全力吹响号角，那可怕的轰鸣声——陌生而压倒性的——在许多战象到达罗马战线之前就将它们惊得四散。那些继续冲来的只找到空荡荡的通道。它们从间隙中无害地冲过，而罗马军团士兵从两侧用标枪刺击。几头被号角和标枪逼疯的战象掉头冲回汉尼拔自己的阵线，撞入左翼的迦太基骑兵中，使其陷入彻底混乱。马西尼萨抓住时机发起冲锋，将迦太基骑兵赶出战场。战象冲锋——汉尼拔的开局之策——不仅失败了，还反噬了自己。西庇阿的步兵合拢队列向前推进。"
+      },
+      "nextSceneId": "zama-202bc-scene-003",
+      "stateChanges": [
+        { "variable": "romanMorale", "operation": "add", "value": 15 },
+        { "variable": "hannibalsElephants", "operation": "add", "value": -60 },
+        { "variable": "infantryFormation", "operation": "add", "value": 10 },
+        { "variable": "cavalryStrength", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Send the velites forward aggressively. Have the light infantry hurl javelins at the elephants' faces and flanks to panic them and turn them back into Hannibal's own lines before they reach the legions.",
+        "ja": "散兵を積極的に前進させる。軽歩兵に象の顔と脇腹に投槍を浴びせさせ、パニックに陥らせて軍団に到達する前にハンニバルの戦列に向けて追い返す。",
+        "zh-CN": "派散兵主动出击。让轻步兵向战象的面部和侧腹投掷标枪，使其惊慌失措，在到达军团之前将它们赶回汉尼拔自己的阵线。"
+      },
+      "historicalContext": "A plausible alternative — velites were historically used against elephants, but Scipio's primary tactic was the lane formation.",
+      "outcomePrompt": {
+        "en": "The velites sprint forward with javelin in hand, screaming and hurling their weapons at the approaching elephants. They are brave men, but eighty war elephants are not easily turned by javelins alone. Some elephants shy away from the barrage, several turn and crash back into Hannibal's mercenary infantry — but many others simply absorb the punishment and keep coming, maddened by pain into an unstoppable frenzy. The velites scatter as the surviving elephants crash into the Roman line. The maniples, caught in close formation without the prepared lanes, take terrible casualties as the beasts rampage through their ranks. The first line buckles but does not break — Roman discipline holds, barely. Masinissa still charges and routs the Carthaginian cavalry, but the Roman infantry has paid a heavy price. Centurions rally their bloodied men and reform the line. The elephants are finally killed or driven off, but the legions advance toward Hannibal's infantry already weakened and shaken.",
+        "ja": "散兵が投槍を手に叫びながら前方に疾走し、接近する象に武器を投げつける。彼らは勇敢な兵士だが、80頭の戦象は投槍だけでは容易に追い返せない。一部の象は攻撃を避けて後退し、数頭がハンニバルの傭兵歩兵に突っ込むが、他の多くは罰を受けながらも前進を続け、痛みで狂った止められない突進となる。生き残った象がローマの戦列に突入すると散兵は散り散りになる。準備された通路なしの密集陣形で捕らえられたマニプルスは、獣が隊列を暴走する中で大きな損害を受ける。第一列はたわむが崩れない——ローマの規律がかろうじて持ちこたえる。マシニッサは依然として突撃しカルタゴ騎兵を駆逐するが、ローマ歩兵は重い代償を払った。百人隊長たちが血まみれの兵を集め戦列を再編する。象はついに殺されるか追い払われるが、軍団はすでに弱体化し動揺した状態でハンニバルの歩兵に向かって前進する。",
+        "zh-CN": "散兵手持标枪呐喊着冲向前方，向逼近的战象投掷武器。他们是勇敢的士兵，但仅凭标枪不容易让八十头战象掉头。一些战象在攻击下退缩，几头掉头撞入汉尼拔的雇佣兵步兵——但更多的战象承受了打击继续前冲，被疼痛激怒成无法阻挡的狂暴。幸存的战象撞入罗马战线时散兵四散逃开。在没有预设通道的密集阵型中，各中队在巨兽在队列中横冲直撞时遭受了惨重伤亡。第一线弯曲但没有崩溃——罗马纪律勉强维持住了。马西尼萨仍然发起冲锋并击溃了迦太基骑兵，但罗马步兵付出了沉重代价。百夫长们收拢血迹斑斑的士兵重整战线。战象终于被杀死或赶走，但军团在向汉尼拔步兵推进时已经被削弱和动摇。"
+      },
+      "nextSceneId": "zama-202bc-scene-003",
+      "stateChanges": [
+        { "variable": "romanMorale", "operation": "add", "value": -5 },
+        { "variable": "hannibalsElephants", "operation": "add", "value": -40 },
+        { "variable": "infantryFormation", "operation": "add", "value": -15 },
+        { "variable": "cavalryStrength", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

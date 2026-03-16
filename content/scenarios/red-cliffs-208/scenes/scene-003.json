@@ -1,0 +1,109 @@
+{
+  "id": "red-cliffs-208-scene-003",
+  "scenarioId": "red-cliffs-208",
+  "title": "The Fire Attack",
+  "date": {
+    "en": "December, 208 AD",
+    "ja": "208年12月",
+    "zh-CN": "公元208年12月"
+  },
+  "location": {
+    "en": "Red Cliffs, Yangtze River",
+    "ja": "長江、赤壁",
+    "zh-CN": "长江赤壁"
+  },
+  "narrativePrompt": {
+    "en": "The moment of decision has arrived. If the fire attack was prepared, Huang Gai's ships are loaded and his false surrender has been accepted by Cao Cao. The southeast wind has finally risen — a rare winter phenomenon that will carry the flames directly into the heart of the chained fleet. Everything is in position. But Zhou Yu faces a final choice: commit everything to the fire attack in a single all-or-nothing gamble, or hold reserves back in case the attack fails. If the fire attack was not prepared, the prolonged naval skirmishing has weakened both sides, and Zhou Yu must decide whether to launch a final desperate assault or attempt to negotiate from a position of stalemate. The fate of the Southlands — and the shape of China for the next century — hangs on this decision.",
+    "ja": "決断の瞬間が来た。火攻めの準備ができていれば、黄蓋の船は装填され、偽の降伏は曹操に受け入れられている。東南の風がついに吹いた——冬には珍しい現象で、炎を連結された艦隊の中心へと直接運ぶだろう。全ては整った。しかし周瑜は最後の選択に直面する：一か八かの賭けとして全てを火攻めに投じるか、攻撃が失敗した場合に備えて予備を残すか。火攻めの準備ができていなければ、長期にわたる水上での小競り合いで両軍は消耗しており、周瑜は最後の決死の攻撃を仕掛けるか、膠着状態から交渉を試みるかを決めなければならない。南方の命運——そして次の世紀の中国の形——がこの決断にかかっている。",
+    "zh-CN": "决定性时刻已经到来。如果火攻已准备就绪，黄盖的船只已装载完毕，他的诈降已被曹操接受。东南风终于刮起——这是一种罕见的冬季现象，将把火焰直接送入连环战船的核心。一切就位。但周瑜面临最后的抉择：将一切投入火攻进行孤注一掷的豪赌，还是保留预备队以防进攻失败。如果火攻未准备好，持久的水上交战已消耗了双方力量，周瑜必须决定是发动最后的拼死一击，还是在僵持局面下尝试谈判。南方的命运——以及未来一个世纪中国的格局——取决于这个决定。"
+  },
+  "situationReport": [
+    {
+      "en": "The southeast wind has risen — conditions are ideal for a fire attack if prepared",
+      "ja": "東南の風が吹いた——火攻めの準備ができていれば理想的な条件",
+      "zh-CN": "东南风已起——若火攻准备就绪，条件完美"
+    },
+    {
+      "en": "Cao Cao's fleet remains chained together, creating an enormous connected target",
+      "ja": "曹操の艦隊は依然として連結されており、巨大な連結された標的となっている",
+      "zh-CN": "曹操舰队仍用铁链相连，形成一个巨大的连接目标"
+    },
+    {
+      "en": "Disease has weakened Cao Cao's fighting strength — many units are at half capacity",
+      "ja": "疫病が曹操の戦闘力を弱めた——多くの部隊は半数の能力に低下",
+      "zh-CN": "瘟疫削弱了曹操的战斗力——许多部队仅剩半数战力"
+    },
+    {
+      "en": "The allied forces are at peak readiness but cannot sustain a prolonged campaign",
+      "ja": "連合軍は最高の準備状態にあるが、長期戦を維持できない",
+      "zh-CN": "联军处于最佳备战状态，但无法维持持久作战"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Destroy Cao Cao's fleet and force a northern retreat",
+      "ja": "曹操の艦隊を壊滅させ、北方への撤退を強いる",
+      "zh-CN": "摧毁曹操舰队，迫使其北撤"
+    },
+    {
+      "en": "Secure the survival and independence of the Southlands",
+      "ja": "南方の存続と独立を確保する",
+      "zh-CN": "确保南方的存续与独立"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The wind may shift at any moment — delay could mean losing the opportunity entirely",
+      "ja": "風はいつ変わるかわからない——遅延は機会を完全に失うことを意味し得る",
+      "zh-CN": "风向随时可能改变——延迟可能意味着彻底失去机会"
+    },
+    {
+      "en": "If the fire attack fails, there are no reserves for a second attempt",
+      "ja": "火攻めが失敗すれば、二度目の試みのための予備はない",
+      "zh-CN": "若火攻失败，没有预备力量进行第二次尝试"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Launch the fire attack with full commitment. Send Huang Gai now with every fire ship, and follow with the entire allied fleet to exploit the chaos.",
+        "ja": "全力で火攻めを開始する。今すぐ黄蓋を全ての火船と共に送り出し、混乱に乗じて連合艦隊全体で追撃する。",
+        "zh-CN": "全力发动火攻。立即派黄盖率全部火船出击，随后以联军全部舰队趁乱追击。"
+      },
+      "historicalContext": "The historical choice — the fire attack was launched with total commitment and succeeded spectacularly.",
+      "outcomePrompt": {
+        "en": "Huang Gai's squadron sails toward Cao Cao's fleet under the banner of surrender. Cao Cao's officers watch with satisfaction as the 'defecting' ships approach. At the last moment, Huang Gai's men ignite the fire ships and leap into the water. The southeast wind drives the blazing vessels into the chained fleet. Within minutes, the fire leaps from ship to ship across the iron chains. The entire river becomes an inferno. Cao Cao's soldiers, trapped on burning, linked vessels, perish by the thousands — by fire, by drowning, by the arrows of the pursuing allied fleet. By dawn, the greatest army in China is a smoking ruin on the Yangtze. Cao Cao flees north along the Huarong Trail with the shattered remnants of his host. The Southlands are saved. The Three Kingdoms are born.",
+        "ja": "黄蓋の船団が投降の旗を掲げて曹操の艦隊に向かう。曹操の将校たちは「投降」の船が近づくのを満足げに眺める。最後の瞬間、黄蓋の部下たちは火船に火を放ち、水に飛び込む。東南の風が燃え盛る船を連結された艦隊へ吹き寄せる。数分のうちに、火は鉄の鎖を伝って船から船へと燃え移る。長江全体が地獄の炎と化す。燃え盛る連結された船に閉じ込められた曹操の兵士たちは、火に、溺死に、追撃する連合艦隊の矢に、数千人が命を落とす。夜明けまでに、中国最大の軍は長江上の燻る廃墟と化した。曹操は壊滅した残軍とともに華容道を北へ逃走する。南方は救われた。三国が誕生した。",
+        "zh-CN": "黄盖的船队打着投降的旗号驶向曹操舰队。曹操的将领们满意地注视着'投降'的船只靠近。在最后一刻，黄盖的部下点燃火船，跳入水中。东南风将燃烧的船只吹向连环战船。几分钟之内，火焰沿着铁链从一艘船蔓延到另一艘。整条江面变成一片火海。被困在燃烧的连锁战船上的曹操士兵成千上万地丧生——被烧死、被淹死、被追击的联军箭矢射杀。到黎明时分，中国最强大的军队化为长江上的一片废墟。曹操率领残部沿华容道仓皇北逃。南方得救了。三国由此诞生。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "caoStrength", "operation": "add", "value": -70 },
+        { "variable": "navalSuperiority", "operation": "add", "value": 20 },
+        { "variable": "allianceCohesion", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Hold back a reserve force. Send Huang Gai with half the fire ships first; keep the rest in case the wind shifts or Cao Cao reacts faster than expected.",
+        "ja": "予備兵力を残す。まず黄蓋を火船の半数と共に送り出し、風が変わったり曹操の反応が予想より早かった場合に備えて残りを温存する。",
+        "zh-CN": "保留预备队。先派黄盖率一半火船出击；保留其余兵力以防风向转变或曹操反应超出预期。"
+      },
+      "historicalContext": "A counterfactual — a cautious approach might have reduced the impact of the fire attack but preserved options if it failed.",
+      "outcomePrompt": {
+        "en": "Zhou Yu sends Huang Gai with half the fire ships while keeping the rest in reserve. The initial fire attack succeeds — flames engulf a large section of Cao Cao's chained fleet and the northern soldiers panic. But the reduced number of fire ships means the destruction is not total. Cao Cao manages to cut the chains on his rear vessels and save perhaps a third of his fleet. He retreats north in better order than a full rout, but he has still lost the battle decisively. The Southlands are secure, but Cao Cao retains enough strength that the coming struggle for supremacy will be longer and bloodier than it might have been. Zhou Yu's caution preserved his reserves, but the window for a total annihilation has closed.",
+        "ja": "周瑜は黄蓋を火船の半数と共に送り出し、残りを予備として保持する。最初の火攻めは成功する——炎が曹操の連結された艦隊の大部分を包み込み、北方の兵士たちはパニックに陥る。しかし火船の数が少ないため、壊滅は完全ではない。曹操は後方の船の鎖を切ることに成功し、艦隊の約三分の一を救う。彼は総崩れよりも良い秩序で北方に撤退するが、それでも戦いには決定的に敗北した。南方は安全だが、曹操は十分な兵力を残しており、覇権をめぐる今後の戦いは本来よりも長く血なまぐさいものになるだろう。周瑜の慎重さは予備を温存したが、完全殲滅の機会は閉じてしまった。",
+        "zh-CN": "周瑜派黄盖率一半火船出击，其余作为预备。初次火攻成功——火焰吞噬了曹操连环舰队的大部分，北方士兵陷入恐慌。但火船数量减少意味着毁灭并不彻底。曹操设法砍断后方战船的铁链，保住了大约三分之一的舰队。他以比全面溃败更好的秩序北撤，但仍然决定性地输掉了战役。南方安全了，但曹操保留了足够的实力，未来的霸权之争将比本可能的更加漫长和血腥。周瑜的谨慎保存了预备队，但彻底歼灭的窗口已经关闭。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "caoStrength", "operation": "add", "value": -40 },
+        { "variable": "navalSuperiority", "operation": "add", "value": 10 },
+        { "variable": "allianceCohesion", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

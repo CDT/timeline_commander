@@ -1,0 +1,73 @@
+{
+  "scenarioId": "midway-1942",
+  "timeline": [
+    {
+      "date": "1942-04-18",
+      "description": {
+        "en": "The Doolittle Raid: sixteen B-25 bombers launched from USS Hornet bomb Tokyo. The raid causes minimal physical damage but deeply shocks the Japanese military establishment, accelerating Yamamoto's plan to attack Midway and destroy the American carrier fleet.",
+        "ja": "ドーリットル空襲：空母ホーネットから発進した16機のB-25爆撃機が東京を爆撃。物理的な被害は軽微だが、日本軍指導部に深い衝撃を与え、山本のミッドウェー攻撃とアメリカ空母艦隊殲滅計画を加速させた。",
+        "zh-CN": "杜立特空袭：十六架B-25轰炸机从大黄蜂号航母起飞轰炸东京。空袭造成的物质损失极小，但深深震动了日本军方，加速了山本进攻中途岛、消灭美国航母舰队的计划。"
+      }
+    },
+    {
+      "date": "1942-05-08",
+      "description": {
+        "en": "The Battle of the Coral Sea ends — the first naval battle fought entirely by aircraft carriers. USS Lexington is sunk and USS Yorktown is damaged. Japan loses the light carrier Shoho and the fleet carrier Shokaku is damaged, keeping both Shokaku and Zuikaku out of the Midway operation.",
+        "ja": "珊瑚海海戦が終結——史上初の空母同士のみの海戦。空母レキシントンが沈没、ヨークタウンが損傷。日本は軽空母祥鳳を失い、正規空母翔鶴が損傷、翔鶴と瑞鶴の両艦がミッドウェー作戦に参加できなくなった。",
+        "zh-CN": "珊瑚海海战结束——这是第一场完全由航母进行的海战。列克星敦号被击沉，约克城号受损。日本损失轻型航母祥凤号，舰队航母翔鹤号受损，导致翔鹤号和瑞鹤号均无法参加中途岛作战。"
+      }
+    },
+    {
+      "date": "1942-05-25",
+      "description": {
+        "en": "Station HYPO confirms Midway as the Japanese target through the 'AF water' ruse — Midway is ordered to send a plaintext message about a water shortage; Japanese intercepts referencing 'AF's water problem' confirm AF is Midway.",
+        "ja": "ステーション・ハイポが「AFの水」の策略でミッドウェーが日本の標的であることを確認——ミッドウェーに水不足に関する平文メッセージを送信するよう命令。「AFの水問題」に言及する日本の傍受通信がAFがミッドウェーであることを確認した。",
+        "zh-CN": "海波站通过'AF淡水'计谋确认中途岛为日本目标——中途岛被令发送关于淡水短缺的明文消息；日本截获的通信中提到'AF的淡水问题'，确认AF即中途岛。"
+      }
+    },
+    {
+      "date": "1942-06-04",
+      "description": {
+        "en": "Battle of Midway begins. Nagumo's carriers launch a devastating first strike on Midway Island. American torpedo bomber squadrons attack the Japanese fleet with catastrophic losses — Torpedo Squadron 8 from USS Hornet is wiped out, with only one survivor, Ensign George Gay.",
+        "ja": "ミッドウェー海戦が始まる。南雲の空母がミッドウェー島への壊滅的な第一撃を発進。アメリカの雷撃機隊が壊滅的な損失を受けながら日本艦隊を攻撃——ホーネットの第8雷撃隊は壊滅し、生存者はジョージ・ゲイ少尉ただ一人だった。",
+        "zh-CN": "中途岛海战开始。南云的航母对中途岛发动毁灭性的第一波攻击。美国鱼雷轰炸机中队以惨重损失攻击日本舰队——大黄蜂号的第八鱼雷机中队全军覆没，仅有乔治·盖伊少尉一人生还。"
+      }
+    },
+    {
+      "date": "1942-06-04",
+      "description": {
+        "en": "At 10:22 AM, American dive bombers from Enterprise and Yorktown arrive over the Japanese fleet while its combat air patrol is at low altitude after chasing torpedo bombers. In five minutes, three Japanese carriers — Akagi, Kaga, and Soryu — are set ablaze, their decks packed with armed and fueled aircraft. The fourth carrier, Hiryu, launches a counter-strike that cripples Yorktown before being sunk herself.",
+        "ja": "午前10時22分、エンタープライズとヨークタウンのアメリカ急降下爆撃機が日本艦隊の上空に到達。日本の戦闘空中哨戒は雷撃機を追って低空にいた。5分間で日本の空母3隻——赤城、加賀、蒼龍——が炎上、甲板には武装・燃料補給済みの航空機が満載されていた。4隻目の飛龍は反撃を行いヨークタウンに大打撃を与えたが、自らも撃沈された。",
+        "zh-CN": "上午10时22分，来自企业号和约克城号的美国俯冲轰炸机到达日本舰队上空，此时日本战斗空中巡逻机在追逐鱼雷轰炸机后处于低空。五分钟内，三艘日本航母——赤城、加贺和苍龙——被点燃，甲板上满载武装加油的飞机。第四艘航母飞龙号发动反击重创约克城号，随后自身也被击沉。"
+      }
+    },
+    {
+      "date": "1942-06-07",
+      "description": {
+        "en": "The Battle of Midway ends. Japan has lost four fleet carriers, one heavy cruiser, 292 aircraft, and over 3,000 men. The United States has lost one carrier, one destroyer, 145 aircraft, and 307 men. The balance of power in the Pacific has permanently shifted.",
+        "ja": "ミッドウェー海戦が終結。日本は正規空母4隻、重巡洋艦1隻、航空機292機、3,000人以上を失った。アメリカは空母1隻、駆逐艦1隻、航空機145機、307人を失った。太平洋における力のバランスは永久に変わった。",
+        "zh-CN": "中途岛海战结束。日本损失四艘舰队航母、一艘重巡洋舰、292架飞机和三千余人。美国损失一艘航母、一艘驱逐舰、145架飞机和307人。太平洋的力量平衡永久性地发生了转变。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The United States achieved a decisive victory that permanently altered the course of the Pacific War. Japan lost four irreplaceable fleet carriers and hundreds of veteran pilots, ending its period of naval dominance. The battle validated the crucial role of signals intelligence in modern warfare and demonstrated that courage, intelligence, and superior strategy could overcome numerical disadvantage.",
+    "ja": "アメリカは太平洋戦争の流れを永久に変える決定的な勝利を収めた。日本は取り返しのつかない正規空母4隻と数百人のベテランパイロットを失い、海上優勢の時代は終わった。この海戦は近代戦における信号情報の決定的な役割を立証し、勇気、知性、優れた戦略が数的劣勢を克服できることを示した。",
+    "zh-CN": "美国取得了永久改变太平洋战争进程的决定性胜利。日本损失了四艘不可替代的舰队航母和数百名老练飞行员，终结了其海上优势时期。这场战役验证了信号情报在现代战争中的关键作用，证明了勇气、智慧和卓越的战略可以克服数量劣势。"
+  },
+  "casualties": {
+    "en": "United States: 307 killed, 1 carrier sunk (USS Yorktown), 1 destroyer sunk, 145 aircraft lost. Japan: approximately 3,057 killed, 4 fleet carriers sunk (Akagi, Kaga, Soryu, Hiryu), 1 heavy cruiser sunk, 292 aircraft lost.",
+    "ja": "アメリカ：死者307人、空母1隻（ヨークタウン）沈没、駆逐艦1隻沈没、航空機145機喪失。日本：死者約3,057人、正規空母4隻（赤城、加賀、蒼龍、飛龍）沈没、重巡洋艦1隻沈没、航空機292機喪失。",
+    "zh-CN": "美国：307人阵亡，1艘航母沉没（约克城号），1艘驱逐舰沉没，145架飞机损失。日本：约3057人阵亡，4艘舰队航母沉没（赤城、加贺、苍龙、飞龙），1艘重巡洋舰沉没，292架飞机损失。"
+  },
+  "significance": {
+    "en": "Midway was the turning point of the Pacific War. It demonstrated that Japan's seemingly invincible carrier fleet could be defeated and that intelligence superiority could overcome material inferiority. The loss of four fleet carriers and their experienced air crews was a blow from which Japan's navy never recovered. The battle also highlighted the critical importance of codebreaking and signals intelligence — without Station HYPO's work, the American fleet would likely have been elsewhere when the Japanese struck. Midway ended the era of Japanese expansion and began the long American advance across the Pacific that would end at Tokyo Bay in 1945.",
+    "ja": "ミッドウェーは太平洋戦争の転換点だった。一見無敵の日本の空母艦隊が敗北し得ること、そして情報の優位が物質的劣勢を克服できることを示した。4隻の正規空母とその経験豊富な航空搭乗員の喪失は、日本海軍が二度と回復できない打撃だった。この海戦はまた暗号解読と信号情報の決定的な重要性を際立たせた——ステーション・ハイポの仕事がなければ、日本が攻撃した時にアメリカ艦隊はおそらく別の場所にいただろう。ミッドウェーは日本の拡大の時代を終わらせ、1945年の東京湾で終わる太平洋を横断する長いアメリカの反攻の始まりとなった。",
+    "zh-CN": "中途岛是太平洋战争的转折点。它证明了看似不可战胜的日本航母舰队可以被击败，情报优势可以克服物质劣势。四艘舰队航母及其经验丰富的航空人员的损失是日本海军再也无法恢复的打击。这场战役还突显了密码破译和信号情报的关键重要性——如果没有海波站的工作，日本发动攻击时美国舰队很可能在其他地方。中途岛终结了日本扩张的时代，开启了美国横跨太平洋的漫长反攻，最终于1945年在东京湾画上句号。"
+  },
+  "furtherReading": [
+    "Craig L. Symonds — The Battle of Midway",
+    "Jonathan Parshall and Anthony Tully — Shattered Sword: The Untold Story of the Battle of Midway",
+    "Elliot Carlson — Joe Rochefort's War: The Odyssey of the Codebreaker Who Outwitted Yamamoto at Midway"
+  ]
+}

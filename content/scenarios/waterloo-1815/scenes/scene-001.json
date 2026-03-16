@@ -1,0 +1,110 @@
+{
+  "id": "waterloo-1815-scene-001",
+  "scenarioId": "waterloo-1815",
+  "title": "The Morning Decision",
+  "date": {
+    "en": "June 18, 1815 — Early Morning",
+    "ja": "1815年6月18日 — 早朝",
+    "zh-CN": "1815年6月18日 - 清晨"
+  },
+  "location": {
+    "en": "Le Caillou farmhouse, Napoleon's headquarters south of Waterloo",
+    "ja": "ル・カイユ農家、ワーテルロー南方のナポレオンの司令部",
+    "zh-CN": "勒卡尤农舍，滑铁卢以南拿破仑的司令部"
+  },
+  "narrativePrompt": {
+    "en": "Dawn breaks grey and wet. The fields between your position and Wellington's ridge are a sea of mud from last night's torrential rain. Your artillery officers report that the ground is too soft for effective cannonball ricochet — the standard tactic that makes French artillery devastating depends on hard ground. General Drouot, your chief of artillery, urges you to wait until at least midday for the ground to dry. But every hour of delay is an hour closer to the possibility that Blücher's Prussians, supposedly in retreat after Ligny, could regroup and march to Wellington's aid. Marshal Grouchy, whom you sent to pursue the Prussians, has not reported since last night. You breakfast with your marshals. Soult, your chief of staff, nervously suggests recalling Grouchy. Ney is eager to attack immediately. The decision of when to begin the battle — and whether to first recall Grouchy — rests entirely with you.",
+    "ja": "夜明けは灰色で湿っている。あなたの陣地とウェリントンの尾根の間の野原は、昨夜の豪雨で泥の海になっている。砲兵将校たちは、地面が柔らかすぎて砲弾の跳弾が効果的でないと報告する——フランス砲兵を壊滅的にする標準戦術は硬い地面に依存している。砲兵長ドルーオ将軍は、地面が乾くまで少なくとも正午まで待つよう進言する。しかし遅延の1時間ごとに、リニーでの敗北後退却中のはずのブリュッヒャーのプロイセン軍が再編成してウェリントンの援軍に向かう可能性が近づく。プロイセン軍の追撃に派遣したグルーシー元帥は昨夜から報告がない。あなたは元帥たちと朝食を取る。参謀長スールトは不安げにグルーシーの呼び戻しを提案する。ネイは即座の攻撃に意欲的だ。戦闘をいつ始めるか、そしてまずグルーシーを呼び戻すかの決断は、完全にあなたにかかっている。",
+    "zh-CN": "黎明时分，天色灰暗潮湿。您的阵地与威灵顿山脊之间的田野因昨夜的暴雨变成了一片泥海。炮兵军官报告说地面太软，炮弹无法有效弹跳——法国炮兵赖以发挥毁灭性威力的标准战术依赖硬地面。炮兵长德鲁奥将军建议至少等到中午让地面干燥。但每推迟一小时，布吕歇尔的普鲁士军——据称在林尼战败后正在撤退——就多一小时重新集结并赶来增援威灵顿的可能。您派去追击普鲁士人的格鲁希元帅自昨晚以来未发回任何报告。您与元帅们共进早餐。参谋长苏尔特紧张地建议召回格鲁希。内伊急切地要求立即进攻。何时开始战斗——以及是否先召回格鲁希——的决定完全取决于您。"
+  },
+  "situationReport": [
+    {
+      "en": "The ground is waterlogged; artillery effectiveness will be severely reduced until it dries",
+      "ja": "地面が水浸しである。地面が乾くまで砲兵の効果が著しく低下する",
+      "zh-CN": "地面积水严重；在干燥之前炮兵效能将大幅降低"
+    },
+    {
+      "en": "Wellington's army of approximately 68,000 holds a strong ridge position at Mont-Saint-Jean",
+      "ja": "約68,000人のウェリントン軍がモン・サン・ジャンの強固な尾根陣地を保持している",
+      "zh-CN": "威灵顿约68000人的军队在蒙圣让山脊占据坚固阵地"
+    },
+    {
+      "en": "Marshal Grouchy with 33,000 men is supposedly pursuing Blücher's Prussians eastward — no contact since last night",
+      "ja": "グルーシー元帥が33,000人を率いてブリュッヒャーのプロイセン軍を東方に追撃中のはず——昨夜から連絡なし",
+      "zh-CN": "格鲁希元帅率33000人据称正在向东追击布吕歇尔的普鲁士军——昨晚以来失去联系"
+    },
+    {
+      "en": "Your army numbers approximately 72,000 — slightly outnumbering Wellington but without Grouchy's detachment",
+      "ja": "あなたの軍は約72,000人——グルーシーの分遣隊なしでウェリントンをわずかに上回る",
+      "zh-CN": "您的军队约72000人——略多于威灵顿，但不含格鲁希的分遣队"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Determine the optimal timing for the attack on Wellington's position",
+      "ja": "ウェリントンの陣地への攻撃の最適なタイミングを決定する",
+      "zh-CN": "确定进攻威灵顿阵地的最佳时机"
+    },
+    {
+      "en": "Decide whether to recall Grouchy or trust that he is keeping the Prussians occupied",
+      "ja": "グルーシーを呼び戻すか、プロイセン軍を引き留めていると信じるか決める",
+      "zh-CN": "决定是否召回格鲁希，还是相信他正在牵制普鲁士军"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Recalling Grouchy takes hours and may arrive too late to matter",
+      "ja": "グルーシーの呼び戻しには数時間かかり、間に合わない可能性がある",
+      "zh-CN": "召回格鲁希需要数小时，可能为时已晚"
+    },
+    {
+      "en": "Attacking on soft ground negates your artillery advantage — your greatest asset",
+      "ja": "柔らかい地面での攻撃は砲兵の優位——最大の資産——を無効にする",
+      "zh-CN": "在松软地面上进攻会使您最大的优势——炮兵——无法发挥"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Wait until midday for the ground to dry, then open with a massive artillery barrage. Trust that Grouchy is handling the Prussians.",
+        "ja": "正午まで地面が乾くのを待ち、大規模な砲撃で開始する。グルーシーがプロイセン軍に対処していると信じる。",
+        "zh-CN": "等到中午地面干燥后，以大规模炮击开始进攻。相信格鲁希正在应对普鲁士军。"
+      },
+      "historicalContext": "The historical choice — Napoleon waited until approximately 11:30 AM, giving the ground time to dry but also giving Blücher time to march.",
+      "outcomePrompt": {
+        "en": "You order the army to wait. The hours crawl by. Your marshals pace. At half past eleven, Drouot reports the ground is firm enough. The Grande Batterie of eighty guns opens with a thunderous barrage on Wellington's center. The ridge disappears in smoke and fire. Your infantry begins to form for the assault. But as the first columns step off, a scout rides in from the east with alarming news: a large body of troops has been sighted emerging from the Bois de Paris, several miles to your right. Prussians. Blücher has not retreated east as you believed — he has marched west toward you. Grouchy is nowhere to be found. The battle has begun, and you are already fighting on two fronts.",
+        "ja": "あなたは軍に待機を命じる。時間が這うように過ぎる。元帥たちが行ったり来たりする。11時半、ドルーオが地面が十分に硬くなったと報告。80門の大砲からなるグランド・バッテリーがウェリントンの中央に雷鳴のような砲撃を開始。尾根が煙と炎の中に消える。歩兵が突撃の隊形を取り始める。しかし最初の縦隊が前進し始めたとき、東方から斥候が驚くべき知らせを持って駆け込む：あなたの右方数マイルのパリの森から大部隊が出現しているのが目撃された。プロイセン軍だ。ブリュッヒャーはあなたが信じていたように東に退却したのではなく、あなたに向かって西に進軍していた。グルーシーはどこにも見当たらない。戦闘は始まり、あなたはすでに二正面作戦を強いられている。",
+        "zh-CN": "您下令军队等待。时间艰难地过去。元帅们焦躁不安地踱步。十一点半，德鲁奥报告地面已足够坚硬。由八十门大炮组成的大炮兵连对威灵顿中央阵地发起雷鸣般的炮击。山脊消失在硝烟和火光中。步兵开始列队准备突击。但就在第一批纵队刚刚出发时，一名侦察兵从东面疾驰而来，带来了令人震惊的消息：在您右方数英里的巴黎森林中发现一大批军队正在出现。是普鲁士人。布吕歇尔并没有像您以为的那样向东撤退——他向西朝您进军了。格鲁希杳无踪影。战斗已经开始，而您已经在两条战线上作战了。"
+      },
+      "nextSceneId": "waterloo-1815-scene-002",
+      "stateChanges": [
+        { "variable": "weatherCondition", "operation": "add", "value": 40 },
+        { "variable": "blucherDistance", "operation": "add", "value": -50 },
+        { "variable": "artilleryAmmo", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Attack at dawn despite the mud. Send an urgent recall order to Grouchy. Speed is more important than artillery effectiveness — you must defeat Wellington before the Prussians can intervene.",
+        "ja": "泥濘にもかかわらず夜明けに攻撃する。グルーシーに緊急の帰還命令を送る。速度が砲兵の効果より重要だ——プロイセン軍が介入する前にウェリントンを撃破しなければならない。",
+        "zh-CN": "不顾泥泞在黎明发起进攻。向格鲁希发出紧急召回命令。速度比炮兵效能更重要——必须在普鲁士军介入之前击败威灵顿。"
+      },
+      "historicalContext": "A counterfactual — an earlier attack would have caught Wellington less prepared but with significantly reduced artillery effectiveness.",
+      "outcomePrompt": {
+        "en": "You order an immediate advance. Your marshals are stunned — the ground is a swamp. The artillery opens at first light, but the cannonballs bury themselves in mud rather than ricocheting through enemy ranks. Your infantry slogs forward through knee-deep mire, arriving at Wellington's ridge exhausted and disordered. The first assault is repulsed with heavy losses. But you have gained something precious: time. The recall order to Grouchy gallops east. Whether it arrives in time is uncertain, but you have five more hours before the Prussians could possibly appear. Wellington's line is bending under the pressure, and his reserves are being committed earlier than he planned.",
+        "ja": "あなたは即座の前進を命じる。元帥たちは唖然とする——地面は沼地だ。砲兵が夜明けに砲撃を開始するが、砲弾は敵の隊列を跳弾する代わりに泥に埋まる。歩兵は膝までの泥の中を苦労して前進し、ウェリントンの尾根に疲弊し隊形を乱して到着する。最初の突撃は大きな損害とともに撃退される。しかし、あなたは貴重なものを得た：時間だ。グルーシーへの帰還命令が東に疾走する。それが間に合うかは不確かだが、プロイセン軍が現れる可能性のある時刻まであと5時間ある。ウェリントンの戦線は圧力でたわみ、予備軍が予定より早く投入されている。",
+        "zh-CN": "您下令立即进攻。元帅们目瞪口呆——地面是一片沼泽。炮兵在天亮时开火，但炮弹沉入泥中而非在敌军中弹跳。步兵在膝盖深的泥泞中艰难前进，到达威灵顿的山脊时已精疲力竭、队形散乱。第一次进攻在付出重大伤亡后被击退。但您赢得了宝贵的东西：时间。召回格鲁希的命令正向东疾驰。能否及时到达尚不确定，但距普鲁士军可能出现还有五个多小时。威灵顿的防线在压力下开始弯曲，他的预备队比计划提前投入了。"
+      },
+      "nextSceneId": "waterloo-1815-scene-002",
+      "stateChanges": [
+        { "variable": "frenchMorale", "operation": "add", "value": -10 },
+        { "variable": "artilleryAmmo", "operation": "add", "value": -20 },
+        { "variable": "blucherDistance", "operation": "add", "value": -20 },
+        { "variable": "cavalryReserve", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

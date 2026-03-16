@@ -1,0 +1,163 @@
+{
+  "id": "french-revolution-1789",
+  "title": {
+    "en": "The French Revolution",
+    "ja": "フランス革命",
+    "zh-CN": "法国大革命"
+  },
+  "period": {
+    "en": "Age of Revolution",
+    "ja": "革命の時代",
+    "zh-CN": "革命时代"
+  },
+  "dates": {
+    "start": "1789-06-20",
+    "end": "1789-08-26"
+  },
+  "location": {
+    "en": "Paris, France",
+    "ja": "フランス、パリ",
+    "zh-CN": "法国巴黎"
+  },
+  "historicalOverview": {
+    "en": "The French Revolution of 1789 was one of the most transformative events in modern history. Decades of fiscal mismanagement, social inequality, and Enlightenment ideals converged to shatter the ancien régime. In the summer of 1789, the Third Estate — representing the commoners of France — defied the monarchy and the privileged orders to forge a new political reality. From the Tennis Court Oath in June to the Declaration of the Rights of Man in August, France underwent a radical transformation that would reshape Europe and inspire democratic movements for centuries to come.",
+    "ja": "1789年のフランス革命は、近代史において最も変革的な出来事の一つでした。数十年にわたる財政の失政、社会的不平等、そして啓蒙思想の理念が合わさり、旧体制（アンシャン・レジーム）を崩壊させました。1789年の夏、フランスの平民を代表する第三身分は、王政と特権階級に反旗を翻し、新しい政治的現実を築きました。6月の球戯場の誓いから8月の人権宣言まで、フランスはヨーロッパを再形成し、何世紀にもわたって民主主義運動に影響を与える根本的な変革を遂げました。",
+    "zh-CN": "1789年法国大革命是近代史上最具变革意义的事件之一。数十年的财政管理不善、社会不平等和启蒙思想理念交汇，摧毁了旧制度。1789年夏天，代表法国平民的第三等级反抗君主制和特权阶层，开创了新的政治现实。从6月的网球场宣誓到8月的《人权宣言》，法国经历了一场深刻的变革，重塑了欧洲并在此后数百年间激励了世界各地的民主运动。"
+  },
+  "realWorldOutcome": {
+    "en": "The summer of 1789 saw the irreversible collapse of absolute monarchy in France. The National Assembly established itself as the sovereign body of the nation. The storming of the Bastille on July 14 became the enduring symbol of popular revolution. The Declaration of the Rights of Man and of the Citizen, adopted on August 26, laid the philosophical foundation for modern democratic governance. However, the revolution would soon radicalize further, leading to the Reign of Terror, the execution of Louis XVI, and ultimately Napoleon's rise to power.",
+    "ja": "1789年の夏は、フランスにおける絶対王政の不可逆的な崩壊を目撃しました。国民議会は国家の主権機関としての地位を確立しました。7月14日のバスティーユ襲撃は民衆革命の永続的な象徴となりました。8月26日に採択された人権宣言は、近代民主政治の哲学的基礎を築きました。しかし、革命はさらに急進化し、恐怖政治、ルイ16世の処刑、そして最終的にはナポレオンの台頭につながりました。",
+    "zh-CN": "1789年夏天见证了法国绝对君主制的不可逆转的崩溃。国民议会确立了自己作为国家主权机构的地位。7月14日攻克巴士底狱成为人民革命的永恒象征。8月26日通过的《人权和公民权利宣言》奠定了现代民主治理的哲学基础。然而，革命很快进一步激进化，导致了恐怖统治、路易十六被处决，最终拿破仑崛起。"
+  },
+  "keyFigures": [
+    {
+      "id": "robespierre",
+      "name": "Maximilien Robespierre",
+      "role": {
+        "en": "Delegate of the Third Estate from Artois",
+        "ja": "アルトワ選出の第三身分代議士",
+        "zh-CN": "阿尔图瓦省第三等级代表"
+      },
+      "faction": "Third Estate",
+      "description": {
+        "en": "A young lawyer from Arras known for his incorruptibility and passionate advocacy for the rights of the common people. He would become one of the most influential and controversial figures of the Revolution.",
+        "ja": "清廉潔白で庶民の権利への情熱的な擁護で知られるアラス出身の若き弁護士。彼は革命の最も影響力があり、物議を醸す人物の一人となる。",
+        "zh-CN": "来自阿拉斯的年轻律师，以廉洁奉公和为平民权利的热情倡导而闻名。他将成为大革命中最具影响力和最具争议的人物之一。"
+      }
+    },
+    {
+      "id": "louis-xvi",
+      "name": "Louis XVI",
+      "role": {
+        "en": "King of France",
+        "ja": "フランス国王",
+        "zh-CN": "法国国王"
+      },
+      "faction": "Monarchy",
+      "description": {
+        "en": "The well-meaning but indecisive monarch whose inability to manage the fiscal crisis and respond to demands for reform made revolution inevitable.",
+        "ja": "善意はあるが優柔不断な君主で、財政危機を管理し改革要求に対応する能力の欠如が革命を不可避にした。",
+        "zh-CN": "一位善意但优柔寡断的君主，无力应对财政危机和改革要求，使革命不可避免。"
+      }
+    },
+    {
+      "id": "mirabeau",
+      "name": "Honoré Gabriel Riqueti, comte de Mirabeau",
+      "role": {
+        "en": "Delegate of the Third Estate, orator and moderate leader",
+        "ja": "第三身分代議士、雄弁家・穏健派指導者",
+        "zh-CN": "第三等级代表、演说家和温和派领袖"
+      },
+      "faction": "Third Estate",
+      "description": {
+        "en": "A noble who sided with the Third Estate, Mirabeau was the revolution's greatest orator and a voice for constitutional monarchy, often at odds with more radical elements.",
+        "ja": "第三身分に与した貴族であるミラボーは、革命最大の雄弁家であり立憲君主制の代弁者であった。しばしばより急進的な勢力と対立した。",
+        "zh-CN": "一位站在第三等级一边的贵族，米拉波是大革命中最伟大的演说家和立宪君主制的倡导者，常与更激进的势力产生分歧。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "robespierre",
+      "scenarioId": "french-revolution-1789",
+      "name": "Maximilien Robespierre",
+      "title": {
+        "en": "Delegate of the Third Estate",
+        "ja": "第三身分代議士",
+        "zh-CN": "第三等级代表"
+      },
+      "perspective": "political",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Maximilien Robespierre, a lawyer from Arras elected as a delegate of the Third Estate to the Estates-General. It is June 1789. France is bankrupt, the people starve while the aristocracy feasts, and the King has summoned the Estates-General for the first time in over a century — not to reform, but to raise taxes. You have come to Versailles with a mandate from the common people of Artois. You believe in the principles of Rousseau: that sovereignty belongs to the people, not the crown. The First and Second Estates — clergy and nobility — hold disproportionate power. The Third Estate, representing 98 percent of the population, has been denied equal voting rights. Today the question is simple: will France remain a kingdom of privilege, or will the people claim their rightful voice? Every word you speak, every alliance you forge, will shape what comes next.",
+        "ja": "あなたはマクシミリアン・ロベスピエール、アラス出身の弁護士で、第三身分の代議士として全国三部会に選出されました。1789年6月です。フランスは破産し、貴族が宴を催す一方で民衆は飢えています。国王は1世紀以上ぶりに全国三部会を召集しましたが、改革のためではなく増税のためです。あなたはアルトワの庶民の委任を受けてヴェルサイユに来ました。あなたはルソーの原則を信じています：主権は王冠ではなく人民に属するということを。第一身分と第二身分——聖職者と貴族——は不均衡な権力を持っています。人口の98パーセントを代表する第三身分は、平等な投票権を否定されてきました。今日の問いはシンプルです：フランスは特権の王国のままであり続けるのか、それとも人民が正当な声を主張するのか。あなたが語るすべての言葉、あなたが結ぶすべての同盟が、次に何が起こるかを形作るでしょう。",
+        "zh-CN": "您是马克西米连·罗伯斯庇尔，来自阿拉斯的律师，被选为第三等级代表出席三级会议。现在是1789年6月。法国已经破产，贵族大宴宾客而人民却在挨饿，国王召开了一个多世纪以来的第一次三级会议——不是为了改革，而是为了增税。您带着阿尔图瓦省平民的委托来到凡尔赛。您信仰卢梭的原则：主权属于人民，而非王权。第一等级和第二等级——教士和贵族——拥有不成比例的权力。代表98%人口的第三等级被剥夺了平等投票权。今天的问题很简单：法国是否将继续作为特权王国存在，还是人民将主张他们应有的声音？您说出的每一句话，结成的每一个联盟，都将塑造接下来发生的一切。"
+      },
+      "objectives": [
+        {
+          "en": "Advance the cause of the Third Estate and secure equal representation",
+          "ja": "第三身分の大義を推進し、平等な代表権を確保する",
+          "zh-CN": "推进第三等级的事业并确保平等代表权"
+        },
+        {
+          "en": "Navigate political factions and build coalitions among reformers",
+          "ja": "政治的派閥を巧みに操り、改革派の間で連合を築く",
+          "zh-CN": "驾驭政治派系并在改革者之间建立联盟"
+        },
+        {
+          "en": "Shape the revolution toward a just and lasting transformation of French society",
+          "ja": "革命を公正で永続的なフランス社会の変革へと導く",
+          "zh-CN": "引导革命走向法国社会公正而持久的变革"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "The King retains military force and could dissolve the assembly at any time",
+          "ja": "国王は軍事力を保持しており、いつでも議会を解散できる",
+          "zh-CN": "国王仍掌握军事力量，随时可以解散议会"
+        },
+        {
+          "en": "The Third Estate is internally divided between moderates who seek compromise and radicals who want full transformation",
+          "ja": "第三身分は内部で妥協を求める穏健派と完全な変革を求める急進派に分裂している",
+          "zh-CN": "第三等级内部在寻求妥协的温和派和要求彻底变革的激进派之间存在分歧"
+        },
+        {
+          "en": "You have no military power; your only weapons are rhetoric, moral authority, and popular support",
+          "ja": "あなたには軍事力がない。あなたの唯一の武器は弁論、道義的権威、そして民衆の支持である",
+          "zh-CN": "您没有军事力量；您唯一的武器是辩才、道义权威和民众支持"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Bread prices in Paris have reached record highs; the people's patience is running out",
+          "ja": "パリのパンの価格は過去最高に達しており、民衆の忍耐は限界に達しつつある",
+          "zh-CN": "巴黎面包价格已达历史最高点；人民的耐心正在耗尽"
+        },
+        {
+          "en": "Rumors circulate that the King is massing troops around Paris and Versailles",
+          "ja": "国王がパリとヴェルサイユ周辺に軍隊を集結させているという噂が広まっている",
+          "zh-CN": "谣传国王正在巴黎和凡尔赛周围集结军队"
+        },
+        {
+          "en": "Conservative nobles and clergy are lobbying the King to crush the Third Estate before it gains more power",
+          "ja": "保守的な貴族や聖職者たちが、第三身分がさらなる権力を得る前に潰すよう国王に働きかけている",
+          "zh-CN": "保守贵族和教士正在游说国王在第三等级获得更多权力之前将其镇压"
+        }
+      ],
+      "startingSceneId": "french-revolution-1789-scene-001",
+      "initialState": {
+        "popularSupport": 70,
+        "assemblyInfluence": 40,
+        "royalThreat": 80,
+        "factionalUnity": 50
+      }
+    }
+  ],
+  "sceneIds": [
+    "french-revolution-1789-scene-001",
+    "french-revolution-1789-scene-002",
+    "french-revolution-1789-scene-003"
+  ],
+  "tags": ["revolution", "political", "France", "democracy", "Enlightenment"],
+  "difficulty": "advanced"
+}

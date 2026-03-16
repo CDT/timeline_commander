@@ -1,0 +1,109 @@
+{
+  "id": "berlin-wall-1989-scene-001",
+  "scenarioId": "berlin-wall-1989",
+  "title": "The Press Conference",
+  "date": {
+    "en": "November 9, 1989 — 6:00 PM",
+    "ja": "1989年11月9日 午後6時",
+    "zh-CN": "1989年11月9日 下午6点"
+  },
+  "location": {
+    "en": "International Press Center, Mohrenstraße, East Berlin",
+    "ja": "国際プレスセンター、モーレン通り、東ベルリン",
+    "zh-CN": "国际新闻中心，莫伦大街，东柏林"
+  },
+  "narrativePrompt": {
+    "en": "The press conference is nearly over. For an hour you have fielded routine questions about the Politburo's latest reforms — tepid measures that satisfy no one. Then, almost as an afterthought, you glance at the note Egon Krenz handed you before the conference. It describes new travel regulations that will allow East Germans to apply for permission to travel to the West. You have not been briefed on the details. You do not know that the regulations were supposed to take effect tomorrow, with orderly processing at government offices. An Italian journalist, Riccardo Ehrman, raises his hand and asks about the new travel law. Every camera in the room turns to you. How do you present these regulations?",
+    "ja": "記者会見はもうすぐ終わるところです。1時間にわたり、政治局の最新の改革に関する型通りの質問に答えてきました——誰も満足しない生ぬるい措置です。そして、ほとんど思いつきのように、会見の前にエゴン・クレンツから渡されたメモに目を通します。それは東ドイツ市民が西側への渡航許可を申請できるようにする新しい渡航規制を記述しています。詳細についてブリーフィングを受けていません。これらの規制が明日、政府機関での秩序ある手続きで発効するはずだったことを知りません。イタリア人ジャーナリストのリカルド・エルマンが手を挙げ、新しい渡航法について質問します。部屋のすべてのカメラがあなたに向けられます。これらの規制をどう説明しますか？",
+    "zh-CN": "新闻发布会即将结束。一个小时以来，您一直在回答有关政治局最新改革措施的例行问题——这些不温不火的措施无法让任何人满意。然后，几乎是不经意间，您瞥了一眼会议前埃贡·克伦茨交给您的便条。上面描述了允许东德公民申请前往西方旅行许可的新旅行规定。您没有得到关于细节的说明。您不知道这些规定原本应该在明天生效，通过政府办公室有序办理。意大利记者里卡多·埃尔曼举手询问新的旅行法。房间里所有的摄像机都转向了您。您如何介绍这些规定？"
+  },
+  "situationReport": [
+    {
+      "en": "Monday demonstrations continue to grow — last week over 300,000 marched in Leipzig",
+      "ja": "月曜デモは拡大を続けている——先週はライプツィヒで30万人以上が行進した",
+      "zh-CN": "周一示威活动持续扩大——上周超过30万人在莱比锡游行"
+    },
+    {
+      "en": "The Czechoslovak border is becoming a new escape route — thousands are fleeing daily",
+      "ja": "チェコスロバキア国境が新たな脱出ルートとなっている——毎日数千人が逃れている",
+      "zh-CN": "捷克斯洛伐克边境正在成为新的逃跑路线——每天有数千人出逃"
+    },
+    {
+      "en": "Egon Krenz has approved new travel regulations but the implementation timeline is unclear",
+      "ja": "エゴン・クレンツは新しい渡航規制を承認したが、実施のタイムラインは不明確",
+      "zh-CN": "埃贡·克伦茨已批准新旅行规定，但实施时间表不明确"
+    },
+    {
+      "en": "International media are broadcasting this press conference live across the world",
+      "ja": "国際メディアがこの記者会見を世界中に生放送している",
+      "zh-CN": "国际媒体正在向全世界现场直播这场新闻发布会"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Communicate the new travel regulations without triggering an uncontrolled rush to the borders",
+      "ja": "国境への統制不能な殺到を引き起こさずに新しい渡航規制を伝える",
+      "zh-CN": "在不引发对边境的失控冲击的情况下传达新旅行规定"
+    },
+    {
+      "en": "Maintain the appearance that the government is in control of events",
+      "ja": "政府が事態を制御しているという印象を維持する",
+      "zh-CN": "维持政府控制着局势的表象"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You have not been fully briefed on the details or timeline of the new regulations",
+      "ja": "新しい規制の詳細やタイムラインについて十分にブリーフィングを受けていない",
+      "zh-CN": "您没有得到关于新规定的细节或时间表的充分说明"
+    },
+    {
+      "en": "The press conference is being broadcast live — you cannot take back what you say",
+      "ja": "記者会見は生放送されている——言ったことは取り消せない",
+      "zh-CN": "新闻发布会正在现场直播——您说出的话无法收回"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Read the note as written and, when asked when the regulations take effect, say 'immediately, without delay.' Let the people decide what happens next.",
+        "ja": "メモをそのまま読み上げ、規制がいつ発効するか聞かれたら「即座に、遅滞なく」と答える。次に何が起きるかは市民に委ねる。",
+        "zh-CN": "照原文宣读便条，当被问及规定何时生效时，回答「立即，毫不拖延」。让人民决定接下来会发生什么。"
+      },
+      "historicalContext": "The historical choice — Schabowski's exact words triggered the opening of the Wall.",
+      "outcomePrompt": {
+        "en": "The words land like a thunderbolt. Journalists erupt with follow-up questions. You stumble through answers, clearly uncertain of the details yourself. Within minutes, West German television broadcasts your statement across both Germanys. East Berliners hear the news and begin moving toward the checkpoints. First dozens, then hundreds, then thousands. The border guards have received no instructions. Their phones ring unanswered at Stasi headquarters. By 9 PM, crowds of ten thousand press against the Bornholmer Straße crossing. The guards face an impossible choice.",
+        "ja": "その言葉は雷のように落ちます。ジャーナリストたちが追加質問で沸き立ちます。あなたは明らかに自分でも詳細が分からないまま答えに詰まります。数分以内に西ドイツのテレビがあなたの発言を両ドイツに放送します。東ベルリン市民がニュースを聞き、検問所に向かい始めます。最初は数十人、次に数百人、そして数千人。国境警備隊は何の指示も受けていません。シュタージ本部への電話は誰も出ません。午後9時までに、ボルンホルマー通りの検問所に1万人の群衆が押し寄せます。警備隊は不可能な選択に直面します。",
+        "zh-CN": "这番话如同晴天霹雳。记者们纷纷追问。您结结巴巴地回答，显然自己也不确定细节。几分钟之内，西德电视台将您的声明播送到两个德国。东柏林人听到消息后开始涌向检查站。先是几十人，然后几百人，然后几千人。边境警卫没有接到任何指示。他们打往国安部总部的电话无人接听。到晚上9点，一万人的人群挤在博恩霍尔姆大街过境点前。警卫们面临一个不可能的选择。"
+      },
+      "nextSceneId": "berlin-wall-1989-scene-002",
+      "stateChanges": [
+        { "variable": "publicPressure", "operation": "add", "value": 15 },
+        { "variable": "partyControl", "operation": "add", "value": -25 },
+        { "variable": "protestSize", "operation": "add", "value": 30 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Read the regulations carefully and emphasize that they require an application process through proper government channels, effective tomorrow. Buy the regime time to manage an orderly opening.",
+        "ja": "規制を慎重に読み上げ、適切な政府機関を通じた申請手続きが必要であることを強調し、明日から有効とする。政権に秩序ある開放を管理する時間を与える。",
+        "zh-CN": "仔细宣读规定，强调需要通过正规政府渠道申请，明天生效。为政权争取时间来管理有序开放。"
+      },
+      "historicalContext": "A counterfactual — a more careful reading might have given the regime hours or days to manage a controlled opening.",
+      "outcomePrompt": {
+        "en": "You read the note carefully, emphasizing the application process and specifying that citizens must apply through district police offices beginning tomorrow. The journalists look disappointed — this sounds like another half-measure. But within hours, East German citizens who have seen the broadcast begin debating its meaning. Some head to the checkpoints anyway, testing whether the guards will let them through. By late evening, several hundred people have gathered at Bornholmer Straße, but the crowd is smaller and less certain than it might have been. The border guards have a few more hours to receive instructions. The question is whether anyone in the chain of command will give them.",
+        "ja": "あなたはメモを慎重に読み上げ、申請手続きを強調し、市民は明日から地区警察署を通じて申請しなければならないと明記します。ジャーナリストたちは失望した表情を見せます——これはまた別の中途半端な措置のように聞こえます。しかし数時間以内に、放送を見た東ドイツ市民がその意味を議論し始めます。一部の人々はとにかく検問所に向かい、警備隊が通してくれるかどうか試します。夜遅くまでに、ボルンホルマー通りに数百人が集まりますが、群衆は本来より小さく、確信が持てない状態です。国境警備隊には指示を受けるための数時間の余裕があります。問題は、指揮系統の誰かが彼らに指示を出すかどうかです。",
+        "zh-CN": "您仔细宣读便条，强调申请程序，并说明公民必须从明天开始通过区警察局申请。记者们看起来很失望——这听起来像又一个半吊子措施。但几小时内，看到广播的东德公民开始讨论其含义。一些人还是前往检查站，试探警卫是否会放行。到深夜，博恩霍尔姆大街聚集了数百人，但人群比原本可能的要小，也更不确定。边境警卫多了几个小时来接收指示。问题是指挥链中是否有人会向他们下达指示。"
+      },
+      "nextSceneId": "berlin-wall-1989-scene-002",
+      "stateChanges": [
+        { "variable": "publicPressure", "operation": "add", "value": 5 },
+        { "variable": "partyControl", "operation": "add", "value": -10 },
+        { "variable": "protestSize", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

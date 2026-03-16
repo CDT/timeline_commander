@@ -1,0 +1,233 @@
+{
+  "regions": [
+    {
+      "id": "europe",
+      "name": { "en": "Europe", "ja": "ヨーロッパ", "zh-CN": "欧洲" },
+      "eras": [
+        {
+          "id": "ancient",
+          "name": { "en": "Ancient World", "ja": "古代世界", "zh-CN": "古代世界" },
+          "dateRange": "500 BC – 44 BC",
+          "scenarios": [
+            {
+              "id": "thermopylae-480bc",
+              "title": { "en": "Battle of Thermopylae", "ja": "テルモピュライの戦い", "zh-CN": "温泉关战役" },
+              "brief": { "en": "300 Spartans hold the pass against the Persian Empire", "ja": "300人のスパルタ兵がペルシア帝国に対して峠を守る", "zh-CN": "300名斯巴达勇士扼守关隘抵抗波斯帝国" },
+              "dates": { "start": "0480-08-BC", "end": "0480-08-BC" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "crossing-rubicon-49bc",
+              "title": { "en": "Crossing the Rubicon", "ja": "ルビコン川を渡る", "zh-CN": "渡过卢比孔河" },
+              "brief": { "en": "Caesar's fateful march that ended the Roman Republic", "ja": "ローマ共和国を終わらせたカエサルの運命的な行軍", "zh-CN": "凯撒终结罗马共和国的命运之行" },
+              "dates": { "start": "0049-01-10-BC", "end": "0049-01-17-BC" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "medieval",
+          "name": { "en": "Medieval Era", "ja": "中世", "zh-CN": "中世纪" },
+          "dateRange": "1066 – 1453",
+          "scenarios": [
+            {
+              "id": "hastings-1066",
+              "title": { "en": "Battle of Hastings", "ja": "ヘイスティングズの戦い", "zh-CN": "黑斯廷斯战役" },
+              "brief": { "en": "William the Conqueror's invasion that reshaped England", "ja": "イングランドを変えたウィリアム征服王の侵攻", "zh-CN": "征服者威廉改变英格兰命运的入侵" },
+              "dates": { "start": "1066-10-14", "end": "1066-10-14" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "constantinople-1453",
+              "title": { "en": "Fall of Constantinople", "ja": "コンスタンティノープルの陥落", "zh-CN": "君士坦丁堡的陷落" },
+              "brief": { "en": "The siege that ended the Byzantine Empire and changed the world", "ja": "ビザンツ帝国を終わらせ世界を変えた包囲戦", "zh-CN": "终结拜占庭帝国并改变世界的围城战" },
+              "dates": { "start": "1453-04-06", "end": "1453-05-29" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "early-modern",
+          "name": { "en": "Early Modern", "ja": "近世", "zh-CN": "近代早期" },
+          "dateRange": "1588 – 1789",
+          "scenarios": [
+            {
+              "id": "spanish-armada-1588",
+              "title": { "en": "The Spanish Armada", "ja": "スペイン無敵艦隊", "zh-CN": "西班牙无敌舰队" },
+              "brief": { "en": "England's desperate defense against the world's greatest fleet", "ja": "世界最大の艦隊に対するイングランドの必死の防衛", "zh-CN": "英格兰对抗世界最强舰队的殊死防御" },
+              "dates": { "start": "1588-07-29", "end": "1588-08-08" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "french-revolution-1789",
+              "title": { "en": "The French Revolution", "ja": "フランス革命", "zh-CN": "法国大革命" },
+              "brief": { "en": "The storming of the Bastille and the birth of a new era", "ja": "バスティーユ襲撃と新時代の幕開け", "zh-CN": "攻占巴士底狱与新时代的诞生" },
+              "dates": { "start": "1789-06-20", "end": "1789-07-14" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "age-of-revolution",
+          "name": { "en": "Age of Revolution", "ja": "革命の時代", "zh-CN": "革命时代" },
+          "dateRange": "1815",
+          "scenarios": [
+            {
+              "id": "waterloo-1815",
+              "title": { "en": "Battle of Waterloo", "ja": "ワーテルローの戦い", "zh-CN": "滑铁卢战役" },
+              "brief": { "en": "Napoleon's final gamble to restore his empire", "ja": "ナポレオンの帝国復活への最後の賭け", "zh-CN": "拿破仑恢复帝国的最后一搏" },
+              "dates": { "start": "1815-06-15", "end": "1815-06-18" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "world-wars",
+          "name": { "en": "World Wars", "ja": "世界大戦", "zh-CN": "世界大战" },
+          "dateRange": "1914 – 1945",
+          "scenarios": [
+            {
+              "id": "verdun-1916",
+              "title": { "en": "Battle of Verdun", "ja": "ヴェルダンの戦い", "zh-CN": "凡尔登战役" },
+              "brief": { "en": "The ten-month bloodbath that defined the Western Front", "ja": "西部戦線を象徴する10ヶ月の血戦", "zh-CN": "定义西线战场的十个月血战" },
+              "dates": { "start": "1916-02-21", "end": "1916-12-18" },
+              "difficulty": "intermediate",
+              "roleCount": 2
+            },
+            {
+              "id": "d-day-1944",
+              "title": { "en": "D-Day: Normandy Landings", "ja": "D-デイ：ノルマンディー上陸作戦", "zh-CN": "D日：诺曼底登陆" },
+              "brief": { "en": "The largest amphibious invasion in history to liberate Europe", "ja": "ヨーロッパ解放のための史上最大の水陸両用侵攻", "zh-CN": "史上最大规模两栖登陆解放欧洲" },
+              "dates": { "start": "1944-06-06", "end": "1944-06-12" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "cold-war",
+          "name": { "en": "Cold War & Modern", "ja": "冷戦と現代", "zh-CN": "冷战与现代" },
+          "dateRange": "1945 – 1991",
+          "scenarios": [
+            {
+              "id": "berlin-wall-1989",
+              "title": { "en": "Fall of the Berlin Wall", "ja": "ベルリンの壁崩壊", "zh-CN": "柏林墙倒塌" },
+              "brief": { "en": "The night that ended the Cold War division of Europe", "ja": "ヨーロッパの冷戦分断を終わらせた夜", "zh-CN": "终结欧洲冷战分裂的那一夜" },
+              "dates": { "start": "1989-11-09", "end": "1989-11-10" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "name": { "en": "Asia", "ja": "アジア", "zh-CN": "亚洲" },
+      "eras": [
+        {
+          "id": "classical",
+          "name": { "en": "Classical Era", "ja": "古典時代", "zh-CN": "古典时代" },
+          "dateRange": "208 AD",
+          "scenarios": [
+            {
+              "id": "red-cliffs-208",
+              "title": { "en": "Battle of Red Cliffs", "ja": "赤壁の戦い", "zh-CN": "赤壁之战" },
+              "brief": { "en": "The decisive naval battle that shaped the Three Kingdoms", "ja": "三国の形を決定づけた決戦", "zh-CN": "决定三国鼎立格局的关键之战" },
+              "dates": { "start": "0208-11-01", "end": "0208-12-15" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "modern",
+          "name": { "en": "Modern Era", "ja": "近現代", "zh-CN": "近现代" },
+          "dateRange": "1868 – 1942",
+          "scenarios": [
+            {
+              "id": "meiji-restoration-1868",
+              "title": { "en": "Meiji Restoration", "ja": "明治維新", "zh-CN": "明治维新" },
+              "brief": { "en": "Japan's dramatic transformation from feudalism to modernity", "ja": "日本の封建制から近代化への劇的な変革", "zh-CN": "日本从封建制度到现代化的剧变" },
+              "dates": { "start": "1868-01-03", "end": "1868-05-03" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "midway-1942",
+              "title": { "en": "Battle of Midway", "ja": "ミッドウェー海戦", "zh-CN": "中途岛海战" },
+              "brief": { "en": "The naval battle that turned the tide in the Pacific", "ja": "太平洋の潮目を変えた海戦", "zh-CN": "扭转太平洋战局的海战" },
+              "dates": { "start": "1942-06-04", "end": "1942-06-07" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": { "en": "Americas", "ja": "アメリカ大陸", "zh-CN": "美洲" },
+      "eras": [
+        {
+          "id": "revolution",
+          "name": { "en": "Age of Revolution", "ja": "革命の時代", "zh-CN": "革命时代" },
+          "dateRange": "1776",
+          "scenarios": [
+            {
+              "id": "american-revolution-1776",
+              "title": { "en": "American Revolution", "ja": "アメリカ独立革命", "zh-CN": "美国独立革命" },
+              "brief": { "en": "The fight for independence that created a nation", "ja": "国家を作り出した独立のための戦い", "zh-CN": "创造一个国家的独立之战" },
+              "dates": { "start": "1776-07-04", "end": "1776-12-26" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "cold-war",
+          "name": { "en": "Cold War", "ja": "冷戦", "zh-CN": "冷战" },
+          "dateRange": "1962",
+          "scenarios": [
+            {
+              "id": "cuban-missile-crisis-1962",
+              "title": { "en": "Cuban Missile Crisis", "ja": "キューバ危機", "zh-CN": "古巴导弹危机" },
+              "brief": { "en": "Thirteen days on the brink of nuclear war", "ja": "核戦争の瀬戸際の13日間", "zh-CN": "核战争边缘的十三天" },
+              "dates": { "start": "1962-10-16", "end": "1962-10-28" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "africa-middle-east",
+      "name": { "en": "Africa & Middle East", "ja": "アフリカ・中東", "zh-CN": "非洲与中东" },
+      "eras": [
+        {
+          "id": "ancient",
+          "name": { "en": "Ancient World", "ja": "古代世界", "zh-CN": "古代世界" },
+          "dateRange": "202 BC",
+          "scenarios": [
+            {
+              "id": "zama-202bc",
+              "title": { "en": "Battle of Zama", "ja": "ザマの戦い", "zh-CN": "扎马战役" },
+              "brief": { "en": "Scipio vs Hannibal — the clash that decided the Punic Wars", "ja": "スキピオ対ハンニバル——ポエニ戦争を決した激突", "zh-CN": "西庇阿对汉尼拔——决定布匿战争的决战" },
+              "dates": { "start": "0202-10-19-BC", "end": "0202-10-19-BC" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

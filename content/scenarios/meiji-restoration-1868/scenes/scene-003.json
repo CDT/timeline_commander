@@ -1,0 +1,111 @@
+{
+  "id": "meiji-restoration-1868-scene-003",
+  "scenarioId": "meiji-restoration-1868",
+  "title": "The March on Edo",
+  "date": {
+    "en": "March - April, 1868",
+    "ja": "1868年3月〜4月",
+    "zh-CN": "1868年3月至4月"
+  },
+  "location": {
+    "en": "Imperial Army Headquarters, advancing toward Edo",
+    "ja": "官軍司令部、江戸に向け進軍中",
+    "zh-CN": "官军司令部，向江户进军途中"
+  },
+  "narrativePrompt": {
+    "en": "The Battle of Toba-Fushimi is won. Tokugawa Yoshinobu has fled to Edo by sea, his authority crumbling as domain after domain declares for the Emperor. The imperial army is marching east toward Edo, the shogun's capital and the largest city in Japan — home to over one million people. Saigo Takamori commands the vanguard. The military logic is clear: take Edo and the war is over. But Edo is a wooden city. If fighting breaks out in the streets, fire could consume it entirely, killing tens of thousands of civilians. A message has arrived from Katsu Kaishu, the shogunate's naval commander and a pragmatic reformer, requesting a meeting to discuss terms. Saigo faces the most consequential decision of the entire restoration: should he demand unconditional surrender and risk destroying Edo, or negotiate a peaceful handover that leaves some Tokugawa dignity — and potentially power — intact?",
+    "ja": "鳥羽・伏見の戦いに勝利した。徳川慶喜は海路で江戸に逃走し、次々と藩が天皇に帰順する中、その権威は崩壊しつつある。官軍は将軍の居城であり日本最大の都市——100万人以上が暮らす江戸に向けて東進している。西郷隆盛が前衛を指揮する。軍事的論理は明快だ：江戸を取れば戦争は終わる。しかし江戸は木造の街だ。市街で戦闘が起これば、火災が街全体を焼き尽くし、数万人の市民が犠牲になりかねない。幕府の海軍奉行で実利的な改革者である勝海舟から、条件を話し合うための会談を求める伝言が届いた。西郷は維新全体で最も重大な決断に直面する：無条件降伏を要求して江戸を破壊するリスクを取るか、徳川にいくらかの体面——そして潜在的には権力——を残す平和的な引き渡しを交渉するか？",
+    "zh-CN": "鸟羽伏见之战已胜。德川庆喜已乘船逃回江户，随着一个又一个藩宣布效忠天皇，他的权威正在瓦解。官军正向东进军，目标是将军的首府、日本最大的城市——拥有超过百万居民的江户。西乡隆盛率领前锋。军事逻辑很清楚：拿下江户，战争就结束了。但江户是一座木结构城市。如果在街头爆发战斗，大火可能将其彻底吞噬，造成数万平民死亡。幕府海军奉行、务实的改革者胜海舟送来消息，请求会面讨论条件。西乡面临整个维新中最关键的决定：是要求无条件投降并冒摧毁江户的风险，还是谈判和平交接，保留德川一些尊严——以及可能的权力？"
+  },
+  "situationReport": [
+    {
+      "en": "The imperial army of 50,000 is within days of reaching Edo",
+      "ja": "5万の官軍が数日以内に江戸に到達する",
+      "zh-CN": "五万官军数日内即将抵达江户"
+    },
+    {
+      "en": "Yoshinobu has retired to Kan'ei-ji temple and declared he will not resist — but hardliners in Edo may fight regardless",
+      "ja": "慶喜は寛永寺に退き、抵抗しないと宣言した——しかし江戸の強硬派はそれでも戦う可能性がある",
+      "zh-CN": "庆喜已退居宽永寺并宣布不再抵抗——但江户的强硬派可能不顾一切开战"
+    },
+    {
+      "en": "Katsu Kaishu has requested a meeting with Saigo to negotiate surrender terms",
+      "ja": "勝海舟が降伏条件の交渉のため西郷との会談を求めた",
+      "zh-CN": "胜海舟已请求与西乡会面商讨投降条件"
+    },
+    {
+      "en": "British and French warships are anchored in Edo Bay, observing the situation",
+      "ja": "イギリスとフランスの軍艦が江戸湾に停泊し、状況を観察している",
+      "zh-CN": "英法军舰停泊在江户湾，观察局势"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "End the Tokugawa resistance and secure Edo for the new government",
+      "ja": "徳川の抵抗を終わらせ、新政府のために江戸を確保する",
+      "zh-CN": "终结德川的抵抗，为新政府确保江户"
+    },
+    {
+      "en": "Preserve Edo and its population from destruction if possible",
+      "ja": "可能であれば江戸とその住民を破壊から守る",
+      "zh-CN": "尽可能保全江户及其居民免于毁灭"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Destroying Edo would be a humanitarian catastrophe that could turn public opinion against the restoration",
+      "ja": "江戸の破壊は人道的大惨事となり、世論が維新に反対する可能性がある",
+      "zh-CN": "摧毁江户将是人道主义灾难，可能导致舆论转而反对维新"
+    },
+    {
+      "en": "Leaving the Tokugawa with too much power could enable a future challenge to the new government",
+      "ja": "徳川に過大な権力を残せば、新政府への将来の挑戦を可能にする恐れがある",
+      "zh-CN": "给德川留下过多权力可能使其日后挑战新政府"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Meet with Katsu Kaishu and negotiate the peaceful surrender of Edo Castle. Spare the city in exchange for Yoshinobu's complete withdrawal from politics.",
+        "ja": "勝海舟と会談し、江戸城の平和的開城を交渉する。慶喜の完全な政治からの引退と引き換えに都市を救う。",
+        "zh-CN": "与胜海舟会面，谈判和平交出江户城。以庆喜完全退出政治为条件，保全城市。"
+      },
+      "historicalContext": "The historical choice — Saigo met Katsu Kaishu, and Edo was surrendered peacefully, sparing the city and over a million lives.",
+      "outcomePrompt": {
+        "en": "Saigo meets Katsu Kaishu at the Satsuma estate in Edo. The two men — both samurai of the old school, both pragmatists who understand that Japan's true enemy is Western imperialism, not each other — negotiate with mutual respect. Katsu argues that destroying Edo would weaken Japan before the Western powers. Saigo agrees. The terms are set: Yoshinobu will retire permanently, Edo Castle will be surrendered, and the Tokugawa army will disband. In return, there will be no mass executions, and Yoshinobu's life will be spared. On April 11th, Edo Castle is handed over without a shot fired. The largest city in Japan is saved. Saigo Takamori becomes the most honored man in the new Japan — the warrior who chose mercy when he had the power to destroy. The Meiji era begins.",
+        "ja": "西郷は江戸の薩摩藩邸で勝海舟と会う。二人の男——ともに旧来の武士であり、日本の真の敵は西洋帝国主義であって互いではないと理解する実利主義者——は相互の敬意を持って交渉する。勝は江戸を破壊すれば西洋列強を前にして日本を弱体化させると主張する。西郷は同意する。条件は決まった：慶喜は永久に引退し、江戸城は明け渡され、徳川軍は解散する。代わりに大量処刑は行わず、慶喜の命は助ける。4月11日、江戸城は一発の銃声もなく引き渡された。日本最大の都市は救われた。西郷隆盛は新日本で最も尊敬される人物となった——破壊する力を持ちながら慈悲を選んだ武人として。明治の時代が始まる。",
+        "zh-CN": "西乡在江户的萨摩藩邸与胜海舟会面。两位男人——都是旧式武士，都是明白日本真正的敌人是西方帝国主义而非彼此的务实主义者——以相互尊重进行谈判。胜海舟指出摧毁江户会在西方列强面前削弱日本。西乡表示同意。条件已定：庆喜将永久退隐，江户城将交出，德川军队将解散。作为交换，不进行大规模处刑，庆喜的性命将得到保全。4月11日，江户城未发一弹和平交接。日本最大的城市得以保全。西乡隆盛成为新日本最受尊崇的人——一位在拥有毁灭力量时选择了仁慈的武士。明治时代开始了。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "shogunateStrength", "operation": "set", "value": 0 },
+        { "variable": "imperialSupport", "operation": "add", "value": 20 },
+        { "variable": "foreignPressure", "operation": "add", "value": -20 },
+        { "variable": "domainAlliance", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Demand unconditional surrender. If Edo does not open its gates by the deadline, storm the city and end Tokugawa power once and for all.",
+        "ja": "無条件降伏を要求する。期限までに江戸が門を開かなければ、城を攻め、徳川の権力を完全に終わらせる。",
+        "zh-CN": "要求无条件投降。如果江户在最后期限前不开城，强攻城市，彻底终结德川的权力。"
+      },
+      "historicalContext": "A counterfactual — an assault on Edo could have ended Tokugawa power more completely but at catastrophic human cost.",
+      "outcomePrompt": {
+        "en": "Saigo sends an ultimatum: surrender Edo Castle unconditionally within three days, or face assault. Katsu Kaishu pleads for negotiation, but Saigo's terms leave no room for compromise. When the deadline passes, imperial forces advance into the outskirts of Edo. Tokugawa hardliners — the Shogitai militia — make a desperate stand at Ueno Hill. Fighting erupts across the eastern districts. As Saigo feared, fires break out in the wooden neighborhoods. Thousands of civilians flee. The battle lasts two days before the last resistance is crushed. Edo Castle falls, and the Tokugawa era ends in smoke and blood. The military victory is total, but the burning of Japan's greatest city haunts the new government. Foreign newspapers condemn the destruction, and Western diplomats grow more aggressive in their demands. Saigo has won the war, but the cost of this victory will shape the Meiji era's relationship with its own violent origins.",
+        "ja": "西郷は最後通牒を送る：3日以内に江戸城を無条件降伏せよ、さもなくば攻撃する。勝海舟は交渉を懇願するが、西郷の条件に妥協の余地はない。期限が過ぎると、官軍は江戸の外縁に進攻する。徳川の強硬派——彰義隊——が上野の山で必死の抵抗を行う。東部の各地区で戦闘が勃発する。西郷が恐れた通り、木造の町に火災が発生する。数千人の市民が避難する。最後の抵抗が鎮圧されるまで戦闘は2日間続く。江戸城は陥落し、徳川の時代は煙と血の中で終わる。軍事的勝利は完全だが、日本最大の都市の焼失は新政府につきまとう。外国の新聞は破壊を非難し、西洋の外交官たちはより攻撃的な要求を強める。西郷は戦争に勝ったが、この勝利の代償は明治時代がその暴力的な起源とどう向き合うかを形作ることになる。",
+        "zh-CN": "西乡发出最后通牒：三天内无条件交出江户城，否则发动进攻。胜海舟恳请谈判，但西乡的条件没有妥协余地。期限过后，官军推进至江户外围。德川强硬派——彰义队——在上野山进行殊死抵抗。东部各区爆发战斗。正如西乡所担忧的，木结构街区燃起大火。数千平民逃离。战斗持续两天，最后的抵抗被粉碎。江户城陷落，德川时代在硝烟和鲜血中落幕。军事胜利是彻底的，但日本最大城市的焚毁成为新政府挥之不去的阴影。外国报纸谴责这场破坏，西方外交官的要求变得更加咄咄逼人。西乡赢得了战争，但这场胜利的代价将塑造明治时代与其暴力起源之间的关系。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "shogunateStrength", "operation": "set", "value": 0 },
+        { "variable": "imperialSupport", "operation": "add", "value": -5 },
+        { "variable": "foreignPressure", "operation": "add", "value": 20 },
+        { "variable": "domainAlliance", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

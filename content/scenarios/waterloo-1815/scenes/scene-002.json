@@ -1,0 +1,111 @@
+{
+  "id": "waterloo-1815-scene-002",
+  "scenarioId": "waterloo-1815",
+  "title": "The Assault on Hougoumont and the Center",
+  "date": {
+    "en": "June 18, 1815 — Afternoon",
+    "ja": "1815年6月18日 — 午後",
+    "zh-CN": "1815年6月18日 - 下午"
+  },
+  "location": {
+    "en": "Napoleon's command post, La Belle Alliance ridge",
+    "ja": "ナポレオンの指揮所、ラ・ベル・アリアンスの尾根",
+    "zh-CN": "拿破仑的指挥所，美丽联盟山脊"
+  },
+  "narrativePrompt": {
+    "en": "The battle is raging. On your left, Prince Jérôme's division has been drawn into a bloody fight for the Hougoumont farmhouse — a fortified position that anchors Wellington's right flank. What began as a diversionary attack has sucked in far more troops than planned. The fighting in the walled orchard and courtyard is savage, and Jérôme is demanding reinforcements. Meanwhile, in the center, Marshal Ney has launched d'Erlon's corps in a massive infantry assault up the slope toward Wellington's main line. The columns are advancing under withering fire. From your command post, you can see Wellington's line bending but not breaking. Ney is screaming for cavalry to exploit what he believes is a wavering enemy. But committing the cavalry reserve now, before the infantry has created a clear breach, risks everything. The distant sound of guns to the east reminds you that time is running out.",
+    "ja": "戦闘が激化している。左翼では、ジェローム王子の師団がウェリントンの右翼を固めるウーグモン農場の血みどろの戦いに引き込まれている。陽動攻撃として始まったものが、計画よりはるかに多くの兵力を吸い込んでいる。城壁に囲まれた果樹園と中庭での戦闘は凄惨で、ジェロームが増援を要求している。一方、中央ではネイ元帥がデルロン軍団をウェリントンの主力防衛線に向けて斜面を大規模な歩兵突撃に投入した。縦隊は壊滅的な射撃を受けながら前進している。指揮所から、ウェリントンの戦線がたわんでいるが崩れていないのが見える。ネイは敵が動揺していると信じ、騎兵を投入して突破口を開くよう叫んでいる。しかし歩兵が明確な突破口を作る前に騎兵予備を投入すれば、すべてを危険にさらす。東方からの遠い砲声が、時間がなくなりつつあることを思い出させる。",
+    "zh-CN": "战斗正在激烈进行。在您的左翼，热罗姆王子的师已被卷入对乌古蒙农庄的血腥争夺——这是一个支撑威灵顿右翼的设防阵地。原本是佯攻的行动已经吸引了远超计划的兵力。在围墙果园和庭院中的战斗异常惨烈，热罗姆正在要求增援。与此同时，在中央，内伊元帅已投入德尔隆军团向威灵顿主防线发起大规模步兵冲锋。纵队在毁灭性火力下前进。从您的指挥所可以看到威灵顿的防线在弯曲但没有崩溃。内伊大声要求投入骑兵，他认为敌人正在动摇。但在步兵打开明确突破口之前就投入骑兵预备队，将冒极大风险。东方传来的远处炮声提醒您时间正在流逝。"
+  },
+  "situationReport": [
+    {
+      "en": "The assault on Hougoumont has become a costly battle-within-a-battle, consuming French battalions",
+      "ja": "ウーグモンへの攻撃は、フランスの大隊を消耗する戦いの中の戦いとなっている",
+      "zh-CN": "对乌古蒙的进攻已成为一场代价高昂的\"战中之战\"，不断消耗法军营"
+    },
+    {
+      "en": "D'Erlon's infantry assault on the center has been bloodily repulsed by Wellington's infantry and cavalry countercharge",
+      "ja": "デルロンの中央への歩兵突撃はウェリントンの歩兵と騎兵の反撃で血みどろに撃退された",
+      "zh-CN": "德尔隆对中央的步兵冲锋已被威灵顿的步兵和骑兵反冲击血腥击退"
+    },
+    {
+      "en": "Marshal Ney is demanding the cavalry reserve to charge Wellington's line, which he believes is weakening",
+      "ja": "ネイ元帥は弱体化していると信じるウェリントンの戦線に突撃するため騎兵予備を要求している",
+      "zh-CN": "内伊元帅要求投入骑兵预备队冲击他认为正在削弱的威灵顿防线"
+    },
+    {
+      "en": "Distant cannon fire from the east suggests Prussian forces are approaching your right flank",
+      "ja": "東方からの遠い砲声がプロイセン軍が右翼に接近していることを示唆している",
+      "zh-CN": "东方传来的远处炮声表明普鲁士军队正在逼近您的右翼"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Break Wellington's center before Prussian forces arrive in strength",
+      "ja": "プロイセン軍が大挙到着する前にウェリントンの中央を突破する",
+      "zh-CN": "在普鲁士军大规模到达之前突破威灵顿的中央"
+    },
+    {
+      "en": "Manage the commitment of reserves — once spent, there is nothing left",
+      "ja": "予備軍の投入を管理する——使い果たせば何も残らない",
+      "zh-CN": "管理预备队的投入——一旦用尽，就什么都不剩了"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The cavalry reserve is your last uncommitted striking force",
+      "ja": "騎兵予備はあなたの最後の未投入の打撃力である",
+      "zh-CN": "骑兵预备队是您最后未投入的突击力量"
+    },
+    {
+      "en": "Ney commands in the field and may act without waiting for your orders",
+      "ja": "ネイが野戦で指揮しており、あなたの命令を待たずに行動する可能性がある",
+      "zh-CN": "内伊在前线指挥，可能不等您的命令就自行行动"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Release the cavalry reserve to Ney. He is on the ground and sees an opportunity. A massed cavalry charge could shatter Wellington's infantry before the Prussians arrive.",
+        "ja": "騎兵予備をネイに解放する。彼は現場にいて機会を見ている。大規模な騎兵突撃はプロイセン軍が到着する前にウェリントンの歩兵を粉砕できるかもしれない。",
+        "zh-CN": "将骑兵预备队交给内伊。他在前线看到了机会。大规模骑兵冲锋可能在普鲁士军到达之前击碎威灵顿的步兵。"
+      },
+      "historicalContext": "Roughly the historical outcome — Ney launched repeated unsupported cavalry charges that failed against Wellington's infantry squares.",
+      "outcomePrompt": {
+        "en": "You give the order. Thousands of French cuirassiers and lancers thunder up the slope in one of the most spectacular cavalry charges in military history. The ground shakes. Wellington's infantry forms squares — hollow formations bristling with bayonets that cavalry cannot penetrate. The French horsemen swirl around the squares, slashing and stabbing, but they have no infantry or horse artillery support to break the formations open. Wave after wave charges and recedes. The cavalry is magnificent but futile. By late afternoon, your cavalry reserve is spent — horses blown, troopers dead or exhausted. Wellington's squares are battered but intact. And from the east, the first Prussian columns are now visible, emerging from the trees. You have used your last card, and it was not enough.",
+        "ja": "あなたは命令を下す。何千人ものフランスの胸甲騎兵と槍騎兵が軍事史上最も壮観な騎兵突撃の一つとして斜面を駆け上がる。地面が揺れる。ウェリントンの歩兵は方陣を組む——騎兵が突破できない銃剣の林立する中空の隊形だ。フランスの騎兵は方陣の周りを旋回し、斬り突くが、隊形を崩す歩兵や騎馬砲兵の支援がない。波状攻撃が押し寄せては退く。騎兵は壮大だが無益である。午後遅くには、騎兵予備は消耗——馬は息を切らし、騎兵は戦死または疲弊。ウェリントンの方陣は痛手を受けたが無傷である。そして東方から、最初のプロイセン軍の縦隊が森から出現するのが見える。あなたは最後の切り札を使い、それでは足りなかった。",
+        "zh-CN": "您下达了命令。数千名法国胸甲骑兵和枪骑兵以军事史上最壮观的骑兵冲锋之一雷鸣般地冲上山坡。大地在颤抖。威灵顿的步兵组成方阵——刺刀林立的空心阵形，骑兵无法突破。法国骑兵在方阵周围盘旋，砍杀刺击，但没有步兵或骑马炮兵的支援来打破阵形。一波又一波的冲锋冲上去又退回来。骑兵壮烈但徒劳。到傍晚，您的骑兵预备队已经耗尽——战马精疲力竭，骑兵阵亡或筋疲力尽。威灵顿的方阵虽受重创但仍完好。而从东方，第一批普鲁士纵队现在已清晰可见，正从树林中出现。您已打出最后一张牌，但这还不够。"
+      },
+      "nextSceneId": "waterloo-1815-scene-003",
+      "stateChanges": [
+        { "variable": "cavalryReserve", "operation": "add", "value": -50 },
+        { "variable": "frenchMorale", "operation": "add", "value": -15 },
+        { "variable": "artilleryAmmo", "operation": "add", "value": -15 },
+        { "variable": "blucherDistance", "operation": "add", "value": -30 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Deny Ney the cavalry. Order a coordinated combined-arms assault instead: infantry, cavalry, and artillery together, concentrated on a single point in Wellington's center. This takes time to organize but has a far better chance of breaking through.",
+        "ja": "ネイに騎兵を与えない。代わりに歩兵、騎兵、砲兵を一体化した協調的な諸兵科連合突撃を命じ、ウェリントンの中央の一点に集中させる。これは組織するのに時間がかかるが、突破の可能性ははるかに高い。",
+        "zh-CN": "拒绝内伊的骑兵请求。改为下令发起协调的诸兵种联合突击：步兵、骑兵和炮兵一起，集中于威灵顿中央的一个点。这需要时间组织，但突破的机会要大得多。"
+      },
+      "historicalContext": "A counterfactual — a coordinated combined-arms assault was Napoleon's hallmark earlier in his career but was not executed at Waterloo.",
+      "outcomePrompt": {
+        "en": "You overrule Ney with a terse message: 'No cavalry without infantry. Organize a proper assault.' Ney is furious but obeys. It takes over an hour to reorganize the forces. When the combined assault finally goes in, it hits Wellington's line like a battering ram. Infantry columns advance behind a rolling barrage, cavalry waits in disciplined lines behind them, and horse artillery gallops forward to fire canister at point-blank range into the squares. Wellington's center buckles. A British brigade breaks and runs. For a moment, victory seems within reach. But the delay has cost you. The Prussian advance guard has already engaged your right flank at Plancenoit. You are winning in the center, but losing on the right. The race against time is reaching its climax.",
+        "ja": "あなたは短い伝令でネイを却下する：「歩兵なしの騎兵は許可しない。適切な突撃を組織せよ」。ネイは激怒するが従う。部隊の再編成に1時間以上かかる。諸兵科連合突撃がようやく発動されると、破城槌のようにウェリントンの戦線を打つ。歩兵縦隊が移動弾幕の後に前進し、騎兵はその後方で規律正しく待機し、騎馬砲兵が前進して方陣に至近距離から散弾を撃ち込む。ウェリントンの中央がたわむ。イギリスの旅団が崩壊して逃走する。一瞬、勝利が手の届くところにあるように見える。しかし遅延の代償を払うことになる。プロイセンの前衛がすでにプランスノワであなたの右翼と交戦している。あなたは中央で勝ちつつあるが、右翼では負けつつある。時間との競争がクライマックスに達している。",
+        "zh-CN": "您以简短的传令否决了内伊：'没有步兵就不准用骑兵。组织一次像样的突击。'内伊暴怒但服从了。重新组织部队花了一个多小时。当联合突击终于发起时，它像攻城槌一样撞击威灵顿的防线。步兵纵队在滚动弹幕后前进，骑兵在后方纪律严明地列队等待，骑马炮兵飞驰向前，在近距离向方阵发射霰弹。威灵顿的中央开始动摇。一个英军旅崩溃逃跑。一时间，胜利似乎触手可及。但延迟让您付出了代价。普鲁士前卫已经在普朗斯诺瓦与您的右翼交战。您在中央正在获胜，但在右翼正在失利。与时间的赛跑已达到高潮。"
+      },
+      "nextSceneId": "waterloo-1815-scene-003",
+      "stateChanges": [
+        { "variable": "cavalryReserve", "operation": "add", "value": -20 },
+        { "variable": "frenchMorale", "operation": "add", "value": 5 },
+        { "variable": "artilleryAmmo", "operation": "add", "value": -20 },
+        { "variable": "blucherDistance", "operation": "add", "value": -40 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

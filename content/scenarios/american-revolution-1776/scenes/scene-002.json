@@ -1,0 +1,109 @@
+{
+  "id": "american-revolution-1776-scene-002",
+  "scenarioId": "american-revolution-1776",
+  "title": "The Desperate Retreat Across New Jersey",
+  "date": {
+    "en": "November 30, 1776",
+    "ja": "1776年11月30日",
+    "zh-CN": "1776年11月30日"
+  },
+  "location": {
+    "en": "Continental Army Camp, New Brunswick, New Jersey",
+    "ja": "大陸軍キャンプ、ニューブランズウィック、ニュージャージー",
+    "zh-CN": "大陆军营地，新布伦瑞克，新泽西"
+  },
+  "narrativePrompt": {
+    "en": "Everything has gone wrong. New York is lost. Fort Washington fell on November 16th with nearly 3,000 men captured — the worst disaster of the war. Fort Lee was abandoned two days later. Now your army is retreating across New Jersey with Lord Cornwallis in pursuit, sometimes just hours behind. Your forces have dwindled from 19,000 to barely 3,500 men. Enlistments expire on December 31st — in one month, you may have no army at all. General Charles Lee, commanding 4,000 troops in Westchester, has ignored your repeated orders to join you, apparently hoping your failure will lead Congress to replace you with him. Thomas Paine, marching with your soldiers, is writing by campfire about 'the times that try men's souls.' He is not exaggerating. You must decide how to manage this retreat and what to do when you reach the Delaware River.",
+    "ja": "すべてがうまくいきませんでした。ニューヨークは失われました。ワシントン砦は11月16日に約3,000人が捕虜となり陥落しました——戦争最悪の災厄です。フォート・リーは2日後に放棄されました。今、あなたの軍はコーンウォリス卿の追撃を受けながらニュージャージーを横断して退却しています。時には数時間差で追われています。兵力は19,000人から3,500人にまで減少しました。入隊期間は12月31日に満了します——1ヶ月後には軍隊がまったくなくなるかもしれません。ウェストチェスターで4,000人を指揮するチャールズ・リー将軍は、あなたの合流命令を繰り返し無視しており、あなたの失敗が議会にあなたを彼と交代させることを期待しているようです。あなたの兵士とともに行軍するトマス・ペインが焚き火のそばで「人間の魂を試す時代」について書いています。彼は誇張していません。あなたはこの退却をどう管理し、デラウェア川に到達したときに何をするかを決めなければなりません。",
+    "zh-CN": "一切都出了错。纽约丢了。华盛顿堡于11月16日沦陷，近3000人被俘——这是战争中最惨重的灾难。利堡两天后被放弃。现在您的军队在康华利勋爵的追击下横穿新泽西撤退，有时仅相隔几个小时。您的兵力从19000人减少到仅仅3500人。入伍期于12月31日届满——一个月后，您可能根本没有军队了。在韦斯特切斯特指挥4000人的查尔斯·李将军无视了您多次的合兵命令，显然希望您的失败会让国会用他来取代您。与您的士兵一同行军的托马斯·潘恩正在篝火旁写着「这是考验人们灵魂的时代」。他没有夸张。您必须决定如何管理这次撤退，以及到达特拉华河时该怎么办。"
+  },
+  "situationReport": [
+    {
+      "en": "Army strength has collapsed to approximately 3,500 effectives — down from 19,000 in August",
+      "ja": "軍の有効兵力は約3,500人に崩壊——8月の19,000人から減少",
+      "zh-CN": "军队有效兵力已崩溃至约3500人——从8月份的19000人锐减"
+    },
+    {
+      "en": "Cornwallis is in pursuit with 10,000 British and Hessian troops, sometimes only hours behind",
+      "ja": "コーンウォリスが10,000人のイギリス・ヘッセン軍で追撃中、時には数時間差",
+      "zh-CN": "康华利率领10000名英军和黑森军追击，有时仅落后几个小时"
+    },
+    {
+      "en": "General Lee has refused to march south with his 4,000 troops — his loyalty is uncertain",
+      "ja": "リー将軍は4,000人の兵を率いて南下することを拒否している——彼の忠誠心は不確か",
+      "zh-CN": "李将军拒绝率领他的4000名士兵南下——他的忠诚度不确定"
+    },
+    {
+      "en": "All enlistments expire December 31st — in one month, the army ceases to exist",
+      "ja": "すべての入隊期間が12月31日に満了——1ヶ月後、軍は消滅する",
+      "zh-CN": "所有入伍期于12月31日届满——一个月后，军队将不复存在"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Keep the army alive and intact as a fighting force",
+      "ja": "軍を戦闘力として存続させ、無傷に保つ",
+      "zh-CN": "使军队作为战斗力量保持完整存活"
+    },
+    {
+      "en": "Put the Delaware River between your army and Cornwallis's pursuing forces",
+      "ja": "あなたの軍とコーンウォリスの追撃軍の間にデラウェア川を置く",
+      "zh-CN": "将特拉华河置于您的军队和康华利追击部队之间"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Every day of retreat costs you more men through desertion and expiring militia terms",
+      "ja": "退却の毎日が脱走と民兵の期限切れにより兵力を失わせる",
+      "zh-CN": "每一天的撤退都因逃兵和民兵服役期满而减少兵力"
+    },
+    {
+      "en": "If Cornwallis catches you before you cross the Delaware, the war is likely over",
+      "ja": "デラウェア川を渡る前にコーンウォリスに追いつかれたら、戦争はおそらく終わる",
+      "zh-CN": "如果康华利在您渡过特拉华河之前追上您，战争很可能就结束了"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Race for the Delaware River. Seize or destroy every boat for miles in both directions so Cornwallis cannot follow. Use the river as a shield to buy time and plan your next move.",
+        "ja": "デラウェア川に急ぐ。コーンウォリスが追跡できないよう、両方向何マイルもの全ての船を確保または破壊する。川を盾にして時間を稼ぎ、次の動きを計画する。",
+        "zh-CN": "急奔特拉华河。征集或摧毁两个方向数英里内的所有船只，使康华利无法跟随。用河流作为屏障争取时间并计划下一步行动。"
+      },
+      "historicalContext": "The historical choice — Washington's seizure of all boats on the Delaware was a masterstroke that halted the British pursuit.",
+      "outcomePrompt": {
+        "en": "You order every boat on the Delaware seized or destroyed for 75 miles in both directions. Your army crosses on December 7th and 8th, the last men barely ahead of Cornwallis's advance guard. When the British reach the river, they find not a single vessel to carry them across. Cornwallis halts, settling his troops into winter quarters in a chain of garrisons across New Jersey — Trenton, Princeton, New Brunswick. He considers the campaign over. Howe sends a letter to London declaring the rebellion nearly crushed. But on the Pennsylvania side of the river, you are not finished. You are studying maps of Trenton. The Hessian garrison there is isolated. Christmas is coming. Thomas Paine's new pamphlet, 'The American Crisis,' is being read to your shivering troops. An idea — desperate, dangerous, possibly suicidal — is forming in your mind.",
+        "ja": "あなたはデラウェア川のすべての船を両方向75マイルにわたり確保または破壊するよう命令します。軍は12月7日と8日に渡河し、最後の兵士はコーンウォリスの前衛のわずかに先を行きます。イギリス軍が川に到達したとき、渡るための船は一隻もありません。コーンウォリスは停止し、ニュージャージー各地のトレントン、プリンストン、ニューブランズウィックの駐屯地に兵を冬営させます。彼は戦役は終わったと考えます。ハウはロンドンに反乱はほぼ鎮圧されたと報告する手紙を送ります。しかしデラウェア川のペンシルベニア側で、あなたは終わっていません。トレントンの地図を研究しています。そこのヘッセン守備隊は孤立しています。クリスマスが近づいています。トマス・ペインの新しいパンフレット「アメリカの危機」が震える兵士たちに読み上げられています。必死で、危険で、おそらく自殺的なアイデアがあなたの心に形を成しつつあります。",
+        "zh-CN": "您下令征集或摧毁特拉华河两个方向75英里内的所有船只。您的军队在12月7日和8日渡河，最后的士兵仅比康华利的先头部队快了一步。当英军到达河边时，他们找不到一条船渡河。康华利停下来，将部队安排在新泽西各地的冬季驻地——特伦顿、普林斯顿、新布伦瑞克。他认为战役已经结束。豪给伦敦写信称叛乱即将被镇压。但在河的宾夕法尼亚一侧，您还没有结束。您正在研究特伦顿的地图。那里的黑森守军是孤立的。圣诞节就要到了。托马斯·潘恩的新小册子《美国危机》正在被朗读给瑟瑟发抖的士兵们。一个想法——孤注一掷的、危险的、可能是自杀式的——正在您脑海中成形。"
+      },
+      "nextSceneId": "american-revolution-1776-scene-003",
+      "stateChanges": [
+        { "variable": "armyMorale", "operation": "add", "value": 5 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Make a fighting stand at New Brunswick to slow Cornwallis and buy time. Risk a rearguard action to prove the army still has teeth before crossing the Delaware.",
+        "ja": "ニューブランズウィックで戦闘的な防衛を行いコーンウォリスの速度を落とし時間を稼ぐ。デラウェアを渡る前に軍にまだ歯があることを証明するため後衛戦闘のリスクを冒す。",
+        "zh-CN": "在新布伦瑞克进行抵抗以减缓康华利的速度并争取时间。在渡过特拉华河之前冒险进行后卫战斗，证明军队仍有战斗力。"
+      },
+      "historicalContext": "A counterfactual — a fighting stand risked the army's destruction but could have boosted morale and demonstrated resolve.",
+      "outcomePrompt": {
+        "en": "You position a rearguard of 800 men at New Brunswick under Colonel Edward Hand, with orders to delay Cornwallis for twelve hours while the main body continues south. Hand's riflemen perform superbly, using the terrain and their marksmanship to slow the British advance. Cornwallis loses half a day and several dozen casualties. The stand makes newspapers in Philadelphia — proof that the army still fights. But the cost is 150 men you cannot afford to lose, including 40 captured. You still seize the boats on the Delaware, but with fewer men and less time. The army crosses safely, barely. Across the river, you study the map of Trenton. The Hessians are there, isolated and overconfident. You have an idea.",
+        "ja": "あなたはニューブランズウィックにエドワード・ハンド大佐のもと800人の後衛を配置し、本隊が南下する間コーンウォリスを12時間遅らせるよう命令します。ハンドの狙撃兵は見事に活躍し、地形と射撃の腕前でイギリス軍の前進を遅らせます。コーンウォリスは半日と数十人の死傷者を失います。この抵抗はフィラデルフィアの新聞に載ります——軍がまだ戦っている証拠。しかし代償は失う余裕のない150人で、うち40人が捕虜です。あなたはまだデラウェア川の船を確保しますが、より少ない兵と少ない時間で。軍はかろうじて安全に渡河します。川の向こう側で、トレントンの地図を研究します。ヘッセン軍がそこにいます、孤立して自信過剰です。あなたにはアイデアがあります。",
+        "zh-CN": "您在新布伦瑞克部署了爱德华·汉德上校指挥的800人后卫，命令他们在主力继续南下的同时阻滞康华利12小时。汉德的步枪兵表现出色，利用地形和射击技术减缓英军推进。康华利损失了半天时间和数十人伤亡。这次抵抗登上了费城的报纸——证明军队仍在战斗。但代价是您承受不起的150人损失，包括40人被俘。您仍然征集了特拉华河上的船只，但人更少、时间更紧。军队勉强安全渡河。在河对岸，您研究特伦顿的地图。黑森军在那里，孤立且过于自信。您有了一个想法。"
+      },
+      "nextSceneId": "american-revolution-1776-scene-003",
+      "stateChanges": [
+        { "variable": "armyMorale", "operation": "add", "value": 10 },
+        { "variable": "troopStrength", "operation": "add", "value": -5 },
+        { "variable": "congressSupport", "operation": "add", "value": 5 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

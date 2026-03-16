@@ -1,0 +1,60 @@
+{
+  "scenarioId": "crossing-rubicon-49bc",
+  "timeline": [
+    {
+      "date": "-49-01-01",
+      "description": {
+        "en": "The Roman Senate passes the Senatus Consultum Ultimum, ordering Caesar to disband his armies or be declared an enemy of the state. Tribunes Mark Antony and Quintus Cassius Longinus, who had vetoed anti-Caesar measures, flee Rome and join Caesar in Ravenna.",
+        "ja": "ローマ元老院が元老院最終勧告を可決し、カエサルに軍の解散を命じ、従わなければ国家の敵と宣言するとする。反カエサル措置に拒否権を行使していた護民官マルクス・アントニウスとクィントゥス・カッシウス・ロンギヌスがローマを脱出し、ラヴェンナのカエサルに合流する。",
+        "zh-CN": "罗马元老院通过“元老院最终决议“，命令恺撒解散军队，否则将被宣布为国家公敌。此前否决反恺撒法案的保民官马克·安东尼和昆图斯·卡西乌斯·朗基努斯逃离罗马，前往拉文纳加入恺撒。"
+      }
+    },
+    {
+      "date": "-49-01-10",
+      "description": {
+        "en": "Caesar addresses his Legio XIII Gemina, arguing that the Senate has violated the constitutional rights of the tribunes. That night or early the following morning, he leads the legion across the Rubicon River into Italy, reportedly declaring 'alea iacta est' — the die is cast.",
+        "ja": "カエサルは第13双子軍団に演説し、元老院が護民官の憲法上の権利を侵害したと主張する。その夜か翌朝早く、彼は軍団を率いてルビコン川を渡りイタリアに入り、「賽は投げられた」（アレア・ヤクタ・エスト）と宣言したとされる。",
+        "zh-CN": "恺撒向第十三双子军团发表演说，声称元老院侵犯了保民官的宪法权利。当晚或次日清晨，他率领军团渡过卢比孔河进入意大利，据传宣称“骰子已经掷下“（alea iacta est）。"
+      }
+    },
+    {
+      "date": "-49-01-12",
+      "description": {
+        "en": "Caesar rapidly captures Ariminum (modern Rimini), the first major town south of the Rubicon. News of the crossing spreads through Italy like wildfire, causing panic in Rome.",
+        "ja": "カエサルはルビコン南方最初の主要都市アリミヌム（現代のリミニ）を速やかに占領する。渡河の知らせがイタリア中に野火のように広がり、ローマに恐慌を引き起こす。",
+        "zh-CN": "恺撒迅速占领阿里米努姆（今里米尼），这是卢比孔河以南的第一座重要城市。渡河的消息如野火般传遍意大利，在罗马引起恐慌。"
+      }
+    },
+    {
+      "date": "-49-01-17",
+      "description": {
+        "en": "Pompey declares that Rome cannot be defended and orders an evacuation to Brundisium (modern Brindisi) in southern Italy, shocking the Senate. Many senators, unprepared for Pompey's decision to abandon the capital, are thrown into confusion.",
+        "ja": "ポンペイウスはローマを防衛できないと宣言し、南イタリアのブルンディシウム（現代のブリンディジ）への撤退を命じ、元老院に衝撃を与える。首都を放棄するというポンペイウスの決断に準備ができていなかった多くの元老院議員が混乱に陥る。",
+        "zh-CN": "庞培宣布罗马无法防守，下令撤往意大利南部的布伦迪西乌姆（今布林迪西），令元老院震惊。许多议员对庞培放弃首都的决定毫无准备，陷入混乱。"
+      }
+    },
+    {
+      "date": "-49-02-21",
+      "description": {
+        "en": "Caesar enters Rome without resistance. He finds the city largely deserted by the Senate leadership. He seizes the state treasury in the Temple of Saturn despite the tribune Metellus's protest, and begins consolidating political control.",
+        "ja": "カエサルが無抵抗でローマに入城する。元老院指導部の大半が去った都市を見つける。護民官メテッルスの抗議にもかかわらず、サトゥルヌス神殿の国庫を押さえ、政治的支配の確立を開始する。",
+        "zh-CN": "恺撒未遇抵抗进入罗马。他发现城中元老院领导层已大部分撤离。他不顾保民官梅特卢斯的抗议，夺取了萨图恩神殿中的国库，开始巩固政治控制。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Caesar's gamble succeeded beyond all expectations. His lightning advance south caught Pompey and the Senate unprepared, forcing them to abandon Rome without a fight. The civil war continued for four more years across the Mediterranean, but the crossing of the Rubicon was the point of no return that ended the Roman Republic. Caesar became dictator, was assassinated in 44 BC, and the ensuing power struggles led to the rise of his adopted heir Octavian as Augustus, the first Roman Emperor.",
+    "ja": "カエサルの賭けはあらゆる予想を超えて成功した。彼の電撃的な南進はポンペイウスと元老院の不意を突き、戦うことなくローマを放棄させた。内戦は地中海各地でさらに4年間続いたが、ルビコン川の渡河はローマ共和政を終わらせた転換点であった。カエサルは独裁官となったが紀元前44年に暗殺され、その後の権力闘争を経て養子のオクタウィアヌスが初代ローマ皇帝アウグストゥスとして台頭した。",
+    "zh-CN": "恺撒的赌博取得了超乎预期的成功。他闪电般的南下使庞培和元老院措手不及，迫使他们不战而弃罗马。内战在地中海各地又持续了四年，但渡过卢比孔河是终结罗马共和国的不归路。恺撒成为独裁官，于公元前44年被暗杀，随后的权力斗争导致其养子屋大维以奥古斯都之名成为第一位罗马皇帝。"
+  },
+  "significance": {
+    "en": "The crossing of the Rubicon is one of history's most consequential single decisions. It ended five centuries of Republican government in Rome, demonstrated the fragility of constitutional norms when confronted by military force, and established the precedent that political power in Rome ultimately rested on control of the legions. The phrase 'crossing the Rubicon' entered permanent usage as a metaphor for any irreversible commitment.",
+    "ja": "ルビコン川の渡河は歴史上最も重大な結果をもたらした単一の決断の一つである。5世紀にわたるローマの共和政を終わらせ、軍事力に直面した際の憲法的規範の脆弱さを実証し、ローマにおける政治権力が最終的に軍団の掌握に基づくという先例を確立した。「ルビコンを渡る」というフレーズは、あらゆる不可逆的な決断の隠喩として永続的に使われるようになった。",
+    "zh-CN": "渡过卢比孔河是历史上后果最为深远的单一决定之一。它终结了罗马五个世纪的共和政体，展示了宪政规范在军事力量面前的脆弱性，并确立了罗马政治权力最终取决于对军团控制的先例。“渡过卢比孔河“这一短语成为永久性的隐喻，象征任何不可逆转的决定。"
+  },
+  "furtherReading": [
+    "Adrian Goldsworthy — Caesar: Life of a Colossus",
+    "Tom Holland — Rubicon: The Last Years of the Roman Republic",
+    "Julius Caesar — Commentarii de Bello Civili (The Civil War)"
+  ]
+}

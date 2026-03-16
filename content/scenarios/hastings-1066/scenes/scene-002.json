@@ -1,0 +1,109 @@
+{
+  "id": "hastings-1066-scene-002",
+  "scenarioId": "hastings-1066",
+  "title": "The Shield Wall at Senlac Hill",
+  "date": {
+    "en": "October 14, 1066 — Morning",
+    "ja": "1066年10月14日 — 朝",
+    "zh-CN": "1066年10月14日——上午"
+  },
+  "location": {
+    "en": "Senlac Hill, near Hastings, England",
+    "ja": "イングランド、ヘイスティングズ近郊、センラック・ヒル",
+    "zh-CN": "英格兰黑斯廷斯附近森拉克山"
+  },
+  "narrativePrompt": {
+    "en": "Dawn reveals Harold's army arrayed along the ridge of Senlac Hill. The English have formed a dense shield wall — thousands of men standing shoulder to shoulder, their round shields overlapping, their axes and swords ready. The position is formidable: the hill is steep, the flanks are protected by marshy ground, and the shield wall is virtually impenetrable to a frontal cavalry charge. Your Norman knights have charged twice already this morning, and twice they have been thrown back with heavy losses. The Breton contingent on your left flank has broken and fled downhill, and some of the English fyrd have broken ranks to pursue them. You see both crisis and opportunity in this moment.",
+    "ja": "夜明けとともにハロルドの軍がセンラック・ヒルの尾根に沿って並んでいるのが見える。イングランド軍は密集した盾の壁を形成している——何千もの兵士が肩を並べて立ち、丸い盾を重ね合わせ、斧と剣を構えている。陣地は堅固だ：丘は急で、側面は湿地に守られ、盾の壁は正面からの騎兵突撃にはほぼ不可侵だ。ノルマン騎士は今朝すでに二度突撃し、二度とも大きな損害を受けて退けられた。左翼のブルターニュ部隊が崩れて丘を駆け下り、イングランドの民兵の一部が追撃のために隊列を破った。この瞬間に危機と好機の両方が見える。",
+    "zh-CN": "黎明时分，哈罗德的军队沿森拉克山脊列阵。英格兰人组成了密集的盾墙——数千名士兵肩并肩站立，圆盾层层叠叠，斧头和刀剑严阵以待。阵地极为坚固：山坡陡峭，两翼有沼泽地保护，盾墙几乎无法被正面骑兵冲锋突破。您的诺曼骑士今晨已冲锋两次，两次都在遭受重大损失后被击退。左翼的布列塔尼部队已崩溃并逃下山坡，一些英格兰民兵已脱离阵形追击。您在这一刻看到了危机，也看到了机遇。"
+  },
+  "situationReport": [
+    {
+      "en": "Harold's shield wall holds the ridge of Senlac Hill — a near-impregnable defensive position",
+      "ja": "ハロルドの盾の壁がセンラック・ヒルの尾根を保持している——ほぼ難攻不落の防御陣地",
+      "zh-CN": "哈罗德的盾墙占据森拉克山脊——几乎坚不可摧的防御阵地"
+    },
+    {
+      "en": "Two Norman cavalry charges have failed with significant casualties",
+      "ja": "ノルマン騎兵の二度の突撃が大きな損害を出して失敗した",
+      "zh-CN": "诺曼骑兵两次冲锋均遭失败，伤亡惨重"
+    },
+    {
+      "en": "The Breton left flank has broken — English fyrd are pursuing them downhill",
+      "ja": "ブルターニュの左翼が崩壊——イングランドの民兵が丘を下って追撃している",
+      "zh-CN": "布列塔尼左翼已崩溃——英格兰民兵正追下山坡"
+    },
+    {
+      "en": "Norman archers are running low on arrows after sustained volleys against the shield wall",
+      "ja": "ノルマンの弓兵は盾の壁への持続的な斉射の後、矢が不足し始めている",
+      "zh-CN": "诺曼弓箭手在对盾墙进行持续齐射后箭矢即将耗尽"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Find a way to break the English shield wall",
+      "ja": "イングランドの盾の壁を破る方法を見つける",
+      "zh-CN": "找到突破英格兰盾墙的方法"
+    },
+    {
+      "en": "Rally the Breton troops and prevent a general rout",
+      "ja": "ブルターニュ軍を再結集させ、全面的な敗走を防ぐ",
+      "zh-CN": "集结布列塔尼部队，防止全面溃败"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Direct frontal assaults uphill against the shield wall have proven futile and costly",
+      "ja": "盾の壁に対する丘の上への直接的な正面攻撃は無駄で代価が大きいことが証明された",
+      "zh-CN": "对盾墙发动正面上坡冲锋已被证明徒劳且代价高昂"
+    },
+    {
+      "en": "Your army's morale is wavering after repeated failures — another repulse could trigger a retreat",
+      "ja": "繰り返しの失敗の後、軍の士気が揺らいでいる——もう一度退けられれば撤退を引き起こす可能性がある",
+      "zh-CN": "屡次失败后军队士气动摇——再一次被击退可能引发全面撤退"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Order a deliberate feigned retreat. Let the cavalry appear to flee, lure the English down from the ridge, then wheel and destroy them on open ground.",
+        "ja": "意図的な偽装退却を命じる。騎兵が逃げるように見せかけ、イングランド軍を尾根から誘い出し、その後反転して平地で殲滅する。",
+        "zh-CN": "下令进行蓄意的佯装撤退。让骑兵佯败逃离，将英格兰人引下山脊，然后回马在开阔地歼灭他们。"
+      },
+      "historicalContext": "The historical tactic — William used feigned retreats (possibly inspired by the accidental Breton rout) to draw portions of Harold's army off the ridge and destroy them piecemeal.",
+      "outcomePrompt": {
+        "en": "You seize upon the Breton rout as inspiration. You ride along the Norman line, visibly alive to counter rumors of your death, and order a coordinated feigned retreat. The Norman cavalry turns and gallops downhill as if broken. English fyrd on the flanks — less disciplined than Harold's housecarls — cannot resist the temptation to pursue. Hundreds break from the shield wall and charge downhill. Your cavalry wheels on command and crashes into the disordered English in the open. The slaughter is devastating. But Harold's core of housecarls holds firm on the ridge. The shield wall is thinner now, weaker, but unbroken at its center.",
+        "ja": "ブルターニュ軍の敗走をヒントにする。ノルマン軍の陣列に沿って馬を駆け、自分が生きていることを見せて死亡の噂を打ち消し、組織的な偽装退却を命じる。ノルマン騎兵は崩れたかのように丘を駆け下りる。側面のイングランド民兵——ハロルドのハウスカールほど規律正しくない——は追撃の誘惑に抗えない。何百もの兵士が盾の壁から飛び出し、丘を駆け下りる。あなたの騎兵は命令通り反転し、平地で乱れたイングランド兵に突入する。殺戮は壊滅的だ。しかしハロルドの中核であるハウスカールは尾根でしっかりと持ちこたえている。盾の壁は今や薄く弱くなったが、中央では崩れていない。",
+        "zh-CN": "您从布列塔尼人的溃败中获得灵感。您沿诺曼阵线策马奔驰，明确显示自己还活着以平息死讯传言，并下令进行有组织的佯装撤退。诺曼骑兵转身冲下山坡，仿佛已经溃败。两翼的英格兰民兵——纪律不如哈罗德的侍卫军——无法抵挡追击的诱惑。数百人脱离盾墙冲下山坡。您的骑兵按命令回转，在开阔地冲入混乱的英格兰人中。屠杀是毁灭性的。但哈罗德的侍卫军核心在山脊上岿然不动。盾墙现在更薄更弱了，但中心仍未被突破。"
+      },
+      "nextSceneId": "hastings-1066-scene-003",
+      "stateChanges": [
+        { "variable": "normanMorale", "operation": "add", "value": 15 },
+        { "variable": "cavalryStrength", "operation": "add", "value": -10 },
+        { "variable": "haroldPosition", "operation": "add", "value": -30 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Commit the archers. Order them to fire high volleys over the shield wall to rain arrows down on the English from above, then send the cavalry in during the chaos.",
+        "ja": "弓兵を投入する。盾の壁を越えて高角度で斉射し、イングランド軍に上から矢の雨を降らせ、混乱の中で騎兵を突入させる。",
+        "zh-CN": "投入弓箭手。命令他们高角度齐射，让箭雨越过盾墙从上方倾泻在英格兰人头上，然后在混乱中派骑兵冲击。"
+      },
+      "historicalContext": "A variation on the historical approach — William did use archers to fire over the shield wall later in the battle, but combining it with an immediate cavalry follow-up was a risky escalation.",
+      "outcomePrompt": {
+        "en": "You order the archers forward and command them to aim high — not at the shields, but over them, so the arrows fall on the men behind. The volleys arc overhead and descend into the packed English ranks. Men who cannot see the arrows coming begin to fall. Confusion spreads. You launch the cavalry at the exact moment the third volley lands. The knights crash into the shield wall while the English are still flinching from the arrows. A section of the wall buckles. But your archers are now out of arrows entirely, and the cavalry has taken further losses in the assault. Everything now depends on the final push.",
+        "ja": "弓兵を前進させ、高く狙うよう命じる——盾ではなく、盾を越えて、矢が背後の兵に落ちるようにする。矢の斉射が頭上を弧を描いて密集したイングランド兵の列に降り注ぐ。矢が来るのが見えない兵士たちが倒れ始める。混乱が広がる。三度目の斉射が着弾した瞬間に騎兵を突入させる。騎士たちはイングランド兵がまだ矢に身をすくめている間に盾の壁に激突する。壁の一部がたわむ。しかし弓兵は完全に矢が尽き、騎兵は突撃でさらなる損害を受けた。すべては最後の総攻撃にかかっている。",
+        "zh-CN": "您命令弓箭手前进并瞄高射击——不是射盾牌，而是越过盾墙，让箭矢落在后方的士兵身上。箭矢呈弧形越过头顶，落入密集的英格兰阵列中。看不到箭矢飞来的士兵开始倒下。混乱蔓延。您在第三波齐射落下的瞬间发动骑兵冲锋。骑士们在英格兰人还在躲避箭雨时撞入盾墙。一段墙体动摇了。但您的弓箭手现在已完全耗尽箭矢，骑兵在冲击中又遭受了更多损失。一切取决于最后的冲击。"
+      },
+      "nextSceneId": "hastings-1066-scene-003",
+      "stateChanges": [
+        { "variable": "normanMorale", "operation": "add", "value": 5 },
+        { "variable": "cavalryStrength", "operation": "add", "value": -20 },
+        { "variable": "haroldPosition", "operation": "add", "value": -25 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

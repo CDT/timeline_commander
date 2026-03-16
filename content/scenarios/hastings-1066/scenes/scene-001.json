@@ -1,0 +1,109 @@
+{
+  "id": "hastings-1066-scene-001",
+  "scenarioId": "hastings-1066",
+  "title": "Landing at Pevensey",
+  "date": {
+    "en": "September 28, 1066",
+    "ja": "1066年9月28日",
+    "zh-CN": "1066年9月28日"
+  },
+  "location": {
+    "en": "Pevensey, Sussex Coast, England",
+    "ja": "イングランド、サセックス海岸、ペヴェンジー",
+    "zh-CN": "英格兰苏塞克斯海岸佩文西"
+  },
+  "narrativePrompt": {
+    "en": "William's fleet has crossed the Channel and landed at Pevensey without opposition. The old Roman fort provides some initial shelter, but this is hostile territory. Harold Godwinson is far to the north, dealing with the Norwegian invasion, but he will turn south as soon as he learns of your landing. Your scouts report the countryside is rich but the local population is hostile. You must decide how to use the days before Harold arrives: fortify your beachhead and wait, or advance inland to seize a stronger position and force Harold to come to you on your terms. Bishop Odo urges aggression; your more cautious barons counsel patience.",
+    "ja": "ウィリアムの艦隊がイギリス海峡を渡り、無抵抗のままペヴェンジーに上陸しました。古いローマの砦がいくらかの避難場所を提供しますが、ここは敵地です。ハロルド・ゴドウィンソンは遠く北方でノルウェーの侵攻に対処していますが、あなたの上陸を知れば直ちに南に転じるでしょう。斥候の報告では田園地帯は豊かですが、地元住民は敵対的です。ハロルドが到着するまでの数日をどう使うか決めなければなりません：橋頭堡を要塞化して待つか、内陸に進出してより強固な陣地を確保し、ハロルドをこちらの条件で引き寄せるか。オド司教は攻勢を強く求め、より慎重な男爵たちは忍耐を勧めます。",
+    "zh-CN": "威廉的舰队已渡过海峡，在佩文西未遭抵抗便登陆。古罗马堡垒提供了一些初步掩护，但这是敌方领土。哈罗德·戈德温森远在北方应对挪威入侵，但一旦得知您登陆的消息就会南下。您的斥候报告乡间物产丰富，但当地居民怀有敌意。您必须决定在哈罗德到来之前的这几天如何利用：加固桥头堡静待，还是向内陆推进占据更有利的阵地，迫使哈罗德按您的条件前来应战。奥多主教力主进攻；更为谨慎的男爵们建议耐心等待。"
+  },
+  "situationReport": [
+    {
+      "en": "Seven hundred ships have landed safely; the army is disembarking horses and supplies",
+      "ja": "七百隻の船が無事上陸し、軍が馬と物資を下ろしている",
+      "zh-CN": "七百艘船已安全靠岸；军队正在卸下战马和物资"
+    },
+    {
+      "en": "Harold is at Stamford Bridge — at least 400 km to the north",
+      "ja": "ハロルドはスタンフォード・ブリッジにいる——北方少なくとも400km",
+      "zh-CN": "哈罗德在斯坦福桥——至少在北方400公里以外"
+    },
+    {
+      "en": "The old Roman fort at Pevensey offers a defensible position but is too small for the entire army",
+      "ja": "ペヴェンジーの古いローマ砦は防御可能だが、全軍を収容するには小さすぎる",
+      "zh-CN": "佩文西的古罗马堡垒可供防御但太小，容纳不下全部军队"
+    },
+    {
+      "en": "Local Saxon thegns have begun organizing militia resistance in the surrounding villages",
+      "ja": "地元のサクソン貴族が周辺の村で民兵の抵抗を組織し始めている",
+      "zh-CN": "当地撒克逊贵族已开始在周围村庄组织民兵抵抗"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Establish a secure base of operations on English soil",
+      "ja": "イングランドの地に安全な作戦基地を確立する",
+      "zh-CN": "在英格兰土地上建立安全的行动基地"
+    },
+    {
+      "en": "Prepare the army for battle before Harold arrives from the north",
+      "ja": "ハロルドが北方から到着する前に軍を戦闘準備させる",
+      "zh-CN": "在哈罗德从北方赶来之前做好军队的战斗准备"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your horses are weakened from the Channel crossing and need time to recover",
+      "ja": "馬はイギリス海峡横断で衰弱しており、回復に時間が必要",
+      "zh-CN": "您的战马因渡海而虚弱，需要时间恢复"
+    },
+    {
+      "en": "Advancing too far from the coast risks being cut off from your fleet and Normandy",
+      "ja": "海岸から離れすぎると、艦隊とノルマンディーから遮断される危険がある",
+      "zh-CN": "过度深入内陆有被切断与舰队及诺曼底联系的风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Advance inland to Hastings. Build a castle there, ravage the countryside, and force Harold to fight on ground of your choosing.",
+        "ja": "ヘイスティングズに内陸進出する。城を築き、田園地帯を荒らし、ハロルドを自分が選んだ地で戦わせる。",
+        "zh-CN": "向内陆推进至黑斯廷斯。在那里修建城堡，劫掠乡村，迫使哈罗德在您选定的地形上作战。"
+      },
+      "historicalContext": "The historical choice — William moved to Hastings and built a motte-and-bailey castle, deliberately provoking Harold by ravaging his family's estates in Sussex.",
+      "outcomePrompt": {
+        "en": "You march your army east to Hastings, a more strategic position with a natural harbor. Your men construct a motte-and-bailey castle in days. You deliberately ravage the surrounding estates — which happen to belong to Harold's family — knowing word will reach him and compel him to rush south in anger. The strategy works. Messengers report Harold has left London with his army, marching at punishing speed. He is coming to you, exhausted and furious, exactly as you planned.",
+        "ja": "軍をヘイスティングズに東進させる。天然の港を持つより戦略的な位置だ。数日で兵士たちがモット・アンド・ベイリー城を築く。周辺の領地——偶然にもハロルドの一族のものだ——を意図的に荒らす。この知らせがハロルドに届き、怒りにかられて南に急行せざるを得なくなることを承知の上だ。作戦は成功する。伝令が報告する——ハロルドは軍とともにロンドンを出発し、懲罰的な速度で行軍している。彼は計画通り、疲弊し激怒してあなたのもとへ向かっている。",
+        "zh-CN": "您率军东进至黑斯廷斯，那里有天然港口，战略位置更优。士兵们在数天内修建了一座城堡。您故意劫掠周围的庄园——恰好属于哈罗德的家族——知道消息会传到他耳中，迫使他愤怒地急速南下。策略奏效了。信使报告哈罗德已带军离开伦敦，以惩罚性的速度行军。他正朝您而来，精疲力竭又怒火中烧，一切如您所谋。"
+      },
+      "nextSceneId": "hastings-1066-scene-002",
+      "stateChanges": [
+        { "variable": "normanMorale", "operation": "add", "value": 10 },
+        { "variable": "supplyLines", "operation": "add", "value": 15 },
+        { "variable": "haroldPosition", "operation": "add", "value": -40 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Fortify Pevensey and wait. Let the horses recover fully and build up supplies before seeking battle.",
+        "ja": "ペヴェンジーを要塞化して待つ。戦いを求める前に馬を完全に回復させ、補給を蓄積する。",
+        "zh-CN": "加固佩文西并等待。在寻求战斗之前让战马完全恢复并囤积物资。"
+      },
+      "historicalContext": "A counterfactual — staying at Pevensey would have been safer but risked allowing Harold time to gather the full strength of England.",
+      "outcomePrompt": {
+        "en": "You order the army to dig in at Pevensey. The Roman walls are strengthened, horses are rested and fed, and supply ships make additional crossings from Normandy. Your position grows stronger by the day. But so does Harold's. Without the provocation of ravaged estates, Harold takes time to gather reinforcements in London. When he finally marches south two weeks later, he brings a larger army than he would have otherwise — including fresh levies from the Midlands that he had no time to summon in the historical timeline.",
+        "ja": "軍にペヴェンジーで防御を固めるよう命令する。ローマの城壁が強化され、馬が休息と餌を得、補給船がノルマンディーから追加の横断を行う。あなたの態勢は日ごとに強くなる。しかしハロルドの態勢も同様だ。荒らされた領地という挑発がなければ、ハロルドはロンドンで増援を集める時間を得る。2週間後にようやく南に行軍する時、歴史上の時間軸では召集する暇がなかったミッドランドからの新兵を含む、より大きな軍を率いてくる。",
+        "zh-CN": "您命令军队在佩文西坚守。罗马城墙得到加固，战马得到休息和喂养，补给船从诺曼底进行了更多次渡海运输。您的阵地日益巩固。但哈罗德也是如此。没有庄园被劫掠的刺激，哈罗德花时间在伦敦集结增援部队。当他两周后终于南下时，带来了一支比原本更庞大的军队——包括在历史时间线中他来不及征召的中部地区新兵。"
+      },
+      "nextSceneId": "hastings-1066-scene-002",
+      "stateChanges": [
+        { "variable": "cavalryStrength", "operation": "add", "value": 15 },
+        { "variable": "supplyLines", "operation": "add", "value": 25 },
+        { "variable": "haroldPosition", "operation": "add", "value": -20 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

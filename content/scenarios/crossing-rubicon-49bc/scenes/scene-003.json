@@ -1,0 +1,115 @@
+{
+  "id": "crossing-rubicon-49bc-scene-003",
+  "scenarioId": "crossing-rubicon-49bc",
+  "title": {
+    "en": "The Empty Senate",
+    "ja": "空の元老院",
+    "zh-CN": "空荡的元老院"
+  },
+  "date": {
+    "en": "February 21, 49 BC",
+    "ja": "紀元前49年2月21日",
+    "zh-CN": "公元前49年2月21日"
+  },
+  "location": {
+    "en": "Rome, the Senate House",
+    "ja": "ローマ、元老院議事堂",
+    "zh-CN": "罗马，元老院议事堂"
+  },
+  "narrativePrompt": {
+    "en": "Caesar stands in the near-empty Roman Senate. Most of the senior senators have fled with Pompey. The treasury has been seized. Italy is effectively under Caesar's control with virtually no bloodshed — his policy of clemency has been remarkably successful. But the war is far from over. Pompey has escaped across the Adriatic to Greece, where he commands the loyalty of the eastern provinces and their enormous military resources. He is already assembling an army that will dwarf Caesar's forces. Caesar faces a strategic choice that will shape the rest of the civil war. He can pursue Pompey east immediately, before Pompey's army is fully assembled — but this means leaving Spain, where Pompey has seven veteran legions under loyal commanders, as a threat in his rear. Alternatively, he can march west to Spain first, eliminating Pompey's western forces before turning east to face the man himself. Either way, Caesar must also decide how to govern Rome in his absence — and whether mercy or severity will better secure his position.",
+    "ja": "カエサルはほぼ空のローマ元老院に立っている。上級元老院議員のほとんどはポンペイウスと共に逃亡した。国庫は押さえた。イタリアは事実上ほとんど流血なしにカエサルの支配下にある——彼の寛大さの方針は驚くほど成功した。しかし戦争は終わりからほど遠い。ポンペイウスはアドリア海を渡ってギリシアに脱出し、東方属州の忠誠とその膨大な軍事資源を掌握している。彼はすでにカエサルの軍をはるかに凌ぐ軍を集めつつある。カエサルは内戦の残りを形作る戦略的選択に直面している。ポンペイウスの軍が完全に集結する前に、直ちに東のポンペイウスを追撃することができる——しかしこれはスペインに、忠実な指揮官の下にポンペイウスの精鋭7個軍団を背後の脅威として残すことを意味する。あるいは、まず西のスペインに行軍し、ポンペイウスの西方軍を排除してから東に向かい、本人と対決することもできる。いずれにせよ、カエサルは自分の不在中にローマをどう統治するか、そして寛大さと厳格さのどちらが自分の地位をより確かなものにするかも決めなければならない。",
+    "zh-CN": "恺撒站在几乎空无一人的罗马元老院中。大多数资深元老已随庞培逃离。国库已被夺取。意大利实际上已在恺撒的控制之下，几乎未流一滴血——他的宽赦政策取得了显著成功。但战争远未结束。庞培已渡过亚得里亚海逃往希腊，在那里他掌控着东方行省的效忠及其庞大的军事资源。他已在集结一支远超恺撒兵力的军队。恺撒面临一个将影响内战走向的战略选择。他可以在庞培的军队完全集结前立即向东追击——但这意味着把西班牙留在身后作为威胁，那里庞培有七个老兵军团在忠诚的指挥官麾下。或者，他可以先向西进军西班牙，消除庞培的西部力量，然后再东进面对庞培本人。无论如何，恺撒还必须决定他不在时如何治理罗马——以及仁慈还是严厉更能巩固他的地位。"
+  },
+  "situationReport": [
+    {
+      "en": "Caesar controls Italy and Rome; Pompey has escaped to Greece with the Senate leadership",
+      "ja": "カエサルはイタリアとローマを支配。ポンペイウスは元老院指導部と共にギリシアに脱出",
+      "zh-CN": "恺撒控制了意大利和罗马；庞培已携元老院领导层逃往希腊"
+    },
+    {
+      "en": "Pompey commands the loyalty of the eastern provinces and is assembling a massive army in Greece",
+      "ja": "ポンペイウスは東方属州の忠誠を掌握し、ギリシアで大規模な軍を集めている",
+      "zh-CN": "庞培掌控东方行省的效忠，正在希腊集结庞大军队"
+    },
+    {
+      "en": "Seven Pompeian legions remain in Spain under commanders Afranius and Petreius",
+      "ja": "アフラニウスとペトレイウス指揮下の7個ポンペイウス軍団がスペインに残っている",
+      "zh-CN": "七个庞培军团留在西班牙，由阿弗拉尼乌斯和佩特雷乌斯指挥"
+    },
+    {
+      "en": "Caesar's clemency has won broad public support across Italy but has not won over the Senate",
+      "ja": "カエサルの寛大さはイタリア全土で広範な公衆の支持を獲得したが、元老院の支持は得られていない",
+      "zh-CN": "恺撒的宽赦政策赢得了意大利各地广泛的民众支持，但未能赢得元老院的认同"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Choose the strategic direction for the next phase of the civil war",
+      "ja": "内戦の次の段階の戦略的方向を選択する",
+      "zh-CN": "为内战下一阶段选择战略方向"
+    },
+    {
+      "en": "Establish a governing arrangement for Rome during your absence",
+      "ja": "不在中のローマの統治体制を確立する",
+      "zh-CN": "为您不在期间的罗马建立治理安排"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Every month of delay allows Pompey to grow stronger in the east",
+      "ja": "遅延する1ヶ月ごとにポンペイウスが東方で強くなる",
+      "zh-CN": "每拖延一个月都让庞培在东方变得更强大"
+    },
+    {
+      "en": "Leaving Pompey's Spanish legions intact in your rear is a grave strategic risk",
+      "ja": "ポンペイウスのスペイン軍団をそのまま背後に残すことは重大な戦略的リスクである",
+      "zh-CN": "将庞培在西班牙的军团完好地留在身后是严重的战略风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "March west to Spain first. Eliminate Pompey's legions there before turning east. 'I go to face an army without a general, then I shall face a general without an army.'",
+        "ja": "まず西のスペインに進軍する。東に向かう前にそこのポンペイウスの軍団を排除する。「将軍のいない軍に向かい、次に軍のいない将軍に向かう。」",
+        "zh-CN": "先向西进军西班牙。在东进之前消灭那里的庞培军团。'我先去面对没有将军的军队，然后再去面对没有军队的将军。'"
+      },
+      "historicalContext": "The historical choice — Caesar went to Spain first, defeating Pompey's legions at Ilerda, then crossed to Greece.",
+      "outcomePrompt": {
+        "en": "Caesar makes his famous declaration and marches west. He leaves Mark Antony in charge of Italy and appoints Lepidus to manage Rome. The Spanish campaign is brilliantly executed — at Ilerda, Caesar maneuvers Pompey's legions into a position where they must surrender without a major battle, conserving his own forces. Within forty days, Spain is secured. Caesar returns to Rome, is appointed dictator for eleven days — just long enough to pass emergency legislation and hold elections — then resigns the office and prepares to cross to Greece. He has eliminated the threat at his back, won the loyalty of Pompey's former Spanish legions, and demonstrated to all of Rome that he fights with mercy and efficiency. But Pompey has used the months well. In Greece, he now commands an army of nine legions and a fleet that controls the Adriatic. The decisive confrontation lies ahead.",
+        "ja": "カエサルは有名な宣言を行い西へ進軍する。マルクス・アントニウスにイタリアの管理を任せ、レピドゥスにローマの管理を任命する。スペイン遠征は見事に遂行される——イレルダでカエサルはポンペイウスの軍団を大規模な戦闘なしに降伏せざるを得ない位置に追い込み、自軍の戦力を温存する。40日以内にスペインは確保される。カエサルはローマに戻り、11日間独裁官に任命される——緊急立法を通過させ選挙を行うのにちょうど十分な期間——その後辞任し、ギリシアへの渡海を準備する。彼は背後の脅威を排除し、ポンペイウスの旧スペイン軍団の忠誠を勝ち取り、ローマ全体に寛大さと効率で戦うことを示した。しかしポンペイウスはこの数ヶ月をうまく使った。ギリシアで彼は今や9個軍団とアドリア海を支配する艦隊を指揮している。決定的な対決が待っている。",
+        "zh-CN": "恺撒说出了那句名言，向西进军。他将马克·安东尼留下管理意大利，任命雷必达管理罗马事务。西班牙战役执行得极为出色——在伊莱尔达，恺撒将庞培的军团机动到不得不投降的位置，避免了大规模战斗，保存了自己的兵力。四十天内西班牙得以平定。恺撒返回罗马，被任命为独裁官十一天——刚好够通过紧急立法和举行选举——然后辞去职务，准备渡海前往希腊。他消除了身后的威胁，赢得了庞培原西班牙军团的效忠，并向全罗马展示了他以仁慈和高效的方式作战。但庞培也充分利用了这几个月的时间。在希腊，他现在指挥着九个军团的大军和一支控制亚得里亚海的舰队。决定性的对决还在前方。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "legionLoyalty", "operation": "add", "value": 10 },
+        { "variable": "pompeyStrength", "operation": "add", "value": 10 },
+        { "variable": "publicSupport", "operation": "add", "value": 10 },
+        { "variable": "senateOpposition", "operation": "add", "value": -15 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Cross to Greece immediately and strike Pompey before his army is ready. Speed has won every engagement so far — do not stop now.",
+        "ja": "直ちにギリシアに渡りポンペイウスの軍が準備完了する前に攻撃する。速度がこれまでのすべての戦いで勝利してきた——今止まるな。",
+        "zh-CN": "立即渡海前往希腊，趁庞培军队尚未就绪发起打击。速度赢得了迄今为止的每一场战斗——不要停下来。"
+      },
+      "historicalContext": "A counterfactual — Caesar chose to deal with Spain first, which most historians consider strategically sound.",
+      "outcomePrompt": {
+        "en": "Caesar decides that speed remains his greatest weapon. He requisitions every available ship from the Italian ports and crosses the Adriatic in winter — a dangerous gamble that no Roman commander has attempted in living memory. The crossing is harrowing; storms scatter part of the fleet, and several transports are lost. But Caesar lands in Epirus with the core of his veteran force before Pompey expects him. The Pompeian fleet, caught off guard, fails to intercept the main body. Caesar establishes a beachhead at Apollonia. But his situation is precarious — he has fewer legions than Pompey, his supplies are limited, and seven hostile legions in Spain could march into Italy and cut him off from his base. Every decision from this point carries the risk of catastrophe. The war will be decided in Greece — but on Pompey's terms, not Caesar's.",
+        "ja": "カエサルは速度が依然として最大の武器であると判断する。イタリアの港から利用可能なすべての船を徴発し、冬にアドリア海を渡る——生存する記憶の中でどのローマ指揮官も試みたことのない危険な賭けだ。渡海は恐ろしい。嵐が艦隊の一部を散らし、数隻の輸送船が失われる。しかしカエサルはポンペイウスが予期する前にエピルスに歴戦部隊の中核と共に上陸する。不意を突かれたポンペイウスの艦隊は本隊の迎撃に失敗する。カエサルはアポロニアに橋頭堡を確立する。しかし彼の状況は不安定だ——ポンペイウスより少ない軍団、限られた補給、そしてスペインの7個敵対軍団がイタリアに進軍して彼を基地から切り離す可能性がある。この時点からのすべての決断が壊滅的リスクを伴う。戦争はギリシアで決着する——しかしカエサルの条件ではなく、ポンペイウスの条件で。",
+        "zh-CN": "恺撒判断速度仍然是他最大的武器。他征调意大利各港口所有可用船只，在冬季横渡亚得里亚海——这是在世人记忆中没有罗马指挥官尝试过的危险赌博。渡海过程惊心动魄；风暴打散了部分舰队，几艘运输船沉没。但恺撒在庞培预料之前带着老兵部队的主力登陆伊庇鲁斯。措手不及的庞培舰队未能拦截主力。恺撒在阿波罗尼亚建立了桥头堡。但他的处境岌岌可危——军团少于庞培，补给有限，西班牙的七个敌对军团随时可能进军意大利，切断他与后方基地的联系。从此刻起每个决定都伴随着灾难性风险。战争将在希腊决出胜负——但是按庞培的条件，而非恺撒的条件。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "legionLoyalty", "operation": "add", "value": 5 },
+        { "variable": "pompeyStrength", "operation": "add", "value": -15 },
+        { "variable": "publicSupport", "operation": "add", "value": -5 },
+        { "variable": "senateOpposition", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

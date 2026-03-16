@@ -1,0 +1,110 @@
+{
+  "id": "meiji-restoration-1868-scene-002",
+  "scenarioId": "meiji-restoration-1868",
+  "title": "The Battle of Toba-Fushimi",
+  "date": {
+    "en": "January 27, 1868",
+    "ja": "1868年1月27日",
+    "zh-CN": "1868年1月27日"
+  },
+  "location": {
+    "en": "Toba-Fushimi, south of Kyoto",
+    "ja": "京都南方、鳥羽・伏見",
+    "zh-CN": "京都以南鸟羽伏见"
+  },
+  "narrativePrompt": {
+    "en": "The Tokugawa army is marching on Kyoto. Fifteen thousand shogunate troops — Aizu, Kuwana, and other loyalist forces — advance along the roads from Osaka toward the imperial capital. Saigo Takamori commands roughly five thousand Satsuma and Choshu soldiers blocking their path at the narrow passages of Toba and Fushimi. The numbers are against him, but his troops carry modern Minie rifles and Armstrong guns supplied by the British, while many of the shogunate forces still rely on swords and outdated firearms. The young Emperor has granted the imperial banner to Saigo's forces, transforming any attack on them into treason against the throne. The battle will determine whether the Meiji Restoration survives its first week. Saigo must decide how to fight — a defensive stand exploiting modern firepower, or an aggressive counter-attack to shatter Tokugawa morale.",
+    "ja": "徳川軍が京都に進軍している。15,000の幕府軍——会津、桑名、その他の忠義軍——が大阪から帝都に向かう街道を進んでいる。西郷隆盛は鳥羽と伏見の狭い通路でその進路を阻む約5,000の薩摩・長州兵を指揮している。数の上では不利だが、彼の部隊はイギリスから供給されたミニエー銃とアームストロング砲を持ち、幕府軍の多くはまだ刀と旧式の銃火器に頼っている。若き天皇は西郷の軍に錦の御旗を授け、これにより彼らへの攻撃は天皇への反逆となった。この戦いが明治維新がその最初の週を生き延びるかどうかを決める。西郷は戦い方を決めなければならない——近代火力を活かした防御的な持久戦か、徳川の士気を粉砕する積極的な反撃か。",
+    "zh-CN": "德川大军正在向京都进发。一万五千名幕府军——会津、�的桑名及其他忠臣部队——沿大阪至帝都的道路推进。西乡隆盛指挥约五千萨摩和长州士兵在鸟羽和伏见的狭窄通道上阻截。兵力对比不利，但他的部队携带英国提供的现代米尼步枪和阿姆斯特朗炮，而许多幕府军仍然依赖刀剑和过时的火器。年轻的天皇已将锦旗授予西乡的部队，使任何对他们的攻击都成为对皇位的叛逆。这场战斗将决定明治维新能否挺过第一周。西乡必须决定如何作战——利用现代火力进行防御持久战，还是发动积极反击以粉碎德川军的士气。"
+  },
+  "situationReport": [
+    {
+      "en": "15,000 Tokugawa troops advancing on two roads toward Kyoto — contact expected within hours",
+      "ja": "15,000の徳川軍が二つの街道から京都に向かって進軍中——数時間以内に接触の見込み",
+      "zh-CN": "一万五千德川军沿两条道路向京都推进——预计数小时内接战"
+    },
+    {
+      "en": "Imperial forces hold the narrow defiles at Toba and Fushimi with modern weapons",
+      "ja": "官軍が近代兵器で鳥羽と伏見の狭隘な通路を確保",
+      "zh-CN": "官军以现代武器据守鸟羽和伏见的狭窄隘口"
+    },
+    {
+      "en": "The imperial banner (nishiki no mihata) has been displayed — attacking imperial forces is now formally treason",
+      "ja": "錦の御旗が掲げられた——官軍への攻撃は正式に反逆となった",
+      "zh-CN": "锦旗（锦の御旗）已展开——攻击官军现已正式构成叛逆"
+    },
+    {
+      "en": "Tosa Domain reinforcements are nearby but have not yet committed to the battle",
+      "ja": "土佐藩の援軍が近くにいるが、まだ戦闘に参加していない",
+      "zh-CN": "土佐藩援军在附近但尚未投入战斗"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Defeat the Tokugawa army and secure Kyoto for the imperial government",
+      "ja": "徳川軍を撃破し、天皇政府のために京都を確保する",
+      "zh-CN": "击败德川军，为天皇政府确保京都"
+    },
+    {
+      "en": "Demonstrate that the imperial cause has military as well as moral authority",
+      "ja": "天皇の大義が道義的権威だけでなく軍事力も持つことを示す",
+      "zh-CN": "证明天皇事业不仅具有道义权威，还拥有军事力量"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Losing this battle would likely end the Meiji Restoration before it truly begins",
+      "ja": "この戦いに敗れれば、明治維新は真に始まる前に終わる可能性が高い",
+      "zh-CN": "输掉这场战斗很可能在明治维新真正开始之前就将其终结"
+    },
+    {
+      "en": "Excessive casualties on either side may harden resistance and prolong the conflict",
+      "ja": "どちらの側であれ過度な死傷者は抵抗を強固にし、紛争を長期化させる可能性がある",
+      "zh-CN": "任何一方的过度伤亡都可能加剧抵抗、延长冲突"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Hold a defensive position. Let the Tokugawa forces attack into modern rifle and artillery fire at the narrows. The terrain and technology favor the defender.",
+        "ja": "防御陣地を堅持する。徳川軍を狭隘な通路で近代小銃と砲火に突撃させる。地形と技術が防御側に有利。",
+        "zh-CN": "坚守防御阵地。让德川军在隘口冲入现代步枪和炮火之中。地形和技术优势在防守方。"
+      },
+      "historicalContext": "Roughly the historical approach — imperial forces held defensive positions and used modern firepower to devastating effect.",
+      "outcomePrompt": {
+        "en": "The Tokugawa vanguard advances confidently, expecting to brush aside the smaller imperial force. They are met with a storm of Minie rifle fire that tears through their ranks at ranges their own weapons cannot match. The narrow roads at Toba become killing grounds. The Armstrong guns shatter formations before they can close. By evening, the shogunate forces have suffered hundreds of casualties and been driven back in confusion. The imperial banner flying over the battlefield convinces wavering domains — including Tosa — to declare for the Emperor. Yoshinobu receives reports of the disaster in Osaka and begins to waver. The first day belongs to the imperial side.",
+        "ja": "徳川の先鋒は自信を持って前進し、少数の官軍を蹴散らせると思っている。しかし彼らを待っていたのは、自軍の武器では届かない距離から隊列を引き裂くミニエー銃の嵐だった。鳥羽の狭い街道は殺戮の場と化す。アームストロング砲が接近前に隊形を粉砕する。夕方までに幕府軍は数百の死傷者を出し、混乱して後退した。戦場に翻る錦の御旗は動揺する藩——土佐を含む——を天皇への忠誠へと導いた。慶喜は大阪で惨事の報告を受け、動揺し始める。初日は官軍のものとなった。",
+        "zh-CN": "德川前锋自信地推进，以为能轻易击溃兵力较少的官军。等待他们的是米尼步枪的弹雨，在他们自己的武器无法企及的距离上撕裂队列。鸟羽的狭窄道路成为屠杀场。阿姆斯特朗炮在敌军近身前就粉碎了其队形。到傍晚，幕府军伤亡数百，混乱后撤。战场上飘扬的锦旗说服了动摇的各藩——包括土佐——宣布效忠天皇。庆喜在大阪收到惨败的报告，开始动摇。第一天属于官军。"
+      },
+      "nextSceneId": "meiji-restoration-1868-scene-003",
+      "stateChanges": [
+        { "variable": "shogunateStrength", "operation": "add", "value": -20 },
+        { "variable": "imperialSupport", "operation": "add", "value": 15 },
+        { "variable": "domainAlliance", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Launch a surprise counter-attack. Strike the Tokugawa column before it can deploy properly, aiming to rout them before they realize how outnumbered the imperial forces actually are.",
+        "ja": "奇襲的反撃を開始する。徳川軍が展開する前に攻撃し、官軍の実際の兵力がどれほど少ないか気づかれる前に潰走させることを目指す。",
+        "zh-CN": "发动突然反击。在德川纵队尚未完全展开前出击，力图在其意识到官军实际兵力之少前将其击溃。"
+      },
+      "historicalContext": "A counterfactual — an aggressive attack carried higher risk but could have been even more decisive.",
+      "outcomePrompt": {
+        "en": "Saigo orders his best Satsuma swordsmen forward in a dawn attack along the Fushimi road, supported by rifle companies on the flanks. The audacity of the assault stuns the Tokugawa vanguard — they expected to be the attackers, not the attacked. The first shogunate units break and flee, spreading panic through the column. But as the imperial forces push deeper, they encounter Aizu Domain veterans who fight with desperate courage. The battle becomes fierce and costly on both sides. By noon, the Tokugawa army is in retreat, but Saigo's forces have taken heavier casualties than a defensive approach would have cost. The victory is emphatic but expensive.",
+        "ja": "西郷は鳥羽街道の黎明攻撃で最精鋭の薩摩の剣士を前進させ、側面を銃兵中隊で支援する。攻撃の大胆さに徳川の先鋒は呆然とする——彼らは攻撃する側であって攻撃される側ではないはずだった。最初の幕府軍部隊は崩壊して逃走し、縦隊全体にパニックが広がる。しかし官軍が深く進むと、死に物狂いの勇気で戦う会津藩の精鋭に遭遇する。戦闘は激烈を極め、双方に大きな損害が出る。正午までに徳川軍は撤退したが、西郷の部隊は防御的なアプローチよりも多い死傷者を出した。勝利は圧倒的だが、代償も大きかった。",
+        "zh-CN": "西乡命令最精锐的萨摩剑士在黎明时分沿伏见道发动进攻，两翼由步枪连支援。进攻的大胆令德川前锋目瞪口呆——他们预期自己是进攻方，而非被攻击方。最初的幕府部队崩溃逃散，恐慌蔓延至整个纵队。但随着官军深入推进，他们遭遇了以拼死勇气作战的会津藩老兵。战斗变得激烈，双方损失惨重。到中午，德川军已在撤退，但西乡的部队承受了比防御战更大的伤亡。胜利是决定性的，但代价高昂。"
+      },
+      "nextSceneId": "meiji-restoration-1868-scene-003",
+      "stateChanges": [
+        { "variable": "shogunateStrength", "operation": "add", "value": -25 },
+        { "variable": "imperialSupport", "operation": "add", "value": 10 },
+        { "variable": "domainAlliance", "operation": "add", "value": 5 },
+        { "variable": "foreignPressure", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

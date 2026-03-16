@@ -1,0 +1,114 @@
+{
+  "id": "midway-1942-scene-001",
+  "scenarioId": "midway-1942",
+  "title": {
+    "en": "The Intelligence Gamble",
+    "ja": "情報の賭け",
+    "zh-CN": "情报的豪赌"
+  },
+  "date": {
+    "en": "Late May 1942",
+    "ja": "1942年5月下旬",
+    "zh-CN": "1942年5月下旬"
+  },
+  "location": {
+    "en": "Pacific Fleet Headquarters, Pearl Harbor, Hawaii",
+    "ja": "太平洋艦隊司令部、真珠湾、ハワイ",
+    "zh-CN": "太平洋舰队司令部，珍珠港，夏威夷"
+  },
+  "narrativePrompt": {
+    "en": "Admiral Nimitz stares at the wall-sized chart of the Pacific in his office at Pearl Harbor. Commander Rochefort's codebreakers at Station HYPO have delivered their most consequential analysis yet: the Japanese navy is preparing a massive operation against Midway Atoll, designated 'AF' in their communications. The date, the forces involved, even the approach vectors — Rochefort claims to have it all. But Washington's rival intelligence office, OP-20-G, vehemently disagrees, insisting the real target could be Hawaii itself, the West Coast, or even the Panama Canal. Nimitz has three carriers — Enterprise, Hornet, and a hastily patched Yorktown. If Rochefort is right and Nimitz commits everything to Midway, the Americans can spring a devastating ambush. If Rochefort is wrong, those three carriers sail into empty ocean while the Japanese strike an undefended target. There are no replacements. These are the last fleet carriers in the Pacific.",
+    "ja": "ニミッツ提督は真珠湾の執務室で壁一面の太平洋海図を見つめている。ステーション・ハイポのロシュフォール少佐率いる暗号解読チームが、最も重大な分析結果を報告してきた。日本海軍が通信で「AF」と呼称するミッドウェー環礁に対し、大規模作戦を準備しているという。日時、投入兵力、接近経路まで——ロシュフォールはすべてを把握したと主張する。しかしワシントンの競合する情報機関OP-20-Gは激しく反対し、真の標的はハワイそのもの、西海岸、あるいはパナマ運河だと主張している。ニミッツの手元にある空母は3隻——エンタープライズ、ホーネット、そして応急修理を施したヨークタウン。もしロシュフォールが正しく、全戦力をミッドウェーに投入すれば、壊滅的な待ち伏せを仕掛けられる。もし間違っていれば、3隻の空母は何もない海域へ向かい、日本軍は無防備な標的を攻撃する。代わりはいない。これらが太平洋最後の正規空母なのだ。",
+    "zh-CN": "尼米兹上将在珍珠港办公室里凝视着墙面大小的太平洋海图。罗彻福特少校领导的海波站密码破译团队送来了迄今最重大的分析结果：日本海军正在准备对中途岛环礁发动大规模作战，在通信中将其代号为'AF'。日期、投入兵力、甚至接近航线——罗彻福特声称全部掌握。然而华盛顿的竞争情报机构OP-20-G强烈反对，坚持认为真正的目标可能是夏威夷本身、西海岸、甚至巴拿马运河。尼米兹手中有三艘航母——企业号、大黄蜂号和仓促修补的约克城号。如果罗彻福特是对的，尼米兹将全部力量投入中途岛，美军就能发动毁灭性的伏击。如果罗彻福特错了，这三艘航母将驶向空无一物的海域，而日本人攻击不设防的目标。没有替补。这些是太平洋最后的舰队航母。"
+  },
+  "situationReport": [
+    {
+      "en": "Station HYPO has identified 'AF' as Midway through the water shortage ruse — Japanese intercepts confirm it",
+      "ja": "ステーション・ハイポが水不足の策略で「AF」がミッドウェーであると特定——日本の傍受通信がそれを確認",
+      "zh-CN": "海波站通过淡水短缺计谋确认'AF'即中途岛——日本截获通信证实了这一点"
+    },
+    {
+      "en": "Washington's OP-20-G disputes Rochefort's analysis and recommends holding carriers back to defend Hawaii",
+      "ja": "ワシントンのOP-20-Gがロシュフォールの分析に異議を唱え、ハワイ防衛のため空母を温存することを推奨",
+      "zh-CN": "华盛顿的OP-20-G质疑罗彻福特的分析，建议将航母留守保卫夏威夷"
+    },
+    {
+      "en": "USS Yorktown is undergoing emergency repairs at Pearl Harbor — dockyard workers estimate three months, but Nimitz has demanded three days",
+      "ja": "ヨークタウンが真珠湾で緊急修理中——造船所は3ヶ月と見積もるが、ニミッツは3日を要求した",
+      "zh-CN": "约克城号正在珍珠港紧急修复——船坞工人估计需要三个月，但尼米兹要求三天内完成"
+    },
+    {
+      "en": "Japanese forces are also mounting a diversionary operation against the Aleutian Islands",
+      "ja": "日本軍はアリューシャン列島への陽動作戦も同時に展開している",
+      "zh-CN": "日本军队还在同时对阿留申群岛发动佯攻行动"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Determine the correct deployment of American carrier forces based on available intelligence",
+      "ja": "入手可能な情報に基づいてアメリカ空母戦力の正確な配置を決定する",
+      "zh-CN": "根据现有情报确定美国航母力量的正确部署"
+    },
+    {
+      "en": "Maximize the chance of intercepting the Japanese fleet while minimizing risk to irreplaceable carriers",
+      "ja": "代替不能な空母へのリスクを最小限に抑えつつ、日本艦隊迎撃の機会を最大化する",
+      "zh-CN": "在将不可替代的航母风险降至最低的同时，最大限度提高拦截日本舰队的机会"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Only three carriers are available — Enterprise, Hornet, and the damaged Yorktown",
+      "ja": "使用可能な空母はエンタープライズ、ホーネット、損傷したヨークタウンの3隻のみ",
+      "zh-CN": "仅有三艘航母可用——企业号、大黄蜂号和受损的约克城号"
+    },
+    {
+      "en": "If the intelligence is wrong and all carriers are sent to Midway, Hawaii and the West Coast are exposed",
+      "ja": "情報が誤りで全空母をミッドウェーに送れば、ハワイと西海岸が無防備になる",
+      "zh-CN": "如果情报有误且所有航母都派往中途岛，夏威夷和西海岸将暴露无防"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Trust the codebreakers completely. Send all three carriers to Midway and set an ambush northeast of the atoll. If Rochefort is right, we catch Nagumo's fleet by surprise.",
+        "ja": "暗号解読者を全面的に信頼する。3隻の空母すべてをミッドウェーに送り、環礁の北東に待ち伏せを配置する。ロシュフォールが正しければ、南雲の艦隊を奇襲できる。",
+        "zh-CN": "完全信任密码破译人员。将全部三艘航母派往中途岛，在环礁东北方设伏。如果罗彻福特是对的，我们就能出其不意地打击南云的舰队。"
+      },
+      "historicalContext": "The historical choice — Nimitz trusted Rochefort and committed all three carriers to the ambush at Midway.",
+      "outcomePrompt": {
+        "en": "Nimitz makes the decision that will define the Pacific War. All three carriers — Task Force 16 under Spruance with Enterprise and Hornet, and Task Force 17 under Fletcher with the miraculously repaired Yorktown — sail for 'Point Luck,' a position northeast of Midway chosen to spring the trap. The crews know nothing of the intelligence breakthrough. They know only that they are sailing toward the enemy. On June 3rd, a PBY Catalina spots the Japanese invasion fleet approaching from the southwest. Rochefort was right. The Japanese are coming, and they have no idea the American carriers are waiting for them. The ambush is set. Everything now depends on the execution.",
+        "ja": "ニミッツが太平洋戦争を決定づける決断を下す。3隻の空母すべて——スプルーアンス率いる第16任務部隊のエンタープライズとホーネット、フレッチャー率いる第17任務部隊の奇跡的に修理されたヨークタウン——が罠を仕掛けるためにミッドウェー北東の「ラックポイント」に向けて出港する。乗組員たちは情報上の突破を知らない。敵に向かって航行していることだけを知っている。6月3日、PBYカタリナ飛行艇が南西から接近する日本の侵攻艦隊を発見する。ロシュフォールは正しかった。日本軍が来ており、アメリカの空母が待ち構えていることを全く知らない。待ち伏せは整った。すべては作戦遂行にかかっている。",
+        "zh-CN": "尼米兹做出了将定义太平洋战争的决定。全部三艘航母——斯普鲁恩斯指挥的第16特遣舰队（企业号和大黄蜂号）以及弗莱彻指挥的第17特遣舰队（奇迹般修复的约克城号）——驶向'幸运点'，一个位于中途岛东北方、专为设伏而选定的位置。船员们对情报突破一无所知，他们只知道正在驶向敌人。6月3日，一架PBY卡特琳娜巡逻机发现日本入侵舰队从西南方接近。罗彻福特是对的。日本人正在逼近，而他们完全不知道美国航母正在等待他们。伏击已就绪。一切取决于执行。"
+      },
+      "nextSceneId": "midway-1942-scene-002",
+      "stateChanges": [
+        { "variable": "codebreakingAdvantage", "operation": "add", "value": 10 },
+        { "variable": "carrierStrength", "operation": "add", "value": 15 },
+        { "variable": "japaneseOverconfidence", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Hedge the bet. Send Enterprise and Hornet to Midway, but keep the damaged Yorktown near Hawaii as a reserve in case the codebreakers are wrong.",
+        "ja": "賭けを分散させる。エンタープライズとホーネットをミッドウェーに送るが、暗号解読者が間違っていた場合に備え、損傷したヨークタウンをハワイ近くに予備として残す。",
+        "zh-CN": "分散风险。派企业号和大黄蜂号前往中途岛，但将受损的约克城号留在夏威夷附近作为预备队，以防密码破译人员判断有误。"
+      },
+      "historicalContext": "A counterfactual — Nimitz historically committed all three carriers despite the risk.",
+      "outcomePrompt": {
+        "en": "Nimitz compromises. Enterprise and Hornet sail for Midway under Spruance, but Yorktown remains near Oahu with orders to sortie if the intelligence proves correct. It is a cautious decision that satisfies Washington's concerns. When the Japanese fleet is spotted approaching Midway on June 3rd, Nimitz immediately radios Yorktown to proceed at best speed — but the damaged carrier is a full day's sailing behind. Spruance will face Nagumo's four fleet carriers with only two of his own. The ambush is set, but the odds have shifted. The margin for error that a third carrier would have provided is gone. Every torpedo, every bomb, every dive bomber sortie now carries double the weight.",
+        "ja": "ニミッツは妥協する。エンタープライズとホーネットがスプルーアンスの下でミッドウェーに向けて出港するが、ヨークタウンは情報が正しいと証明された場合に出撃する命令と共にオアフ島近くに留まる。ワシントンの懸念を満たす慎重な決断だ。6月3日に日本艦隊がミッドウェーに接近しているのが発見されると、ニミッツは直ちにヨークタウンに最大速力で前進するよう無線を送る——しかし損傷した空母は丸一日分の航行距離を遅れている。スプルーアンスは自らの2隻だけで南雲の正規空母4隻に対峙することになる。待ち伏せは整っているが、形勢は不利に傾いた。3隻目の空母が提供するはずだった誤差の余地が失われた。すべての魚雷、すべての爆弾、すべての急降下爆撃機の出撃が今や二倍の重みを持つ。",
+        "zh-CN": "尼米兹做出了折中决定。企业号和大黄蜂号在斯普鲁恩斯率领下驶往中途岛，但约克城号留在瓦胡岛附近，如果情报被证实正确则立即出击。这是一个满足华盛顿方面顾虑的谨慎决定。当6月3日日本舰队被发现正在接近中途岛时，尼米兹立即电令约克城号全速前进——但这艘受损的航母落后了整整一天的航程。斯普鲁恩斯将仅以两艘航母面对南云的四艘舰队航母。伏击已就位，但胜算已经改变。第三艘航母本可提供的容错空间消失了。每一枚鱼雷、每一颗炸弹、每一架俯冲轰炸机的出击现在都承载着双倍的分量。"
+      },
+      "nextSceneId": "midway-1942-scene-002",
+      "stateChanges": [
+        { "variable": "codebreakingAdvantage", "operation": "add", "value": 5 },
+        { "variable": "carrierStrength", "operation": "add", "value": -10 },
+        { "variable": "japaneseOverconfidence", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "roleFilter": ["nimitz-commander"],
+  "isTerminal": false
+}

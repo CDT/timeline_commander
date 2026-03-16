@@ -1,0 +1,65 @@
+{
+  "scenarioId": "zama-202bc",
+  "timeline": [
+    {
+      "date": "-203-01-01",
+      "description": {
+        "en": "Scipio's Roman expeditionary force, which landed in North Africa in 204 BC, has been campaigning successfully against Carthaginian forces and their Numidian allies. Scipio wins a decisive victory at the Battle of the Great Plains, destroying two Carthaginian armies.",
+        "ja": "紀元前204年に北アフリカに上陸したスキピオのローマ遠征軍は、カルタゴ軍とそのヌミディア同盟軍に対して成功裏に作戦を展開してきた。スキピオは大平原の戦いで決定的な勝利を収め、カルタゴの二つの軍を壊滅させる。",
+        "zh-CN": "西庇阿的罗马远征军于公元前204年登陆北非后，对迦太基军队及其努米底亚盟军展开了成功的作战。西庇阿在大平原之战中取得决定性胜利，摧毁了两支迦太基军队。"
+      }
+    },
+    {
+      "date": "-203-06-01",
+      "description": {
+        "en": "The Carthaginian Senate, desperate to save their homeland, recalls Hannibal from Italy after sixteen years of campaigning. Hannibal reluctantly leaves the land he has fought in since crossing the Alps, bringing his veteran troops by sea to Hadrumetum.",
+        "ja": "祖国を救うため絶望的になったカルタゴ元老院は、16年間の遠征の末ハンニバルをイタリアから召還する。ハンニバルはアルプスを越えて以来戦い続けた地を不本意ながら離れ、精鋭部隊を海路でハドルメトゥムに輸送する。",
+        "zh-CN": "迦太基元老院为挽救祖国，在汉尼拔征战十六年后将其从意大利召回。汉尼拔不情愿地离开了自翻越阿尔卑斯山以来一直战斗的土地，将精锐部队从海路运至哈德鲁梅图姆。"
+      }
+    },
+    {
+      "date": "-202-10-18",
+      "description": {
+        "en": "Hannibal and Scipio meet face to face for a pre-battle parley. Hannibal offers peace terms, but Scipio — confident in his position — rejects them. Both generals return to their camps to prepare for battle the following day.",
+        "ja": "ハンニバルとスキピオが戦前の会談で対面する。ハンニバルは和平条件を提示するが、自らの立場に自信を持つスキピオはこれを拒否する。両将軍は翌日の戦いに備えるため陣営に戻る。",
+        "zh-CN": "汉尼拔和西庇阿进行了战前会面。汉尼拔提出和平条件，但对自身处境充满信心的西庇阿予以拒绝。两位将领各自返回营地为次日的战斗做准备。"
+      }
+    },
+    {
+      "date": "-202-10-19",
+      "description": {
+        "en": "The Battle of Zama is fought. Hannibal opens with an elephant charge, but Scipio's troops create lanes in their formation, allowing the elephants to pass through harmlessly. Masinissa's Numidian cavalry routs the Carthaginian horsemen on both flanks. After a fierce infantry engagement, the Numidian cavalry returns to strike Hannibal's rear, completing the encirclement. The Carthaginian army is destroyed.",
+        "ja": "ザマの戦いが行われる。ハンニバルは象の突撃で開始するが、スキピオの部隊は陣形に通路を作り、象を無害に通過させる。マシニッサのヌミディア騎兵が両翼でカルタゴの騎兵を敗走させる。激しい歩兵戦の後、ヌミディア騎兵が戻ってハンニバルの背後を攻撃し、包囲を完成させる。カルタゴ軍は壊滅する。",
+        "zh-CN": "扎马战役爆发。汉尼拔以战象冲锋开场，但西庇阿的部队在阵型中开辟通道，让战象从中无害通过。马西尼萨的努米底亚骑兵在两翼击溃迦太基骑兵。经过激烈的步兵交战后，努米底亚骑兵返回攻击汉尼拔的后方，完成包围。迦太基军队被摧毁。"
+      }
+    },
+    {
+      "date": "-201-01-01",
+      "description": {
+        "en": "Carthage accepts Rome's peace terms, ending the Second Punic War. Carthage surrenders its fleet and elephants, pays 10,000 talents of silver over fifty years, and is forbidden from making war without Roman consent. Scipio returns to Rome in triumph and receives the cognomen 'Africanus'.",
+        "ja": "カルタゴがローマの和平条件を受け入れ、第二次ポエニ戦争が終結する。カルタゴは艦隊と象を引き渡し、50年間で10,000タラントの銀を支払い、ローマの同意なしの戦争を禁じられる。スキピオは凱旋してローマに帰還し、「アフリカヌス」の称号を受ける。",
+        "zh-CN": "迦太基接受罗马的和约条件，第二次布匿战争结束。迦太基交出舰队和战象，在五十年内支付一万塔兰特白银，未经罗马同意不得发动战争。西庇阿凯旋回到罗马，获得“阿非利加努斯“的称号。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Scipio won a complete victory at Zama, ending the Second Punic War and Carthage's status as a major Mediterranean power. Hannibal escaped the battlefield but acknowledged Scipio as the greatest general he had faced. The battle vindicated Scipio's bold African strategy and established the tactical template of combined arms — infantry holding the center while cavalry delivered the decisive blow from the flanks and rear.",
+    "ja": "スキピオはザマで完全な勝利を収め、第二次ポエニ戦争とカルタゴの地中海における大国としての地位を終わらせた。ハンニバルは戦場から逃れたが、スキピオを自分が対峙した最も偉大な将軍と認めた。この戦いはスキピオの大胆なアフリカ戦略を正当化し、歩兵が中央を支え騎兵が側面と背後から決定的打撃を与えるという諸兵科連合の戦術的テンプレートを確立した。",
+    "zh-CN": "西庇阿在扎马取得了完全胜利，结束了第二次布匿战争以及迦太基作为地中海主要强国的地位。汉尼拔从战场逃脱，但承认西庇阿是他所面对过的最伟大的将领。这场战役证明了西庇阿大胆的非洲战略的正确性，并确立了诸兵种协同作战的战术范式——步兵坚守中央，骑兵从侧翼和后方发起决定性打击。"
+  },
+  "casualties": {
+    "en": "Carthage: approximately 20,000 killed and 20,000 captured. Rome: approximately 4,000-5,000 killed. Hannibal escaped with a small retinue.",
+    "ja": "カルタゴ：約20,000人戦死、20,000人捕虜。ローマ：約4,000〜5,000人戦死。ハンニバルは少数の随行者と共に脱出。",
+    "zh-CN": "迦太基：约20000人阵亡，20000人被俘。罗马：约4000-5000人阵亡。汉尼拔带少数随从逃脱。"
+  },
+  "significance": {
+    "en": "Zama ended Rome's greatest existential threat and established its dominance over the western Mediterranean. It demonstrated that Hannibal could be beaten in open battle by a general who matched his tactical creativity. Scipio's handling of the elephant charge and his use of cavalry for decisive flanking became textbook examples of ancient military tactics. The battle also marked the beginning of Carthage's decline as a power, leading eventually to its total destruction in the Third Punic War fifty years later.",
+    "ja": "ザマはローマにとって最大の存亡の危機を終わらせ、西地中海における覇権を確立した。ハンニバルの戦術的創造性に匹敵する将軍によって野戦で打ち破られ得ることを実証した。スキピオの象の突撃への対処と決定的な側面攻撃のための騎兵の運用は、古代軍事戦術の教科書的な実例となった。また、この戦いはカルタゴの勢力衰退の始まりを示し、50年後の第三次ポエニ戦争における完全な滅亡につながった。",
+    "zh-CN": "扎马结束了罗马面临的最大生存威胁，确立了其在西地中海的霸权。它证明了汉尼拔可以被一位在战术创造力上与之匹敌的将领在正面战斗中击败。西庇阿对战象冲锋的处置和利用骑兵进行决定性侧翼包围成为古代军事战术的经典范例。这场战役也标志着迦太基作为强国开始走向衰落，最终在五十年后的第三次布匿战争中被彻底摧毁。"
+  },
+  "furtherReading": [
+    "Adrian Goldsworthy — The Fall of Carthage: The Punic Wars 265–146 BC",
+    "Richard A. Gabriel — Scipio Africanus: Rome's Greatest General",
+    "Polybius — The Histories (Book XV)"
+  ]
+}

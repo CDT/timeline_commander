@@ -1,0 +1,73 @@
+{
+  "scenarioId": "waterloo-1815",
+  "timeline": [
+    {
+      "date": "1815-03-01",
+      "description": {
+        "en": "Napoleon escapes from Elba and lands in southern France with approximately 1,000 men. He marches north toward Paris, gathering support as soldiers and civilians rally to his cause.",
+        "ja": "ナポレオンがエルバ島から脱出し、約1,000人の兵とともに南フランスに上陸。兵士や市民が彼の大義に集結する中、パリに向かって北上する。",
+        "zh-CN": "拿破仑从厄尔巴岛逃脱，率约1000人在法国南部登陆。他向巴黎进军，沿途军民纷纷归附。"
+      }
+    },
+    {
+      "date": "1815-03-20",
+      "description": {
+        "en": "Napoleon enters Paris in triumph. Louis XVIII flees. The Hundred Days begin. The great powers of Europe immediately declare Napoleon an outlaw and begin mobilizing their armies.",
+        "ja": "ナポレオンがパリに凱旋入城。ルイ18世が逃亡。百日天下が始まる。ヨーロッパの列強は直ちにナポレオンを無法者と宣言し、軍の動員を開始する。",
+        "zh-CN": "拿破仑凯旋进入巴黎。路易十八出逃。百日王朝开始。欧洲列强立即宣布拿破仑为法外之徒并开始动员军队。"
+      }
+    },
+    {
+      "date": "1815-06-16",
+      "description": {
+        "en": "Napoleon defeats Blücher's Prussian army at the Battle of Ligny, inflicting heavy casualties. Simultaneously, Marshal Ney fights Wellington's forces to a standstill at Quatre Bras. Napoleon sends Grouchy to pursue the retreating Prussians.",
+        "ja": "ナポレオンがリニーの戦いでブリュッヒャーのプロイセン軍を撃破し、大きな損害を与える。同時にネイ元帥がカトル・ブラでウェリントン軍と膠着状態に。ナポレオンは退却するプロイセン軍の追撃にグルーシーを派遣する。",
+        "zh-CN": "拿破仑在林尼战役中击败布吕歇尔的普鲁士军队，造成重大伤亡。与此同时，内伊元帅在四臂村与威灵顿军队交战陷入僵持。拿破仑派格鲁希追击撤退的普鲁士军。"
+      }
+    },
+    {
+      "date": "1815-06-17",
+      "description": {
+        "en": "Wellington withdraws to a pre-selected defensive position on the ridge at Mont-Saint-Jean, south of Waterloo. Heavy rain falls throughout the evening and night, turning the ground to mud.",
+        "ja": "ウェリントンがワーテルロー南方のモン・サン・ジャンの尾根にある事前に選定した防御陣地に撤退。夕方から夜にかけて大雨が降り、地面が泥濘と化す。",
+        "zh-CN": "威灵顿撤退至预先选定的滑铁卢以南蒙圣让山脊防御阵地。傍晚至夜间下起大雨，地面变成泥沼。"
+      }
+    },
+    {
+      "date": "1815-06-18",
+      "description": {
+        "en": "The Battle of Waterloo. Napoleon delays his attack until nearly midday waiting for the ground to dry. The assault on Hougoumont consumes French forces. Ney's cavalry charges fail against Wellington's squares. Blücher arrives with Prussian forces in the late afternoon. The French Imperial Guard's final assault is repulsed. The French army collapses and flees.",
+        "ja": "ワーテルローの戦い。ナポレオンは地面が乾くのを待って正午近くまで攻撃を遅らせる。ウーグモンへの攻撃がフランス軍を消耗させる。ネイの騎兵突撃がウェリントンの方陣に対して失敗。午後遅くにブリュッヒャーがプロイセン軍とともに到着。フランス近衛軍の最後の突撃が撃退される。フランス軍は崩壊して逃走する。",
+        "zh-CN": "滑铁卢战役。拿破仑等待地面干燥，将进攻推迟至近午。对乌古蒙的进攻消耗了法军。内伊的骑兵冲锋未能突破威灵顿的方阵。傍晚布吕歇尔率普鲁士军赶到。法国近卫军的最后冲锋被击退。法军全面崩溃。"
+      }
+    },
+    {
+      "date": "1815-06-22",
+      "description": {
+        "en": "Napoleon abdicates for the second and final time. He surrenders to the British on July 15 and is exiled to Saint Helena in the South Atlantic, where he dies on May 5, 1821.",
+        "ja": "ナポレオンが2度目にして最後の退位をする。7月15日にイギリスに降伏し、南大西洋のセントヘレナ島に流刑となり、1821年5月5日にそこで亡くなる。",
+        "zh-CN": "拿破仑第二次也是最后一次退位。7月15日向英国投降，被流放到南大西洋的圣赫勒拿岛，1821年5月5日在那里去世。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Napoleon was decisively defeated at Waterloo. The battle ended the Napoleonic Wars and the Hundred Days. Napoleon abdicated and was exiled to Saint Helena. The Congress of Vienna's settlement was restored, and Europe entered a period of relative peace under the Concert of Europe that lasted until the Crimean War in 1853.",
+    "ja": "ナポレオンはワーテルローで決定的に敗北した。この戦いはナポレオン戦争と百日天下を終結させた。ナポレオンは退位し、セントヘレナ島に流刑となった。ウィーン会議の取り決めが復活し、ヨーロッパは1853年のクリミア戦争まで続くヨーロッパ協調のもとで比較的平和な時代に入った。",
+    "zh-CN": "拿破仑在滑铁卢遭到决定性失败。这场战役结束了拿破仑战争和百日王朝。拿破仑退位并被流放到圣赫勒拿岛。维也纳会议的安排得以恢复，欧洲在欧洲协调体制下进入了持续到1853年克里米亚战争的相对和平时期。"
+  },
+  "casualties": {
+    "en": "French: approximately 25,000 killed and wounded, 8,000 captured. Anglo-Allied: approximately 15,000 killed and wounded. Prussian: approximately 7,000 killed and wounded. Total: approximately 55,000 casualties in a single day.",
+    "ja": "フランス：死傷者約25,000人、捕虜8,000人。イギリス・連合軍：死傷者約15,000人。プロイセン：死傷者約7,000人。合計：1日で約55,000人の死傷者。",
+    "zh-CN": "法军：约25000人伤亡，8000人被俘。英国及盟军：约15000人伤亡。普鲁士：约7000人伤亡。总计：一天内约55000人伤亡。"
+  },
+  "significance": {
+    "en": "Waterloo ended twenty-three years of nearly continuous warfare that had begun with the French Revolutionary Wars in 1792. It permanently ended Napoleon's ambition to dominate Europe and established British global supremacy for the next century. The battle became a byword for decisive, irreversible defeat in multiple languages. It also demonstrated the critical importance of coalition warfare and the danger of fighting on multiple fronts without reliable intelligence.",
+    "ja": "ワーテルローは1792年のフランス革命戦争から始まった約23年間のほぼ絶え間ない戦争を終結させた。ナポレオンのヨーロッパ支配の野望を永久に終わらせ、次の1世紀にわたるイギリスの世界覇権を確立した。この戦いは複数の言語で決定的で不可逆的な敗北の代名詞となった。また、連合戦争の決定的重要性と、信頼できる情報なしに複数の戦線で戦うことの危険性も示した。",
+    "zh-CN": "滑铁卢结束了自1792年法国革命战争以来长达二十三年几乎不间断的战争。它永久终结了拿破仑统治欧洲的野心，确立了英国在此后一个世纪的全球霸权。这场战役在多种语言中成为决定性、不可逆转失败的代名词。它还证明了联盟作战的关键重要性，以及在没有可靠情报的情况下在多条战线作战的危险。"
+  },
+  "furtherReading": [
+    "Andrew Roberts — Napoleon: A Life",
+    "Alessandro Barbero — The Battle: A New History of Waterloo",
+    "Peter Hofschröer — 1815: The Waterloo Campaign"
+  ]
+}

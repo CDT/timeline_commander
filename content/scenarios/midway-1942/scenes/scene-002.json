@@ -1,0 +1,114 @@
+{
+  "id": "midway-1942-scene-002",
+  "scenarioId": "midway-1942",
+  "title": {
+    "en": "The Torpedo Bombers' Sacrifice",
+    "ja": "雷撃機の犠牲",
+    "zh-CN": "鱼雷轰炸机的牺牲"
+  },
+  "date": {
+    "en": "June 4, 1942",
+    "ja": "1942年6月4日",
+    "zh-CN": "1942年6月4日"
+  },
+  "location": {
+    "en": "Aboard USS Enterprise, northeast of Midway Atoll",
+    "ja": "ミッドウェー環礁北東、空母エンタープライズ艦上",
+    "zh-CN": "中途岛环礁东北方，企业号航母上"
+  },
+  "narrativePrompt": {
+    "en": "The morning has been a catastrophe of courage. Wave after wave of American torpedo bombers have attacked the Japanese carrier fleet — and been annihilated. Torpedo Squadron 8 from Hornet was wiped out to the last plane, with only Ensign George Gay surviving in the water. Torpedo squadrons from Enterprise and Yorktown have fared little better, their slow, lumbering TBD Devastators cut to pieces by Zero fighters before they could get within launch range. Not a single torpedo has hit a Japanese ship. But the sacrifice has not been entirely in vain — the relentless low-altitude attacks have dragged the Japanese combat air patrol down to sea level and forced Nagumo's carriers to maneuver wildly, disrupting their flight operations. High above, Lieutenant Commander Wade McClusky's dive bomber squadrons from Enterprise are searching for the Japanese fleet, running low on fuel. If they can find the carriers now, while the Zeros are down low and the Japanese flight decks are packed with rearming aircraft, the result could be devastating.",
+    "ja": "午前中は勇気の大惨事だった。アメリカの雷撃機が波状攻撃で日本の空母艦隊を攻撃し——そして全滅させられた。ホーネットの第8雷撃隊は最後の一機まで撃墜され、生存者はジョージ・ゲイ少尉ただ一人、海面に漂うのみだった。エンタープライズとヨークタウンの雷撃隊もほとんど同様で、鈍重なTBDデバステーターは発射距離に入る前に零戦に粉砕された。日本の艦艇に命中した魚雷は一本もない。しかし犠牲は完全に無駄ではなかった——執拗な低空攻撃が日本の戦闘空中哨戒を海面近くまで引きずり下ろし、南雲の空母に激しい回避運動を強いて飛行作業を混乱させた。上空では、エンタープライズのウェイド・マクラスキー少佐率いる急降下爆撃隊が燃料を消費しながら日本艦隊を捜索している。今、零戦が低空にいて日本の飛行甲板が再武装中の航空機で溢れている間に空母を発見できれば、壊滅的な結果をもたらし得る。",
+    "zh-CN": "整个上午是一场勇气的浩劫。一波又一波的美国鱼雷轰炸机攻击了日本航母舰队——然后被歼灭殆尽。大黄蜂号的第八鱼雷机中队全军覆没，仅有乔治·盖伊少尉一人在海面上幸存。企业号和约克城号的鱼雷机中队也好不了多少，它们笨重迟缓的TBD蹂躏者在进入发射距离前就被零式战斗机撕成碎片。没有一枚鱼雷命中日本军舰。但牺牲并非完全白费——持续不断的低空攻击将日本战斗空中巡逻机拖到了海平面高度，迫使南云的航母剧烈机动回避，打乱了其飞行作业。在高空，企业号的韦德·麦克拉斯基少校率领的俯冲轰炸机中队正在搜索日本舰队，燃油已经不多。如果他们现在能找到航母——趁零式战斗机在低空、日本飞行甲板上堆满正在重新装弹的飞机——结果可能是毁灭性的。"
+  },
+  "situationReport": [
+    {
+      "en": "All three torpedo bomber squadrons have been decimated — over 80% casualties with zero hits on enemy carriers",
+      "ja": "3つの雷撃隊すべてが壊滅——敵空母への命中ゼロで80%以上の損失",
+      "zh-CN": "全部三个鱼雷轰炸机中队遭到重创——超过80%的伤亡率，对敌航母零命中"
+    },
+    {
+      "en": "Japanese Zero fighters have been drawn down to low altitude chasing the torpedo bombers",
+      "ja": "日本の零戦が雷撃機を追って低空に引きずり下ろされている",
+      "zh-CN": "日本零式战斗机在追逐鱼雷轰炸机时被拖到了低空"
+    },
+    {
+      "en": "Nagumo's carriers are in the process of rearming and refueling aircraft — bombs, torpedoes, and fuel lines cover their hangar decks",
+      "ja": "南雲の空母は航空機の再武装・燃料補給中——爆弾、魚雷、燃料ラインが格納庫甲板を覆っている",
+      "zh-CN": "南云的航母正在重新装弹和加油——炸弹、鱼雷和燃油管线布满机库甲板"
+    },
+    {
+      "en": "McClusky's dive bombers from Enterprise are circling at high altitude, low on fuel, searching for the Japanese fleet",
+      "ja": "エンタープライズのマクラスキー隊の急降下爆撃機が高空で旋回し、燃料が少ない中で日本艦隊を捜索中",
+      "zh-CN": "企业号的麦克拉斯基俯冲轰炸机队在高空盘旋，燃油不多，正在搜索日本舰队"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Strike the Japanese carriers while they are most vulnerable",
+      "ja": "日本の空母が最も脆弱な時に攻撃する",
+      "zh-CN": "在日本航母最脆弱时发动攻击"
+    },
+    {
+      "en": "Exploit the window created by the torpedo bombers' sacrifice",
+      "ja": "雷撃機の犠牲が作り出した機会を活用する",
+      "zh-CN": "利用鱼雷轰炸机的牺牲所创造的窗口"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The dive bombers are running critically low on fuel — any delay risks them ditching in the ocean",
+      "ja": "急降下爆撃機の燃料が危機的に不足——いかなる遅延も海上への不時着のリスクを伴う",
+      "zh-CN": "俯冲轰炸机燃油严重不足——任何延误都有迫降海面的风险"
+    },
+    {
+      "en": "There will be no fighter escort for the dive bombers — the Wildcats are either lost or defending the fleet",
+      "ja": "急降下爆撃機には護衛戦闘機がない——ワイルドキャットは撃墜されたか艦隊防空に就いている",
+      "zh-CN": "俯冲轰炸机将没有战斗机护航——野猫战斗机不是已损失就是在保卫舰队"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Send the dive bombers in now. The torpedo bombers have given us this moment — the Zeros are at sea level, the Japanese decks are packed with armed planes. We may never get another chance like this.",
+        "ja": "今すぐ急降下爆撃機を投入する。雷撃機がこの瞬間を与えてくれた——零戦は海面にいて、日本の甲板は武装した航空機で溢れている。このようなチャンスは二度とないかもしれない。",
+        "zh-CN": "立刻派出俯冲轰炸机。鱼雷轰炸机为我们创造了这个时刻——零式战斗机在海面，日本甲板上堆满了武装飞机。我们可能再也不会有这样的机会。"
+      },
+      "historicalContext": "The historical outcome — McClusky's dive bombers attacked immediately and caught the Japanese carriers at their most vulnerable.",
+      "outcomePrompt": {
+        "en": "At 10:22 AM, McClusky spots the wake of a Japanese destroyer heading northeast and follows it straight to Nagumo's carriers. He pushes over into his dive. Behind him, thirty-seven SBD Dauntless dive bombers scream down from 14,000 feet. The Japanese combat air patrol is still at low altitude. There is no opposition. In five minutes — five minutes that change the course of history — three Japanese fleet carriers are transformed into blazing infernos. Akagi takes a bomb among the armed torpedo planes on her flight deck and the chain of explosions rips her apart. Kaga is hit by four bombs that turn her into a floating pyre. Soryu takes three hits and is engulfed in flames within minutes. The pride of the Imperial Japanese Navy, the force that struck Pearl Harbor, is burning. Only Hiryu escapes the slaughter, hidden by a rain squall to the north.",
+        "ja": "午前10時22分、マクラスキーは北東に向かう日本の駆逐艦の航跡を発見し、それを辿って南雲の空母に直行する。彼は急降下に入る。後方では37機のSBDドーントレス急降下爆撃機が14,000フィートから急降下する。日本の戦闘空中哨戒はまだ低空にいる。抵抗はない。5分間で——歴史の流れを変える5分間で——3隻の日本正規空母が燃え盛る地獄と化す。赤城は飛行甲板上の武装された雷撃機の間に爆弾を受け、連鎖爆発が艦体を引き裂く。加賀は4発の爆弾を受け燃え盛る火葬台と化す。蒼龍は3発の命中弾を受け数分で炎に飲み込まれる。真珠湾を攻撃した日本帝国海軍の誇り、その力が燃えている。飛龍だけが北方のスコールに隠れて虐殺を免れた。",
+        "zh-CN": "上午10时22分，麦克拉斯基发现一艘日本驱逐舰的航迹向东北方延伸，沿其直奔南云的航母。他推杆进入俯冲。在他身后，三十七架SBD无畏式俯冲轰炸机从14000英尺高度呼啸而下。日本战斗空中巡逻机仍在低空。没有任何阻拦。五分钟内——改变历史走向的五分钟——三艘日本舰队航母变成了熊熊燃烧的炼狱。赤城号飞行甲板上武装好的鱼雷机之间落下一枚炸弹，连锁爆炸将其撕裂。加贺号被四枚炸弹命中，化为一座漂浮的火葬堆。苍龙号被三枚炸弹命中，数分钟内被火焰吞没。偷袭珍珠港的日本帝国海军骄傲正在燃烧。只有飞龙号藏在北方的雨幕中逃过了这场屠杀。"
+      },
+      "nextSceneId": "midway-1942-scene-003",
+      "stateChanges": [
+        { "variable": "carrierStrength", "operation": "add", "value": 20 },
+        { "variable": "pilotExperience", "operation": "add", "value": 15 },
+        { "variable": "japaneseOverconfidence", "operation": "add", "value": -50 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Recall the dive bombers to regroup. They are low on fuel and have no fighter escort. Wait for the afternoon to mount a properly coordinated strike with all available aircraft.",
+        "ja": "急降下爆撃機を呼び戻して再編する。燃料が少なく護衛戦闘機もいない。午後に利用可能なすべての航空機で適切に連携した攻撃を行うまで待つ。",
+        "zh-CN": "召回俯冲轰炸机重新编组。他们燃油不足且没有战斗机护航。等到下午再以所有可用飞机发动一次协调得当的攻击。"
+      },
+      "historicalContext": "A counterfactual — the historical strike went in immediately, catching the Japanese at their most vulnerable.",
+      "outcomePrompt": {
+        "en": "The dive bombers are recalled. McClusky protests furiously over the radio — he can see Japanese ships below and knows the moment is slipping away — but orders are orders. The pilots nurse their remaining fuel back toward the carriers. It takes three precious hours to recover aircraft, refuel, rearm, and reorganize for a coordinated afternoon strike. During that time, Nagumo completes his rearming, launches his combat air patrol back to altitude, and spots the American carriers. The Japanese strike first. Vals and Kates from all four carriers descend on the American fleet in a coordinated assault. When the American counterattack finally launches in the late afternoon, it meets a prepared enemy with fighters at altitude and clear decks. The dive bombers press their attack with tremendous courage, but the cost is far higher and the results far less decisive than they might have been three hours earlier.",
+        "ja": "急降下爆撃機が呼び戻される。マクラスキーは無線で猛烈に抗議する——眼下に日本の艦艇が見え、この瞬間が失われていくのがわかる——しかし命令は命令だ。パイロットたちは残りの燃料で空母に帰還する。航空機の収容、燃料補給、再武装、午後の連携攻撃のための再編成に貴重な3時間を要する。その間に南雲は再武装を完了し、戦闘空中哨戒を再び高空に上げ、アメリカの空母を発見する。日本が先に攻撃する。4隻の空母すべてからの九九式艦爆と九七式艦攻が連携攻撃でアメリカ艦隊に襲いかかる。アメリカの反撃がようやく午後遅くに発進した時、高空に戦闘機を配置し甲板を整えた準備万端の敵に直面する。急降下爆撃機は凄まじい勇気で攻撃を敢行するが、犠牲ははるかに大きく、結果は3時間前に可能だったものよりはるかに決定的ではなかった。",
+        "zh-CN": "俯冲轰炸机被召回。麦克拉斯基在无线电中愤怒抗议——他能看到下方的日本军舰，知道时机正在流逝——但命令就是命令。飞行员们节省着剩余燃油返回航母。回收飞机、加油、重新装弹和为下午协调攻击重新编组花费了宝贵的三个小时。在此期间，南云完成了重新装弹，将战斗空中巡逻机重新派到高空，并发现了美国航母。日本人先发制人。来自全部四艘航母的九九式俯冲轰炸机和九七式鱼雷攻击机对美国舰队发动了协调攻击。当美国的反击终于在傍晚发起时，面对的是一个有战斗机在高空掩护、甲板整洁的严阵以待之敌。俯冲轰炸机以巨大的勇气发动攻击，但代价远比三小时前可能付出的更高，结果也远没有那么具有决定性。"
+      },
+      "nextSceneId": "midway-1942-scene-003",
+      "stateChanges": [
+        { "variable": "carrierStrength", "operation": "add", "value": -15 },
+        { "variable": "pilotExperience", "operation": "add", "value": -10 },
+        { "variable": "japaneseOverconfidence", "operation": "add", "value": -20 }
+      ]
+    }
+  ],
+  "roleFilter": ["nimitz-commander"],
+  "isTerminal": false
+}

@@ -1,0 +1,164 @@
+{
+  "id": "cuban-missile-crisis-1962",
+  "title": {
+    "en": "Cuban Missile Crisis",
+    "ja": "キューバ危機",
+    "zh-CN": "古巴导弹危机"
+  },
+  "period": {
+    "en": "Cold War",
+    "ja": "冷戦",
+    "zh-CN": "冷战"
+  },
+  "dates": {
+    "start": "1962-10-16",
+    "end": "1962-10-28"
+  },
+  "location": {
+    "en": "Washington D.C., USA",
+    "ja": "アメリカ、ワシントンD.C.",
+    "zh-CN": "美国华盛顿特区"
+  },
+  "historicalOverview": {
+    "en": "On October 16, 1962, President John F. Kennedy was shown reconnaissance photographs confirming that the Soviet Union was secretly installing medium-range nuclear missiles in Cuba, just 90 miles from the American coast. These missiles could strike most major American cities within minutes. For thirteen days, the world stood on the brink of nuclear war as Kennedy and his advisors debated how to respond. The Joint Chiefs of Staff pushed for an immediate air strike and invasion. Kennedy chose a naval quarantine — a blockade by another name — to buy time for diplomacy. Soviet ships approached the quarantine line while construction continued on the missile sites. At the crisis's peak, a Soviet submarine nearly launched a nuclear torpedo at the American fleet. The crisis was resolved through a secret deal: the Soviets would remove their missiles from Cuba in exchange for a public American pledge not to invade Cuba and a secret agreement to remove American Jupiter missiles from Turkey.",
+    "ja": "1962年10月16日、ジョン・F・ケネディ大統領に偵察写真が示され、ソビエト連邦がアメリカ海岸からわずか90マイルのキューバに中距離核ミサイルを密かに設置していることが確認されました。これらのミサイルはアメリカの主要都市のほとんどを数分以内に攻撃できました。13日間、世界は核戦争の瀬戸際に立たされ、ケネディと顧問たちは対応を議論しました。統合参謀本部は即座の空爆と侵攻を推しました。ケネディは外交のための時間を稼ぐために海上封鎖——別名による封鎖——を選択しました。ソ連の船が封鎖線に近づく一方、ミサイル施設の建設は続きました。危機の頂点で、ソ連の潜水艦がアメリカ艦隊に核魚雷を発射しそうになりました。危機は秘密の取引によって解決されました：ソ連はキューバからミサイルを撤去する代わりに、アメリカはキューバに侵攻しないことを公に約束し、トルコのアメリカのジュピターミサイルを撤去する秘密合意を結びました。",
+    "zh-CN": "1962年10月16日，约翰·F·肯尼迪总统看到了侦察照片，确认苏联正在距美国海岸仅90英里的古巴秘密安装中程核导弹。这些导弹可以在几分钟内打击美国大多数主要城市。在十三天里，世界站在核战争的边缘，肯尼迪和他的顾问们讨论如何应对。参谋长联席会议推动立即进行空袭和入侵。肯尼迪选择了海上隔离——换个名称的封锁——以便为外交争取时间。苏联船只逼近隔离线，而导弹基地的建设仍在继续。在危机的顶峰，一艘苏联潜艇差点向美国舰队发射核鱼雷。危机通过一项秘密交易得以解决：苏联从古巴撤走导弹，换取美国公开承诺不入侵古巴，以及秘密协议撤走美国部署在土耳其的朱庇特导弹。"
+  },
+  "realWorldOutcome": {
+    "en": "The crisis was resolved on October 28 when Khrushchev publicly agreed to remove Soviet missiles from Cuba. In exchange, Kennedy pledged not to invade Cuba and secretly agreed to remove American Jupiter missiles from Turkey within six months. The crisis led to the installation of the Moscow-Washington hotline, the Partial Nuclear Test Ban Treaty of 1963, and a general easing of Cold War tensions. It remains the closest the world has come to nuclear war.",
+    "ja": "危機は10月28日、フルシチョフがソ連のミサイルをキューバから撤去することに公に同意して解決されました。引き換えに、ケネディはキューバに侵攻しないことを約束し、6ヶ月以内にトルコのアメリカのジュピターミサイルを撤去する秘密合意をしました。この危機はモスクワ・ワシントン間のホットラインの設置、1963年の部分的核実験禁止条約、そして冷戦の緊張の全般的な緩和につながりました。世界が核戦争に最も近づいた瞬間として今も記憶されています。",
+    "zh-CN": "危机于10月28日得以解决，赫鲁晓夫公开同意从古巴撤走苏联导弹。作为交换，肯尼迪承诺不入侵古巴，并秘密同意在六个月内撤走美国部署在土耳其的朱庇特导弹。这场危机促成了莫斯科-华盛顿热线的建立、1963年《部分禁止核试验条约》的签署，以及冷战紧张局势的总体缓和。它仍然是世界最接近核战争的时刻。"
+  },
+  "keyFigures": [
+    {
+      "id": "jfk",
+      "name": "John F. Kennedy",
+      "role": {
+        "en": "President of the United States",
+        "ja": "アメリカ合衆国大統領",
+        "zh-CN": "美国总统"
+      },
+      "faction": "United States",
+      "description": {
+        "en": "The young American president who navigated the most dangerous thirteen days of the Cold War, resisting pressure from his military advisors to launch an invasion while finding a diplomatic solution.",
+        "ja": "冷戦の最も危険な13日間を乗り切った若きアメリカ大統領。軍事顧問からの侵攻圧力に抵抗しながら外交的解決策を見出した。",
+        "zh-CN": "在冷战最危险的十三天中掌舵的年轻美国总统，顶住了军事顾问发动入侵的压力，同时找到了外交解决方案。"
+      }
+    },
+    {
+      "id": "khrushchev",
+      "name": "Nikita Khrushchev",
+      "role": {
+        "en": "Premier of the Soviet Union",
+        "ja": "ソビエト連邦首相",
+        "zh-CN": "苏联总理"
+      },
+      "faction": "Soviet Union",
+      "description": {
+        "en": "The Soviet leader who secretly deployed nuclear missiles to Cuba, then negotiated their withdrawal when confronted with American resolve and the risk of nuclear war.",
+        "ja": "キューバに核ミサイルを密かに配備し、アメリカの決意と核戦争のリスクに直面して撤退を交渉したソ連の指導者。",
+        "zh-CN": "秘密将核导弹部署到古巴的苏联领导人，在面对美国的决心和核战争风险时谈判撤走了导弹。"
+      }
+    },
+    {
+      "id": "rfk",
+      "name": "Robert F. Kennedy",
+      "role": {
+        "en": "Attorney General of the United States",
+        "ja": "アメリカ合衆国司法長官",
+        "zh-CN": "美国司法部长"
+      },
+      "faction": "United States",
+      "description": {
+        "en": "The president's brother and closest advisor, who served as a back-channel negotiator with Soviet Ambassador Dobrynin to arrange the secret missile swap.",
+        "ja": "大統領の弟で最も親しい顧問。ソ連大使ドブルイニンとの裏チャンネル交渉役を務め、秘密のミサイル交換を取りまとめた。",
+        "zh-CN": "总统的弟弟和最亲密的顾问，作为与苏联大使多勃雷宁的秘密渠道谈判者，安排了秘密的导弹交换。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "jfk-role",
+      "scenarioId": "cuban-missile-crisis-1962",
+      "name": "John F. Kennedy",
+      "title": {
+        "en": "President of the United States",
+        "ja": "アメリカ合衆国大統領",
+        "zh-CN": "美国总统"
+      },
+      "perspective": "political",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are President John F. Kennedy. It is the morning of October 16, 1962. McGeorge Bundy, your National Security Advisor, has just woken you with the most alarming intelligence briefing of your presidency. CIA U-2 reconnaissance photographs, taken two days ago over western Cuba, show unmistakable evidence of Soviet medium-range ballistic missile sites under construction. Once operational, these missiles can deliver nuclear warheads to Washington, New York, and most of the eastern United States within thirteen minutes of launch. The Soviets have lied to you — Ambassador Dobrynin personally assured you that no offensive weapons would be placed in Cuba. You have perhaps two weeks before the missiles become operational. The Joint Chiefs of Staff will recommend a massive air strike followed by a full-scale invasion. Your political opponents will call you weak if you don't act decisively. But any military action risks a Soviet response that could escalate to nuclear war. The fate of civilization may rest on what you decide in the next thirteen days.",
+        "ja": "あなたはジョン・F・ケネディ大統領です。1962年10月16日の朝です。国家安全保障顧問のマクジョージ・バンディが、大統領就任以来最も憂慮すべき情報ブリーフィングであなたを起こしました。2日前にキューバ西部上空で撮影されたCIAのU-2偵察写真に、ソ連の中距離弾道ミサイル施設が建設中であることを示す紛れもない証拠が写っています。運用可能になれば、これらのミサイルは発射から13分以内にワシントン、ニューヨーク、そしてアメリカ東部の大部分に核弾頭を届けることができます。ソ連はあなたに嘘をつきました——ドブルイニン大使はキューバに攻撃用兵器を配備しないと個人的にあなたに保証しました。ミサイルが運用可能になるまでおそらく2週間です。統合参謀本部は大規模な空爆とそれに続く全面的な侵攻を勧告するでしょう。政治的な敵は、断固として行動しなければあなたを弱腰と呼ぶでしょう。しかし、いかなる軍事行動もソ連の反応を招き、核戦争にエスカレートする危険があります。文明の運命は、あなたが次の13日間で何を決定するかにかかっているかもしれません。",
+        "zh-CN": "您是约翰·F·肯尼迪总统。现在是1962年10月16日的早晨。您的国家安全顾问麦乔治·邦迪刚刚用您总统任期内最令人震惊的情报简报将您唤醒。两天前在古巴西部上空拍摄的CIA U-2侦察照片显示了苏联中程弹道导弹发射场正在建设的确凿证据。一旦投入使用，这些导弹可以在发射后十三分钟内将核弹头投送到华盛顿、纽约和美国东部大部分地区。苏联对您撒了谎——多勃雷宁大使曾亲自向您保证不会在古巴部署进攻性武器。导弹投入使用前您大约还有两周时间。参谋长联席会议将建议进行大规模空袭，然后进行全面入侵。如果您不果断行动，政治对手将称您软弱。但任何军事行动都有引发苏联回应并升级为核战争的风险。文明的命运可能取决于您在接下来十三天中的决定。"
+      },
+      "objectives": [
+        {
+          "en": "Remove Soviet missiles from Cuba before they become operational",
+          "ja": "ソ連のミサイルが運用可能になる前にキューバから撤去させる",
+          "zh-CN": "在苏联导弹投入使用之前将其从古巴撤走"
+        },
+        {
+          "en": "Avoid nuclear war with the Soviet Union",
+          "ja": "ソ連との核戦争を回避する",
+          "zh-CN": "避免与苏联发生核战争"
+        },
+        {
+          "en": "Maintain American credibility and alliance commitments worldwide",
+          "ja": "アメリカの信頼性と世界中の同盟公約を維持する",
+          "zh-CN": "维护美国的信誉和全球同盟承诺"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "The missiles may become operational within two weeks — time is extremely limited",
+          "ja": "ミサイルは2週間以内に運用可能になる可能性がある——時間は極めて限られている",
+          "zh-CN": "导弹可能在两周内投入使用——时间极其有限"
+        },
+        {
+          "en": "Any military strike on Cuba risks killing Soviet personnel and triggering escalation",
+          "ja": "キューバへのいかなる軍事攻撃もソ連の要員を殺害しエスカレーションを引き起こすリスクがある",
+          "zh-CN": "对古巴的任何军事打击都有杀害苏联人员并引发升级的风险"
+        },
+        {
+          "en": "Congressional elections are three weeks away; domestic political pressure is intense",
+          "ja": "議会選挙が3週間後に迫っている。国内の政治的圧力は激しい",
+          "zh-CN": "国会选举三周后举行；国内政治压力巨大"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "The Joint Chiefs of Staff unanimously favor military action — air strikes followed by invasion",
+          "ja": "統合参謀本部は全員一致で軍事行動を支持している——空爆とそれに続く侵攻",
+          "zh-CN": "参谋长联席会议一致支持军事行动——先空袭后入侵"
+        },
+        {
+          "en": "Intelligence suggests Soviet tactical nuclear weapons may already be in Cuba",
+          "ja": "情報によると、ソ連の戦術核兵器がすでにキューバにある可能性がある",
+          "zh-CN": "情报显示苏联战术核武器可能已经在古巴"
+        },
+        {
+          "en": "Any perceived weakness could encourage Soviet aggression against West Berlin",
+          "ja": "いかなる弱さの印象もソ連の西ベルリンへの攻撃を助長する可能性がある",
+          "zh-CN": "任何被视为软弱的表现都可能鼓励苏联对西柏林采取侵略行动"
+        }
+      ],
+      "startingSceneId": "cuban-missile-crisis-1962-scene-001",
+      "initialState": {
+        "defcon": 3,
+        "sovietAggression": 70,
+        "publicAnxiety": 60,
+        "militaryPressure": 80,
+        "diplomaticOptions": 50
+      }
+    }
+  ],
+  "sceneIds": [
+    "cuban-missile-crisis-1962-scene-001",
+    "cuban-missile-crisis-1962-scene-002",
+    "cuban-missile-crisis-1962-scene-003"
+  ],
+  "tags": ["Cold War", "political", "nuclear", "United States", "Soviet Union", "Cuba"],
+  "difficulty": "advanced"
+}

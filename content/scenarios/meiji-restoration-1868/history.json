@@ -1,0 +1,84 @@
+{
+  "scenarioId": "meiji-restoration-1868",
+  "timeline": [
+    {
+      "date": "1853-07-08",
+      "description": {
+        "en": "Commodore Matthew Perry arrives in Edo Bay with four American warships, demanding Japan open its ports to trade. The 'Black Ships' expose the shogunate's military weakness.",
+        "ja": "マシュー・ペリー提督がアメリカ軍艦4隻を率いて江戸湾に来航し、日本に開国を要求。「黒船」が幕府の軍事的脆弱さを露呈させる。",
+        "zh-CN": "佩里准将率四艘美国军舰抵达江户湾，要求日本开放港口通商。'黑船'暴露了幕府的军事弱点。"
+      }
+    },
+    {
+      "date": "1866-03-07",
+      "description": {
+        "en": "The Satsuma-Choshu Alliance is secretly formed, brokered by Sakamoto Ryoma. Two of Japan's most powerful domains unite against the Tokugawa Shogunate.",
+        "ja": "坂本龍馬の仲介により薩長同盟が秘密裏に成立。日本で最も強力な二つの藩が徳川幕府に対して団結する。",
+        "zh-CN": "在坂本龙马的斡旋下，萨长同盟秘密缔结。日本最强大的两个藩联合起来对抗德川幕府。"
+      }
+    },
+    {
+      "date": "1867-11-09",
+      "description": {
+        "en": "Shogun Tokugawa Yoshinobu formally returns governing authority to the Emperor in the Taisei Hokan, hoping to retain influence in a new political arrangement.",
+        "ja": "将軍徳川慶喜が大政奉還により天皇に統治権を正式に返上。新しい政治体制の中で影響力を保持しようとした。",
+        "zh-CN": "将军德川庆喜通过大政奉还正式将统治权归还天皇，希望在新政治体制中保留影响力。"
+      }
+    },
+    {
+      "date": "1868-01-03",
+      "description": {
+        "en": "The Decree of the Restoration of Imperial Rule is issued. Satsuma and Choshu forces seize the imperial palace gates in Kyoto, declaring the abolition of the shogunate.",
+        "ja": "王政復古の大号令が発布される。薩摩・長州の軍勢が京都の皇居の門を制圧し、幕府の廃止を宣言。",
+        "zh-CN": "王政复古大号令颁布。萨摩和长州军队占据京都皇宫门户，宣布废除幕府。"
+      }
+    },
+    {
+      "date": "1868-01-27",
+      "description": {
+        "en": "The Battle of Toba-Fushimi begins. Despite being outnumbered, imperial forces equipped with modern weapons defeat the shogunate army south of Kyoto in a three-day battle.",
+        "ja": "鳥羽・伏見の戦いが始まる。数で劣るものの、近代兵器を装備した官軍が3日間の戦闘で京都南方の幕府軍を撃破。",
+        "zh-CN": "鸟羽伏见之战爆发。尽管兵力处于劣势，装备现代武器的官军在三天战斗中于京都以南击败幕府军。"
+      }
+    },
+    {
+      "date": "1868-02-12",
+      "description": {
+        "en": "Tokugawa Yoshinobu flees Osaka by sea to Edo. The shogunate's authority collapses across western Japan as domains declare allegiance to the Emperor.",
+        "ja": "徳川慶喜が大阪から海路で江戸に逃走。各藩が天皇への忠誠を表明し、西日本全域で幕府の権威が崩壊。",
+        "zh-CN": "德川庆喜从大阪乘船逃往江户。各藩纷纷宣布效忠天皇，幕府权威在西日本全面崩溃。"
+      }
+    },
+    {
+      "date": "1868-04-11",
+      "description": {
+        "en": "Edo Castle is surrendered peacefully to the imperial forces after negotiations between Saigo Takamori and Katsu Kaishu, sparing the city of over one million inhabitants from destruction.",
+        "ja": "西郷隆盛と勝海舟の交渉の結果、江戸城が官軍に平和的に明け渡される。100万人以上の住民を擁する都市が破壊から免れた。",
+        "zh-CN": "经西乡隆盛与�的�的胜海舟谈判后，江户城和平移交给官军，使这座拥有百万居民的城市免于毁灭。"
+      }
+    },
+    {
+      "date": "1868-09-08",
+      "description": {
+        "en": "The era name is officially changed to Meiji, meaning 'Enlightened Rule.' The capital is moved from Kyoto to Edo, renamed Tokyo ('Eastern Capital').",
+        "ja": "年号が正式に「明治」（明るい統治）に改元される。首都が京都から江戸に移され、東京と改称される。",
+        "zh-CN": "年号正式改为'明治'，意为'开明之治'。首都从京都迁至江户，更名为东京。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Meiji Restoration succeeded in overthrowing the Tokugawa Shogunate with remarkably limited bloodshed. Imperial rule was restored, and Japan embarked on one of the most rapid modernization programs in world history. However, the tensions between tradition and modernization, and between the rival domains, would continue to shape Japanese politics for decades.",
+    "ja": "明治維新は驚くほど限定的な流血で徳川幕府を打倒することに成功した。天皇の統治が回復され、日本は世界史上最も急速な近代化プログラムの一つに着手した。しかし伝統と近代化の間の緊張、そして対立する藩の間の緊張は、その後数十年にわたって日本の政治を形作り続けた。",
+    "zh-CN": "明治维新以极其有限的流血成功推翻了德川幕府。天皇统治得以恢复，日本开启了世界历史上最为迅速的现代化进程之一。然而，传统与现代化之间的张力，以及各藩之间的竞争，继续影响着日本政治数十年。"
+  },
+  "significance": {
+    "en": "The Meiji Restoration fundamentally transformed Japan from an isolated feudal state into a modern industrial and military power in less than a generation. It established the model of rapid, state-directed modernization that would influence reform movements across Asia. The restoration also set the stage for Japan's imperial expansion and its eventual collision with Western powers in the twentieth century. The peaceful surrender of Edo remains one of history's most consequential acts of restraint, saving a million lives and preserving the city that would become modern Tokyo.",
+    "ja": "明治維新は一世代足らずの間に日本を孤立した封建国家から近代的な産業・軍事大国へと根本的に変貌させた。国家主導の急速な近代化のモデルを確立し、アジア全域の改革運動に影響を与えた。また維新は日本の帝国主義的拡張と、二十世紀における西洋列強との最終的な衝突の舞台も整えた。江戸の平和的開城は歴史上最も重要な自制の行為の一つとして残り、百万人の命を救い、近代東京となる都市を保全した。",
+    "zh-CN": "明治维新在不到一代人的时间内将日本从一个孤立的封建国家根本性地转变为现代工业和军事强国。它建立了国家主导快速现代化的模式，影响了亚洲各地的改革运动。维新还为日本的帝国扩张及其在二十世纪与西方列强的最终碰撞奠定了基础。江户的和平交接仍然是历史上最具影响力的克制之举之一，拯救了百万生命，保全了日后成为现代东京的城市。"
+  },
+  "furtherReading": [
+    "Marius Jansen — The Making of Modern Japan",
+    "Mark Ravina — The Last Samurai: The Life and Battles of Saigo Takamori",
+    "Andrew Gordon — A Modern History of Japan: From Tokugawa Times to the Present"
+  ]
+}

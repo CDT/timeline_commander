@@ -1,0 +1,109 @@
+{
+  "id": "constantinople-1453-scene-002",
+  "scenarioId": "constantinople-1453",
+  "title": "Ships Over Mountains",
+  "date": {
+    "en": "April 22, 1453",
+    "ja": "1453年4月22日",
+    "zh-CN": "1453年4月22日"
+  },
+  "location": {
+    "en": "Ottoman Naval Command, Bosphorus Strait",
+    "ja": "オスマン海軍司令部、ボスポラス海峡",
+    "zh-CN": "奥斯曼海军司令部，博斯普鲁斯海峡"
+  },
+  "narrativePrompt": {
+    "en": "The siege is in its third week and a crisis has emerged at sea. Three Genoese ships and a Byzantine transport broke through your naval blockade on April 20, delivering critical supplies to the defenders. Your admiral Baltaoglu failed to stop them despite having numerical superiority, and you had him publicly beaten for his failure. The Golden Horn remains blocked by the great chain, and your fleet cannot attack the harbor walls. Your engineers have proposed a plan so audacious it borders on madness: transport seventy ships overland, on greased wooden rails, over the hills behind the Genoese colony of Galata, and launch them directly into the Golden Horn from behind the chain. It would take thousands of men and oxen, working through the night. If it works, you will have outflanked the greatest naval defense in the medieval world. If it fails, the effort will have wasted precious time and resources.",
+    "ja": "包囲は3週目に入り、海上で危機が発生しました。4月20日に3隻のジェノヴァ船と1隻のビザンツ輸送船があなたの海上封鎖を突破し、守備側に重要な補給物資を届けました。提督バルタオウルは数的優位にもかかわらずそれを阻止できず、あなたは彼の失敗に対して公開で笞刑を与えました。金角湾は大鎖で封鎖されたままで、艦隊は港の城壁を攻撃できません。技術者たちが狂気に近い大胆な計画を提案しています：70隻の船を、油を塗った木のレールの上をジェノヴァ植民地ガラタの背後の丘を越えて陸路輸送し、鎖の内側の金角湾に直接進水させるというものです。何千人もの兵と牛が夜通し作業する必要があります。成功すれば、中世世界最大の海軍防衛を出し抜くことになります。失敗すれば、貴重な時間と資源を浪費することになります。",
+    "zh-CN": "围城进入第三周，海上出现了危机。4月20日，三艘热那亚船和一艘拜占庭运输船突破了您的海上封锁，为守军送去了关键补给。您的海军将领巴尔塔奥卢尽管拥有数量优势却未能阻止他们，您已公开惩罚了他。金角湾仍被巨链封锁，舰队无法攻击港口城墙。您的工程师们提出了一个大胆到近乎疯狂的计划：将七十艘船用涂油木轨从热那亚殖民地加拉塔背后的山丘上陆路运过，直接从铁链后方投入金角湾。这需要数千名士兵和耕牛通宵工作。如果成功，您将从侧翼绕过中世纪世界最强大的海军防线。如果失败，将白白浪费宝贵的时间和资源。"
+  },
+  "situationReport": [
+    {
+      "en": "Three supply ships broke the naval blockade on April 20 — the defenders' morale has soared",
+      "ja": "4月20日に3隻の補給船が海上封鎖を突破——守備側の士気が急上昇した",
+      "zh-CN": "4月20日三艘补给船突破海上封锁——守军士气大振"
+    },
+    {
+      "en": "The great chain across the Golden Horn prevents any naval attack on the harbor walls",
+      "ja": "金角湾の大鎖が港の城壁へのいかなる海上攻撃も阻止している",
+      "zh-CN": "金角湾的巨链阻止了对港口城墙的任何海上攻击"
+    },
+    {
+      "en": "Engineers report that seventy ships could be transported overland in a single night with sufficient manpower",
+      "ja": "技術者は十分な人員があれば一晩で70隻の船を陸路輸送できると報告している",
+      "zh-CN": "工程师报告如有足够人手，七十艘船可在一夜之间陆路运过"
+    },
+    {
+      "en": "Grand Vizier Halil Pasha is counseling that the siege should be abandoned before a Christian relief fleet arrives",
+      "ja": "大宰相ハリル・パシャはキリスト教徒の救援艦隊が到着する前に包囲を解くべきだと進言している",
+      "zh-CN": "大维齐尔哈利勒帕夏建议在基督教救援舰队到来之前解除围城"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Find a way to project Ottoman naval power into the Golden Horn",
+      "ja": "金角湾にオスマンの海軍力を投射する方法を見つける",
+      "zh-CN": "找到将奥斯曼海军力量投射到金角湾的方法"
+    },
+    {
+      "en": "Maintain the morale and unity of your command against internal opposition",
+      "ja": "内部の反対に対して指揮の士気と統一を維持する",
+      "zh-CN": "在内部反对势力面前维持指挥层的士气和团结"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The overland transport will require diverting thousands of men from the siege lines for at least 24 hours",
+      "ja": "陸路輸送には少なくとも24時間、数千人の兵を包囲線から転用する必要がある",
+      "zh-CN": "陆路运船需要从围城线上调走数千人至少24小时"
+    },
+    {
+      "en": "The Genoese in Galata are officially neutral — the operation must not provoke them into joining the defense",
+      "ja": "ガラタのジェノヴァ人は公式には中立——作戦は彼らを防衛に参加させるような挑発をしてはならない",
+      "zh-CN": "加拉塔的热那亚人名义上保持中立——行动不能刺激他们加入防御"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Execute the overland ship transport. Move seventy ships across the hills behind Galata in a single night and launch them into the Golden Horn at dawn.",
+        "ja": "陸路船舶輸送を実行する。一晩でガラタの背後の丘を越えて70隻の船を移動させ、夜明けに金角湾に進水させる。",
+        "zh-CN": "执行陆路运船计划。一夜之间将七十艘船运过加拉塔背后的山丘，黎明时投入金角湾。"
+      },
+      "historicalContext": "The historical choice — Mehmed successfully transported approximately 70 ships overland into the Golden Horn on April 22, one of the most audacious military engineering feats of the medieval period.",
+      "outcomePrompt": {
+        "en": "Under cover of darkness, thousands of soldiers and teams of oxen haul seventy ships up greased wooden rails, over the crest of the hills behind Galata, and down into the Golden Horn. Drums and trumpets play to cover the noise. At dawn, the stunned defenders of Constantinople look out to see an Ottoman fleet floating in the harbor that was supposed to be impregnable. The psychological impact is devastating. Byzantine sailors and Genoese crews who had considered the harbor safe now face threats from two directions. The defenders must spread their already thin forces to man the harbor walls. Halil Pasha falls silent. Your genius has spoken louder than his caution.",
+        "ja": "闇に紛れて、数千の兵士と牛の群れが70隻の船を油を塗った木のレールの上を引っ張り、ガラタの背後の丘を越え、金角湾に下ろす。太鼓とラッパが音を覆い隠すために演奏される。夜明け、呆然としたコンスタンティノープルの守備兵が目にしたのは、難攻不落であるはずだった港に浮かぶオスマン艦隊だった。心理的衝撃は壊滅的だ。港が安全だと考えていたビザンツの船員とジェノヴァの乗組員は、今や二方向からの脅威に直面している。守備側はすでに薄い兵力をさらに分散させて港の城壁を守らねばならない。ハリル・パシャは沈黙する。あなたの才能が彼の慎重さより雄弁に語った。",
+        "zh-CN": "在夜幕掩护下，数千名士兵和牛队将七十艘船沿涂油木轨拖上加拉塔背后的山丘，翻过山脊，滑入金角湾。鼓号齐鸣以掩盖噪声。黎明时分，惊愕的君士坦丁堡守军望见本应牢不可破的港湾中漂浮着一支奥斯曼舰队。心理冲击是毁灭性的。曾认为港口安全的拜占庭水手和热那亚船员现在面临两面受敌。守军必须将本已单薄的兵力进一步分散到港口城墙上。哈利勒帕夏哑口无言。您的军事天才比他的谨慎更有说服力。"
+      },
+      "nextSceneId": "constantinople-1453-scene-003",
+      "stateChanges": [
+        { "variable": "navalControl", "operation": "add", "value": 45 },
+        { "variable": "ottomanMorale", "operation": "add", "value": 10 },
+        { "variable": "siegeProgress", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Reject the overland plan as too risky. Instead, build a pontoon bridge across the Golden Horn and assault the harbor walls directly from Galata.",
+        "ja": "陸路の計画はリスクが高すぎるとして却下する。代わりに金角湾に浮橋を架け、ガラタから直接港の城壁を攻撃する。",
+        "zh-CN": "认为陆路运船计划风险过大而否决。改为在金角湾上搭建浮桥，从加拉塔直接攻击港口城墙。"
+      },
+      "historicalContext": "A counterfactual — Mehmed did build a pontoon bridge later, but as a supplement to the ships already in the Golden Horn, not as the primary approach.",
+      "outcomePrompt": {
+        "en": "You order the construction of a massive pontoon bridge across the narrowest point of the Golden Horn. The work takes a week. The bridge allows troops to cross, but it is vulnerable to fire ships and sorties from the Byzantine fleet. On the third night, Byzantine sailors attempt to burn the bridge with Greek fire but are beaten back with heavy losses on both sides. The bridge holds, and your troops can now threaten the harbor walls, but the defenders still control the waters of the Golden Horn itself. Your position has improved but not as dramatically as a sudden fleet appearing behind the chain would have achieved. The final assault must be planned carefully.",
+        "ja": "金角湾の最も狭い地点に巨大な浮橋を建設するよう命じる。工事に1週間かかる。浮橋は兵が渡ることを可能にするが、火船やビザンツ艦隊の出撃に対して脆弱だ。3日目の夜、ビザンツの船員がギリシャ火で橋を焼こうとするが、双方に大きな損害を出して撃退される。橋は持ちこたえ、軍は港の城壁を脅かせるようになったが、守備側はまだ金角湾自体の水域を支配している。態勢は改善されたが、鎖の内側に突然艦隊が現れるほどの劇的な効果はなかった。最終攻撃は慎重に計画されなければならない。",
+        "zh-CN": "您下令在金角湾最窄处建造一座大型浮桥。工程耗时一周。浮桥允许部队通过，但容易遭受火船和拜占庭舰队突袭的威胁。第三夜，拜占庭水手试图用希腊火焚烧浮桥，但在双方都遭受重大损失后被击退。浮桥保住了，您的部队现在可以威胁港口城墙，但守军仍控制着金角湾水域本身。您的处境有所改善，但远不如铁链后方突然出现一支舰队那样具有戏剧性效果。最后的总攻必须精心策划。"
+      },
+      "nextSceneId": "constantinople-1453-scene-003",
+      "stateChanges": [
+        { "variable": "navalControl", "operation": "add", "value": 25 },
+        { "variable": "ottomanMorale", "operation": "add", "value": -5 },
+        { "variable": "siegeProgress", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

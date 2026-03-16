@@ -1,0 +1,163 @@
+{
+  "id": "d-day-1944",
+  "title": {
+    "en": "D-Day: Normandy Landings",
+    "ja": "Dデー：ノルマンディー上陸作戦",
+    "zh-CN": "D日：诺曼底登陆"
+  },
+  "period": {
+    "en": "World War II",
+    "ja": "第二次世界大戦",
+    "zh-CN": "第二次世界大战"
+  },
+  "dates": {
+    "start": "1944-06-05",
+    "end": "1944-06-08"
+  },
+  "location": {
+    "en": "Normandy, France",
+    "ja": "フランス、ノルマンディー",
+    "zh-CN": "法国诺曼底"
+  },
+  "historicalOverview": {
+    "en": "Operation Overlord — the Allied invasion of Normandy on June 6, 1944 — was the largest amphibious military operation in history. Under the supreme command of General Dwight D. Eisenhower, over 156,000 American, British, Canadian, and Allied troops landed on five beaches along a 50-mile stretch of the heavily fortified Normandy coastline. The invasion had been planned for over a year, involving an elaborate deception operation (Fortitude) to convince the Germans that the main landing would come at Pas-de-Calais. Success depended on weather, surprise, coordination between air, naval, and ground forces, and the willingness of Allied leaders to accept enormous risk. D-Day opened the Western Front that would lead to the liberation of France and the defeat of Nazi Germany.",
+    "ja": "オーバーロード作戦——1944年6月6日の連合軍ノルマンディー侵攻——は史上最大の水陸両用軍事作戦でした。ドワイト・D・アイゼンハワー将軍の最高司令のもと、アメリカ、イギリス、カナダおよび連合軍の15万6千人以上の兵士が、重要塞化されたノルマンディー海岸線の約80キロメートルに沿った5つのビーチに上陸しました。侵攻は1年以上にわたって計画され、ドイツ軍に主力上陸がパ・ド・カレーに来ると信じさせるための精巧な欺瞞作戦（フォーティチュード）を含んでいました。成功は天候、奇襲、空軍・海軍・陸軍間の連携、そして連合国指導者が莫大なリスクを受け入れる意志にかかっていました。Dデーはフランス解放とナチスドイツの敗北につながる西部戦線を開きました。",
+    "zh-CN": "霸王行动——1944年6月6日盟军入侵诺曼底——是历史上最大规模的两栖军事行动。在德怀特·D·艾森豪威尔将军的最高指挥下，超过15.6万名美国、英国、加拿大和盟军士兵在诺曼底海岸线约80公里范围内的五个海滩登陆，这里有重兵把守。入侵计划筹备了一年多，包括一项精密的欺骗行动（坚忍计划），旨在让德国人相信主要登陆将在加来海峡。成功取决于天气、突然性、空军海军和地面部队之间的协调，以及盟国领导人接受巨大风险的意愿。D日开辟了西线战场，最终导致法国解放和纳粹德国的覆灭。"
+  },
+  "realWorldOutcome": {
+    "en": "The landings succeeded despite fierce German resistance, particularly at Omaha Beach where American casualties were severe. By the end of June 6, the Allies had established footholds on all five beaches. The German high command, partly deceived by Operation Fortitude, hesitated to commit reserves, believing Normandy might be a feint. Within a week, over 326,000 troops had landed. The breakout from Normandy in late July led to the liberation of Paris in August and the Allied advance into Germany by early 1945.",
+    "ja": "上陸は、特にアメリカ軍に甚大な被害が出たオマハビーチでの激しいドイツ軍の抵抗にもかかわらず成功しました。6月6日の終わりまでに、連合軍は5つのビーチすべてに橋頭堡を確立しました。フォーティチュード作戦に部分的に欺かれたドイツ軍最高司令部は、ノルマンディーが陽動かもしれないと考え、予備軍の投入をためらいました。1週間以内に32万6千人以上の兵士が上陸しました。7月下旬のノルマンディーからの突破は8月のパリ解放と1945年初頭の連合軍のドイツへの進撃につながりました。",
+    "zh-CN": "尽管遭到德军激烈抵抗——特别是在奥马哈海滩，美军伤亡惨重——登陆还是成功了。到6月6日结束时，盟军在全部五个海滩建立了立足点。部分被坚忍行动欺骗的德国最高指挥部犹豫不决，不愿投入预备队，认为诺曼底可能是声东击西。一周内，超过32.6万部队登陆。7月下旬从诺曼底突围，8月解放巴黎，1945年初盟军推进至德国境内。"
+  },
+  "keyFigures": [
+    {
+      "id": "eisenhower",
+      "name": "Dwight D. Eisenhower",
+      "role": {
+        "en": "Supreme Allied Commander",
+        "ja": "連合軍最高司令官",
+        "zh-CN": "盟军最高司令"
+      },
+      "faction": "Allies",
+      "description": {
+        "en": "The American general tasked with commanding the greatest amphibious invasion in history, balancing the competing demands of national armies, political leaders, and the unforgiving reality of weather and logistics.",
+        "ja": "史上最大の水陸両用侵攻の指揮を任されたアメリカの将軍。各国軍、政治指導者たちの対立する要求と、天候と兵站の厳しい現実のバランスを取らなければならなかった。",
+        "zh-CN": "负责指挥史上最大规模两栖入侵的美国将军，需要在各国军队、政治领导人的竞争需求与天气和后勤的严酷现实之间取得平衡。"
+      }
+    },
+    {
+      "id": "rommel",
+      "name": "Erwin Rommel",
+      "role": {
+        "en": "Commander of Army Group B, responsible for the defense of northern France",
+        "ja": "B軍集団司令官、北フランス防衛担当",
+        "zh-CN": "B集团军群司令，负责法国北部防御"
+      },
+      "faction": "Germany",
+      "description": {
+        "en": "The Desert Fox, now tasked with defending Fortress Europe. Rommel believed the invasion must be stopped on the beaches or not at all, and had worked tirelessly to strengthen coastal defenses.",
+        "ja": "「砂漠の狐」は今やヨーロッパ要塞の防衛を任されていた。ロンメルは侵攻をビーチで阻止しなければ全く阻止できないと信じ、海岸防御の強化に不眠不休で取り組んでいた。",
+        "zh-CN": "\"沙漠之狐\"现在负责保卫欧洲堡垒。隆美尔认为必须在海滩上阻止入侵，否则就来不及了，他不知疲倦地加强海岸防御。"
+      }
+    },
+    {
+      "id": "montgomery",
+      "name": "Bernard Montgomery",
+      "role": {
+        "en": "Commander of Allied ground forces for the invasion",
+        "ja": "連合軍地上部隊侵攻司令官",
+        "zh-CN": "盟军入侵地面部队司令"
+      },
+      "faction": "Allies",
+      "description": {
+        "en": "The meticulous British general commanding all ground forces on D-Day, known for his careful planning and his difficult personality.",
+        "ja": "Dデーの全地上部隊を指揮した几帳面なイギリス将軍。慎重な計画と扱いにくい性格で知られた。",
+        "zh-CN": "D日指挥全部地面部队的严谨英国将军，以细致的计划和难以相处的性格闻名。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "eisenhower",
+      "scenarioId": "d-day-1944",
+      "name": "Dwight D. Eisenhower",
+      "title": {
+        "en": "Supreme Allied Commander",
+        "ja": "連合軍最高司令官",
+        "zh-CN": "盟军最高司令"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are General Dwight D. Eisenhower, Supreme Commander of the Allied Expeditionary Force. It is June 5, 1944. You command the largest invasion force ever assembled: over 156,000 troops, 5,000 ships, and 11,000 aircraft, ready to cross the English Channel and storm the beaches of Normandy. The operation has been planned for over a year. Operation Fortitude has convinced the Germans that the main assault will strike at Pas-de-Calais, 150 miles northeast of the actual landing zones. Your meteorologist, Group Captain Stagg, has just delivered grim news: a storm is crossing the Channel, making June 5 — the original D-Day — impossible. But Stagg sees a brief window of acceptable weather on June 6. If you wait beyond June 6, tides will force a two-week delay, risking the secrecy of the entire operation. The decision is yours alone. Thousands of lives and the course of the war hang on what you say next.",
+        "ja": "あなたは連合国遠征軍最高司令官、ドワイト・D・アイゼンハワー将軍です。1944年6月5日です。あなたはかつて編成された最大の侵攻軍を指揮しています：15万6千人以上の兵力、5,000隻の艦船、1万1千機の航空機が、英仏海峡を渡りノルマンディーのビーチに突撃する準備を整えています。作戦は1年以上にわたって計画されてきました。フォーティチュード作戦によりドイツ軍は主力攻撃が実際の上陸地域から240キロ北東のパ・ド・カレーに来ると確信しています。気象担当のスタッグ大佐が厳しい知らせを伝えてきました：嵐が海峡を横切っており、当初のDデーである6月5日は不可能です。しかしスタッグは6月6日に受け入れ可能な天候の短い窓があると見ています。6月6日以降に延期すれば、潮の条件により2週間の遅延を余儀なくされ、作戦全体の機密が危険にさらされます。決断はあなただけのものです。何千人もの命と戦争の行方が、あなたの次の言葉にかかっています。",
+        "zh-CN": "您是盟军远征军最高司令德怀特·D·艾森豪威尔将军。现在是1944年6月5日。您指挥着有史以来集结的最大规模入侵部队：超过15.6万部队、5000艘舰船和11000架飞机，准备横渡英吉利海峡突击诺曼底海滩。这次行动已筹划一年多。坚忍行动已使德国人相信主攻将指向实际登陆区东北240公里的加来海峡。您的气象官斯塔格上校刚刚带来了严峻消息：一场风暴正横过海峡，使得原定D日6月5日无法实施。但斯塔格预见6月6日有一个短暂的可接受天气窗口。如果等到6月6日之后，潮汐条件将迫使推迟两周，整个行动的保密性将面临风险。这个决定只能由您来做。数千条生命和战争的走向取决于您接下来说什么。"
+      },
+      "objectives": [
+        {
+          "en": "Establish a secure beachhead on the Normandy coast",
+          "ja": "ノルマンディー海岸に安全な橋頭堡を確立する",
+          "zh-CN": "在诺曼底海岸建立稳固的滩头阵地"
+        },
+        {
+          "en": "Coordinate air, naval, and ground forces across five landing beaches",
+          "ja": "5つの上陸ビーチにわたって空軍、海軍、陸軍を連携させる",
+          "zh-CN": "协调五个登陆海滩的空军、海军和地面部队"
+        },
+        {
+          "en": "Maintain Allied unity and manage competing national priorities",
+          "ja": "連合国の団結を維持し、対立する各国の優先事項を管理する",
+          "zh-CN": "维持盟军团结并管理各国相互竞争的优先事项"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Weather in the English Channel is unpredictable and a storm could scatter the invasion fleet",
+          "ja": "英仏海峡の天候は予測不可能で、嵐が侵攻艦隊を散らす可能性がある",
+          "zh-CN": "英吉利海峡天气变化无常，风暴可能使入侵舰队分散"
+        },
+        {
+          "en": "Once the invasion begins, it cannot be recalled — there is no fallback plan",
+          "ja": "侵攻が始まれば撤回はできない——代替計画は存在しない",
+          "zh-CN": "一旦入侵开始就无法撤回——没有备用计划"
+        },
+        {
+          "en": "The deception must hold; if the Germans move their Pas-de-Calais reserves to Normandy, the landings may fail",
+          "ja": "欺瞞が維持されなければならない。ドイツ軍がパ・ド・カレーの予備軍をノルマンディーに移動させれば、上陸は失敗する可能性がある",
+          "zh-CN": "欺骗行动必须继续有效；如果德军将加来海峡预备队调往诺曼底，登陆可能失败"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Churchill, Roosevelt, and Stalin are all watching — failure would be a catastrophic blow to the Allied cause",
+          "ja": "チャーチル、ルーズベルト、スターリンの全員が注視している——失敗は連合国の大義にとって壊滅的な打撃となる",
+          "zh-CN": "丘吉尔、罗斯福和斯大林都在关注——失败将是对盟军事业的灾难性打击"
+        },
+        {
+          "en": "Montgomery and Patton have strong, often conflicting opinions about the ground campaign",
+          "ja": "モンゴメリーとパットンは地上作戦についてしばしば対立する強い意見を持っている",
+          "zh-CN": "蒙哥马利和巴顿对地面战役持有强烈且常常相互矛盾的意见"
+        },
+        {
+          "en": "Soviet forces on the Eastern Front are expecting a Western Front to relieve pressure — further delay risks the alliance",
+          "ja": "東部戦線のソ連軍は圧力を軽減するための西部戦線を期待している——さらなる遅延は同盟を危険にさらす",
+          "zh-CN": "东线苏军期望开辟西线以减轻压力——进一步延迟可能危及同盟关系"
+        }
+      ],
+      "startingSceneId": "d-day-1944-scene-001",
+      "initialState": {
+        "alliedMorale": 75,
+        "weatherWindow": 50,
+        "deceptionIntact": 90,
+        "germanReadiness": 60
+      }
+    }
+  ],
+  "sceneIds": [
+    "d-day-1944-scene-001",
+    "d-day-1944-scene-002",
+    "d-day-1944-scene-003"
+  ],
+  "tags": ["WWII", "military", "France", "Allied", "amphibious"],
+  "difficulty": "advanced"
+}

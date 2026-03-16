@@ -1,0 +1,114 @@
+{
+  "id": "midway-1942-scene-003",
+  "scenarioId": "midway-1942",
+  "title": {
+    "en": "Five Minutes That Changed History",
+    "ja": "歴史を変えた5分間",
+    "zh-CN": "改变历史的五分钟"
+  },
+  "date": {
+    "en": "June 4, 1942, afternoon",
+    "ja": "1942年6月4日午後",
+    "zh-CN": "1942年6月4日下午"
+  },
+  "location": {
+    "en": "Central Pacific, north of Midway Atoll",
+    "ja": "中部太平洋、ミッドウェー環礁北方",
+    "zh-CN": "中太平洋，中途岛环礁以北"
+  },
+  "narrativePrompt": {
+    "en": "Three Japanese carriers are burning — Akagi, Kaga, and Soryu are finished as fighting ships, their flight decks shattered, their hangar bays raging infernos. But the fourth carrier, Hiryu, escaped the initial attack hidden by a rain squall. Admiral Yamaguchi Tamon, Hiryu's aggressive commander, has already launched a counterstrike. Eighteen Val dive bombers and six escorting Zeros have found USS Yorktown and scored three devastating bomb hits, knocking out her boilers and leaving her dead in the water. A second wave of ten Kate torpedo bombers is inbound. Yorktown may be finished. But Hiryu is still out there with her remaining aircraft being readied for yet another strike. If Hiryu is not destroyed, she could continue to pick off American carriers one by one. Nimitz faces a critical decision: concentrate every available aircraft on finding and sinking Hiryu before she can launch again, or shift resources to protect the damaged American carriers from further attack.",
+    "ja": "3隻の日本空母が燃えている——赤城、加賀、蒼龍は戦闘艦としては終わり、飛行甲板は破壊され、格納庫は猛火に包まれている。しかし4隻目の空母、飛龍はスコールに隠れて最初の攻撃を免れた。飛龍の攻撃的な指揮官、山口多聞少将はすでに反撃を開始している。18機の九九式艦爆と6機の零戦がヨークタウンを発見し、3発の爆弾を命中させ、ボイラーを破壊して航行不能にした。第二波の10機の九七式雷撃機が接近中だ。ヨークタウンは終わりかもしれない。しかし飛龍はまだ健在で、残りの航空機がさらなる攻撃の準備を進めている。飛龍を撃沈しなければ、アメリカの空母を一隻ずつ仕留め続ける可能性がある。ニミッツは重大な決断を迫られる：飛龍が再び発艦する前に発見・撃沈するため利用可能なすべての航空機を集中させるか、損傷したアメリカの空母をさらなる攻撃から守るために資源を振り向けるか。",
+    "zh-CN": "三艘日本航母正在燃烧——赤城、加贺和苍龙作为战斗舰已经完了，飞行甲板被摧毁，机库成了熊熊烈火。但第四艘航母飞龙号藏在雨幕中逃过了最初的攻击。飞龙号的进取型指挥官山口多闻少将已经发动了反击。十八架九九式俯冲轰炸机和六架零式护航战斗机找到了约克城号并投下三枚炸弹精确命中，摧毁了锅炉，使其瘫痪在海面上。第二波十架九七式鱼雷攻击机正在逼近。约克城号可能已经完了。但飞龙号仍然在外面，剩余的飞机正在准备再次攻击。如果不摧毁飞龙号，她可以继续逐一消灭美国航母。尼米兹面临关键决断：集中所有可用飞机在飞龙号再次起飞前找到并击沉她，还是将资源转向保护受损的美国航母免遭进一步攻击。"
+  },
+  "situationReport": [
+    {
+      "en": "Three Japanese carriers — Akagi, Kaga, Soryu — are ablaze and out of action",
+      "ja": "日本の空母3隻——赤城、加賀、蒼龍——が炎上し戦闘不能",
+      "zh-CN": "三艘日本航母——赤城、加贺、苍龙——正在燃烧，已失去战斗力"
+    },
+    {
+      "en": "Hiryu has launched a counterstrike that has crippled USS Yorktown with three bomb hits",
+      "ja": "飛龍が反撃を発動し、3発の爆弾命中でヨークタウンを大破させた",
+      "zh-CN": "飞龙号已发动反击，三枚炸弹命中重创了约克城号"
+    },
+    {
+      "en": "A second wave of torpedo bombers from Hiryu is inbound toward the American fleet",
+      "ja": "飛龍からの第二波雷撃機がアメリカ艦隊に向けて接近中",
+      "zh-CN": "飞龙号的第二波鱼雷轰炸机正向美国舰队逼近"
+    },
+    {
+      "en": "American dive bomber squadrons are rearming and refueling aboard Enterprise and Hornet, preparing for another strike",
+      "ja": "アメリカの急降下爆撃隊がエンタープライズとホーネットで再武装・燃料補給中、次の攻撃を準備している",
+      "zh-CN": "美国俯冲轰炸机中队正在企业号和大黄蜂号上重新装弹和加油，准备再次出击"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Eliminate the last operational Japanese carrier before it can inflict further damage",
+      "ja": "最後の作戦可能な日本空母がさらなる被害を与える前に撃滅する",
+      "zh-CN": "在最后一艘可作战的日本航母造成更多损害之前将其消灭"
+    },
+    {
+      "en": "Preserve as much American carrier strength as possible",
+      "ja": "アメリカの空母戦力を可能な限り温存する",
+      "zh-CN": "尽可能保全美国航母力量"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Yorktown is badly damaged and may not survive another attack",
+      "ja": "ヨークタウンは大きく損傷しており、もう一度の攻撃に耐えられないかもしれない",
+      "zh-CN": "约克城号严重受损，可能无法承受再一次攻击"
+    },
+    {
+      "en": "Hiryu's location is not precisely known — scout planes must find her first",
+      "ja": "飛龍の正確な位置は不明——まず偵察機が発見しなければならない",
+      "zh-CN": "飞龙号的确切位置不明——侦察机必须先找到她"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Focus everything on sinking Hiryu. Launch every available dive bomber the moment we locate her. A wounded carrier that can still launch planes is the most dangerous thing in the ocean right now.",
+        "ja": "すべてを飛龍撃沈に集中する。位置を特定した瞬間にすべての急降下爆撃機を発進させる。まだ航空機を発進できる損傷した空母は今の海上で最も危険な存在だ。",
+        "zh-CN": "集中一切力量击沉飞龙号。一旦锁定她的位置就出动所有可用的俯冲轰炸机。一艘仍能起飞飞机的受伤航母是目前海上最危险的东西。"
+      },
+      "historicalContext": "The historical choice — American dive bombers found and fatally struck Hiryu that afternoon, completing the destruction of all four Japanese fleet carriers.",
+      "outcomePrompt": {
+        "en": "A scout plane from Yorktown — launched before she was hit — reports Hiryu's position. At 3:30 PM, twenty-four SBD Dauntless dive bombers from Enterprise roar off the flight deck and head northwest. They find Hiryu at 5:00 PM, her deck crowded with planes being readied for a third strike. The dive bombers plunge down unopposed — Hiryu's few remaining Zeros are overwhelmed. Four bombs slam into the carrier. Within minutes, Hiryu joins her three sisters as a blazing wreck. Admiral Yamaguchi chooses to go down with his ship. By sunset on June 4th, 1942, all four carriers of the Kido Butai — the force that struck Pearl Harbor — are sinking or sunk. The Imperial Japanese Navy has suffered its most catastrophic defeat. The Pacific War has turned. Yorktown, though grievously wounded, remains afloat and her crew fights to save her. The sacrifice of the torpedo bomber crews was not in vain. Their courage bought the five minutes that changed the world.",
+        "ja": "ヨークタウンから被弾前に発進した偵察機が飛龍の位置を報告する。午後3時30分、エンタープライズから24機のSBDドーントレス急降下爆撃機が飛行甲板を離れ北西に向かう。午後5時に飛龍を発見——甲板は第三次攻撃の準備中の航空機で満たされている。急降下爆撃機が抵抗を受けずに突入する——飛龍の残りわずかな零戦は圧倒される。4発の爆弾が空母に命中。数分で飛龍は3隻の姉妹艦と同じく炎上する残骸となる。山口多聞少将は艦と運命を共にすることを選ぶ。1942年6月4日の日没までに、機動部隊の空母4隻すべて——真珠湾を攻撃した部隊——が沈没または沈没中となった。日本帝国海軍は最も壊滅的な敗北を喫した。太平洋戦争は転換した。ヨークタウンは重傷を負いながらも浮かんでおり、乗組員は艦を救うために戦っている。雷撃機搭乗員たちの犠牲は無駄ではなかった。彼らの勇気が世界を変えた5分間を生んだのだ。",
+        "zh-CN": "约克城号在被击中前起飞的一架侦察机报告了飞龙号的位置。下午3时30分，二十四架SBD无畏式俯冲轰炸机从企业号飞行甲板上轰鸣升空，向西北方飞去。下午5时，他们找到了飞龙号——她的甲板上挤满了正在准备第三波攻击的飞机。俯冲轰炸机在几乎无抵抗的情况下俯冲而下——飞龙号仅存的几架零式战斗机不堪重负。四枚炸弹命中航母。几分钟内，飞龙号和她的三艘姊妹舰一样成为燃烧的残骸。山口多闻少将选择与舰同沉。到1942年6月4日日落时分，机动部队的全部四艘航母——偷袭珍珠港的力量——正在沉没或已经沉没。日本帝国海军遭受了最灾难性的失败。太平洋战争发生了转折。约克城号虽然伤重，但仍然漂浮着，船员们在奋力抢救。鱼雷轰炸机机组人员的牺牲没有白费。他们的勇气换来了改变世界的五分钟。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "carrierStrength", "operation": "add", "value": 10 },
+        { "variable": "pilotExperience", "operation": "add", "value": 10 },
+        { "variable": "japaneseOverconfidence", "operation": "add", "value": -30 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Prioritize defense. Pull the remaining fighters back to protect Enterprise and Hornet. We have already sunk three carriers — we cannot afford to lose our own in pursuit of the fourth.",
+        "ja": "防御を優先する。残りの戦闘機をエンタープライズとホーネットの防御に戻す。すでに3隻の空母を撃沈した——4隻目を追って自らの空母を失う余裕はない。",
+        "zh-CN": "以防御为优先。将剩余战斗机调回保护企业号和大黄蜂号。我们已经击沉了三艘航母——不能为了追击第四艘而失去自己的航母。"
+      },
+      "historicalContext": "A counterfactual — the Americans historically prioritized the offensive strike against Hiryu rather than pulling back to defend.",
+      "outcomePrompt": {
+        "en": "The fighters are recalled to defend the American carriers. Enterprise and Hornet pull their combat air patrols in tight, creating a formidable defensive umbrella. When Hiryu's second wave of torpedo bombers arrives, they face a wall of anti-aircraft fire and Wildcat fighters. Most are shot down. The American carriers survive intact. But Hiryu also survives. Through the afternoon and into the evening, she launches harassing strikes — small, desperate attacks that force the American carriers to maneuver defensively rather than press the attack. It is not until the following morning that Enterprise's dive bombers finally find and sink Hiryu. By then, Yorktown has been torpedoed by a Japanese submarine and is lost. The victory is still decisive — three carriers sunk on the first day, the fourth on the second — but the delay has cost Yorktown and given the Japanese time to organize their retreat. The battle that might have ended in a single devastating afternoon stretches into two uncertain days.",
+        "ja": "戦闘機がアメリカ空母の防御に呼び戻される。エンタープライズとホーネットは戦闘空中哨戒を緊密に配置し、堅固な防御の傘を作る。飛龍の第二波雷撃機が到着した時、対空砲火とワイルドキャット戦闘機の壁に直面する。大半が撃墜される。アメリカの空母は無傷で生き残る。しかし飛龍も生き残る。午後から夕方にかけて、飛龍は嫌がらせ攻撃を繰り返し——小規模で必死の攻撃がアメリカ空母に攻撃よりも防御的な回避運動を強いる。エンタープライズの急降下爆撃機がようやく飛龍を発見し撃沈するのは翌朝のことだ。その頃にはヨークタウンが日本の潜水艦の魚雷を受けて失われている。勝利は依然として決定的だ——初日に3隻、二日目に4隻目を撃沈——しかし遅延がヨークタウンを犠牲にし、日本軍に撤退を組織する時間を与えた。壊滅的な一日の午後で終わるはずだった戦いが、不確かな二日間に引き延ばされた。",
+        "zh-CN": "战斗机被召回保卫美国航母。企业号和大黄蜂号将战斗空中巡逻机紧密布置，形成强大的防御伞。当飞龙号的第二波鱼雷轰炸机到达时，面对的是防空火力和野猫战斗机的铁壁。大部分被击落。美国航母完好无损地幸存下来。但飞龙号也幸存了。整个下午到傍晚，她不断发动骚扰性攻击——小规模但拼死的攻击迫使美国航母进行防御性机动而非发起进攻。直到第二天上午，企业号的俯冲轰炸机才终于找到并击沉了飞龙号。到那时，约克城号已被日本潜艇的鱼雷击中而沉没。胜利仍然是决定性的——第一天击沉三艘，第二天击沉第四艘——但延误使约克城号付出了代价，并给了日本人组织撤退的时间。一场本可在毁灭性的一个下午结束的战役，拖延成了充满不确定性的两天。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "carrierStrength", "operation": "add", "value": -5 },
+        { "variable": "pilotExperience", "operation": "add", "value": 5 },
+        { "variable": "japaneseOverconfidence", "operation": "add", "value": -20 }
+      ]
+    }
+  ],
+  "roleFilter": ["nimitz-commander"],
+  "isTerminal": true
+}

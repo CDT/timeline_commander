@@ -1,0 +1,73 @@
+{
+  "scenarioId": "spanish-armada-1588",
+  "timeline": [
+    {
+      "date": "1588-05-28",
+      "description": {
+        "en": "The Spanish Armada of 130 ships departs Lisbon under the Duke of Medina Sidonia, carrying approximately 30,000 men. The fleet's mission is to sail up the English Channel and rendezvous with the Duke of Parma's Army of Flanders.",
+        "ja": "メディナ・シドニア公率いる130隻のスペイン無敵艦隊がリスボンを出港。約3万人を乗せている。艦隊の任務はイギリス海峡を北上し、パルマ公のフランドル軍と合流すること。",
+        "zh-CN": "由梅迪纳-西多尼亚公爵率领的130艘西班牙无敌舰队从里斯本出发，载有约3万人。舰队的任务是沿英吉利海峡北上，与帕尔马公爵的佛兰德斯军团会合。"
+      }
+    },
+    {
+      "date": "1588-07-29",
+      "description": {
+        "en": "The Armada is sighted off the Lizard Point in Cornwall. English beacon fires are lit along the coast. Drake reportedly finishes his game of bowls on Plymouth Hoe before sailing to meet the enemy.",
+        "ja": "無敵艦隊がコーンウォールのリザード岬沖で発見される。イングランド沿岸で狼煙が焚かれる。ドレイクはプリマス・ホーでのボウルの試合を終えてから敵を迎え撃つために出航したと伝えられる。",
+        "zh-CN": "无敌舰队在康沃尔蜥蜴角外海被发现。英格兰沿海点燃烽火。据说德雷克在普利茅斯霍打完一局滚球后才出海迎敌。"
+      }
+    },
+    {
+      "date": "1588-07-31",
+      "description": {
+        "en": "The first engagement off Plymouth. English ships use their superior speed and gunnery range to harass the Armada from a distance, but fail to break the Spanish crescent formation.",
+        "ja": "プリマス沖で最初の交戦。イングランド船は優れた速度と射程を使って遠距離から無敵艦隊を攻撃するが、スペインの三日月陣形を崩すことはできなかった。",
+        "zh-CN": "普利茅斯外海首次交战。英格兰战船利用速度和射程优势从远处骚扰无敌舰队，但未能打破西班牙的新月阵形。"
+      }
+    },
+    {
+      "date": "1588-08-06",
+      "description": {
+        "en": "The Armada anchors at Calais to await contact with Parma's forces. The English fleet assembles downwind, joined by a squadron of ships from the Thames.",
+        "ja": "無敵艦隊はパルマの軍との連絡を待つためにカレーに停泊する。イングランド艦隊はテムズ川からの戦隊と合流し、風下に集結する。",
+        "zh-CN": "无敌舰队在加来锚泊等待与帕尔马军队取得联系。英格兰舰队在下风方向集结，有一支来自泰晤士河的分舰队加入。"
+      }
+    },
+    {
+      "date": "1588-08-07",
+      "description": {
+        "en": "At midnight, the English launch eight fireships — vessels packed with combustibles and loaded guns — into the anchored Armada. The Spanish cut their anchor cables in panic and scatter in all directions, destroying their disciplined formation forever.",
+        "ja": "真夜中、イングランドは8隻の火船——可燃物と装填された砲を積んだ船——を停泊中の無敵艦隊に放つ。スペインはパニックの中で錨綱を切り、四方八方に散乱し、規律ある陣形は永久に崩壊する。",
+        "zh-CN": "午夜时分，英格兰人向锚泊中的无敌舰队发射了八艘火船——满载易燃物和已装填大炮的船只。西班牙人在恐慌中砍断锚缆四散而逃，严整的阵形永远被摧毁。"
+      }
+    },
+    {
+      "date": "1588-08-08",
+      "description": {
+        "en": "The Battle of Gravelines. The English fleet attacks the scattered Armada at close range off the coast of Flanders. Several Spanish ships are sunk or driven ashore. With no anchors, damaged rigging, and the wind driving them toward the Flemish sandbanks, the Armada is forced to flee north around Scotland.",
+        "ja": "グラヴリーヌの海戦。イングランド艦隊がフランドル沖で散乱した無敵艦隊を近距離で攻撃する。数隻のスペイン船が沈没または座礁させられる。錨なし、索具損傷、風がフラマン沖の砂州に向かって吹く中、無敵艦隊はスコットランドを回って北に逃れることを余儀なくされる。",
+        "zh-CN": "格拉沃利讷海战。英格兰舰队在佛兰德斯海岸附近近距离攻击已散乱的无敌舰队。数艘西班牙船被击沉或被迫搁浅。没有锚、索具损坏、风向将他们推向佛兰德斯沙洲，无敌舰队被迫向北绕苏格兰逃离。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Spanish Armada was decisively defeated. The fleet was scattered by fireships at Calais, mauled at Gravelines, and then battered by Atlantic storms as it tried to return to Spain via Scotland and Ireland. Of the 130 ships that sailed, only about 65 returned. An estimated 15,000 Spanish sailors and soldiers perished. England's naval supremacy was established, and the attempted invasion proved to be the beginning of Spain's decline as the world's preeminent power.",
+    "ja": "スペイン無敵艦隊は決定的に敗北しました。艦隊はカレーの火船で散乱し、グラヴリーヌで壊滅的打撃を受け、スコットランドとアイルランド経由でスペインに帰還しようとした際に大西洋の嵐に打ちのめされました。出航した130隻のうち約65隻のみが帰還しました。推定15,000人のスペインの水兵と兵士が死亡しました。イングランドの海上覇権が確立され、侵攻の試みは世界の卓越した大国としてのスペインの衰退の始まりとなりました。",
+    "zh-CN": "西班牙无敌舰队遭受了决定性失败。舰队在加来被火船打散，在格拉沃利讷遭受重创，然后在试图经苏格兰和爱尔兰返回西班牙时被大西洋风暴摧残。出发的130艘船中仅约65艘返回。估计15000名西班牙水手和士兵丧生。英格兰的海上霸权由此确立，这次入侵尝试被证明是西班牙作为世界首要强国衰落的开端。"
+  },
+  "casualties": {
+    "en": "Spain: approximately 15,000 dead (from combat, shipwreck, and disease); 51-65 ships lost. England: approximately 100 killed in battle; 6,000-8,000 dead from disease in the aftermath; no ships lost.",
+    "ja": "スペイン：約15,000人死亡（戦闘、難破、疫病による）、51〜65隻喪失。イングランド：戦闘での死者約100人、その後の疫病で6,000〜8,000人死亡、船の損失なし。",
+    "zh-CN": "西班牙：约15000人死亡（战斗、沉船和疾病）；损失51至65艘船。英格兰：战斗中约100人阵亡；战后因疾病死亡6000至8000人；未损失船只。"
+  },
+  "significance": {
+    "en": "The defeat of the Spanish Armada was a turning point in European history. It preserved England's independence and Protestant settlement, shattered the myth of Spanish invincibility at sea, and marked the beginning of England's rise as a global maritime power. The campaign demonstrated the superiority of long-range gunnery and maneuverable warships over the traditional Mediterranean model of galley warfare and boarding tactics. It also showed the decisive role of weather in naval warfare, earning the famous attribution to the 'Protestant Wind' that scattered the Armada.",
+    "ja": "スペイン無敵艦隊の敗北はヨーロッパ史上の転換点でした。イングランドの独立とプロテスタント体制を守り、海上におけるスペインの無敵神話を打ち砕き、世界的な海洋大国としてのイングランドの台頭の始まりを示しました。この作戦は、ガレー戦争と接舷戦術という伝統的な地中海モデルに対する長距離砲撃と機動性のある軍艦の優位性を実証しました。また、海戦における天候の決定的な役割を示し、無敵艦隊を散乱させた「プロテスタントの風」という有名な言い回しを生みました。",
+    "zh-CN": "西班牙无敌舰队的覆灭是欧洲历史的转折点。它保住了英格兰的独立和新教体制，粉碎了西班牙海上无敌的神话，标志着英格兰崛起为全球海上强国的开端。这场战役证明了远程火炮和灵活战船相对于传统地中海式桨帆船战和接舷战术的优越性。它还展示了天气在海战中的决定性作用，产生了那句著名的'新教之风'的说法——正是这风将无敌舰队吹散。"
+  },
+  "furtherReading": [
+    "Robert Hutchinson — The Spanish Armada",
+    "Colin Martin & Geoffrey Parker — The Spanish Armada: Revised Edition",
+    "Neil Hanson — The Confident Hope of a Miracle: The True History of the Spanish Armada"
+  ]
+}

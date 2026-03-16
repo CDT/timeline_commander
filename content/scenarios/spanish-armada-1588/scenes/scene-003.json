@@ -1,0 +1,109 @@
+{
+  "id": "spanish-armada-1588-scene-003",
+  "scenarioId": "spanish-armada-1588",
+  "title": "The Battle of Gravelines",
+  "date": {
+    "en": "August 8, 1588",
+    "ja": "1588年8月8日",
+    "zh-CN": "1588年8月8日"
+  },
+  "location": {
+    "en": "Off Gravelines, Flemish Coast",
+    "ja": "フランドル沿岸、グラヴリーヌ沖",
+    "zh-CN": "佛兰德斯海岸格拉沃利讷外海"
+  },
+  "narrativePrompt": {
+    "en": "Dawn reveals the Armada in disarray. The fireships have done their work. Spanish ships are scattered along the Flemish coast, many without anchors, their crews exhausted from a night of chaos. The wind is blowing from the southwest, pushing the Spanish toward the deadly sandbanks of Flanders. This is the moment. Your fleet has the weather gauge, the enemy is scattered, and the wind is your ally. But your ammunition is critically low — perhaps enough for one sustained engagement. Lord Howard has committed the full fleet. You must decide how to fight this battle: do you close to point-blank range and pour everything into a single devastating broadside engagement, or do you maintain discipline and fight at medium range to preserve your ships for the aftermath? This is the decisive battle. Everything depends on the next few hours.",
+    "ja": "夜明けが無敵艦隊の混乱を明らかにする。火船がその役割を果たした。スペイン船はフランドル沿岸に散乱し、多くは錨を失い、乗組員は一晩の混乱で疲弊している。風は南西から吹き、スペインをフランドルの危険な砂州に押しやっている。この瞬間だ。あなたの艦隊は風上位置を占め、敵は散乱し、風は味方だ。しかし弾薬は決定的に不足している——一回の持続的交戦分しかないかもしれない。ハワード卿は全艦隊を投入した。この戦いをどう戦うか決めなければならない：至近距離に接近して一回の壊滅的な舷側砲撃戦にすべてを注ぎ込むか、規律を保って中距離で戦い、その後のために船を温存するか？これが決定的な戦いだ。すべてが次の数時間にかかっている。",
+    "zh-CN": "黎明揭示了无敌舰队的混乱。火船完成了使命。西班牙船只沿佛兰德斯海岸散落，许多船失去了锚，船员在一夜的混乱中精疲力竭。风从西南方向吹来，将西班牙人推向致命的佛兰德斯沙洲。时机到了。您的舰队占据上风位，敌人溃散，风是您的盟友。但弹药已严重不足——也许只够一次持续交战。霍华德勋爵已投入全部舰队。您必须决定如何打这场仗：逼近到近乎零距离倾泻一切进行毁灭性的舷炮交战，还是保持纪律在中距离作战以保全战后的船只？这是决定性的战役。一切取决于接下来几个小时。"
+  },
+  "situationReport": [
+    {
+      "en": "The Armada is scattered — the crescent formation is broken, ships are isolated or in small groups",
+      "ja": "無敵艦隊は散乱している——三日月陣形は崩壊し、船は孤立しているか小集団になっている",
+      "zh-CN": "无敌舰队已溃散——新月阵形被打破，船只孤立或聚成小群"
+    },
+    {
+      "en": "Southwest wind is pushing Spanish ships toward the Flemish sandbanks — a death trap for deep-drafted galleons",
+      "ja": "南西風がスペイン船をフランドルの砂州に押しやっている——喫水の深いガレオン船にとっての死の罠",
+      "zh-CN": "西南风正将西班牙船推向佛兰德斯沙洲——深吃水帆船的死亡陷阱"
+    },
+    {
+      "en": "English ammunition stores are critically depleted — this is the last major engagement you can sustain",
+      "ja": "イングランドの弾薬備蓄は決定的に枯渇している——これがあなたが維持できる最後の大きな交戦",
+      "zh-CN": "英格兰弹药储备已严重耗尽——这是您能维持的最后一次大规模交战"
+    },
+    {
+      "en": "Many Spanish ships have lost their anchors — they cannot stop even if they want to",
+      "ja": "多くのスペイン船が錨を失っている——望んでも止まることができない",
+      "zh-CN": "许多西班牙船已失去锚——即使想停也停不下来"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Destroy or cripple enough Spanish ships to prevent any possibility of invasion",
+      "ja": "侵攻の可能性を排除するのに十分なスペイン船を撃破または無力化する",
+      "zh-CN": "击沉或重创足够多的西班牙船只，彻底消除入侵的可能性"
+    },
+    {
+      "en": "Force the Armada away from the Flemish coast and its rendezvous with Parma",
+      "ja": "無敵艦隊をフランドル沿岸とパルマとの合流点から追い払う",
+      "zh-CN": "迫使无敌舰队远离佛兰德斯海岸及其与帕尔马的会合点"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your ammunition will last for approximately four to six hours of sustained combat — then your guns fall silent",
+      "ja": "弾薬は約4〜6時間の持続的戦闘に持つ——それ以降は砲が沈黙する",
+      "zh-CN": "弹药大约够支撑四到六小时的持续战斗——之后火炮将沉默"
+    },
+    {
+      "en": "Some Spanish ships are reforming around Medina Sidonia's flagship — the window of vulnerability is closing",
+      "ja": "一部のスペイン船がメディナ・シドニアの旗艦周辺で再編成している——脆弱性の窓が閉じつつある",
+      "zh-CN": "一些西班牙船正在梅迪纳-西多尼亚旗舰周围重新集结——脆弱窗口正在关闭"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Close to point-blank range and fight a general melee. Use every shot at maximum effect. Sink as many as possible and let the wind and sandbanks do the rest.",
+        "ja": "至近距離に接近して全面的な乱戦を行う。すべての砲弾を最大効果で使う。できるだけ多くを沈め、風と砂州に残りを任せる。",
+        "zh-CN": "逼近至零距离展开全面混战。让每一发炮弹发挥最大效力。尽可能多地击沉敌船，让风和沙洲解决剩下的。"
+      },
+      "historicalContext": "The historical approach — at Gravelines, the English closed to effective range for the first time in the campaign and inflicted devastating damage on the scattered Spanish ships.",
+      "outcomePrompt": {
+        "en": "You lead the Revenge straight at the nearest cluster of Spanish ships and open fire at one hundred yards. At this range, every shot tells. English culverins smash through Spanish hulls below the waterline. The San Felipe is reduced to a floating wreck. The Maria Juan sinks with all hands. Ship after ship is battered into helplessness. The battle rages for eight hours along a twenty-mile stretch of the Flemish coast. By afternoon, your guns fall silent — not because you choose to stop, but because every last pound of powder and shot is spent. Five Spanish ships have been sunk or driven ashore. Dozens more are damaged beyond repair. And then the wind shifts to the northwest, and the crippled Armada is driven away from the coast, away from Parma, away from any hope of invasion — northward, toward the long and terrible voyage around Scotland and Ireland. You stand on the deck of the Revenge and watch the greatest fleet in the world disappear over the horizon, broken and fleeing. England is saved.",
+        "ja": "リヴェンジを最も近いスペイン船の集団に向けて突進させ、100ヤードで砲撃を開始する。この距離ではすべての砲弾が命中する。イングランドのカルバリン砲がスペインの船体を喫水線下で粉砕する。サン・フェリペは漂流する残骸と化す。マリア・フアンは全乗組員とともに沈没する。次々と船が無力化される。戦闘はフランドル沿岸20マイルにわたって8時間続く。午後になると砲は沈黙する——やめたいからではなく、最後の一ポンドの火薬と砲弾が使い尽くされたからだ。5隻のスペイン船が沈没または座礁させられた。さらに数十隻が修復不能な損傷を受けた。そして風が北西に変わり、傷ついた無敵艦隊は沿岸から、パルマから、いかなる侵攻の望みからも遠ざけられる——北へ、スコットランドとアイルランドを回る長く恐ろしい航海へと。あなたはリヴェンジの甲板に立ち、世界最強の艦隊が砕かれ逃走しながら水平線の彼方に消えていくのを見つめる。イングランドは救われた。",
+        "zh-CN": "您驾驶复仇号直扑最近的西班牙船群，在一百码处开火。在这个距离，每一发都命中要害。英格兰长炮在吃水线以下击穿西班牙船体。圣费利佩号沦为漂浮的残骸。玛利亚·胡安号连同全体船员一同沉没。一艘接一艘的战船被打成废铁。战斗沿佛兰德斯海岸二十英里的范围内激战了八个小时。下午时分，您的炮声沉寂了——不是因为您选择停止，而是最后一磅火药和炮弹都已耗尽。五艘西班牙船被击沉或搁浅。数十艘受到无法修复的损伤。然后风向转为西北，残破的无敌舰队被吹离海岸，远离帕尔马，远离任何入侵的希望——向北，踏上绕过苏格兰和爱尔兰的漫长而可怕的航程。您站在复仇号的甲板上，看着世界上最强大的舰队残破不堪地消失在地平线上。英格兰得救了。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "spanishFormation", "operation": "set", "value": 0 },
+        { "variable": "englishMorale", "operation": "add", "value": 25 },
+        { "variable": "fleetReadiness", "operation": "add", "value": -20 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Fight at medium range to conserve ships and ammunition. Herd the Armada toward the sandbanks and let the Flemish shallows finish what your guns started.",
+        "ja": "船と弾薬を温存するため中距離で戦う。無敵艦隊を砂州に追い込み、フランドルの浅瀬に砲が始めたことを完遂させる。",
+        "zh-CN": "在中距离作战以保存船只和弹药。将无敌舰队赶向沙洲，让佛兰德斯浅滩完成火炮开始的工作。"
+      },
+      "historicalContext": "A counterfactual — a more conservative approach that relied on the geography of the Flemish coast rather than close-range gunnery to destroy the Armada.",
+      "outcomePrompt": {
+        "en": "You fight at three hundred yards, using your maneuverability to stay between the Armada and the open sea, herding them relentlessly toward the Flemish sandbanks. The gunnery is less effective at this range, but you are losing fewer ships and spending less ammunition. Two Spanish galleons run aground on the sandbanks and are pounded to pieces by the surf. Three more collide with each other trying to avoid the shallows. The Armada, desperate to escape the death trap, crowds northward. Then the wind shifts — the same providential northwest wind — and the Spanish are driven out to sea and away from Parma forever. Your fleet is intact, your losses minimal. The Armada flees north around Scotland, where the Atlantic storms will destroy what your guns and fireships could not. You have won not through a single brilliant stroke but through relentless pressure, patience, and the merciless geography of the Flemish coast. England is saved.",
+        "ja": "300ヤードで戦い、機動性を活かして無敵艦隊と外海の間に位置し、容赦なくフランドルの砂州に追い込む。この距離では砲撃の効果は低いが、船の損失は少なく弾薬の消費も少ない。2隻のスペインガレオン船が砂州に座礁し、砕け波に打ち砕かれる。さらに3隻が浅瀬を避けようとして衝突する。死の罠から逃れようと必死の無敵艦隊は北に群がる。そして風が変わる——同じ摂理的な北西風——スペインは海に押し出され、パルマから永遠に遠ざけられる。あなたの艦隊は無傷で、損失は最小限だ。無敵艦隊はスコットランドを回って北に逃走し、大西洋の嵐があなたの砲と火船が果たせなかったことを果たす。あなたは一つの輝かしい一撃ではなく、容赦ない圧力、忍耐、そしてフランドル沿岸の無慈悲な地形によって勝利した。イングランドは救われた。",
+        "zh-CN": "您在三百码距离交战，利用机动性始终挡在无敌舰队和大海之间，将他们不断逼向佛兰德斯沙洲。这个距离的炮击效果较差，但您的船只损失更少，弹药消耗也更低。两艘西班牙帆船搁浅在沙洲上，被海浪击成碎片。另外三艘在试图避开浅滩时相互碰撞。无敌舰队为逃脱死亡陷阱拼命向北挤去。然后风向改变——同样那股天赐的西北风——西班牙人被吹向大海，永远远离了帕尔马。您的舰队完好无损，损失微乎其微。无敌舰队向北绕过苏格兰逃亡，大西洋风暴将完成您的火炮和火船未竟之事。您不是凭借一次辉煌的打击取胜，而是凭借不懈的压力、耐心和佛兰德斯海岸无情的地理条件赢得了胜利。英格兰得救了。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "spanishFormation", "operation": "set", "value": 5 },
+        { "variable": "englishMorale", "operation": "add", "value": 20 },
+        { "variable": "fleetReadiness", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

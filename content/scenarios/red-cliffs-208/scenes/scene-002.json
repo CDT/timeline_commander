@@ -1,0 +1,108 @@
+{
+  "id": "red-cliffs-208-scene-002",
+  "scenarioId": "red-cliffs-208",
+  "title": "Huang Gai's Defection Ruse",
+  "date": {
+    "en": "November, 208 AD",
+    "ja": "208年11月",
+    "zh-CN": "公元208年11月"
+  },
+  "location": {
+    "en": "Allied Naval Camp, Red Cliffs",
+    "ja": "連合軍水営、赤壁",
+    "zh-CN": "联军水寨，赤壁"
+  },
+  "narrativePrompt": {
+    "en": "The allied fleet has anchored at Red Cliffs, and initial skirmishes have confirmed Zhou Yu's belief: Cao Cao's northerners cannot fight on the water. But Cao Cao is no fool — he has chained his warships together in massive floating platforms to neutralize the rocking that cripples his troops. This makes his fleet more stable but also more vulnerable to one devastating tactic: fire. The veteran general Huang Gai comes to Zhou Yu with a bold plan. He will pretend to defect to Cao Cao, sending a surrender letter and sailing toward the northern fleet with ships loaded with oil-soaked kindling. But the ruse requires absolute secrecy and perfect timing. Huang Gai must be publicly beaten by Zhou Yu to make the defection believable — a painful sacrifice for a loyal officer. Zhou Yu must decide whether to commit to this risky deception or pursue a more conventional naval engagement.",
+    "ja": "連合艦隊は赤壁に布陣し、最初の小競り合いで周瑜の信念は確認された：曹操の北方兵は水上で戦えない。しかし曹操は愚かではない——彼は巨大な浮き足場として軍船を鎖で連結し、兵士を苦しめる揺れを無効化した。これにより艦隊は安定したが、同時に壊滅的な戦術——火攻めに対してより脆弱にもなった。老将・黄蓋が大胆な計画を持って周瑜のもとに来た。曹操に偽の投降をし、降伏の書状を送り、油を染み込ませた薪を積んだ船で北方の艦隊に向かうという。しかしこの策には絶対的な秘密と完璧なタイミングが必要だ。黄蓋は投降を信じさせるために周瑜に公衆の前で棒叩きの刑を受けなければならない——忠誠な将校にとっては痛みを伴う犠牲だ。周瑜はこの危険な欺瞞に踏み切るか、より正攻法の水戦を行うかを決めなければならない。",
+    "zh-CN": "联军舰队已在赤壁驻扎，初次交锋证实了周瑜的判断：曹操的北方兵无法水战。但曹操并非愚人——他将战船用铁链连成巨大的浮动平台，消除了令其士兵痛苦的摇晃。这使舰队更加稳定，但也更容易遭受一种毁灭性战术的打击：火攻。老将黄盖带着一个大胆的计划来到周瑜面前。他将假装投降曹操，发送降书，然后驾驶满载浸油干柴的船只驶向北方舰队。但这个计谋需要绝对保密和完美时机。黄盖必须被周瑜当众杖责以使投降看起来可信——对一位忠诚将领来说这是痛苦的牺牲。周瑜必须决定是投入这场冒险的欺骗行动，还是采取更为常规的水战方式。"
+  },
+  "situationReport": [
+    {
+      "en": "Cao Cao has chained his warships together — stable platforms but extremely vulnerable to fire",
+      "ja": "曹操は軍船を鎖で連結した——安定した足場だが火に対して極めて脆弱",
+      "zh-CN": "曹操已将战船用铁链连接——平台稳固但极易遭受火攻"
+    },
+    {
+      "en": "Disease continues to ravage Cao Cao's camp — morale among his northern troops is declining",
+      "ja": "疫病が曹操の陣営を蝕み続けている——北方兵の士気は低下中",
+      "zh-CN": "瘟疫继续肆虐曹操营寨——北方士兵士气持续下降"
+    },
+    {
+      "en": "Huang Gai has volunteered to feign defection and lead a fire ship attack",
+      "ja": "黄蓋が偽りの投降と火船攻撃の指揮を志願した",
+      "zh-CN": "黄盖自愿诈降并率领火船攻击"
+    },
+    {
+      "en": "The southeast wind needed to carry fire ships toward Cao Cao's fleet is seasonal and unpredictable",
+      "ja": "曹操の艦隊に火船を運ぶために必要な東南の風は季節的で予測不可能",
+      "zh-CN": "将火船吹向曹操舰队所需的东南风具有季节性且难以预测"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Prepare a decisive attack that can destroy Cao Cao's fleet in a single blow",
+      "ja": "曹操の艦隊を一撃で壊滅させる決定的攻撃を準備する",
+      "zh-CN": "准备能一击摧毁曹操舰队的决定性进攻"
+    },
+    {
+      "en": "Maintain the secrecy of the fire attack plan",
+      "ja": "火攻め計画の秘密を維持する",
+      "zh-CN": "确保火攻计划的保密"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The fire attack depends on a southeast wind — if it does not come, the plan fails catastrophically",
+      "ja": "火攻めは東南の風に依存する——風が来なければ計画は壊滅的に失敗する",
+      "zh-CN": "火攻依赖东南风——若风不来，计划将灾难性地失败"
+    },
+    {
+      "en": "Huang Gai's public punishment must be convincing enough to fool Cao Cao's spies",
+      "ja": "黄蓋への公開処罰は曹操の間者を欺くのに十分説得力のあるものでなければならない",
+      "zh-CN": "黄盖的当众受罚必须足够逼真以骗过曹操的间谍"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Commit to Huang Gai's fire attack plan. Stage the public beating and send the false surrender letter to Cao Cao.",
+        "ja": "黄蓋の火攻め計画に踏み切る。公開の棒叩きを演出し、曹操に偽の降伏書を送る。",
+        "zh-CN": "全力执行黄盖的火攻计划。上演当众杖责，并向曹操送出诈降书。"
+      },
+      "historicalContext": "The historical choice — Zhou Yu approved Huang Gai's stratagem, which became the decisive factor at Red Cliffs.",
+      "outcomePrompt": {
+        "en": "Zhou Yu orders the staged confrontation. In front of the entire camp, Huang Gai argues loudly against Zhou Yu's strategy, calling it reckless. Zhou Yu, playing his part, orders Huang Gai beaten with fifty strokes. The old general's back is bloodied — the punishment is real enough to convince everyone. Word reaches Cao Cao's camp that one of Wu's senior generals has been humiliated and is seeking to defect. Cao Cao's advisor Jiang Gan has already been cultivating contacts in the allied camp and confirms the story. The trap is set. Now everything depends on the wind.",
+        "ja": "周瑜は演出された対立を命じる。全陣営の前で、黄蓋は周瑜の戦略に声高に反対し、無謀だと非難する。周瑜は役を演じ、黄蓋に五十回の棒叩きを命じる。老将の背中は血に染まる——罰は全員を納得させるに十分な本物だ。呉の重臣が辱めを受けて投降を企てているという噂が曹操の陣営に届く。曹操の顧問・蒋幹は既に連合軍の陣営で情報源を培っており、その話を裏付ける。罠は仕掛けられた。あとは全てが風次第だ。",
+        "zh-CN": "周瑜下令上演冲突。在全营面前，黄盖大声反对周瑜的战略，称之为鲁莽。周瑜按照剧本，下令对黄盖施以五十军棍。老将的后背血肉模糊——惩罚真实得足以说服所有人。消息传到曹操营中：吴军一位资深将领遭受屈辱，意图投降。曹操的谋士蒋干已在联军营中培植了眼线，证实了此事。陷阱已经布下。现在一切取决于风。"
+      },
+      "nextSceneId": "red-cliffs-208-scene-003",
+      "stateChanges": [
+        { "variable": "fireAttackReady", "operation": "set", "value": 100 },
+        { "variable": "caoStrength", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Reject the fire attack as too risky. Instead, plan a conventional naval assault exploiting the allies' superior seamanship.",
+        "ja": "火攻めはリスクが高すぎるとして却下する。代わりに、連合軍の優れた航海術を活かした正攻法の水上攻撃を計画する。",
+        "zh-CN": "以风险过高为由否决火攻计划。改为计划利用联军优越的水战技术发动常规水上进攻。"
+      },
+      "historicalContext": "A counterfactual — without the fire attack, the allies would have faced a far more prolonged and uncertain campaign.",
+      "outcomePrompt": {
+        "en": "Zhou Yu decides the fire attack depends on too many variables — wind, timing, Cao Cao's gullibility — and opts for a direct naval engagement. The allied fleet launches a series of aggressive raids against Cao Cao's chained armada, using their superior maneuverability to strike and withdraw. The raids inflict real damage: several ships are sunk, and Cao Cao's troops suffer badly on the rocking vessels. But the chained fleet remains intact as a whole. Cao Cao begins unchaining select ships for counter-raids, and the battle settles into a grinding attrition. The alliance's only hope now is that disease and supply problems will break Cao Cao before he can overwhelm them through sheer numbers.",
+        "ja": "周瑜は火攻めが風、タイミング、曹操の油断という多くの変数に依存しすぎると判断し、正面からの水戦を選ぶ。連合艦隊は曹操の連結された艦隊に対して一連の積極的な奇襲を行い、優れた機動力を活かして攻撃と撤退を繰り返す。奇襲は実際の損害を与え、数隻が撃沈され、曹操の兵士たちは揺れる船上で大いに苦しむ。しかし連結された艦隊は全体としては健在だ。曹操は反撃用に一部の船の鎖を外し始め、戦いは消耗戦の様相を呈し始める。同盟の唯一の望みは、疫病と補給問題が曹操を圧倒的な数で押し潰される前に打ち砕くことだ。",
+        "zh-CN": "周瑜认为火攻依赖太多变数——风向、时机、曹操的轻信——决定采取正面水战。联军舰队对曹操的连环战船发动一系列猛烈袭击，利用优越的机动性打了就跑。袭击造成了实际损失：数艘船被击沉，曹操的士兵在摇晃的船上痛苦不堪。但连环舰队整体仍然完好。曹操开始解开部分战船的铁链进行反击，战斗陷入消耗战。联盟现在唯一的希望是疫病和补给问题能在曹操以绝对数量优势压垮他们之前将其击溃。"
+      },
+      "nextSceneId": "red-cliffs-208-scene-003",
+      "stateChanges": [
+        { "variable": "fireAttackReady", "operation": "set", "value": 0 },
+        { "variable": "caoStrength", "operation": "add", "value": -10 },
+        { "variable": "navalSuperiority", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,163 @@
+{
+  "id": "american-revolution-1776",
+  "title": {
+    "en": "American Revolution",
+    "ja": "アメリカ独立革命",
+    "zh-CN": "美国独立革命"
+  },
+  "period": {
+    "en": "Age of Revolution",
+    "ja": "革命の時代",
+    "zh-CN": "革命时代"
+  },
+  "dates": {
+    "start": "1776-07-04",
+    "end": "1776-12-26"
+  },
+  "location": {
+    "en": "Philadelphia / New York / Trenton",
+    "ja": "フィラデルフィア / ニューヨーク / トレントン",
+    "zh-CN": "费城 / 纽约 / 特伦顿"
+  },
+  "historicalOverview": {
+    "en": "The summer and autumn of 1776 were the darkest period of the American Revolution. The Declaration of Independence, adopted on July 4th, announced the birth of a new nation — but the military reality was dire. The Continental Army, poorly trained and badly supplied, faced the full might of the British Empire. General William Howe landed the largest expeditionary force in British history on Long Island in August and routed Washington's army in a series of devastating defeats. New York fell. Fort Washington fell. The army retreated across New Jersey in disarray, losing men to desertion, disease, and expiring enlistments. By December, the cause seemed lost. Then Washington gambled everything on a desperate crossing of the Delaware River on Christmas night, striking the Hessian garrison at Trenton in a surprise attack that saved the Revolution.",
+    "ja": "1776年の夏から秋にかけては、アメリカ独立革命の最も暗い時期でした。7月4日に採択された独立宣言は新しい国家の誕生を告げましたが、軍事的現実は深刻でした。訓練不足で補給も不十分な大陸軍は、大英帝国の全力に直面していました。ウィリアム・ハウ将軍は8月にイギリス史上最大の遠征軍をロングアイランドに上陸させ、壊滅的な一連の敗北でワシントンの軍を敗走させました。ニューヨークが陥落しました。ワシントン砦が陥落しました。軍はニュージャージーを横断して混乱の中で後退し、脱走、病気、期限切れの入隊期間によって兵力を失いました。12月までに、大義は失われたように見えました。そしてワシントンはクリスマスの夜のデラウェア川の必死の渡河にすべてを賭け、トレントンのヘッセン守備隊を奇襲し、革命を救いました。",
+    "zh-CN": "1776年的夏秋之际是美国独立革命最黑暗的时期。7月4日通过的《独立宣言》宣告了一个新国家的诞生——但军事现实却十分严峻。训练不足、补给匮乏的大陆军面对着大英帝国的全部力量。威廉·豪将军8月在长岛登陆了英国历史上最大的远征军，并在一系列毁灭性的失败中击溃了华盛顿的军队。纽约沦陷。华盛顿堡沦陷。军队在混乱中穿越新泽西撤退，因逃兵、疾病和入伍期满而不断减员。到12月，大业似乎已经失败。然后华盛顿孤注一掷，在圣诞夜强渡特拉华河，对特伦顿的黑森守军发动突袭，挽救了革命。"
+  },
+  "realWorldOutcome": {
+    "en": "Washington's crossing of the Delaware and the Battle of Trenton on December 26, 1776, was a turning point. The Continental Army captured nearly 1,000 Hessian soldiers and suffered minimal casualties. The victory restored morale, encouraged re-enlistments, and proved that the Continental Army could defeat professional European soldiers. It was followed by a second victory at Princeton on January 3, 1777. Together, these actions saved the Revolution from collapse during its most vulnerable moment.",
+    "ja": "ワシントンのデラウェア川渡河と1776年12月26日のトレントンの戦いは転換点でした。大陸軍は約1,000人のヘッセン兵を捕虜にし、最小限の損害で済みました。この勝利は士気を回復させ、再入隊を促し、大陸軍がヨーロッパの職業軍人を打ち負かせることを証明しました。1777年1月3日のプリンストンでの2度目の勝利がこれに続きました。これらの行動が合わさって、最も脆弱な瞬間に革命を崩壊から救いました。",
+    "zh-CN": "华盛顿横渡特拉华河和1776年12月26日的特伦顿战役是一个转折点。大陆军俘获了近1000名黑森士兵，自身伤亡极小。这场胜利恢复了士气，鼓励了重新入伍，并证明大陆军能够击败欧洲职业军人。随后在1777年1月3日又在普林斯顿取得了第二次胜利。这些行动共同在革命最脆弱的时刻将其从崩溃中拯救出来。"
+  },
+  "keyFigures": [
+    {
+      "id": "washington",
+      "name": "George Washington",
+      "role": {
+        "en": "Commander-in-Chief of the Continental Army",
+        "ja": "大陸軍総司令官",
+        "zh-CN": "大陆军总司令"
+      },
+      "faction": "United States",
+      "description": {
+        "en": "The Virginian planter and former British officer who accepted command of the Continental Army, holding together a disintegrating force through sheer force of will during the darkest months of 1776.",
+        "ja": "大陸軍の指揮を引き受けたバージニアの農園主で元イギリス軍将校。1776年の最も暗い月々の間、純粋な意志の力で崩壊しかけた軍を維持し続けた。",
+        "zh-CN": "接受大陆军指挥权的弗吉尼亚种植园主和前英国军官，在1776年最黑暗的岁月中凭借纯粹的意志力维系着一支行将瓦解的军队。"
+      }
+    },
+    {
+      "id": "howe",
+      "name": "William Howe",
+      "role": {
+        "en": "Commander-in-Chief of British Forces in North America",
+        "ja": "北米イギリス軍総司令官",
+        "zh-CN": "北美英军总司令"
+      },
+      "faction": "Great Britain",
+      "description": {
+        "en": "The British general who commanded the overwhelming force that drove Washington out of New York but repeatedly failed to deliver the decisive blow that would end the rebellion.",
+        "ja": "ワシントンをニューヨークから追い出した圧倒的な軍勢を指揮したイギリスの将軍。しかし反乱を終わらせる決定的な打撃を繰り返し与え損ねた。",
+        "zh-CN": "指挥压倒性兵力将华盛顿赶出纽约的英国将军，但屡次未能给出结束叛乱的决定性打击。"
+      }
+    },
+    {
+      "id": "rahl",
+      "name": "Johann Rahl",
+      "role": {
+        "en": "Commander of the Hessian Garrison at Trenton",
+        "ja": "トレントンのヘッセン守備隊司令官",
+        "zh-CN": "特伦顿黑森守军指挥官"
+      },
+      "faction": "Great Britain",
+      "description": {
+        "en": "The Hessian colonel commanding the garrison at Trenton who was surprised and killed during Washington's dawn attack on December 26, 1776.",
+        "ja": "1776年12月26日のワシントンの夜明けの攻撃で奇襲を受けて戦死した、トレントン守備隊を指揮していたヘッセンの大佐。",
+        "zh-CN": "指挥特伦顿守军的黑森上校，在1776年12月26日华盛顿的黎明突袭中被击毙。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "washington-role",
+      "scenarioId": "american-revolution-1776",
+      "name": "George Washington",
+      "title": {
+        "en": "Commander-in-Chief of the Continental Army",
+        "ja": "大陸軍総司令官",
+        "zh-CN": "大陆军总司令"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are General George Washington, Commander-in-Chief of the Continental Army. It is the summer of 1776. The Continental Congress has just declared independence from Great Britain — a bold act that has made every man who signed the Declaration a traitor in the eyes of the Crown. You now bear the burden of making that declaration a reality on the battlefield. Your army is brave but untested against professional soldiers, poorly supplied, and held together by short-term enlistments that expire at year's end. The largest fleet Britain has ever assembled is approaching New York Harbor with over 30,000 troops, including feared Hessian mercenaries. You must find a way to keep your army alive, maintain the confidence of Congress, and prove that the cause of independence can survive the might of the British Empire.",
+        "ja": "あなたは大陸軍総司令官、ジョージ・ワシントン将軍です。1776年の夏です。大陸会議はイギリスからの独立を宣言したばかりです——独立宣言に署名したすべての者を王室の目には反逆者とする大胆な行為です。あなたは今、その宣言を戦場で現実にする重荷を背負っています。あなたの軍は勇敢ですが、職業軍人との戦いの経験はなく、補給も不十分で、年末に期限が切れる短期入隊によって維持されています。イギリスが史上最大の艦隊を恐れられるヘッセン傭兵を含む3万人以上の兵力とともにニューヨーク港に近づいています。あなたは軍を存続させ、議会の信頼を維持し、独立の大義が大英帝国の力に耐えられることを証明する方法を見つけなければなりません。",
+        "zh-CN": "您是大陆军总司令乔治·华盛顿将军。现在是1776年夏天。大陆会议刚刚宣布脱离英国独立——这一大胆行为使每一位在《独立宣言》上签名的人在英王眼中都成了叛国者。您现在肩负着在战场上将这一宣言变为现实的重担。您的军队勇敢但未经职业军人的考验，补给匮乏，靠年底到期的短期入伍维系。英国有史以来最大的舰队正带着超过3万名士兵——包括令人畏惧的黑森雇佣军——驶向纽约港。您必须找到办法让军队存活下来，维持国会的信心，并证明独立事业能够经受住大英帝国的力量。"
+      },
+      "objectives": [
+        {
+          "en": "Maintain army cohesion despite devastating defeats and mass desertions",
+          "ja": "壊滅的な敗北と大量脱走にもかかわらず軍の結束を維持する",
+          "zh-CN": "在遭受毁灭性失败和大量逃兵的情况下维持军队凝聚力"
+        },
+        {
+          "en": "Secure American independence through military survival and strategic victories",
+          "ja": "軍の存続と戦略的勝利を通じてアメリカの独立を確保する",
+          "zh-CN": "通过军事生存和战略性胜利确保美国独立"
+        },
+        {
+          "en": "Survive British military superiority through maneuver and unconventional tactics",
+          "ja": "機動と非正規戦術によってイギリスの軍事的優位を生き延びる",
+          "zh-CN": "通过机动和非常规战术在英国军事优势下生存"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Enlistments expire on December 31st — if you cannot inspire the men, the army will simply dissolve",
+          "ja": "入隊期間は12月31日に満了する——兵士たちを鼓舞できなければ、軍は単に消滅する",
+          "zh-CN": "入伍期于12月31日届满——如果您无法激励士兵，军队将直接解散"
+        },
+        {
+          "en": "Congress controls funding and political authority; military setbacks erode their support",
+          "ja": "議会が資金と政治的権限を管理している。軍事的挫折は彼らの支持を損なう",
+          "zh-CN": "国会控制着资金和政治权力；军事挫折会侵蚀他们的支持"
+        },
+        {
+          "en": "The British have naval superiority — they can land troops anywhere along the coast",
+          "ja": "イギリスは海軍力で優位に立っている——海岸線のどこにでも軍を上陸させることができる",
+          "zh-CN": "英国拥有海军优势——他们可以在海岸线任何地方登陆军队"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Each defeat strengthens the Loyalist argument that independence is a doomed fantasy",
+          "ja": "敗北するたびに、独立は運命づけられた幻想であるという王党派の主張が強まる",
+          "zh-CN": "每一次失败都加强了保皇派关于独立是注定失败的幻想的论点"
+        },
+        {
+          "en": "The British are offering pardons to any rebel who surrenders — desertions are accelerating",
+          "ja": "イギリスは降伏する反乱者に恩赦を提供している——脱走が加速している",
+          "zh-CN": "英国向任何投降的叛军提供赦免——逃兵现象正在加速"
+        },
+        {
+          "en": "Foreign allies like France are watching — they will not support a losing cause",
+          "ja": "フランスなどの外国の同盟国は注視している——負ける大義を支持するつもりはない",
+          "zh-CN": "法国等外国盟友正在观望——他们不会支持一个注定失败的事业"
+        }
+      ],
+      "startingSceneId": "american-revolution-1776-scene-001",
+      "initialState": {
+        "armyMorale": 50,
+        "troopStrength": 60,
+        "suppliesRemaining": 40,
+        "congressSupport": 70
+      }
+    }
+  ],
+  "sceneIds": [
+    "american-revolution-1776-scene-001",
+    "american-revolution-1776-scene-002",
+    "american-revolution-1776-scene-003"
+  ],
+  "tags": ["revolution", "military", "United States", "independence"],
+  "difficulty": "intermediate"
+}

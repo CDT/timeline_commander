@@ -1,0 +1,109 @@
+{
+  "id": "constantinople-1453-scene-001",
+  "scenarioId": "constantinople-1453",
+  "title": "The Great Cannon",
+  "date": {
+    "en": "April 6, 1453",
+    "ja": "1453年4月6日",
+    "zh-CN": "1453年4月6日"
+  },
+  "location": {
+    "en": "Ottoman Field Headquarters, outside the Theodosian Walls",
+    "ja": "テオドシウスの城壁外、オスマン野戦司令部",
+    "zh-CN": "狄奥多西城墙外奥斯曼野战司令部"
+  },
+  "narrativePrompt": {
+    "en": "The siege has formally begun. Your eighty thousand men are encamped before the Theodosian Walls — the triple line of fortifications that has repelled every attacker for a thousand years. Urban's great cannon has been positioned before the Gate of St. Romanus, where the walls are most vulnerable. The first shots have cracked the outer wall, but the defenders repair the damage overnight with rubble and barrels of earth. Your naval fleet commands the Sea of Marmara, but the Golden Horn is blocked by a massive iron chain stretched between Constantinople and Galata. Giovanni Giustiniani, the Genoese commander, has organized the defense with surprising effectiveness. You must decide how to deploy your most powerful asset: do you concentrate all cannon fire on a single section to create a decisive breach, or spread the bombardment along the entire wall to prevent the defenders from concentrating their repairs?",
+    "ja": "包囲が正式に始まりました。8万人の兵がテオドシウスの城壁の前に陣を敷いています——千年間すべての攻撃者を退けてきた三重防御線です。ウルバンの大砲は城壁が最も脆弱な聖ロマヌス門の前に配置されました。最初の砲撃は外壁にひびを入れましたが、守備側は瓦礫と土の樽で一晩で損傷を修復します。海軍はマルマラ海を支配していますが、金角湾はコンスタンティノープルとガラタの間に張られた巨大な鉄の鎖で封鎖されています。ジェノヴァ人司令官ジョヴァンニ・ジュスティニアーニは驚くほど効果的に防衛を組織しています。最も強力な資産をどう配置するか決めなければなりません：すべての砲撃を一箇所に集中して決定的な突破口を開くか、城壁全体に砲撃を分散させて守備側の修復の集中を妨げるか？",
+    "zh-CN": "围城已正式开始。您的八万大军在狄奥多西城墙前扎营——这道三重防线一千年来击退了每一个进攻者。乌尔班的巨炮已被部署在城墙最薄弱的圣罗马努斯门前。首轮炮击打裂了外墙，但守军连夜用碎石和土桶修补了损伤。您的海军舰队控制着马尔马拉海，但金角湾被一条从君士坦丁堡延伸到加拉塔的巨大铁链封锁。热那亚指挥官乔瓦尼·朱斯蒂尼亚尼以出人意料的效率组织了防御。您必须决定如何部署最强大的武器：将所有炮火集中于一段城墙以打开决定性缺口，还是沿整面城墙分散轰击以阻止守军集中修复？"
+  },
+  "situationReport": [
+    {
+      "en": "The great cannon has damaged the outer wall near St. Romanus Gate but defenders repair breaches overnight",
+      "ja": "大砲が聖ロマヌス門近くの外壁を損傷したが、守備側が一晩で破壊箇所を修復している",
+      "zh-CN": "巨炮已损坏圣罗马努斯门附近的外墙，但守军连夜修复了缺口"
+    },
+    {
+      "en": "The Golden Horn is blocked by the great chain — your fleet cannot enter to attack the harbor walls",
+      "ja": "金角湾は大鎖で封鎖されている——艦隊は港の城壁を攻撃するために入れない",
+      "zh-CN": "金角湾被巨链封锁——您的舰队无法进入攻击港口城墙"
+    },
+    {
+      "en": "Giustiniani has positioned his 700 Genoese soldiers at the weakest points of the wall",
+      "ja": "ジュスティニアーニは700人のジェノヴァ兵を城壁の最も弱い箇所に配置した",
+      "zh-CN": "朱斯蒂尼亚尼已将700名热那亚士兵部署在城墙最薄弱处"
+    },
+    {
+      "en": "Ottoman miners are beginning tunneling operations beneath the walls, but progress is slow",
+      "ja": "オスマンの坑道兵が城壁の下にトンネル作戦を始めているが、進展は遅い",
+      "zh-CN": "奥斯曼工兵已开始在城墙下方挖掘地道，但进展缓慢"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Begin degrading the Theodosian Walls beyond the defenders' ability to repair",
+      "ja": "守備側の修復能力を超えてテオドシウスの城壁の劣化を始める",
+      "zh-CN": "开始削弱狄奥多西城墙至守军无法修复的程度"
+    },
+    {
+      "en": "Prevent any relief force from reaching the city by sea",
+      "ja": "いかなる救援部隊も海路から都市に到達するのを防ぐ",
+      "zh-CN": "阻止任何救援部队从海路抵达城市"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The great cannon can only fire seven shots per day and risks cracking from overuse",
+      "ja": "大砲は一日に七発しか発射できず、過度の使用でひび割れるリスクがある",
+      "zh-CN": "巨炮每天只能发射七发，过度使用有开裂风险"
+    },
+    {
+      "en": "The chain across the Golden Horn cannot be broken by your current naval forces",
+      "ja": "金角湾の鎖は現在の海軍力では破壊できない",
+      "zh-CN": "金角湾的铁链无法被您现有的海军力量破坏"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Concentrate all cannon fire on the St. Romanus Gate section. Pound it relentlessly day after day until the wall collapses faster than they can repair it.",
+        "ja": "すべての砲撃を聖ロマヌス門区域に集中する。壁が修復速度を超えて崩壊するまで昼夜を問わず容赦なく砲撃する。",
+        "zh-CN": "将所有炮火集中于圣罗马努斯门段。日复一日地猛轰，直到城墙崩塌的速度超过守军的修复速度。"
+      },
+      "historicalContext": "The historical approach — Mehmed concentrated his heaviest bombardment on the Mesoteichion section near the St. Romanus Gate, which was the weakest part of the land walls.",
+      "outcomePrompt": {
+        "en": "You order every cannon aimed at the section around St. Romanus Gate. Day after day, the bombardment thunders without respite. The great cannon fires its seven shots daily, each one sending a half-ton stone ball crashing into the ancient masonry. After two weeks, the outer wall in this section is rubble. The inner wall is cracking. Giustiniani works his men to exhaustion repairing the damage each night, but the breaches are growing wider than his workforce can fill. However, concentrating your fire has left the rest of the wall untouched, and the defenders have moved reserves from quiet sectors to reinforce the breach point. The next challenge is the Golden Horn.",
+        "ja": "すべての大砲を聖ロマヌス門周辺に向けるよう命じる。来る日も来る日も砲撃は休みなく轟く。大砲は毎日七発を発射し、一発ごとに半トンの石弾が古い石積みに激突する。2週間後、この区域の外壁は瓦礫と化した。内壁にひびが入り始めている。ジュスティニアーニは毎晩部下に修復作業を疲労困憊するまでさせているが、破壊箇所は作業員が埋められる速度を超えて広がっている。しかし、砲撃を集中したことで城壁の残りは無傷で、守備側は静かな区域から予備兵を突破口の増強に移している。次の課題は金角湾だ。",
+        "zh-CN": "您命令所有火炮瞄准圣罗马努斯门周围地段。日复一日，炮声不断。巨炮每日发射七发，每一发都将半吨重的石弹砸向古老的城墙。两周后，这一段的外墙已成废墟。内墙开始开裂。朱斯蒂尼亚尼每晚让部下拼尽全力修复损伤，但缺口扩大的速度已超过修补能力。然而，集中炮火使城墙其余部分完好无损，守军已从安静地段调来预备队加固突破口。下一个挑战是金角湾。"
+      },
+      "nextSceneId": "constantinople-1453-scene-002",
+      "stateChanges": [
+        { "variable": "wallIntegrity", "operation": "add", "value": -35 },
+        { "variable": "siegeProgress", "operation": "add", "value": 30 },
+        { "variable": "ottomanMorale", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Spread the bombardment along the entire length of the walls. Force the defenders to spread thin trying to repair everywhere at once.",
+        "ja": "城壁の全長にわたって砲撃を分散する。守備側を全箇所で同時に修復しようとして薄く広げることを強いる。",
+        "zh-CN": "沿城墙全线分散轰击。迫使守军分散力量试图同时修复各处。"
+      },
+      "historicalContext": "A counterfactual — spreading fire would have stressed the defenders more broadly but reduced the chance of creating a decisive breach at any single point.",
+      "outcomePrompt": {
+        "en": "You distribute cannon along the full four-mile length of the Theodosian Walls. The bombardment is impressive but diffuse. Cracks appear everywhere, but nowhere does the wall fully collapse. The defenders are exhausted from running between repair sites all night, and Giustiniani is forced to spread his limited force across the entire perimeter. Morale inside the city drops as the relentless pounding echoes from every quarter. But your generals are uneasy — after three weeks, there is no clear breach point for an assault. The great cannon has developed cracks from sustained firing and needs repair. You need a new approach for the Golden Horn problem.",
+        "ja": "テオドシウスの城壁の全長4マイルにわたって大砲を配置する。砲撃は印象的だが分散している。ひびがあちこちに現れるが、城壁が完全に崩壊する箇所はない。守備側は一晩中修復箇所間を走り回ることで疲弊し、ジュスティニアーニは限られた兵力を全周にわたって分散させることを余儀なくされている。容赦ない砲撃が四方八方からこだまし、城内の士気が低下する。しかし将軍たちは不安だ——3週間後、突撃のための明確な突破口がない。大砲は持続的な発射でひびが入り、修理が必要だ。金角湾の問題に新しいアプローチが必要だ。",
+        "zh-CN": "您将火炮分布在狄奥多西城墙全长四英里的范围内。炮击声势浩大但分散。裂缝四处出现，但没有任何一处城墙完全坍塌。守军整夜在各修复地点间奔波而筋疲力尽，朱斯蒂尼亚尼被迫将有限兵力分散到整个防线。无情的轰击从四面八方回响，城内士气下降。但您的将领们忧心忡忡——三周过去了，没有出现明确的突击突破口。巨炮因持续发射而出现裂纹，需要修复。您需要为金角湾问题找到新方案。"
+      },
+      "nextSceneId": "constantinople-1453-scene-002",
+      "stateChanges": [
+        { "variable": "wallIntegrity", "operation": "add", "value": -20 },
+        { "variable": "siegeProgress", "operation": "add", "value": 15 },
+        { "variable": "ottomanMorale", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

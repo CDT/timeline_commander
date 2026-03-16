@@ -1,0 +1,111 @@
+{
+  "id": "french-revolution-1789-scene-002",
+  "scenarioId": "french-revolution-1789",
+  "title": "The Storming of the Bastille",
+  "date": {
+    "en": "July 14, 1789",
+    "ja": "1789年7月14日",
+    "zh-CN": "1789年7月14日"
+  },
+  "location": {
+    "en": "Paris, France",
+    "ja": "フランス、パリ",
+    "zh-CN": "法国巴黎"
+  },
+  "narrativePrompt": {
+    "en": "Three weeks have passed since the Tennis Court Oath. The King has dismissed the reformist finance minister Jacques Necker, and rumors sweep Paris that royal troops are marching on the city to dissolve the National Assembly by force. The people of Paris are arming themselves with whatever they can find. This morning, a massive crowd has marched on the Bastille — the medieval fortress-prison that symbolizes royal tyranny — demanding the weapons and gunpowder stored inside. The governor of the Bastille, the Marquis de Launay, has refused. Shots have been fired. As a delegate of the National Assembly, you must decide how to respond. The revolution is no longer a matter of speeches and oaths — blood is being shed in the streets of Paris.",
+    "ja": "球戯場の誓いから3週間が経った。国王は改革派の財務大臣ジャック・ネッケルを罷免し、王軍が国民議会を武力で解散させるためにパリに向かっているという噂がパリ中に広まっている。パリの民衆は手に入るものすべてで武装している。今朝、大群衆が王政の暴政の象徴である中世の要塞監獄バスティーユに向かい、内部に保管されている武器と火薬を要求した。バスティーユの司令官ド・ローネ侯爵は拒否した。銃声が鳴り響いた。国民議会の代議士として、あなたは対応を決めなければならない。革命はもはや演説と宣誓の問題ではない——パリの街で血が流されている。",
+    "zh-CN": "网球场宣誓已过去三周。国王罢免了改革派财政大臣雅克·内克尔，巴黎盛传王室军队正在向城市进军，要以武力解散国民议会。巴黎人民正用一切能找到的东西武装自己。今天早上，一大群人向巴士底狱进军——这座中世纪的堡垒监狱象征着王权暴政——要求里面存放的武器和火药。巴士底狱的监狱长德·洛奈侯爵拒绝了。枪声已经响起。作为国民议会的代表，您必须决定如何回应。革命已不再是演讲和宣誓的事情——巴黎街头已经流血了。"
+  },
+  "situationReport": [
+    {
+      "en": "Necker has been dismissed; Parisians interpret this as the King preparing to crush the revolution",
+      "ja": "ネッケルが罷免された。パリ市民はこれを国王が革命を潰す準備と解釈している",
+      "zh-CN": "内克尔已被罢免；巴黎人将此解读为国王准备镇压革命"
+    },
+    {
+      "en": "Armed crowds are besieging the Bastille; the garrison has fired on the people and casualties are mounting",
+      "ja": "武装した群衆がバスティーユを包囲している。守備隊が民衆に発砲し、死傷者が増えている",
+      "zh-CN": "武装民众正在围攻巴士底狱；守军向人民开火，伤亡不断增加"
+    },
+    {
+      "en": "The National Assembly is in emergency session at Versailles debating how to respond",
+      "ja": "国民議会はヴェルサイユで緊急会議を開き、対応を議論している",
+      "zh-CN": "国民议会在凡尔赛召开紧急会议讨论如何应对"
+    },
+    {
+      "en": "Some royal army units near Paris have begun refusing orders, expressing sympathy with the people",
+      "ja": "パリ近郊の一部の王軍部隊が命令を拒否し始め、民衆への同情を示している",
+      "zh-CN": "巴黎附近的一些王室军队开始拒绝执行命令，表达对人民的同情"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Shape the assembly's response to the crisis in Paris",
+      "ja": "パリの危機に対する議会の対応を形作る",
+      "zh-CN": "塑造议会对巴黎危机的回应"
+    },
+    {
+      "en": "Prevent the revolution from being crushed by royal force while maintaining political legitimacy",
+      "ja": "政治的正統性を維持しながら、革命が王権の力で粉砕されるのを防ぐ",
+      "zh-CN": "在维持政治合法性的同时防止革命被王权镇压"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The assembly is at Versailles, not Paris — you cannot directly control events at the Bastille",
+      "ja": "議会はヴェルサイユにあり、パリではない——バスティーユでの出来事を直接統制することはできない",
+      "zh-CN": "议会在凡尔赛而非巴黎——您无法直接控制巴士底狱的事态"
+    },
+    {
+      "en": "Endorsing mob violence could alienate moderate supporters and foreign sympathizers",
+      "ja": "暴徒の暴力を支持すれば、穏健な支持者や外国の同情者を遠ざける可能性がある",
+      "zh-CN": "支持暴民暴力可能疏远温和派支持者和外国同情者"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Declare the people's uprising legitimate. Send a delegation from the assembly to Paris to formally align the National Assembly with the people in the streets and demand the King withdraw his troops.",
+        "ja": "民衆の蜂起を正当と宣言する。議会からパリに代表団を送り、国民議会を街頭の民衆と正式に連帯させ、国王に軍の撤退を要求する。",
+        "zh-CN": "宣布人民起义合法。派遣议会代表团前往巴黎，正式将国民议会与街头人民联合起来，并要求国王撤军。"
+      },
+      "historicalContext": "Roughly the historical approach — the Assembly sent delegations and pressured the King, who eventually capitulated and visited Paris on July 17.",
+      "outcomePrompt": {
+        "en": "The assembly votes to send a delegation to Paris. You join them. The journey from Versailles takes hours through roads choked with armed citizens and rumor. By the time you arrive, the Bastille has fallen. The governor has been killed — his head carried through the streets on a pike. The scenes are shocking, but the people are jubilant. The delegation's presence legitimizes the uprising in the eyes of wavering soldiers and officials. The King, informed that his own troops are unreliable, capitulates. On July 17, Louis XVI comes to Paris and accepts the tricolor cockade. The revolution has won its first great victory. But the violence of the day has opened a door that cannot easily be closed.",
+        "ja": "議会はパリへの代表団の派遣を議決する。あなたもそれに加わる。ヴェルサイユからの旅は、武装した市民と噂で溢れる道を数時間かけて進む。あなたが到着した頃には、バスティーユは陥落していた。司令官は殺され、その首が槍に刺されて通りを練り歩かれている。光景は衝撃的だが、民衆は歓喜している。代表団の存在は、動揺する兵士や官吏の目に蜂起を正当化する。自軍が信頼できないと知らされた国王は屈服する。7月17日、ルイ16世がパリを訪れ三色旗の帽章を受け入れる。革命は最初の大勝利を収めた。しかし、この日の暴力は容易には閉じられない扉を開いてしまった。",
+        "zh-CN": "议会投票决定派代表团前往巴黎。您加入了他们。从凡尔赛出发的旅程在挤满武装市民和流言的道路上走了数小时。您到达时，巴士底狱已经陷落。监狱长已被杀——他的头颅被插在长矛上游街示众。场面令人震惊，但人民欢欣鼓舞。代表团的到来在犹豫不决的士兵和官员眼中赋予了起义合法性。国王得知自己的军队不可靠后，选择屈服。7月17日，路易十六来到巴黎，接受了三色帽徽。革命赢得了第一次伟大胜利。但这一天的暴力打开了一扇难以关闭的大门。"
+      },
+      "nextSceneId": "french-revolution-1789-scene-003",
+      "stateChanges": [
+        { "variable": "popularSupport", "operation": "add", "value": 20 },
+        { "variable": "assemblyInfluence", "operation": "add", "value": 15 },
+        { "variable": "royalThreat", "operation": "add", "value": -30 },
+        { "variable": "factionalUnity", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Condemn the violence and call for calm. Urge the assembly to send mediators to both the Bastille garrison and the crowd, seeking a peaceful resolution that preserves the assembly's moral authority.",
+        "ja": "暴力を非難し冷静を呼びかける。バスティーユの守備隊と群衆の両方に調停者を送り、議会の道義的権威を保つ平和的解決を求めるよう議会に促す。",
+        "zh-CN": "谴责暴力并呼吁冷静。敦促议会向巴士底狱守军和民众双方派遣调解人，寻求和平解决方案以维护议会的道义权威。"
+      },
+      "historicalContext": "A counterfactual — attempting to mediate during the storm of the Bastille would have been extremely difficult and risked alienating the Parisian populace.",
+      "outcomePrompt": {
+        "en": "You argue passionately for restraint. The assembly sends mediators toward Paris, but events have outpaced diplomacy. The Bastille falls before they arrive. In Paris, word spreads that the National Assembly tried to stop the people rather than support them. Radical pamphleteers accuse the assembly of cowardice. The people's victory at the Bastille is celebrated, but the assembly's role in it is minimal. You retain moral credibility among foreign observers and moderates, but your influence with the Parisian populace has suffered. The King still capitulates — the fall of the Bastille is too significant to ignore — but the assembly enters the next phase of the revolution weakened in the eyes of the common people.",
+        "ja": "あなたは自制を情熱的に主張する。議会はパリに調停者を送るが、出来事は外交を追い越してしまった。バスティーユは彼らが到着する前に陥落する。パリでは、国民議会が民衆を支持するのではなく止めようとしたという話が広まる。急進的なパンフレット作者が議会を臆病者と非難する。バスティーユでの民衆の勝利は祝われるが、そこでの議会の役割は最小限である。あなたは外国の観察者や穏健派の間で道義的信頼を保つが、パリ民衆への影響力は損なわれた。国王は依然として屈服する——バスティーユの陥落はあまりに重大で無視できない——しかし議会は庶民の目に弱体化した状態で革命の次の段階に入る。",
+        "zh-CN": "您激情地主张克制。议会向巴黎派出了调解人，但事态的发展已超越了外交斡旋的速度。巴士底狱在他们到达之前就已陷落。在巴黎，消息传开说国民议会试图阻止人民而非支持他们。激进的小册子作者指责议会怯懦。人民在巴士底狱的胜利受到庆祝，但议会在其中的角色微乎其微。您在外国观察者和温和派中保持了道义信誉，但您在巴黎民众中的影响力受损。国王仍然屈服了——巴士底狱的陷落意义太重大，无法忽视——但议会在普通人民眼中已被削弱，进入了革命的下一阶段。"
+      },
+      "nextSceneId": "french-revolution-1789-scene-003",
+      "stateChanges": [
+        { "variable": "popularSupport", "operation": "add", "value": -10 },
+        { "variable": "assemblyInfluence", "operation": "add", "value": 5 },
+        { "variable": "royalThreat", "operation": "add", "value": -20 },
+        { "variable": "factionalUnity", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,109 @@
+{
+  "id": "constantinople-1453-scene-003",
+  "scenarioId": "constantinople-1453",
+  "title": "The Final Assault",
+  "date": {
+    "en": "May 29, 1453",
+    "ja": "1453年5月29日",
+    "zh-CN": "1453年5月29日"
+  },
+  "location": {
+    "en": "Ottoman Command Post, before the Theodosian Walls",
+    "ja": "テオドシウスの城壁前、オスマン前線司令部",
+    "zh-CN": "狄奥多西城墙前奥斯曼指挥所"
+  },
+  "narrativePrompt": {
+    "en": "Fifty-three days into the siege. The walls are battered but not fully breached. Your miners have been countered by Byzantine counter-mines. Two general assaults have been repulsed. The great cannon has been repaired but fires less reliably than before. Halil Pasha has presented you with an ultimatum from the war council: if the next assault fails, the siege must be lifted. A lunar eclipse three days ago terrified the Byzantine defenders — they see it as an omen of doom. Your spies report that Giustiniani is wounded but still commanding, and Emperor Constantine has rejected your final offer of terms. You have decided on an all-or-nothing final assault before dawn. The question is how to structure the waves of attack against a defense that has proven resilient beyond all expectation.",
+    "ja": "包囲53日目。城壁は打ちのめされているが完全には突破されていない。坑道兵はビザンツの対抗坑道に阻まれた。二度の全面攻撃が撃退された。大砲は修理されたが以前ほど安定して発射できない。ハリル・パシャは戦争評議会からの最後通牒を突きつけた：次の攻撃が失敗すれば包囲を解かねばならない。3日前の月食がビザンツの守備兵を恐怖に陥れた——彼らはそれを破滅の前兆と見ている。密偵によればジュスティニアーニは負傷しているがまだ指揮を執っており、コンスタンティノス皇帝はあなたの最終的な降伏条件を拒否した。あなたは夜明け前の一か八かの最終攻撃を決意した。問題は、すべての予想を超えて強靭であることが証明された防衛に対して、どのように攻撃の波を構成するかだ。",
+    "zh-CN": "围城第五十三天。城墙遍体鳞伤但未被完全突破。您的地道兵被拜占庭的反地道所制衡。两次全面进攻被击退。巨炮已修复但发射不如从前可靠。哈利勒帕夏向您转达了军事会议的最后通牒：如果下一次进攻失败，必须解除围城。三天前的月食吓坏了拜占庭守军——他们视之为灭亡的征兆。您的间谍报告朱斯蒂尼亚尼虽已负伤但仍在指挥，君士坦丁皇帝拒绝了您最后的招降条件。您已决定在黎明前发动孤注一掷的最后总攻。问题是如何组织攻击波次，以对付这支出乎所有预料的顽强防御。"
+  },
+  "situationReport": [
+    {
+      "en": "The Theodosian Walls are heavily damaged near St. Romanus Gate but makeshift barriers fill the gaps",
+      "ja": "テオドシウスの城壁は聖ロマヌス門近くで大きく損傷しているが、応急のバリケードが隙間を埋めている",
+      "zh-CN": "狄奥多西城墙在圣罗马努斯门附近严重受损，但临时障碍物填补了缺口"
+    },
+    {
+      "en": "The lunar eclipse has shattered Byzantine morale — soldiers speak of ancient prophecies being fulfilled",
+      "ja": "月食がビザンツの士気を粉砕した——兵士たちは古代の予言が成就したと語り合っている",
+      "zh-CN": "月食摧毁了拜占庭的士气——士兵们谈论着古老预言正在应验"
+    },
+    {
+      "en": "Giustiniani has been wounded but continues to command the critical St. Romanus sector",
+      "ja": "ジュスティニアーニは負傷したが、引き続き重要な聖ロマヌス区域を指揮している",
+      "zh-CN": "朱斯蒂尼亚尼虽已负伤但继续指挥关键的圣罗马努斯地段"
+    },
+    {
+      "en": "The Janissaries are fresh and eager — they have been held in reserve for this moment",
+      "ja": "イェニチェリは未消耗で意気盛ん——この瞬間のために予備に温存されてきた",
+      "zh-CN": "近卫军精力充沛、斗志旺盛——他们一直被留作预备队等待此刻"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Breach the walls and take the city before dawn or face political destruction",
+      "ja": "城壁を突破し、夜明け前に都市を攻略しなければ政治的破滅に直面する",
+      "zh-CN": "在黎明前突破城墙攻占城市，否则面临政治覆灭"
+    },
+    {
+      "en": "Neutralize Giustiniani and break the defenders' will to fight",
+      "ja": "ジュスティニアーニを無力化し、守備側の戦意を打ち砕く",
+      "zh-CN": "使朱斯蒂尼亚尼失去战斗力并瓦解守军的战斗意志"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "This is the final assault — failure means lifting the siege and probable political ruin",
+      "ja": "これが最終攻撃——失敗は包囲の解除とおそらく政治的破滅を意味する",
+      "zh-CN": "这是最后的总攻——失败意味着解除围城和可能的政治覆灭"
+    },
+    {
+      "en": "The Janissaries expect three days of plunder if the city falls — this cannot be revoked",
+      "ja": "イェニチェリは都市が陥落した場合3日間の略奪を期待している——これは撤回できない",
+      "zh-CN": "近卫军期待城市陷落后三天的劫掠——这不能撤回"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Send irregular troops first to exhaust the defenders, then Anatolian regulars to further weaken them, and finally unleash the Janissaries as the killing blow at dawn.",
+        "ja": "まず非正規軍を送って守備側を消耗させ、次にアナトリアの正規軍でさらに弱体化させ、最後に夜明けにイェニチェリを致命的な一撃として投入する。",
+        "zh-CN": "先派非正规军消耗守军，再派安纳托利亚正规军进一步削弱他们，最后在黎明时释放近卫军作为致命一击。"
+      },
+      "historicalContext": "The historical approach — Mehmed used three successive waves, each stronger than the last, with the elite Janissaries as the final assault force that breached the walls.",
+      "outcomePrompt": {
+        "en": "The assault begins two hours before dawn. The first wave — thousands of irregular troops, many of them Christian conscripts — crashes against the makeshift barriers. They are slaughtered, but they tire the defenders and fill the ditches with bodies and ladders. The second wave, the Anatolian regulars, strikes the exhausted defense with disciplined fury. They are pushed back, but barely. Then, as the first light of dawn touches the minarets you have promised to build, you send in the Janissaries. Ten thousand elite soldiers surge forward with terrifying discipline. Giustiniani is hit by a crossbow bolt and carried from the walls — his departure triggers panic among the Genoese. A small Ottoman force discovers an unlocked postern gate, the Kerkoporta, and floods through. The Janissaries pour through the breach at St. Romanus Gate. Emperor Constantine XI tears off his imperial insignia and charges into the oncoming Janissaries. He is never seen again. Constantinople has fallen. The Roman Empire, after 1,500 years, is no more.",
+        "ja": "攻撃は夜明けの2時間前に始まる。第一波——数千の非正規軍、その多くはキリスト教徒の徴兵——が応急のバリケードに激突する。彼らは虐殺されるが、守備側を疲弊させ、堀を死体と梯子で埋める。第二波、アナトリアの正規軍が、規律ある猛攻で疲弊した防衛線を攻撃する。かろうじて押し返される。そして、あなたが建てると約束したミナレットに夜明けの最初の光が差す時、イェニチェリを投入する。1万人の精鋭兵士が恐るべき規律をもって突進する。ジュスティニアーニがクロスボウの矢に当たり城壁から運び出される——彼の離脱がジェノヴァ兵の間にパニックを引き起こす。小規模なオスマン部隊が施錠されていない小門、ケルコポルタを発見し、なだれ込む。イェニチェリが聖ロマヌス門の突破口から殺到する。コンスタンティノス11世皇帝は皇帝の紋章を引きちぎり、押し寄せるイェニチェリに向かって突撃する。二度と彼の姿を見た者はいない。コンスタンティノープルは陥落した。1,500年の歴史を持つローマ帝国はもはや存在しない。",
+        "zh-CN": "进攻在黎明前两小时开始。第一波——数千名非正规军，其中许多是基督徒征召兵——冲向临时障碍物。他们遭到屠杀，但消耗了守军体力，用尸体和云梯填满了壕沟。第二波，安纳托利亚正规军以严整的阵势猛攻已精疲力竭的防线。他们被勉强击退。然后，当第一缕曙光照亮您承诺将建造的宣礼塔时，您投入了近卫军。一万名精锐士兵以令人胆寒的纪律涌向前方。朱斯蒂尼亚尼被十字弓箭射中，被抬下城墙——他的离去在热那亚人中引发了恐慌。一支小股奥斯曼部队发现了一扇未上锁的小门凯尔科波尔塔，蜂拥而入。近卫军从圣罗马努斯门的缺口涌入。君士坦丁十一世皇帝扯下皇帝徽章，冲向迎面而来的近卫军。再也没有人见过他。君士坦丁堡陷落了。延续一千五百年的罗马帝国不复存在。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "wallIntegrity", "operation": "set", "value": 0 },
+        { "variable": "ottomanMorale", "operation": "add", "value": 15 },
+        { "variable": "siegeProgress", "operation": "set", "value": 100 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Launch the Janissaries immediately in a single overwhelming assault at the weakest point of the wall. No waves — one massive strike to end it.",
+        "ja": "イェニチェリを城壁の最も弱い箇所に一度の圧倒的な攻撃で即座に投入する。波はなし——一撃の大規模攻撃で決着をつける。",
+        "zh-CN": "立即将近卫军投入城墙最薄弱处进行一次压倒性的攻击。不分波次——以一次大规模突击结束战斗。"
+      },
+      "historicalContext": "A counterfactual — sending the Janissaries first would have risked their morale if they were repulsed, but their elite status might have overwhelmed the exhausted defenders immediately.",
+      "outcomePrompt": {
+        "en": "You decide against wearing the defenders down and commit your best troops immediately. The Janissaries advance in perfect order, their war cry echoing off the ancient walls. They hit the makeshift barriers at St. Romanus Gate with the force of a battering ram. The defenders, though rested, are overwhelmed by the sheer quality and ferocity of the assault. Giustiniani rallies his men for a desperate stand, but a cannon ball strikes near his position and shrapnel tears through his armor. He is carried away, and the Genoese waver. The Janissaries pour over the rubble. Constantine XI fights to the death at the breach. The city falls faster than in any other scenario, but the Janissaries take heavier casualties than they would have if the defense had been pre-exhausted. Your victory is complete, but the Janissaries' anger at their losses will make the sack of the city more brutal than you intended.",
+        "ja": "守備側を消耗させることを断念し、最良の兵を即座に投入する。イェニチェリは完璧な秩序で前進し、彼らの鬨の声が古代の城壁にこだまする。聖ロマヌス門の応急のバリケードに破城槌のような力で激突する。守備側は休息しているが、攻撃の質と猛烈さに圧倒される。ジュスティニアーニは必死の防戦のために部下を鼓舞するが、砲弾が彼の陣地近くに命中し、破片が甲冑を貫く。彼は運び出され、ジェノヴァ兵が動揺する。イェニチェリが瓦礫を越えてなだれ込む。コンスタンティノス11世は突破口で戦死する。都市は他のどのシナリオよりも早く陥落するが、イェニチェリは防衛が事前に消耗されていた場合より大きな損害を被る。勝利は完全だが、損害に対するイェニチェリの怒りが、あなたが意図したより残忍な都市の略奪をもたらすだろう。",
+        "zh-CN": "您决定不消耗守军而直接投入最精锐的部队。近卫军以完美的阵型推进，战吼声回荡在古老的城墙间。他们以攻城槌般的力量撞向圣罗马努斯门的临时障碍物。守军虽然休息充分，但被进攻的质量和凶猛所压倒。朱斯蒂尼亚尼集结部下进行绝望的抵抗，但一枚炮弹在他附近爆炸，弹片穿透了他的铠甲。他被抬走，热那亚人开始动摇。近卫军涌过废墟。君士坦丁十一世在缺口处战死。城市陷落的速度比任何其他方案都快，但近卫军的伤亡也比事先消耗守军的情况更大。您的胜利是完全的，但近卫军因损失而产生的愤怒将使城市遭受比您预想更残酷的劫掠。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "wallIntegrity", "operation": "set", "value": 0 },
+        { "variable": "ottomanMorale", "operation": "add", "value": 5 },
+        { "variable": "siegeProgress", "operation": "set", "value": 100 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

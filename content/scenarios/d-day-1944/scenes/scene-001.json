@@ -1,0 +1,112 @@
+{
+  "id": "d-day-1944-scene-001",
+  "scenarioId": "d-day-1944",
+  "title": "The Weather Decision",
+  "date": {
+    "en": "June 5, 1944",
+    "ja": "1944年6月5日",
+    "zh-CN": "1944年6月5日"
+  },
+  "location": {
+    "en": "Southwick House, near Portsmouth, England",
+    "ja": "サウスウィック・ハウス、ポーツマス近郊、イングランド",
+    "zh-CN": "英格兰朴茨茅斯附近索斯威克庄园"
+  },
+  "narrativePrompt": {
+    "en": "The library of Southwick House is quiet except for the rain hammering the windows. Eisenhower sits in a worn leather chair, a cigarette between his fingers, surrounded by the men who will share the weight of this moment: Montgomery, Ramsay, Leigh-Mallory, Tedder, and Bedell Smith. Group Captain Stagg has just finished his weather briefing. The storm that forced yesterday's postponement is still lashing the Channel, but Stagg has identified a narrow ridge of high pressure that should bring a brief window of tolerable conditions beginning late on June 5 and lasting perhaps thirty-six hours. The tides are right for June 6. If the invasion is postponed past June 6, the next favorable tide will not come for two weeks — and with 175,000 men already briefed and sealed in their ships, the secret cannot hold that long. Leigh-Mallory is worried about cloud cover for the bombers. Ramsay says the navy can manage if the wind drops. Montgomery wants to go. The room falls silent. Every eye turns to Eisenhower.",
+    "ja": "サウスウィック・ハウスの図書室は、窓を叩く雨の音以外は静かだ。アイゼンハワーは使い込まれた革張りの椅子に座り、指の間にタバコを挟みながら、この瞬間の重みを分かち合う者たちに囲まれている：モンゴメリー、ラムゼー、リー＝マロリー、テダー、そしてベデル・スミス。スタッグ大佐が天候ブリーフィングを終えたばかりだ。昨日の延期を強いた嵐はまだ海峡を吹き荒れているが、スタッグは6月5日遅くから始まりおそらく36時間続く、耐えうる条件の短い窓をもたらすはずの高気圧の狭い尾根を特定した。6月6日の潮汐条件は適している。6月6日を過ぎて延期すれば、次の好条件の潮は2週間後まで来ない——そして既にブリーフィングを受け艦船に封じ込められた17万5千人の兵士を抱え、秘密をそれほど長く保つことはできない。リー＝マロリーは爆撃機のための雲量を心配している。ラムゼーは風が収まれば海軍はやれると言う。モンゴメリーは行きたがっている。部屋は沈黙に包まれる。すべての視線がアイゼンハワーに向けられる。",
+    "zh-CN": "索斯威克庄园的图书室里很安静，只有雨水敲打窗户的声音。艾森豪威尔坐在一把磨旧的皮椅上，手指间夹着一支烟，周围是将与他分担这一刻重量的人们：蒙哥马利、拉姆齐、利-马洛里、泰德和贝德尔·史密斯。斯塔格上校刚刚结束了他的天气简报。迫使昨天推迟的风暴仍在肆虐海峡，但斯塔格发现了一条狭窄的高压脊，应该能从6月5日晚间开始带来一个短暂的可接受天气窗口，大约持续三十六小时。6月6日的潮汐条件合适。如果6月6日之后推迟入侵，下一个有利潮汐要等两周——而17.5万人已经接受了简报并被封闭在舰船中，秘密不可能保持那么久。利-马洛里担心轰炸机的云量问题。拉姆齐说如果风力减弱海军可以应付。蒙哥马利想要出发。房间陷入沉默。所有目光转向艾森豪威尔。"
+  },
+  "situationReport": [
+    {
+      "en": "A severe Channel storm forced postponement of the original June 5 D-Day; Group Captain Stagg forecasts a brief weather window opening late June 5",
+      "ja": "英仏海峡の激しい嵐が当初の6月5日のDデーを延期に追い込んだ。スタッグ大佐は6月5日遅くに短い天候の窓が開くと予報している",
+      "zh-CN": "英吉利海峡的严重风暴迫使原定6月5日的D日推迟；斯塔格上校预报6月5日晚间将出现短暂天气窗口"
+    },
+    {
+      "en": "175,000 troops are briefed, sealed aboard ships, and ready — a two-week delay risks exposing the entire operation",
+      "ja": "17万5千人の兵士がブリーフィングを受け、艦船に封じ込められ、準備が整っている——2週間の遅延は作戦全体の暴露を危険にさらす",
+      "zh-CN": "17.5万部队已完成简报、封闭在舰船上并准备就绪——推迟两周有暴露整个行动的风险"
+    },
+    {
+      "en": "Operation Fortitude continues to convince the German high command that the main invasion will target Pas-de-Calais",
+      "ja": "フォーティチュード作戦がドイツ軍最高司令部に主力侵攻はパ・ド・カレーを目標とすると引き続き信じさせている",
+      "zh-CN": "坚忍行动继续使德军最高指挥部相信主要入侵将以加来海峡为目标"
+    },
+    {
+      "en": "Rommel has left Normandy for his wife's birthday in Germany, believing the weather makes invasion impossible this week",
+      "ja": "ロンメルは今週は天候が侵攻を不可能にしていると信じ、妻の誕生日のためドイツへ出発しノルマンディーを離れている",
+      "zh-CN": "隆美尔已离开诺曼底前往德国为妻子庆祝生日，认为本周天气使入侵不可能"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide whether to launch the invasion on June 6 or delay for better weather",
+      "ja": "6月6日に侵攻を開始するか、より良い天候を待って延期するかを決定する",
+      "zh-CN": "决定是在6月6日发动入侵还是延迟等待更好的天气"
+    },
+    {
+      "en": "Preserve the secrecy of Operation Overlord and the Fortitude deception",
+      "ja": "オーバーロード作戦とフォーティチュード欺瞞の秘匿性を維持する",
+      "zh-CN": "保持霸王行动和坚忍欺骗行动的保密性"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "If June 6 is missed, tidal conditions force a two-week delay to June 19",
+      "ja": "6月6日を逃せば、潮汐条件により6月19日まで2週間の遅延を余儀なくされる",
+      "zh-CN": "如果错过6月6日，潮汐条件将迫使推迟两周至6月19日"
+    },
+    {
+      "en": "Troops have been sealed aboard ships for days — morale and secrecy degrade with every hour of delay",
+      "ja": "兵士たちは数日間艦船に封じ込められている——士気と機密は遅延の1時間ごとに低下する",
+      "zh-CN": "部队已在舰船上封闭数日——每延迟一小时，士气和保密性都在下降"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "\"OK, let's go.\" Launch the invasion on June 6, trusting Stagg's forecast of a brief weather window.",
+        "ja": "「よし、行こう。」スタッグの短い天候の窓の予報を信じ、6月6日に侵攻を開始する。",
+        "zh-CN": "\u201c好的，我们出发。\u201d信任斯塔格对短暂天气窗口的预报，在6月6日发动入侵。"
+      },
+      "historicalContext": "The historical choice — Eisenhower gave the order on the evening of June 5 with those exact words.",
+      "outcomePrompt": {
+        "en": "The room exhales. The word passes down the chain of command like an electric current: the invasion is on. Within hours, 5,000 ships begin to move. Paratroopers of the 82nd and 101st Airborne blacken their faces and climb into C-47s. The weather is rough — whitecaps churn the Channel and many soldiers are seasick in the landing craft — but the wind is dropping, just as Stagg predicted. As midnight passes into June 6, the greatest armada in history is crossing the English Channel. The Germans, still convinced that no sane commander would launch in this weather, are caught off guard. Rommel is in Germany. The panzer reserves are uncommitted. The element of surprise, against all odds, holds.",
+        "ja": "部屋中が息を吐く。指揮系統を電流のように命令が伝わっていく：侵攻決行。数時間以内に5,000隻の艦船が動き始める。第82および第101空挺師団の空挺兵たちが顔を黒く塗り、C-47に乗り込む。天候は荒れている——白波が海峡を荒らし、多くの兵士が上陸用舟艇で船酔いしている——しかしスタッグの予報通り風は弱まりつつある。真夜中を過ぎ6月6日に入ると、史上最大の艦隊が英仏海峡を横断している。この天候で正気の司令官が侵攻を開始するはずがないとまだ確信しているドイツ軍は不意を突かれる。ロンメルはドイツにいる。装甲予備軍は投入されていない。あらゆる困難にもかかわらず、奇襲の要素は保たれている。",
+        "zh-CN": "房间里所有人松了一口气。命令如电流般沿着指挥链传递下去：入侵开始。几小时内，5000艘舰船开始移动。第82和第101空降师的伞兵们涂黑面部，登上C-47运输机。天气很恶劣——白浪翻涌，许多士兵在登陆艇中晕船——但风力正在减弱，正如斯塔格预测的那样。午夜过后进入6月6日，历史上最庞大的舰队正在横渡英吉利海峡。德军仍然确信没有理智的指挥官会在这种天气下发动进攻，他们措手不及。隆美尔在德国。装甲预备队未被投入。出乎所有人意料，突然性被保住了。"
+      },
+      "nextSceneId": "d-day-1944-scene-002",
+      "stateChanges": [
+        { "variable": "alliedMorale", "operation": "add", "value": 10 },
+        { "variable": "weatherWindow", "operation": "add", "value": -20 },
+        { "variable": "deceptionIntact", "operation": "add", "value": 5 },
+        { "variable": "germanReadiness", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Delay another twenty-four hours. The weather is too uncertain — wait for conditions to improve before committing.",
+        "ja": "さらに24時間延期する。天候が不確実すぎる——実行前に条件が改善するのを待つ。",
+        "zh-CN": "再延迟二十四小时。天气太不确定——等待条件改善后再行动。"
+      },
+      "historicalContext": "A counterfactual — Eisenhower chose to go, but a delay was a real possibility he agonized over.",
+      "outcomePrompt": {
+        "en": "You raise your hand. Not yet. The room stirs uneasily. Montgomery's jaw tightens — he wanted to go. Ramsay begins calculating the recall orders for ships already underway. The troops, already sealed in their transports for days, are told to wait another twenty-four hours. Morale sags. On the ships, men who had steeled themselves for battle must now sit with their fear for another day. Worse, the delay increases the chance of a security breach. A drunken sailor in a Portsmouth pub, a careless radio transmission, a French Resistance courier captured — any of these could unravel Fortitude. Meanwhile, German weather forecasters reach the same conclusion as Stagg: conditions may briefly improve. Rommel's staff considers recalling him from Germany. The window of surprise is narrowing.",
+        "ja": "あなたは手を上げる。まだだ。部屋がざわつく。モンゴメリーの顎が引き締まる——彼は行きたかった。ラムゼーはすでに出航中の艦船への帰還命令の計算を始める。数日間輸送艦に封じ込められていた兵士たちは、さらに24時間待つように告げられる。士気が下がる。艦船では、戦闘に向けて覚悟を決めていた兵士たちが、もう1日恐怖とともに座っていなければならない。さらに悪いことに、遅延は機密漏洩の可能性を高める。ポーツマスのパブで酔った水兵、不注意な無線送信、捕まったフランスレジスタンスの伝令——これらのどれもがフォーティチュードを台無しにしかねない。一方、ドイツの気象予報官もスタッグと同じ結論に達する：条件が一時的に改善する可能性がある。ロンメルの参謀はドイツから彼を呼び戻すことを検討し始める。奇襲の窓は狭まりつつある。",
+        "zh-CN": "您举起手。还不行。房间里不安地骚动起来。蒙哥马利的下巴绷紧了——他想要出发。拉姆齐开始计算召回已出发舰船的命令。已在运输船上封闭数日的部队被告知再等二十四小时。士气下滑。在舰船上，那些已经做好战斗准备的人现在必须再忍受一天的恐惧。更糟的是，延迟增加了安全泄露的风险。朴茨茅斯酒吧里一个醉酒的水兵、一次粗心的无线电传输、一个被捕的法国抵抗运动信使——任何一个都可能瓦解坚忍行动。与此同时，德国气象预报员得出了与斯塔格相同的结论：条件可能短暂改善。隆美尔的参谋开始考虑将他从德国召回。突袭的窗口正在缩小。"
+      },
+      "nextSceneId": "d-day-1944-scene-002",
+      "stateChanges": [
+        { "variable": "alliedMorale", "operation": "add", "value": -10 },
+        { "variable": "weatherWindow", "operation": "add", "value": 15 },
+        { "variable": "deceptionIntact", "operation": "add", "value": -15 },
+        { "variable": "germanReadiness", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "roleFilter": ["eisenhower"],
+  "isTerminal": false
+}

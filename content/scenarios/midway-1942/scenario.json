@@ -1,0 +1,163 @@
+{
+  "id": "midway-1942",
+  "title": {
+    "en": "Battle of Midway",
+    "ja": "ミッドウェー海戦",
+    "zh-CN": "中途岛海战"
+  },
+  "period": {
+    "en": "World War II — Pacific Theater",
+    "ja": "第二次世界大戦・太平洋戦線",
+    "zh-CN": "第二次世界大战——太平洋战场"
+  },
+  "dates": {
+    "start": "1942-06-04",
+    "end": "1942-06-07"
+  },
+  "location": {
+    "en": "Midway Atoll, Pacific Ocean",
+    "ja": "太平洋、ミッドウェー環礁",
+    "zh-CN": "太平洋中途岛环礁"
+  },
+  "historicalOverview": {
+    "en": "The Battle of Midway, fought from June 4-7, 1942, was the decisive naval battle of the Pacific War. Six months after Pearl Harbor, the Imperial Japanese Navy sought to eliminate the United States as a strategic Pacific power by luring the American carrier fleet into a trap at Midway Atoll. Admiral Yamamoto Isoroku devised an elaborate plan involving diversionary attacks on the Aleutian Islands and a massive carrier strike force under Admiral Nagumo Chuichi. However, American codebreakers at Station HYPO, led by Commander Joseph Rochefort, had broken the Japanese naval cipher JN-25 and discovered the plan. Admiral Chester Nimitz, Commander-in-Chief of the Pacific Fleet, used this intelligence advantage to position his outnumbered carriers where they could ambush the Japanese fleet. The battle culminated in five devastating minutes when American dive bombers caught three Japanese carriers with their flight decks packed with armed and fueled aircraft.",
+    "ja": "ミッドウェー海戦は1942年6月4日から7日にかけて行われた太平洋戦争の決定的な海戦である。真珠湾攻撃から6ヶ月後、日本海軍はミッドウェー環礁で米国の空母艦隊を罠に誘い込み、太平洋における米国の戦略的軍事力を排除しようとした。山本五十六大将はアリューシャン列島への陽動攻撃と、南雲忠一中将率いる大規模な空母機動部隊による複雑な作戦計画を立案した。しかし、ジョセフ・ロシュフォール少佐率いるステーション・ハイポのアメリカの暗号解読者たちが日本海軍の暗号JN-25を解読し、計画を発見していた。太平洋艦隊司令長官チェスター・ニミッツ大将はこの情報上の優位を利用し、数で劣る空母を日本艦隊を待ち伏せできる位置に配置した。戦いは、アメリカの急降下爆撃機が武装・燃料補給済みの航空機で溢れた飛行甲板を持つ3隻の日本空母を捉えた壊滅的な5分間で最高潮に達した。",
+    "zh-CN": "中途岛海战于1942年6月4日至7日进行，是太平洋战争的决定性海战。珍珠港事件六个月后，日本帝国海军试图通过在中途岛环礁设伏美国航母舰队，消除美国作为太平洋战略力量的存在。山本五十六大将制定了精密的计划，包括对阿留申群岛的佯攻和由南云忠一中将指挥的大规模航母打击力量。然而，以约瑟夫·罗彻福特少校为首的美国海波站密码破译人员已破解日本海军密码JN-25并发现了该计划。太平洋舰队总司令切斯特·尼米兹上将利用这一情报优势，将兵力处于劣势的航母部署在能够伏击日本舰队的位置。战役在毁灭性的五分钟内达到高潮——美国俯冲轰炸机在三艘日本航母的飞行甲板上满载武装加油的飞机时将其捕获。"
+  },
+  "realWorldOutcome": {
+    "en": "The United States sank four Japanese fleet carriers — Akagi, Kaga, Soryu, and Hiryu — along with a heavy cruiser, while losing only the carrier USS Yorktown and a destroyer. Japan lost over 3,000 men, including many of its most experienced pilots and aircraft maintenance crews, losses that proved irreplaceable. The battle permanently shifted the balance of naval power in the Pacific. Japan never again held the strategic initiative and was forced onto the defensive for the remainder of the war. Midway is considered one of the most decisive battles in naval history.",
+    "ja": "アメリカは日本の正規空母4隻——赤城、加賀、蒼龍、飛龍——と重巡洋艦1隻を撃沈し、一方で失ったのは空母ヨークタウンと駆逐艦1隻のみだった。日本は3,000人以上を失い、その中には最も経験豊富なパイロットや航空機整備員の多くが含まれ、これらは取り返しのつかない損失となった。この海戦は太平洋における海軍力のバランスを永久に変えた。日本は二度と戦略的主導権を握ることはなく、戦争の残りの期間を守勢に回ることを余儀なくされた。ミッドウェーは海戦史上最も決定的な戦いの一つとされている。",
+    "zh-CN": "美国击沉了日本四艘舰队航母——赤城、加贺、苍龙和飞龙——以及一艘重巡洋舰，而仅损失了航母约克城号和一艘驱逐舰。日本损失超过三千人，其中包括许多最有经验的飞行员和飞机维修人员，这些损失被证明是无法弥补的。这场战役永久性地改变了太平洋海军力量的平衡。日本此后再也没有掌握过战略主动权，在战争余下时间被迫转入防御。中途岛被认为是海战史上最具决定性的战役之一。"
+  },
+  "keyFigures": [
+    {
+      "id": "nimitz",
+      "name": "Chester W. Nimitz",
+      "role": {
+        "en": "Commander-in-Chief, Pacific Fleet",
+        "ja": "太平洋艦隊司令長官",
+        "zh-CN": "太平洋舰队总司令"
+      },
+      "faction": "United States",
+      "description": {
+        "en": "The calm, methodical Texan who commanded the entire Pacific Fleet. His willingness to trust the codebreakers' intelligence — against the skepticism of Washington — and to risk his precious carriers in an ambush was the strategic foundation of the American victory.",
+        "ja": "太平洋艦隊全体を指揮した冷静で理路整然としたテキサス人。ワシントンの懐疑に抗して暗号解読者の情報を信頼し、貴重な空母を待ち伏せに賭ける意志が、アメリカの勝利の戦略的基盤だった。",
+        "zh-CN": "指挥整个太平洋舰队的沉着冷静的德克萨斯人。他愿意信任密码破译人员的情报——不顾华盛顿的质疑——并冒险将珍贵的航母投入伏击，这是美国胜利的战略基础。"
+      }
+    },
+    {
+      "id": "nagumo",
+      "name": "Nagumo Chuichi",
+      "role": {
+        "en": "Commander, Japanese First Air Fleet (Kido Butai)",
+        "ja": "第一航空艦隊（機動部隊）司令官",
+        "zh-CN": "日本第一航空舰队（机动部队）司令官"
+      },
+      "faction": "Japan",
+      "description": {
+        "en": "The cautious admiral commanding Japan's carrier strike force. A surface warfare specialist uncomfortable with carrier aviation, his indecision about whether to re-arm his planes for a second strike on Midway or arm them for anti-ship operations proved fatal.",
+        "ja": "日本の空母機動部隊を指揮した慎重な提督。水上戦の専門家で空母航空戦に不安を感じており、航空機をミッドウェーへの二次攻撃用に再武装するか対艦攻撃用に武装するかの優柔不断が致命的となった。",
+        "zh-CN": "指挥日本航母打击力量的谨慎将领。作为水面战专家，他对航母航空作战并不自如，在是否为飞机重新装弹进行对中途岛的二次攻击还是改装反舰武器之间的犹豫不决被证明是致命的。"
+      }
+    },
+    {
+      "id": "rochefort",
+      "name": "Joseph Rochefort",
+      "role": {
+        "en": "Commander, Station HYPO (Combat Intelligence Unit)",
+        "ja": "ステーション・ハイポ（戦闘情報部隊）指揮官",
+        "zh-CN": "海波站（战斗情报单位）指挥官"
+      },
+      "faction": "United States",
+      "description": {
+        "en": "The eccentric codebreaker who led the team that cracked JN-25 and identified Midway as the Japanese target. Working in a basement in Pearl Harbor, often in bathrobe and slippers, his intelligence analysis was the single most important factor in the American victory.",
+        "ja": "JN-25を解読し、ミッドウェーが日本の標的であることを特定したチームを率いた風変わりな暗号解読者。真珠湾の地下室でしばしばバスローブとスリッパ姿で働き、その情報分析がアメリカの勝利における最も重要な単一の要因だった。",
+        "zh-CN": "领导破解JN-25密码并确定中途岛为日本目标的团队的古怪密码破译专家。他在珍珠港的地下室工作，经常穿着浴袍和拖鞋，他的情报分析是美国胜利中最重要的单一因素。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "nimitz-commander",
+      "scenarioId": "midway-1942",
+      "name": "Chester W. Nimitz",
+      "title": {
+        "en": "Commander-in-Chief, Pacific Fleet",
+        "ja": "太平洋艦隊司令長官",
+        "zh-CN": "太平洋舰队总司令"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Admiral Chester W. Nimitz, Commander-in-Chief of the United States Pacific Fleet. It is late May 1942. Six months after the disaster at Pearl Harbor, your fleet is outnumbered and outgunned by the Imperial Japanese Navy. But you have a secret weapon: your codebreakers at Station HYPO have broken the Japanese naval cipher and believe they have identified Japan's next target — Midway Atoll. Commander Rochefort is confident, but Washington's intelligence office OP-20-G disagrees, believing the target may be the West Coast or even Hawaii again. You must decide: do you trust Rochefort's analysis and commit your three remaining carriers to an ambush at Midway? If the codebreakers are right, you can catch the Japanese fleet by surprise. If they are wrong, you could lose the last carriers in the Pacific and leave the West Coast defenseless. The stakes could not be higher.",
+        "ja": "あなたはアメリカ太平洋艦隊司令長官、チェスター・W・ニミッツ大将です。1942年5月下旬。真珠湾の惨事から6ヶ月、あなたの艦隊は日本海軍に数と火力で劣っています。しかしあなたには秘密兵器があります：ステーション・ハイポの暗号解読者たちが日本海軍の暗号を解読し、日本の次の標的はミッドウェー環礁だと確信しています。ロシュフォール少佐は自信を持っていますが、ワシントンの情報局OP-20-Gは反対しており、標的は西海岸か再びハワイだと考えています。あなたは決断しなければなりません：ロシュフォールの分析を信頼し、残る3隻の空母をミッドウェーでの待ち伏せに投入するか？暗号解読者が正しければ、日本艦隊を不意打ちできます。間違っていれば、太平洋の最後の空母を失い、西海岸を無防備にする可能性があります。これ以上ない賭けです。",
+        "zh-CN": "您是切斯特·W·尼米兹上将，美国太平洋舰队总司令。1942年5月下旬。珍珠港灾难六个月后，您的舰队在数量和火力上都不及日本帝国海军。但您有一件秘密武器：海波站的密码破译人员已破解日本海军密码，并确信已确定日本的下一个目标——中途岛环礁。罗彻福特少校充满信心，但华盛顿的情报机构OP-20-G不同意，认为目标可能是西海岸甚至再次是夏威夷。您必须做出决定：是否信任罗彻福特的分析，将仅剩的三艘航母投入中途岛的伏击？如果密码破译人员是对的，您可以出其不意地打击日本舰队。如果他们错了，您可能失去太平洋最后的航母，让西海岸陷入不设防。赌注再高不过了。"
+      },
+      "objectives": [
+        {
+          "en": "Defend Midway Atoll from Japanese invasion",
+          "ja": "ミッドウェー環礁を日本の侵攻から防衛する",
+          "zh-CN": "保卫中途岛环礁免受日本入侵"
+        },
+        {
+          "en": "Destroy the Japanese carrier fleet and shift the balance of the Pacific War",
+          "ja": "日本の空母艦隊を壊滅させ、太平洋戦争の均衡を変える",
+          "zh-CN": "摧毁日本航母舰队，扭转太平洋战争的平衡"
+        },
+        {
+          "en": "Preserve American carrier strength — every carrier lost is irreplaceable in the short term",
+          "ja": "アメリカの空母戦力を保全する——失われた空母は短期的には取り返しがつかない",
+          "zh-CN": "保全美国航母力量——每损失一艘航母在短期内都无法弥补"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "You have only three carriers (Enterprise, Hornet, Yorktown) against Japan's four fleet carriers plus supporting forces",
+          "ja": "あなたは3隻の空母（エンタープライズ、ホーネット、ヨークタウン）しかなく、日本の正規空母4隻と支援部隊に対峙する",
+          "zh-CN": "您只有三艘航母（企业号、大黄蜂号、约克城号）对抗日本四艘舰队航母及支援力量"
+        },
+        {
+          "en": "USS Yorktown was badly damaged at Coral Sea and is being rushed through repairs at Pearl Harbor",
+          "ja": "ヨークタウンは珊瑚海で大きな損傷を受け、真珠湾で急ピッチで修理中",
+          "zh-CN": "约克城号在珊瑚海战中严重受损，正在珍珠港紧急修复"
+        },
+        {
+          "en": "Washington is skeptical of the codebreakers — if you commit to Midway and the intelligence is wrong, your career and the Pacific War are both finished",
+          "ja": "ワシントンは暗号解読者に懐疑的——ミッドウェーに全力を注ぎ情報が間違っていれば、あなたのキャリアも太平洋戦争も終わる",
+          "zh-CN": "华盛顿对密码破译人员持怀疑态度——如果您全力押注中途岛而情报有误，您的军事生涯和太平洋战争都将终结"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Japanese forces are simultaneously threatening the Aleutians — is it a diversion or a genuine second attack?",
+          "ja": "日本軍は同時にアリューシャンを脅かしている——陽動か本当の第二の攻撃か？",
+          "zh-CN": "日本军队同时威胁阿留申群岛——这是佯攻还是真正的第二次进攻？"
+        },
+        {
+          "en": "The American public, still reeling from Pearl Harbor, cannot absorb another catastrophic naval defeat",
+          "ja": "真珠湾の衝撃からまだ立ち直れないアメリカ国民は、もう一つの壊滅的な海軍の敗北を受け入れられない",
+          "zh-CN": "仍在珍珠港打击中恢复的美国公众无法承受又一次灾难性的海军失败"
+        },
+        {
+          "en": "Admiral King in Washington wants carriers held back to protect the West Coast",
+          "ja": "ワシントンのキング提督は西海岸防衛のため空母を温存したがっている",
+          "zh-CN": "华盛顿的金上将希望将航母留下保护西海岸"
+        }
+      ],
+      "startingSceneId": "midway-1942-scene-001",
+      "initialState": {
+        "codebreakingAdvantage": 90,
+        "carrierStrength": 60,
+        "pilotExperience": 50,
+        "japaneseOverconfidence": 80
+      }
+    }
+  ],
+  "sceneIds": [
+    "midway-1942-scene-001",
+    "midway-1942-scene-002",
+    "midway-1942-scene-003"
+  ],
+  "tags": ["WWII", "naval", "Pacific", "United States", "Japan", "intelligence"],
+  "difficulty": "advanced"
+}

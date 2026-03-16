@@ -1,0 +1,163 @@
+{
+  "id": "hastings-1066",
+  "title": {
+    "en": "Battle of Hastings",
+    "ja": "ヘイスティングズの戦い",
+    "zh-CN": "黑斯廷斯战役"
+  },
+  "period": {
+    "en": "Medieval Europe",
+    "ja": "中世ヨーロッパ",
+    "zh-CN": "中世纪欧洲"
+  },
+  "dates": {
+    "start": "1066-09-28",
+    "end": "1066-10-14"
+  },
+  "location": {
+    "en": "Hastings, England",
+    "ja": "イングランド、ヘイスティングズ",
+    "zh-CN": "英格兰黑斯廷斯"
+  },
+  "historicalOverview": {
+    "en": "The Battle of Hastings was fought on October 14, 1066, between the Norman-French army led by William, Duke of Normandy, and the English army under King Harold Godwinson. The battle was the decisive engagement of the Norman Conquest of England. William had landed his invasion force at Pevensey on September 28 and established a beachhead while Harold was in the north defeating a Norwegian invasion at Stamford Bridge. Harold force-marched his exhausted army south to confront William before the Normans could consolidate their position. The English formed a dense shield wall atop Senlac Hill, and the battle raged for most of the day. Norman cavalry charges repeatedly failed to break the English line until a combination of feigned retreats and sustained archery broke Harold's formation. Harold was killed late in the battle, and the English army disintegrated.",
+    "ja": "ヘイスティングズの戦いは1066年10月14日、ノルマンディー公ウィリアム率いるノルマン・フランス軍と、ハロルド・ゴドウィンソン王率いるイングランド軍との間で戦われました。この戦いはノルマン征服における決定的な会戦でした。ウィリアムは9月28日にペヴェンジーに侵攻軍を上陸させ、橋頭堡を築きましたが、その時ハロルドは北方でスタンフォード・ブリッジにおけるノルウェー軍の侵攻を撃退していました。ハロルドは疲弊した軍を南に強行軍させ、ノルマン軍が態勢を固める前に対峙しました。イングランド軍はセンラック・ヒルの頂上に密集した盾の壁を形成し、戦闘はほぼ一日中続きました。ノルマン騎兵の突撃はイングランド軍の防衛線を繰り返し突破できませんでしたが、偽装退却と持続的な弓射の組み合わせによりハロルドの陣形が崩れました。ハロルドは戦闘の終盤に戦死し、イングランド軍は崩壊しました。",
+    "zh-CN": "黑斯廷斯战役于1066年10月14日爆发，交战双方为诺曼底公爵威廉率领的诺曼-法兰西军队和哈罗德·戈德温森国王统率的英格兰军队。这场战役是诺曼征服英格兰的决定性会战。威廉于9月28日在佩文西登陆并建立了桥头堡，而此时哈罗德正在北方的斯坦福桥击退挪威人的入侵。哈罗德强行军南下，率领疲惫的军队在诺曼人巩固阵地之前与之对峙。英格兰军队在森拉克山顶组成密集的盾墙，战斗持续了大半天。诺曼骑兵的冲锋屡次未能突破英军防线，直到佯装撤退和持续的弓箭射击相结合才打破了哈罗德的阵形。哈罗德在战斗末期阵亡，英格兰军队随即溃散。"
+  },
+  "realWorldOutcome": {
+    "en": "William defeated Harold decisively. Harold was killed, reportedly struck by an arrow in the eye, and the English army collapsed. William marched on London, and on Christmas Day 1066 he was crowned King of England at Westminster Abbey. The Norman Conquest fundamentally transformed English society, law, language, and culture for centuries to come.",
+    "ja": "ウィリアムはハロルドを決定的に打ち破りました。ハロルドは伝説によれば目に矢を受けて戦死し、イングランド軍は崩壊しました。ウィリアムはロンドンに進軍し、1066年のクリスマスにウェストミンスター寺院でイングランド王として戴冠しました。ノルマン征服はその後何世紀にもわたってイングランドの社会、法律、言語、文化を根本的に変容させました。",
+    "zh-CN": "威廉决定性地击败了哈罗德。据说哈罗德被一支箭射中眼睛而阵亡，英格兰军队随之崩溃。威廉向伦敦进军，于1066年圣诞节在威斯敏斯特大教堂加冕为英格兰国王。诺曼征服从根本上改变了此后数百年英格兰的社会、法律、语言和文化。"
+  },
+  "keyFigures": [
+    {
+      "id": "william",
+      "name": "William, Duke of Normandy",
+      "role": {
+        "en": "Commander of the Norman invasion force",
+        "ja": "ノルマン侵攻軍の司令官",
+        "zh-CN": "诺曼入侵军总指挥"
+      },
+      "faction": "Normandy",
+      "description": {
+        "en": "The ambitious Duke of Normandy who claimed the English throne through a promise made by Edward the Confessor and sought to enforce it by military conquest.",
+        "ja": "エドワード懺悔王の約束を根拠にイングランド王位を主張し、軍事征服によってそれを実現しようとした野心的なノルマンディー公。",
+        "zh-CN": "野心勃勃的诺曼底公爵，声称忏悔者爱德华曾许诺他英格兰王位，并试图通过军事征服来实现这一主张。"
+      }
+    },
+    {
+      "id": "harold",
+      "name": "Harold Godwinson",
+      "role": {
+        "en": "King of England",
+        "ja": "イングランド王",
+        "zh-CN": "英格兰国王"
+      },
+      "faction": "England",
+      "description": {
+        "en": "The last Anglo-Saxon king of England, who had just defeated a Norwegian invasion at Stamford Bridge and force-marched south to face the Norman threat.",
+        "ja": "最後のアングロ・サクソン系イングランド王。スタンフォード・ブリッジでノルウェー軍の侵攻を撃退した直後、ノルマンの脅威に立ち向かうため南に強行軍した。",
+        "zh-CN": "最后一位盎格鲁-撒克逊英格兰国王，刚在斯坦福桥击败挪威入侵军后便强行军南下迎战诺曼威胁。"
+      }
+    },
+    {
+      "id": "odo",
+      "name": "Bishop Odo of Bayeux",
+      "role": {
+        "en": "William's half-brother and key advisor",
+        "ja": "ウィリアムの異母兄弟で重要な顧問",
+        "zh-CN": "威廉的同母异父兄弟及重要顾问"
+      },
+      "faction": "Normandy",
+      "description": {
+        "en": "Bishop of Bayeux and half-brother to William, who fought at Hastings wielding a mace and later commissioned the Bayeux Tapestry to commemorate the conquest.",
+        "ja": "バイユーの司教でウィリアムの異母兄弟。ヘイスティングズではメイスを振るって戦い、後に征服を記念するバイユーのタペストリーを制作させた。",
+        "zh-CN": "巴约主教，威廉的同母异父兄弟，在黑斯廷斯手持钉头锤作战，后来委托制作了巴约挂毯以纪念这场征服。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "william-normandy",
+      "scenarioId": "hastings-1066",
+      "name": "William, Duke of Normandy",
+      "title": {
+        "en": "Duke of Normandy, Claimant to the English Throne",
+        "ja": "ノルマンディー公、イングランド王位請求者",
+        "zh-CN": "诺曼底公爵，英格兰王位觊觎者"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are William, Duke of Normandy. It is late September 1066. You have staked everything — your duchy, your honor, your life — on this invasion of England. Pope Alexander II has blessed your cause, and you carry his papal banner. Your fleet of seven hundred ships has crossed the Channel and landed at Pevensey. Your army of Norman knights, Breton cavalry, and mercenary infantry numbers around seven thousand men. King Harold Godwinson, the man who broke his oath to support your claim, is still in the north fighting the Norwegian king Harald Hardrada. You have days, perhaps a week, to establish your position before Harold turns south. Every decision from this moment will determine whether you become a king or a corpse on a foreign shore.",
+        "ja": "あなたはノルマンディー公ウィリアムです。1066年9月下旬。あなたは公国、名誉、命のすべてをこのイングランド侵攻に賭けています。教皇アレクサンデル2世があなたの大義を祝福し、教皇旗を託しました。七百隻の船団がイギリス海峡を渡り、ペヴェンジーに上陸しました。ノルマン騎士、ブルターニュ騎兵、傭兵歩兵からなる軍は約七千人です。あなたの王位請求を支持する誓いを破ったハロルド・ゴドウィンソン王は、まだ北方でノルウェー王ハーラル・ハードラーダと戦っています。ハロルドが南に転じるまで数日、おそらく一週間の猶予があります。この瞬間からのすべての決断が、あなたが王となるか、異国の海岸で屍となるかを決めます。",
+        "zh-CN": "您是诺曼底公爵威廉。1066年9月下旬。您已将一切押上——公国、荣誉、生命——赌在这次对英格兰的入侵上。教皇亚历山大二世已祝福您的事业，您携带着教皇旗帜。您的七百艘战船已横渡英吉利海峡，在佩文西登陆。您的军队由诺曼骑士、布列塔尼骑兵和雇佣步兵组成，约七千人。背弃誓言不支持您王位继承权的哈罗德·戈德温森国王仍在北方与挪威国王哈拉尔·哈德拉达作战。在哈罗德南下之前，您有数天甚至一周的时间来巩固阵地。从此刻起的每一个决定将决定您是成为国王，还是成为异国海岸上的一具尸体。"
+      },
+      "objectives": [
+        {
+          "en": "Defeat Harold's army and destroy English resistance",
+          "ja": "ハロルドの軍を打ち破り、イングランドの抵抗を壊滅させる",
+          "zh-CN": "击败哈罗德的军队，摧毁英格兰的抵抗力量"
+        },
+        {
+          "en": "Claim the English throne and secure your coronation",
+          "ja": "イングランド王位を主張し、戴冠を確実にする",
+          "zh-CN": "夺取英格兰王位并确保加冕"
+        },
+        {
+          "en": "Secure the beachhead and maintain supply lines to Normandy",
+          "ja": "橋頭堡を確保し、ノルマンディーへの補給線を維持する",
+          "zh-CN": "确保桥头堡并维持通往诺曼底的补给线"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Your army is far from home with no possibility of reinforcement; every man lost is irreplaceable",
+          "ja": "あなたの軍は故郷から遠く離れており、援軍の可能性はない。失われた兵士一人一人が取り返しがつかない",
+          "zh-CN": "您的军队远离家乡且无法获得增援；每一个损失的士兵都是不可替代的"
+        },
+        {
+          "en": "The Channel crossing is seasonal — if you delay too long, winter storms will cut your supply line",
+          "ja": "海峡横断は季節に左右される——あまりに遅れれば、冬の嵐が補給線を断つ",
+          "zh-CN": "海峡渡海受季节限制——如果拖延太久，冬季风暴将切断补给线"
+        },
+        {
+          "en": "Your coalition army of Normans, Bretons, and mercenaries must be kept unified through decisive action",
+          "ja": "ノルマン人、ブルターニュ人、傭兵からなる連合軍は、断固たる行動によって団結を維持しなければならない",
+          "zh-CN": "您由诺曼人、布列塔尼人和雇佣兵组成的联合军队必须通过果断行动保持团结"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Harold has just destroyed a Norwegian invasion at Stamford Bridge — his army is battle-tested but exhausted",
+          "ja": "ハロルドはスタンフォード・ブリッジでノルウェー軍の侵攻を撃退したばかり——彼の軍は実戦経験があるが疲弊している",
+          "zh-CN": "哈罗德刚在斯坦福桥击败挪威入侵军——他的军队久经沙场但疲惫不堪"
+        },
+        {
+          "en": "Local English resistance may harass your foraging parties and cut off supplies",
+          "ja": "地元のイングランド人の抵抗が補給部隊を妨害し、補給を遮断する可能性がある",
+          "zh-CN": "当地英格兰人的抵抗可能骚扰您的觅粮队并切断补给"
+        },
+        {
+          "en": "Your claim depends on legitimacy — excessive brutality could undermine papal support",
+          "ja": "あなたの王位主張は正統性にかかっている——過度な残虐行為は教皇の支持を損なう可能性がある",
+          "zh-CN": "您的王位主张依赖于合法性——过度残暴可能削弱教皇的支持"
+        }
+      ],
+      "startingSceneId": "hastings-1066-scene-001",
+      "initialState": {
+        "normanMorale": 75,
+        "cavalryStrength": 80,
+        "haroldPosition": 100,
+        "supplyLines": 60
+      }
+    }
+  ],
+  "sceneIds": [
+    "hastings-1066-scene-001",
+    "hastings-1066-scene-002",
+    "hastings-1066-scene-003"
+  ],
+  "tags": ["medieval", "military", "England", "Normandy", "conquest"],
+  "difficulty": "intermediate"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "d-day-1944-scene-003",
+  "scenarioId": "d-day-1944",
+  "title": "The Breakout Decision",
+  "date": {
+    "en": "June 8, 1944",
+    "ja": "1944年6月8日",
+    "zh-CN": "1944年6月8日"
+  },
+  "location": {
+    "en": "Supreme Headquarters Allied Expeditionary Force (SHAEF), Southwick House, England",
+    "ja": "連合国遠征軍最高司令部（SHAEF）、サウスウィック・ハウス、イングランド",
+    "zh-CN": "盟军远征军最高司令部（SHAEF），索斯威克庄园，英格兰"
+  },
+  "narrativePrompt": {
+    "en": "Two days after D-Day, the beachheads are secured but the situation is far from comfortable. Over 326,000 troops are now ashore, and the five beaches are beginning to link into a continuous front. But the Germans are recovering from their initial confusion. Rommel has returned from Germany and is organizing a counterattack. The 12th SS Panzer Division is already engaging British forces near Caen, and the Panzer Lehr Division is moving up from the south. Hitler, still half-convinced that Normandy is a diversion, has nonetheless authorized limited reinforcements. The hedgerow country of the bocage looms ahead — a defender's paradise of sunken lanes, thick hedges, and stone farmhouses that will bleed the attackers for every yard. Montgomery arrives at your headquarters with his plan: hold firm around Caen, drawing the German armor to the British sector while the Americans consolidate and prepare a deliberate breakout to the west. It is methodical, it is safe, and it will take weeks. But word reaches you that Patton, still in England commanding the fictitious First US Army Group as part of Fortitude, is sending furious messages through back channels: the Germans are off balance now, and every hour of delay lets them dig in. Strike hard, strike fast, before the bocage becomes a fortress.",
+    "ja": "Dデーから2日後、橋頭堡は確保されたが状況は決して安心できるものではない。32万6千人以上の兵士が上陸し、5つのビーチは連続した戦線へとつながり始めている。しかしドイツ軍は初期の混乱から回復しつつある。ロンメルがドイツから戻り、反撃を組織している。第12SS装甲師団はすでにカーン近くでイギリス軍と交戦しており、装甲教導師団が南から北上している。ヒトラーはノルマンディーが陽動であるとまだ半分確信しているが、それでも限定的な増援を許可した。ボカージュの生垣地帯が目の前に迫っている——沈んだ小道、厚い生垣、石造りの農家からなる防御者の楽園で、攻撃者は1ヤードごとに血を流すことになる。モンゴメリーがあなたの司令部に自身の計画を持って到着する：カーン周辺で堅固に持ちこたえ、ドイツの装甲戦力をイギリス軍のセクターに引きつけている間に、アメリカ軍が態勢を固めて西への計画的な突破を準備する。それは体系的で、安全で、数週間かかる。しかしパットンの消息が届く。フォーティチュードの一環としてまだイングランドで架空のアメリカ第1軍集団を指揮している彼が、裏のチャンネルを通じて激怒したメッセージを送ってきている：ドイツ軍は今バランスを崩している、遅延の1時間ごとに彼らは塹壕を掘る時間を得る。ボカージュが要塞になる前に、強く、速く攻撃せよ。",
+    "zh-CN": "D日两天后，滩头阵地已经巩固，但局势远非轻松。超过32.6万部队已上岸，五个海滩正在连接成一条连续的战线。但德军正从最初的混乱中恢复。隆美尔已从德国返回并在组织反击。第12SS装甲师已在卡昂附近与英军交战，装甲教导师正从南方北上。希特勒虽然仍半信半疑诺曼底是佯攻，但还是授权了有限的增援。博卡日灌木篱笆地带横亘在前方——这是一个由凹陷小路、厚密树篱和石砌农舍构成的防御者天堂，进攻者将为每一码土地付出鲜血。蒙哥马利带着他的计划来到您的司令部：在卡昂周围坚守，将德军装甲部队吸引到英军地段，同时美军巩固阵地并准备向西的有计划突破。这个方案有条不紊、稳妥安全，但需要数周时间。但消息传来，巴顿——仍在英格兰指挥作为坚忍行动一部分的虚构美国第一集团军群——正通过非正式渠道发来愤怒的信息：德军现在失去了平衡，每延迟一小时都在让他们加固防线。趁博卡日变成堡垒之前，猛烈而迅速地打击。"
+  },
+  "situationReport": [
+    {
+      "en": "Over 326,000 Allied troops are ashore; the five beachheads are beginning to merge into a continuous front",
+      "ja": "32万6千人以上の連合軍が上陸済み。5つの橋頭堡が連続した戦線に統合され始めている",
+      "zh-CN": "超过32.6万盟军部队已上岸；五个滩头阵地正在合并为连续战线"
+    },
+    {
+      "en": "Rommel has returned from Germany and is organizing counterattacks with the 12th SS Panzer and Panzer Lehr Divisions",
+      "ja": "ロンメルがドイツから戻り、第12SS装甲師団と装甲教導師団で反撃を組織中",
+      "zh-CN": "隆美尔已从德国返回，正用第12SS装甲师和装甲教导师组织反攻"
+    },
+    {
+      "en": "The bocage hedgerow country ahead will heavily favor German defenders",
+      "ja": "前方のボカージュ生垣地帯はドイツの防御側に大きく有利に働く",
+      "zh-CN": "前方的博卡日灌木篱笆地形将极大有利于德军防御"
+    },
+    {
+      "en": "Operation Fortitude is still holding — Hitler has not committed the full Pas-de-Calais reserves to Normandy",
+      "ja": "フォーティチュード作戦はまだ有効——ヒトラーはパ・ド・カレーの全予備をノルマンディーに投入していない",
+      "zh-CN": "坚忍行动仍在发挥作用——希特勒尚未将加来海峡全部预备队投入诺曼底"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Choose the Allied strategy for expanding the Normandy beachhead",
+      "ja": "ノルマンディー橋頭堡を拡大するための連合軍の戦略を選択する",
+      "zh-CN": "选择扩大诺曼底滩头阵地的盟军战略"
+    },
+    {
+      "en": "Balance the risk of German counterattack against the opportunity to break out before defenses solidify",
+      "ja": "ドイツ軍の反撃リスクと防御が固まる前に突破する機会のバランスを取る",
+      "zh-CN": "在德军反击风险与防御巩固前突破的机会之间取得平衡"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Supply lines across the beaches are fragile — a major storm could cut off the beachhead for days",
+      "ja": "ビーチを経由する補給線は脆弱——大きな嵐が数日間橋頭堡を遮断する可能性がある",
+      "zh-CN": "经由海滩的补给线脆弱——一场大风暴可能切断滩头阵地数日"
+    },
+    {
+      "en": "Montgomery and Patton have fundamentally different visions for the campaign — choosing one risks alienating the other",
+      "ja": "モンゴメリーとパットンは戦役について根本的に異なるビジョンを持っている——一方を選べばもう一方を疎外するリスクがある",
+      "zh-CN": "蒙哥马利和巴顿对战役有根本不同的构想——选择一方可能疏远另一方"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Support Montgomery's methodical approach. Consolidate the beachhead, build up supplies, and let the British draw the panzers to Caen while preparing a deliberate American breakout to the west.",
+        "ja": "モンゴメリーの体系的なアプローチを支持する。橋頭堡を固め、補給を積み上げ、計画的なアメリカ軍の西方突破を準備している間にイギリス軍がカーンに装甲部隊を引きつけるようにする。",
+        "zh-CN": "支持蒙哥马利的系统方案。巩固滩头阵地，建立补给，让英军在卡昂吸引装甲部队，同时准备美军向西的有计划突破。"
+      },
+      "historicalContext": "Roughly the historical approach — the Allies consolidated for weeks before Operation Cobra broke out on July 25.",
+      "outcomePrompt": {
+        "en": "You back Montgomery. The order goes out: consolidate, build strength, and prepare. Over the following weeks, the British and Canadians fight a brutal battle of attrition around Caen, drawing the bulk of German armor to the eastern end of the beachhead exactly as Montgomery planned. The fighting in the bocage is murderous — progress is measured in hedgerows, not miles — but the supply buildup continues, and American strength grows day by day. Patton fumes in England, but when his time finally comes with Operation Cobra on July 25, the breakout is devastating. American forces pour through the gap at Saint-Lô and the German front collapses. By August, Paris is liberated. The methodical approach cost time and blood in the hedgerows, but the breakout, when it came, was decisive. The war in Europe will end within a year.",
+        "ja": "あなたはモンゴメリーを支持する。命令が発せられる：固め、戦力を積み上げ、準備せよ。その後の数週間、イギリスとカナダ軍はカーン周辺で熾烈な消耗戦を戦い、モンゴメリーの計画通りにドイツ装甲戦力の大半を橋頭堡の東端に引きつける。ボカージュでの戦闘は凄惨で——前進はマイルではなく生垣の列で測られる——しかし補給の積み上げは続き、アメリカ軍の戦力は日に日に増す。パットンはイングランドで焦れるが、7月25日のコブラ作戦でついに出番が来ると、突破は壊滅的だ。アメリカ軍がサン・ローの突破口になだれ込み、ドイツ軍の戦線は崩壊する。8月までにパリは解放される。体系的なアプローチは生垣地帯で時間と血を犠牲にしたが、突破が来た時、それは決定的だった。ヨーロッパの戦争は1年以内に終わるだろう。",
+        "zh-CN": "您支持蒙哥马利。命令下达：巩固、积蓄力量、做好准备。在接下来的几周里，英军和加拿大军在卡昂周围展开残酷的消耗战，按蒙哥马利的计划将德军装甲部队的主力吸引到滩头阵地的东端。博卡日的战斗是血腥的——进展以树篱而非英里来衡量——但补给持续积累，美军实力日益增长。巴顿在英格兰焦躁不安，但当他的时刻终于在7月25日的眼镜蛇行动中到来时，突破是毁灭性的。美军涌过圣洛的缺口，德军战线崩溃。到8月，巴黎解放。系统方案在灌木篱笆地带付出了时间和鲜血的代价，但突破到来时是决定性的。欧洲战争将在一年内结束。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "alliedMorale", "operation": "add", "value": 5 },
+        { "variable": "germanReadiness", "operation": "add", "value": 10 },
+        { "variable": "deceptionIntact", "operation": "add", "value": 5 },
+        { "variable": "weatherWindow", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Unleash an aggressive breakout immediately. The Germans are disorganized — strike now before they can dig into the bocage and turn it into a fortress.",
+        "ja": "即座に積極的な突破を開始する。ドイツ軍は混乱している——彼らがボカージュに塹壕を掘り要塞化する前に今攻撃せよ。",
+        "zh-CN": "立即发动积极突破。德军正处于混乱中——趁他们在博卡日构筑防线将其变成堡垒之前，现在就发起攻击。"
+      },
+      "historicalContext": "A counterfactual — an early breakout was risky but the Germans were genuinely off balance in the first days after D-Day.",
+      "outcomePrompt": {
+        "en": "You overrule Montgomery and order an immediate push south and west. The decision sends shock waves through the Allied command — Montgomery is furious, and the British press will be savage — but the American divisions surge forward before the Germans can fully organize the bocage defense. The fighting is intense and chaotic. Without the weeks of supply buildup, ammunition runs short in some sectors, and units outrun their logistics. The 12th SS Panzer Division launches a vicious counterattack near Villers-Bocage that nearly splits the British front. But the gamble pays off in one crucial way: the Americans break through the thinly held German line west of Saint-Lô before the Panzer Lehr Division can fully deploy, reaching Coutances by June 15 — six weeks ahead of the historical timeline. The breakout is messier, costlier, and more fragile than a methodical approach would have been, but it catches the Germans before they can turn the bocage into the meat grinder it became historically. Rommel's nightmare — the Allies loose in open country before the defensive line solidifies — becomes reality. The race for Paris begins early, and the war in Europe may end sooner than anyone dares to hope.",
+        "ja": "あなたはモンゴメリーを却下し、即座の南西方向への進撃を命じる。この決定は連合軍の指揮系統に衝撃を与える——モンゴメリーは激怒し、イギリスのマスコミは容赦ないだろう——しかしアメリカ師団はドイツ軍がボカージュの防御を完全に組織する前に突進する。戦闘は激しく混沌としている。数週間の補給積み上げなしでは、一部の地区で弾薬が不足し、部隊は兵站を追い越してしまう。第12SS装甲師団がヴィレル＝ボカージュ近くで猛烈な反撃を開始し、イギリス軍の戦線をほぼ分断しかける。しかし賭けは一つの決定的な点で報われる：装甲教導師団が完全に展開する前に、アメリカ軍がサン・ロー西方の手薄なドイツ軍戦線を突破し、6月15日までにクタンスに到達する——歴史的なタイムラインより6週間早い。突破は体系的なアプローチより乱雑で、犠牲が大きく、脆弱だが、ドイツ軍がボカージュを歴史的に起きたような肉挽き機に変える前に彼らを捕らえた。ロンメルの悪夢——防御線が固まる前に連合軍が開けた土地に解き放たれること——が現実となる。パリへの競争が早期に始まり、ヨーロッパの戦争は誰もが敢えて望むより早く終わるかもしれない。",
+        "zh-CN": "您否决了蒙哥马利，命令立即向南和向西推进。这个决定在盟军指挥层引起震动——蒙哥马利怒不可遏，英国媒体将会口诛笔伐——但美军各师在德军完全组织博卡日防御之前就冲了出去。战斗激烈而混乱。没有数周的补给积累，部分地区弹药短缺，部队超越了后勤补给线。第12SS装甲师在维莱博卡日附近发动了凶猛的反击，几乎将英军战线一分为二。但这个赌博在一个关键方面得到了回报：美军在装甲教导师完全展开之前突破了圣洛以西德军薄弱的防线，在6月15日之前到达库唐斯——比历史时间线提前了六周。突破比系统方案更混乱、代价更高、更脆弱，但它在德军将博卡日变成历史上那个血肉磨坊之前抓住了他们。隆美尔的噩梦——在防线巩固前盟军冲入开阔地带——成为现实。争夺巴黎的竞赛提前开始，欧洲战争可能比任何人敢于期望的都要早结束。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "alliedMorale", "operation": "add", "value": 15 },
+        { "variable": "germanReadiness", "operation": "add", "value": -15 },
+        { "variable": "deceptionIntact", "operation": "add", "value": -10 },
+        { "variable": "weatherWindow", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "roleFilter": ["eisenhower"],
+  "isTerminal": true
+}

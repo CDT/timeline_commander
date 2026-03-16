@@ -1,0 +1,163 @@
+{
+  "id": "meiji-restoration-1868",
+  "title": {
+    "en": "Meiji Restoration",
+    "ja": "明治維新",
+    "zh-CN": "明治维新"
+  },
+  "period": {
+    "en": "Late Tokugawa / Early Meiji",
+    "ja": "幕末・明治初期",
+    "zh-CN": "幕末/明治初期"
+  },
+  "dates": {
+    "start": "1868-01-03",
+    "end": "1868-05-03"
+  },
+  "location": {
+    "en": "Kyoto / Edo, Japan",
+    "ja": "京都・江戸、日本",
+    "zh-CN": "日本京都/江户"
+  },
+  "historicalOverview": {
+    "en": "The Meiji Restoration was the political revolution of 1868 that ended over 260 years of Tokugawa shogunate rule and restored nominal authority to the Emperor. Driven by a coalition of domains — principally Satsuma, Choshu, Tosa, and Hizen — the movement was catalyzed by the humiliating arrival of Western powers demanding trade concessions, which exposed the shogunate's inability to defend Japan. The restoration was not merely a change of government but the beginning of Japan's rapid modernization, transforming a feudal society into a centralized nation-state capable of competing with Western imperial powers within a single generation.",
+    "ja": "明治維新は1868年の政治革命であり、260年以上にわたる徳川幕府の支配を終わらせ、天皇に名目上の権威を回復させた。薩摩、長州、土佐、肥前を中心とする藩の連合によって推進されたこの運動は、通商を求める西洋列強の屈辱的な来航により加速された。これは幕府が日本を守る能力がないことを露呈させた。維新は単なる政権交代ではなく、日本の急速な近代化の始まりであり、封建社会をわずか一世代で西洋帝国主義列強と競争できる中央集権国家へと変貌させた。",
+    "zh-CN": "明治维新是1868年的政治革命，终结了德川幕府长达260余年的统治，恢复了天皇的名义权力。这一运动由以萨摩、长州、土佐、肥前为首的藩阀联盟推动，西方列强强行要求通商的屈辱性到来成为催化剂，暴露了幕府无力保卫日本的事实。维新不仅仅是政权更迭，更是日本快速现代化的开端，在一代人的时间内将一个封建社会转变为能与西方帝国主义列强竞争的中央集权民族国家。"
+  },
+  "realWorldOutcome": {
+    "en": "The Tokugawa shogunate collapsed with relatively little bloodshed. The Battle of Toba-Fushimi in January 1868 was a decisive defeat for the shogunate's forces. The last Shogun, Tokugawa Yoshinobu, ultimately surrendered Edo Castle peacefully in May 1868, avoiding the destruction of Japan's largest city. The Meiji government rapidly implemented sweeping reforms: abolishing the feudal domain system, creating a conscript army, establishing a constitution, and industrializing the economy. However, the alliance that achieved the restoration soon fractured, leading to the Satsuma Rebellion of 1877, in which Saigo Takamori — one of the restoration's greatest heroes — died fighting against the modern government he had helped create.",
+    "ja": "徳川幕府は比較的少ない流血で崩壊した。1868年1月の鳥羽・伏見の戦いは幕府軍にとって決定的な敗北だった。最後の将軍・徳川慶喜は最終的に1868年5月に江戸城を平和的に明け渡し、日本最大の都市の破壊を回避した。明治政府は急速に大規模な改革を実施した：封建的な藩制度の廃止、徴兵制軍隊の創設、憲法の制定、経済の工業化などである。しかし維新を達成した同盟はやがて分裂し、1877年の西南戦争へとつながった。そこでは維新の最大の英雄の一人・西郷隆盛が、自らが創出を助けた近代政府と戦って命を落とした。",
+    "zh-CN": "德川幕府在相对较少的流血中崩溃。1868年1月的�的鸟羽伏见之战是幕府军的决定性失败。末代将军德川庆喜最终于1868年5月和平交出江户城，避免了日本最大城市的毁灭。明治政府迅速实施了全面改革：废除封建藩制、建立征兵制军队、制定宪法、推动经济工业化。然而，实现维新的联盟很快分裂，导致了1877年的西南战争，维新最伟大的英雄之一西乡隆盛在与自己帮助创建的现代政府的战斗中阵亡。"
+  },
+  "keyFigures": [
+    {
+      "id": "saigo",
+      "name": "Saigo Takamori",
+      "role": {
+        "en": "Leader of the Satsuma Domain forces",
+        "ja": "薩摩藩軍指導者",
+        "zh-CN": "萨摩藩军领袖"
+      },
+      "faction": "Imperial Loyalists",
+      "description": {
+        "en": "The charismatic military leader of Satsuma Domain and one of the three great nobles of the Restoration. A towering figure of samurai virtue, he led the imperial forces at Toba-Fushimi and negotiated the peaceful surrender of Edo. His later disillusionment with modernization led to his tragic rebellion and death in 1877.",
+        "ja": "薩摩藩のカリスマ的軍事指導者であり、維新三傑の一人。武士の美徳の象徴的存在で、鳥羽・伏見で官軍を率い、江戸の平和的開城を交渉した。後に近代化への幻滅から悲劇的な反乱と1877年の死につながった。",
+        "zh-CN": "萨摩藩的魅力军事领袖，维新三杰之一。他是武士美德的典范，在鸟羽伏见率领官军，并谈判了江户的和平交接。后来他对现代化的幻灭导致了悲剧性的叛乱和1877年的阵亡。"
+      }
+    },
+    {
+      "id": "yoshinobu",
+      "name": "Tokugawa Yoshinobu",
+      "role": {
+        "en": "The 15th and last Shogun of the Tokugawa Shogunate",
+        "ja": "徳川幕府第15代・最後の将軍",
+        "zh-CN": "德川幕府第十五代也是末代将军"
+      },
+      "faction": "Tokugawa Shogunate",
+      "description": {
+        "en": "The last Tokugawa Shogun, a capable but indecisive leader caught between reformists within his own government and the growing power of the anti-shogunate coalition. His decision to resign and then resist, and finally to surrender, shaped the nature of the transition.",
+        "ja": "最後の徳川将軍。有能だが優柔不断な指導者で、自らの政権内の改革派と反幕府連合の増大する勢力の間に挟まれた。辞任し、抵抗し、最終的に降伏するという彼の決断が、政権移行の性質を形作った。",
+        "zh-CN": "末代德川将军，有才能但优柔寡断的领导人，在幕府内部的改革派和日益壮大的倒幕联盟之间左右为难。他先辞职、再抵抗、最终投降的决定塑造了政权过渡的性质。"
+      }
+    },
+    {
+      "id": "okubo",
+      "name": "Okubo Toshimichi",
+      "role": {
+        "en": "Satsuma Domain political strategist",
+        "ja": "薩摩藩の政治戦略家",
+        "zh-CN": "萨摩藩政治策略家"
+      },
+      "faction": "Imperial Loyalists",
+      "description": {
+        "en": "Saigo's childhood friend and political counterpart from Satsuma. While Saigo led through martial charisma, Okubo was the calculating political architect of the restoration. Their eventual disagreement over Japan's direction would tear apart the Meiji leadership.",
+        "ja": "西郷の幼馴染であり薩摩の政治的対応者。西郷が武人のカリスマで指導する一方、大久保は維新の冷徹な政治的設計者だった。日本の方向性をめぐる二人の最終的な不和は、明治の指導層を引き裂くことになる。",
+        "zh-CN": "西乡的儿时好友和萨摩的政治搭档。西乡以武人魅力领导，大久保则是维新冷静的政治设计师。他们最终在日本发展方向上的分歧将撕裂明治领导层。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "saigo-commander",
+      "scenarioId": "meiji-restoration-1868",
+      "name": "Saigo Takamori",
+      "title": {
+        "en": "Leader of the Satsuma Domain Forces",
+        "ja": "薩摩藩軍指導者",
+        "zh-CN": "萨摩藩军领袖"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Saigo Takamori, the great hero of Satsuma Domain. It is January 1868. For years you have worked in the shadows with Okubo Toshimichi and the leaders of Choshu Domain to overthrow the Tokugawa Shogunate and restore the Emperor to power. The moment has arrived. The young Emperor Meiji has issued a decree restoring imperial rule, but the former Shogun Tokugawa Yoshinobu has not accepted his diminished status. His loyalist forces are massing near Kyoto. Western powers — Britain, France, the United States — watch with predatory interest, ready to exploit any chaos. You command the Satsuma forces, the finest warriors in Japan, but you face a dilemma that will define the nation: how much blood must be spilled to build a new Japan? And what kind of Japan should it be — one that preserves the warrior spirit, or one that embraces Western ways?",
+        "ja": "あなたは西郷隆盛、薩摩藩の偉大なる英雄です。1868年1月。長年にわたりあなたは大久保利通や長州藩の指導者たちと陰で協力し、徳川幕府を倒して天皇に権力を回復させるために動いてきました。その瞬間が来ました。若き明治天皇は王政復古の大号令を発しましたが、前将軍・徳川慶喜は低下した地位を受け入れていません。彼の忠臣の軍勢が京都近郊に集結しています。西洋列強——イギリス、フランス、アメリカ——は略奪的な関心を持って見守り、混乱に乗じる準備をしています。あなたは日本最強の武士である薩摩軍を指揮していますが、国の運命を決するジレンマに直面しています：新しい日本を築くためにどれだけの血を流さなければならないのか？そしてどのような日本であるべきか——武士の魂を守る日本か、西洋の道を受け入れる日本か？",
+        "zh-CN": "您是西乡隆盛，萨摩藩的伟大英雄。1868年1月。多年来您与大久保利通及长州藩领袖暗中合作，推翻德川幕府、恢复天皇权力。时机已到。年轻的明治天皇已颁布王政复古大号令，但前将军德川庆喜并未接受自己地位的降低。他的忠诚部队正在京都附近集结。西方列强——英国、法国、美国——以掠夺性的兴趣注视着一切，随时准备利用任何混乱。您指挥着萨摩军——日本最精锐的武士，但您面临一个将定义这个国家的困境：建设新日本需要流多少血？新日本应该是什么样的——保留武士精神的日本，还是拥抱西方道路的日本？"
+      },
+      "objectives": [
+        {
+          "en": "Overthrow the Tokugawa shogunate and restore imperial rule",
+          "ja": "徳川幕府を打倒し、天皇の統治を回復する",
+          "zh-CN": "推翻德川幕府，恢复天皇统治"
+        },
+        {
+          "en": "Navigate between modernizers and traditionalists to preserve national unity",
+          "ja": "近代化派と伝統派の間を渡り歩き、国家の統一を守る",
+          "zh-CN": "在现代化派和传统派之间周旋，维护国家统一"
+        },
+        {
+          "en": "Prevent Western powers from exploiting Japan's internal conflict",
+          "ja": "西洋列強が日本の内乱を利用するのを防ぐ",
+          "zh-CN": "防止西方列强利用日本的内部冲突"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "The domain alliance is fragile — Satsuma and Choshu have been rivals for centuries",
+          "ja": "藩の同盟は脆い——薩摩と長州は何世紀にもわたって対立してきた",
+          "zh-CN": "藩阀联盟十分脆弱——萨摩与长州数百年来一直是对手"
+        },
+        {
+          "en": "Excessive bloodshed could invite Western intervention under the pretext of protecting their nationals",
+          "ja": "過度な流血は自国民保護を口実に西洋列強の介入を招く可能性がある",
+          "zh-CN": "过多流血可能招致西方以保护侨民为借口进行干涉"
+        },
+        {
+          "en": "The Emperor is young and largely symbolic — real power must be wielded carefully behind the throne",
+          "ja": "天皇は若く、ほとんど象徴的存在——実権は慎重に玉座の背後で行使されなければならない",
+          "zh-CN": "天皇年幼且主要是象征——实权必须谨慎地在幕后行使"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Tokugawa loyalists outnumber the imperial forces and are concentrated near Kyoto",
+          "ja": "徳川の忠臣は官軍を数で上回り、京都近郊に集結している",
+          "zh-CN": "德川忠臣在兵力上超过官军，且集中在京都附近"
+        },
+        {
+          "en": "France has been supplying the shogunate with modern weapons and military advisors",
+          "ja": "フランスが幕府に近代兵器と軍事顧問を供給してきた",
+          "zh-CN": "法国一直在向幕府提供现代武器和军事顾问"
+        },
+        {
+          "en": "Okubo Toshimichi urges a political solution; your own instincts lean toward decisive military action",
+          "ja": "大久保利通は政治的解決を促している。あなた自身の本能は決定的な軍事行動に傾いている",
+          "zh-CN": "大久保利通主张政治解决；您自己的本能倾向于果断的军事行动"
+        }
+      ],
+      "startingSceneId": "meiji-restoration-1868-scene-001",
+      "initialState": {
+        "imperialSupport": 70,
+        "domainAlliance": 60,
+        "shogunateStrength": 55,
+        "foreignPressure": 80
+      }
+    }
+  ],
+  "sceneIds": [
+    "meiji-restoration-1868-scene-001",
+    "meiji-restoration-1868-scene-002",
+    "meiji-restoration-1868-scene-003"
+  ],
+  "tags": ["modern", "political", "Japan", "restoration", "modernization"],
+  "difficulty": "intermediate"
+}

@@ -1,0 +1,81 @@
+{
+  "scenarioId": "red-cliffs-208",
+  "timeline": [
+    {
+      "date": "0208-07-01",
+      "description": {
+        "en": "Cao Cao defeats Liu Biao's successor in Jing Province and absorbs the Jing Province naval forces, giving him a fleet on the Yangtze for the first time.",
+        "ja": "曹操が荊州で劉表の後継者を破り、荊州水軍を吸収。これにより初めて長江での艦隊を手に入れる。",
+        "zh-CN": "曹操在荆州击败刘表的继任者，吸收荆州水军，首次获得了长江上的舰队。"
+      }
+    },
+    {
+      "date": "0208-09-01",
+      "description": {
+        "en": "Liu Bei flees south after the Battle of Changban. Zhuge Liang is dispatched to Sun Quan's court to negotiate an alliance against Cao Cao.",
+        "ja": "劉備は長坂の戦いの後に南へ逃れる。諸葛亮が曹操に対する同盟を交渉するため孫権の朝廷に派遣される。",
+        "zh-CN": "刘备在长坂之战后南逃。诸葛亮被派往孙权朝廷，商议抗曹联盟。"
+      }
+    },
+    {
+      "date": "0208-10-01",
+      "description": {
+        "en": "Sun Quan decides to resist Cao Cao. Zhou Yu is appointed Grand Commander of the allied forces. The Wu-Shu alliance is formally established.",
+        "ja": "孫権が曹操への抵抗を決意。周瑜が連合軍の大都督に任命される。呉蜀同盟が正式に成立。",
+        "zh-CN": "孙权决定抵抗曹操。周瑜被任命为联军大都督。吴蜀联盟正式建立。"
+      }
+    },
+    {
+      "date": "0208-11-01",
+      "description": {
+        "en": "The two armies meet at Red Cliffs on the Yangtze. Cao Cao chains his warships together to reduce rocking for his seasick northern troops. An initial skirmish favors the allies.",
+        "ja": "両軍が長江の赤壁で対峙する。曹操は船酔いする北方兵のために軍船を鎖で連結する。最初の小競り合いは連合軍に有利に進む。",
+        "zh-CN": "两军在长江赤壁相遇。曹操将战船用铁链连接，以减少北方士兵的晕船。初次交锋对联军有利。"
+      }
+    },
+    {
+      "date": "0208-11-15",
+      "description": {
+        "en": "Veteran general Huang Gai proposes a feigned defection to Cao Cao as cover for a fire ship attack. Zhou Yu approves the plan.",
+        "ja": "老将・黄蓋が火船攻撃の掩護として曹操への偽りの投降を提案。周瑜がこの計画を承認する。",
+        "zh-CN": "老将黄盖提出诈降曹操作为火攻掩护的计策。周瑜批准此计划。"
+      }
+    },
+    {
+      "date": "0208-12-01",
+      "description": {
+        "en": "The fire attack is launched. Huang Gai's ships, loaded with oil and dry reeds, sail toward Cao Cao's chained fleet under the pretense of surrender. The southeast wind fans the flames across the linked warships, igniting a catastrophic inferno.",
+        "ja": "火攻めが開始される。油と枯れ葦を積んだ黄蓋の船団が、投降を装い曹操の連結された艦隊に向かう。東南の風が炎を連結された軍船に広げ、壊滅的な大火災を引き起こす。",
+        "zh-CN": "火攻发动。黄盖的船只满载油脂和干草，以投降为名驶向曹操的连环战船。东南风将火焰吹向连锁战船，引发灾难性的大火。"
+      }
+    },
+    {
+      "date": "0208-12-05",
+      "description": {
+        "en": "Cao Cao's army is routed. He retreats north along the Huarong Trail, losing thousands more to starvation, disease, and allied pursuit. The Battle of Red Cliffs is a decisive allied victory.",
+        "ja": "曹操軍は壊走。華容道を通って北へ撤退するが、飢餓、疫病、連合軍の追撃によりさらに数千人を失う。赤壁の戦いは連合軍の決定的な勝利となった。",
+        "zh-CN": "曹操大军溃败。他沿华容道北撤，又因饥饿、瘟疫和联军追击损失数千人。赤壁之战以联军决定性胜利告终。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Wu-Shu alliance achieved a stunning victory against overwhelming odds. Cao Cao's dream of reunifying China was shattered. The battle directly led to the emergence of the Three Kingdoms: Wei, Shu, and Wu, a tripartite division that would endure for decades.",
+    "ja": "呉蜀連合軍は圧倒的な不利を覆し、驚くべき勝利を収めた。曹操の中国統一の夢は打ち砕かれた。この戦いは直接的に三国——魏、蜀、呉——の出現をもたらし、その三国鼎立は数十年にわたって続いた。",
+    "zh-CN": "吴蜀联军在极其不利的形势下取得了惊人的胜利。曹操统一中国的梦想被粉碎。这场战役直接导致了魏、蜀、吴三国的形成，三国鼎立的局面持续了数十年。"
+  },
+  "casualties": {
+    "en": "Cao Cao's forces: estimated losses of over 100,000 to combat, fire, drowning, and disease. Allied forces: relatively light casualties, estimated in the low thousands.",
+    "ja": "曹操軍：戦闘、火災、溺死、疫病による損失は推定10万人以上。連合軍：比較的軽微な損害で、推定数千人。",
+    "zh-CN": "曹操军：因战斗、火灾、溺亡和瘟疫估计损失超过十万人。联军：伤亡相对较轻，估计数千人。"
+  },
+  "significance": {
+    "en": "The Battle of Red Cliffs is one of the most consequential battles in Chinese history. It prevented the reunification of China under Cao Cao and established the geopolitical framework of the Three Kingdoms era. The battle has been immortalized in Luo Guanzhong's Romance of the Three Kingdoms and remains one of the most studied examples of asymmetric warfare and the use of deception in military strategy. It demonstrated that superior numbers and political authority could be overcome by terrain advantage, strategic creativity, and the exploitation of an enemy's weaknesses.",
+    "ja": "赤壁の戦いは中国史上最も重要な戦いの一つである。曹操による中国統一を阻止し、三国時代の地政学的枠組みを確立した。この戦いは羅貫中の『三国志演義』で不朽のものとなり、非対称戦争と軍事戦略における欺瞞の活用の最も研究された事例の一つであり続けている。数的優位と政治的権威が、地形の利、戦略的創造性、敵の弱点の活用によって克服され得ることを示した。",
+    "zh-CN": "赤壁之战是中国历史上最具影响力的战役之一。它阻止了曹操统一中国，奠定了三国时代的地缘政治格局。这场战役因罗贯中的《三国演义》而不朽，至今仍是非对称战争和军事战略中运用欺骗手段最受研究的案例之一。它证明了数量优势和政治权威可以被地形优势、战略创造力和对敌方弱点的利用所克服。"
+  },
+  "furtherReading": [
+    "Rafe de Crespigny — Fire over Luoyang: A History of the Later Han Dynasty",
+    "Luo Guanzhong — Romance of the Three Kingdoms",
+    "Rafe de Crespigny — A Biographical Dictionary of Later Han to the Three Kingdoms"
+  ]
+}

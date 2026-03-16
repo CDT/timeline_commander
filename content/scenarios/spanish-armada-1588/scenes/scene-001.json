@@ -1,0 +1,109 @@
+{
+  "id": "spanish-armada-1588-scene-001",
+  "scenarioId": "spanish-armada-1588",
+  "title": "First Contact off Plymouth",
+  "date": {
+    "en": "July 31, 1588",
+    "ja": "1588年7月31日",
+    "zh-CN": "1588年7月31日"
+  },
+  "location": {
+    "en": "English Channel, off Plymouth, England",
+    "ja": "イギリス海峡、プリマス沖、イングランド",
+    "zh-CN": "英吉利海峡，英格兰普利茅斯外海"
+  },
+  "narrativePrompt": {
+    "en": "The Armada has been sighted. One hundred and thirty ships in a vast crescent formation, stretching three miles wide across the Channel, sailing slowly but inexorably toward the Strait of Dover and their rendezvous with Parma. You warped your ships out of Plymouth harbor overnight, gaining the weather gauge — the windward position that gives you the initiative. Now you must decide how to engage this enormous fleet. Your ships are faster and your guns have longer range, but the Spanish crescent is a formidable defensive formation. The horns of the crescent are reinforced with the heaviest warships, and any English ship that ventures too close risks being grappled and boarded by Spanish infantry, who outnumber your crews in hand-to-hand combat. Lord Howard defers to your judgment. What is your opening move?",
+    "ja": "無敵艦隊が発見されました。130隻の船が海峡を横切って3マイル幅の巨大な三日月陣形で、ドーバー海峡とパルマとの合流点に向かってゆっくりだが確実に航行しています。あなたは一晩かけてプリマス港から船を引き出し、風上位置——主導権を握る位置——を確保しました。この巨大な艦隊にどう交戦するか決めなければなりません。あなたの船はより速く、砲の射程はより長いが、スペインの三日月陣形は手ごわい防御陣形です。三日月の両翼は最も重武装の軍艦で強化されており、近づきすぎたイングランド船は接舷されてスペイン歩兵に乗り込まれるリスクがある——白兵戦では彼らがあなたの乗組員を数で上回ります。ハワード卿はあなたの判断に委ねています。あなたの最初の一手は？",
+    "zh-CN": "无敌舰队被发现了。一百三十艘船组成横跨海峡三英里宽的巨大新月阵形，缓慢但不可阻挡地向多佛海峡驶去，准备与帕尔马会合。您连夜将船只从普利茅斯港拖出，抢占了上风位——掌握主动权的迎风位置。现在您必须决定如何与这支庞大的舰队交战。您的船更快，火炮射程更远，但西班牙的新月阵形是强大的防御阵列。新月两翼由最重型的战船加强，任何冒险靠得太近的英格兰船都有被钩住并遭西班牙步兵登船的风险——在肉搏战中他们的人数远超您的船员。霍华德勋爵听从您的判断。您的开场策略是什么？"
+  },
+  "situationReport": [
+    {
+      "en": "The Armada is in a defensive crescent formation, three miles wide, making steady progress up the Channel",
+      "ja": "無敵艦隊は3マイル幅の防御的な三日月陣形で、海峡を着実に進んでいる",
+      "zh-CN": "无敌舰队呈防御性新月阵形，宽三英里，沿海峡稳步推进"
+    },
+    {
+      "en": "English fleet has the weather gauge (windward position) — you control when and how to engage",
+      "ja": "イングランド艦隊は風上位置を確保している——いつ、どのように交戦するかを支配している",
+      "zh-CN": "英格兰舰队占据上风位——您控制着何时以及如何交战"
+    },
+    {
+      "en": "Ammunition stores are sufficient for approximately three days of sustained combat",
+      "ja": "弾薬の備蓄は約3日間の持続的戦闘に十分",
+      "zh-CN": "弹药储备足够约三天的持续战斗"
+    },
+    {
+      "en": "Parma's Army of Flanders is waiting in Dunkirk — the Armada must be stopped before it reaches him",
+      "ja": "パルマのフランドル軍がダンケルクで待機している——無敵艦隊が彼に到達する前に阻止しなければならない",
+      "zh-CN": "帕尔马的佛兰德斯军团在敦刻尔克等待——必须在无敌舰队到达之前阻止它"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Slow the Armada's progress up the Channel",
+      "ja": "無敵艦隊の海峡北上を遅らせる",
+      "zh-CN": "减缓无敌舰队沿海峡的推进速度"
+    },
+    {
+      "en": "Inflict damage while conserving ammunition for the decisive engagement",
+      "ja": "決定的な交戦のために弾薬を節約しながら損害を与える",
+      "zh-CN": "在为决战保存弹药的同时造成损伤"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Closing to effective gunnery range risks being grappled and boarded by superior Spanish infantry",
+      "ja": "効果的な射程距離に接近すると、優勢なスペイン歩兵に接舷・乗り込みされるリスクがある",
+      "zh-CN": "靠近到有效射程有被优势西班牙步兵钩住并登船的风险"
+    },
+    {
+      "en": "Long-range fire has minimal effect on the Armada's heavy galleons — you are wasting shot at distance",
+      "ja": "長距離砲火は無敵艦隊の重装ガレオン船にはほとんど効果がない——遠距離では弾を浪費している",
+      "zh-CN": "远程射击对无敌舰队的重型帆船效果甚微——远距离射击是在浪费炮弹"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Engage at long range. Use your speed advantage to harass the Armada's flanks and rear, chipping away at stragglers without risking a decisive engagement yet.",
+        "ja": "遠距離で交戦する。速度の優位性を活かして無敵艦隊の側面と後方を攻撃し、まだ決定的な交戦を避けつつ落伍船を削っていく。",
+        "zh-CN": "远距离交战。利用速度优势骚扰无敌舰队的侧翼和后方，蚕食掉队的船只，暂不冒险进行决战。"
+      },
+      "historicalContext": "The historical approach — the English engaged at long range for several days as the Armada sailed up the Channel, inflicting limited damage but preserving their fleet for the decisive moment at Calais.",
+      "outcomePrompt": {
+        "en": "You keep your distance, darting in to fire broadsides at the Armada's flanks and then pulling away before the Spanish can close. Over the next several days, a running battle develops up the Channel. You capture the damaged galleon Rosario when it falls behind the formation, gaining both a prize ship and a boost to English morale. But the Armada's discipline holds. The crescent formation absorbs your long-range fire like a fortress absorbs musket balls. The Spanish lose a few ships to accidents and damage, but the main body sails on toward Calais, toward Parma. Your ammunition is running dangerously low. You need a new strategy before the Armada reaches its destination.",
+        "ja": "距離を保ち、無敵艦隊の側面に接近して舷側砲火を浴びせ、スペインが近づく前に離脱する。次の数日間、海峡を北上しながら追撃戦が展開される。陣形から遅れた損傷ガレオン船ロサリオを拿捕し、戦利船とイングランドの士気の向上を得る。しかし無敵艦隊の規律は保たれている。三日月陣形は要塞がマスケット銃弾を吸収するように遠距離砲火を吸収する。スペインは事故や損傷で数隻を失うが、本隊はカレーに向かって、パルマに向かって航行を続ける。弾薬が危険なほど減っている。無敵艦隊が目的地に達する前に新しい戦略が必要だ。",
+        "zh-CN": "您保持距离，冲入射出舷侧炮火后迅速撤离，不让西班牙人靠近。接下来数天，海峡中展开了一场追击战。您在受损帆船罗萨里奥号掉队时将其俘获，既得到一艘战利船又提振了英格兰士气。但无敌舰队的纪律依然坚固。新月阵形像堡垒吸收火枪弹一样吸收了您的远程炮火。西班牙因事故和损伤失去了几艘船，但主力继续向加来、向帕尔马驶去。您的弹药已危险地减少。必须在无敌舰队到达目的地之前想出新策略。"
+      },
+      "nextSceneId": "spanish-armada-1588-scene-002",
+      "stateChanges": [
+        { "variable": "englishMorale", "operation": "add", "value": 10 },
+        { "variable": "fleetReadiness", "operation": "add", "value": -10 },
+        { "variable": "spanishFormation", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Close to effective range aggressively. Accept the risk of boarding to deal real damage to the Spanish warships before they reach Calais.",
+        "ja": "積極的に有効射程に接近する。カレーに到達する前にスペイン軍艦に実質的な損害を与えるため、接舷のリスクを受け入れる。",
+        "zh-CN": "积极逼近至有效射程。接受被登船的风险，在西班牙战船到达加来之前对其造成实质性损伤。"
+      },
+      "historicalContext": "A counterfactual — closing to effective range was risky given Spanish superiority in close combat, but could have inflicted more damage earlier in the campaign.",
+      "outcomePrompt": {
+        "en": "You order the fleet to close to within musket shot — two hundred yards — and fire broadsides directly into the Spanish hulls. The effect is dramatic. At this range, English culverins punch through oak planking and send splinters scything through crowded gun decks. Two Spanish galleons are badly holed and fall out of formation. But the cost is severe. The San Martin, Medina Sidonia's flagship, grapples one of your ships and Spanish soldiers swarm aboard before it can break free. You lose the ship and its crew. Two other English vessels are damaged by close-range Spanish cannon fire. Your ammunition expenditure at close range has been enormous — you have perhaps a day's supply remaining. The Armada presses on toward Calais, bloodied but intact.",
+        "ja": "艦隊にマスケット銃の射程——200ヤード——まで接近し、スペインの船体に直接舷側砲火を浴びせるよう命じる。効果は劇的だ。この距離ではイングランドのカルバリン砲がオークの板を貫通し、混み合った砲甲板に破片を飛び散らせる。2隻のスペインガレオン船がひどい穴を開けられ陣形を離れる。しかし代価は深刻だ。メディナ・シドニアの旗艦サン・マルティンがあなたの船の1隻に接舷し、離脱する前にスペイン兵がなだれ込む。その船と乗組員を失う。他の2隻のイングランド艦も近距離のスペイン砲火で損傷する。近距離での弾薬消費は莫大で——残りはおそらく1日分しかない。無敵艦隊は血にまみれながらも無傷でカレーに向かって進み続ける。",
+        "zh-CN": "您命令舰队逼近至火枪射程——两百码——直接向西班牙船体发射舷侧炮。效果立竿见影。在这个距离，英格兰长炮穿透橡木船板，弹片在拥挤的炮甲板上横飞。两艘西班牙帆船被严重击穿并脱离阵形。但代价惨重。梅迪纳-西多尼亚的旗舰圣马丁号钩住了您的一艘船，西班牙士兵在其挣脱前蜂拥而上。您失去了那艘船和全部船员。另外两艘英格兰船被近距离西班牙炮火损伤。近距离交战的弹药消耗巨大——您大概只剩一天的弹药储备。无敌舰队虽然受创但阵形完整，继续向加来推进。"
+      },
+      "nextSceneId": "spanish-armada-1588-scene-002",
+      "stateChanges": [
+        { "variable": "englishMorale", "operation": "add", "value": 5 },
+        { "variable": "fleetReadiness", "operation": "add", "value": -25 },
+        { "variable": "spanishFormation", "operation": "add", "value": -20 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

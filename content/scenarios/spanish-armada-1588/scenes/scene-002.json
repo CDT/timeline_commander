@@ -1,0 +1,109 @@
+{
+  "id": "spanish-armada-1588-scene-002",
+  "scenarioId": "spanish-armada-1588",
+  "title": "Fireships at Calais",
+  "date": {
+    "en": "August 7, 1588 — Midnight",
+    "ja": "1588年8月7日 — 真夜中",
+    "zh-CN": "1588年8月7日——午夜"
+  },
+  "location": {
+    "en": "English Fleet, off Calais, France",
+    "ja": "フランス、カレー沖、イングランド艦隊",
+    "zh-CN": "法国加来外海，英格兰舰队"
+  },
+  "narrativePrompt": {
+    "en": "The Armada has anchored off Calais, and Medina Sidonia is sending urgent messages to the Duke of Parma to bring his invasion barges out of Dunkirk. Parma's response is delayed — the Dutch Sea Beggars are blockading the Flemish ports, and his barges cannot put to sea safely. But this window will not last. You have perhaps twenty-four hours before Parma finds a way through. The Armada sits at anchor in an exposed roadstead with no harbor to shelter in. You have gathered eight expendable merchant ships and filled them with pitch, tar, gunpowder, and loaded cannon with slow fuses. These fireships, sent downwind and downstream into the packed anchorage, could scatter the Armada and destroy the formation that has protected it all the way up the Channel. But fireships are unpredictable — wind shifts could send them astray — and you are sacrificing eight ships you cannot replace.",
+    "ja": "無敵艦隊がカレー沖に停泊し、メディナ・シドニアはパルマ公に侵攻用のはしけをダンケルクから出すよう緊急の伝言を送っている。パルマの返答は遅れている——オランダの海乞食がフランドルの港を封鎖しており、はしけは安全に出港できない。しかしこの機会は長く続かない。パルマが突破口を見つけるまでおそらく24時間しかない。無敵艦隊は避難できる港のない開放的な泊地に停泊している。8隻の犠牲にできる商船を集め、ピッチ、タール、火薬、遅延信管の装填済み大砲を積んだ。これらの火船を風下・潮流に乗せて密集した泊地に送り込めば、無敵艦隊を散乱させ、海峡を通じて守ってきた陣形を破壊できる。しかし火船は予測不能だ——風向きが変われば逸れる可能性がある——そして補充できない8隻の船を犠牲にすることになる。",
+    "zh-CN": "无敌舰队已在加来外海锚泊，梅迪纳-西多尼亚正向帕尔马公爵发出紧急信息，要求他从敦刻尔克派出入侵驳船。帕尔马的回复迟迟未到——荷兰海上乞丐正在封锁佛兰德斯港口，他的驳船无法安全出海。但这个窗口不会持续太久。帕尔马找到突破口之前您大概只有二十四小时。无敌舰队停泊在没有港口掩护的开放锚地。您已集结了八艘可牺牲的商船，装满了沥青、焦油、火药和已上慢引信的大炮。将这些火船顺风顺流送入密集的锚地，可以打散无敌舰队，摧毁它一路沿海峡保持的阵形。但火船不可预测——风向变化可能使其偏离——而且您要牺牲八艘无法补充的船。"
+  },
+  "situationReport": [
+    {
+      "en": "The Armada is anchored in an exposed roadstead off Calais — no harbor, no shelter",
+      "ja": "無敵艦隊はカレー沖の開放的な泊地に停泊している——港も避難場所もない",
+      "zh-CN": "无敌舰队锚泊在加来外海的开放锚地——无港口，无掩护"
+    },
+    {
+      "en": "Parma's invasion barges are bottled up in Dunkirk by Dutch blockade ships",
+      "ja": "パルマの侵攻用はしけはオランダの封鎖船によってダンケルクに閉じ込められている",
+      "zh-CN": "帕尔马的入侵驳船被荷兰封锁船困在敦刻尔克"
+    },
+    {
+      "en": "Eight fireship hulls are prepared, packed with combustibles and loaded guns",
+      "ja": "8隻の火船の船体が準備完了。可燃物と装填済みの大砲が積まれている",
+      "zh-CN": "八艘火船已准备就绪，装满易燃物和已装填的大炮"
+    },
+    {
+      "en": "Wind and tide will carry the fireships directly into the Spanish anchorage within the hour",
+      "ja": "風と潮流が1時間以内に火船をスペインの泊地に直接運ぶ",
+      "zh-CN": "风向和潮汐将在一小时内把火船直接送入西班牙锚地"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Break the Armada's formation before it can link with Parma",
+      "ja": "パルマと合流する前に無敵艦隊の陣形を破壊する",
+      "zh-CN": "在无敌舰队与帕尔马会合之前打破其阵形"
+    },
+    {
+      "en": "Create conditions for a decisive engagement in open water",
+      "ja": "開放水域での決定的な交戦の条件を作る",
+      "zh-CN": "为在开阔水域进行决战创造条件"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The eight fireships cannot be replaced — they represent a significant portion of your available tonnage",
+      "ja": "8隻の火船は補充できない——利用可能な船舶トン数のかなりの部分を占める",
+      "zh-CN": "八艘火船无法替换——它们占您可用吨位的相当一部分"
+    },
+    {
+      "en": "If the wind shifts before the fireships reach the Armada, the attack will fail entirely",
+      "ja": "火船が無敵艦隊に到達する前に風向きが変われば、攻撃は完全に失敗する",
+      "zh-CN": "如果火船抵达无敌舰队前风向改变，攻击将完全失败"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Launch all eight fireships at once, at midnight, in a single devastating wave. Maximum chaos, maximum terror.",
+        "ja": "真夜中に8隻の火船を一度に放つ。壊滅的な一波で最大の混乱、最大の恐怖を。",
+        "zh-CN": "午夜时分一次性释放全部八艘火船，形成一波毁灭性攻击。最大限度的混乱，最大限度的恐惧。"
+      },
+      "historicalContext": "The historical approach — all eight fireships were launched simultaneously at midnight on August 7-8, causing exactly the panic Drake had hoped for.",
+      "outcomePrompt": {
+        "en": "At midnight, the eight burning ships are cut loose and drift silently toward the anchored Armada, their loaded guns cooking off in the flames and sending balls screaming across the dark water. The Spanish sentries spot them too late. Panic erupts. The Spanish captains, terrified of explosion ships like those used by the Dutch at Antwerp, cut their anchor cables and flee into the darkness in every direction. By dawn, the mighty crescent formation that has sailed intact from Lisbon to Calais is gone. The Armada is scattered along the Flemish coast in disorganized clusters. Ships collide with each other in the darkness. Medina Sidonia's flagship is nearly alone. The moment you have been waiting for has arrived — the Spanish are vulnerable. But you must strike now, before they can reform.",
+        "ja": "真夜中、8隻の燃える船が解き放たれ、停泊中の無敵艦隊に向かって静かに漂う。積まれた大砲が炎の中で暴発し、砲弾が暗い海面を叫びながら飛ぶ。スペインの歩哨が気づいた時はもう遅い。パニックが勃発する。アントワープでオランダが使った爆発船を恐れるスペインの艦長たちは錨綱を切り、暗闇の中をあらゆる方向に逃走する。夜明けまでに、リスボンからカレーまで無傷で航行してきた強力な三日月陣形は消滅した。無敵艦隊はフランドル沿岸に無秩序な集団となって散乱している。暗闇の中で船同士が衝突する。メディナ・シドニアの旗艦はほぼ孤立している。あなたが待ち望んでいた瞬間が訪れた——スペインは脆弱だ。しかし彼らが再編成する前に今すぐ攻撃しなければならない。",
+        "zh-CN": "午夜时分，八艘燃烧的船被释放，静静地漂向锚泊的无敌舰队。船上装填的大炮在火焰中自行炸响，炮弹尖啸着飞过黑暗的水面。西班牙哨兵发现时已为时太晚。恐慌爆发。西班牙船长们惊恐于类似荷兰人在安特卫普使用的爆炸船，纷纷砍断锚缆向四面八方逃入黑暗。到黎明时分，从里斯本完整航行到加来的强大新月阵形已荡然无存。无敌舰队沿佛兰德斯海岸散成杂乱的群组。船只在黑暗中相互碰撞。梅迪纳-西多尼亚的旗舰几乎孤立无援。您等待已久的时刻到来了——西班牙人处于脆弱状态。但您必须立刻出击，赶在他们重新集结之前。"
+      },
+      "nextSceneId": "spanish-armada-1588-scene-003",
+      "stateChanges": [
+        { "variable": "spanishFormation", "operation": "add", "value": -60 },
+        { "variable": "englishMorale", "operation": "add", "value": 15 },
+        { "variable": "weatherAdvantage", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Launch four fireships first as a probe, hold four in reserve. If the first wave scatters the Armada, save the rest. If it fails, adjust and send the second wave.",
+        "ja": "まず4隻の火船を偵察として放ち、4隻を予備に保持する。最初の波で無敵艦隊が散乱すれば残りを温存する。失敗すれば調整して第二波を送る。",
+        "zh-CN": "先释放四艘火船作为试探，保留四艘作为后备。如果第一波打散了无敌舰队，保存其余。如果失败，调整后发动第二波。"
+      },
+      "historicalContext": "A counterfactual — a staged approach might have been more cautious but risked giving the Spanish time to organize defenses between waves.",
+      "outcomePrompt": {
+        "en": "You send four fireships at midnight. The Spanish react with alarm but not total panic — their screening boats manage to hook and tow two of the four aside. The remaining two drift into the anchorage and cause some confusion, but the formation holds loosely. Several ships cut cables and drift, but Medina Sidonia signals his captains to hold position. An hour passes. You launch the second wave. This time the Spanish are less frightened — they have seen that the fireships are not the terrible explosion machines of Antwerp. Some ships scatter, but the Armada partially reforms by dawn. The crescent is broken but not destroyed. The Spanish are in worse shape than before, but still possess enough cohesion to fight as a fleet. The decisive battle will be harder than it needed to be.",
+        "ja": "真夜中に4隻の火船を送る。スペインは警戒するが完全なパニックにはならない——彼らの哨戒艇が4隻のうち2隻をフックで引き寄せて逸らすことに成功する。残りの2隻が泊地に漂い入り混乱を引き起こすが、陣形は緩やかに保たれる。数隻が錨綱を切って漂流するが、メディナ・シドニアは艦長たちに位置を保つよう信号を送る。1時間が過ぎる。第二波を放つ。今度はスペインの恐怖は少ない——火船がアントワープの恐ろしい爆発船ではないことを見た。何隻かは散乱するが、無敵艦隊は夜明けまでに部分的に再編成する。三日月は崩れたが壊滅はしていない。スペインは以前より悪い状態だが、まだ艦隊として戦えるだけの結束力を持っている。決定的な戦いは必要以上に困難になるだろう。",
+        "zh-CN": "您在午夜释放四艘火船。西班牙人惊慌但并未完全失控——他们的巡逻艇成功钩住并拖走了四艘中的两艘。剩下两艘漂入锚地引起了一些混乱，但阵形大致保持。几艘船砍断锚缆漂走，但梅迪纳-西多尼亚向船长们发信号要求坚守位置。一小时过去了。您释放第二波。这次西班牙人不那么害怕了——他们已经看到火船并非安特卫普那种可怕的爆炸船。一些船只散开，但无敌舰队在黎明前部分重组。新月阵形被打破但未被摧毁。西班牙人的状况比之前更差，但仍保有足够的凝聚力作为舰队作战。决战将比本该更加艰难。"
+      },
+      "nextSceneId": "spanish-armada-1588-scene-003",
+      "stateChanges": [
+        { "variable": "spanishFormation", "operation": "add", "value": -35 },
+        { "variable": "englishMorale", "operation": "add", "value": 5 },
+        { "variable": "weatherAdvantage", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

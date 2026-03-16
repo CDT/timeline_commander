@@ -1,0 +1,73 @@
+{
+  "scenarioId": "d-day-1944",
+  "timeline": [
+    {
+      "date": "1944-01-16",
+      "description": {
+        "en": "Eisenhower arrives in London to take command of SHAEF (Supreme Headquarters Allied Expeditionary Force) and begins final planning for Operation Overlord.",
+        "ja": "アイゼンハワーがロンドンに到着し、SHAEF（連合国遠征軍最高司令部）の指揮を執り、オーバーロード作戦の最終計画を開始する。",
+        "zh-CN": "艾森豪威尔抵达伦敦，接管SHAEF（盟军远征军最高司令部），开始霸王行动的最终规划。"
+      }
+    },
+    {
+      "date": "1944-06-05",
+      "description": {
+        "en": "The original D-Day is postponed due to severe weather. Group Captain Stagg identifies a brief window of acceptable conditions for June 6. Eisenhower makes the agonizing decision: 'OK, let's go.'",
+        "ja": "悪天候のため当初のDデーが延期される。スタッグ大佐が6月6日に受け入れ可能な条件の短い窓を特定。アイゼンハワーが苦渋の決断を下す：「よし、行こう」",
+        "zh-CN": "原定D日因恶劣天气推迟。斯塔格上校确认6月6日有一个短暂的可接受天气窗口。艾森豪威尔做出痛苦的决定：'好的，我们出发。'"
+      }
+    },
+    {
+      "date": "1944-06-06",
+      "description": {
+        "en": "D-Day. Allied forces land on five beaches: Utah, Omaha, Gold, Juno, and Sword. Airborne divisions drop behind enemy lines overnight. Despite heavy casualties at Omaha Beach, all five beachheads are secured by nightfall. Over 10,000 Allied casualties on the first day, including approximately 4,400 confirmed dead.",
+        "ja": "Dデー。連合軍が5つのビーチに上陸：ユタ、オマハ、ゴールド、ジュノー、ソード。空挺師団が夜間に敵後方に降下。オマハビーチでの甚大な被害にもかかわらず、日没までに5つの橋頭堡すべてが確保される。初日の連合軍の死傷者は1万人以上、うち確認された戦死者は約4,400人。",
+        "zh-CN": "D日。盟军在五个海滩登陆：犹他、奥马哈、黄金、朱诺和宝剑。空降师在夜间空降至敌后。尽管在奥马哈海滩伤亡惨重，到日落时分五个滩头阵地全部确保。首日盟军伤亡超过1万人，其中约4400人确认阵亡。"
+      }
+    },
+    {
+      "date": "1944-06-07",
+      "description": {
+        "en": "Allied forces begin linking the five beachheads. German counterattacks are disorganized as the high command debates whether Normandy is the real invasion. Hitler refuses to release panzer reserves.",
+        "ja": "連合軍が5つの橋頭堡の連結を開始。ドイツ軍最高司令部がノルマンディーが本当の侵攻かどうかを議論する中、反撃は組織されていない。ヒトラーは装甲予備軍の投入を拒否。",
+        "zh-CN": "盟军开始连接五个滩头阵地。德军最高指挥部在争论诺曼底是否是真正的入侵时，反攻组织混乱。希特勒拒绝释放装甲预备队。"
+      }
+    },
+    {
+      "date": "1944-06-12",
+      "description": {
+        "en": "The five beachheads are fully linked into a continuous front 60 miles wide. Over 326,000 troops have landed. The Allies begin the slow, bloody fight through the Norman hedgerows toward Cherbourg and Caen.",
+        "ja": "5つの橋頭堡が完全に連結され、幅約100キロの連続した戦線となる。32万6千人以上の兵士が上陸。連合軍はシェルブールとカーンに向けてノルマンディーの生垣地帯を通る遅く血みどろの戦闘を開始する。",
+        "zh-CN": "五个滩头阵地完全连接成一条宽约100公里的连续战线。超过32.6万部队已登陆。盟军开始了穿越诺曼底灌木篱笆地带向瑟堡和卡昂推进的缓慢血腥战斗。"
+      }
+    },
+    {
+      "date": "1944-07-25",
+      "description": {
+        "en": "Operation Cobra — the Allied breakout from Normandy — begins. American forces punch through the German lines at Saint-Lô, and within days the German front in Normandy collapses entirely.",
+        "ja": "コブラ作戦——連合軍のノルマンディーからの突破——が開始。アメリカ軍がサン・ローでドイツ軍の戦線を突破し、数日以内にノルマンディーのドイツ軍戦線が完全に崩壊する。",
+        "zh-CN": "眼镜蛇行动——盟军从诺曼底突围——开始。美军在圣洛突破德军防线，数日内诺曼底德军战线全面崩溃。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "D-Day succeeded. The Allies established a permanent foothold in northwestern France from which they liberated Paris in August 1944 and advanced into Germany by early 1945. The invasion's success was enabled by Allied air supremacy, the deception of Operation Fortitude, German command failures, and the extraordinary courage of the soldiers who stormed the beaches. The Western Front, combined with the Soviet advance from the east, led to Germany's unconditional surrender on May 8, 1945.",
+    "ja": "Dデーは成功した。連合軍は北西フランスに恒久的な足場を築き、1944年8月にパリを解放し、1945年初頭にはドイツへ進撃した。侵攻の成功は、連合軍の航空優勢、フォーティチュード作戦の欺瞞、ドイツ軍司令部の失敗、そしてビーチに突撃した兵士たちの非凡な勇気によって可能となった。西部戦線は東からのソ連の進撃と合わせて、1945年5月8日のドイツの無条件降伏につながった。",
+    "zh-CN": "D日取得成功。盟军在法国西北部建立了永久立足点，1944年8月解放巴黎，1945年初推进至德国境内。入侵的成功得益于盟军的空中优势、坚忍行动的欺骗、德军指挥失误以及冲上海滩的士兵们非凡的勇气。西线战场与苏联从东线的推进相结合，导致德国于1945年5月8日无条件投降。"
+  },
+  "casualties": {
+    "en": "Allied casualties on D-Day: over 10,000, including approximately 4,400 dead. German casualties on D-Day: estimated 4,000-9,000. Total Allied casualties in the Battle of Normandy (June-August 1944): approximately 226,000. German casualties in Normandy: approximately 240,000 killed or wounded, plus 200,000 captured.",
+    "ja": "DデーにおけるQ連合軍の死傷者：1万人以上、うち約4,400人が戦死。ドイツ軍のDデーの死傷者：推定4,000〜9,000人。ノルマンディーの戦い全体（1944年6〜8月）における連合軍の死傷者：約226,000人。ノルマンディーにおけるドイツ軍の死傷者：死傷約240,000人、捕虜200,000人。",
+    "zh-CN": "D日盟军伤亡：超过1万人，其中约4400人阵亡。D日德军伤亡：估计4000至9000人。诺曼底战役（1944年6月至8月）盟军总伤亡：约22.6万人。诺曼底德军伤亡：约24万人伤亡，另有20万人被俘。"
+  },
+  "significance": {
+    "en": "D-Day was the turning point of World War II in Western Europe. It demonstrated that an amphibious invasion of a fortified coastline was possible on a massive scale, a lesson that shaped military doctrine for decades. The invasion opened the second front that Stalin had demanded since 1942, ensuring the war's end within a year. Eisenhower's decision to go despite marginal weather remains one of the most consequential command decisions in military history.",
+    "ja": "Dデーは西ヨーロッパにおける第二次世界大戦の転換点であった。要塞化された海岸線への大規模な水陸両用侵攻が可能であることを示し、数十年にわたって軍事教義を形作った教訓となった。この侵攻はスターリンが1942年以来要求していた第二戦線を開き、1年以内の終戦を確実にした。アイゼンハワーのぎりぎりの天候にもかかわらず実行する決断は、軍事史上最も重大な指揮決定の一つであり続けている。",
+    "zh-CN": "D日是第二次世界大战西欧战场的转折点。它证明了对设防海岸线进行大规模两栖入侵是可行的，这一教训影响了此后数十年的军事学说。这次入侵开辟了斯大林自1942年以来一直要求的第二战线，确保了战争在一年内结束。艾森豪威尔在天气条件勉强可以接受的情况下决定执行，至今仍是军事史上最重要的指挥决定之一。"
+  },
+  "furtherReading": [
+    "Stephen E. Ambrose — D-Day: June 6, 1944",
+    "Antony Beevor — D-Day: The Battle for Normandy",
+    "Cornelius Ryan — The Longest Day"
+  ]
+}

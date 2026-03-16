@@ -1,0 +1,81 @@
+{
+  "scenarioId": "american-revolution-1776",
+  "timeline": [
+    {
+      "date": "1776-07-04",
+      "description": {
+        "en": "The Continental Congress adopts the Declaration of Independence, formally severing ties with Great Britain and declaring the United States a sovereign nation.",
+        "ja": "大陸会議が独立宣言を採択し、正式にイギリスとの関係を断ち、アメリカ合衆国を主権国家として宣言する。",
+        "zh-CN": "大陆会议通过《独立宣言》，正式断绝与英国的关系，宣布美国为主权国家。"
+      }
+    },
+    {
+      "date": "1776-08-27",
+      "description": {
+        "en": "The Battle of Long Island — the largest battle of the entire war. British forces under General Howe rout the Continental Army, inflicting over 1,000 casualties. Washington narrowly escapes across the East River in a nighttime evacuation.",
+        "ja": "ロングアイランドの戦い——戦争全体で最大の戦闘。ハウ将軍率いるイギリス軍が大陸軍を敗走させ、1,000人以上の死傷者を出す。ワシントンは夜間の撤退でかろうじてイーストリバーを渡って脱出する。",
+        "zh-CN": "长岛战役——整场战争中规模最大的战斗。豪将军率领的英军击溃大陆军，造成逾1000人伤亡。华盛顿在夜间撤退中勉强渡过东河脱险。"
+      }
+    },
+    {
+      "date": "1776-09-15",
+      "description": {
+        "en": "The British land at Kip's Bay, Manhattan. American militia flee in panic. Washington is forced to abandon New York City, which the British will hold for the remainder of the war.",
+        "ja": "イギリス軍がマンハッタンのキップス湾に上陸。アメリカの民兵がパニックで逃走。ワシントンはニューヨーク市を放棄せざるを得なくなり、イギリスは戦争の残り期間中これを保持する。",
+        "zh-CN": "英军在曼哈顿基普湾登陆。美国民兵惊慌逃窜。华盛顿被迫放弃纽约市，英国将在战争剩余时间内一直占据该城。"
+      }
+    },
+    {
+      "date": "1776-11-16",
+      "description": {
+        "en": "Fort Washington falls to the British. Nearly 3,000 American soldiers are captured — the worst American loss of the war to date. The garrison at Fort Lee is abandoned days later.",
+        "ja": "ワシントン砦がイギリス軍に陥落。約3,000人のアメリカ兵が捕虜となる——これまでの戦争で最悪のアメリカ側の損失。フォート・リーの守備隊も数日後に放棄される。",
+        "zh-CN": "华盛顿堡落入英军之手。近3000名美军士兵被俘——这是战争至今美方最惨重的损失。利堡的守军在数天后被放弃。"
+      }
+    },
+    {
+      "date": "1776-12-07",
+      "description": {
+        "en": "Washington's army crosses the Delaware River into Pennsylvania, barely ahead of pursuing British forces. The army has shrunk from 20,000 to fewer than 3,000 effective soldiers.",
+        "ja": "ワシントンの軍がデラウェア川を渡りペンシルベニアに入る。追撃するイギリス軍のわずかに先んじて。軍は2万人から3,000人未満の有効兵力に縮小していた。",
+        "zh-CN": "华盛顿的军队渡过特拉华河进入宾夕法尼亚，仅比追击的英军快了一步。军队已从2万人缩减到不足3000名有效战斗人员。"
+      }
+    },
+    {
+      "date": "1776-12-25",
+      "description": {
+        "en": "Washington leads 2,400 soldiers across the ice-choked Delaware River on Christmas night in a desperate gamble to attack the Hessian garrison at Trenton.",
+        "ja": "ワシントンがクリスマスの夜、氷で詰まったデラウェア川を2,400人の兵士を率いて渡る。トレントンのヘッセン守備隊を攻撃するための決死の賭け。",
+        "zh-CN": "华盛顿在圣诞夜率领2400名士兵渡过冰封的特拉华河，孤注一掷地攻击特伦顿的黑森守军。"
+      }
+    },
+    {
+      "date": "1776-12-26",
+      "description": {
+        "en": "The Battle of Trenton — Washington's dawn attack catches the Hessians completely by surprise. Nearly 1,000 Hessians are captured, their commander Colonel Rahl is mortally wounded. American casualties: two frozen to death on the march, five wounded. The Revolution is saved.",
+        "ja": "トレントンの戦い——ワシントンの夜明けの攻撃がヘッセン軍を完全に奇襲する。約1,000人のヘッセン兵が捕虜となり、指揮官のラール大佐は致命傷を負う。アメリカ側の損害：行軍中に凍死2名、負傷5名。革命は救われた。",
+        "zh-CN": "特伦顿战役——华盛顿的黎明突袭完全出其不意。近1000名黑森士兵被俘，指挥官拉尔上校身受致命伤。美军伤亡：行军中冻死两人，五人受伤。革命得救了。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Washington's crossing of the Delaware and victory at Trenton reversed the momentum of the war. It restored morale, encouraged re-enlistment, and proved that the Continental Army could defeat professional European soldiers. The victory was followed by another at Princeton on January 3, 1777, securing New Jersey and breathing new life into the independence movement.",
+    "ja": "ワシントンのデラウェア川渡河とトレントンでの勝利は戦争の流れを逆転させました。士気を回復し、再入隊を促し、大陸軍がヨーロッパの職業軍人を打ち負かせることを証明しました。この勝利に続いて1777年1月3日にプリンストンでもう一つの勝利があり、ニュージャージーを確保し独立運動に新たな活力を与えました。",
+    "zh-CN": "华盛顿横渡特拉华河和特伦顿的胜利扭转了战争的势头。它恢复了士气，鼓励了重新入伍，并证明大陆军能够击败欧洲职业军人。随后在1777年1月3日又在普林斯顿取得胜利，确保了新泽西的安全，为独立运动注入了新的活力。"
+  },
+  "casualties": {
+    "en": "American losses in the 1776 campaign: approximately 1,500 killed, 3,000 captured (many died in British prison ships), and thousands lost to desertion and disease. British and Hessian losses were relatively light until Trenton, where nearly 1,000 Hessians were captured.",
+    "ja": "1776年の戦役におけるアメリカ側の損害：死者約1,500人、捕虜約3,000人（多くがイギリスの監獄船で死亡）、脱走と病気で数千人を失う。イギリスとヘッセンの損害はトレントンまでは比較的軽微で、トレントンでは約1,000人のヘッセン兵が捕虜となった。",
+    "zh-CN": "美方在1776年战役中的损失：约1500人阵亡，3000人被俘（许多人死于英国监狱船），数千人因逃兵和疾病而减员。英国和黑森方面的损失在特伦顿之前相对较轻，特伦顿战役中近1000名黑森士兵被俘。"
+  },
+  "significance": {
+    "en": "The 1776 campaign demonstrated that the American Revolution would be won not through set-piece battles against British regulars, but through Washington's ability to keep the army alive and strike at moments of opportunity. Trenton proved that audacity and unconventional tactics could overcome professional military superiority. The campaign also established Washington's personal authority and the principle that the Revolution depended on the survival of the Continental Army as a fighting force.",
+    "ja": "1776年の戦役は、アメリカ独立革命がイギリス正規軍との正面戦闘ではなく、ワシントンが軍を存続させ機会あるときに打撃を与える能力によって勝利されることを示しました。トレントンは大胆さと非正規戦術が専門的な軍事的優位を克服できることを証明しました。この戦役はまた、ワシントンの個人的な権威と、革命が戦闘力としての大陸軍の存続にかかっているという原則を確立しました。",
+    "zh-CN": "1776年战役表明，美国独立革命的胜利不是通过与英国正规军的正面战斗，而是通过华盛顿维持军队生存并在适当时机发起打击的能力来实现的。特伦顿证明了大胆和非常规战术可以克服专业军事优势。这场战役还确立了华盛顿的个人权威，以及革命取决于大陆军作为战斗力量存续的原则。"
+  },
+  "furtherReading": [
+    "David McCullough — 1776",
+    "David Hackett Fischer — Washington's Crossing",
+    "Ron Chernow — Washington: A Life"
+  ]
+}

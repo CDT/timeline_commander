@@ -1,0 +1,114 @@
+{
+  "id": "cuban-missile-crisis-1962-scene-002",
+  "scenarioId": "cuban-missile-crisis-1962",
+  "title": "The Quarantine Line",
+  "date": {
+    "en": "October 24, 1962",
+    "ja": "1962年10月24日",
+    "zh-CN": "1962年10月24日"
+  },
+  "location": {
+    "en": "White House Situation Room, Washington D.C.",
+    "ja": "ホワイトハウス・シチュエーションルーム、ワシントンD.C.",
+    "zh-CN": "白宫战情室，华盛顿特区"
+  },
+  "narrativePrompt": {
+    "en": "The Situation Room is thick with cigarette smoke and tension. It is ten o'clock in the morning. The naval quarantine went into effect at dawn. CIA Director John McCone has just delivered the latest intelligence: a line of Soviet cargo ships is steaming toward the quarantine perimeter, five hundred nautical miles from Cuba. At the head of the formation is the Kimovsk, a large-hatch vessel almost certainly carrying missile components. A Soviet submarine has been detected running ahead of the cargo ships. Admiral Anderson's destroyers are in position. The rules of engagement are clear — any ship that refuses to stop will be boarded, and if it resists, fired upon. Bobby Kennedy passes you a note: 'I think the other fellow just blinked.' Reports indicate some Soviet ships at the back of the formation may have stopped or altered course. But the lead ships are still coming. You have minutes, not hours, to decide how to handle the confrontation at the quarantine line.",
+    "ja": "シチュエーションルームはタバコの煙と緊張で満ちています。午前10時です。海上封鎖は夜明けに発効しました。CIA長官ジョン・マコーンが最新の情報を届けたばかりです：ソ連の貨物船の列がキューバから500海里の封鎖線に向かって航行しています。隊列の先頭にはキモフスクという大型ハッチ船がいて、ほぼ確実にミサイル部品を積んでいます。貨物船の前方を走るソ連の潜水艦が探知されています。アンダーソン提督の駆逐艦は配置についています。交戦規定は明確です——停止を拒否する船は臨検され、抵抗すれば砲撃されます。ボビー・ケネディがメモを渡してきます：「向こうが先にまばたきしたと思う。」報告によると、隊列の後方のソ連船数隻が停止または進路を変更した可能性があります。しかし先頭の船はまだ来ています。封鎖線での対峙をどう処理するか、数時間ではなく数分で決断しなければなりません。",
+    "zh-CN": "战情室弥漫着香烟的烟雾和紧张的气氛。现在是上午十点。海上隔离在黎明时分生效。CIA局长约翰·麦科恩刚刚送来最新情报：一队苏联货船正驶向距古巴五百海里的隔离线。编队最前方是基莫夫斯克号，一艘大舱口船只，几乎可以确定装载着导弹部件。一艘苏联潜艇被探测到在货船前方行驶。安德森海军上将的驱逐舰已就位。交战规则很明确——任何拒绝停船的船只将被登船检查，如果抵抗，将被开火射击。鲍比·肯尼迪递给您一张纸条：「我觉得对方先眨眼了。」报告显示编队后方的一些苏联船只可能已经停下或改变了航向。但打头的船只仍在前进。您只有几分钟而非几小时来决定如何处理隔离线上的对峙。"
+  },
+  "situationReport": [
+    {
+      "en": "Soviet cargo ships are approaching the quarantine line, led by the Kimovsk — likely carrying missile components",
+      "ja": "ソ連の貨物船が封鎖線に接近中、先頭はミサイル部品を積んでいるとみられるキモフスク",
+      "zh-CN": "苏联货船正在逼近隔离线，领头的基莫夫斯克号很可能载有导弹部件"
+    },
+    {
+      "en": "A Soviet submarine has been detected running ahead of the cargo formation",
+      "ja": "ソ連の潜水艦が貨物船団の前方で探知された",
+      "zh-CN": "一艘苏联潜艇被探测到在货船编队前方航行"
+    },
+    {
+      "en": "Some Soviet ships at the rear of the formation appear to have stopped or reversed course",
+      "ja": "隊列の後方のソ連船数隻が停止または反転した模様",
+      "zh-CN": "编队后方的一些苏联船只似乎已经停下或掉头"
+    },
+    {
+      "en": "Construction on the missile sites in Cuba continues at an accelerated pace",
+      "ja": "キューバのミサイル施設の建設は加速して続いている",
+      "zh-CN": "古巴导弹基地的建设正在加速进行"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Enforce the quarantine without triggering a military confrontation with the Soviet Navy",
+      "ja": "ソ連海軍との軍事衝突を引き起こさずに封鎖を実施する",
+      "zh-CN": "在不引发与苏联海军军事冲突的情况下执行隔离"
+    },
+    {
+      "en": "Demonstrate American resolve while leaving room for a diplomatic resolution",
+      "ja": "外交的解決の余地を残しつつアメリカの決意を示す",
+      "zh-CN": "展示美国的决心，同时为外交解决留有余地"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Firing on a Soviet vessel could be treated as an act of war by Moscow",
+      "ja": "ソ連の船への発砲はモスクワにとって戦争行為とみなされる可能性がある",
+      "zh-CN": "向苏联船只开火可能被莫斯科视为战争行为"
+    },
+    {
+      "en": "Allowing the ships through would fatally undermine the quarantine's credibility",
+      "ja": "船を通過させれば封鎖の信頼性が致命的に損なわれる",
+      "zh-CN": "允许船只通过将致命地削弱隔离的可信度"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Hold the line but exercise restraint. Let the Soviet ships approach. If they stop or turn back on their own, the quarantine succeeds without a shot fired. Order the Navy to avoid provocative action.",
+        "ja": "封鎖線を維持するが自制を保つ。ソ連の船に近づかせる。もし自ら停止または引き返せば、一発も撃たずに封鎖は成功する。海軍に挑発的な行動を避けるよう命じる。",
+        "zh-CN": "坚守阵线但保持克制。让苏联船只靠近。如果它们自行停下或掉头，隔离就不费一枪一弹地成功了。命令海军避免挑衅行为。"
+      },
+      "historicalContext": "The historical choice — Kennedy ordered restraint. The Soviet ships stopped at the quarantine line and eventually turned back. Secretary of State Dean Rusk famously said: 'We're eyeball to eyeball, and I think the other fellow just blinked.'",
+      "outcomePrompt": {
+        "en": "The minutes stretch into an eternity. You order the Navy to hold position and avoid any provocative maneuvers. Admiral Anderson protests, but you are firm. At 10:25 AM, a report crackles through from the Navy: the Soviet ships nearest the quarantine line have stopped dead in the water. Then, one by one, they begin to turn around. Dean Rusk leans over to Bundy and whispers, 'We're eyeball to eyeball, and I think the other fellow just blinked.' The room exhales. But the relief is short-lived. The missiles already in Cuba are still being assembled. Aerial photographs show construction crews working around the clock. Khrushchev has blinked at sea, but on the island, the clock is still ticking. Two days later, a long, rambling letter arrives from Moscow. Khrushchev sounds almost desperate. Then a second letter arrives — harder, more formal, with new demands.",
+        "ja": "数分が永遠のように引き延ばされます。あなたは海軍に位置を維持し、挑発的な行動を避けるよう命じます。アンダーソン提督は抗議しますが、あなたは断固としています。午前10時25分、海軍からの報告が届きます：封鎖線に最も近いソ連船が完全に停止しました。そして一隻ずつ反転し始めます。ディーン・ラスクがバンディに身を寄せてささやきます。「向き合っている。そして向こうが先にまばたきしたと思う。」部屋が安堵の息をつきます。しかし安堵は長続きしません。すでにキューバにあるミサイルはまだ組み立てられています。航空写真は建設作業員が昼夜を問わず作業していることを示しています。フルシチョフは海上ではまばたきしましたが、島では時計がまだ刻んでいます。2日後、モスクワから長くとりとめのない手紙が届きます。フルシチョフはほとんど必死に聞こえます。その後、2通目の手紙が届きます——より厳しく、より公式で、新たな要求が含まれています。",
+        "zh-CN": "几分钟仿佛变成了永恒。您命令海军保持位置，避免任何挑衅性动作。安德森海军上将提出抗议，但您态度坚定。上午10点25分，海军传来报告：离隔离线最近的苏联船只已完全停了下来。然后，它们一艘接一艘开始掉头。迪安·腊斯克凑近邦迪低声说：「我们面对面了，我觉得对方先眨眼了。」整个房间松了一口气。但宽慰是短暂的。已经在古巴的导弹仍在组装中。航拍照片显示施工人员在昼夜不停地工作。赫鲁晓夫在海上退缩了，但在岛上，时钟仍在滴答作响。两天后，一封冗长而杂乱的信从莫斯科寄来。赫鲁晓夫听起来几乎是在恳求。然后第二封信到了——更强硬、更正式，附带新的要求。"
+      },
+      "nextSceneId": "cuban-missile-crisis-1962-scene-003",
+      "stateChanges": [
+        { "variable": "defcon", "operation": "set", "value": 2 },
+        { "variable": "sovietAggression", "operation": "add", "value": -10 },
+        { "variable": "publicAnxiety", "operation": "add", "value": 5 },
+        { "variable": "militaryPressure", "operation": "add", "value": -5 },
+        { "variable": "diplomaticOptions", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Intercept the lead Soviet ship aggressively. Board the Kimovsk and force it to heave to. Show Khrushchev that the quarantine is deadly serious and that there is no room for testing American resolve.",
+        "ja": "先頭のソ連船を積極的に阻止する。キモフスクに乗り込み、停船させる。封鎖は本気であり、アメリカの決意を試す余地はないことをフルシチョフに示す。",
+        "zh-CN": "积极拦截打头的苏联船只。登上基莫夫斯克号，强制其停船。向赫鲁晓夫表明隔离是绝对认真的，没有试探美国决心的余地。"
+      },
+      "historicalContext": "A counterfactual — an aggressive interception risked a direct naval confrontation between American and Soviet forces, potentially involving the submarine detected nearby.",
+      "outcomePrompt": {
+        "en": "You give the order to intercept. The destroyer USS Joseph P. Kennedy Jr. — named, by cruel irony, for your dead brother — moves to cut off the Kimovsk. Warning shots are fired across the Soviet ship's bow. The Kimovsk's captain refuses to stop. A boarding party is dispatched. Tense minutes pass as American sailors clamber aboard the Soviet vessel. Below decks, they find missile transporters under tarpaulins. The seizure makes headlines worldwide. Khrushchev denounces it as an act of piracy and war. More ominously, the Soviet submarine that was trailing the convoy surfaces briefly, then dives again. Anti-submarine warfare helicopters lose contact with it. In Moscow, Soviet military commanders urge Khrushchev to retaliate. DEFCON 2 is declared across all American forces. Two days later, Moscow's response arrives — not one letter but two, and their tone could not be more different.",
+        "ja": "あなたは阻止命令を下します。駆逐艦USSジョセフ・P・ケネディ・ジュニア——残酷な皮肉にも亡き兄の名を冠している——がキモフスクを遮断するために動きます。ソ連船の船首に威嚇射撃が行われます。キモフスクの船長は停止を拒否します。臨検隊が派遣されます。アメリカの水兵がソ連船に乗り込む間、緊迫した時間が流れます。甲板下で、防水シートの下にミサイル輸送車を発見します。この拿捕は世界中のヘッドラインを飾ります。フルシチョフはこれを海賊行為であり戦争行為だと非難します。さらに不吉なことに、船団に追随していたソ連潜水艦が一時浮上し、再び潜航します。対潜ヘリコプターがその潜水艦との接触を失います。モスクワでは、ソ連軍指揮官たちがフルシチョフに報復を促しています。全アメリカ軍にデフコン2が宣言されます。2日後、モスクワの回答が届きます——1通ではなく2通の手紙で、そのトーンはこれ以上ないほど異なっています。",
+        "zh-CN": "您下达了拦截命令。驱逐舰约瑟夫·P·肯尼迪二世号——以残酷的讽刺命名，纪念您已故的兄长——前去拦截基莫夫斯克号。警告射击掠过苏联船只的船头。基莫夫斯克号的船长拒绝停船。一支登船队被派出。美国水兵攀上苏联船只的紧张时刻一分一秒过去。在甲板下，他们在防水布下发现了导弹运输车。这次扣押登上了全球头条。赫鲁晓夫将其谴责为海盗和战争行为。更令人不安的是，跟踪船队的苏联潜艇短暂浮出水面后再次下潜。反潜直升机与它失去了联系。在莫斯科，苏联军方指挥官们敦促赫鲁晓夫进行报复。全美军进入二级战备状态。两天后，莫斯科的回复到了——不是一封而是两封信，语气截然不同。"
+      },
+      "nextSceneId": "cuban-missile-crisis-1962-scene-003",
+      "stateChanges": [
+        { "variable": "defcon", "operation": "set", "value": 2 },
+        { "variable": "sovietAggression", "operation": "add", "value": 15 },
+        { "variable": "publicAnxiety", "operation": "add", "value": 20 },
+        { "variable": "militaryPressure", "operation": "add", "value": 10 },
+        { "variable": "diplomaticOptions", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "roleFilter": ["jfk-role"],
+  "isTerminal": false
+}

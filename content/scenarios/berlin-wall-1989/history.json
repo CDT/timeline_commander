@@ -1,0 +1,76 @@
+{
+  "scenarioId": "berlin-wall-1989",
+  "timeline": [
+    {
+      "date": "1989-09-11",
+      "description": {
+        "en": "Hungary opens its border with Austria, allowing thousands of East Germans to flee to the West through the newly opened crossing.",
+        "ja": "ハンガリーがオーストリアとの国境を開放し、数千人の東ドイツ市民が新たに開かれた国境を通じて西側に逃れることが可能になる。",
+        "zh-CN": "匈牙利开放与奥地利的边境，数千名东德人通过新开放的过境点逃往西方。"
+      }
+    },
+    {
+      "date": "1989-10-09",
+      "description": {
+        "en": "Seventy thousand people march in Leipzig in the largest Monday demonstration yet. Security forces stand down despite orders to prepare for a crackdown. The regime blinks.",
+        "ja": "ライプツィヒで7万人が行進し、月曜デモ史上最大規模となる。弾圧準備命令にもかかわらず治安部隊は行動を控える。政権がひるむ。",
+        "zh-CN": "七万人在莱比锡游行，这是迄今为止规模最大的周一示威。尽管接到准备镇压的命令，安全部队仍按兵不动。政权退缩了。"
+      }
+    },
+    {
+      "date": "1989-10-18",
+      "description": {
+        "en": "Erich Honecker is forced to resign as General Secretary of the SED and is replaced by Egon Krenz, who promises reform and dialogue.",
+        "ja": "エーリッヒ・ホーネッカーがSED書記長を辞任させられ、改革と対話を約束するエゴン・クレンツが後任となる。",
+        "zh-CN": "埃里希·昂纳克被迫辞去统一社会党总书记职务，由承诺改革和对话的埃贡·克伦茨接替。"
+      }
+    },
+    {
+      "date": "1989-11-04",
+      "description": {
+        "en": "Half a million people rally in East Berlin's Alexanderplatz in the largest demonstration in East German history, demanding free elections and freedom of the press.",
+        "ja": "東ベルリンのアレクサンダー広場で50万人が集会を開き、東ドイツ史上最大のデモとなる。自由選挙と報道の自由を要求。",
+        "zh-CN": "五十万人在东柏林亚历山大广场集会，这是东德历史上规模最大的示威活动，要求自由选举和新闻自由。"
+      }
+    },
+    {
+      "date": "1989-11-09",
+      "description": {
+        "en": "Günter Schabowski announces new travel regulations at a press conference and, when asked when they take effect, replies 'immediately, without delay.' Tens of thousands surge to the border crossings. By midnight, the Berlin Wall is open.",
+        "ja": "ギュンター・シャボウスキーが記者会見で新しい渡航規制を発表し、いつ発効するかと聞かれて「即座に、遅滞なく」と答える。数万人が国境検問所に殺到する。深夜までにベルリンの壁は開放される。",
+        "zh-CN": "京特·沙博夫斯基在新闻发布会上宣布新旅行规定，当被问及何时生效时，回答「立即，毫不拖延」。数万人涌向边境口岸。到午夜，柏林墙开放了。"
+      }
+    },
+    {
+      "date": "1989-11-10",
+      "description": {
+        "en": "East and West Berliners celebrate together at the Wall. Citizens begin physically dismantling sections with hammers and picks. The Cold War's most powerful symbol is being torn down by hand.",
+        "ja": "東西ベルリン市民が壁の前で共に祝う。市民がハンマーやつるはしで壁の一部を物理的に解体し始める。冷戦の最も強力な象徴が手で引き裂かれていく。",
+        "zh-CN": "东西柏林人在墙边共同庆祝。市民们开始用锤子和镐头拆除墙体。冷战最有力的象征正在被手工拆除。"
+      }
+    },
+    {
+      "date": "1990-10-03",
+      "description": {
+        "en": "Germany is officially reunified. The German Democratic Republic ceases to exist, and the former East German states join the Federal Republic of Germany.",
+        "ja": "ドイツが公式に再統一される。ドイツ民主共和国は消滅し、旧東ドイツの各州がドイツ連邦共和国に加わる。",
+        "zh-CN": "德国正式统一。德意志民主共和国不复存在，前东德各州加入德意志联邦共和国。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Berlin Wall fell peacefully on November 9, 1989. Not a single shot was fired. The East German regime collapsed within weeks. Germany was reunified less than a year later. The fall of the Wall triggered a cascade of peaceful revolutions across Eastern Europe that ended Communist rule in Poland, Hungary, Czechoslovakia, Bulgaria, and Romania by the end of 1989.",
+    "ja": "ベルリンの壁は1989年11月9日に平和的に崩壊しました。一発の銃弾も発射されませんでした。東ドイツ政権は数週間以内に崩壊しました。ドイツは1年足らずで再統一されました。壁の崩壊は東ヨーロッパ全体に平和的な革命の連鎖を引き起こし、1989年末までにポーランド、ハンガリー、チェコスロバキア、ブルガリア、ルーマニアの共産主義支配を終わらせました。",
+    "zh-CN": "柏林墙于1989年11月9日和平倒塌。没有发射一颗子弹。东德政权在几周内崩溃。德国在不到一年后统一。柏林墙的倒塌在整个东欧引发了一系列和平革命，到1989年底结束了波兰、匈牙利、捷克斯洛伐克、保加利亚和罗马尼亚的共产主义统治。"
+  },
+  "significance": {
+    "en": "The fall of the Berlin Wall is one of the defining moments of the twentieth century. It marked the beginning of the end of the Cold War and the collapse of the Soviet bloc. The peaceful nature of the revolution demonstrated that determined popular movements could topple authoritarian regimes without bloodshed. German reunification reshaped European geopolitics and led directly to the expansion of NATO and the European Union into Eastern Europe.",
+    "ja": "ベルリンの壁の崩壊は20世紀を決定づける瞬間の一つです。それは冷戦の終わりの始まりとソビエト圏の崩壊を示しました。革命の平和的な性質は、決意ある民衆運動が流血なしに権威主義体制を倒せることを証明しました。ドイツ再統一はヨーロッパの地政学を再編し、NATOと欧州連合の東ヨーロッパへの拡大に直接つながりました。",
+    "zh-CN": "柏林墙的倒塌是20世纪的决定性时刻之一。它标志着冷战结束的开始和苏联集团的瓦解。革命的和平性质证明了坚定的民众运动可以在不流血的情况下推翻威权政权。德国统一重塑了欧洲地缘政治，直接导致了北约和欧盟向东欧的扩展。"
+  },
+  "furtherReading": [
+    "Mary Elise Sarotte — The Collapse: The Accidental Opening of the Berlin Wall",
+    "Frederick Taylor — The Berlin Wall: A World Divided, 1961–1989",
+    "Michael Meyer — The Year That Changed the World: The Untold Story Behind the Fall of the Berlin Wall"
+  ]
+}

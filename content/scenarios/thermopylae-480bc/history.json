@@ -1,0 +1,65 @@
+{
+  "scenarioId": "thermopylae-480bc",
+  "timeline": [
+    {
+      "date": "-480-08-01",
+      "description": {
+        "en": "The Greek force of approximately 7,000 men, led by King Leonidas of Sparta with his 300-strong royal guard, arrives at the narrow pass of Thermopylae and begins fortifying the ancient Phocian wall.",
+        "ja": "スパルタ王レオニダスが率いる300人の親衛隊を含む約7,000人のギリシア軍がテルモピュライの狭い隘路に到着し、古いポキス人の壁の補強を開始する。",
+        "zh-CN": "由斯巴达国王列奥尼达率领的约7000名希腊士兵——包括其300人的王家卫队——抵达温泉关狭窄隘口，开始加固古老的福基斯城墙。"
+      }
+    },
+    {
+      "date": "-480-08-02",
+      "description": {
+        "en": "Xerxes sends emissaries demanding the Greeks lay down their arms. Leonidas reportedly replies 'Come and take them' (Molon labe). Xerxes waits four days, expecting the Greeks to disperse when they see the size of his army.",
+        "ja": "クセルクセスはギリシア軍に武器を捨てるよう要求する使者を送る。レオニダスは「来て取るがいい」（モロン・ラベ）と応じたとされる。クセルクセスは4日間待ち、ギリシア軍が自軍の規模を見て退散することを期待する。",
+        "zh-CN": "薛西斯派遣使者要求希腊人放下武器。据传列奥尼达回答“有本事来拿“（Molon labe）。薛西斯等待四天，期望希腊人看到他大军的规模后会自行散去。"
+      }
+    },
+    {
+      "date": "-480-08-06",
+      "description": {
+        "en": "Xerxes orders the first assault. Waves of Median and Cissian infantry attack the pass but are repulsed with heavy losses. The narrow pass negates the Persians' numerical advantage. Leonidas rotates his troops to keep them fresh.",
+        "ja": "クセルクセスが最初の攻撃を命じる。メディア兵とキッシア兵の波状攻撃が隘路に押し寄せるが、大きな損害を出して撃退される。狭い隘路がペルシア軍の数的優位を無力化する。レオニダスは兵士を交代させて疲労を防ぐ。",
+        "zh-CN": "薛西斯下令发动首次进攻。一波又一波的米底亚和基西亚步兵冲击隘口，但遭到重大伤亡后被击退。狭窄的隘口使波斯人的兵力优势化为乌有。列奥尼达轮换部队以保持战斗力。"
+      }
+    },
+    {
+      "date": "-480-08-07",
+      "description": {
+        "en": "Xerxes sends the Immortals, his elite 10,000-strong guard. Even they are defeated in the narrow pass. Greek losses are minimal. Meanwhile, Ephialtes of Trachis approaches Xerxes and reveals the Anopaea mountain path that bypasses Thermopylae.",
+        "ja": "クセルクセスは精鋭の1万人からなる親衛隊イモータルを送り込む。しかし彼らでさえ狭い隘路で敗北する。ギリシア軍の損害は軽微。一方、トラキスのエピアルテスがクセルクセスに近づき、テルモピュライを迂回するアノパイアの山道を明かす。",
+        "zh-CN": "薛西斯派出精锐的万人不死军。即便是他们也在狭窄的隘口中败退。希腊人伤亡甚微。与此同时，特拉基斯人埃菲阿尔特斯找到薛西斯，透露了绕过温泉关的阿诺帕亚山道。"
+      }
+    },
+    {
+      "date": "-480-08-08",
+      "description": {
+        "en": "At dawn, Leonidas learns the Persians are coming through the mountain path. He dismisses most of the Greek army, keeping his 300 Spartans, 700 Thespians who refuse to leave, and 400 Thebans. The rearguard fights to the last man. Leonidas is killed. The Persians advance into central Greece.",
+        "ja": "夜明けにレオニダスはペルシア軍が山道を通って来ていることを知る。ギリシア軍の大半を退却させ、300人のスパルタ兵、撤退を拒否した700人のテスピアイ兵、400人のテーバイ兵を残す。殿軍は最後の一人まで戦う。レオニダスは戦死する。ペルシア軍は中央ギリシアへ進軍する。",
+        "zh-CN": "黎明时分，列奥尼达得知波斯人正从山道包抄。他遣散了大部分希腊军队，留下300名斯巴达人、拒绝离开的700名特斯皮亚人和400名底比斯人。殿后部队战至最后一人。列奥尼达阵亡。波斯军队进入中希腊。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Greek defenders were annihilated, but their sacrifice delayed the Persian advance by several critical days, allowing the Greek fleet to reposition and Athens to evacuate. The stand at Thermopylae became one of history's most enduring symbols of courage against overwhelming odds and galvanized Greek resistance that ultimately defeated the Persian invasion at Salamis and Plataea.",
+    "ja": "ギリシアの守備隊は全滅したが、その犠牲がペルシア軍の進軍を決定的な数日間遅らせ、ギリシア艦隊の再配置とアテネの避難を可能にした。テルモピュライでの抵抗は、圧倒的な逆境に立ち向かう勇気の歴史上最も永続的な象徴の一つとなり、最終的にサラミスとプラタイアでペルシアの侵略を打ち破るギリシアの抵抗を結束させた。",
+    "zh-CN": "希腊守军全部阵亡，但他们的牺牲将波斯军队的推进延迟了关键的数天，使希腊舰队得以重新部署，雅典得以疏散。温泉关之战成为历史上最持久的面对压倒性劣势而英勇抗争的象征，激励了希腊人的抵抗意志，最终在萨拉米斯和普拉提亚击败了波斯入侵。"
+  },
+  "casualties": {
+    "en": "Greece: approximately 2,000 killed (including all 300 Spartans and 700 Thespians). Persia: approximately 20,000 killed, including many Immortals.",
+    "ja": "ギリシア：約2,000人戦死（300人のスパルタ兵と700人のテスピアイ兵全員を含む）。ペルシア：約20,000人戦死、多数のイモータルを含む。",
+    "zh-CN": "希腊：约2000人阵亡（包括全部300名斯巴达人和700名特斯皮亚人）。波斯：约20000人阵亡，包括大量不死军成员。"
+  },
+  "significance": {
+    "en": "Thermopylae demonstrated that disciplined heavy infantry in favorable terrain could hold against vastly superior numbers, a lesson that influenced Greek military thinking for centuries. The battle's cultural impact was even greater: Leonidas's sacrifice became the archetype of heroic last stands in Western civilization. It unified the previously divided Greek city-states against Persia and proved that the Persian army was not invincible.",
+    "ja": "テルモピュライは、有利な地形における規律正しい重装歩兵が圧倒的な数に対抗できることを実証し、この教訓はその後数世紀のギリシア軍事思想に影響を与えた。この戦いの文化的影響はさらに大きく、レオニダスの犠牲は西洋文明における英雄的最後の抵抗の原型となった。この戦いは分裂していたギリシア諸都市国家をペルシアに対して団結させ、ペルシア軍が無敵ではないことを証明した。",
+    "zh-CN": "温泉关证明了训练有素的重装步兵在有利地形上可以抵挡远超自身的兵力，这一教训影响了希腊军事思想数百年。这场战役的文化影响更为深远：列奥尼达的牺牲成为西方文明中英勇最后抵抗的典范。它使原本分裂的希腊城邦团结起来对抗波斯，并证明波斯军队并非不可战胜。"
+  },
+  "furtherReading": [
+    "Herodotus — The Histories (Book VII)",
+    "Paul Cartledge — Thermopylae: The Battle That Changed the World",
+    "Ernle Bradford — Thermopylae: The Battle for the West"
+  ]
+}

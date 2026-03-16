@@ -1,0 +1,114 @@
+{
+  "id": "thermopylae-480bc-scene-002",
+  "scenarioId": "thermopylae-480bc",
+  "title": {
+    "en": "The Persian Onslaught",
+    "ja": "ペルシアの猛攻",
+    "zh-CN": "波斯猛攻"
+  },
+  "date": {
+    "en": "August 480 BC (Day 2 of Battle)",
+    "ja": "紀元前480年8月（戦闘2日目）",
+    "zh-CN": "公元前480年8月（战斗第二天）"
+  },
+  "location": {
+    "en": "The Middle Gate, Thermopylae Pass",
+    "ja": "テルモピュライの隘路、中央の門",
+    "zh-CN": "温泉关隘口中门"
+  },
+  "narrativePrompt": {
+    "en": "The first day of battle has been a stunning Greek success. Wave after wave of Persian infantry — first Medes, then Cissians — have hurled themselves at the narrow pass and been cut down by the disciplined Greek phalanx. The Spartans have performed their feigned retreat tactic to devastating effect, luring Persians forward and then turning to slaughter them. Persian dead litter the ground before the wall. But now Xerxes has committed his elite Immortals, his ten-thousand-strong personal guard, the finest soldiers in the Persian Empire. They attack at dusk and fight through the night. The Immortals are better than the Medes — faster, more disciplined — but the pass remains too narrow for their numbers to matter. By dawn, they too have been repulsed with heavy losses. Leonidas must now decide how to manage his forces for what could be days more of fighting. His men are exhausted, some wounded. Reports arrive from local shepherds that a Persian officer has been seen meeting with a man named Ephialtes, who lives near the Anopaea path — an old mountain trail that could bypass the pass entirely.",
+    "ja": "戦闘初日は見事なギリシア軍の成功であった。メディア兵、次いでキッシア兵というペルシア歩兵の波状攻撃が狭い隘路に押し寄せたが、規律正しいギリシアのファランクスに切り倒された。スパルタ兵は偽装退却の戦術を壊滅的な効果で実行し、ペルシア兵を前に誘い出してから反転して虐殺した。ペルシアの死者が壁の前の地面に散乱している。しかし今、クセルクセスは精鋭のイモータル——1万人からなる親衛隊、ペルシア帝国最高の兵士——を投入した。彼らは夕暮れに攻撃し、夜通し戦う。イモータルはメディア兵より優れている——より速く、より規律正しい——しかし隘路はやはり狭すぎて、その数は問題にならない。夜明けまでに、彼らも大きな損害を受けて撃退された。レオニダスはこれから数日間続く可能性のある戦闘に向けて、兵力をどう管理するか決めなければならない。兵士たちは疲弊し、一部は負傷している。地元の羊飼いから、ペルシアの将校がアノパイアの道——隘路を完全に迂回できる古い山道——の近くに住むエピアルテスという男と会っているのが目撃されたという報告が届く。",
+    "zh-CN": "战斗第一天是希腊人的惊人胜利。一波又一波的波斯步兵——先是米底亚人，然后是基西亚人——冲向狭窄的隘口，被训练有素的希腊方阵砍倒。斯巴达人的佯退战术取得了毁灭性效果，诱敌深入后转身歼灭。波斯人的尸体散落在城墙前。但现在薛西斯投入了他的精锐不死军——一万人的亲卫队，波斯帝国最精锐的战士。他们在黄昏发起进攻，彻夜战斗。不死军比米底亚人更强——更快、更有纪律——但隘口仍然太窄，他们的兵力优势无从发挥。到黎明时，他们也在遭受重大伤亡后被击退。列奥尼达现在必须决定如何管理兵力以应对可能还要持续数天的战斗。他的士兵们精疲力竭，一些人受了伤。当地牧羊人送来消息，有人看到一名波斯军官与一个名叫埃菲阿尔特斯的人会面，此人住在阿诺帕亚小道附近——一条可以完全绕过隘口的古老山路。"
+  },
+  "situationReport": [
+    {
+      "en": "Two days of Persian assaults have been repulsed with massive Persian casualties and light Greek losses",
+      "ja": "2日間のペルシアの攻撃が撃退され、ペルシア側に大きな損害、ギリシア側は軽微な損害",
+      "zh-CN": "两天的波斯进攻已被击退，波斯方面伤亡惨重，希腊方面损失轻微"
+    },
+    {
+      "en": "The Spartan feigned-retreat tactic has proven devastating in the narrow pass",
+      "ja": "スパルタの偽装退却戦術が狭い隘路で壊滅的な効果を証明した",
+      "zh-CN": "斯巴达人的佯退战术在狭窄隘口中展现了毁灭性效果"
+    },
+    {
+      "en": "Greek troops are fatigued from continuous fighting; rotation is essential",
+      "ja": "ギリシア軍は連続戦闘で疲労している。交代が不可欠",
+      "zh-CN": "希腊军队因连续作战而疲惫；轮换至关重要"
+    },
+    {
+      "en": "Reports suggest a local traitor may be revealing the Anopaea mountain path to the Persians",
+      "ja": "地元の裏切り者がペルシア軍にアノパイアの山道を明かしている可能性があるとの報告",
+      "zh-CN": "有报告显示当地叛徒可能正在向波斯人泄露阿诺帕亚山道"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Maintain the defense of the pass while managing troop fatigue",
+      "ja": "兵士の疲労を管理しながら隘路の防衛を維持する",
+      "zh-CN": "在管理部队疲劳的同时维持隘口防御"
+    },
+    {
+      "en": "Address the threat of the mountain path being revealed to the enemy",
+      "ja": "山道が敵に明かされる脅威に対処する",
+      "zh-CN": "应对山间小路被泄露给敌人的威胁"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Sending too many men to guard the path weakens the main defense at the pass",
+      "ja": "山道の警備に多くの兵を送ると、隘路の主防衛が弱まる",
+      "zh-CN": "派遣过多士兵守卫山道会削弱隘口的主要防御"
+    },
+    {
+      "en": "The allied Phocians have volunteered to guard the path but their reliability is uncertain",
+      "ja": "同盟のポキス人が山道の警備を志願したが、その信頼性は不確か",
+      "zh-CN": "盟邦福基斯人已志愿守卫山道，但其可靠性不确定"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Trust the Phocians to guard the Anopaea path and keep all Spartans at the main pass. We must hold the wall with full strength.",
+        "ja": "ポキス人にアノパイアの道の警備を任せ、全スパルタ兵を主隘路に残す。全力で壁を守らなければならない。",
+        "zh-CN": "信任福基斯人守卫阿诺帕亚小道，将所有斯巴达人留在主隘口。我们必须以全部兵力坚守城墙。"
+      },
+      "historicalContext": "The historical choice — Leonidas assigned 1,000 Phocians to guard the path, but they failed to hold it when the Persians came.",
+      "outcomePrompt": {
+        "en": "Leonidas assigns the Phocian contingent of one thousand men to hold the Anopaea path. They take positions on the heights above. Through the second day, the pass holds magnificently — the Spartans and their allies cut down every Persian assault with mechanical efficiency. Greek morale soars. But in the dead of night, a scout staggers into camp with devastating news: the Immortals, guided by Ephialtes, are ascending the mountain path in force. The Phocians, caught by surprise, have scattered to defend their own hilltop rather than blocking the trail. By dawn, the Persians will be behind the Greek position. The pass is about to be flanked.",
+        "ja": "レオニダスは1,000人のポキス人部隊にアノパイアの道の守備を任せる。彼らは上方の高所に陣取る。2日目を通じて、隘路は見事に守られ、スパルタ兵と同盟軍はペルシアのあらゆる攻撃を機械的な効率で切り倒す。ギリシア軍の士気は急上昇する。しかし真夜中、一人の斥候が壊滅的な知らせを持って陣営に駆け込む：エピアルテスに導かれたイモータルが大挙して山道を登っている。不意を突かれたポキス人は道を塞ぐのではなく、自分たちの丘の頂上を守るために散開した。夜明けまでに、ペルシア軍はギリシア軍の背後に回る。隘路はまさに側面を突かれようとしている。",
+        "zh-CN": "列奥尼达派遣一千名福基斯士兵驻守阿诺帕亚小道。他们在上方高地布防。第二天隘口防御表现出色——斯巴达人和盟军以机械般的效率击退波斯人的每一次进攻。希腊军队士气高涨。但在深夜，一名侦察兵跌跌撞撞地带回了毁灭性的消息：在埃菲阿尔特斯的引导下，不死军正大举攀上山道。福基斯人措手不及，四散去防守自己所在的山头，而非封锁小道。到黎明时，波斯人将出现在希腊军队身后。隘口即将被侧翼包抄。"
+      },
+      "nextSceneId": "thermopylae-480bc-scene-003",
+      "stateChanges": [
+        { "variable": "spartanMorale", "operation": "add", "value": 5 },
+        { "variable": "daysHeld", "operation": "add", "value": 2 },
+        { "variable": "persianAdvance", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Send a force of Spartans to reinforce the Phocians on the mountain path. The flank is more important than maximum strength at the wall.",
+        "ja": "スパルタ兵の一部をポキス人の山道の守備に増援として送る。側面は壁の最大戦力より重要だ。",
+        "zh-CN": "派遣一部分斯巴达人增援福基斯人守卫山道。侧翼比城墙处的最大兵力更重要。"
+      },
+      "historicalContext": "A counterfactual — Leonidas did not reinforce the Phocians, which proved fatal when the path was betrayed.",
+      "outcomePrompt": {
+        "en": "Leonidas detaches a hundred Spartans under Captain Dienekes to reinforce the Phocians on the mountain path. The loss of a hundred elite warriors at the wall is immediately felt — the rotation system strains, and the second day's fighting is harder. Two allied contingents take heavier casualties than necessary. But when the Immortals arrive on the mountain path at night, guided by the traitor Ephialtes, they find not scattered Phocians but a disciplined blocking force anchored by Spartan warriors. A vicious night battle erupts on the mountain slope. The Spartans and Phocians cannot hold forever against ten thousand Immortals, but they fight long enough to send word to Leonidas. Dawn arrives with the pass still held — but Leonidas knows it is only a matter of hours before the mountain defenders are overwhelmed.",
+        "ja": "レオニダスはディエネケス隊長率いる100人のスパルタ兵をポキス人の山道の守備の増援に派遣する。壁での100人の精鋭戦士の喪失は直ちに感じられ、交代システムに負担がかかり、2日目の戦闘はより厳しくなる。2つの同盟軍部隊が必要以上の死傷者を出す。しかし夜、裏切り者エピアルテスに導かれてイモータルが山道に到着した時、彼らが見つけたのは散開したポキス人ではなく、スパルタ戦士を核とした規律正しい阻止部隊であった。山の斜面で激しい夜戦が勃発する。スパルタ兵とポキス人は1万人のイモータルに対して永久には持ちこたえられないが、レオニダスに知らせを送るのに十分な時間を稼ぐ。夜明けが来ても隘路はまだ保持されている——しかしレオニダスは山の防衛隊が圧倒されるのは時間の問題だと知っている。",
+        "zh-CN": "列奥尼达派遣由队长迪耶涅塞斯率领的一百名斯巴达人去增援山道上的福基斯人。城墙处少了一百名精锐战士的影响立刻显现——轮换系统承压，第二天的战斗更加艰难。两支盟军部队承受了不必要的更大伤亡。但当不死军在夜间由叛徒埃菲阿尔特斯引导抵达山道时，他们遇到的不是散乱的福基斯人，而是以斯巴达战士为核心的纪律严明的阻击力量。一场惨烈的山坡夜战爆发。斯巴达人和福基斯人无法永远抵挡一万名不死军，但他们坚持了足够长的时间向列奥尼达传递了消息。黎明来临时隘口仍在坚守——但列奥尼达知道山上的防御者被击溃只是几个小时的事。"
+      },
+      "nextSceneId": "thermopylae-480bc-scene-003",
+      "stateChanges": [
+        { "variable": "spartanMorale", "operation": "add", "value": -5 },
+        { "variable": "greekAlliance", "operation": "add", "value": 5 },
+        { "variable": "daysHeld", "operation": "add", "value": 3 },
+        { "variable": "persianAdvance", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

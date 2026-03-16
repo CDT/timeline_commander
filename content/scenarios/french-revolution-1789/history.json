@@ -1,0 +1,76 @@
+{
+  "scenarioId": "french-revolution-1789",
+  "timeline": [
+    {
+      "date": "1789-05-05",
+      "description": {
+        "en": "The Estates-General convenes at Versailles for the first time since 1614. The Third Estate, representing 98 percent of France's population, demands voting by head rather than by order.",
+        "ja": "1614年以来初めて全国三部会がヴェルサイユで召集される。フランス人口の98パーセントを代表する第三身分は、身分別ではなく頭数による投票を要求する。",
+        "zh-CN": "三级会议自1614年以来首次在凡尔赛召开。代表法国98%人口的第三等级要求按人头而非按等级投票。"
+      }
+    },
+    {
+      "date": "1789-06-17",
+      "description": {
+        "en": "The Third Estate declares itself the National Assembly, claiming to represent the sovereign will of the French people regardless of the other two estates.",
+        "ja": "第三身分は自らを国民議会と宣言し、他の二つの身分に関係なくフランス国民の主権的意志を代表すると主張する。",
+        "zh-CN": "第三等级宣布自己为国民议会，声称不论其他两个等级如何，自己代表法国人民的主权意志。"
+      }
+    },
+    {
+      "date": "1789-06-20",
+      "description": {
+        "en": "Locked out of their meeting hall by royal order, the National Assembly gathers at a nearby tennis court and swears not to disband until France has a constitution — the famous Tennis Court Oath.",
+        "ja": "王命により会議場から閉め出された国民議会は、近くの球戯場に集まり、フランスに憲法が制定されるまで解散しないと誓う——有名な球戯場の誓い。",
+        "zh-CN": "国民议会被王室命令锁在会议厅外，在附近的网球场集合，宣誓在法国制定宪法之前绝不解散——著名的网球场宣誓。"
+      }
+    },
+    {
+      "date": "1789-07-14",
+      "description": {
+        "en": "Parisians storm the Bastille fortress, a symbol of royal tyranny. The garrison surrenders after fierce fighting. The governor, the Marquis de Launay, is killed by the crowd. The Revolution has left the assembly halls and entered the streets.",
+        "ja": "パリ市民が王政の暴政の象徴であるバスティーユ要塞を襲撃する。守備隊は激しい戦闘の末に降伏。要塞司令官のド・ローネ侯爵が群衆に殺害される。革命は議場を離れ、街頭に出た。",
+        "zh-CN": "巴黎人民攻占了象征王权暴政的巴士底狱。经过激烈战斗后守军投降。监狱长德·洛奈侯爵被民众杀死。革命已从议会大厅走向了街头。"
+      }
+    },
+    {
+      "date": "1789-07-17",
+      "description": {
+        "en": "Louis XVI visits Paris and accepts the tricolor cockade, effectively acknowledging the revolution. Royal troops withdraw from Paris.",
+        "ja": "ルイ16世がパリを訪問し、三色旗の帽章を受け入れ、事実上革命を承認する。王軍がパリから撤退。",
+        "zh-CN": "路易十六访问巴黎并接受三色帽徽，实际上承认了革命。王室军队撤出巴黎。"
+      }
+    },
+    {
+      "date": "1789-08-04",
+      "description": {
+        "en": "In an extraordinary night session, the National Assembly abolishes feudal privileges, tithes, and seigneurial rights — dismantling the legal foundation of the ancien régime in a single evening.",
+        "ja": "異例の夜間会議で、国民議会が封建特権、十分の一税、領主権を廃止——一夜にして旧体制の法的基盤を解体した。",
+        "zh-CN": "在一次非凡的夜间会议上，国民议会废除了封建特权、什一税和领主权利——在一个晚上摧毁了旧制度的法律基础。"
+      }
+    },
+    {
+      "date": "1789-08-26",
+      "description": {
+        "en": "The National Assembly adopts the Declaration of the Rights of Man and of the Citizen, proclaiming that men are born and remain free and equal in rights. It becomes the foundational document of modern democracy.",
+        "ja": "国民議会が人権宣言を採択し、人は生まれながらにして自由かつ権利において平等であると宣言する。これは近代民主主義の基礎文書となる。",
+        "zh-CN": "国民议会通过《人权和公民权利宣言》，宣告人人生而自由，权利平等。这成为现代民主的奠基文件。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The summer of 1789 destroyed the political foundations of the ancien régime. The National Assembly established the principle of popular sovereignty, the Bastille's fall demonstrated that the people could challenge royal authority by force, and the Declaration of the Rights of Man created a philosophical framework that would influence democratic constitutions worldwide. However, the revolution was far from over — the years ahead would bring the Reign of Terror, the execution of the King, and decades of upheaval before France found a stable republican government.",
+    "ja": "1789年の夏は旧体制の政治的基盤を破壊した。国民議会は人民主権の原則を確立し、バスティーユの陥落は人民が力によって王権に挑戦できることを示し、人権宣言は世界中の民主主義憲法に影響を与える哲学的枠組みを作り出した。しかし、革命は終わりからは程遠く、その後の数年間には恐怖政治、国王の処刑、そしてフランスが安定した共和政府を見つけるまでの数十年にわたる動乱が待っていた。",
+    "zh-CN": "1789年夏天摧毁了旧制度的政治基础。国民议会确立了人民主权原则，巴士底狱的陷落证明人民可以用武力挑战王权，《人权宣言》创造了一个影响全世界民主宪法的哲学框架。然而，革命远未结束——未来的岁月将带来恐怖统治、国王被处决，以及法国找到稳定的共和政府之前数十年的动荡。"
+  },
+  "significance": {
+    "en": "The French Revolution of 1789 was the decisive rupture between the medieval and modern political orders in Europe. It established the principles of citizenship, civil rights, and popular sovereignty that remain the foundation of democratic governance. The Declaration of the Rights of Man directly inspired the United Nations Universal Declaration of Human Rights in 1948. The revolution also demonstrated the dangers of political radicalization, as the ideals of liberty and equality would later be invoked to justify the Terror.",
+    "ja": "1789年のフランス革命は、ヨーロッパにおける中世と近代の政治秩序の間の決定的な断絶であった。市民権、公民権、そして人民主権の原則を確立し、それは今なお民主的統治の基礎であり続けている。人権宣言は1948年の国連世界人権宣言に直接影響を与えた。また、この革命は政治的急進化の危険性も示した。自由と平等の理想は後に恐怖政治を正当化するために援用されることになった。",
+    "zh-CN": "1789年法国大革命是欧洲中世纪与现代政治秩序之间的决定性断裂。它确立了公民身份、公民权利和人民主权的原则，至今仍是民主治理的基础。《人权宣言》直接启发了1948年联合国《世界人权宣言》。这场革命也展示了政治激进化的危险，因为自由与平等的理想后来被用来为恐怖统治辩护。"
+  },
+  "furtherReading": [
+    "Simon Schama — Citizens: A Chronicle of the French Revolution",
+    "Georges Lefebvre — The Coming of the French Revolution",
+    "Peter McPhee — Robespierre: A Revolutionary Life"
+  ]
+}

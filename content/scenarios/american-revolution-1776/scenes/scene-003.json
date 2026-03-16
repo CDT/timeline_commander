@@ -1,0 +1,111 @@
+{
+  "id": "american-revolution-1776-scene-003",
+  "scenarioId": "american-revolution-1776",
+  "title": "The Crossing of the Delaware",
+  "date": {
+    "en": "December 25, 1776",
+    "ja": "1776年12月25日",
+    "zh-CN": "1776年12月25日"
+  },
+  "location": {
+    "en": "McConkey's Ferry, Delaware River, Pennsylvania",
+    "ja": "マコンキーの渡し場、デラウェア川、ペンシルベニア",
+    "zh-CN": "麦康基渡口，特拉华河，宾夕法尼亚"
+  },
+  "narrativePrompt": {
+    "en": "It is Christmas night. A nor'easter is howling across the Delaware River, driving sleet and snow sideways. The temperature is dropping below freezing. Ice floes choke the river. Your plan is audacious to the point of madness: cross the ice-choked Delaware after dark with 2,400 soldiers, eighteen artillery pieces, and horses, then march nine miles to Trenton and attack the Hessian garrison at dawn. The plan requires three separate crossings at different points — your main force here at McConkey's Ferry, General Ewing's militia crossing downstream to block the Hessians' escape, and Colonel Cadwalader's force crossing further south to create a diversion. The sleet is getting worse. Your officers report that several men have no shoes — they are marching barefoot through the snow, leaving bloody footprints. If the crossings fail or the attack is discovered, you will lose the army and probably the war. If you succeed, you may save the Revolution. The boats are ready. The men are waiting. Do you go?",
+    "ja": "クリスマスの夜です。北東の嵐がデラウェア川を吹き荒れ、みぞれと雪を横殴りに降らせています。気温は氷点下に下がっています。流氷が川を塞いでいます。あなたの計画は狂気に近い大胆さです：暗くなってから2,400人の兵士、18門の大砲、馬とともに氷で塞がれたデラウェアを渡り、その後9マイル行軍してトレントンのヘッセン守備隊を夜明けに攻撃する。計画は3つの異なる地点での渡河を必要とします——ここマコンキーの渡し場のあなたの主力、下流でヘッセン軍の逃走を阻止するユーイング将軍の民兵、さらに南で陽動を行うキャドウォレーダー大佐の部隊。みぞれはひどくなっています。将校たちは何人もの兵士が靴を持っておらず、雪の中を裸足で行軍し、血の足跡を残していると報告しています。渡河が失敗するか攻撃が発覚すれば、軍を失い、おそらく戦争も失います。成功すれば、革命を救えるかもしれません。船の準備はできています。兵士たちは待っています。行きますか？",
+    "zh-CN": "圣诞夜。一场东北风暴正在特拉华河上呼啸，冰雨和雪花横飞。气温降到零度以下。浮冰堵塞了河道。您的计划大胆到近乎疯狂：天黑后率领2400名士兵、18门火炮和马匹渡过冰封的特拉华河，然后行军9英里到特伦顿，在黎明时分攻击黑森守军。计划需要在三个不同地点分别渡河——您的主力在这里的麦康基渡口，尤因将军的民兵在下游渡河以阻断黑森军的退路，卡德瓦拉德上校的部队在更南的地方渡河制造牵制。冰雨越来越大。您的军官报告说好几个人没有鞋——他们赤脚在雪中行军，留下血迹。如果渡河失败或攻击被发现，您将失去军队，很可能也失去战争。如果成功，您可能挽救革命。船只已经准备好。士兵们在等待。您要出发吗？"
+  },
+  "situationReport": [
+    {
+      "en": "Your force: 2,400 soldiers, 18 cannon, and 40 horses — many soldiers lack shoes, blankets, and proper winter clothing",
+      "ja": "あなたの戦力：兵士2,400人、大砲18門、馬40頭——多くの兵士が靴、毛布、適切な防寒着を欠いている",
+      "zh-CN": "您的兵力：2400名士兵、18门火炮和40匹马——许多士兵缺少鞋子、毯子和适当的冬装"
+    },
+    {
+      "en": "The Hessian garrison at Trenton: approximately 1,500 men under Colonel Johann Rahl, celebrating Christmas",
+      "ja": "トレントンのヘッセン守備隊：ヨハン・ラール大佐指揮下の約1,500人、クリスマスを祝っている",
+      "zh-CN": "特伦顿的黑森守军：约1500人，由约翰·拉尔上校指挥，正在庆祝圣诞节"
+    },
+    {
+      "en": "A nor'easter with sleet and snow is making the crossing extremely dangerous — ice is piling up in the river",
+      "ja": "みぞれと雪を伴う北東の嵐が渡河を極めて危険にしている——川に氷が積み上がっている",
+      "zh-CN": "一场伴有冰雨和雪的东北风暴使渡河极其危险——河中浮冰堆积"
+    },
+    {
+      "en": "Enlistments expire in six days — this may be the army's last chance to strike a blow before it dissolves",
+      "ja": "入隊期間の満了まであと6日——軍が解散する前に打撃を与える最後のチャンスかもしれない",
+      "zh-CN": "入伍期六天后届满——这可能是军队在解散前发动打击的最后机会"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Cross the Delaware and defeat the Hessian garrison at Trenton",
+      "ja": "デラウェアを渡りトレントンのヘッセン守備隊を打ち破る",
+      "zh-CN": "渡过特拉华河并击败特伦顿的黑森守军"
+    },
+    {
+      "en": "Restore the army's morale and give the cause of independence a reason to survive",
+      "ja": "軍の士気を回復し、独立の大義に存続の理由を与える",
+      "zh-CN": "恢复军队士气并给独立事业一个存续的理由"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The storm makes the crossing extremely dangerous — boats may capsize in the ice",
+      "ja": "嵐が渡河を極めて危険にしている——船が氷の中で転覆する可能性がある",
+      "zh-CN": "风暴使渡河极其危险——船只可能在浮冰中倾覆"
+    },
+    {
+      "en": "If the Hessians are alerted, 2,400 exhausted men will face 1,500 entrenched professional soldiers",
+      "ja": "ヘッセン軍に警戒されれば、2,400人の疲弊した兵士が1,500人の防備の固い職業軍人と対峙する",
+      "zh-CN": "如果黑森军收到警报，2400名疲惫的士兵将面对1500名有工事保护的职业军人"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Cross the Delaware tonight as planned. The storm that punishes your men will also keep the Hessians indoors and cover your approach. 'Victory or Death' — the password you have chosen says everything.",
+        "ja": "計画通り今夜デラウェアを渡る。兵士たちを苦しめる嵐はヘッセン軍も屋内にとどめ、接近を隠してくれる。「勝利か死か」——あなたが選んだ合言葉がすべてを物語っている。",
+        "zh-CN": "按计划今晚渡过特拉华河。折磨您士兵的风暴同样会让黑森军待在室内并掩护您的接近。「胜利或死亡」——您选择的口令说明了一切。"
+      },
+      "historicalContext": "The historical choice — Washington crossed on Christmas night and achieved complete surprise at Trenton.",
+      "outcomePrompt": {
+        "en": "The crossing takes longer than planned — the ice is worse than expected, and it is 3 AM before the last men are across. You will not reach Trenton by dawn as planned. You press on anyway. At 8 AM on December 26th, your two columns converge on Trenton from the north and northwest simultaneously. The Hessians are caught completely unprepared. Colonel Rahl, roused from his Christmas celebrations, tries to form his men in the streets but your artillery commands every approach. Within ninety minutes it is over. Rahl is mortally wounded. Nearly 1,000 Hessians surrender. Your casualties: two men frozen to death on the march, five wounded, none killed in battle. It is the most lopsided American victory of the war. The news electrifies the continent. Soldiers whose enlistments are expiring volunteer to stay. Congress breathes again. France takes notice. The Revolution is saved — not by a great army, but by 2,400 desperate men crossing an ice-choked river on Christmas night because one general refused to accept defeat.",
+        "ja": "渡河は予定より時間がかかります——氷は予想より酷く、最後の兵士が渡り終えるのは午前3時です。計画通り夜明けまでにトレントンには到達できません。それでも前進します。12月26日午前8時、あなたの2つの縦隊が北と北西から同時にトレントンに集中します。ヘッセン軍は完全に不意を突かれます。クリスマスの祝宴から起こされたラール大佐は通りで隊を整えようとしますが、あなたの砲兵がすべての接近路を制圧しています。90分以内に終わります。ラールは致命傷を負います。約1,000人のヘッセン兵が降伏します。あなたの損害：行軍中に凍死2名、負傷5名、戦闘での死者なし。戦争中最も一方的なアメリカの勝利です。ニュースは大陸に衝撃を与えます。入隊期間が切れる兵士たちが留まることを志願します。議会は再び息をつきます。フランスが注目します。革命は救われました——大軍によってではなく、一人の将軍が敗北を受け入れることを拒んだために、クリスマスの夜に氷で塞がれた川を渡った2,400人の必死の兵士たちによって。",
+        "zh-CN": "渡河比计划花了更长时间——浮冰比预期更严重，最后一批人到凌晨3点才渡完。您无法按计划在黎明前到达特伦顿。您还是继续前进。12月26日上午8点，您的两路纵队从北面和西北面同时会攻特伦顿。黑森军完全措手不及。从圣诞庆祝中被叫醒的拉尔上校试图在街道上集合部队，但您的炮兵控制了每一条进入路线。九十分钟内一切结束。拉尔身受致命伤。近1000名黑森士兵投降。您的伤亡：行军中冻死两人，五人受伤，战斗中无人阵亡。这是战争中最一边倒的美军胜利。消息震动了整个大陆。入伍期即将届满的士兵自愿留下。国会重新松了一口气。法国注意到了。革命得救了——不是靠一支强大的军队，而是靠2400名绝望的士兵在圣诞夜渡过冰封的河流，因为有一位将军拒绝接受失败。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "armyMorale", "operation": "add", "value": 40 },
+        { "variable": "troopStrength", "operation": "add", "value": 10 },
+        { "variable": "congressSupport", "operation": "add", "value": 25 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "The storm is too dangerous. Postpone the crossing and wait for better conditions. Use the remaining days to negotiate re-enlistments and petition Congress for reinforcements.",
+        "ja": "嵐が危険すぎる。渡河を延期し、より良い条件を待つ。残りの日数を使って再入隊交渉を行い、議会に増援を嘆願する。",
+        "zh-CN": "风暴太危险了。推迟渡河，等待更好的条件。利用剩余的日子协商重新入伍并向国会请求增援。"
+      },
+      "historicalContext": "A counterfactual — without the Trenton victory, the Continental Army would likely have dissolved when enlistments expired on December 31.",
+      "outcomePrompt": {
+        "en": "You postpone. The storm passes by December 27th, but now the element of surprise is diminished — Hessian patrols have spotted activity on the Pennsylvania side. When you attempt the crossing on December 28th, it proceeds more smoothly, but a Loyalist farmer has warned the Trenton garrison. The Hessians are alert, though not fully prepared. The battle is harder. Your artillery still gives you an advantage, and the Hessians are still outnumbered in the town, but the fighting is fiercer. You take Trenton, but with 40 casualties and only 600 Hessians captured — Rahl manages to lead 400 men out of the town before the trap closes. The victory is real but less dramatic. Newspapers call it a success, but the electrifying shock of total surprise is absent. Some soldiers re-enlist. Others still leave. The army survives, diminished. The Revolution continues, but the road ahead is longer and harder than it needed to be.",
+        "ja": "あなたは延期します。嵐は12月27日までに過ぎますが、奇襲の要素は薄れています——ヘッセンのパトロールがペンシルベニア側での活動を察知しています。12月28日に渡河を試みると、よりスムーズに進みますが、王党派の農民がトレントンの守備隊に警告しています。ヘッセン軍は警戒していますが、完全には準備できていません。戦闘はより激しくなります。砲兵がまだ有利で、ヘッセン軍は町で数的に劣りますが、戦いはより激烈です。トレントンを取りますが、40人の死傷者を出し、捕虜は600人のヘッセン兵だけです。ラールが罠が閉じる前に400人を率いて町から脱出します。勝利は本物ですが、ドラマチックさに欠けます。新聞は成功と呼びますが、完全な奇襲の衝撃はありません。一部の兵士が再入隊します。他の者はまだ去ります。軍は縮小しながらも存続します。革命は続きますが、先の道は必要以上に長く険しいものとなります。",
+        "zh-CN": "您推迟了。风暴在12月27日过去，但现在突袭的要素已经减弱——黑森巡逻队已经发现了宾夕法尼亚一侧的活动。当您在12月28日尝试渡河时，进行得更顺利，但一个保皇派农民已经警告了特伦顿守军。黑森军处于警戒状态，虽然没有完全准备好。战斗更加艰难。您的炮兵仍然占有优势，黑森军在镇上仍然人数不足，但战斗更加激烈。您攻下了特伦顿，但付出了40人伤亡的代价，只俘获了600名黑森士兵——拉尔在包围圈合拢前率领400人逃出了城镇。胜利是真实的但不那么戏剧性。报纸称其为成功，但完全突袭的震撼效果不在了。一些士兵重新入伍。其他人仍然离开。军队存活下来了，但规模缩小。革命继续着，但前方的路比本来需要的更长更艰难。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "armyMorale", "operation": "add", "value": 15 },
+        { "variable": "troopStrength", "operation": "add", "value": -5 },
+        { "variable": "congressSupport", "operation": "add", "value": 10 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

@@ -1,0 +1,109 @@
+{
+  "id": "berlin-wall-1989-scene-002",
+  "scenarioId": "berlin-wall-1989",
+  "title": "The Crowds at the Checkpoints",
+  "date": {
+    "en": "November 9, 1989 — 11:00 PM",
+    "ja": "1989年11月9日 午後11時",
+    "zh-CN": "1989年11月9日 晚上11点"
+  },
+  "location": {
+    "en": "Bornholmer Straße Border Crossing, East Berlin",
+    "ja": "ボルンホルマー通り国境検問所、東ベルリン",
+    "zh-CN": "博恩霍尔姆大街边境过境点，东柏林"
+  },
+  "narrativePrompt": {
+    "en": "The situation has escalated beyond anything you imagined. Thousands of East Berliners are pressed against the barriers at Bornholmer Straße and every other checkpoint along the Wall. The crowd is growing by the minute. Border guard commander Lieutenant Colonel Harald Jäger has been calling his superiors for hours, demanding instructions. No one will give him a clear order. The Stasi leadership is paralyzed. Egon Krenz is unreachable. You are receiving frantic phone calls from Party officials across the city. The guards are armed but vastly outnumbered. If they open fire, it will be a massacre broadcast live to the world. If they open the gates, the Wall — the very foundation of the East German state — ceases to exist. Someone has to make a decision. You have Jäger on the phone. What do you tell him?",
+    "ja": "事態はあなたが想像したものをはるかに超えてエスカレートしています。数千人の東ベルリン市民がボルンホルマー通りと壁に沿ったすべての検問所のバリアに押し寄せています。群衆は刻一刻と増えています。国境警備隊の司令官ハラルト・イェーガー中佐は何時間も上官に電話をかけ、指示を求めています。誰も明確な命令を出しません。シュタージの指導部は麻痺しています。エゴン・クレンツとは連絡が取れません。あなたは市内各地の党幹部から必死の電話を受けています。警備隊は武装していますが、数で圧倒的に劣っています。発砲すれば、世界に生放送される虐殺となります。ゲートを開ければ、東ドイツ国家の根幹そのものである壁が存在しなくなります。誰かが決断しなければなりません。あなたは電話でイェーガーと話しています。彼に何を伝えますか？",
+    "zh-CN": "局势已升级到超出您想象的程度。数千名东柏林人挤在博恩霍尔姆大街和墙沿线每一个检查站的障碍物前。人群每分钟都在增长。边境警卫指挥官哈拉尔德·耶格尔中校已经打了几个小时电话给上级，要求指示。没有人给他明确的命令。国安部领导层已经瘫痪。埃贡·克伦茨联系不上。您接到了来自全城党的官员的疯狂电话。警卫们有武装但人数远远不足。如果他们开枪，那将是向全世界现场直播的屠杀。如果他们打开大门，柏林墙——东德国家的根基——将不复存在。必须有人做出决定。您正在和耶格尔通话。您告诉他什么？"
+  },
+  "situationReport": [
+    {
+      "en": "An estimated 20,000 people are now gathered at Bornholmer Straße alone — more at other crossings",
+      "ja": "ボルンホルマー通りだけで推定2万人が集まっている——他の検問所にもさらに多くが",
+      "zh-CN": "仅博恩霍尔姆大街就估计有2万人聚集——其他过境点还有更多人"
+    },
+    {
+      "en": "Border guards are reporting that the crowd is peaceful but growing increasingly impatient",
+      "ja": "国境警備隊は群衆が平和的だがますます焦っていると報告している",
+      "zh-CN": "边境警卫报告人群和平但越来越不耐烦"
+    },
+    {
+      "en": "West German television cameras are broadcasting the scene live — the world is watching",
+      "ja": "西ドイツのテレビカメラが現場を生放送している——世界が見ている",
+      "zh-CN": "西德电视摄像机正在现场直播——全世界都在观看"
+    },
+    {
+      "en": "No orders have come from the Stasi, the military, or the Party leadership",
+      "ja": "シュタージ、軍、党指導部のいずれからも命令は来ていない",
+      "zh-CN": "国安部、军方和党的领导层都没有下达命令"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Prevent bloodshed at the border crossings",
+      "ja": "国境検問所での流血を防ぐ",
+      "zh-CN": "防止边境过境点发生流血事件"
+    },
+    {
+      "en": "Make a decision before the situation spirals completely out of control",
+      "ja": "事態が完全に制御不能になる前に決断する",
+      "zh-CN": "在局势完全失控之前做出决定"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "There is no higher authority giving orders — the decision falls to whoever acts first",
+      "ja": "命令を出す上位の権限がない——決定は最初に行動する者に委ねられる",
+      "zh-CN": "没有更高层的权威在下命令——决定落在最先行动的人身上"
+    },
+    {
+      "en": "Soviet forces in East Germany could intervene — but Gorbachev's intentions are unknown",
+      "ja": "東ドイツのソ連軍が介入する可能性がある——しかしゴルバチョフの意図は不明",
+      "zh-CN": "驻东德苏军可能介入——但戈尔巴乔夫的意图不明"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Tell Jäger to open the gates. The Wall is already over — acknowledge reality and prevent violence. Let the people through.",
+        "ja": "イェーガーにゲートを開けるよう伝える。壁はすでに終わっている——現実を認め、暴力を防ぐ。市民を通す。",
+        "zh-CN": "告诉耶格尔打开大门。柏林墙已经结束了——承认现实，防止暴力。让人民通过。"
+      },
+      "historicalContext": "The historical outcome — Jäger made the decision himself when no orders came, opening the gates at approximately 11:30 PM.",
+      "outcomePrompt": {
+        "en": "Jäger gives the order. The barriers lift. For a moment, the crowd stands in disbelief. Then the first East Berliners walk through, slowly, as if expecting to be stopped. When nothing happens, the trickle becomes a flood. Thousands pour through the checkpoint, weeping, laughing, embracing strangers on the other side. Within the hour, every checkpoint along the Wall is open. West Berliners rush to greet them with champagne and flowers. People climb onto the Wall itself and begin dancing. The Cold War's most powerful symbol is falling — not with bombs, but with tears of joy. You watch it all unfold, knowing that the world you helped build is ending tonight.",
+        "ja": "イェーガーが命令を出します。バリアが上がります。一瞬、群衆は信じられないという面持ちで立ち尽くします。そして最初の東ベルリン市民がゆっくりと通り抜けます、止められることを予期するかのように。何も起きないと分かると、ちょろちょろだった流れが洪水になります。数千人が検問所を通り抜け、泣き、笑い、向こう側の見知らぬ人と抱き合います。1時間以内に壁に沿ったすべての検問所が開放されます。西ベルリン市民がシャンパンと花を持って駆けつけます。人々が壁の上に登り踊り始めます。冷戦の最も強力な象徴が崩れていきます——爆弾ではなく、喜びの涙とともに。あなたはそれがすべて展開するのを見守ります、自分が築くのを助けた世界が今夜終わることを知りながら。",
+        "zh-CN": "耶格尔下达命令。障碍物升起。人群一时间难以置信地站在原地。然后第一批东柏林人慢慢走过去，仿佛预期会被拦下。当什么都没发生时，涓涓细流变成了洪水。数千人涌过检查站，哭泣、欢笑、与对面的陌生人拥抱。不到一小时，墙沿线的每一个检查站都开放了。西柏林人带着香槟和鲜花赶来迎接。人们爬上墙体本身，开始跳舞。冷战最有力的象征正在倒塌——不是伴随着炸弹，而是伴随着喜悦的泪水。您看着这一切展开，知道您帮助建立的世界今晚正在终结。"
+      },
+      "nextSceneId": "berlin-wall-1989-scene-003",
+      "stateChanges": [
+        { "variable": "partyControl", "operation": "add", "value": -30 },
+        { "variable": "publicPressure", "operation": "add", "value": -20 },
+        { "variable": "protestSize", "operation": "add", "value": 30 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Tell Jäger to hold the line but under no circumstances to fire. Try to reach Krenz or the Soviet military command for instructions. Stall for time.",
+        "ja": "イェーガーに防衛線を維持するが絶対に発砲しないよう伝える。クレンツかソ連軍司令部に連絡を取り指示を求めようとする。時間を稼ぐ。",
+        "zh-CN": "告诉耶格尔坚守阵线但在任何情况下都不要开枪。尝试联系克伦茨或苏联军事指挥部寻求指示。拖延时间。"
+      },
+      "historicalContext": "A counterfactual — attempting to delay would have increased the risk of a violent confrontation as the crowd grew.",
+      "outcomePrompt": {
+        "en": "You tell Jäger to hold but not to shoot. He tries, but the crowd keeps growing. By midnight there are over 50,000 people at the crossings. The guards are terrified. You frantically try to reach Krenz — he is in a meeting and will not take calls. The Soviet military liaison says they have no orders and will not act without instructions from Moscow. At 12:30 AM, the situation at Bornholmer Straße reaches a breaking point. The crowd surges forward. Jäger's guards, exhausted and overwhelmed, step aside rather than fire. The gates open anyway — but the delay has created an hour of dangerous tension. At the Invalidenstraße crossing, a brief scuffle injures several people before the guards there also stand down. The Wall falls, but with more fear and confusion than it needed to.",
+        "ja": "あなたはイェーガーに持ちこたえるが撃つなと伝えます。彼は試みますが、群衆は増え続けます。深夜までに検問所には5万人以上がいます。警備隊は恐怖に怯えています。あなたは必死にクレンツに連絡を取ろうとします——彼は会議中で電話に出ません。ソ連軍連絡官はモスクワからの指示なしに行動しないと言います。午前0時30分、ボルンホルマー通りの状況は限界に達します。群衆が前に押し寄せます。疲弊し圧倒されたイェーガーの警備隊は、発砲するのではなく脇に退きます。ゲートは結局開きます——しかし遅延により1時間の危険な緊張が生まれました。インヴァリーデン通りの検問所では、警備隊が退くまでの短い衝突で数人が負傷します。壁は崩壊しますが、本来より多くの恐怖と混乱を伴って。",
+        "zh-CN": "您告诉耶格尔坚持但不要开枪。他试图坚持，但人群不断增长。到午夜，过境点有超过5万人。警卫们很害怕。您疯狂地试图联系克伦茨——他在开会，不接电话。苏联军事联络官说他们没有命令，没有莫斯科的指示不会行动。凌晨12点30分，博恩霍尔姆大街的局势达到临界点。人群向前涌去。耶格尔的警卫们筋疲力尽、不堪重负，选择让开而不是开枪。大门最终还是打开了——但延迟造成了一个小时的危险紧张。在残废军人大街过境点，在那里的警卫也退让之前，一场短暂的冲突导致数人受伤。柏林墙倒下了，但伴随着比本来需要的更多的恐惧和混乱。"
+      },
+      "nextSceneId": "berlin-wall-1989-scene-003",
+      "stateChanges": [
+        { "variable": "partyControl", "operation": "add", "value": -20 },
+        { "variable": "publicPressure", "operation": "add", "value": 10 },
+        { "variable": "protestSize", "operation": "add", "value": 20 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

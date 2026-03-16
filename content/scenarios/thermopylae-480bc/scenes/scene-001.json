@@ -1,0 +1,113 @@
+{
+  "id": "thermopylae-480bc-scene-001",
+  "scenarioId": "thermopylae-480bc",
+  "title": {
+    "en": "The Hot Gates",
+    "ja": "熱き門",
+    "zh-CN": "热门关"
+  },
+  "date": {
+    "en": "August 480 BC",
+    "ja": "紀元前480年8月",
+    "zh-CN": "公元前480年8月"
+  },
+  "location": {
+    "en": "Thermopylae Pass, Central Greece",
+    "ja": "中央ギリシア、テルモピュライの隘路",
+    "zh-CN": "中希腊温泉关隘口"
+  },
+  "narrativePrompt": {
+    "en": "Leonidas stands at the ancient Phocian wall that spans the narrowest point of the Thermopylae pass. Behind him, seven thousand Greek hoplites from a dozen city-states are making camp and preparing defenses. Ahead, scouts report that the vanguard of Xerxes' army is less than two days' march away — an endless column of soldiers, cavalry, and supply trains stretching back to the horizon. A war council has been called. Some allied commanders argue that the pass is a death trap and the Greek force should fall back to the Isthmus of Corinth, where a much larger defensive line could be held. Others insist that abandoning central Greece without a fight would shatter what remains of the fragile Greek alliance and allow Xerxes to pick off the city-states one by one. Leonidas must decide: commit fully to holding Thermopylae, or withdraw south while there is still time.",
+    "ja": "レオニダスはテルモピュライの隘路の最も狭い地点に架かる古いポキス人の壁の前に立っている。背後では、十数の都市国家から集まった7,000人のギリシア重装歩兵が陣を張り、防備を整えている。前方では、斥候がクセルクセスの軍の前衛が2日足らずの行軍距離にあると報告している——地平線の彼方まで続く兵士、騎兵、補給列の果てしない隊列だ。軍議が召集された。一部の同盟軍指揮官は、隘路は死の罠であり、ギリシア軍はコリントス地峡まで後退すべきだと主張する。そこではより大きな防衛線を張ることができる。他の指揮官は、戦わずして中央ギリシアを放棄すれば、脆弱なギリシア同盟の残りを打ち砕き、クセルクセスが都市国家を一つずつ攻略することを許すと主張する。レオニダスは決断しなければならない：テルモピュライの守備に全力を尽くすか、まだ時間があるうちに南に撤退するか。",
+    "zh-CN": "列奥尼达站在横跨温泉关隘口最窄处的古老福基斯城墙前。在他身后，来自十多个城邦的七千名希腊重装步兵正在扎营和准备防御工事。前方，斥候报告薛西斯大军的前锋不到两天的行军距离——一列无尽的士兵、骑兵和辎重车队延伸到地平线尽头。军事会议已经召开。一些盟军指挥官认为隘口是死亡陷阱，希腊军队应该撤退到科林斯地峡，在那里可以建立更大的防线。另一些人坚持认为，不战而弃中希腊将瓦解脆弱的希腊联盟，让薛西斯可以逐一击破各城邦。列奥尼达必须做出决定：全力守卫温泉关，还是趁还来得及撤往南方。"
+  },
+  "situationReport": [
+    {
+      "en": "7,000 Greek hoplites are in position at the pass, including 300 Spartans of the royal guard",
+      "ja": "王室親衛隊の300人のスパルタ兵を含む7,000人のギリシア重装歩兵が隘路に配置されている",
+      "zh-CN": "7000名希腊重装步兵已在隘口就位，包括300名斯巴达王家卫队"
+    },
+    {
+      "en": "Persian advance force estimated at over 100,000 warriors, approaching from the north",
+      "ja": "ペルシアの先遣軍は10万人以上の戦士と推定され、北から接近中",
+      "zh-CN": "波斯先遣部队估计超过10万名战士，正从北方逼近"
+    },
+    {
+      "en": "The pass is narrow enough that only a few dozen men can fight abreast — terrain strongly favors the defenders",
+      "ja": "隘路は十分に狭く、横に並んで戦えるのは数十人のみ——地形は防御側に強く有利",
+      "zh-CN": "隘口足够狭窄，仅能容纳数十人并排作战——地形极有利于防守方"
+    },
+    {
+      "en": "The Greek fleet is engaged at Artemisium and depends on the land force holding the pass to protect its flank",
+      "ja": "ギリシア艦隊はアルテミシオンで交戦中で、側面を守るために陸軍が隘路を保持することに依存している",
+      "zh-CN": "希腊舰队正在阿尔忒弥西翁交战，依赖陆军扼守隘口以保护其侧翼"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide whether to commit to defending Thermopylae or fall back to a stronger position",
+      "ja": "テルモピュライの防衛に全力を注ぐか、より強固な陣地に後退するかを決める",
+      "zh-CN": "决定是全力防守温泉关还是撤退到更有利的阵地"
+    },
+    {
+      "en": "Maintain the cohesion of the Greek alliance",
+      "ja": "ギリシア同盟の結束を維持する",
+      "zh-CN": "维持希腊联盟的团结"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Retreating without a fight would likely cause several allied contingents to defect or submit to Persia",
+      "ja": "戦わずして撤退すれば、複数の同盟軍がペルシアに離反または服従する可能性が高い",
+      "zh-CN": "不战而退可能导致多支盟军叛逃或向波斯投降"
+    },
+    {
+      "en": "Spartan law and the oracle of Delphi weigh heavily — a king must not flee before the enemy",
+      "ja": "スパルタの法とデルポイの神託が重くのしかかる——王は敵の前で逃げてはならない",
+      "zh-CN": "斯巴达法律和德尔菲神谕影响深远——国王不可在敌人面前逃跑"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Hold Thermopylae. The pass negates the Persian numbers. Every day we hold is a day for the rest of Greece to prepare.",
+        "ja": "テルモピュライを守る。隘路はペルシアの数的優位を無力化する。我々が守る一日一日が、ギリシアの残りの準備の一日となる。",
+        "zh-CN": "坚守温泉关。隘口使波斯人的兵力优势化为乌有。我们坚守的每一天都是希腊其余城邦备战的一天。"
+      },
+      "historicalContext": "The historical choice — Leonidas committed to the defense of the pass.",
+      "outcomePrompt": {
+        "en": "Leonidas addresses the council with the authority of a Spartan king. The pass will be held. The allied commanders, inspired by the Spartans' resolve, agree to stay. Work begins in earnest on the Phocian wall. The Spartans drill their rotation system — fresh units cycling forward as tired ones fall back, keeping the front line at maximum fighting strength at all times. When Xerxes' advance scouts arrive and see the small Greek force calmly exercising and combing their hair, they report back in disbelief. Xerxes waits four days, expecting the Greeks to see reason and withdraw. They do not.",
+        "ja": "レオニダスはスパルタ王の権威をもって軍議で演説する。隘路は守られる。スパルタ人の決意に鼓舞された同盟軍指揮官たちは留まることに同意する。ポキス人の壁の補強が本格的に始まる。スパルタ兵は交代システムを訓練する——疲れた部隊が下がると新鮮な部隊が前に出て、前線を常に最大の戦闘力に保つ。クセルクセスの先遣斥候が到着し、小規模なギリシア軍が落ち着いて体を鍛え、髪を梳いているのを見て、信じられない思いで報告する。クセルクセスは4日間待ち、ギリシア軍が道理をわきまえて撤退することを期待する。だが彼らは撤退しない。",
+        "zh-CN": "列奥尼达以斯巴达国王的威严在军事会议上发言。隘口将被坚守。被斯巴达人的决心所鼓舞，盟军指挥官们同意留下。福基斯城墙的加固工作全面展开。斯巴达人演练轮换系统——疲惫的部队退后，生力军顶上，确保前线始终保持最大战斗力。当薛西斯的先遣侦察兵到达时，看到人数不多的希腊军队正从容地锻炼和梳理头发，难以置信地回去汇报。薛西斯等待了四天，期望希腊人会理智地撤退。然而他们没有。"
+      },
+      "nextSceneId": "thermopylae-480bc-scene-002",
+      "stateChanges": [
+        { "variable": "spartanMorale", "operation": "add", "value": 5 },
+        { "variable": "greekAlliance", "operation": "add", "value": 15 },
+        { "variable": "daysHeld", "operation": "add", "value": 4 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Fall back to the Isthmus of Corinth. We cannot sacrifice seven thousand men in a pass that may be outflanked.",
+        "ja": "コリントス地峡まで後退する。迂回されるかもしれない隘路で7,000人を犠牲にすることはできない。",
+        "zh-CN": "撤退到科林斯地峡。我们不能在可能被包抄的隘口牺牲七千人。"
+      },
+      "historicalContext": "A counterfactual — retreating without a fight would have abandoned central Greece and potentially fractured the alliance.",
+      "outcomePrompt": {
+        "en": "Leonidas gives the order to withdraw. The retreat begins in good order, but within hours the consequences unfold. The Phocians and Locrians, whose homelands lie directly in the Persian path, refuse to march south — they see the retreat as abandonment. Several Boeotian contingents peel away to negotiate with Xerxes. By the time the remaining Greeks reach the Isthmus, the alliance has lost nearly half its strength to desertion and defection. Athens, left undefended, sends frantic messages demanding to know why the pass was given up without a fight. The Greek fleet at Artemisium, its flank now exposed, is forced into a hasty withdrawal.",
+        "ja": "レオニダスは撤退を命じる。退却は秩序正しく始まるが、数時間のうちにその結果が明らかになる。故郷がペルシアの進路上にあるポキス人とロクリス人は南への行軍を拒否する——撤退を見捨てられたと見なしているのだ。いくつかのボイオティア部隊がクセルクセスとの交渉のために離脱する。残りのギリシア軍がコリントス地峡に到着する頃には、同盟は脱走と離反でほぼ半数の戦力を失っている。防衛されないまま残されたアテネは、なぜ隘路が戦わずして放棄されたのかを問う悲痛なメッセージを送る。側面が露出したアルテミシオンのギリシア艦隊は急いだ撤退を余儀なくされる。",
+        "zh-CN": "列奥尼达下令撤退。撤退井然有序地开始，但几个小时内后果就显现出来了。福基斯人和洛克里斯人的家园直接位于波斯人的进军路线上，他们拒绝南撤——他们视此次撤退为被抛弃。几支维奥蒂亚部队脱离去与薛西斯谈判。当剩余的希腊军队到达科林斯地峡时，联盟已因逃散和叛逃损失了近一半兵力。毫无防御的雅典发出急切的信息，质问为何不战而弃隘口。侧翼暴露的阿尔忒弥西翁希腊舰队被迫仓促撤退。"
+      },
+      "nextSceneId": "thermopylae-480bc-scene-002",
+      "stateChanges": [
+        { "variable": "spartanMorale", "operation": "add", "value": -20 },
+        { "variable": "greekAlliance", "operation": "add", "value": -30 },
+        { "variable": "persianAdvance", "operation": "add", "value": 40 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

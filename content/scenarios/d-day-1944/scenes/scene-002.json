@@ -1,0 +1,112 @@
+{
+  "id": "d-day-1944-scene-002",
+  "scenarioId": "d-day-1944",
+  "title": "The Beaches",
+  "date": {
+    "en": "June 6, 1944",
+    "ja": "1944年6月6日",
+    "zh-CN": "1944年6月6日"
+  },
+  "location": {
+    "en": "Supreme Headquarters Allied Expeditionary Force (SHAEF), Southwick House, England",
+    "ja": "連合国遠征軍最高司令部（SHAEF）、サウスウィック・ハウス、イングランド",
+    "zh-CN": "盟军远征军最高司令部（SHAEF），索斯威克庄园，英格兰"
+  },
+  "narrativePrompt": {
+    "en": "It is mid-morning on June 6. The largest amphibious assault in history is underway, and Eisenhower can do little but wait as reports trickle in from across the Channel. The news is a patchwork of triumph and horror. At Utah Beach, the 4th Infantry Division landed a mile south of its intended target — a lucky accident, as the defenses there were lighter. Casualties are remarkably low and the troops are pushing inland. The British at Gold and Sword and the Canadians at Juno are making steady progress, linking up with airborne forces and moving toward their objectives. But Omaha is a catastrophe. The preliminary bombardment missed the German positions. The 352nd Infantry Division, a veteran unit not expected to be there, is pouring fire into the killing ground. Landing craft are being destroyed in the surf. Bodies wash in the tide line. Entire companies have been wiped out in the first minutes. General Bradley aboard the USS Augusta is considering evacuating Omaha entirely. Now comes the critical question: where to commit the reserves from the follow-up waves?",
+    "ja": "6月6日の午前中頃。史上最大の水陸両用強襲が進行中で、アイゼンハワーは海峡の向こうから断片的に入ってくる報告を待つ以外ほとんどできることがない。知らせは勝利と惨劇の寄せ集めだ。ユタビーチでは第4歩兵師団が予定目標の1マイル南に上陸した——幸運な事故だった。そこの防御は手薄だったのだ。死傷者は驚くほど少なく、部隊は内陸に向かって進んでいる。ゴールドとソードのイギリス軍、ジュノーのカナダ軍は着実に前進し、空挺部隊と合流して目標に向かっている。しかしオマハは大惨事だ。事前砲撃はドイツ軍陣地を外した。そこにいるはずのなかった精鋭部隊、第352歩兵師団が殺戮地帯に猛烈な砲火を浴びせている。上陸用舟艇が波の中で破壊されている。遺体が潮の線に打ち上げられる。中隊全体が最初の数分で壊滅した。USSオーガスタ艦上のブラッドレー将軍はオマハからの完全撤退を検討している。今、決定的な問題が浮上する：後続波の予備をどこに投入するか？",
+    "zh-CN": "6月6日上午。史上最大规模的两栖突击正在进行，艾森豪威尔几乎无能为力，只能等待海峡对面零星传来的报告。消息是胜利与惨剧的混合体。在犹他海滩，第4步兵师在预定目标以南一英里处登陆——这是一个幸运的意外，那里的防御更薄弱。伤亡出奇地低，部队正向内陆推进。黄金和宝剑海滩的英军以及朱诺海滩的加拿大军正在稳步推进，与空降部队会合并向目标前进。但奥马哈是一场灾难。预先轰炸未能命中德军阵地。第352步兵师——一支不应出现在那里的精锐部队——正向杀戮地带倾泻火力。登陆艇在浪中被摧毁。尸体随潮水漂上海岸线。整个连队在最初几分钟内被消灭。在奥古斯塔号军舰上的布莱德雷将军正在考虑完全从奥马哈撤退。现在关键问题来了：将后续波次的预备队投入到哪里？"
+  },
+  "situationReport": [
+    {
+      "en": "Utah Beach: 4th Infantry Division ashore with light casualties, advancing inland ahead of schedule",
+      "ja": "ユタビーチ：第4歩兵師団が軽微な死傷者で上陸、予定より早く内陸に進撃中",
+      "zh-CN": "犹他海滩：第4步兵师以轻微伤亡登陆，提前向内陆推进"
+    },
+    {
+      "en": "Omaha Beach: Catastrophic losses — the 1st and 29th Divisions are pinned on the beach under withering fire from the German 352nd Division",
+      "ja": "オマハビーチ：壊滅的損害——第1および第29師団がドイツ第352師団の猛烈な砲火の下でビーチに釘付けにされている",
+      "zh-CN": "奥马哈海滩：灾难性损失——第1和第29师在德军第352师的猛烈火力下被压制在海滩上"
+    },
+    {
+      "en": "Gold, Juno, and Sword Beaches: British and Canadian forces making steady progress, linking with airborne troops",
+      "ja": "ゴールド、ジュノー、ソードビーチ：イギリスおよびカナダ軍が着実に前進、空挺部隊と合流中",
+      "zh-CN": "黄金、朱诺和宝剑海滩：英军和加拿大军稳步推进，正与空降部队会合"
+    },
+    {
+      "en": "German command remains confused — Rommel is still in Germany and Hitler has not released the panzer reserves",
+      "ja": "ドイツ軍司令部は混乱が続いている——ロンメルはまだドイツにおり、ヒトラーは装甲予備軍を投入していない",
+      "zh-CN": "德军指挥部仍在混乱中——隆美尔仍在德国，希特勒尚未释放装甲预备队"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Determine the best use of reserve forces from the follow-up waves",
+      "ja": "後続波の予備部隊の最善の活用方法を決定する",
+      "zh-CN": "确定后续波次预备部队的最佳使用方式"
+    },
+    {
+      "en": "Ensure all five beachheads are secured by nightfall",
+      "ja": "日没までに5つの橋頭堡すべてを確保する",
+      "zh-CN": "确保在日落前所有五个滩头阵地得到巩固"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Reserves are limited — committing them to one sector means they cannot be used elsewhere for hours",
+      "ja": "予備は限られている——一つの地区に投入すれば、数時間は他で使えない",
+      "zh-CN": "预备队有限——投入一个地区意味着数小时内无法用于其他地方"
+    },
+    {
+      "en": "Communications are fragmented — reports from the beaches are delayed and often contradictory",
+      "ja": "通信は途切れがち——ビーチからの報告は遅延し、しばしば矛盾している",
+      "zh-CN": "通信断断续续——来自海滩的报告延迟且经常相互矛盾"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Reinforce Omaha. Redirect reserves from the follow-up waves to support the struggling beach — we cannot abandon those men.",
+        "ja": "オマハを増強する。後続波の予備を苦戦中のビーチの支援に振り向ける——あの兵士たちを見捨てるわけにはいかない。",
+        "zh-CN": "增援奥马哈。将后续波次的预备队调往苦战中的海滩——我们不能抛弃那些人。"
+      },
+      "historicalContext": "Roughly the historical approach — reserves and naval fire were concentrated to save Omaha, which was eventually secured at great cost.",
+      "outcomePrompt": {
+        "en": "You order every available destroyer to close on Omaha Beach and fire point-blank at the German positions on the bluffs, even at risk of running aground. Reserve infantry and combat engineers from the follow-up waves are redirected to Omaha. The destroyers, some scraping their keels on the sandy bottom, pour devastating fire into the German strongpoints at ranges as close as a thousand yards. Slowly, painfully, small groups of Rangers and infantrymen begin to find paths up the bluffs. Colonel Canham, bleeding from a wound in his wrist, rallies men of the 29th Division with raw fury. By afternoon, the first tenuous footholds are established atop the bluffs. The cost is staggering — over two thousand casualties at Omaha alone — but the beach will hold. Meanwhile, Utah and the British beaches continue to advance, though more slowly without the extra reserves.",
+        "ja": "あなたは利用可能なすべての駆逐艦にオマハビーチに接近し、座礁のリスクを冒してでも崖上のドイツ軍陣地に至近距離から砲撃するよう命じる。後続波の予備歩兵と戦闘工兵がオマハに転用される。駆逐艦は、砂底に竜骨をこすりながら、わずか千ヤードの距離でドイツ軍の拠点に壊滅的な砲火を浴びせる。ゆっくりと、苦しみながら、レンジャーと歩兵の小グループが崖を登る道を見つけ始める。手首の傷から血を流しながら、キャナム大佐が激しい怒りで第29師団の兵士たちを奮い立たせる。午後までに、崖上に最初の不安定な足がかりが確立される。代償は凄まじい——オマハだけで2千人以上の死傷者——しかしビーチは持ちこたえる。一方、ユタとイギリス軍のビーチは追加の予備なしでより遅いペースながら前進を続けている。",
+        "zh-CN": "您命令所有可用的驱逐舰逼近奥马哈海滩，冒着搁浅的风险对悬崖上的德军阵地进行零距离射击。后续波次的预备步兵和战斗工兵被调往奥马哈。驱逐舰们有的龙骨都擦到了沙底，在仅一千码的距离上向德军据点倾泻毁灭性的火力。缓慢而痛苦地，小股游骑兵和步兵开始找到攀上悬崖的路径。坎纳姆上校手腕上的伤口还在流血，却以狂怒激励着第29师的士兵们。到下午，悬崖顶部建立起了最初的脆弱立足点。代价是惊人的——仅奥马哈就超过两千人伤亡——但海滩守住了。与此同时，犹他和英军海滩在没有额外预备队的情况下继续推进，不过速度较慢。"
+      },
+      "nextSceneId": "d-day-1944-scene-003",
+      "stateChanges": [
+        { "variable": "alliedMorale", "operation": "add", "value": 5 },
+        { "variable": "germanReadiness", "operation": "add", "value": 5 },
+        { "variable": "deceptionIntact", "operation": "add", "value": 0 },
+        { "variable": "weatherWindow", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Exploit success. Redirect reserves to Utah and the British beaches where breakthroughs are happening — accept heavier losses at Omaha.",
+        "ja": "成功を活用する。突破が起きているユタとイギリス軍のビーチに予備を振り向ける——オマハでのより大きな損害を受け入れる。",
+        "zh-CN": "利用成功。将预备队调往正在取得突破的犹他和英军海滩——接受奥马哈更大的损失。"
+      },
+      "historicalContext": "A counterfactual — Bradley considered abandoning Omaha, but reserves were ultimately used to reinforce it.",
+      "outcomePrompt": {
+        "en": "You make the coldest calculation a commander can face. The reserves go to Utah and the British beaches, where momentum can be exploited to push deeper inland before the Germans can react. At Utah, the reinforced 4th Division pushes past Sainte-Mère-Église and begins cutting the road to Cherbourg. At Gold and Sword, British armor breaks through to the outskirts of Bayeux hours ahead of schedule. But at Omaha, the men on the beach are left to fight with what they have. The destroyers still provide fire support, and small groups of desperate men still claw their way up the bluffs, but without reserves the foothold remains dangerously thin well into the afternoon. Hundreds more die who might have been saved. By evening, Omaha is held — barely — but the position is fragile and the human cost has been devastating. The troops who survived will not forget that they were left to fend for themselves.",
+        "ja": "あなたは司令官が直面しうる最も冷徹な判断を下す。予備はユタとイギリス軍のビーチに向けられ、ドイツ軍が反応する前に勢いを活かしてより深く内陸に押し込む。ユタでは増強された第4師団がサント＝メール＝エグリーズを越えてシェルブールへの道路を遮断し始める。ゴールドとソードでは、イギリスの装甲部隊が予定より数時間早くバイユーの郊外に突入する。しかしオマハでは、ビーチの兵士たちは手持ちの戦力で戦い続けるしかない。駆逐艦は依然として火力支援を提供し、必死の兵士たちの小グループは崖をよじ登り続けるが、予備なしでは足がかりは午後遅くまで危険なほど薄いままだ。救えたかもしれない数百人がさらに命を落とす。夕方までにオマハは確保される——かろうじて——しかし態勢は脆弱で、人的犠牲は壊滅的だ。生き延びた兵士たちは、自分たちが見捨てられたことを決して忘れないだろう。",
+        "zh-CN": "您做出了指挥官可能面临的最冷酷的判断。预备队投向犹他和英军海滩，在德军做出反应前利用势头向内陆更深处推进。在犹他，得到增援的第4师推过圣梅尔埃格利斯，开始切断通往瑟堡的公路。在黄金和宝剑海滩，英军装甲部队比预定时间提前数小时突破至巴约郊外。但在奥马哈，海滩上的士兵们只能用手头的力量继续战斗。驱逐舰仍在提供火力支援，小群绝望的士兵仍在奋力攀上悬崖，但没有预备队，立足点在整个下午都脆弱得危险。数百本可获救的人又牺牲了。到傍晚，奥马哈勉强守住——但阵地脆弱，人员代价是毁灭性的。幸存的部队永远不会忘记他们被遗弃自生自灭。"
+      },
+      "nextSceneId": "d-day-1944-scene-003",
+      "stateChanges": [
+        { "variable": "alliedMorale", "operation": "add", "value": -5 },
+        { "variable": "germanReadiness", "operation": "add", "value": -5 },
+        { "variable": "deceptionIntact", "operation": "add", "value": 5 },
+        { "variable": "weatherWindow", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "roleFilter": ["eisenhower"],
+  "isTerminal": false
+}

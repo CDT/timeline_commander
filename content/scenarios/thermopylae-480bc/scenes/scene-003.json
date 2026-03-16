@@ -1,0 +1,113 @@
+{
+  "id": "thermopylae-480bc-scene-003",
+  "scenarioId": "thermopylae-480bc",
+  "title": {
+    "en": "The Final Stand",
+    "ja": "最後の抵抗",
+    "zh-CN": "最后的抵抗"
+  },
+  "date": {
+    "en": "August 480 BC (Day 3 of Battle)",
+    "ja": "紀元前480年8月（戦闘3日目）",
+    "zh-CN": "公元前480年8月（战斗第三天）"
+  },
+  "location": {
+    "en": "Thermopylae Pass, the Phocian Wall",
+    "ja": "テルモピュライの隘路、ポキス人の壁",
+    "zh-CN": "温泉关隘口，福基斯城墙"
+  },
+  "narrativePrompt": {
+    "en": "The betrayal is complete. Ephialtes has led the Persian Immortals over the mountain path, and by midmorning they will emerge behind the Greek position. The pass is about to become a trap. Leonidas calls a final council in the grey light before dawn. The facts are stark: if the entire army stays, it will be surrounded and destroyed — seven thousand men lost for nothing. If the army retreats now, most can escape to fight another day. But someone must stay to cover the withdrawal, to hold the Persians in the pass long enough for the others to reach safety. Leonidas has already made his decision. He will stay with his three hundred Spartans. The Thespians, led by Demophilus, refuse to leave and insist on remaining. The question now is what kind of final stand to make — a disciplined defense at the wall, buying maximum time, or an all-out offensive charge into the Persian lines, seeking maximum shock and a death worthy of legend.",
+    "ja": "裏切りは完了した。エピアルテスがペルシアのイモータルを山道越しに導き、午前中にはギリシア軍の背後に現れる。隘路は罠になろうとしている。レオニダスは夜明け前の灰色の光の中で最後の軍議を召集する。事実は厳しい：全軍が留まれば、包囲され壊滅する——7,000人の命が無駄になる。今退却すれば、大部分は逃れて再び戦うことができる。しかし撤退を援護するために誰かが残らなければならない——他の者が安全に達するまで十分な時間、ペルシア軍を隘路に釘付けにするために。レオニダスはすでに決断を下している。彼は300人のスパルタ兵と共に残る。デモフィロス率いるテスピアイ人は去ることを拒み、残ることを主張する。今の問題は、どのような最後の抵抗をするか——壁で規律正しい防衛を行い最大限の時間を稼ぐか、ペルシアの戦列に全力で攻撃突撃を行い、最大の衝撃と伝説にふさわしい死を求めるかである。",
+    "zh-CN": "背叛已成既定事实。埃菲阿尔特斯已带领波斯不死军翻越山道，到上午他们就会出现在希腊军队身后。隘口即将变成陷阱。列奥尼达在黎明前的灰色晨光中召开最后的军事会议。形势严峻：如果全军留守，将被包围歼灭——七千人白白牺牲。如果现在撤退，大部分人可以逃出去以图再战。但必须有人留下掩护撤退，在隘口中拖住波斯人足够长的时间，让其他人到达安全之处。列奥尼达已经做出了决定。他将带着三百名斯巴达人留下。由德摩菲鲁斯率领的特斯皮亚人拒绝离开，坚持留下。现在的问题是进行怎样的最后抵抗——在城墙处进行有纪律的防御，争取最多的时间；还是向波斯阵线发起全力进攻冲锋，追求最大的震撼效果和配得上传奇的死亡。"
+  },
+  "situationReport": [
+    {
+      "en": "The Persians are flanking the pass via the Anopaea path — encirclement is imminent",
+      "ja": "ペルシア軍がアノパイアの道経由で隘路を迂回している——包囲が迫っている",
+      "zh-CN": "波斯人正通过阿诺帕亚小道包抄隘口——包围迫在眉睫"
+    },
+    {
+      "en": "Leonidas has ordered the main Greek army to retreat south; only volunteers remain",
+      "ja": "レオニダスはギリシア軍主力に南への退却を命じた。残っているのは志願者のみ",
+      "zh-CN": "列奥尼达已命令希腊主力军向南撤退；只有志愿者留下"
+    },
+    {
+      "en": "300 Spartans, 700 Thespians, and 400 Thebans remain at the pass",
+      "ja": "300人のスパルタ兵、700人のテスピアイ兵、400人のテーバイ兵が隘路に残っている",
+      "zh-CN": "300名斯巴达人、700名特斯皮亚人和400名底比斯人留守隘口"
+    },
+    {
+      "en": "The retreating Greek army needs at least half a day to reach safety",
+      "ja": "退却中のギリシア軍が安全に到達するには少なくとも半日が必要",
+      "zh-CN": "撤退中的希腊军队至少需要半天才能到达安全地带"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Cover the retreat of the main Greek army",
+      "ja": "ギリシア軍主力の退却を援護する",
+      "zh-CN": "掩护希腊主力军的撤退"
+    },
+    {
+      "en": "Make a stand that will be remembered and inspire future Greek resistance",
+      "ja": "記憶に残り、将来のギリシアの抵抗を鼓舞する抵抗を行う",
+      "zh-CN": "进行一场将被铭记并激励未来希腊抵抗运动的战斗"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "There is no possibility of survival — the only question is how to die and what legacy to leave",
+      "ja": "生存の可能性はない——唯一の問題はどのように死に、どのような遺産を残すかである",
+      "zh-CN": "没有生还的可能——唯一的问题是如何赴死以及留下怎样的遗产"
+    },
+    {
+      "en": "The Theban contingent may attempt to surrender; this could compromise the rearguard action",
+      "ja": "テーバイの部隊が降伏を試みる可能性がある。これが殿戦を危うくする可能性がある",
+      "zh-CN": "底比斯部队可能试图投降；这可能危及殿后行动"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Hold the wall to the last man. Make them pay for every step. Buy every possible hour for the retreating army.",
+        "ja": "最後の一人まで壁を守る。一歩ごとに代償を払わせる。退却する軍のためにあらゆる時間を稼ぐ。",
+        "zh-CN": "坚守城墙直到最后一人。让他们为每一步付出代价。为撤退的军队争取每一个小时。"
+      },
+      "historicalContext": "Partially historical — the Greeks initially defended the wall before eventually pushing forward in the final phase.",
+      "outcomePrompt": {
+        "en": "Leonidas orders his remaining forces to defend the rebuilt Phocian wall with absolute discipline. The Spartans form their phalanx, shields locked, spears bristling. When the Persians attack from the front at dawn, they meet the same impenetrable wall of bronze and iron that has broken every assault for two days. For hours the rearguard holds, the narrow pass turning Persian numbers into a liability as bodies pile up. When the Immortals finally arrive from behind, the Greeks pivot and fight in both directions, back to back, a shrinking circle of defiance. Leonidas falls to a Persian javelin. His men fight over his body until their spears shatter and they draw swords. The last Spartans and Thespians die on a small hillock, buried under a rain of Persian arrows. The retreating Greek army reaches safety. The stand at Thermopylae passes into eternal legend.",
+        "ja": "レオニダスは残りの兵力に、再建されたポキス人の壁を絶対的な規律で守るよう命じる。スパルタ兵はファランクスを組み、盾を固め、槍を突き出す。夜明けにペルシア軍が正面から攻撃すると、2日間あらゆる攻撃を砕いてきたのと同じ青銅と鉄の不可侵の壁に遭遇する。数時間にわたって殿軍は持ちこたえ、狭い隘路がペルシアの数を不利に変え、死体が積み上がる。イモータルがついに背後から到着すると、ギリシア軍は向きを変え、背中合わせで両方向に戦う——縮小する反抗の輪。レオニダスはペルシアの投げ槍に倒れる。兵士たちは槍が砕けるまで彼の体をめぐって戦い、剣を抜く。最後のスパルタ兵とテスピアイ兵は小さな丘の上で、ペルシアの矢の雨の下で死ぬ。退却したギリシア軍は安全に到達する。テルモピュライでの抵抗は永遠の伝説となる。",
+        "zh-CN": "列奥尼达命令残余部队以绝对的纪律坚守重建的福基斯城墙。斯巴达人组成方阵，盾牌紧锁，长矛如林。当波斯人在黎明从正面进攻时，他们遇到的是两天来击碎每一次进攻的同一面铜铁之墙。殿后部队坚守了数小时，狭窄的隘口使波斯人的兵力优势变成负担，尸体堆积如山。当不死军终于从背后到达时，希腊人转身两面作战，背靠背，形成一个不断缩小的抵抗之环。列奥尼达被一支波斯标枪击倒。他的士兵们在他的遗体上方战斗，直到长矛断裂，拔出短剑。最后的斯巴达人和特斯皮亚人在一个小丘上倒下，被波斯箭雨淹没。撤退的希腊军队安全抵达目的地。温泉关之战成为永恒的传说。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "spartanMorale", "operation": "set", "value": 100 },
+        { "variable": "greekAlliance", "operation": "add", "value": 30 },
+        { "variable": "daysHeld", "operation": "add", "value": 1 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Charge into the Persian camp at dawn. Attack Xerxes himself. Die on our feet, not behind a wall.",
+        "ja": "夜明けにペルシアの陣営に突撃する。クセルクセス自身を攻撃する。壁の後ろではなく、立ったまま死ぬ。",
+        "zh-CN": "黎明时向波斯营地发起冲锋。直取薛西斯本人。站着死，不要躲在墙后面。"
+      },
+      "historicalContext": "Partially historical — Herodotus records that in the final phase, the Greeks charged forward into the wider part of the pass, fighting with reckless fury.",
+      "outcomePrompt": {
+        "en": "At first light, Leonidas leads his three hundred Spartans and the Thespian volunteers in a thunderous charge out of the pass and into the open ground where the Persian army is massed. The Persians are stunned — they had expected a cowering defense, not an attack. The Spartans smash into the Persian front ranks like a bronze fist, driving deep into the enemy formation. In the chaos, two of Xerxes' brothers fall. Leonidas fights his way toward the Persian king's position before he is cut down. The survivors form a circle on a hillock and fight until the Persians, unable to break them in close combat, simply stand back and pour arrows into them until the last man falls. The ferocity of the charge shocks the entire Persian army and sends a message across Greece: the Persians may win battles, but they will never break Greek courage. The retreating army escapes. Athens evacuates. The legend of Thermopylae is born.",
+        "ja": "最初の光とともに、レオニダスは300人のスパルタ兵とテスピアイの志願兵を率いて隘路を飛び出し、ペルシア軍が集結している開けた地に雷鳴のような突撃を行う。ペルシア軍は呆然とする——彼らは萎縮した防衛を予期していたが、攻撃ではなかった。スパルタ兵は青銅の拳のようにペルシアの前列に突入し、敵の陣形深くに突き進む。混乱の中、クセルクセスの兄弟二人が倒れる。レオニダスはペルシア王の陣地に向かって戦い進むが、そこで倒れる。生存者は丘の上に円陣を組み、ペルシア軍が白兵戦で彼らを破れず、ただ下がって矢を浴びせ、最後の一人が倒れるまで戦う。突撃の凶暴さはペルシア軍全体に衝撃を与え、ギリシア全土にメッセージを送る：ペルシアは戦いに勝てるかもしれないが、ギリシアの勇気を折ることは決してできない。退却中の軍は脱出する。アテネは避難する。テルモピュライの伝説が生まれる。",
+        "zh-CN": "曙光初现，列奥尼达率领三百名斯巴达人和特斯皮亚志愿者如雷鸣般冲出隘口，杀入波斯大军集结的开阔地带。波斯人目瞪口呆——他们料想的是畏缩的防御，而非主动进攻。斯巴达人如一记青铜重拳砸入波斯前排，深深楔入敌阵。混战中，薛西斯的两个兄弟阵亡。列奥尼达一路杀向波斯王的位置，最终倒下。幸存者在一个小丘上结成圆阵，战斗到波斯人无法在近战中击破他们，只得退后万箭齐发，直到最后一人倒下。冲锋的凶猛震撼了整个波斯大军，向全希腊传递了一个信息：波斯人或许能赢得战斗，但永远无法摧毁希腊人的勇气。撤退的军队安全脱险。雅典开始疏散。温泉关的传说就此诞生。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "spartanMorale", "operation": "set", "value": 100 },
+        { "variable": "greekAlliance", "operation": "add", "value": 40 },
+        { "variable": "persianAdvance", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

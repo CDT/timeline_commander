@@ -1,0 +1,111 @@
+{
+  "id": "french-revolution-1789-scene-003",
+  "scenarioId": "french-revolution-1789",
+  "title": "The Declaration of the Rights of Man",
+  "date": {
+    "en": "August 26, 1789",
+    "ja": "1789年8月26日",
+    "zh-CN": "1789年8月26日"
+  },
+  "location": {
+    "en": "National Assembly, Versailles",
+    "ja": "国民議会、ヴェルサイユ",
+    "zh-CN": "国民议会，凡尔赛"
+  },
+  "narrativePrompt": {
+    "en": "The revolution has triumphed in the streets. The Bastille has fallen, the King has acknowledged the new order, and on August 4 the assembly abolished feudal privileges in a single extraordinary night session. Now comes the hardest work: writing the philosophical foundation of the new France. A committee has drafted the Declaration of the Rights of Man and of the Citizen, inspired by the American Declaration of Independence, the writings of Rousseau and Montesquieu, and the lived suffering of the French people. The assembly must vote on the final text. Two critical questions divide the delegates: should the declaration include an explicit guarantee of religious freedom, and should it affirm that sovereignty resides in the nation rather than the king? Both provisions will provoke fierce opposition from the clergy and the crown. As Robespierre, you must decide how far to push.",
+    "ja": "革命は街頭で勝利を収めた。バスティーユは陥落し、国王は新秩序を承認し、8月4日には議会が一夜の異例の会議で封建特権を廃止した。今、最も困難な仕事が来る：新しいフランスの哲学的基礎を書くことだ。委員会がアメリカ独立宣言、ルソーとモンテスキューの著作、そしてフランス国民が味わった苦難に触発された人権宣言の草案を作成した。議会は最終文案について投票しなければならない。二つの重要な問題が代議士たちを分裂させている：宣言に信教の自由の明確な保障を含めるべきか、そして主権が国王ではなく国民にあることを確認すべきか。どちらの条項も聖職者と王権からの激しい反対を引き起こす。ロベスピエールとして、あなたはどこまで押し進めるか決めなければならない。",
+    "zh-CN": "革命已在街头取得胜利。巴士底狱已经陷落，国王承认了新秩序，8月4日议会在一次非凡的夜间会议上废除了封建特权。现在最艰难的工作来了：为新法国撰写哲学基础。一个委员会起草了《人权和公民权利宣言》，灵感来自美国独立宣言、卢梭和孟德斯鸠的著作，以及法国人民所遭受的苦难。议会必须就最终文本进行表决。两个关键问题使代表们产生分歧：宣言是否应包含宗教自由的明确保障，以及是否应确认主权属于国民而非国王。这两项条款都将引起教士和王权的激烈反对。作为罗伯斯庇尔，您必须决定推进到什么程度。"
+  },
+  "situationReport": [
+    {
+      "en": "The abolition of feudal privileges on August 4 has energized the assembly but alarmed the aristocracy",
+      "ja": "8月4日の封建特権の廃止は議会を活気づけたが、貴族階級を警戒させた",
+      "zh-CN": "8月4日废除封建特权使议会充满活力，但也惊动了贵族阶层"
+    },
+    {
+      "en": "The draft Declaration includes seventeen articles affirming liberty, property, security, and resistance to oppression",
+      "ja": "宣言の草案には自由、財産、安全、そして圧制への抵抗を確認する17条が含まれている",
+      "zh-CN": "宣言草案包含十七条确认自由、财产、安全和反抗压迫权利的条款"
+    },
+    {
+      "en": "Clergy delegates are threatening to walk out if religious freedom is explicitly guaranteed",
+      "ja": "聖職者代議士は信教の自由が明示的に保障されれば退場すると脅している",
+      "zh-CN": "教士代表威胁说如果明确保障宗教自由就将退场"
+    },
+    {
+      "en": "The King has not yet indicated whether he will ratify the Declaration",
+      "ja": "国王はまだ宣言を批准するかどうか示していない",
+      "zh-CN": "国王尚未表态是否会批准该宣言"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure the strongest possible declaration of rights for the French people",
+      "ja": "フランス国民のために可能な限り強力な権利宣言を確保する",
+      "zh-CN": "为法国人民争取尽可能强有力的权利宣言"
+    },
+    {
+      "en": "Maintain enough assembly unity to pass the declaration",
+      "ja": "宣言を可決するのに十分な議会の団結を維持する",
+      "zh-CN": "维持足够的议会团结以通过宣言"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Too radical a declaration may provoke the King into opposing it, triggering a new crisis",
+      "ja": "あまりに急進的な宣言は国王を反対に駆り立て、新たな危機を引き起こす可能性がある",
+      "zh-CN": "过于激进的宣言可能促使国王反对，引发新的危机"
+    },
+    {
+      "en": "Compromising on key principles could make the declaration meaningless and betray the people's trust",
+      "ja": "主要原則で妥協すれば、宣言は無意味となり、民衆の信頼を裏切ることになる",
+      "zh-CN": "在关键原则上妥协可能使宣言变得毫无意义，辜负人民的信任"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Fight for the full declaration without compromise. Insist on explicit religious freedom, popular sovereignty, and the principle that law is the expression of the general will. Accept the risk of clerical opposition and royal displeasure.",
+        "ja": "妥協なしに完全な宣言のために戦う。信教の自由、人民主権、そして法は一般意志の表現であるという原則を明確に主張する。聖職者の反対と国王の不満のリスクを受け入れる。",
+        "zh-CN": "毫不妥协地为完整的宣言而战。坚持明确的宗教自由、人民主权以及法律是公共意志之表达的原则。接受教士反对和国王不满的风险。"
+      },
+      "historicalContext": "The historical outcome — the Declaration was adopted on August 26, 1789 with strong language on sovereignty and rights, though the King delayed ratification until October.",
+      "outcomePrompt": {
+        "en": "You speak with the fire that will one day make you the most feared man in France. You invoke the starving mothers of Paris, the injustices of the lettres de cachet, the promise of a nation governed by reason rather than birth. The clergy threatens to walk out; you call their bluff, and most remain. The Declaration of the Rights of Man and of the Citizen is adopted on August 26, 1789, with its full radical vision intact. Article 3 declares that sovereignty resides in the nation. Article 10 guarantees freedom of religious opinion. The King hesitates to ratify, but the momentum of the revolution is unstoppable. You have helped write one of the most influential documents in human history. But ahead lie darker chapters — and the principles you championed today will soon be tested by the Terror.",
+        "ja": "あなたはいつかフランスで最も恐れられる人物にするであろう炎のように語る。パリの飢えた母親たち、封印状の不正、出生ではなく理性によって統治される国家の約束を訴える。聖職者は退場すると脅すが、あなたが揺さぶりをかけると、ほとんどが残る。人権宣言は1789年8月26日に、その完全な急進的ビジョンを保ったまま採択される。第3条は主権が国民にあることを宣言。第10条は信教の自由を保障。国王は批准をためらうが、革命の勢いは止められない。あなたは人類史上最も影響力のある文書の一つを書く手助けをした。しかし、この先にはより暗い章が待っている——そして今日あなたが擁護した原則は、やがて恐怖政治によって試されることになる。",
+        "zh-CN": "您以日后将使您成为法国最令人畏惧之人的激情发表演说。您援引巴黎饥饿的母亲们、密札的不公、一个由理性而非出身统治的国家的承诺。教士威胁退场；您叫了他们的虚张声势，大多数人留下了。《人权和公民权利宣言》于1789年8月26日通过，其完整的激进愿景得以保留。第三条宣布主权属于国民。第十条保障宗教信仰自由。国王犹豫是否批准，但革命的势头已不可阻挡。您参与撰写了人类历史上最具影响力的文件之一。但前方还有更黑暗的篇章——您今天捍卫的原则很快将在恐怖统治中受到考验。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "popularSupport", "operation": "add", "value": 20 },
+        { "variable": "assemblyInfluence", "operation": "add", "value": 25 },
+        { "variable": "royalThreat", "operation": "add", "value": 15 },
+        { "variable": "factionalUnity", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Seek a pragmatic compromise. Support a strong declaration but soften the language on sovereignty to leave the King a role, and allow the clergy a face-saving ambiguity on religious freedom. Secure passage with the broadest possible coalition.",
+        "ja": "実際的な妥協を模索する。強い宣言を支持しつつも、主権に関する文言を和らげて国王に役割を残し、信教の自由について聖職者に体面を保てる曖昧さを認める。可能な限り広い連合で可決を確保する。",
+        "zh-CN": "寻求务实的妥协。支持一份有力的宣言，但软化关于主权的措辞以给国王留有角色，并在宗教自由问题上给教士留有体面的模糊空间。以尽可能广泛的联盟确保通过。"
+      },
+      "historicalContext": "A counterfactual — a more moderate declaration might have eased the transition to constitutional monarchy but weakened the philosophical legacy.",
+      "outcomePrompt": {
+        "en": "You argue for strategic compromise. The final text is strong but deliberately ambiguous on the question of whether sovereignty resides entirely in the nation or is shared with the crown. Religious freedom is affirmed in principle but hedged with qualifications that satisfy most of the clergy. The Declaration passes with an overwhelming majority, and the King ratifies it promptly — a rare moment of consensus. Mirabeau congratulates you on your political skill. The document is celebrated, but radical delegates privately accuse you of betraying the revolution's ideals for the sake of expediency. History will judge whether the compromised declaration can sustain the weight of the transformation it was meant to anchor.",
+        "ja": "あなたは戦略的妥協を主張する。最終文案は力強いが、主権が完全に国民にあるのか王権と共有されるのかという問題について意図的に曖昧にしている。信教の自由は原則として確認されるが、聖職者の大半を満足させる条件で制限されている。宣言は圧倒的多数で可決され、国王は速やかに批准する——稀有な合意の瞬間である。ミラボーがあなたの政治的手腕を称える。文書は歓迎されるが、急進派の代議士たちは内々に、あなたが便宜のために革命の理想を裏切ったと非難する。歴史は、妥協された宣言がそれが支えるべきであった変革の重みに耐えられるかどうかを判断するだろう。",
+        "zh-CN": "您主张战略性妥协。最终文本有力但在主权是完全属于国民还是与王权共享的问题上故意含糊。宗教自由在原则上得到确认，但附带了满足大多数教士的限定条件。宣言以压倒性多数通过，国王迅速批准——一个罕见的共识时刻。米拉波称赞您的政治技巧。文件受到欢迎，但激进代表私下指责您为了权宜之计出卖了革命理想。历史将评判这份妥协的宣言能否承受它本应锚定的变革之重。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "popularSupport", "operation": "add", "value": 5 },
+        { "variable": "assemblyInfluence", "operation": "add", "value": 15 },
+        { "variable": "royalThreat", "operation": "add", "value": -10 },
+        { "variable": "factionalUnity", "operation": "add", "value": 20 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

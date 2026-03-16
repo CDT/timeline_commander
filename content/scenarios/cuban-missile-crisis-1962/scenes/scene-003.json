@@ -1,0 +1,114 @@
+{
+  "id": "cuban-missile-crisis-1962-scene-003",
+  "scenarioId": "cuban-missile-crisis-1962",
+  "title": "The Secret Deal",
+  "date": {
+    "en": "October 27, 1962",
+    "ja": "1962年10月27日",
+    "zh-CN": "1962年10月27日"
+  },
+  "location": {
+    "en": "The White House, Washington D.C.",
+    "ja": "ホワイトハウス、ワシントンD.C.",
+    "zh-CN": "白宫，华盛顿特区"
+  },
+  "narrativePrompt": {
+    "en": "Black Saturday. The most dangerous day in human history. You sit at the center of a maelstrom. Yesterday evening, a long, emotional letter arrived from Khrushchev — almost pleading in tone — offering to withdraw the missiles if the United States pledges not to invade Cuba. Hope flickered in the ExComm room. But this morning, a second letter arrived, broadcast publicly on Radio Moscow: harder, more formal, demanding that the United States also remove its Jupiter missiles from Turkey. Before you can digest the contradictory messages, the worst news yet: a U-2 reconnaissance plane has been shot down over Cuba. Major Rudolf Anderson is dead. The Joint Chiefs are in the room demanding immediate retaliation. General LeMay says the shooting down of the U-2 requires a military response — anything less will be seen as weakness. Bobby takes you aside. He has an idea: ignore the second letter entirely. Respond only to the first, conciliatory letter, and accept its terms. Separately, Bobby will meet Soviet Ambassador Dobrynin tonight and privately assure him that the Jupiter missiles in Turkey — already obsolete — will be removed within six months, but this must never be made public. It is an elegant solution, if Khrushchev accepts it. The alternative is an ultimatum that may lead to invasion, and invasion may lead to nuclear war.",
+    "ja": "「黒い土曜日」。人類史上最も危険な日。あなたは嵐の中心に座っています。昨晩、フルシチョフからほとんど嘆願するような長い感情的な手紙が届きました——アメリカがキューバに侵攻しないと約束すればミサイルを撤去すると提案しています。エクスコムの部屋で希望がちらつきました。しかし今朝、2通目の手紙が届きました。モスクワ放送で公に放送されたもので、より厳しく公式的で、アメリカがトルコのジュピターミサイルも撤去するよう要求しています。矛盾するメッセージを消化する前に、最悪のニュースが届きます：キューバ上空でU-2偵察機が撃墜されました。ルドルフ・アンダーソン少佐が死亡しました。統合参謀本部が即座の報復を要求して部屋にいます。ルメイ将軍はU-2の撃墜には軍事的対応が必要だと言います——それ以下は弱さと見なされると。ボビーがあなたを脇に連れ出します。彼にはアイデアがあります：2通目の手紙を完全に無視する。最初の融和的な手紙にのみ返答し、その条件を受け入れる。別途、ボビーが今夜ソ連大使ドブルイニンと会い、トルコのジュピターミサイル——すでに時代遅れ——が6ヶ月以内に撤去されることを非公式に保証する。ただしこれは決して公にしてはならない。フルシチョフが受け入れれば、エレガントな解決策です。代替案は最後通牒であり、それは侵攻につながり、侵攻は核戦争につながるかもしれません。",
+    "zh-CN": "「黑色星期六」。人类历史上最危险的一天。您坐在风暴的中心。昨晚，赫鲁晓夫寄来了一封冗长而激动的信——语气近乎恳求——提出如果美国保证不入侵古巴就撤走导弹。执行委员会的房间里燃起了一丝希望。但今天早上，第二封信到了，通过莫斯科广播电台公开播出：更强硬、更正式，要求美国同时撤走部署在土耳其的朱庇特导弹。在您还未消化这些矛盾信息之前，最坏的消息传来：一架U-2侦察机在古巴上空被击落。鲁道夫·安德森少校阵亡。参谋长联席会议的将军们在房间里要求立即报复。李梅将军说U-2被击落必须得到军事回应——任何不够强硬的反应都会被视为软弱。鲍比把您拉到一边。他有个主意：完全忽略第二封信。只回应第一封示好的信，接受其条件。另外，鲍比今晚将会见苏联大使多勃雷宁，私下保证土耳其的朱庇特导弹——已经过时——将在六个月内撤走，但这绝不能公开。如果赫鲁晓夫接受，这是一个巧妙的解决方案。另一个选择是发出最后通牒，这可能导致入侵，而入侵可能导致核战争。"
+  },
+  "situationReport": [
+    {
+      "en": "Khrushchev's first letter (October 26) offers to remove missiles in exchange for a US pledge not to invade Cuba",
+      "ja": "フルシチョフの最初の手紙（10月26日）はアメリカのキューバ不侵攻の約束と引き換えにミサイルを撤去すると提案",
+      "zh-CN": "赫鲁晓夫的第一封信（10月26日）提出以美国保证不入侵古巴为条件撤走导弹"
+    },
+    {
+      "en": "Khrushchev's second letter (October 27) publicly demands the US also remove Jupiter missiles from Turkey",
+      "ja": "フルシチョフの2通目の手紙（10月27日）はアメリカがトルコのジュピターミサイルも撤去するよう公に要求",
+      "zh-CN": "赫鲁晓夫的第二封信（10月27日）公开要求美国同时撤走土耳其的朱庇特导弹"
+    },
+    {
+      "en": "A U-2 reconnaissance plane has been shot down over Cuba — Major Rudolf Anderson is dead",
+      "ja": "キューバ上空でU-2偵察機が撃墜された——ルドルフ・アンダーソン少佐が死亡",
+      "zh-CN": "一架U-2侦察机在古巴上空被击落——鲁道夫·安德森少校阵亡"
+    },
+    {
+      "en": "The Joint Chiefs are demanding immediate military retaliation for the downing of the U-2",
+      "ja": "統合参謀本部はU-2撃墜に対する即座の軍事報復を要求している",
+      "zh-CN": "参谋长联席会议要求立即对U-2被击落进行军事报复"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Resolve the crisis and secure the removal of Soviet missiles from Cuba",
+      "ja": "危機を解決し、ソ連のミサイルのキューバからの撤去を確保する",
+      "zh-CN": "化解危机，确保苏联导弹从古巴撤走"
+    },
+    {
+      "en": "Avoid nuclear war on the most dangerous day of the Cold War",
+      "ja": "冷戦の最も危険な日に核戦争を回避する",
+      "zh-CN": "在冷战最危险的一天避免核战争"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Accepting the public Turkey deal would be seen as capitulation by American allies and NATO",
+      "ja": "トルコの公開取引の受け入れはアメリカの同盟国やNATOから降伏と見なされる",
+      "zh-CN": "公开接受土耳其交易将被美国盟友和北约视为投降"
+    },
+    {
+      "en": "The shooting down of the U-2 has created enormous pressure for military retaliation",
+      "ja": "U-2の撃墜は軍事報復への巨大な圧力を生み出している",
+      "zh-CN": "U-2被击落造成了巨大的军事报复压力"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Accept Bobby's plan. Respond only to Khrushchev's first, conciliatory letter — agree to the non-invasion pledge. Send Bobby to meet Dobrynin tonight to offer the secret Turkey missile swap. Gamble that Khrushchev will take the deal.",
+        "ja": "ボビーの計画を受け入れる。フルシチョフの最初の融和的な手紙にのみ返答する——不侵攻の約束に同意する。今夜ドブルイニンと会うためにボビーを送り、秘密のトルコ・ミサイル交換を提案する。フルシチョフがこの取引を受け入れることに賭ける。",
+        "zh-CN": "接受鲍比的方案。只回应赫鲁晓夫第一封示好的信——同意不入侵的承诺。今晚派鲍比去见多勃雷宁，提出秘密的土耳其导弹交换。赌赫鲁晓夫会接受这笔交易。"
+      },
+      "historicalContext": "The historical choice — Bobby Kennedy met Dobrynin on the evening of October 27. The next morning, Khrushchev announced on Radio Moscow that the missiles would be withdrawn. The Turkey missile swap remained secret for decades.",
+      "outcomePrompt": {
+        "en": "You draft a letter responding only to Khrushchev's first message, deliberately ignoring the second. You accept the terms: the United States will pledge not to invade Cuba if the Soviet Union removes its missiles under UN inspection. That evening, Bobby meets Ambassador Dobrynin at the Justice Department. The conversation is tense. Bobby delivers the private assurance: the Jupiter missiles in Turkey, already scheduled for decommissioning, will be removed within six months. But he adds a warning — if this becomes public, the deal is off. And if the Soviets do not respond by tomorrow, the United States will be forced to act. The longest night of the Cold War passes. You barely sleep. At nine o'clock on the morning of October 28, Radio Moscow broadcasts Khrushchev's response: the Soviet Union will dismantle and remove all missiles from Cuba. The world steps back from the brink. In the Oval Office, there is no celebration — only the quiet, exhausted relief of men who have stared into the abyss and found a way back.",
+        "ja": "あなたはフルシチョフの最初のメッセージにのみ返答する手紙を起草し、意図的に2通目を無視します。条件を受け入れます：ソ連が国連の査察の下でミサイルを撤去すれば、アメリカはキューバに侵攻しないと約束します。その夜、ボビーが司法省でドブルイニン大使と会います。会話は緊迫しています。ボビーは非公式の保証を伝えます：すでに退役が予定されているトルコのジュピターミサイルは6ヶ月以内に撤去されます。しかし警告を加えます——これが公になれば、取引は無効です。そしてソ連が明日までに回答しなければ、アメリカは行動を余儀なくされます。冷戦で最も長い夜が過ぎます。あなたはほとんど眠れません。10月28日の朝9時、モスクワ放送がフルシチョフの回答を放送します：ソ連はキューバのすべてのミサイルを解体・撤去します。世界は瀬戸際から一歩退きます。大統領執務室では祝賀はありません——深淵を覗き込み、戻る道を見つけた男たちの静かで疲弊した安堵があるだけです。",
+        "zh-CN": "您起草了一封只回应赫鲁晓夫第一封信的回信，刻意忽略了第二封。您接受条件：如果苏联在联合国检查下撤走导弹，美国将保证不入侵古巴。当晚，鲍比在司法部与多勃雷宁大使会面。谈话气氛紧张。鲍比传达了私下的保证：已列入退役计划的土耳其朱庇特导弹将在六个月内撤走。但他附加了一个警告——如果此事被公开，交易取消。而且如果苏联明天之前没有回应，美国将被迫采取行动。冷战最漫长的一夜过去了。您几乎无法入睡。10月28日上午九点，莫斯科广播电台播出了赫鲁晓夫的回应：苏联将拆除并撤走古巴的所有导弹。世界从悬崖边退了回来。在椭圆形办公室里没有庆祝——只有那些凝视过深渊又找到归途的人们安静而疲惫的释然。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "defcon", "operation": "set", "value": 3 },
+        { "variable": "sovietAggression", "operation": "add", "value": -30 },
+        { "variable": "publicAnxiety", "operation": "add", "value": -25 },
+        { "variable": "militaryPressure", "operation": "add", "value": -20 },
+        { "variable": "diplomaticOptions", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Issue an ultimatum. Inform the Soviets that all missiles must be removed from Cuba within forty-eight hours or the United States will launch air strikes followed by a full-scale invasion. No deals, no swaps, no secret negotiations.",
+        "ja": "最後通牒を出す。すべてのミサイルを48時間以内にキューバから撤去しなければ、アメリカは空爆とそれに続く全面侵攻を開始するとソ連に通告する。取引なし、交換なし、秘密交渉なし。",
+        "zh-CN": "发出最后通牒。通知苏联所有导弹必须在四十八小时内从古巴撤走，否则美国将发动空袭并随后进行全面入侵。没有交易，没有交换，没有秘密谈判。"
+      },
+      "historicalContext": "A counterfactual — an ultimatum would have dramatically escalated the crisis. With Soviet tactical nuclear weapons already in Cuba and a Soviet submarine commander who nearly launched a nuclear torpedo that same day, the consequences could have been catastrophic.",
+      "outcomePrompt": {
+        "en": "You go before the cameras and deliver the ultimatum in a televised address. Forty-eight hours. The world erupts. NATO allies beg for restraint. The Pope issues an appeal for peace. In Moscow, Khrushchev convenes an emergency meeting of the Presidium. Hardliners who had urged caution now argue they cannot back down in the face of an ultimatum — it would mean the end of Soviet credibility worldwide. Soviet forces in Cuba go to full alert. What the Americans do not know is that Soviet commanders in Cuba have tactical nuclear weapons — short-range Luna missiles and nuclear-armed cruise missiles — and standing authorization to use them if an invasion begins. Forty-eight hours pass in a fever of military preparation on both sides. When the deadline arrives, the missiles are still in Cuba. The air strikes begin at dawn. The first wave of bombers hits the known missile sites. But in the chaos, a Soviet commander on the ground — facing what he believes is the beginning of a full American invasion — authorizes the launch of a tactical nuclear weapon against the American naval base at Guantánamo Bay. The world changes forever.",
+        "ja": "あなたはカメラの前に立ち、テレビ演説で最後通牒を伝えます。48時間。世界が激震します。NATO同盟国は自制を懇願します。教皇が平和の訴えを発します。モスクワで、フルシチョフは幹部会の緊急会議を招集します。慎重を促していた強硬派は、最後通牒の前で引き下がることはできないと主張します——それは世界中でのソ連の信頼性の終わりを意味すると。キューバのソ連軍が完全警戒態勢に入ります。アメリカが知らないのは、キューバのソ連司令官が戦術核兵器——短距離ルナミサイルと核武装巡航ミサイル——を持っており、侵攻が始まればそれらを使用する事前の承認を持っていることです。48時間が両陣営の軍事準備の熱狂の中で過ぎます。期限が来ても、ミサイルはまだキューバにあります。空爆が夜明けに始まります。最初の爆撃機の波が既知のミサイル施設を攻撃します。しかし混乱の中、現場のソ連司令官——全面的なアメリカ侵攻の開始と信じて——グアンタナモ湾のアメリカ海軍基地に対する戦術核兵器の発射を承認します。世界は永遠に変わります。",
+        "zh-CN": "您走到摄像机前，通过电视讲话发出最后通牒。四十八小时。全世界一片哗然。北约盟国恳求克制。教皇发出和平呼吁。在莫斯科，赫鲁晓夫召集主席团紧急会议。此前主张谨慎的强硬派现在认为他们不能在最后通牒面前退缩——那将意味着苏联在全世界信誉的终结。古巴的苏联军队进入全面戒备状态。美国人不知道的是，古巴的苏联指挥官拥有战术核武器——短程月神导弹和核武装巡航导弹——并有在入侵开始时使用它们的事先授权。四十八小时在双方疯狂的军事准备中过去。当最后期限到来时，导弹仍在古巴。空袭在黎明开始。第一波轰炸机打击了已知的导弹基地。但在混乱中，地面上的一位苏联指挥官——认为这是美国全面入侵的开始——授权向关塔那摩湾美国海军基地发射战术核武器。世界从此永远改变。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "defcon", "operation": "set", "value": 1 },
+        { "variable": "sovietAggression", "operation": "add", "value": 30 },
+        { "variable": "publicAnxiety", "operation": "add", "value": 40 },
+        { "variable": "militaryPressure", "operation": "add", "value": 20 },
+        { "variable": "diplomaticOptions", "operation": "add", "value": -50 }
+      ]
+    }
+  ],
+  "roleFilter": ["jfk-role"],
+  "isTerminal": true
+}

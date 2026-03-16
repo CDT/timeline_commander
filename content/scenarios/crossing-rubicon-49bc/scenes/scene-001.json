@@ -1,0 +1,113 @@
+{
+  "id": "crossing-rubicon-49bc-scene-001",
+  "scenarioId": "crossing-rubicon-49bc",
+  "title": {
+    "en": "The Die Is Cast",
+    "ja": "賽は投げられた",
+    "zh-CN": "骰子已掷下"
+  },
+  "date": {
+    "en": "January 10, 49 BC",
+    "ja": "紀元前49年1月10日",
+    "zh-CN": "公元前49年1月10日"
+  },
+  "location": {
+    "en": "Camp near Ravenna, Cisalpine Gaul",
+    "ja": "キサルピナ・ガリア、ラヴェンナ近郊の陣営",
+    "zh-CN": "山南高卢拉文纳附近的营地"
+  },
+  "narrativePrompt": {
+    "en": "Caesar paces in his command tent near Ravenna. The news from Rome is final: the Senate has passed the Senatus Consultum Ultimum, ordering him to disband his armies or be declared an enemy of the state. The tribunes Mark Antony and Cassius, who vetoed the motion against him, have been driven from the Senate house and have fled north to join him, arriving bruised and shaken in slaves' clothing. Their flight is proof that constitutional protections have collapsed. Outside the tent, the Legio XIII Gemina — five thousand veteran soldiers who have followed Caesar through nine years of Gallic wars — waits in camp. The Rubicon River, the legal boundary of his province, runs a few miles to the south. Beyond it lies Italy, and treason. Caesar's senior officers are divided. Some urge him to cross immediately before Pompey can mobilize. Others counsel negotiation, warning that civil war will destroy the Republic. Caesar must decide tonight.",
+    "ja": "カエサルはラヴェンナ近くの司令部テントの中を行き来している。ローマからの知らせは最終的なものだ：元老院が元老院最終勧告を可決し、彼に軍隊を解散するか、さもなくば国家の敵と宣言すると命じた。彼に対する動議に拒否権を行使した護民官マルクス・アントニウスとカッシウスは元老院から追い出され、奴隷の衣服をまとい、傷だらけで動揺した姿で北に逃れて来た。彼らの逃亡は憲法上の保護が崩壊したことの証拠だ。テントの外では、カエサルに9年間のガリア戦争を通じて従ってきた5,000人の歴戦の兵士からなる第13双子軍団が野営で待機している。彼の属州の法的境界線であるルビコン川は数マイル南にある。その先にはイタリアが、そして反逆が待っている。カエサルの上級将校たちは意見が分かれている。ポンペイウスが動員する前に直ちに渡河するよう促す者もいる。内戦は共和政を滅ぼすと警告し、交渉を勧める者もいる。カエサルは今夜決断しなければならない。",
+    "zh-CN": "恺撒在拉文纳附近的指挥帐篷中来回踱步。从罗马传来的消息已成定局：元老院通过了“元老院最终决议“，命令他解散军队，否则将被宣布为国家公敌。此前否决反对他的动议的保民官马克·安东尼和卡西乌斯已被赶出元老院，穿着奴隶的衣服、遍体鳞伤、惊魂未定地逃到北方加入了他。他们的逃亡证明宪政保护已经崩溃。帐篷外，第十三双子军团——五千名跟随恺撒经历了九年高卢战争的老兵——在营地中待命。卢比孔河，他行省的法定边界，在南边几英里处流过。河的那边是意大利，也是叛国。恺撒的高级军官们意见分歧。一些人催促他在庞培动员之前立即渡河。另一些人建议谈判，警告内战将摧毁共和国。恺撒必须在今夜做出决定。"
+  },
+  "situationReport": [
+    {
+      "en": "The Senate has issued an ultimatum: disband or be declared a public enemy",
+      "ja": "元老院が最後通牒を発した：軍を解散せよ、さもなくば公敵と宣言する",
+      "zh-CN": "元老院已发出最后通牒：解散军队或被宣布为公敌"
+    },
+    {
+      "en": "Tribunes Antony and Cassius have fled Rome and joined Caesar, confirming the Senate's hostility",
+      "ja": "護民官アントニウスとカッシウスがローマを脱出してカエサルに合流し、元老院の敵意を確認した",
+      "zh-CN": "保民官安东尼和卡西乌斯已逃离罗马加入恺撒，证实了元老院的敌意"
+    },
+    {
+      "en": "Legio XIII Gemina (5,000 veterans) is ready at Ravenna; other legions are still in Gaul",
+      "ja": "第13双子軍団（5,000人の歴戦兵）がラヴェンナで準備完了。他の軍団はまだガリアにいる",
+      "zh-CN": "第十三双子军团（5000名老兵）在拉文纳整装待发；其他军团仍在高卢"
+    },
+    {
+      "en": "Pompey is in southern Italy recruiting forces but his armies are not yet assembled",
+      "ja": "ポンペイウスは南イタリアで軍を募集中だが、まだ軍は編成されていない",
+      "zh-CN": "庞培正在意大利南部招募兵力，但其军队尚未集结完毕"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide whether to cross the Rubicon or seek a negotiated settlement",
+      "ja": "ルビコン川を渡るか、交渉による解決を求めるかを決断する",
+      "zh-CN": "决定是渡过卢比孔河还是寻求谈判解决"
+    },
+    {
+      "en": "Secure the loyalty of your officers and men for whatever path is chosen",
+      "ja": "どのような道を選ぶにせよ、将校と兵士の忠誠を確保する",
+      "zh-CN": "无论选择哪条路，都要确保军官和士兵的忠诚"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Only one legion is immediately available; you are vastly outnumbered if Pompey assembles his full forces",
+      "ja": "すぐに使える軍団は1つだけ。ポンペイウスが全軍を集結すれば、圧倒的に劣勢になる",
+      "zh-CN": "只有一个军团可立即调用；如果庞培集结全部兵力，您将处于绝对劣势"
+    },
+    {
+      "en": "Crossing the Rubicon under arms is treason under Roman law — there is no legal justification",
+      "ja": "武装してルビコン川を渡ることはローマ法の下で反逆罪——法的正当性はない",
+      "zh-CN": "携武装渡过卢比孔河在罗马法下构成叛国——没有法律依据"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Cross the Rubicon tonight with the XIII Legion. Speed and audacity are everything. Alea iacta est.",
+        "ja": "今夜、第13軍団と共にルビコン川を渡る。速度と大胆さがすべてだ。アレア・ヤクタ・エスト。",
+        "zh-CN": "今夜率第十三军团渡过卢比孔河。速度和胆略就是一切。骰子已掷下。"
+      },
+      "historicalContext": "The historical choice — Caesar crossed the Rubicon on the night of January 10-11, 49 BC.",
+      "outcomePrompt": {
+        "en": "Caesar gives the order. Under cover of darkness, the Legio XIII forms up and marches south. At the Rubicon — a small, unremarkable stream — Caesar pauses for a moment. Then he steps across. 'Alea iacta est,' he declares. The die is cast. The legion follows without hesitation. By dawn, they have seized Ariminum, the first town south of the boundary. Caesar sends messengers racing ahead to the Italian towns along the road to Rome, offering clemency to all who do not resist. The news of the crossing spreads faster than his cavalry can ride. In Rome, panic erupts. Pompey convenes an emergency meeting of the Senate.",
+        "ja": "カエサルは命令を下す。闇に紛れて第13軍団は集結し、南へ行軍する。ルビコン川——目立たない小さな川——でカエサルは一瞬立ち止まる。そして踏み越える。「アレア・ヤクタ・エスト」と宣言する。賽は投げられた。軍団はためらうことなく続く。夜明けまでに、境界線の南にある最初の町アリミヌムを占領する。カエサルはローマへの道沿いのイタリアの町々に先行して使者を送り、抵抗しないすべての者に寛大な処置を申し出る。渡河の知らせは騎兵が駆けるよりも速く広まる。ローマでは恐慌が勃発する。ポンペイウスは元老院の緊急会議を招集する。",
+        "zh-CN": "恺撒下达命令。在夜色掩护下，第十三军团集结南进。在卢比孔河畔——一条不起眼的小溪——恺撒停顿片刻。然后迈步跨过。“骰子已掷下，“他宣布。军团毫不犹豫地跟随。到黎明，他们已夺取了边界以南的第一座城镇阿里米努姆。恺撒派遣信使飞驰到通往罗马沿途的意大利城镇，向所有不抵抗者提供宽赦。渡河的消息传播得比他的骑兵还快。在罗马，恐慌爆发。庞培召开元老院紧急会议。"
+      },
+      "nextSceneId": "crossing-rubicon-49bc-scene-002",
+      "stateChanges": [
+        { "variable": "legionLoyalty", "operation": "add", "value": 10 },
+        { "variable": "publicSupport", "operation": "add", "value": 5 },
+        { "variable": "senateOpposition", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Send one final embassy to Rome offering compromise: retain command of Illyricum with one legion until the elections. Exhaust all peaceful options first.",
+        "ja": "最後の使節をローマに送り、妥協案を提示する：選挙まで1個軍団でイリュリクムの指揮権を保持する。まずすべての平和的選択肢を尽くす。",
+        "zh-CN": "向罗马派出最后一次使团提出妥协：保留对伊利里库姆一个军团的指挥权直到选举。先穷尽所有和平选项。"
+      },
+      "historicalContext": "A counterfactual — Caesar did send proposals but did not wait for a response before crossing.",
+      "outcomePrompt": {
+        "en": "Caesar dispatches his officer Lucius Caesar and the praetor Lucius Roscius to Rome with a carefully worded proposal. He will give up Gaul, reduce to a single legion, and accept the province of Illyricum — if the Senate allows him to stand for consul in absentia, as previously agreed. The envoys reach Rome and present the terms. For three days the Senate debates. Cato and the hardliners refuse any compromise. Pompey hesitates but ultimately sides with the conservatives. The proposal is rejected. Meanwhile, Pompey has used the delay to dispatch recruiting officers to Campania and has begun assembling two legions at Capua. When the rejection reaches Caesar, he has lost four critical days of surprise. But his political case is now stronger — he can tell all of Italy that he sought peace and was refused.",
+        "ja": "カエサルは将校のルキウス・カエサルと法務官ルキウス・ロスキウスを、慎重に措辞された提案と共にローマに派遣する。ガリアを放棄し、1個軍団に減らし、イリュリクム属州を受け入れる——元老院が以前の合意通り不在のまま執政官に立候補することを許可すれば。使者はローマに到着し、条件を提示する。3日間元老院は討論する。カトーと強硬派はいかなる妥協も拒否する。ポンペイウスはためらうが最終的に保守派に味方する。提案は拒否される。その間、ポンペイウスは遅延を利用してカンパニアに徴兵将校を派遣し、カプアで2個軍団の編成を開始した。拒否がカエサルに届いた時、彼は4日間の奇襲の好機を失っている。しかし彼の政治的立場はより強固になった——イタリア全土に、平和を求めたが拒否されたと伝えることができる。",
+        "zh-CN": "恺撒派遣军官卢基乌斯·恺撒和裁判官卢基乌斯·罗斯基乌斯携一份措辞谨慎的提案前往罗马。他愿意放弃高卢，缩减至一个军团，接受伊利里库姆行省——如果元老院允许他按先前约定缺席竞选执政官。使者到达罗马并提交条件。元老院辩论了三天。加图和强硬派拒绝任何妥协。庞培犹豫不决，但最终站在保守派一边。提案被驳回。与此同时，庞培利用这段延迟向坎帕尼亚派遣了征兵军官，并开始在卡普阿集结两个军团。当驳回的消息传到恺撒手中时，他已失去了四天宝贵的突然性优势。但他的政治论据现在更有力了——他可以告诉全意大利，是他寻求和平却遭到了拒绝。"
+      },
+      "nextSceneId": "crossing-rubicon-49bc-scene-002",
+      "stateChanges": [
+        { "variable": "publicSupport", "operation": "add", "value": 15 },
+        { "variable": "pompeyStrength", "operation": "add", "value": 10 },
+        { "variable": "senateOpposition", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

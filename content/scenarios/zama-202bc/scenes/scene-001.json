@@ -1,0 +1,111 @@
+{
+  "id": "zama-202bc-scene-001",
+  "scenarioId": "zama-202bc",
+  "title": {
+    "en": "The Meeting of Giants",
+    "ja": "巨人たちの会見",
+    "zh-CN": "巨人的会面"
+  },
+  "date": {
+    "en": "October 18, 202 BC",
+    "ja": "紀元前202年10月18日",
+    "zh-CN": "公元前202年10月18日"
+  },
+  "location": {
+    "en": "The plain of Zama, North Africa",
+    "ja": "北アフリカ、ザマの平原",
+    "zh-CN": "北非扎马平原"
+  },
+  "narrativePrompt": {
+    "en": "A messenger arrives in Scipio's camp: Hannibal Barca requests a personal meeting before battle. The two greatest generals of the age have never met face to face. Scipio's officers are divided — some see it as a trap or a ploy to buy time, while others argue that meeting Hannibal would demonstrate Roman confidence and allow Scipio to take the measure of his enemy. Hannibal's motives are unclear. He may genuinely seek peace terms to save Carthage from total defeat, or he may be probing for weaknesses, or simply delaying to allow reinforcements to arrive. Scipio must decide whether to accept the meeting, and if so, what posture to take. A generous peace offer might end the war without risk — but it would also deny Rome the decisive victory the Senate demands, and leave Hannibal's army intact as a future threat.",
+    "ja": "スキピオの陣営に使者が到着する：ハンニバル・バルカが戦前の会見を要請している。同時代の最も偉大な二人の将軍が直接顔を合わせたことはない。スキピオの将校たちは意見が分かれている——罠か時間稼ぎの策略と見る者もいれば、ハンニバルとの会見はローマの自信を示し、敵を見極める機会になると主張する者もいる。ハンニバルの動機は不明だ。カルタゴを完全な敗北から救うために本気で和平条件を求めているのかもしれないし、弱点を探っているのかもしれない。あるいは単に増援の到着のために時間を稼いでいるだけかもしれない。スキピオは会見を受け入れるかどうか、そしてもし受け入れるならどのような姿勢で臨むかを決めなければならない。寛大な和平の提案はリスクなしに戦争を終結させるかもしれない——しかしそれは元老院が要求する決定的な勝利をローマから奪い、ハンニバルの軍を将来の脅威として無傷で残すことにもなる。",
+    "zh-CN": "一名信使抵达西庇阿的营地：汉尼拔·巴卡请求在战前进行一次私人会面。这个时代最伟大的两位将领从未谋面。西庇阿的军官们意见不一——有些人认为这是陷阱或拖延时间的计谋，另一些人则认为与汉尼拔会面可以展示罗马人的信心，让西庇阿有机会审视他的对手。汉尼拔的动机不明。他可能真心寻求和平条件以挽救迦太基免遭彻底失败，也可能在试探弱点，或仅仅是拖延时间等待援军到达。西庇阿必须决定是否接受会面，如果接受，以什么姿态应对。慷慨的和平提议可能无风险地结束战争——但这也会使罗马失去元老院要求的决定性胜利，并使汉尼拔的军队作为未来的威胁完好保留。"
+  },
+  "situationReport": [
+    {
+      "en": "Hannibal has arrived from Italy with his veteran army and approximately 80 war elephants",
+      "ja": "ハンニバルがイタリアから精鋭軍と約80頭の戦象を率いて到着した",
+      "zh-CN": "汉尼拔已从意大利率精锐军队和约80头战象抵达"
+    },
+    {
+      "en": "Scipio's Numidian ally Masinissa has joined with 6,000 cavalry — giving Rome cavalry superiority",
+      "ja": "スキピオのヌミディアの同盟者マシニッサが6,000の騎兵を率いて合流——ローマに騎兵の優位を与えた",
+      "zh-CN": "西庇阿的努米底亚盟友马西尼萨已率6000骑兵加入——使罗马在骑兵方面占据优势"
+    },
+    {
+      "en": "Carthaginian morale is mixed — Hannibal's veterans are confident but his local recruits are untested",
+      "ja": "カルタゴ軍の士気はまちまち——ハンニバルの古参兵は自信に満ちているが、現地の新兵は未経験",
+      "zh-CN": "迦太基军队士气参差不齐——汉尼拔的老兵充满信心，但当地新兵未经考验"
+    },
+    {
+      "en": "Hannibal has sent a herald requesting a pre-battle parley between the two commanders",
+      "ja": "ハンニバルが両指揮官間の戦前会談を要請する使者を送ってきた",
+      "zh-CN": "汉尼拔已派传令官请求两位指挥官进行战前会谈"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide whether to meet Hannibal and how to respond to any peace overture",
+      "ja": "ハンニバルと会見するかどうか、和平の提案にどう応じるかを決める",
+      "zh-CN": "决定是否与汉尼拔会面以及如何回应任何和平提议"
+    },
+    {
+      "en": "Maintain the confidence of your army on the eve of the most important battle of the war",
+      "ja": "戦争で最も重要な戦いの前夜に軍の信頼を維持する",
+      "zh-CN": "在这场战争最重要的战役前夜维持军队的信心"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Roman Senate expects total victory and the destruction of Carthaginian military power",
+      "ja": "ローマ元老院は完全勝利とカルタゴの軍事力の壊滅を期待している",
+      "zh-CN": "罗马元老院期待全面胜利和摧毁迦太基的军事力量"
+    },
+    {
+      "en": "Accepting unfavorable peace terms would be political suicide in Rome",
+      "ja": "不利な和平条件を受け入れることはローマでの政治的自殺を意味する",
+      "zh-CN": "接受不利的和平条件将是在罗马的政治自杀"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Meet Hannibal. Hear his terms, then reject them. Let him see that Rome does not fear him, and let your men see that their commander stands eye to eye with the legend.",
+        "ja": "ハンニバルと会見する。彼の条件を聞き、拒否する。ローマが彼を恐れていないことを見せ、兵士たちに指揮官が伝説と目を合わせて立つことを見せる。",
+        "zh-CN": "与汉尼拔会面。听取他的条件，然后拒绝。让他看到罗马不惧怕他，让您的士兵看到他们的指挥官与传奇面对面毫不退缩。"
+      },
+      "historicalContext": "The historical choice — Scipio met Hannibal, heard his terms, and rejected them.",
+      "outcomePrompt": {
+        "en": "Scipio rides out to meet Hannibal between the two armies with a small escort. The two commanders face each other — the aging Carthaginian who has terrorized Rome for sixteen years and the young Roman who conquered Spain. Hannibal speaks first, offering to return all territories Carthage has taken outside Africa and to limit the Carthaginian fleet. Scipio listens respectfully but refuses. Those terms might have been acceptable before Scipio invaded Africa; now Rome demands unconditional military submission. Hannibal nods, as if he expected this answer. 'Then let us settle this on the field,' he says. Both men return to their camps. The encounter has a powerful effect on Scipio's army — their commander met the great Hannibal and was not intimidated. Morale surges. Tomorrow, battle.",
+        "ja": "スキピオは少数の護衛と共に両軍の間に馬で出向き、ハンニバルと対面する。二人の指揮官が顔を合わせる——16年間ローマを脅かし続けた老練なカルタゴ人と、スペインを征服した若きローマ人。ハンニバルが先に話し、カルタゴがアフリカ外で獲得したすべての領土の返還とカルタゴ艦隊の制限を申し出る。スキピオは敬意を持って聞くが拒否する。それらの条件はスキピオがアフリカに侵攻する前なら受け入れられたかもしれない。今やローマは無条件の軍事的降伏を要求している。ハンニバルはこの答えを予期していたかのように頷く。「ならば戦場で決着をつけよう」と彼は言う。両者は陣営に戻る。この会見はスキピオの軍に強い影響を与える——指揮官があの偉大なハンニバルと会い、怯むことがなかった。士気が急上昇する。明日、戦闘だ。",
+        "zh-CN": "西庇阿率少数随从骑马来到两军之间与汉尼拔会面。两位指挥官面对面——一位是让罗马恐惧了十六年的老练迦太基人，另一位是征服了西班牙的年轻罗马人。汉尼拔先开口，提出归还迦太基在非洲以外占领的所有领土并限制迦太基舰队。西庇阿礼貌地听完后拒绝了。这些条件在西庇阿入侵非洲之前也许可以接受；现在罗马要求无条件的军事投降。汉尼拔点了点头，似乎预料到了这个答案。“那就让我们在战场上了断吧，“他说。两人各自返回营地。这次会面对西庇阿的军队产生了强烈影响——他们的指挥官与伟大的汉尼拔面对面而毫无畏惧。士气大振。明天，决战。"
+      },
+      "nextSceneId": "zama-202bc-scene-002",
+      "stateChanges": [
+        { "variable": "romanMorale", "operation": "add", "value": 15 },
+        { "variable": "hannibalsElephants", "operation": "add", "value": 0 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Refuse the meeting. Hannibal is stalling. Every hour of delay risks losing Masinissa's cavalry to restlessness. Prepare for battle immediately.",
+        "ja": "会見を拒否する。ハンニバルは時間を稼いでいる。遅延の1時間ごとにマシニッサの騎兵が焦れて離脱するリスクがある。直ちに戦闘準備をする。",
+        "zh-CN": "拒绝会面。汉尼拔在拖延时间。每耽搁一个小时都有失去马西尼萨骑兵的风险，因为他们会因等待而焦躁。立即准备战斗。"
+      },
+      "historicalContext": "A counterfactual — Scipio chose to meet Hannibal in the historical record.",
+      "outcomePrompt": {
+        "en": "Scipio sends Hannibal's herald back with a curt refusal. 'Tell your master that Rome's terms were delivered at the peace table months ago. He rejected them. Now the sword will speak.' The refusal sends a shock through both camps. Hannibal, denied the parley he sought, begins final battle preparations immediately. Scipio orders his army into formation. There is no more time for diplomacy. Masinissa's cavalry, which had been growing restless during the waiting, responds eagerly to the call to battle. The army's focus sharpens — no ambiguity, no politics, just the clarity of imminent combat. But some of Scipio's Roman officers mutter that refusing to hear Hannibal's terms was arrogant; a few wonder what peace might have looked like.",
+        "ja": "スキピオはハンニバルの使者をぶっきらぼうな拒否と共に送り返す。「あなたの主人に伝えよ、ローマの条件は数ヶ月前に和平交渉の場で提示された。彼がそれを拒否した。今は剣が語る番だ。」拒否は両陣営に衝撃を与える。会談を拒否されたハンニバルは直ちに最終的な戦闘準備を開始する。スキピオは軍に陣形を命じる。もう外交の時間はない。待機中に落ち着かなくなっていたマシニッサの騎兵は戦闘の呼びかけに熱心に応じる。軍の集中力が研ぎ澄まされる——曖昧さはなく、政治もなく、差し迫った戦闘の明確さだけがある。しかしスキピオのローマ将校の一部は、ハンニバルの条件を聞くことすら拒否したのは傲慢だったとつぶやく。和平がどのようなものだったか考える者もいる。",
+        "zh-CN": "西庇阿让汉尼拔的传令官带回一个简短的拒绝。'告诉你的主人，罗马的条件几个月前在和谈桌上已经提出了。是他拒绝了那些条件。现在该由刀剑来说话了。'这个拒绝在两个营地都引起震动。被拒绝会谈的汉尼拔立即开始最后的战斗准备。西庇阿命令军队列阵。不再有外交的时间。等待期间渐感焦躁的马西尼萨骑兵积极响应战斗号令。军队的注意力变得锐利——没有含糊，没有政治，只有即将来临的战斗的清晰感。但西庇阿的一些罗马军官私下嘀咕，拒绝听取汉尼拔的条件未免太过傲慢；几个人不禁想象和平会是什么样子。"
+      },
+      "nextSceneId": "zama-202bc-scene-002",
+      "stateChanges": [
+        { "variable": "romanMorale", "operation": "add", "value": 5 },
+        { "variable": "cavalryStrength", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,109 @@
+{
+  "id": "hastings-1066-scene-003",
+  "scenarioId": "hastings-1066",
+  "title": "The Death of Harold",
+  "date": {
+    "en": "October 14, 1066 — Late Afternoon",
+    "ja": "1066年10月14日 — 午後遅く",
+    "zh-CN": "1066年10月14日——傍晚"
+  },
+  "location": {
+    "en": "Senlac Hill, near Hastings, England",
+    "ja": "イングランド、ヘイスティングズ近郊、センラック・ヒル",
+    "zh-CN": "英格兰黑斯廷斯附近森拉克山"
+  },
+  "narrativePrompt": {
+    "en": "The battle has raged all day. The shield wall is broken in places but Harold's housecarls fight on with desperate fury around his personal standard — the Fighting Man banner and the Dragon of Wessex. Harold himself is visible on the ridge, rallying his remaining troops. Your army is exhausted and has taken heavy casualties, but the English are in worse shape. Their flanks have been stripped away by feigned retreats, their ranks thinned by arrows, and their fyrd levies are beginning to melt away. This is the decisive moment. You must deliver the killing blow before darkness falls and gives Harold the chance to retreat and raise a new army. How you end this battle will determine the fate of England.",
+    "ja": "戦闘は一日中続いた。盾の壁はところどころ崩れているが、ハロルドのハウスカールは彼の個人旗——戦士の旗とウェセックスの竜旗——の周りで必死の猛攻を続けている。ハロルド自身が尾根に見え、残存の兵を鼓舞している。あなたの軍は疲弊し大きな損害を受けたが、イングランド軍はさらにひどい状態だ。側面は偽装退却によって削がれ、隊列は矢によって薄くなり、民兵たちは溶けるように消え始めている。これが決定的な瞬間だ。暗くなってハロルドに退却して新しい軍を集める機会を与える前に、致命的な一撃を加えなければならない。この戦いをどう終わらせるかがイングランドの運命を決める。",
+    "zh-CN": "战斗已持续一整天。盾墙在多处被突破，但哈罗德的侍卫军在他的军旗——战士旗和韦塞克斯之龙——周围以绝望的凶猛继续战斗。哈罗德本人在山脊上清晰可见，正在集结残余部队。您的军队精疲力竭，伤亡惨重，但英格兰人的处境更糟。他们的两翼被佯退剥离，队伍被箭雨削薄，民兵正在开始四散溃逃。这是决定性时刻。您必须在夜幕降临给哈罗德撤退重整旗鼓的机会之前发起致命一击。您如何结束这场战役将决定英格兰的命运。"
+  },
+  "situationReport": [
+    {
+      "en": "Harold's shield wall is reduced to his housecarl bodyguard around the royal standards",
+      "ja": "ハロルドの盾の壁は王旗周辺のハウスカール親衛隊にまで減少している",
+      "zh-CN": "哈罗德的盾墙已缩减至王旗周围的侍卫军亲兵"
+    },
+    {
+      "en": "English fyrd levies are deserting — only the professional warriors remain",
+      "ja": "イングランドの民兵が離脱している——職業的な戦士だけが残っている",
+      "zh-CN": "英格兰民兵正在逃散——只有职业武士仍在坚守"
+    },
+    {
+      "en": "Norman cavalry is depleted but still combat-capable for one final charge",
+      "ja": "ノルマン騎兵は消耗しているが、最後の突撃にはまだ戦闘可能",
+      "zh-CN": "诺曼骑兵已大量减员，但仍可进行最后一次冲锋"
+    },
+    {
+      "en": "Sunset is approximately two hours away — darkness will end the battle",
+      "ja": "日没まで約2時間——暗くなれば戦闘は終わる",
+      "zh-CN": "距日落约两小时——天黑将终结战斗"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Kill or capture Harold to shatter English resistance",
+      "ja": "ハロルドを殺害または捕獲してイングランドの抵抗を粉砕する",
+      "zh-CN": "击杀或俘虏哈罗德以瓦解英格兰的抵抗"
+    },
+    {
+      "en": "Win the battle decisively before nightfall",
+      "ja": "日没前に決定的に戦いに勝つ",
+      "zh-CN": "在日落前取得决定性胜利"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your army has no reserves — this is the final effort",
+      "ja": "あなたの軍には予備がない——これが最後の試み",
+      "zh-CN": "您的军队已无预备队——这是最后的搏击"
+    },
+    {
+      "en": "If Harold survives and retreats, he can raise all of England against you",
+      "ja": "ハロルドが生き延びて退却すれば、イングランド全体をあなたに対して蜂起させることができる",
+      "zh-CN": "如果哈罗德存活并撤退，他能号召全英格兰对抗您"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Launch a combined assault: archers fire high volleys to pin the housecarls while cavalry charges directly at Harold's standard. Everything on one throw.",
+        "ja": "複合攻撃を開始する：弓兵が高角度の斉射でハウスカールを牽制し、その間に騎兵がハロルドの軍旗に直接突撃する。すべてを一撃に賭ける。",
+        "zh-CN": "发动联合攻击：弓箭手高角度齐射牵制侍卫军，骑兵同时直接冲击哈罗德的军旗。孤注一掷。"
+      },
+      "historicalContext": "The historical outcome — a combination of archery and cavalry broke through to Harold. He was struck down, and the English army collapsed.",
+      "outcomePrompt": {
+        "en": "You commit everything. The archers loose their remaining arrows in high arcs over the shield wall. The housecarls raise their shields against the rain of arrows — and in that moment your cavalry charges. The knights crash into the weakened wall around Harold's standard. In the chaos, Harold falls. Some say an arrow struck him in the eye; others say Norman knights cut him down. It does not matter. The Fighting Man banner topples. The remaining English see their king fall and their will breaks. The rout begins. As darkness falls over Senlac Hill, you stand on the ridge where Harold's standard once flew. England is yours.",
+        "ja": "すべてを投入する。弓兵が残りの矢を盾の壁を越えて高い弧を描いて放つ。ハウスカールは矢の雨に対して盾を上げる——その瞬間、騎兵が突撃する。騎士たちがハロルドの軍旗周辺の弱まった壁に激突する。混戦の中、ハロルドが倒れる。矢が目に当たったと言う者もいれば、ノルマン騎士が切り倒したと言う者もいる。それは問題ではない。戦士の旗が倒れる。残りのイングランド兵は王が倒れるのを見て、戦意が砕ける。敗走が始まる。センラック・ヒルに闇が降りる中、かつてハロルドの軍旗がはためいていた尾根にあなたは立つ。イングランドはあなたのものだ。",
+        "zh-CN": "您倾尽所有。弓箭手将剩余箭矢以高弧线射过盾墙。侍卫军举盾抵挡箭雨——就在那一刻，您的骑兵发起冲锋。骑士们撞入哈罗德军旗周围已被削弱的防线。混战中，哈罗德倒下了。有人说一支箭射中了他的眼睛；也有人说是诺曼骑士将他砍倒。这已无关紧要。战士旗帜倒下。剩余的英格兰人看到他们的国王倒下，意志崩溃。溃败开始了。当夜幕笼罩森拉克山时，您站在哈罗德旗帜曾经飘扬的山脊上。英格兰是您的了。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "normanMorale", "operation": "add", "value": 20 },
+        { "variable": "haroldPosition", "operation": "set", "value": 0 },
+        { "variable": "cavalryStrength", "operation": "add", "value": -15 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Send a small elite force to outflank the hill through the marshes while the main army pins the housecarls frontally. Kill Harold from behind.",
+        "ja": "本隊がハウスカールを正面で牽制する間、少数の精鋭部隊を沼地を通って丘の側面に回り込ませる。背後からハロルドを殺す。",
+        "zh-CN": "派一支精锐小队穿过沼泽迂回山丘，同时主力正面牵制侍卫军。从背后击杀哈罗德。"
+      },
+      "historicalContext": "A counterfactual — an outflanking maneuver through the marshes was risky but could have been decisive if it succeeded.",
+      "outcomePrompt": {
+        "en": "You select your best knights and send them wide around the hill, picking their way through the boggy ground. The main army keeps the pressure on the front. The flanking force takes longer than expected — men and horses sink in the mud. But just as the sun touches the horizon, they emerge behind Harold's position. The housecarls, magnificent fighters to the last, are caught between two forces. Harold turns to face the new threat and is struck down by a Norman sword. Without their king, the English break. The battle is won — though the flanking force is badly mauled and several knights are lost in the marshes. England is yours, bought at a higher price than it needed to be.",
+        "ja": "最良の騎士を選び、丘の広い迂回路に送る。湿地を踏み越えて進む。本隊は正面への圧力を維持する。迂回部隊は予想より時間がかかる——人馬が泥に沈む。しかし太陽が地平線に触れるまさにその時、彼らがハロルドの陣地の背後に現れる。最後まで見事な戦士であったハウスカールは二つの力に挟まれる。ハロルドは新しい脅威に向き直り、ノルマンの剣に倒される。王を失ったイングランド兵は崩れる。戦いは勝った——しかし迂回部隊はひどく痛めつけられ、数人の騎士が沼地で失われた。イングランドはあなたのものだ。必要以上の代価を払って。",
+        "zh-CN": "您挑选最精锐的骑士绕山丘大范围迂回，在泥泞中艰难前行。主力部队在正面保持压力。迂回部队比预期花了更长时间——人马陷入泥沼。但就在太阳触及地平线时，他们出现在哈罗德阵地的后方。侍卫军直到最后仍是出色的战士，却陷入两面夹击。哈罗德转身面对新威胁时被一把诺曼剑砍倒。失去国王的英格兰人崩溃了。战斗胜利了——虽然迂回部队损失惨重，数名骑士陷于沼泽。英格兰是您的了，只是代价比本该付出的更大。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "normanMorale", "operation": "add", "value": 10 },
+        { "variable": "haroldPosition", "operation": "set", "value": 0 },
+        { "variable": "cavalryStrength", "operation": "add", "value": -25 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

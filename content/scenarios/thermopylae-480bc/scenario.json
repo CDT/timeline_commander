@@ -1,0 +1,163 @@
+{
+  "id": "thermopylae-480bc",
+  "title": {
+    "en": "Battle of Thermopylae",
+    "ja": "テルモピュライの戦い",
+    "zh-CN": "温泉关战役"
+  },
+  "period": {
+    "en": "Greco-Persian Wars",
+    "ja": "ギリシア・ペルシア戦争",
+    "zh-CN": "希波战争"
+  },
+  "dates": {
+    "start": "-480-08-01",
+    "end": "-480-08-03"
+  },
+  "location": {
+    "en": "Thermopylae Pass, Greece",
+    "ja": "ギリシャ、テルモピュライの隘路",
+    "zh-CN": "希腊温泉关隘口"
+  },
+  "historicalOverview": {
+    "en": "The Battle of Thermopylae was fought in 480 BC between an alliance of Greek city-states led by King Leonidas I of Sparta and the Persian Empire of Xerxes I. The Greeks chose to block the narrow coastal pass of Thermopylae to prevent the massive Persian army from advancing into southern Greece. For two days, the small Greek force — anchored by Leonidas's 300 Spartans — held the pass against wave after wave of Persian infantry, including the elite Immortals. On the third day, a local Greek named Ephialtes betrayed the defenders by revealing a mountain path that allowed the Persians to outflank the Greek position. Leonidas, learning of the betrayal, dismissed most of the Greek army and remained with his 300 Spartans, 700 Thespians, and 400 Thebans to fight a final rearguard action.",
+    "ja": "テルモピュライの戦いは紀元前480年、スパルタ王レオニダス1世率いるギリシア諸都市国家連合とクセルクセス1世のペルシア帝国の間で戦われた。ギリシア軍は、大規模なペルシア軍の南ギリシアへの進軍を阻止するため、テルモピュライの狭い海岸沿いの隘路を封鎖することを選んだ。2日間、レオニダスの300人のスパルタ兵を中核とする小規模なギリシア軍は、精鋭のイモータルを含むペルシア歩兵の波状攻撃に対して隘路を守り続けた。3日目、エピアルテスという地元のギリシア人が、ペルシア軍がギリシア軍の陣地を迂回できる山道を明かして守備隊を裏切った。裏切りを知ったレオニダスはギリシア軍の大半を退却させ、自身は300人のスパルタ兵、700人のテスピアイ兵、400人のテーバイ兵と共に最後の殿戦を戦った。",
+    "zh-CN": "温泉关战役发生在公元前480年，交战双方是斯巴达国王列奥尼达一世率领的希腊城邦联军和薛西斯一世的波斯帝国。希腊人选择在温泉关狭窄的沿海隘口阻击，以阻止庞大的波斯军队进入南希腊。两天内，以列奥尼达的300名斯巴达勇士为核心的希腊小部队抵挡住了波斯步兵一波又一波的进攻，其中包括精锐的不死军。第三天，一个名叫埃菲阿尔特斯的当地希腊人背叛了守军，向波斯人透露了一条山间小路，使其得以绕到希腊军队的侧翼。列奥尼达得知叛变后，遣散了大部分希腊军队，自己与300名斯巴达人、700名特斯皮亚人和400名底比斯人留下进行最后的殿后战斗。"
+  },
+  "realWorldOutcome": {
+    "en": "Leonidas and his rearguard were annihilated, but the delay they imposed on the Persian advance gave the Greek fleet time to withdraw from Artemisium and allowed Athens to evacuate its civilian population. The sacrifice at Thermopylae became a rallying symbol for Greek unity, and the Persians were ultimately defeated at the Battle of Salamis shortly afterward. Thermopylae endures as one of history's most famous last stands.",
+    "ja": "レオニダスと殿軍は全滅したが、ペルシア軍の進軍を遅らせたことで、ギリシア艦隊がアルテミシオンから撤退し、アテネが市民を避難させる時間を稼いだ。テルモピュライでの犠牲はギリシア統一の象徴となり、ペルシアはその後まもなくサラミスの海戦で最終的に敗北した。テルモピュライは歴史上最も有名な最後の抵抗の一つとして語り継がれている。",
+    "zh-CN": "列奥尼达和他的殿后部队全部阵亡，但他们对波斯军队进军的延迟为希腊舰队从阿尔忒弥西翁撤退赢得了时间，也使雅典得以疏散平民。温泉关的牺牲成为希腊团结的精神象征，波斯人最终在不久后的萨拉米斯海战中被击败。温泉关作为历史上最著名的最后抵抗之一流传至今。"
+  },
+  "keyFigures": [
+    {
+      "id": "leonidas",
+      "name": "Leonidas I",
+      "role": {
+        "en": "King of Sparta",
+        "ja": "スパルタ王",
+        "zh-CN": "斯巴达国王"
+      },
+      "faction": "Greece",
+      "description": {
+        "en": "The Spartan king who led the Greek defense at Thermopylae, choosing to remain and die rather than retreat, embodying the Spartan ideal of death before dishonor.",
+        "ja": "テルモピュライでギリシア軍の防衛を率いたスパルタ王。退却より留まって死ぬことを選び、名誉ある死というスパルタの理想を体現した。",
+        "zh-CN": "率领希腊军队在温泉关防守的斯巴达国王，宁死不退，体现了斯巴达人宁死不屈的理想。"
+      }
+    },
+    {
+      "id": "xerxes",
+      "name": "Xerxes I",
+      "role": {
+        "en": "King of Kings, Ruler of the Persian Empire",
+        "ja": "諸王の王、ペルシア帝国の支配者",
+        "zh-CN": "万王之王，波斯帝国统治者"
+      },
+      "faction": "Persia",
+      "description": {
+        "en": "The Persian emperor who assembled the largest invasion force the ancient world had ever seen, determined to punish Greece for its defiance and complete the conquest his father Darius had begun.",
+        "ja": "古代世界最大の侵略軍を編成したペルシア皇帝。ギリシアの反抗を罰し、父ダレイオスが始めた征服を完成させることを決意していた。",
+        "zh-CN": "集结了古代世界有史以来最庞大侵略军的波斯皇帝，决心惩罚希腊的反抗，完成其父大流士未竟的征服事业。"
+      }
+    },
+    {
+      "id": "ephialtes",
+      "name": "Ephialtes",
+      "role": {
+        "en": "Local Greek traitor",
+        "ja": "地元ギリシア人の裏切り者",
+        "zh-CN": "当地希腊叛徒"
+      },
+      "faction": "Persia",
+      "description": {
+        "en": "A local resident of Trachis who betrayed the Greek defenders by showing the Persians the Anopaea path, a mountain trail that bypassed the Thermopylae pass.",
+        "ja": "トラキスの地元住民で、ペルシア軍にテルモピュライの隘路を迂回するアノパイアの山道を教えてギリシア守備隊を裏切った。",
+        "zh-CN": "特拉基斯的当地居民，向波斯人透露了绕过温泉关隘口的阿诺帕亚山道，背叛了希腊守军。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "leonidas",
+      "scenarioId": "thermopylae-480bc",
+      "name": "Leonidas I",
+      "title": {
+        "en": "King of Sparta",
+        "ja": "スパルタ王",
+        "zh-CN": "斯巴达国王"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Leonidas I, King of Sparta. It is the late summer of 480 BC. The Persian King Xerxes has crossed the Hellespont with an army of staggering size — estimates range from tens of thousands to over a hundred thousand warriors — intent on subjugating all of Greece. The Greek city-states, fractious and divided as ever, have managed only a partial alliance. The main Greek army will not be ready for weeks; the Peloponnesian cities are celebrating religious festivals and refuse to march until they end. You have been sent north with your personal guard of 300 Spartans and several thousand allied Greeks to hold the narrow pass at Thermopylae — the only land route into central Greece — for as long as possible. Everything depends on how many days you can buy.",
+        "ja": "あなたはスパルタ王レオニダス1世です。紀元前480年の晩夏。ペルシア王クセルクセスがヘレスポントを渡り、驚異的な規模の軍隊を率いてギリシア全土を征服しようとしています。推定で数万から10万人を超える戦士です。いつものように分裂と対立を繰り返すギリシア諸都市国家は、部分的な同盟しか結べていません。ギリシア主力軍の準備には数週間かかります。ペロポネソスの都市は宗教祭を祝っており、終わるまで出陣を拒否しています。あなたは300人のスパルタ親衛隊と数千人のギリシア同盟軍を率いて北上し、中央ギリシアへの唯一の陸路であるテルモピュライの狭い隘路をできる限り長く守るよう派遣されました。あなたが何日稼げるかにすべてがかかっています。",
+        "zh-CN": "您是斯巴达国王列奥尼达一世。公元前480年盛夏末期。波斯国王薛西斯已率领规模惊人的大军——估计从数万到十万以上的战士——渡过赫勒斯滂海峡，意图征服整个希腊。希腊各城邦一如既往地纷争不断，只组建了部分联盟。希腊主力军要数周后才能就绪；伯罗奔尼撒诸城正在庆祝宗教节日，拒绝在节日结束前出兵。您被派往北方，率领您的300名斯巴达亲卫队和数千名盟邦希腊军，尽可能长时间地扼守温泉关隘口——进入中希腊的唯一陆路通道。一切取决于您能争取多少天。"
+      },
+      "objectives": [
+        {
+          "en": "Hold the pass at Thermopylae as long as possible",
+          "ja": "テルモピュライの隘路をできるだけ長く守る",
+          "zh-CN": "尽可能长时间扼守温泉关隘口"
+        },
+        {
+          "en": "Buy time for the Greek alliance to assemble its full strength",
+          "ja": "ギリシア同盟が全軍を集結する時間を稼ぐ",
+          "zh-CN": "为希腊联盟集结全部兵力争取时间"
+        },
+        {
+          "en": "Inspire Greek resistance against Persia",
+          "ja": "ペルシアに対するギリシアの抵抗を鼓舞する",
+          "zh-CN": "激励希腊人抵抗波斯"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Your force is vastly outnumbered — you have roughly 7,000 Greeks against a Persian army many times that size",
+          "ja": "あなたの軍は圧倒的に数で劣っている——約7,000人のギリシア軍に対し、ペルシア軍はその何倍もの規模",
+          "zh-CN": "您的兵力处于绝对劣势——约7000名希腊士兵面对数倍于己的波斯大军"
+        },
+        {
+          "en": "Spartan law and honor demand you hold your ground; retreat without victory brings shame",
+          "ja": "スパルタの法と名誉はあなたに陣地を守ることを要求する。勝利なき撤退は恥辱をもたらす",
+          "zh-CN": "斯巴达的法律和荣誉要求您坚守阵地；未胜而退将带来耻辱"
+        },
+        {
+          "en": "Allied Greek contingents may waver if confidence in the defense falters",
+          "ja": "防衛への信頼が揺らげば、ギリシア同盟軍が動揺する可能性がある",
+          "zh-CN": "如果对防御的信心动摇，盟邦希腊军队可能会动摇"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Persian heralds have offered favorable terms if Greece submits — some allies may be tempted",
+          "ja": "ペルシアの使者はギリシアが服従すれば好条件を提示している——一部の同盟者が誘惑される可能性がある",
+          "zh-CN": "波斯使者已提出希腊投降即可获优待条件——部分盟友可能会心动"
+        },
+        {
+          "en": "The Greek naval force at Artemisium is coordinating with your defense — if you fall too soon, the fleet is exposed",
+          "ja": "アルテミシオンのギリシア海軍はあなたの防衛と連携している——あなたが早く倒れれば、艦隊は危険にさらされる",
+          "zh-CN": "阿尔忒弥西翁的希腊海军正与您的防御协同——如果您过早失守，舰队将暴露于危险之中"
+        },
+        {
+          "en": "Local populations near Thermopylae know secret mountain paths that could be used to outflank your position",
+          "ja": "テルモピュライ付近の住民はあなたの陣地を迂回するために使える秘密の山道を知っている",
+          "zh-CN": "温泉关附近的当地居民知道可以绕过您阵地的秘密山间小路"
+        }
+      ],
+      "startingSceneId": "thermopylae-480bc-scene-001",
+      "initialState": {
+        "spartanMorale": 90,
+        "greekAlliance": 60,
+        "persianAdvance": 0,
+        "daysHeld": 0
+      }
+    }
+  ],
+  "sceneIds": [
+    "thermopylae-480bc-scene-001",
+    "thermopylae-480bc-scene-002",
+    "thermopylae-480bc-scene-003"
+  ],
+  "tags": ["ancient", "military", "Greece", "Persia", "last stand"],
+  "difficulty": "intermediate"
+}

@@ -1,0 +1,73 @@
+{
+  "scenarioId": "constantinople-1453",
+  "timeline": [
+    {
+      "date": "1453-04-02",
+      "description": {
+        "en": "The Ottoman army arrives before the walls of Constantinople. Mehmed II deploys approximately 80,000 troops along the Theodosian Walls, vastly outnumbering the 7,000 defenders inside the city.",
+        "ja": "オスマン軍がコンスタンティノープルの城壁前に到着。メフメト2世はテオドシウスの城壁に沿って約8万人の兵を配置し、城内の7,000人の守備兵を圧倒的に上回る。",
+        "zh-CN": "奥斯曼大军抵达君士坦丁堡城墙前。穆罕默德二世沿狄奥多西城墙部署约8万大军，远超城内7000名守军。"
+      }
+    },
+    {
+      "date": "1453-04-06",
+      "description": {
+        "en": "The siege formally begins. Ottoman cannons, including the great bombard of Urban, open fire on the Theodosian Walls. The bombardment will continue almost daily for the next seven weeks.",
+        "ja": "包囲が正式に開始される。ウルバンの大砲を含むオスマンの大砲がテオドシウスの城壁に砲撃を開始。砲撃はその後7週間ほぼ毎日続く。",
+        "zh-CN": "围城正式开始。包括乌尔班巨炮在内的奥斯曼火炮向狄奥多西城墙开火。炮击将在此后七周内几乎每天持续。"
+      }
+    },
+    {
+      "date": "1453-04-20",
+      "description": {
+        "en": "Three Genoese ships and one Byzantine vessel break through the Ottoman naval blockade and enter the Golden Horn, delivering supplies and reinforcements to the defenders. Mehmed is furious.",
+        "ja": "3隻のジェノヴァ船と1隻のビザンツ船がオスマンの海上封鎖を突破し、金角湾に入って守備側に補給と増援を届ける。メフメトは激怒する。",
+        "zh-CN": "三艘热那亚船和一艘拜占庭船突破奥斯曼海上封锁进入金角湾，为守军送去补给和增援。穆罕默德大为震怒。"
+      }
+    },
+    {
+      "date": "1453-04-22",
+      "description": {
+        "en": "In a feat of extraordinary engineering, Mehmed orders seventy ships transported overland on greased wooden rails across the hills behind Galata, bypassing the chain boom and placing the Ottoman fleet inside the Golden Horn.",
+        "ja": "驚異的な工学的偉業として、メフメトは70隻の船を油を塗った木のレールの上をガラタの背後の丘を越えて陸路輸送し、鎖の防壁を迂回してオスマン艦隊を金角湾内に配置するよう命じる。",
+        "zh-CN": "穆罕默德下令完成了一项非凡的工程壮举：将七十艘船沿涂油木轨从加拉塔背后的山丘陆路运过，绕过铁链封锁，将奥斯曼舰队部署到金角湾内。"
+      }
+    },
+    {
+      "date": "1453-05-22",
+      "description": {
+        "en": "A lunar eclipse terrifies the Byzantine defenders, who see it as a fulfillment of the prophecy that Constantinople will fall when the moon gives a sign. Morale inside the city plummets.",
+        "ja": "月食がビザンツの守備兵を恐怖に陥れる。月が予兆を示す時にコンスタンティノープルが陥落するという予言の成就と見なされる。城内の士気が急落する。",
+        "zh-CN": "一次月食令拜占庭守军惊恐万分，他们将其视为君士坦丁堡将在月亮显示征兆时陷落这一预言的应验。城内士气骤降。"
+      }
+    },
+    {
+      "date": "1453-05-29",
+      "description": {
+        "en": "The final assault begins before dawn. After waves of attacks by irregular troops and Anatolian regulars, the elite Janissaries breach the walls near the Gate of St. Romanus. Emperor Constantine XI dies fighting. Constantinople falls.",
+        "ja": "夜明け前に最終攻撃が始まる。非正規軍とアナトリア正規軍の波状攻撃の後、精鋭イェニチェリが聖ロマヌス門近くの城壁を突破する。コンスタンティノス11世皇帝は戦いの中で死ぬ。コンスタンティノープルが陥落する。",
+        "zh-CN": "最后的总攻在黎明前开始。在非正规军和安纳托利亚正规军的波浪式进攻之后，精锐的近卫军在圣罗马努斯门附近突破城墙。君士坦丁十一世皇帝战死。君士坦丁堡陷落。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Constantinople fell to the Ottoman Empire on May 29, 1453, ending the Byzantine Empire after 1,123 years. Mehmed II became known as Mehmed the Conqueror (Fatih Sultan Mehmed). He made Constantinople his capital and transformed it into one of the greatest cities of the Islamic world. The fall is traditionally regarded as the end of the Middle Ages.",
+    "ja": "コンスタンティノープルは1453年5月29日にオスマン帝国に陥落し、1,123年にわたるビザンツ帝国を終わらせた。メフメト2世は征服王メフメト（ファーティフ・スルタン・メフメト）として知られるようになった。彼はコンスタンティノープルを首都とし、イスラム世界最大の都市の一つに変えた。この陥落は伝統的に中世の終焉と見なされている。",
+    "zh-CN": "君士坦丁堡于1453年5月29日陷落于奥斯曼帝国，结束了延续1123年的拜占庭帝国。穆罕默德二世因此被尊称为征服者穆罕默德。他将君士坦丁堡定为首都，将其建设成伊斯兰世界最伟大的城市之一。这一事件传统上被视为中世纪的终结。"
+  },
+  "casualties": {
+    "en": "Byzantine: approximately 4,000 soldiers killed in the final assault; an estimated 30,000 civilians enslaved. Ottoman: approximately 5,000-10,000 killed during the siege, with the heaviest losses during the final assault.",
+    "ja": "ビザンツ側：最終攻撃で約4,000人の兵士が戦死、推定30,000人の市民が奴隷にされた。オスマン側：包囲中に約5,000〜10,000人が戦死、最も大きな損害は最終攻撃時。",
+    "zh-CN": "拜占庭方面：最后总攻中约4000名士兵阵亡，估计3万平民被掳为奴。奥斯曼方面：围城期间约5000至10000人阵亡，最惨重的伤亡发生在最后总攻时。"
+  },
+  "significance": {
+    "en": "The fall of Constantinople was one of the most consequential events in world history. It ended the last remnant of the Roman Empire, shifted the balance of power in the Eastern Mediterranean decisively toward the Ottomans, and disrupted established trade routes that helped motivate European exploration of new sea routes to Asia. The flight of Greek scholars to Italy accelerated the Renaissance. Mehmed's conquest established Istanbul as a crossroads of civilizations for the next five centuries.",
+    "ja": "コンスタンティノープルの陥落は世界史上最も重大な結果をもたらした出来事の一つでした。ローマ帝国の最後の残存を終わらせ、東地中海の勢力均衡をオスマン帝国に決定的に傾け、確立された貿易ルートを混乱させてヨーロッパのアジアへの新しい海路の探検を促す一因となりました。ギリシャの学者たちのイタリアへの逃亡はルネサンスを加速させました。メフメトの征服はイスタンブールをその後5世紀にわたる文明の交差点として確立しました。",
+    "zh-CN": "君士坦丁堡的陷落是世界历史上影响最为深远的事件之一。它终结了罗马帝国的最后遗存，将东地中海的力量天平决定性地倾向奥斯曼帝国，打断了既有的贸易路线，这也成为推动欧洲人探索通往亚洲新航路的动因之一。希腊学者逃往意大利加速了文艺复兴。穆罕默德的征服使伊斯坦布尔在此后五个世纪中成为文明的十字路口。"
+  },
+  "furtherReading": [
+    "Roger Crowley — 1453: The Holy War for Constantinople and the Clash of Islam and the West",
+    "Steven Runciman — The Fall of Constantinople 1453",
+    "Judith Herrin — Byzantium: The Surprising Life of a Medieval Empire"
+  ]
+}

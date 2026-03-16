@@ -1,0 +1,164 @@
+{
+  "id": "waterloo-1815",
+  "title": {
+    "en": "Battle of Waterloo",
+    "ja": "ワーテルローの戦い",
+    "zh-CN": "滑铁卢战役"
+  },
+  "period": {
+    "en": "Napoleonic Wars",
+    "ja": "ナポレオン戦争",
+    "zh-CN": "拿破仑战争"
+  },
+  "dates": {
+    "start": "1815-06-18",
+    "end": "1815-06-18"
+  },
+  "location": {
+    "en": "Waterloo, Belgium",
+    "ja": "ベルギー、ワーテルロー",
+    "zh-CN": "比利时滑铁卢"
+  },
+  "historicalOverview": {
+    "en": "The Battle of Waterloo, fought on June 18, 1815, was the decisive engagement that ended Napoleon Bonaparte's rule as Emperor of the French and concluded the Napoleonic Wars. After escaping exile on Elba and reclaiming the throne during the Hundred Days, Napoleon marched north to confront the two Allied armies in Belgium before they could unite: the Duke of Wellington's Anglo-Allied army and Field Marshal Blücher's Prussian forces. Napoleon had defeated the Prussians at Ligny two days earlier, but Wellington held a strong defensive position on the ridge at Mont-Saint-Jean, south of Waterloo. The battle that followed would determine the fate of Europe for the next century.",
+    "ja": "1815年6月18日に戦われたワーテルローの戦いは、ナポレオン・ボナパルトのフランス皇帝としての統治を終わらせ、ナポレオン戦争を終結させた決定的な戦闘でした。エルバ島の流刑から脱出し、百日天下で王位を取り戻した後、ナポレオンはベルギーの二つの連合軍が合流する前に対決するため北へ進軍しました：ウェリントン公爵のイギリス・連合軍とブリュッヒャー元帥のプロイセン軍です。ナポレオンは2日前のリニーの戦いでプロイセン軍を破っていましたが、ウェリントンはワーテルロー南方のモン・サン・ジャンの尾根に強固な防御陣地を構えていました。続く戦闘は次の1世紀のヨーロッパの運命を決定することになります。",
+    "zh-CN": "1815年6月18日的滑铁卢战役是终结拿破仑·波拿巴法兰西皇帝统治、结束拿破仑战争的决定性战役。在从厄尔巴岛流放中逃脱并在百日王朝期间重夺王位后，拿破仑率军北上，企图在比利时的两支联军会合之前将其各个击破：威灵顿公爵的英国及盟军，以及布吕歇尔元帅的普鲁士军队。拿破仑两天前在林尼击败了普鲁士军队，但威灵顿在滑铁卢以南的蒙圣让山脊上占据了坚固的防御阵地。随后的战役将决定欧洲未来一个世纪的命运。"
+  },
+  "realWorldOutcome": {
+    "en": "Napoleon lost the battle decisively. His delay in attacking on the morning of June 18 — waiting for the ground to dry after heavy rain — gave Blücher time to march his Prussians toward the battlefield. The assault on Hougoumont consumed French troops without strategic gain. Marshal Ney's unsupported cavalry charges against Wellington's infantry squares failed. When Blücher's Prussians arrived on Napoleon's right flank in the late afternoon, the French army broke and fled. Napoleon abdicated four days later and was exiled to Saint Helena, where he died in 1821.",
+    "ja": "ナポレオンは決定的に敗北しました。6月18日の朝に攻撃を遅らせたこと——大雨の後、地面が乾くのを待ったこと——は、ブリュッヒャーのプロイセン軍が戦場に向かう時間を与えました。ウーグモンへの攻撃は戦略的成果なくフランス軍を消耗させました。ネイ元帥の無支援の騎兵突撃はウェリントンの方陣に対して失敗しました。午後遅くにブリュッヒャーのプロイセン軍がナポレオンの右翼に到着すると、フランス軍は崩壊して逃走しました。ナポレオンは4日後に退位し、セントヘレナ島に流刑となり、1821年にそこで亡くなりました。",
+    "zh-CN": "拿破仑遭到了决定性的失败。他在6月18日上午推迟进攻——等待大雨过后地面干燥——给了布吕歇尔率普鲁士军队赶赴战场的时间。对乌古蒙的进攻消耗了法军却未获得战略成果。内伊元帅未获支援的骑兵冲锋未能突破威灵顿的步兵方阵。当布吕歇尔的普鲁士军队在傍晚抵达拿破仑右翼时，法军全面崩溃。拿破仑四天后退位，被流放到圣赫勒拿岛，1821年在那里去世。"
+  },
+  "keyFigures": [
+    {
+      "id": "napoleon",
+      "name": "Napoleon Bonaparte",
+      "role": {
+        "en": "Emperor of the French",
+        "ja": "フランス皇帝",
+        "zh-CN": "法兰西皇帝"
+      },
+      "faction": "France",
+      "description": {
+        "en": "The legendary military commander who had dominated Europe for fifteen years, now fighting his last campaign to preserve his restored empire against a coalition of all Europe's great powers.",
+        "ja": "15年にわたりヨーロッパを支配した伝説的な軍事指揮官。今、復活した帝国を守るため、ヨーロッパのすべての大国の連合に対して最後の戦役を戦っている。",
+        "zh-CN": "这位传奇军事统帅主宰了欧洲十五年，如今正在进行最后一场战役，以保卫他恢复的帝国对抗全欧洲列强的联盟。"
+      }
+    },
+    {
+      "id": "wellington",
+      "name": "Arthur Wellesley, Duke of Wellington",
+      "role": {
+        "en": "Commander of the Anglo-Allied Army",
+        "ja": "イギリス・連合軍司令官",
+        "zh-CN": "英国及盟军总司令"
+      },
+      "faction": "Coalition",
+      "description": {
+        "en": "Britain's greatest soldier, a master of defensive warfare who chose the ground at Waterloo with care and held it against everything Napoleon threw at him.",
+        "ja": "イギリス最高の軍人で、防御戦の達人。ワーテルローの地形を慎重に選び、ナポレオンが投入するすべてに対して守り抜いた。",
+        "zh-CN": "英国最伟大的军人，防御战大师，精心选择了滑铁卢的阵地，抵挡住了拿破仑的一切进攻。"
+      }
+    },
+    {
+      "id": "blucher",
+      "name": "Gebhard Leberecht von Blücher",
+      "role": {
+        "en": "Commander of the Prussian Army",
+        "ja": "プロイセン軍司令官",
+        "zh-CN": "普鲁士军队司令"
+      },
+      "faction": "Coalition",
+      "description": {
+        "en": "The seventy-two-year-old Prussian field marshal whose determination to march to Wellington's aid — despite having been defeated at Ligny two days earlier — proved decisive.",
+        "ja": "72歳のプロイセン元帥。2日前にリニーで敗北したにもかかわらず、ウェリントンの援軍に向かう決意が決定的であった。",
+        "zh-CN": "这位七十二岁的普鲁士元帅，尽管两天前在林尼战败，但坚定决心驰援威灵顿，这被证明具有决定性意义。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "napoleon",
+      "scenarioId": "waterloo-1815",
+      "name": "Napoleon Bonaparte",
+      "title": {
+        "en": "Emperor of the French",
+        "ja": "フランス皇帝",
+        "zh-CN": "法兰西皇帝"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Napoleon Bonaparte, Emperor of the French. It is the morning of June 18, 1815. You have returned from exile, reclaimed your throne, and marched north to destroy the Coalition armies before they can unite. Two days ago at Ligny you defeated Blücher's Prussians, and you believe Marshal Grouchy is pursuing their remnants eastward. Now you face Wellington's Anglo-Allied army, deployed along a ridge south of the village of Waterloo. Wellington is a formidable defensive general, but you have beaten every army Europe has sent against you for fifteen years. Your army is confident, your artillery is superior, and you believe one decisive blow will shatter the Coalition and restore your empire. The ground is sodden from last night's rain. Your artillery officers urge delay until it dries. The clock is ticking — every hour increases the chance that Blücher, if not fully routed, could march to join Wellington. This is your last battle. Everything depends on what you decide today.",
+        "ja": "あなたはフランス皇帝ナポレオン・ボナパルトです。1815年6月18日の朝です。あなたは流刑から帰還し、王位を取り戻し、連合軍が合流する前に壊滅させるため北へ進軍しました。2日前のリニーでブリュッヒャーのプロイセン軍を破り、グルーシー元帥がその残党を東方に追撃していると確信しています。今あなたはワーテルロー村の南の尾根に展開するウェリントンのイギリス・連合軍と対峙しています。ウェリントンは手強い防御の将軍ですが、あなたは15年間ヨーロッパが送り込んだすべての軍を打ち破ってきました。あなたの軍は自信に満ち、砲兵は優秀で、一撃で連合を粉砕し帝国を復活させられると信じています。昨夜の雨で地面はぬかるんでいます。砲兵将校たちは地面が乾くまで待つよう進言しています。時は刻々と過ぎています——1時間ごとに、完全に敗走していなければブリュッヒャーがウェリントンと合流する可能性が高まります。これはあなたの最後の戦いです。すべてはあなたが今日決めることにかかっています。",
+        "zh-CN": "您是法兰西皇帝拿破仑·波拿巴。现在是1815年6月18日清晨。您从流放中归来，重夺王位，率军北上，要在联军会合之前将其各个击破。两天前在林尼，您击败了布吕歇尔的普鲁士军队，您相信格鲁希元帅正在向东追击其残部。现在您面对威灵顿的英国及盟军，他们沿滑铁卢村以南的山脊部署。威灵顿是一位令人畏惧的防御将军，但十五年来您击败了欧洲派来对抗您的每一支军队。您的军队信心十足，您的炮兵占优势，您相信一次决定性打击就能粉碎联盟、恢复帝国。昨夜大雨过后地面泥泞。炮兵军官们建议等地面干燥后再进攻。时间在一分一秒流逝——每过一个小时，布吕歇尔如果没有被彻底击溃，就更有可能赶来与威灵顿会合。这是您最后的战役。一切取决于您今天的决定。"
+      },
+      "objectives": [
+        {
+          "en": "Defeat Wellington's army before Blücher can arrive with Prussian reinforcements",
+          "ja": "ブリュッヒャーがプロイセンの援軍と到着する前にウェリントンの軍を打ち破る",
+          "zh-CN": "在布吕歇尔率普鲁士援军到达之前击败威灵顿的军队"
+        },
+        {
+          "en": "Restore the French Empire and break the Seventh Coalition",
+          "ja": "フランス帝国を復活させ、第七次対仏大同盟を打破する",
+          "zh-CN": "恢复法兰西帝国并瓦解第七次反法同盟"
+        },
+        {
+          "en": "Preserve the Grande Armée as a fighting force regardless of the day's outcome",
+          "ja": "今日の結果にかかわらず、大陸軍を戦闘力として保全する",
+          "zh-CN": "无论今日结果如何，保存大军团的战斗力"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "The ground is waterlogged from overnight rain; artillery effectiveness is severely reduced until it dries",
+          "ja": "夜間の雨で地面が水浸しになっている。地面が乾くまで砲兵の効果が著しく低下する",
+          "zh-CN": "地面因夜间降雨积水严重；在干燥之前炮兵效能大幅降低"
+        },
+        {
+          "en": "You have no reliable intelligence on Blücher's whereabouts or Grouchy's progress in pursuing him",
+          "ja": "ブリュッヒャーの所在やグルーシーの追撃の進捗に関する信頼できる情報がない",
+          "zh-CN": "您没有关于布吕歇尔下落或格鲁希追击进展的可靠情报"
+        },
+        {
+          "en": "Wellington has chosen strong defensive terrain; a frontal assault will be costly",
+          "ja": "ウェリントンは強力な防御地形を選んでいる。正面突撃は犠牲が大きい",
+          "zh-CN": "威灵顿选择了有利的防御地形；正面进攻代价高昂"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "France's political support for Napoleon's return is fragile; a defeat here will end everything permanently",
+          "ja": "ナポレオンの帰還に対するフランスの政治的支持は脆弱である。ここでの敗北はすべてを永久に終わらせる",
+          "zh-CN": "法国对拿破仑复辟的政治支持十分脆弱；这里的失败将永久终结一切"
+        },
+        {
+          "en": "Many of Napoleon's marshals doubt the campaign; their loyalty is uncertain",
+          "ja": "ナポレオンの多くの元帥がこの戦役に疑念を抱いている。彼らの忠誠は不確かである",
+          "zh-CN": "拿破仑的许多元帅对这场战役持怀疑态度；他们的忠诚并不确定"
+        },
+        {
+          "en": "Austrian and Russian armies are mobilizing; if Wellington is not defeated quickly, more enemies will arrive within weeks",
+          "ja": "オーストリア軍とロシア軍が動員中である。ウェリントンを迅速に撃破できなければ、数週間以内にさらなる敵が到着する",
+          "zh-CN": "奥地利和俄罗斯军队正在动员；如果不能迅速击败威灵顿，更多敌人将在数周内到达"
+        }
+      ],
+      "startingSceneId": "waterloo-1815-scene-001",
+      "initialState": {
+        "frenchMorale": 80,
+        "cavalryReserve": 70,
+        "artilleryAmmo": 80,
+        "blucherDistance": 100,
+        "weatherCondition": 30
+      }
+    }
+  ],
+  "sceneIds": [
+    "waterloo-1815-scene-001",
+    "waterloo-1815-scene-002",
+    "waterloo-1815-scene-003"
+  ],
+  "tags": ["Napoleonic", "military", "France", "Belgium", "decisive battle"],
+  "difficulty": "advanced"
+}

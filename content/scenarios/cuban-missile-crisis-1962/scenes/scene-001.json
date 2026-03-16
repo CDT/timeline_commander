@@ -1,0 +1,114 @@
+{
+  "id": "cuban-missile-crisis-1962-scene-001",
+  "scenarioId": "cuban-missile-crisis-1962",
+  "title": "Discovery",
+  "date": {
+    "en": "October 16, 1962",
+    "ja": "1962年10月16日",
+    "zh-CN": "1962年10月16日"
+  },
+  "location": {
+    "en": "The White House, Washington D.C.",
+    "ja": "ホワイトハウス、ワシントンD.C.",
+    "zh-CN": "白宫，华盛顿特区"
+  },
+  "narrativePrompt": {
+    "en": "McGeorge Bundy has just delivered the photographs to your desk. The grainy black-and-white images leave no room for doubt: Soviet medium-range ballistic missiles are being installed in Cuba, ninety miles from Florida. You have convened the Executive Committee of the National Security Council — ExComm — in the Cabinet Room. The faces around the table are grim. Secretary McNamara lays out the military options. The Joint Chiefs, led by General Curtis LeMay, are unanimous: strike now, before the missiles become operational. Ambassador Adlai Stevenson urges caution and diplomacy. Your brother Bobby watches quietly from the corner. The Soviets don't know you know. That advantage won't last. Every hour that passes, construction crews in Cuba work to make the missiles ready. You must decide: how will the United States respond?",
+    "ja": "マクジョージ・バンディがあなたの机に写真を届けたばかりです。粒子の粗い白黒の画像は疑う余地を残しません：フロリダからわずか90マイルのキューバに、ソ連の中距離弾道ミサイルが設置されています。あなたは閣議室に国家安全保障会議の執行委員会——エクスコム——を招集しました。テーブルを囲む顔は厳しい。マクナマラ国防長官が軍事的選択肢を説明します。カーティス・ルメイ将軍率いる統合参謀本部は全員一致です：ミサイルが運用可能になる前に、今すぐ攻撃せよ。アドレー・スティーブンソン国連大使は慎重さと外交を促します。弟のボビーが隅から静かに見守っています。ソ連はあなたが知っていることを知りません。その優位性は長続きしません。時間が経つごとに、キューバの建設作業員たちがミサイルの準備を進めています。あなたは決断しなければなりません：アメリカはどう対応するのか？",
+    "zh-CN": "麦乔治·邦迪刚刚把照片送到您的办公桌上。颗粒粗糙的黑白照片不容置疑：苏联中程弹道导弹正在距佛罗里达仅90英里的古巴安装。您已在内阁会议室召集了国家安全委员会执行委员会——ExComm。围坐在桌旁的面孔都十分凝重。麦克纳马拉国防部长列出了军事选项。以柯蒂斯·李梅将军为首的参谋长联席会议意见一致：趁导弹尚未投入使用，立即打击。联合国大使阿德莱·史蒂文森敦促谨慎和外交手段。您的弟弟鲍比在角落里默默注视着。苏联人不知道您已经知情。这一优势不会持续太久。每过一个小时，古巴的施工人员都在加紧让导弹准备就绪。您必须做出决定：美国将如何回应？"
+  },
+  "situationReport": [
+    {
+      "en": "CIA U-2 photographs confirm Soviet MRBM sites under construction near San Cristóbal, Cuba",
+      "ja": "CIAのU-2偵察写真がキューバのサン・クリストバル近くでソ連のMRBM施設が建設中であることを確認",
+      "zh-CN": "CIA U-2侦察照片确认苏联中程弹道导弹发射场正在古巴圣克里斯托瓦尔附近建设"
+    },
+    {
+      "en": "The missiles could be operational within two weeks, capable of striking Washington D.C. in thirteen minutes",
+      "ja": "ミサイルは2週間以内に運用可能となり、13分以内にワシントンD.C.を攻撃できる",
+      "zh-CN": "导弹可能在两周内投入使用，能在十三分钟内打击华盛顿特区"
+    },
+    {
+      "en": "The Joint Chiefs of Staff unanimously recommend an immediate air strike followed by invasion",
+      "ja": "統合参謀本部は全員一致で即時空爆とそれに続く侵攻を勧告",
+      "zh-CN": "参谋长联席会议一致建议立即实施空袭并随后进行入侵"
+    },
+    {
+      "en": "The Soviets do not yet know that the United States has discovered the missiles",
+      "ja": "ソ連はまだアメリカがミサイルを発見したことを知らない",
+      "zh-CN": "苏联尚不知道美国已经发现了导弹"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Choose the American response to Soviet missiles in Cuba",
+      "ja": "キューバのソ連ミサイルに対するアメリカの対応を選択する",
+      "zh-CN": "选择美国对古巴苏联导弹的回应方式"
+    },
+    {
+      "en": "Balance the need for decisive action against the risk of nuclear escalation",
+      "ja": "断固たる行動の必要性と核のエスカレーションのリスクのバランスをとる",
+      "zh-CN": "在果断行动的需要与核升级的风险之间取得平衡"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Missile sites may become operational within two weeks — every day of delay increases the threat",
+      "ja": "ミサイル施設は2週間以内に運用可能になる可能性がある——遅れる一日ごとに脅威が増す",
+      "zh-CN": "导弹基地可能在两周内投入使用——每拖延一天，威胁就增加一分"
+    },
+    {
+      "en": "Congressional midterm elections are three weeks away — political pressure is intense",
+      "ja": "議会中間選挙が3週間後に迫っている——政治的圧力が激しい",
+      "zh-CN": "国会中期选举在三周后——政治压力巨大"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Announce a naval quarantine of Cuba. A blockade in all but name buys time for diplomacy while demonstrating American resolve. No shots need be fired — yet.",
+        "ja": "キューバの海上封鎖を宣言する。名目上は封鎖ではないが、外交のための時間を稼ぎつつアメリカの決意を示す。まだ一発も撃つ必要はない。",
+        "zh-CN": "宣布对古巴实施海上隔离。名义上不是封锁，但能为外交争取时间，同时展示美国的决心。目前还不需要开一枪。"
+      },
+      "historicalContext": "The historical choice — Kennedy announced the quarantine on October 22 in a nationally televised address.",
+      "outcomePrompt": {
+        "en": "You spend the next six days in intense deliberation with ExComm, carefully crafting the quarantine plan. On the evening of October 22, you address the nation on live television. You reveal the missiles, denounce the Soviet deception, and announce a strict naval quarantine around Cuba. American forces worldwide go to DEFCON 3. The Organization of American States votes unanimously to support the quarantine. At the United Nations, Adlai Stevenson confronts the Soviet ambassador with the photographs. World opinion rallies behind you. But Khrushchev calls the quarantine an act of piracy and vows his ships will not stop. The Navy reports twenty-five Soviet vessels steaming toward Cuba. The quarantine line is drawn five hundred miles out. The world holds its breath.",
+        "ja": "あなたは次の6日間、エクスコムと集中的に協議し、封鎖計画を慎重に練り上げます。10月22日の夜、テレビの生中継で国民に演説します。ミサイルの存在を明かし、ソ連の欺瞞を非難し、キューバ周辺の厳格な海上封鎖を宣言します。世界中のアメリカ軍がデフコン3に移行します。米州機構は全会一致で封鎖を支持します。国連で、スティーブンソンがソ連大使に写真を突きつけます。世界の世論があなたの味方につきます。しかしフルシチョフは封鎖を海賊行為と呼び、船は停止しないと誓います。海軍は25隻のソ連船がキューバに向かっていると報告します。封鎖線は500マイル沖に引かれます。世界が息をのみます。",
+        "zh-CN": "接下来的六天里，您与执行委员会进行了密集的磋商，精心制定隔离计划。10月22日晚，您通过电视直播向全国发表讲话。您揭露了导弹的存在，谴责苏联的欺骗行为，并宣布对古巴实施严格的海上隔离。全球美军进入三级战备状态。美洲国家组织全票支持隔离行动。在联合国，史蒂文森用照片当面质问苏联大使。世界舆论站在您这一边。但赫鲁晓夫称隔离是海盗行为，并誓言他的船只不会停下。海军报告二十五艘苏联船只正驶向古巴。隔离线划在五百英里外。全世界屏住呼吸。"
+      },
+      "nextSceneId": "cuban-missile-crisis-1962-scene-002",
+      "stateChanges": [
+        { "variable": "defcon", "operation": "set", "value": 3 },
+        { "variable": "sovietAggression", "operation": "add", "value": 5 },
+        { "variable": "publicAnxiety", "operation": "add", "value": 15 },
+        { "variable": "militaryPressure", "operation": "add", "value": -10 },
+        { "variable": "diplomaticOptions", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Order an immediate air strike on the missile sites. Destroy the missiles before they become operational. The Joint Chiefs say they can be ready within seventy-two hours.",
+        "ja": "ミサイル施設への即時空爆を命じる。運用可能になる前にミサイルを破壊する。統合参謀本部は72時間以内に準備できると言っている。",
+        "zh-CN": "下令立即对导弹基地实施空袭。在导弹投入使用前将其摧毁。参谋长联席会议表示可以在七十二小时内准备就绪。"
+      },
+      "historicalContext": "A counterfactual — the air strike option was strongly favored by the Joint Chiefs but rejected by Kennedy, who feared it would kill Soviet personnel and trigger an uncontrollable escalation.",
+      "outcomePrompt": {
+        "en": "You give the order. On October 19, American bombers sweep over western Cuba at dawn. The strikes hit the identified missile sites with devastating precision, but intelligence was incomplete — not all sites are destroyed. Worse, the strikes kill over one hundred Soviet military technicians. Khrushchev is incandescent with rage. He calls it an act of war against the Soviet Union. Soviet forces in Berlin go on high alert. The world's stock markets crash. America's NATO allies, who were not consulted, express shock and dismay. At the United Nations, the United States faces widespread condemnation. And from Cuba, reports arrive that construction continues at sites the bombers missed. The Joint Chiefs now press for a full-scale invasion to finish the job.",
+        "ja": "あなたは命令を下します。10月19日、アメリカの爆撃機が夜明けにキューバ西部を急襲します。攻撃は確認されたミサイル施設を壊滅的な精度で攻撃しますが、情報は不完全でした——すべての施設が破壊されたわけではありません。さらに悪いことに、攻撃は100人以上のソ連軍技術者を殺害します。フルシチョフは激怒します。彼はこれをソ連に対する戦争行為と呼びます。ベルリンのソ連軍が厳戒態勢に入ります。世界の株式市場が暴落します。相談を受けなかったアメリカのNATO同盟国は衝撃と失望を表明します。国連で、アメリカは広範な非難に直面します。そしてキューバからは、爆撃機が見逃した施設で建設が続いているという報告が届きます。統合参謀本部は仕事を完了するために全面侵攻を要求します。",
+        "zh-CN": "您下达了命令。10月19日，美国轰炸机在黎明时分掠过古巴西部。空袭以毁灭性的精度打击了已确认的导弹基地，但情报并不完整——并非所有基地都被摧毁。更糟糕的是，空袭导致一百多名苏联军事技术人员丧生。赫鲁晓夫怒不可遏。他称这是对苏联的战争行为。柏林的苏联军队进入高度戒备状态。全球股市暴跌。未被事先咨询的北约盟国表示震惊和不安。在联合国，美国面临广泛谴责。而从古巴传来报告，轰炸机遗漏的基地仍在继续施工。参谋长联席会议现在要求进行全面入侵以完成任务。"
+      },
+      "nextSceneId": "cuban-missile-crisis-1962-scene-002",
+      "stateChanges": [
+        { "variable": "defcon", "operation": "set", "value": 2 },
+        { "variable": "sovietAggression", "operation": "add", "value": 25 },
+        { "variable": "publicAnxiety", "operation": "add", "value": 30 },
+        { "variable": "militaryPressure", "operation": "add", "value": 15 },
+        { "variable": "diplomaticOptions", "operation": "add", "value": -25 }
+      ]
+    }
+  ],
+  "roleFilter": ["jfk-role"],
+  "isTerminal": false
+}
