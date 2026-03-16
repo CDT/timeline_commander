@@ -75,6 +75,25 @@ function gradeTheme(grade: string) {
   return GRADE_THEMES[grade] ?? GRADE_THEMES["C"];
 }
 
+function SkeletonBlock({ lines = 3 }: { lines?: number }) {
+  return (
+    <div style={{ display: "flex", flexDirection: "column", gap: "0.6rem" }}>
+      {Array.from({ length: lines }).map((_, i) => (
+        <div
+          key={i}
+          className="tc-pulse"
+          style={{
+            height: "0.85rem",
+            borderRadius: 3,
+            background: "var(--tc-border)",
+            width: i === lines - 1 ? "60%" : "100%",
+          }}
+        />
+      ))}
+    </div>
+  );
+}
+
 // ─── Component ────────────────────────────────────────────────────────────────
 
 interface Props {
@@ -87,6 +106,8 @@ export default function SummaryView({ sessionId, locale }: Props) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [expandedDecision, setExpandedDecision] = useState<number | null>(0);
+  const [hasSummary, setHasSummary] = useState(false);
+  const [hasEvaluations, setHasEvaluations] = useState(false);
 
   useEffect(() => {
     let cancelled = false;
@@ -102,7 +123,12 @@ export default function SummaryView({ sessionId, locale }: Props) {
 
         while (true) {
           const { done, value } = await reader.read();
-          if (done) break;
+          if (done) {
+            // Stream ended — if AI calls failed/timed out, show fallbacks
+            setHasSummary(true);
+            setHasEvaluations(true);
+            break;
+          }
           buffer += decoder.decode(value, { stream: true });
 
           // Parse SSE events from buffer
@@ -132,6 +158,7 @@ export default function SummaryView({ sessionId, locale }: Props) {
                   divergenceAnalysis: event.data.divergenceAnalysis,
                   keyInfluences: event.data.keyInfluences,
                 } : prev);
+                setHasSummary(true);
               } else if (event.type === "evaluations") {
                 setSummary((prev) => prev ? {
                   ...prev,
@@ -139,6 +166,7 @@ export default function SummaryView({ sessionId, locale }: Props) {
                   overallGrade: event.data.overallGrade,
                   overallAssessment: event.data.overallAssessment,
                 } : prev);
+                setHasEvaluations(true);
               }
             } catch {
               // Skip malformed events
@@ -186,11 +214,15 @@ export default function SummaryView({ sessionId, locale }: Props) {
 
       {/* Alternate history narrative */}
       <section style={{ marginBottom: "2.5rem" }}>
-        <div className="tc-prose" style={{ color: "var(--tc-text)", lineHeight: 1.85 }}>
-          {summary.alternateHistoryNarrative.split("\n").filter(Boolean).map((para, i) => (
-            <p key={i}>{para}</p>
-          ))}
-        </div>
+        {hasSummary ? (
+          <div className="tc-prose" style={{ color: "var(--tc-text)", lineHeight: 1.85 }}>
+            {summary.alternateHistoryNarrative.split("\n").filter(Boolean).map((para, i) => (
+              <p key={i}>{para}</p>
+            ))}
+          </div>
+        ) : (
+          <SkeletonBlock lines={4} />
+        )}
       </section>
 
       {/* What actually happened */}
@@ -202,32 +234,40 @@ export default function SummaryView({ sessionId, locale }: Props) {
       </section>
 
       {/* Divergence analysis */}
-      {summary.divergenceAnalysis && (
-        <section style={{ marginBottom: "2rem" }}>
-          <div style={labelStyle}>{t("divergence", locale)}</div>
-          <div className="tc-prose" style={{ color: "var(--tc-text)", lineHeight: 1.8 }}>
-            {summary.divergenceAnalysis.split("\n").filter(Boolean).map((para, i) => (
-              <p key={i} style={{ fontSize: "0.95rem" }}>{para}</p>
-            ))}
-          </div>
-        </section>
-      )}
+      <section style={{ marginBottom: "2rem" }}>
+        <div style={labelStyle}>{t("divergence", locale)}</div>
+        {hasSummary ? (
+          summary.divergenceAnalysis && (
+            <div className="tc-prose" style={{ color: "var(--tc-text)", lineHeight: 1.8 }}>
+              {summary.divergenceAnalysis.split("\n").filter(Boolean).map((para, i) => (
+                <p key={i} style={{ fontSize: "0.95rem" }}>{para}</p>
+              ))}
+            </div>
+          )
+        ) : (
+          <SkeletonBlock lines={3} />
+        )}
+      </section>
 
       {/* Key influences */}
-      {summary.keyInfluences.length > 0 && (
-        <section style={{ marginBottom: "2.5rem" }}>
-          <div style={labelStyle}>{t("keyDecisions", locale)}</div>
-          <ul style={{ margin: 0, paddingLeft: "1.25rem" }}>
-            {summary.keyInfluences.map((item, i) => (
-              <li key={i} style={{ color: "var(--tc-text)", fontSize: "0.9rem", marginBottom: "0.5rem" }}>{item}</li>
-            ))}
-          </ul>
-        </section>
-      )}
+      <section style={{ marginBottom: "2.5rem" }}>
+        <div style={labelStyle}>{t("keyDecisions", locale)}</div>
+        {hasSummary ? (
+          summary.keyInfluences.length > 0 && (
+            <ul style={{ margin: 0, paddingLeft: "1.25rem" }}>
+              {summary.keyInfluences.map((item, i) => (
+                <li key={i} style={{ color: "var(--tc-text)", fontSize: "0.9rem", marginBottom: "0.5rem" }}>{item}</li>
+              ))}
+            </ul>
+          )
+        ) : (
+          <SkeletonBlock lines={3} />
+        )}
+      </section>
 
       {/* ═══ OVERALL GRADE — hero card ═══ */}
-      {summary.overallGrade && (
-        <section style={{ marginBottom: "2.5rem" }}>
+      <section style={{ marginBottom: "2.5rem" }}>
+        {hasEvaluations ? (
           <div
             style={{
               background: overallTheme.gradient,
@@ -311,13 +351,36 @@ export default function SummaryView({ sessionId, locale }: Props) {
               </p>
             )}
           </div>
-        </section>
-      )}
+        ) : (
+          <div
+            style={{
+              background: "var(--tc-surface)",
+              border: "1px solid var(--tc-border)",
+              borderRadius: 8,
+              padding: "2rem 1.5rem",
+              textAlign: "center",
+            }}
+          >
+            <div style={labelStyle}>{t("overallPerformance", locale)}</div>
+            <div
+              className="tc-pulse"
+              style={{
+                width: 64,
+                height: 64,
+                borderRadius: 8,
+                background: "var(--tc-border)",
+                margin: "0.5rem auto 1rem",
+              }}
+            />
+            <SkeletonBlock lines={2} />
+          </div>
+        )}
+      </section>
 
       {/* ═══ DECISION-BY-DECISION EVALUATION ═══ */}
-      {summary.choiceEvaluations && summary.choiceEvaluations.length > 0 && (
-        <section style={{ marginBottom: "2.5rem" }}>
-          <div style={labelStyle}>{t("decisionEval", locale)}</div>
+      <section style={{ marginBottom: "2.5rem" }}>
+        <div style={labelStyle}>{t("decisionEval", locale)}</div>
+        {hasEvaluations ? (
           <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
             {summary.choiceEvaluations.map((evaluation, i) => (
               <EvaluationCard
@@ -330,8 +393,37 @@ export default function SummaryView({ sessionId, locale }: Props) {
               />
             ))}
           </div>
-        </section>
-      )}
+        ) : (
+          <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
+            {summary.choiceEvaluations.map((_, i) => (
+              <div
+                key={i}
+                style={{
+                  background: "var(--tc-surface)",
+                  border: "1px solid var(--tc-border)",
+                  borderLeft: "4px solid var(--tc-border)",
+                  borderRadius: 6,
+                  padding: "1rem 1.25rem",
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "0.75rem",
+                }}
+              >
+                <div
+                  className="tc-pulse"
+                  style={{ width: 40, height: 40, borderRadius: 6, background: "var(--tc-border)", flexShrink: 0 }}
+                />
+                <div style={{ flex: 1 }}>
+                  <div style={{ fontSize: "0.7rem", color: "var(--tc-muted)", marginBottom: "0.3rem" }}>
+                    {t("decision", locale)} {i + 1}
+                  </div>
+                  <div className="tc-pulse" style={{ height: "0.85rem", borderRadius: 3, background: "var(--tc-border)", width: "70%" }} />
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+      </section>
 
       <a href="/" style={homeLinkStyle}>
         {t("returnHome", locale)}
