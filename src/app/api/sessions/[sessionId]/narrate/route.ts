@@ -10,6 +10,10 @@ import {
 } from "@/lib/ai/narration";
 
 export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+const CHUNK_TIMEOUT_MS = 30_000;
+const KEEPALIVE_INTERVAL_MS = 10_000;
 
 export async function POST(
   request: NextRequest,
@@ -75,22 +79,45 @@ export async function POST(
   const encoder = new TextEncoder();
   const readable = new ReadableStream({
     async start(controller) {
-      try {
-        for await (const chunk of stream) {
-          controller.enqueue(encoder.encode(chunk));
+      // Keepalive: send SSE comments periodically to prevent proxy/browser timeouts
+      const keepalive = setInterval(() => {
+        try {
+          controller.enqueue(encoder.encode(":\n\n"));
+        } catch {
+          clearInterval(keepalive);
         }
+      }, KEEPALIVE_INTERVAL_MS);
+
+      try {
+        const iterator = stream[Symbol.asyncIterator]();
+        while (true) {
+          const next = iterator.next();
+          const timeout = new Promise<never>((_, reject) =>
+            setTimeout(() => reject(new Error("Stream chunk timeout")), CHUNK_TIMEOUT_MS)
+          );
+          const { done, value } = await Promise.race([next, timeout]);
+          if (done) break;
+          // SSE data event — encode text as single-line data field
+          const lines = value.replace(/\n/g, "\ndata: ");
+          controller.enqueue(encoder.encode(`data: ${lines}\n\n`));
+        }
+        controller.enqueue(encoder.encode("data: [DONE]\n\n"));
       } catch {
-        // If AI fails mid-stream, just close gracefully
+        // If AI fails or stalls mid-stream, signal end
+        controller.enqueue(encoder.encode("data: [DONE]\n\n"));
       }
+
+      clearInterval(keepalive);
       controller.close();
     },
   });
 
   return new Response(readable, {
     headers: {
-      "Content-Type": "text/plain; charset=utf-8",
-      "Cache-Control": "no-cache",
-      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/event-stream; charset=utf-8",
+      "Cache-Control": "no-cache, no-transform",
+      "Connection": "keep-alive",
+      "X-Accel-Buffering": "no",
     },
   });
 }

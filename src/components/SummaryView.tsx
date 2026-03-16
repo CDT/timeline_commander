@@ -105,14 +105,23 @@ export default function SummaryView({ sessionId, locale }: Props) {
           if (done) break;
           buffer += decoder.decode(value, { stream: true });
 
-          // Process complete NDJSON lines
-          const lines = buffer.split("\n");
-          buffer = lines.pop() ?? "";
+          // Parse SSE events from buffer
+          const parts = buffer.split("\n\n");
+          buffer = parts.pop() ?? "";
 
-          for (const line of lines) {
-            if (!line.trim() || cancelled) continue;
+          for (const part of parts) {
+            if (!part.trim() || part.trim().startsWith(":") || cancelled) continue;
+
+            const dataLines = part
+              .split("\n")
+              .filter((l) => l.startsWith("data: "))
+              .map((l) => l.slice(6));
+
+            const data = dataLines.join("\n");
+            if (!data || data === "[DONE]") continue;
+
             try {
-              const event = JSON.parse(line);
+              const event = JSON.parse(data);
               if (event.type === "base") {
                 setSummary(event.data);
                 setLoading(false);
@@ -132,7 +141,7 @@ export default function SummaryView({ sessionId, locale }: Props) {
                 } : prev);
               }
             } catch {
-              // Skip malformed lines
+              // Skip malformed events
             }
           }
         }

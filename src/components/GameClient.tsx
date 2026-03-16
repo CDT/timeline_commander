@@ -32,6 +32,8 @@ type GamePhase =
   | { type: "outcome"; nextScene: ResolvedScene | null; isTerminal: boolean }
   | { type: "summary" };
 
+const STALL_TIMEOUT_MS = 35_000;
+
 async function streamNarration(
   sessionId: string,
   body: { type: "scene" | "outcome"; outcomePrompt?: string; choiceText?: string },
@@ -52,13 +54,46 @@ async function streamNarration(
   const reader = res.body.getReader();
   const decoder = new TextDecoder();
   let accumulated = "";
+  let buffer = "";
+  let stallTimer: ReturnType<typeof setTimeout> | undefined;
 
-  while (true) {
-    const { done, value } = await reader.read();
-    if (done) break;
-    const chunk = decoder.decode(value, { stream: true });
-    accumulated += chunk;
-    onChunk(accumulated);
+  const resetStallTimer = () => {
+    clearTimeout(stallTimer);
+    stallTimer = setTimeout(() => {
+      reader.cancel("Stream stalled");
+    }, STALL_TIMEOUT_MS);
+  };
+
+  resetStallTimer();
+  try {
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      resetStallTimer();
+      buffer += decoder.decode(value, { stream: true });
+
+      // Parse SSE events from buffer
+      const parts = buffer.split("\n\n");
+      buffer = parts.pop() ?? "";
+
+      for (const part of parts) {
+        // Skip SSE comments (keepalive)
+        if (!part.trim() || part.trim().startsWith(":")) continue;
+
+        const dataLines = part
+          .split("\n")
+          .filter((l) => l.startsWith("data: "))
+          .map((l) => l.slice(6));
+
+        const data = dataLines.join("\n");
+        if (!data || data === "[DONE]") continue;
+
+        accumulated += data;
+        onChunk(accumulated);
+      }
+    }
+  } finally {
+    clearTimeout(stallTimer);
   }
 
   return accumulated;

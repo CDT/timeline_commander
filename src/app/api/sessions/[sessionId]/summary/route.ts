@@ -1,11 +1,24 @@
 import { NextRequest } from "next/server";
 import { apiError } from "@/lib/api-helpers";
 import { getSession } from "@/lib/store";
-import { buildSummaryInput, assembleSummary } from "@/lib/engine/summary-builder";
+import { buildSummaryInput } from "@/lib/engine/summary-builder";
 import { generateSummary, generateEvaluations, getProviderForSession } from "@/lib/ai/narration";
 import type { ChoiceEvaluation, OverallGrade } from "@/lib/types";
 
 export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+const AI_CALL_TIMEOUT_MS = 90_000;
+const KEEPALIVE_INTERVAL_MS = 10_000;
+
+function withTimeout<T>(promise: Promise<T>, ms: number): Promise<T> {
+  return Promise.race([
+    promise,
+    new Promise<never>((_, reject) =>
+      setTimeout(() => reject(new Error("AI call timed out")), ms)
+    ),
+  ]);
+}
 
 function buildFallbackEvaluations(
   decisionContexts: ReturnType<typeof buildSummaryInput>["decisionContexts"]
@@ -56,23 +69,32 @@ export async function GET(
     return apiError("SESSION_NOT_FOUND", `Session not found: ${sessionId}`, 404);
   }
 
-  const { roleName, realHistoricalOutcome, decisionContexts } = buildSummaryInput(session);
+  const { realHistoricalOutcome, decisionContexts } = buildSummaryInput(session);
 
   const fallbackEvaluations = buildFallbackEvaluations(decisionContexts);
   const provider = getProviderForSession(session);
 
-  // Stream results as NDJSON so frontend can render progressively
   const encoder = new TextEncoder();
   const readable = new ReadableStream({
     async start(controller) {
-      function send(event: object) {
-        controller.enqueue(encoder.encode(JSON.stringify(event) + "\n"));
+      function sendSSE(data: object) {
+        controller.enqueue(encoder.encode(`data: ${JSON.stringify(data)}\n\n`));
       }
 
+      // Keepalive to prevent proxy/browser timeouts during AI generation
+      const keepalive = setInterval(() => {
+        try {
+          controller.enqueue(encoder.encode(":\n\n"));
+        } catch {
+          clearInterval(keepalive);
+        }
+      }, KEEPALIVE_INTERVAL_MS);
+
       // Send base summary data immediately (no AI needed)
-      const scenario = await import("@/lib/engine/scenario-loader").then(m => m.loadScenario(session.scenarioId));
+      const { loadScenario } = await import("@/lib/engine/scenario-loader");
+      const scenario = loadScenario(session.scenarioId);
       const role = scenario.roles.find((r: { id: string }) => r.id === session.roleId);
-      send({
+      sendSSE({
         type: "base",
         data: {
           sessionId: session.id,
@@ -86,7 +108,6 @@ export async function GET(
           realHistoricalOutcome,
           aiProvider: session.aiProvider,
           generatedAt: new Date().toISOString(),
-          // Defaults until AI results arrive
           alternateHistoryNarrative: "Your decisions shaped an alternate history that diverged from the real events.",
           divergenceAnalysis: realHistoricalOutcome,
           keyInfluences: session.decisions.map((d) => d.choiceText),
@@ -96,33 +117,29 @@ export async function GET(
         },
       });
 
-      // Run AI calls in parallel, stream each result as it arrives
-      const summaryPromise = generateSummary(provider, session)
-        .then((result) => {
-          send({ type: "summary", data: result });
-        })
-        .catch(() => {
-          // Fallback already sent in base
-        });
+      // Run AI calls in parallel with timeout, stream each result as it arrives
+      const summaryPromise = withTimeout(generateSummary(provider, session), AI_CALL_TIMEOUT_MS)
+        .then((result) => sendSSE({ type: "summary", data: result }))
+        .catch(() => { /* fallback already sent */ });
 
-      const evalPromise = generateEvaluations(provider, session, decisionContexts)
-        .then((result) => {
-          send({ type: "evaluations", data: result });
-        })
-        .catch(() => {
-          // Fallback already sent in base
-        });
+      const evalPromise = withTimeout(generateEvaluations(provider, session, decisionContexts), AI_CALL_TIMEOUT_MS)
+        .then((result) => sendSSE({ type: "evaluations", data: result }))
+        .catch(() => { /* fallback already sent */ });
 
       await Promise.all([summaryPromise, evalPromise]);
+
+      clearInterval(keepalive);
+      controller.enqueue(encoder.encode("data: [DONE]\n\n"));
       controller.close();
     },
   });
 
   return new Response(readable, {
     headers: {
-      "Content-Type": "application/x-ndjson; charset=utf-8",
-      "Cache-Control": "no-cache",
-      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/event-stream; charset=utf-8",
+      "Cache-Control": "no-cache, no-transform",
+      "Connection": "keep-alive",
+      "X-Accel-Buffering": "no",
     },
   });
 }
