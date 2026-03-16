@@ -89,16 +89,63 @@ export default function SummaryView({ sessionId, locale }: Props) {
   const [expandedDecision, setExpandedDecision] = useState<number | null>(0);
 
   useEffect(() => {
-    fetch(`/api/sessions/${sessionId}/summary`)
-      .then((r) => r.json())
-      .then((d) => {
-        setSummary(d.summary);
-        setLoading(false);
-      })
-      .catch((e) => {
-        setError(e.message);
-        setLoading(false);
-      });
+    let cancelled = false;
+
+    async function streamSummary() {
+      try {
+        const res = await fetch(`/api/sessions/${sessionId}/summary`);
+        if (!res.ok || !res.body) throw new Error("Summary request failed");
+
+        const reader = res.body.getReader();
+        const decoder = new TextDecoder();
+        let buffer = "";
+
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          buffer += decoder.decode(value, { stream: true });
+
+          // Process complete NDJSON lines
+          const lines = buffer.split("\n");
+          buffer = lines.pop() ?? "";
+
+          for (const line of lines) {
+            if (!line.trim() || cancelled) continue;
+            try {
+              const event = JSON.parse(line);
+              if (event.type === "base") {
+                setSummary(event.data);
+                setLoading(false);
+              } else if (event.type === "summary") {
+                setSummary((prev) => prev ? {
+                  ...prev,
+                  alternateHistoryNarrative: event.data.alternateHistoryNarrative,
+                  divergenceAnalysis: event.data.divergenceAnalysis,
+                  keyInfluences: event.data.keyInfluences,
+                } : prev);
+              } else if (event.type === "evaluations") {
+                setSummary((prev) => prev ? {
+                  ...prev,
+                  choiceEvaluations: event.data.choiceEvaluations,
+                  overallGrade: event.data.overallGrade,
+                  overallAssessment: event.data.overallAssessment,
+                } : prev);
+              }
+            } catch {
+              // Skip malformed lines
+            }
+          }
+        }
+      } catch (e) {
+        if (!cancelled) {
+          setError((e as Error).message);
+          setLoading(false);
+        }
+      }
+    }
+
+    streamSummary();
+    return () => { cancelled = true; };
   }, [sessionId]);
 
   if (loading) {

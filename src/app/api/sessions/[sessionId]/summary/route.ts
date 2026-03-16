@@ -1,5 +1,5 @@
 import { NextRequest } from "next/server";
-import { apiOk, apiError } from "@/lib/api-helpers";
+import { apiError } from "@/lib/api-helpers";
 import { getSession } from "@/lib/store";
 import { buildSummaryInput, assembleSummary } from "@/lib/engine/summary-builder";
 import { generateSummary, generateEvaluations, getProviderForSession } from "@/lib/ai/narration";
@@ -58,45 +58,71 @@ export async function GET(
 
   const { roleName, realHistoricalOutcome, decisionContexts } = buildSummaryInput(session);
 
-  let alternateHistoryNarrative =
-    "Your decisions shaped an alternate history that diverged from the real events.";
-  let divergenceAnalysis = realHistoricalOutcome;
-  let keyInfluences: string[] = session.decisions.map((d) => d.choiceText);
-
-  // Fallback evaluations from scene data (always available even if AI fails)
-  let choiceEvaluations: ChoiceEvaluation[] = buildFallbackEvaluations(decisionContexts);
-  let overallGrade: OverallGrade = "C";
-  let overallAssessment = "AI evaluation was unavailable. Grades shown are based on historical accuracy of each option.";
-
+  const fallbackEvaluations = buildFallbackEvaluations(decisionContexts);
   const provider = getProviderForSession(session);
 
-  // Run summary and evaluations independently so one failure doesn't block the other
-  const summaryPromise = generateSummary(provider, session).catch(() => null);
-  const evalPromise = generateEvaluations(provider, session, decisionContexts).catch(() => null);
+  // Stream results as NDJSON so frontend can render progressively
+  const encoder = new TextEncoder();
+  const readable = new ReadableStream({
+    async start(controller) {
+      function send(event: object) {
+        controller.enqueue(encoder.encode(JSON.stringify(event) + "\n"));
+      }
 
-  const [aiResult, evalResult] = await Promise.all([summaryPromise, evalPromise]);
+      // Send base summary data immediately (no AI needed)
+      const scenario = await import("@/lib/engine/scenario-loader").then(m => m.loadScenario(session.scenarioId));
+      const role = scenario.roles.find((r: { id: string }) => r.id === session.roleId);
+      send({
+        type: "base",
+        data: {
+          sessionId: session.id,
+          scenarioId: session.scenarioId,
+          roleId: session.roleId,
+          roleName: role?.name ?? session.roleId,
+          locale: session.locale,
+          status: session.status === "completed" ? "completed" : "abandoned",
+          decisionCount: session.decisions.length,
+          decisions: session.decisions,
+          realHistoricalOutcome,
+          aiProvider: session.aiProvider,
+          generatedAt: new Date().toISOString(),
+          // Defaults until AI results arrive
+          alternateHistoryNarrative: "Your decisions shaped an alternate history that diverged from the real events.",
+          divergenceAnalysis: realHistoricalOutcome,
+          keyInfluences: session.decisions.map((d) => d.choiceText),
+          choiceEvaluations: fallbackEvaluations,
+          overallGrade: "C" as OverallGrade,
+          overallAssessment: "Generating evaluation…",
+        },
+      });
 
-  if (aiResult) {
-    alternateHistoryNarrative = aiResult.alternateHistoryNarrative;
-    divergenceAnalysis = aiResult.divergenceAnalysis;
-    keyInfluences = aiResult.keyInfluences;
-  }
+      // Run AI calls in parallel, stream each result as it arrives
+      const summaryPromise = generateSummary(provider, session)
+        .then((result) => {
+          send({ type: "summary", data: result });
+        })
+        .catch(() => {
+          // Fallback already sent in base
+        });
 
-  if (evalResult) {
-    choiceEvaluations = evalResult.choiceEvaluations;
-    overallGrade = evalResult.overallGrade;
-    overallAssessment = evalResult.overallAssessment;
-  }
+      const evalPromise = generateEvaluations(provider, session, decisionContexts)
+        .then((result) => {
+          send({ type: "evaluations", data: result });
+        })
+        .catch(() => {
+          // Fallback already sent in base
+        });
 
-  const summary = assembleSummary(
-    session,
-    alternateHistoryNarrative,
-    divergenceAnalysis,
-    keyInfluences,
-    choiceEvaluations,
-    overallGrade,
-    overallAssessment
-  );
+      await Promise.all([summaryPromise, evalPromise]);
+      controller.close();
+    },
+  });
 
-  return apiOk({ summary });
+  return new Response(readable, {
+    headers: {
+      "Content-Type": "application/x-ndjson; charset=utf-8",
+      "Cache-Control": "no-cache",
+      "Transfer-Encoding": "chunked",
+    },
+  });
 }
