@@ -1,0 +1,75 @@
+{
+  "scenarioId": "battle-of-kadesh-1274bc",
+  "timeline": [
+    {
+      "date": "c. 1279 BC",
+      "event": {
+        "en": "Ramesses II ascends the throne of Egypt at approximately 25 years old. He inherits a war with the Hittite Empire over Syria and is determined to reassert Egyptian dominance.",
+        "ja": "ラメセス2世が約25歳でエジプトの王座に就く。シリアをめぐるヒッタイト帝国との戦争を引き継ぎ、エジプトの支配を再確立することを決意する。",
+        "zh-CN": "拉美西斯二世约25岁登上埃及王位。他继承了与赫梯帝国争夺叙利亚的战争，决心重新确立埃及的主导地位。"
+      }
+    },
+    {
+      "date": "1275 BC",
+      "event": {
+        "en": "Ramesses campaigns in the Levant, probing Hittite defenses. Muwatalli II assembles a massive coalition army — reportedly over 47,000 men and 3,700 chariots — and positions them secretly near Kadesh.",
+        "ja": "ラメセスはレバントで戦役を行い、ヒッタイトの防衛を探る。ムワタリ2世は大規模な連合軍を編成し——報告では47,000人以上の兵士と3,700台の戦車——密かにカデシュ近くに配置する。",
+        "zh-CN": "拉美西斯在黎凡特开展战役，探测赫梯防线。穆瓦塔利二世集结了一支庞大的联盟军队——据报道超过47,000人和3,700辆战车——秘密部署在卡叠什附近。"
+      }
+    },
+    {
+      "date": "May, 1274 BC",
+      "event": {
+        "en": "Ramesses marches north with four divisions: Amun, Ra, Ptah, and Set. Near Kadesh, captured Hittite 'deserters' — actually spies — falsely report that the Hittite army is far to the north. Ramesses accelerates his advance.",
+        "ja": "ラメセスはアメン、ラー、プタハ、セトの四個師団と共に北に進軍する。カデシュ近くで捕らえたヒッタイトの「脱走兵」——実際にはスパイ——がヒッタイト軍ははるか北にいると虚偽報告する。ラメセスは前進を加速する。",
+        "zh-CN": "拉美西斯率阿蒙、拉、普塔赫和塞特四个师向北进军。在卡叠什附近，被捕获的赫梯'逃兵'——实际上是间谍——虚假报告赫梯军队在遥远的北方。拉美西斯加速前进。"
+      }
+    },
+    {
+      "date": "Battle Day, 1274 BC",
+      "event": {
+        "en": "The Hittite chariot corps erupts from behind Kadesh and slams into the Ra Division on the march. The Ra Division shatters and flees into the Amun Division's camp, creating chaos. Ramesses finds himself nearly surrounded with only his personal guard and the elite Ne'arin troops.",
+        "ja": "ヒッタイトの戦車部隊がカデシュの後ろから飛び出し、行軍中のラー師団に突撃する。ラー師団は粉砕されてアメン師団のキャンプに逃げ込み、混乱を引き起こす。ラメセスは個人の護衛と精鋭のネアリン部隊だけを連れてほぼ包囲された状態に置かれる。",
+        "zh-CN": "赫梯战车部队从卡叠什后方涌出，猛击正在行军中的拉师。拉师溃散逃入阿蒙师营地，造成混乱。拉美西斯发现自己几乎被包围，只有个人护卫和精锐的内阿林部队随行。"
+      }
+    },
+    {
+      "date": "Battle Day — Afternoon, 1274 BC",
+      "event": {
+        "en": "Ramesses personally leads six charges into the Hittite chariot mass. A relief force — the Ne'arin troops from Amurru — arrives from the west and strikes the Hittite flank. The Hittite chariots withdraw across the Orontes. Neither side achieves a decisive victory.",
+        "ja": "ラメセスは個人的にヒッタイトの戦車集団に六回の突撃を率いる。アムルからの救援部隊——ネアリン部隊——が西から到着し、ヒッタイトの側面を攻撃する。ヒッタイトの戦車はオロンテス川を渡って撤退する。どちらの側も決定的な勝利を収めない。",
+        "zh-CN": "拉美西斯亲自率领六次冲锋进入赫梯战车阵中。援军——来自阿摩利的内阿林部队——从西方抵达，打击赫梯侧翼。赫梯战车撤过奥伦特斯河。双方都未能取得决定性胜利。"
+      }
+    },
+    {
+      "date": "c. 1258 BC",
+      "event": {
+        "en": "After 15 more years of inconclusive border conflict, Egypt and the Hittites sign the earliest surviving peace treaty in history. The Treaty of Kadesh establishes a boundary and mutual defense pact. A copy is displayed today in the United Nations.",
+        "ja": "さらに15年の決着のつかない国境紛争の後、エジプトとヒッタイトは歴史上現存する最古の平和条約に署名する。カデシュ条約は境界と相互防衛協定を確立する。その写しは今日も国連に展示されている。",
+        "zh-CN": "经过又15年决定性的边境冲突后，埃及和赫梯签署了现存最早的和平条约。卡叠什条约建立了边界和共同防御协议。一份副本今天陈列在联合国。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Kadesh was a military draw that both sides claimed as victory. Ramesses had his scribes carve exaggerated accounts of his personal heroism onto temple walls across Egypt — creating one of history's first great propaganda campaigns. The real outcome was a strategic stalemate that eventually led to the world's first surviving peace treaty.",
+    "ja": "カデシュは軍事的引き分けだったが、両側が勝利として主張した。ラメセスは書記官たちにエジプト中の神殿の壁に自身の個人的な英雄主義の誇張された記述を刻ませた——歴史上初めての大規模なプロパガンダキャンペーンの一つを作り出した。実際の結果は戦略的行き詰まりであり、最終的には世界で現存する最初の平和条約につながった。",
+    "zh-CN": "卡叠什是一场军事平局，双方都声称获胜。拉美西斯让他的书吏将夸大其个人英雄主义的记述刻在埃及各地的神庙墙壁上——创造了历史上最早的大型宣传活动之一。真正的结果是战略僵局，最终导致了世界上现存最早的和平条约。"
+  },
+  "casualties": {
+    "en": "Exact figures unknown. Both armies suffered significant chariot losses. Ramesses's account claims thousands of Hittites killed; Hittite records suggest otherwise. The battle was not decisive enough to significantly weaken either power.",
+    "ja": "正確な数字は不明。両軍とも戦車に大きな損失を被った。ラメセスの記録は数千人のヒッタイト人が殺されたと主張する。ヒッタイトの記録は異なることを示唆する。この戦いはどちらの勢力も著しく弱体化させるほど決定的ではなかった。",
+    "zh-CN": "确切数字不详。两支军队都遭受了重大战车损失。拉美西斯的记载声称数千名赫梯人被杀；赫梯记录表明情况并非如此。这场战役不够决定性，无法显著削弱任何一方的实力。"
+  },
+  "significance": {
+    "en": "Kadesh is significant for several firsts: the first battle described in detail from both sides, one of the earliest documented uses of military intelligence and deception, and the peace treaty that followed is the world's oldest surviving international agreement. Ramesses's propaganda machine made it one of the most heavily documented events of the ancient world.",
+    "ja": "カデシュはいくつかの「最初」において重要だ：両側から詳細に描写された最初の戦い、軍事情報と欺瞞の最も早い記録された使用の一つ、そして続いた平和条約は世界最古の現存する国際協定だ。ラメセスのプロパガンダ機構はそれを古代世界で最も多く記録された出来事の一つにした。",
+    "zh-CN": "卡叠什因几个'第一'而具有重要意义：第一场从双方都有详细描述的战役，最早有文献记载的军事情报和欺骗使用之一，随后签订的和平条约是世界上现存最古老的国际协议。拉美西斯的宣传机器使其成为古代世界记录最多的事件之一。"
+  },
+  "furtherReading": [
+    "James Henry Breasted, The Battle of Kadesh",
+    "Ian Shaw, The Oxford History of Ancient Egypt",
+    "Anthony Spalinger, War in Ancient Egypt",
+    "Trevor Bryce, The Kingdom of the Hittites",
+    "The Poem of Pentaur (Ramesses's own account, c. 1274 BC)"
+  ]
+}

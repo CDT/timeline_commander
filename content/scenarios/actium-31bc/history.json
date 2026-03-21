@@ -1,0 +1,91 @@
+{
+  "scenarioId": "actium-31bc",
+  "timeline": [
+    {
+      "date": "-032-01-01",
+      "description": {
+        "en": "Octavian reads Antony's will publicly in the Senate, revealing Antony's wish to be buried in Alexandria beside Cleopatra and his bequests of Roman territory to Cleopatra's children. Roman public opinion turns decisively against Antony.",
+        "ja": "オクタウィアヌスがアントニウスの遺言を元老院で公開し、クレオパトラの傍にアレクサンドリアで埋葬されたいという願望とクレオパトラの子供たちへのローマ領土の遺贈が明らかになる。ローマの世論は決定的にアントニウスに不利に転じる。",
+        "zh-CN": "屋大维在元老院公开宣读安东尼的遗嘱，揭示了安东尼希望葬于亚历山大港克利奥帕特拉身旁的意愿以及他将罗马领土赠予克利奥帕特拉子女的安排。罗马公众舆论决定性地转向反对安东尼。"
+      }
+    },
+    {
+      "date": "-032-06-01",
+      "description": {
+        "en": "The Roman Senate formally declares war on Cleopatra — not Antony — allowing Octavian to frame the conflict as a war against a foreign enemy rather than a civil war between Romans.",
+        "ja": "ローマ元老院がアントニウスではなくクレオパトラに正式に宣戦布告し、オクタウィアヌスはこの紛争をローマ人同士の内戦ではなく外敵に対する戦争として位置づけることが可能になる。",
+        "zh-CN": "罗马元老院正式对克利奥帕特拉——而非安东尼——宣战，使屋大维得以将这场冲突定性为对抗外敌的战争而非罗马人之间的内战。"
+      }
+    },
+    {
+      "date": "-031-03-01",
+      "description": {
+        "en": "Agrippa launches his naval campaign, capturing the strategic port of Methone in southern Greece and severing Antony's southern supply line from Egypt.",
+        "ja": "アグリッパが海軍作戦を開始し、ギリシャ南部の戦略的港メトネを占領してアントニウスのエジプトからの南方補給線を断つ。",
+        "zh-CN": "阿格里帕发动海军攻势，夺取希腊南部战略港口梅索尼，切断安东尼从埃及来的南方补给线。"
+      }
+    },
+    {
+      "date": "-031-06-01",
+      "description": {
+        "en": "Agrippa seizes Patras and Corinth, completing the blockade of Antony's supply routes. Antony's forces begin to suffer from disease and starvation.",
+        "ja": "アグリッパがパトラスとコリントスを占領し、アントニウスの補給路の封鎖を完了。アントニウスの軍は疫病と飢餓に苦しみ始める。",
+        "zh-CN": "阿格里帕攻占帕特雷和科林斯，完成对安东尼补给路线的封锁。安东尼的部队开始遭受疾病和饥饿。"
+      }
+    },
+    {
+      "date": "-031-08-01",
+      "description": {
+        "en": "Multiple client kings defect from Antony to Octavian. The senator Domitius Ahenobarbus — one of Antony's most senior Roman supporters — crosses to Octavian's camp, though he dies of fever shortly after.",
+        "ja": "複数の属国王がアントニウスからオクタウィアヌスに寝返る。アントニウスの最も高位のローマ人支持者の一人であるドミティウス・アヘノバルブスがオクタウィアヌスの陣営に移るが、直後に熱病で死去する。",
+        "zh-CN": "多位附庸国王从安东尼阵营叛逃至屋大维。安东尼最重要的罗马支持者之一多米提乌斯·阿赫诺巴尔布斯元老也投奔屋大维阵营，但他随后不久因热病去世。"
+      }
+    },
+    {
+      "date": "-031-09-02",
+      "description": {
+        "en": "The Battle of Actium. Antony attempts a breakout with approximately 230 ships. After hours of indecisive fighting, Cleopatra's squadron breaks through and flees south. Antony follows, abandoning his fleet.",
+        "ja": "アクティウムの海戦。アントニウスが約230隻で突破を試みる。数時間の膠着した戦闘の後、クレオパトラの艦隊が突破して南へ逃走。アントニウスは艦隊を捨てて彼女を追う。",
+        "zh-CN": "亚克兴海战。安东尼以约230艘战船尝试突围。经过数小时僵持不下的战斗后，克利奥帕特拉的分队突围南逃。安东尼抛下舰队追随而去。"
+      }
+    },
+    {
+      "date": "-031-09-09",
+      "description": {
+        "en": "Antony's abandoned army of 19 legions surrenders to Octavian without a fight. His fleet is captured or burned. The civil war is effectively over.",
+        "ja": "アントニウスに見捨てられた19個軍団の軍が戦わずしてオクタウィアヌスに降伏する。艦隊は捕獲されるか焼かれる。内戦は事実上終結した。",
+        "zh-CN": "被安东尼遗弃的19个军团不战而降。他的舰队被俘获或焚毁。内战实际上已经结束。"
+      }
+    },
+    {
+      "date": "-030-08-01",
+      "description": {
+        "en": "Octavian invades Egypt. Antony commits suicide by falling on his sword. Cleopatra takes her own life shortly after, reportedly by the bite of an asp. Egypt becomes a Roman province.",
+        "ja": "オクタウィアヌスがエジプトに侵攻。アントニウスは剣の上に伏して自害する。クレオパトラはその直後に命を絶つ。伝承ではコブラの咬傷によるという。エジプトはローマの属州となる。",
+        "zh-CN": "屋大维入侵埃及。安东尼伏剑自尽。克利奥帕特拉随后也结束了自己的生命，据说是被毒蛇咬死。埃及成为罗马行省。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Battle of Actium was the decisive engagement that ended the final civil war of the Roman Republic. Antony's fleet was defeated and his army surrendered, leaving Octavian as the undisputed master of the Roman world. The flight of Cleopatra and Antony to Egypt merely delayed the inevitable. Within a year, both were dead and Egypt — the last independent Hellenistic kingdom — was absorbed into the Roman state. Octavian returned to Rome in triumph, assumed the title Augustus in 27 BC, and established the Principate, the system of government that would rule the Roman Empire for centuries.",
+    "ja": "アクティウムの海戦はローマ共和国最後の内戦を終結させた決定的な戦闘であった。アントニウスの艦隊は敗北し軍は降伏し、オクタウィアヌスがローマ世界の揺るぎない支配者となった。クレオパトラとアントニウスのエジプトへの逃亡は避けられない結末を遅らせたにすぎなかった。一年以内に二人とも死に、最後の独立したヘレニズム王国であるエジプトはローマ国家に吸収された。オクタウィアヌスは凱旋してローマに帰還し、紀元前27年にアウグストゥスの称号を得て、何世紀にもわたってローマ帝国を統治するプリンキパトゥスの政治体制を確立した。",
+    "zh-CN": "亚克兴海战是终结罗马共和国最后一场内战的决定性战役。安东尼的舰队战败，军队投降，屋大维成为罗马世界无可争议的主宰者。克利奥帕特拉和安东尼逃往埃及不过是推迟了不可避免的结局。一年之内两人先后身亡，埃及——最后一个独立的希腊化王国——被纳入罗马国家版图。屋大维凯旋回到罗马，于公元前27年获得奥古斯都称号，建立了元首制，这一政府体制将统治罗马帝国数个世纪。"
+  },
+  "casualties": {
+    "en": "Antony lost approximately 200 ships and 5,000 men killed in the naval battle itself. His remaining fleet of about 300 ships was captured or destroyed in the aftermath. Octavian lost roughly 2,500 men. The most significant consequence was the surrender of Antony's 19 legions — approximately 70,000 soldiers — a week after the battle, the largest military capitulation in Roman history to that point. Many of these soldiers were integrated into Octavian's forces.",
+    "ja": "アントニウスは海戦自体で約200隻と5,000人の戦死者を失った。残りの約300隻の艦隊はその後捕獲または撃沈された。オクタウィアヌスの損害は約2,500人であった。最も重大な結果は、戦闘の一週間後のアントニウスの19個軍団——約7万人の兵士——の降伏であり、それまでのローマ史上最大の軍事的降伏であった。これらの兵士の多くはオクタウィアヌスの軍に編入された。",
+    "zh-CN": "安东尼在海战中损失约200艘船和5000人阵亡。他剩余的约300艘战船在战后被俘获或摧毁。屋大维损失约2500人。最重要的后果是战后一周安东尼的19个军团——约七万名士兵——的投降，这是当时罗马历史上最大规模的军事投降。其中许多士兵被编入屋大维的军队。"
+  },
+  "significance": {
+    "en": "Actium marks the true end of the Roman Republic and the birth of the Roman Empire. It determined that the Mediterranean world would be unified under a single ruler rather than split between eastern and western power blocs — a division that would not occur until the 4th century AD. The battle also ended three centuries of Ptolemaic rule in Egypt, eliminating the last major Hellenistic kingdom. Octavian's victory at Actium established the Pax Romana, a period of relative peace and stability that lasted over two centuries and allowed Roman civilization to reach its greatest extent and cultural achievement.",
+    "ja": "アクティウムはローマ共和国の真の終焉とローマ帝国の誕生を画する。地中海世界が東西の権力圏に分裂するのではなく単一の支配者の下に統一されることを決定づけた。この分裂は紀元4世紀まで起こらなかった。この戦いはまた3世紀にわたるプトレマイオス朝のエジプト支配を終わらせ、最後の主要なヘレニズム王国を消滅させた。オクタウィアヌスのアクティウムでの勝利はパクス・ロマーナを確立した。2世紀以上続いた相対的な平和と安定の時代であり、ローマ文明が最大の版図と文化的達成に至ることを可能にした。",
+    "zh-CN": "亚克兴标志着罗马共和国的真正终结和罗马帝国的诞生。它决定了地中海世界将在单一统治者下统一，而非分裂为东西两大权力集团——这种分裂要到公元4世纪才会发生。这场战役还终结了托勒密王朝三个世纪对埃及的统治，消灭了最后一个主要的希腊化王国。屋大维在亚克兴的胜利开创了罗马和平时代，这个相对和平稳定的时期持续了两个多世纪，使罗马文明达到了其最大疆域和最高文化成就。"
+  },
+  "furtherReading": [
+    "Plutarch, Life of Antony",
+    "Cassius Dio, Roman History, Books 50-51",
+    "Barry Strauss, The War That Made the Roman Empire: Antony, Cleopatra, and Octavian at Actium (2022)",
+    "Adrian Goldsworthy, Antony and Cleopatra (2010)",
+    "John M. Carter, The Battle of Actium (1970)"
+  ]
+}

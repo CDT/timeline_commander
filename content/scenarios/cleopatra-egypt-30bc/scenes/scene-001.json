@@ -1,0 +1,123 @@
+{
+  "id": "cleopatra-egypt-30bc-scene-001",
+  "scenarioId": "cleopatra-egypt-30bc",
+  "isTerminal": false,
+  "date": {
+    "en": "August 1, 30 BC — Alexandria Falls",
+    "ja": "紀元前30年8月1日 — アレクサンドリア陥落",
+    "zh-CN": "公元前30年8月1日——亚历山大陷落"
+  },
+  "location": {
+    "en": "The Royal Mausoleum, Alexandria, Egypt",
+    "ja": "エジプト、アレクサンドリア、王室霊廟",
+    "zh-CN": "埃及亚历山大，王室陵墓"
+  },
+  "title": {
+    "en": "The Mausoleum",
+    "ja": "霊廟",
+    "zh-CN": "陵墓"
+  },
+  "narrativePrompt": {
+    "en": "Octavian's legions are in Alexandria. Antony is dead. He misheard that you had died and fell on his sword; you held him as he bled out, then locked yourself in the mausoleum. Octavian's men are outside the doors right now — polite, correct, respectful. He wants you alive for his triumph. You know what that means: the humiliation of being paraded through Rome in chains, displayed to a jeering crowd, and then strangled in the Mamertine Prison. You have one choice: how to play the next conversation with Octavian himself.",
+    "ja": "オクタウィアヌスの軍団がアレクサンドリアにいる。アントニウスは死んだ。彼はあなたが死んだという誤報を聞き剣に倒れた。あなたは彼が出血して息を引き取るまで抱いていた後、霊廟に籠った。オクタウィアヌスの部下が今まさに扉の外にいる——丁寧で、きちんとして、敬意を示している。彼はあなたを凱旋式のために生かして必要としている。それが何を意味するか知っている：鎖に繋がれてローマを練り歩き、嘲笑する群衆に晒され、マメルティヌス牢獄で絞殺されること。一つの選択肢がある：オクタウィアヌス本人との次の会話をどう演じるか。",
+    "zh-CN": "屋大维的军团已在亚历山大。安东尼已死。他误听说你已死去，倒在自己剑上；你抱着他直到他流血而亡，然后将自己锁在陵墓中。屋大维的手下此刻就在门外——礼貌、得体、恭敬。他需要你活着用于凯旋游行。你知道那意味着什么：戴着锁链游行穿越罗马，在嘲笑的人群前展示，然后在马默廷监狱被绞死。你有一个选择：如何处理接下来与屋大维本人的会面。"
+  },
+  "situationReport": [
+    {
+      "en": "Octavian controls Alexandria and all of Egypt. Your treasury has been seized; your fleet surrendered without a fight. You have no military options.",
+      "ja": "オクタウィアヌスはアレクサンドリアとエジプト全土を支配している。あなたの金庫は押収された。艦隊は戦わずして降伏した。軍事的な選択肢はない。",
+      "zh-CN": "屋大维控制着亚历山大和整个埃及。你的金库已被没收；你的舰队不战而降。你没有任何军事选择。"
+    },
+    {
+      "en": "Caesarion — your son by Julius Caesar, heir to both dynasties — has been sent south with a large escort and treasure, heading toward India. He may yet escape.",
+      "ja": "カエサリオン——ユリウス・カエサルとの間に生まれた息子、両王朝の後継者——は大きな護衛と財宝と共に南に送られ、インドに向かっている。彼はまだ逃げられるかもしれない。",
+      "zh-CN": "凯撒里昂——你与尤利乌斯·凯撒的儿子，两个王朝的继承人——已被派往南方，由大批护卫和财宝陪同，前往印度方向。他或许仍能逃脱。"
+    },
+    {
+      "en": "Octavian will meet with you personally. He needs your cooperation — a captured queen who refuses to appear in his triumph destroys the narrative of his conquest.",
+      "ja": "オクタウィアヌスはあなたと個人的に面会する。彼はあなたの協力を必要としている——凱旋式に参加することを拒否した捕虜の女王は彼の征服の物語を台無しにする。",
+      "zh-CN": "屋大维将亲自与你会面。他需要你的配合——一个拒绝出现在他凱旋游行中的被俘女王会破坏他征服的叙事。"
+    },
+    {
+      "en": "You have managed to conceal asp venom from your captors. It remains available. But death is irreversible — negotiation might yet secure Caesarion's future.",
+      "ja": "あなたは捕虜にもかかわらずコブラの毒を隠し持つことに成功した。まだ使用可能だ。しかし死は不可逆的——交渉によってカエサリオンの未来を確保できるかもしれない。",
+      "zh-CN": "你设法向俘获你的人隐瞒了毒液。它仍然可用。但死亡不可逆转——谈判或许还能确保凯撒里昂的未来。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Preserve Caesarion's life and freedom if at all possible",
+      "ja": "できる限りカエサリオンの命と自由を守る",
+      "zh-CN": "尽一切可能保护凯撒里昂的生命和自由"
+    },
+    {
+      "en": "Avoid the humiliation of being displayed in Octavian's triumph",
+      "ja": "オクタウィアヌスの凱旋式で晒されることの屈辱を避ける",
+      "zh-CN": "避免在屋大维的凯旋游行中受到羞辱"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Octavian has read Caesar's dispatches and knows your methods — flattery, seduction, political theater — he will not be easily fooled",
+      "ja": "オクタウィアヌスはカエサルの書状を読んでいて、あなたの方法——お世辞、誘惑、政治的演技——を知っている。簡単には騙されない",
+      "zh-CN": "屋大维读过凯撒的书信，了解你的手法——奉承、诱惑、政治表演——他不会轻易被愚弄"
+    },
+    {
+      "en": "Death in the mausoleum can be arranged — but once you are dead, Caesarion loses all protection",
+      "ja": "陵墓での死は手配できる——しかし一度死ねば、カエサリオンはすべての保護を失う",
+      "zh-CN": "陵墓中的死亡可以安排——但一旦你死去，凯撒里昂就失去所有保护"
+    }
+  ],
+  "choices": [
+    {
+      "id": "negotiate-survival",
+      "label": {
+        "en": "Negotiate with Octavian: buy time, secure Caesarion's escape, then choose your moment",
+        "ja": "オクタウィアヌスと交渉する：時間を稼ぎ、カエサリオンの脱出を確保し、自分の時機を選ぶ",
+        "zh-CN": "与屋大维谈判：争取时间，确保凯撒里昂逃脱，然后选择你的时机"
+      },
+      "description": {
+        "en": "Meet with Octavian. Appear cooperative. Request leniency for your children. Learn what he intends. Buy days — Caesarion needs time to reach the southern ports. Then die on your own terms, not in a Roman prison.",
+        "ja": "オクタウィアヌスと面会する。協力的に見せる。子供たちへの寛大さを求める。彼が何を意図しているかを学ぶ。日数を稼ぐ——カエサリオンが南の港に到達するには時間が必要だ。そしてローマの牢獄ではなく、自分の意志で死ぬ。",
+        "zh-CN": "与屋大维会面。表现出配合。请求对你的孩子们宽大处理。了解他的意图。争取几天时间——凯撒里昂需要时间到达南方港口。然后按自己的意愿死去，而非死在罗马监狱。"
+      },
+      "historicalContext": "This is what Cleopatra actually did. She met with Octavian, appeared to cooperate, took an inventory of her possessions, and bought time. Octavian saw through some of it but needed her alive. After receiving word that he planned to begin the march to Rome within days — and that Caesarion had been betrayed — she arranged her death in the mausoleum, reportedly by asp. Octavian was reportedly furious, as she deprived him of his greatest trophy.",
+      "outcomePrompt": {
+        "en": "You meet Octavian. He is 33, calculating, utterly without sentiment. He tells you your children will be cared for; you hear the lie. You gain four days. The asp is already hidden in a basket of figs. On August 12, while Octavian prepares his triumph, you complete the preparations for your own. When his guards enter, they find you in full royal regalia — the last Pharaoh of Egypt, seated on a throne, already dead.",
+        "ja": "あなたはオクタウィアヌスと会う。彼は33歳で、計算高く、まったく感傷がない。子供たちは世話されると言う。嘘だと分かる。四日間を稼ぐ。コブラはすでに無花果の籠に隠されている。8月12日、オクタウィアヌスが自分の凱旋式を準備している間、あなたは自分のものを整える。彼の護衛が入室すると、完全な王室の礼装をまとったあなたを見つける——エジプトの最後のファラオが、玉座に座り、すでに死んでいる。",
+        "zh-CN": "你与屋大维会面。他33岁，算计精明，毫无情感。他说你的孩子们将得到照料；你听出了谎言。你争取到四天时间。眼镜蛇已经藏在无花果篮里。8月12日，当屋大维准备他的凯旋游行时，你完成了你自己的准备。当他的卫兵进入时，他们发现你身着完整的王室礼服——埃及最后的法老，坐在宝座上，已经死去。"
+      },
+      "stateChanges": [
+        { "key": "caesarionSafety", "operation": "add", "value": 20 },
+        { "key": "cleopatraDignity", "operation": "add", "value": 15 },
+        { "key": "diplomaticLeverage", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": "cleopatra-egypt-30bc-scene-002"
+    },
+    {
+      "id": "die-immediately",
+      "label": {
+        "en": "Die now, in the mausoleum, before Octavian can take you",
+        "ja": "今すぐ、陵墓で、オクタウィアヌスに捕らえられる前に死ぬ",
+        "zh-CN": "现在就死，在陵墓中，在屋大维能抓住你之前"
+      },
+      "description": {
+        "en": "Refuse to be taken. End it on your terms, in Egypt, as a queen — not paraded through Rome as a trophy. Octavian gets no triumph over you.",
+        "ja": "連行されることを拒否する。エジプトで、女王として、自分の意志で終わりにする——ローマを戦利品として練り歩かれるのではなく。オクタウィアヌスにはあなたへの凱旋はない。",
+        "zh-CN": "拒绝被带走。在埃及，作为女王，按自己的意愿终结——而非作为战利品在罗马游行。屋大维得不到对你的凯旋。"
+      },
+      "historicalContext": "This is the counterfactual. Dying immediately would have denied Octavian his prize but also ended any chance of influencing Caesarion's fate. Cleopatra chose to negotiate first — buying time by appearing cooperative while arranging her death on her own schedule. Immediate death in the mausoleum would have been more certain but would have left Caesarion entirely unprotected.",
+      "outcomePrompt": {
+        "en": "You die in the mausoleum. Octavian enters to find his greatest trophy gone. He is denied his triumph over Egypt's queen — but Caesarion, deprived of his mother's last protection and any hope of leverage, is located within weeks by Octavian's agents and executed. Egypt passes to Rome with no further resistance. Your death was defiant — but alone.",
+        "ja": "あなたは霊廟で死ぬ。オクタウィアヌスは最大の戦利品が失われたことを知って入室する。彼はエジプトの女王への凱旋を否定された——しかしカエサリオンは母親の最後の保護とすべての交渉力を失い、数週間以内にオクタウィアヌスの手下に発見されて処刑される。エジプトはこれ以上の抵抗なくローマに渡る。あなたの死は反抗的だった——しかし孤独だった。",
+        "zh-CN": "你在陵墓中死去。屋大维进入，发现他最大的战利品已消失。他被剥夺了对埃及女王的凯旋——但凯撒里昂，失去了母亲最后的保护和任何谈判筹码，数周内被屋大维的特工找到并处决。埃及不再有任何抵抗地归属罗马。你的死亡是反抗性的——但是孤独的。"
+      },
+      "stateChanges": [
+        { "key": "caesarionSafety", "operation": "add", "value": -30 },
+        { "key": "cleopatraDignity", "operation": "add", "value": 10 },
+        { "key": "romanPressure", "operation": "add", "value": -20 }
+      ],
+      "nextSceneId": "cleopatra-egypt-30bc-scene-002"
+    }
+  ]
+}

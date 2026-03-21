@@ -1,0 +1,90 @@
+{
+  "scenarioId": "peloponnesian-war-404bc",
+  "timeline": [
+    {
+      "date": "-405-09-01",
+      "description": {
+        "en": "The Athenian fleet of approximately 180 triremes assembles at Aegospotami on the European shore of the Hellespont, facing Lysander's Spartan fleet anchored at Lampsacus on the opposite shore.",
+        "ja": "約180隻の三段櫂船からなるアテネ艦隊がヘレスポントのヨーロッパ側の岸にあるアイゴスポタモイに集結し、対岸のランプサコスに停泊するリュサンドロスのスパルタ艦隊と対峙する。",
+        "zh-CN": "约180艘三列桨战船组成的雅典舰队在赫勒斯滂海峡欧洲一侧的羊河口集结，与停泊在对岸兰普萨库斯的吕山德斯巴达舰队对峙。"
+      }
+    },
+    {
+      "date": "-405-09-02",
+      "description": {
+        "en": "For four consecutive days, the Athenian fleet rows across the strait to challenge Lysander. Each day, Lysander refuses battle and the Athenians return to their exposed beach at Aegospotami. The exiled Alcibiades visits the Athenian camp and warns the generals that the position is indefensible, urging them to relocate to Sestos. He is ignored.",
+        "ja": "4日間連続でアテネ艦隊が海峡を渡りリュサンドロスに挑戦する。毎日リュサンドロスは戦闘を拒否し、アテネ軍は露出したアイゴスポタモイの浜辺に戻る。亡命中のアルキビアデスがアテネの陣営を訪れ、将軍たちにこの位置は防御不可能だと警告し、セストスへの移動を促す。彼は無視される。",
+        "zh-CN": "连续四天，雅典舰队划过海峡向吕山德挑战。每天吕山德都拒绝交战，雅典人只得返回羊河口暴露的海滩。流亡的阿尔西比亚德斯来到雅典营地，警告将领们这个位置无法防守，敦促他们转移到塞斯托斯。他的意见被忽视。"
+      }
+    },
+    {
+      "date": "-405-09-05",
+      "description": {
+        "en": "On the fifth day, after the Athenian fleet once again returns to shore and the crews scatter to forage for food, Lysander launches a surprise attack across the strait. The Athenian fleet is caught almost entirely uncrewed on the beach.",
+        "ja": "5日目、アテネ艦隊が再び岸に戻り乗組員が食料を探しに散った後、リュサンドロスが海峡を渡って奇襲攻撃を仕掛ける。アテネ艦隊はほぼ完全に乗組員不在の状態で浜辺で捕捉される。",
+        "zh-CN": "第五天，雅典舰队再次返回海岸、船员们四散觅食之际，吕山德发动了横渡海峡的突袭。雅典舰队几乎全部在无人操控的状态下被堵在海滩上。"
+      }
+    },
+    {
+      "date": "-405-09-05",
+      "description": {
+        "en": "The Battle of Aegospotami ends in total Athenian catastrophe. Lysander captures approximately 170 of the 180 Athenian triremes. Only Conon escapes with eight or nine ships. Between 3,000 and 4,000 Athenian prisoners are executed. Athens' naval power is annihilated in a single afternoon.",
+        "ja": "アイゴスポタモイの海戦はアテネの完全な大惨事に終わる。リュサンドロスは180隻のアテネの三段櫂船のうち約170隻を拿捕する。コノンだけが8隻か9隻の船で脱出する。3,000人から4,000人のアテネ人捕虜が処刑される。アテネの海軍力は一つの午後で壊滅する。",
+        "zh-CN": "羊河口海战以雅典的彻底灾难告终。吕山德俘获了180艘雅典三列桨战船中的约170艘。仅科农率八九艘船逃脱。三千至四千名雅典俘虏被处决。雅典的海军力量在一个下午内灰飞烟灭。"
+      }
+    },
+    {
+      "date": "-405-10-01",
+      "description": {
+        "en": "Lysander sails around the Aegean, forcing Athens' remaining allies and subject cities to surrender. Spartan King Pausanias marches an army to Athens from the south while Lysander's fleet blockades Piraeus. The siege of Athens begins.",
+        "ja": "リュサンドロスはエーゲ海を巡航し、アテネの残りの同盟国と従属都市を降伏させる。スパルタ王パウサニアスが南からアテネに軍を進め、リュサンドロスの艦隊がピレウスを封鎖する。アテネの包囲が始まる。",
+        "zh-CN": "吕山德在爱琴海巡航，迫使雅典剩余的盟友和臣属城市投降。斯巴达国王包萨尼亚斯从南方率军进逼雅典，吕山德的舰队封锁比雷埃夫斯。雅典之围开始。"
+      }
+    },
+    {
+      "date": "-404-01-01",
+      "description": {
+        "en": "Athens endures a bitter winter siege. Starvation grips the city as no grain ships can reach Piraeus. Thousands die of famine. Political factions within Athens argue bitterly over whether to fight on or seek terms.",
+        "ja": "アテネは苦しい冬の包囲に耐える。ピレウスに穀物船が到達できず、飢餓が都市を襲う。数千人が飢饉で死ぬ。アテネ内の政治派閥が戦い続けるか条件を求めるかで激しく争う。",
+        "zh-CN": "雅典忍受着严酷的冬季围困。粮船无法抵达比雷埃夫斯，饥荒笼罩全城。数千人死于饥饿。雅典内部的政治派系为是继续抗战还是寻求和谈而激烈争论。"
+      }
+    },
+    {
+      "date": "-404-03-01",
+      "description": {
+        "en": "Theramenes is sent to negotiate with Lysander and the Spartan ephors. Sparta's allies Corinth and Thebes demand that Athens be razed to the ground and its people enslaved, but Sparta refuses, citing Athens' service during the Persian Wars.",
+        "ja": "テラメネスがリュサンドロスとスパルタのエフォロスとの交渉に送られる。スパルタの同盟国コリントスとテーバイはアテネを完全に破壊し住民を奴隷にすることを要求するが、スパルタはペルシア戦争中のアテネの貢献を理由にこれを拒否する。",
+        "zh-CN": "塞拉梅涅斯被派去与吕山德和斯巴达监察官谈判。斯巴达的盟友科林斯和底比斯要求将雅典夷为平地、人民沦为奴隶，但斯巴达以雅典在波斯战争中的贡献为由拒绝了这一要求。"
+      }
+    },
+    {
+      "date": "-404-04-01",
+      "description": {
+        "en": "Athens accepts Sparta's terms and surrenders unconditionally. The Long Walls and the fortifications of Piraeus are demolished to the music of flute girls. Athens must surrender its remaining fleet, recall all exiles, and become a Spartan ally. The Thirty Tyrants are installed as rulers, ending Athenian democracy.",
+        "ja": "アテネはスパルタの条件を受け入れ、無条件降伏する。長壁とピレウスの要塞は笛を奏でる女性たちの音楽に合わせて取り壊される。アテネは残りの艦隊を引き渡し、すべての亡命者を帰還させ、スパルタの同盟国にならなければならない。三十人僭主が支配者として就任し、アテネの民主制が終わる。",
+        "zh-CN": "雅典接受斯巴达的条件，无条件投降。长墙和比雷埃夫斯的防御工事在笛女的音乐声中被拆毁。雅典必须交出剩余舰队、召回所有流亡者，并成为斯巴达的盟友。三十僭主被扶植为统治者，雅典民主制度宣告终结。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Peloponnesian War ended with the total defeat of Athens. The city that had led the Delian League and dominated the Aegean for over half a century was reduced to a Spartan vassal state. The Long Walls were demolished, the fleet was surrendered, and democratic government was replaced by the brutal oligarchy of the Thirty Tyrants. Although democracy was eventually restored in 403 BC, Athens never recovered the imperial power it had wielded during the age of Pericles. The war's end marked a fundamental shift in Greek power dynamics, though Spartan hegemony itself would prove short-lived.",
+    "ja": "ペロポネソス戦争はアテネの完全な敗北で終わった。デロス同盟を率い、半世紀以上にわたりエーゲ海を支配した都市は、スパルタの属国に落ちた。長壁は取り壊され、艦隊は引き渡され、民主政は三十人僭主の残忍な寡頭制に取って代わられた。紀元前403年に民主政は最終的に復活したものの、アテネはペリクレスの時代に振るった帝国的な力を取り戻すことはなかった。戦争の終結はギリシアの権力構造の根本的な変化を示したが、スパルタの覇権自体も短命に終わることになる。",
+    "zh-CN": "伯罗奔尼撒战争以雅典的彻底失败告终。这座曾领导提洛同盟、称霸爱琴海半个多世纪的城市沦为斯巴达的附庸国。长墙被拆毁，舰队被交出，民主政府被三十僭主的残暴寡头统治所取代。尽管民主制度最终在公元前403年恢复，雅典再也未能恢复伯里克利时代的帝国实力。战争的结束标志着希腊权力格局的根本性转变，尽管斯巴达的霸权本身也证明是短暂的。"
+  },
+  "casualties": {
+    "en": "Athens: approximately 170 triremes captured, 3,000–4,000 prisoners executed at Aegospotami, thousands more dead from starvation during the siege. Sparta: minimal naval losses at Aegospotami.",
+    "ja": "アテネ：約170隻の三段櫂船が拿捕、アイゴスポタモイで3,000～4,000人の捕虜が処刑、包囲中の飢餓でさらに数千人が死亡。スパルタ：アイゴスポタモイでの海軍の損失は軽微。",
+    "zh-CN": "雅典：约170艘三列桨战船被俘，羊河口3000至4000名俘虏被处决，围困期间又有数千人饿死。斯巴达：羊河口海战中海军损失极小。"
+  },
+  "significance": {
+    "en": "The fall of Athens ended the most destructive conflict in Greek history and fundamentally reshaped the political landscape of the ancient Mediterranean. It demonstrated that even the most powerful democratic state could be brought down by sustained strategic pressure, internal division, and a single catastrophic military blunder. The war's aftermath — the tyranny of the Thirty, the execution of Socrates, and the philosophical reflections of Thucydides and Plato — shaped Western political thought for millennia. Athens' fall also proved that naval supremacy alone could not sustain an empire when the treasury was empty and allies were alienated.",
+    "ja": "アテネの陥落は、ギリシア史上最も破壊的な紛争を終わらせ、古代地中海の政治的景観を根本的に変えた。最も強力な民主国家でさえ、持続的な戦略的圧力、内部分裂、そして一つの壊滅的な軍事的失策によって滅ぼされうることを実証した。戦争の余波——三十人僭主の暴政、ソクラテスの処刑、トゥキディデスとプラトンの哲学的考察——は西洋の政治思想を数千年にわたって形作った。アテネの陥落はまた、国庫が空で同盟国が離反した時、海軍の優位だけでは帝国を維持できないことを証明した。",
+    "zh-CN": "雅典的陷落结束了希腊历史上最具破坏性的冲突，从根本上重塑了古代地中海的政治格局。它证明了即使是最强大的民主国家，也会在持续的战略压力、内部分裂和一次灾难性的军事失误下覆灭。战争的后果——三十僭主的暴政、苏格拉底之死、修昔底德和柏拉图的哲学反思——塑造了西方政治思想数千年。雅典的陷落还证明，当国库空虚、盟友离心时，仅靠海军霸权无法维持一个帝国。"
+  },
+  "furtherReading": [
+    "Thucydides — History of the Peloponnesian War",
+    "Xenophon — Hellenica (Books I–II)",
+    "Donald Kagan — The Fall of the Athenian Empire",
+    "Victor Davis Hanson — A War Like No Other"
+  ]
+}

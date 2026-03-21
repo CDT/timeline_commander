@@ -1,0 +1,76 @@
+{
+  "id": "cleopatra-egypt-30bc",
+  "title": {
+    "en": "Cleopatra's Last Stand",
+    "ja": "クレオパトラの最後の抵抗",
+    "zh-CN": "克利奥帕特拉的最后抵抗"
+  },
+  "subtitle": {
+    "en": "Egypt, 30 BC",
+    "ja": "エジプト、紀元前30年",
+    "zh-CN": "埃及，公元前30年"
+  },
+  "description": {
+    "en": "Octavian's legions have invaded Egypt. Antony is dead. Cleopatra VII, last ruler of the Ptolemaic dynasty, faces the end of three centuries of Greek rule in Egypt. She negotiates, maneuvers, and plots — but Octavian wants her for his triumph in Rome. Her choices now will determine whether Egypt submits or she dies on her own terms.",
+    "ja": "オクタウィアヌスの軍団がエジプトに侵攻した。アントニウスは死んだ。プトレマイオス朝の最後の支配者クレオパトラ7世は、エジプトにおける三世紀にわたるギリシア支配の終わりに直面する。彼女は交渉し、策略を巡らし、陰謀を企てる——しかしオクタウィアヌスはローマの凱旋式のために彼女を必要としている。今の彼女の選択が、エジプトが屈服するか、彼女が自分の意志で死ぬかを決定する。",
+    "zh-CN": "屋大维的军团入侵埃及。安东尼已死。托勒密王朝的最后统治者克利奥帕特拉七世面临埃及三个世纪希腊统治的终结。她谈判、斡旋、密谋——但屋大维想要她为罗马的凯旋游行增光。她现在的选择将决定埃及是否臣服，还是她按自己的意愿死去。"
+  },
+  "era": "ancient",
+  "region": "egypt",
+  "difficulty": "hard",
+  "role": "cleopatra-queen",
+  "keyFigures": [
+    {
+      "id": "cleopatra",
+      "name": {
+        "en": "Cleopatra VII",
+        "ja": "クレオパトラ7世",
+        "zh-CN": "克利奥帕特拉七世"
+      },
+      "role": {
+        "en": "Queen of Egypt, last Ptolemaic ruler",
+        "ja": "エジプト女王、最後のプトレマイオス朝支配者",
+        "zh-CN": "埃及女王，最后的托勒密统治者"
+      }
+    },
+    {
+      "id": "octavian",
+      "name": {
+        "en": "Octavian (Augustus)",
+        "ja": "オクタウィアヌス（アウグストゥス）",
+        "zh-CN": "屋大维（奥古斯都）"
+      },
+      "role": {
+        "en": "Roman commander, heir of Julius Caesar",
+        "ja": "ローマの司令官、ユリウス・カエサルの後継者",
+        "zh-CN": "罗马指挥官，尤利乌斯·凯撒的继承人"
+      }
+    },
+    {
+      "id": "antony",
+      "name": {
+        "en": "Mark Antony",
+        "ja": "マルクス・アントニウス",
+        "zh-CN": "马克·安东尼"
+      },
+      "role": {
+        "en": "Cleopatra's consort and co-ruler, now dead",
+        "ja": "クレオパトラの伴侶で共同支配者、現在は死んでいる",
+        "zh-CN": "克利奥帕特拉的伴侣和共同统治者，现已死亡"
+      }
+    }
+  ],
+  "sceneIds": [
+    "cleopatra-egypt-30bc-scene-001",
+    "cleopatra-egypt-30bc-scene-002",
+    "cleopatra-egypt-30bc-scene-003"
+  ],
+  "initialState": {
+    "egyptianMorale": 25,
+    "romanPressure": 90,
+    "diplomaticLeverage": 35,
+    "caesarionSafety": 50,
+    "cleopatraDignity": 80
+  },
+  "tags": ["egypt", "rome", "cleopatra", "octavian", "ptolemaic", "30bc"]
+}

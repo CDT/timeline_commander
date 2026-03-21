@@ -1,0 +1,113 @@
+{
+  "id": "peloponnesian-war-404bc-scene-003",
+  "scenarioId": "peloponnesian-war-404bc",
+  "title": {
+    "en": "The Fall of Athens",
+    "ja": "アテネの陥落",
+    "zh-CN": "雅典的陷落"
+  },
+  "date": {
+    "en": "Spring 404 BC",
+    "ja": "紀元前404年春",
+    "zh-CN": "公元前404年春"
+  },
+  "location": {
+    "en": "Athens, the Pnyx and the Long Walls",
+    "ja": "アテネ、プニュクスと長城",
+    "zh-CN": "雅典，普尼克斯山和长城"
+  },
+  "narrativePrompt": {
+    "en": "Eight months have passed since Aegospotami. The catastrophe unfolded exactly as Alcibiades had warned it would. Lysander's fleet sailed to the Hellespont and closed the grain route from the Black Sea. Within weeks, the city that had dominated the Aegean for fifty years began to starve. The Spartan army of Agis marched down from Decelea and encamped outside the city walls. Lysander's fleet appeared in the Saronic Gulf, blockading Piraeus. Athens was sealed — no grain in, no messages out except by stealth. The Athenian assembly has debated for months what to do. Surrender is almost unthinkable — Athens destroyed Melos, enslaved Scione, and executed thousands of Spartan prisoners. The assembly knows what Sparta's allies, particularly Corinth and Thebes, are demanding: Athens must be razed to the ground, its people sold into slavery, the site sown with salt. The Long Walls must come down. The fleet, except for twelve ships, must be handed over. The democratic constitution must be replaced by an oligarchy of thirty men. These are the terms. Lysander has made clear that if Athens does not accept within a fixed time, Sparta's allies will get what they want. The city is debating whether to accept these terms or to fight on in the hope that some miracle of relief will come — perhaps Persian gold, perhaps a Spartan change of heart, perhaps a sortie that breaks the blockade. The vote in the assembly comes down to a single speech from an Athenian general who served in the fleet and has just slipped through the blockade to bring the terms. The question before Athens — and now before you — is whether to accept the end of the Athenian Empire, or to die fighting for something that can no longer be saved.",
+    "ja": "アイゴスポタモイから8ヶ月が過ぎた。惨劇はアルキビアデスが警告した通りに展開した。リュサンドロスの艦隊がヘレスポントに航行し、黒海からの穀物路を封鎖した。数週間のうちに、50年にわたってエーゲ海を支配してきた都市が飢え始めた。アギスのスパルタ軍がデケレアから下り、城壁の外に陣を張った。リュサンドロスの艦隊がサロニコス湾に現れ、ピレウスを封鎖した。アテネは封鎖された——穀物は入らず、密かな方法以外にはメッセージも出せない。アテネの民会はどうすべきかを何ヶ月も議論してきた。降伏はほぼ考えられない——アテネはメロスを壊滅させ、スキオネを奴隷にし、何千人ものスパルタ捕虜を処刑した。民会はスパルタの同盟者たち、特にコリントスとテーバイが何を要求しているかを知っている：アテネは完全に破壊され、住民は奴隷に売られ、跡地に塩をまかれなければならない。長城は取り壊さなければならない。艦隊は12隻を除いて引き渡さなければならない。民主主義的な憲法は30人の寡頭政治体制に置き換えられなければならない。これが条件だ。リュサンドロスは、アテネが期限内に受け入れなければスパルタの同盟者が望むものを得るだろうと明らかにしている。都市は、これらの条件を受け入れるか、何らかの救援の奇跡が来ることを期待して戦い続けるか——おそらくペルシアの黄金、おそらくスパルタの心変わり、おそらく封鎖を破る出撃——を議論している。民会の投票は、艦隊で仕えた後にこの条件をもたらすために封鎖をくぐり抜けてきたばかりのアテネの将軍による一つの演説にかかっている。アテネの前に——そして今、あなたの前に——置かれた問題は、アテネ帝国の終わりを受け入れるか、もはや救えないもののために戦いながら死ぬかだ。",
+    "zh-CN": "羊河口之后过去了八个月。灾难按阿尔西比亚德斯警告的那样展开。吕山德的舰队驶向赫勒斯滂，封锁了黑海的粮食通道。几周之内，这座统治爱琴海五十年的城市开始挨饿。阿吉斯的斯巴达军队从德塞勒亚开下来，在城墙外扎营。吕山德的舰队出现在萨罗尼克海湾，封锁了比雷埃夫斯港。雅典被封锁了——没有粮食进来，除了秘密途径外没有任何消息出去。雅典民会数月来一直在争论该怎么办。投降几乎是不可想象的——雅典摧毁了米洛斯，奴役了斯基俄涅，处决了数千名斯巴达俘虏。民会知道斯巴达的盟友，尤其是科林斯和底比斯，在要求什么：雅典必须被夷为平地，其人民被卖为奴隶，地基撒上盐。长城必须拆除。除十二艘外，舰队必须全部交出。民主制度必须被三十人的寡头政权取代。这就是条件。吕山德明确表示，如果雅典在规定时间内不接受，斯巴达的盟友将得到他们想要的。城市正在争论是否接受这些条件，还是继续战斗，期待某种救援的奇迹到来——也许是波斯的黄金，也许是斯巴达的回心转意，也许是冲破封锁的出击。民会中的投票最终取决于一名在舰队服役的雅典将军的演说，他刚刚突破封锁带来了谈判条件。摆在雅典面前——也摆在你面前——的问题是：接受雅典帝国的终结，还是为一个已无法挽救的东西战斗至死。"
+  },
+  "situationReport": [
+    {
+      "en": "Athens has been under siege for eight months; famine is severe and disease spreading through the starving population",
+      "ja": "アテネは8ヶ月間包囲されており、飢饉は深刻で飢えた住民に疾病が広がっている",
+      "zh-CN": "雅典已被围困八个月；饥荒严重，疾病在饥饿的人口中蔓延"
+    },
+    {
+      "en": "Sparta's terms: demolish the Long Walls, surrender the fleet except twelve ships, and accept an oligarchic government of thirty men",
+      "ja": "スパルタの条件：長城の取り壊し、12隻を除く艦隊の引き渡し、30人の寡頭政府の受け入れ",
+      "zh-CN": "斯巴达的条件：拆除长城、交出除十二艘外的全部舰队，并接受三十人的寡头政府"
+    },
+    {
+      "en": "Corinth and Thebes demand total destruction of Athens and enslavement of its population — Sparta is restraining them",
+      "ja": "コリントスとテーバイはアテネの完全な破壊と住民の奴隷化を要求——スパルタが彼らを抑えている",
+      "zh-CN": "科林斯和底比斯要求彻底摧毁雅典并奴役其人民——斯巴达正在约束他们"
+    },
+    {
+      "en": "No relief is coming — Persia supports Sparta, the fleet is destroyed, and no Athenian allies can break the blockade",
+      "ja": "救援は来ない——ペルシアはスパルタを支持し、艦隊は壊滅し、アテネの同盟者は封鎖を破れない",
+      "zh-CN": "援军不会来——波斯支持斯巴达，舰队已被摧毁，雅典的盟友无法打破封锁"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Make the speech that will determine Athens's fate — argue for acceptance or resistance",
+      "ja": "アテネの運命を決定する演説を行う——受け入れか抵抗かを主張する",
+      "zh-CN": "发表将决定雅典命运的演说——论证接受或抵抗的立场"
+    },
+    {
+      "en": "Preserve as much of Athens — its people, its culture, its democratic spirit — as possible",
+      "ja": "アテネのできるだけ多くのもの——その人々、文化、民主主義の精神——を保存する",
+      "zh-CN": "尽可能保留雅典的一切——其人民、文化和民主精神"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The assembly will vote on whatever choice you advocate — but demagogues for continued resistance are also speaking, and they appeal to Athenian pride",
+      "ja": "民会はあなたが主張する選択に投票するだろう——しかし継続抵抗の扇動者も演説しており、彼らはアテネの誇りに訴えている",
+      "zh-CN": "民会将对你倡导的任何选择进行投票——但支持继续抵抗的煽动者也在发言，他们诉诸雅典人的自尊"
+    },
+    {
+      "en": "The Thirty Tyrants — the oligarchic government Sparta demands — will bring terror to Athens, but resistance means total destruction",
+      "ja": "スパルタが要求する寡頭政府——三十人僭主——はアテネに恐怖をもたらすが、抵抗は完全な破壊を意味する",
+      "zh-CN": "斯巴达要求的寡头政府——三十僭主——将给雅典带来恐怖，但抵抗意味着彻底的毁灭"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Argue for acceptance. Athens must survive. The walls can be rebuilt, the fleet can be rebuilt, democracy can be restored. But dead Athenians cannot be brought back, and a sown field cannot grow a city.",
+        "ja": "受け入れを主張する。アテネは生き残らなければならない。壁は再建できる、艦隊は再建できる、民主主義は回復できる。しかし死んだアテネ人は戻らず、塩をまかれた土地は都市を育てることができない。",
+        "zh-CN": "主张接受。雅典必须存续。城墙可以重建，舰队可以重建，民主可以恢复。但死去的雅典人无法复生，撒了盐的土地无法孕育一座城市。"
+      },
+      "historicalContext": "The historical outcome — Athens voted to accept Sparta's terms. The Long Walls were demolished to the sound of flute music on April 16, 404 BC. The Thirty Tyrants ruled briefly and brutally. Within a year, exiled democrats under Thrasybulus overthrew them. Athens recovered and flourished again.",
+      "outcomePrompt": {
+        "en": "The assembly falls silent as you speak. You do not sugarcoat the truth: the war is lost, the fleet is gone, the grain is gone, and Sparta's patience is nearly exhausted. Corinth and Thebes want rubble and slaves. Sparta has offered something incomparably better — humiliation and oligarchy, but survival. You argue that Athens has survived Persian fire, plague, and a generation of war. It will survive Lysander too. The vote, when it comes, is not unanimous — several prominent voices call for death before dishonor — but the majority agrees. Athens surrenders. On a clear spring day in 404 BC, Spartan and allied workers begin tearing down the Long Walls connecting Athens to Piraeus. The flute players play as the stones fall, as Lysander had reportedly demanded. It is the most bitter music in Athens's history. The fleet is handed over. The Thirty Tyrants take power. Their reign is bloody and brief — within a year, Thrasybulus leads the democratic exiles home from Phyle and overthrows them. The democracy is restored. Athens does not die. Across the sea, Conon, the admiral who escaped Aegospotami, rebuilds a fleet with Persian money and eventually returns to restore the very Long Walls he watched being torn down. Athens will rise again — not as a hegemon, but as something perhaps more enduring: the intellectual and cultural capital of the ancient world.",
+        "ja": "あなたが演説する間、民会は静まり返る。真実を美化しない：戦争は敗れ、艦隊は失われ、穀物は尽き、スパルタの忍耐はほぼ限界だ。コリントスとテーバイは廃墟と奴隷を望んでいる。スパルタははるかに良いものを提供している——屈辱と寡頭政治だが、生存だ。アテネはペルシアの火、ペスト、一世代の戦争を生き延びたと主張する。リュサンドロスも生き延びるだろう。投票が行われると、全員一致ではない——数人の著名な声が不名誉より死を求めて叫ぶ——しかし大多数が同意する。アテネは降伏する。紀元前404年の晴れた春の日に、スパルタと同盟の労働者がアテネとピレウスを結ぶ長城の取り壊しを始める。リュサンドロスが要求したと伝えられるように、石が落ちる中フルート奏者が演奏する。それはアテネの歴史で最も苦い音楽だ。艦隊は引き渡される。三十人僭主が権力を握る。彼らの治世は血にまみれ短命で——一年以内に、トラシュブロスがフュレから民主派亡命者たちを率いて帰国し、打倒する。民主主義が回復される。アテネは死なない。海の向こうでは、アイゴスポタモイから逃れた提督コノンがペルシアの金で艦隊を再建し、やがて帰還して取り壊しを見守った長城を修復する。アテネは再び興る——覇者としてではなく、おそらくより持続的な何かとして：古代世界の知的・文化的中心として。",
+        "zh-CN": "当你发言时，民会归于沉默。你不美化真相：战争已经失败，舰队已经失去，粮食已经耗尽，斯巴达的耐心几近枯竭。科林斯和底比斯想要废墟和奴隶。斯巴达提供的东西无可比拟地更好——屈辱和寡头政治，但能够生存。你论证雅典经历了波斯人的火焰、瘟疫和整整一代人的战争。它也会熬过吕山德。投票结果并非一致——几个知名人士高呼宁死不辱——但大多数人同意。雅典投降了。在公元前404年一个晴朗的春日，斯巴达和盟军的工人开始拆除连接雅典和比雷埃夫斯的长城。据报道按吕山德的要求，在石头落下时笛声奏响。这是雅典历史上最苦涩的音乐。舰队被交出。三十僭主掌权。他们的统治血腥而短暂——不到一年，特拉西布鲁斯便率领流亡民主派从菲勒归来并将其推翻。民主制度得到恢复。雅典没有灭亡。在海的另一边，逃脱羊河口的将领科农用波斯的金钱重建舰队，最终归来修复了他亲眼看着被拆毁的长城。雅典将再度崛起——不再是霸主，而是某种或许更为持久的存在：古代世界的思想与文化之都。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "athenianMorale", "operation": "add", "value": -20 },
+        { "variable": "politicalStability", "operation": "add", "value": 30 },
+        { "variable": "fleetStrength", "operation": "set", "value": 12 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Argue for resistance to the last. Athens built civilization. It will not grovel to Sparta. We will make Lysander pay in blood for every street and building. Perhaps we can negotiate better terms.",
+        "ja": "最後まで抵抗することを主張する。アテネは文明を築いた。スパルタにひれ伏さない。リュサンドロスに通りと建物ごとに血の代償を払わせる。より良い条件を交渉できるかもしれない。",
+        "zh-CN": "主张抵抗到底。雅典建造了文明。它不会向斯巴达屈服。我们将让吕山德为每一条街道和每一栋建筑付出血的代价。也许我们能争取到更好的条件。"
+      },
+      "historicalContext": "A counterfactual — continued resistance with no fleet and no food would have ended in the city's destruction. Sparta's allies would have prevailed in demanding Athens's total demolition.",
+      "outcomePrompt": {
+        "en": "Your words electrify the assembly. The pride of Athens, the memory of Marathon and Salamis, the shame of contemplating surrender — it all roars back. The vote, when it comes, is for resistance. The city's limited remaining food is distributed. The walls are manned by soldiers and armed citizens alike. There is a savage, doomed heroism in the decision — Athens facing extinction with its fists raised. But facts do not bend to heroism. Within three weeks, the last grain is eaten. People collapse in the streets. Lysander, who had already been holding back Corinth and Thebes, now simply steps back and tells them to proceed. Corinthian and Theban soldiers pour into the city alongside the Spartans. What follows is beyond atrocity — homes burned, men killed in the streets, women enslaved, the temples stripped of offerings accumulated over centuries. The physical city is largely demolished: the Long Walls, the Piraeus fortifications, most of the civic buildings. On the Acropolis, the Parthenon is spared — Sparta declares the destroyer of the Persians' temples shall not itself be destroyed. But little else survives. Athens is not a city anymore. It is a memory, a field of ash and broken marble. Corinth and Thebes get what they demanded. The price of Athenian pride was Athenian civilization.",
+        "ja": "あなたの言葉が民会を沸き立たせる。アテネの誇り、マラトンとサラミスの記憶、降伏を考えることの恥——すべてが轟音と共に戻ってくる。投票が行われると、抵抗だ。都市の限られた残存食料が分配される。城壁には兵士と武装した市民の両方が配置される。決断には凶暴で、滅びゆく英雄主義がある——アテネが拳を上げて消滅に立ち向かっている。しかし事実は英雄主義に曲がらない。3週間以内に最後の穀物が食べ尽くされる。人々が通りで倒れる。コリントスとテーバイを既に抑えていたリュサンドロスは、今ただ一歩引いて彼らに進めと告げる。コリントスとテーバイの兵士がスパルタ兵とともに都市になだれ込む。続くことは残虐を超えている——家が焼かれ、男たちが通りで殺され、女たちが奴隷にされ、何世紀にもわたって積み重なった奉納物が神殿から剥ぎ取られる。物理的な都市は大部分が破壊される：長城、ピレウスの要塞、ほとんどの市民建物。アクロポリスでは、パルテノン神殿が救われる——スパルタはペルシア人の神殿の破壊者自体は破壊しないと宣言する。しかしそれ以外はほとんど残らない。アテネはもはや都市ではない。それは記憶であり、灰と砕けた大理石の原野だ。コリントスとテーバイは彼らが要求したものを得る。アテネの誇りの代価はアテネの文明だった。",
+        "zh-CN": "你的话语令民会沸腾。雅典的骄傲、马拉松和萨拉米斯的记忆、对考虑投降之羞耻——一切轰鸣着涌回。当投票到来，是抵抗。城市仅存的有限粮食被分发。城墙由士兵和武装市民共同守卫。这一决定中有一种凶猛、注定灭亡的英雄主义——雅典握紧拳头面对消亡。但事实不因英雄主义而弯曲。三周内，最后一粒粮食被吃完。人们在街头倒下。本已克制科林斯和底比斯的吕山德，现在只是退后一步，告诉他们可以动手了。科林斯和底比斯的士兵与斯巴达人一起涌入城市。随后发生的事情超越了暴行——房屋被焚烧，男人在街头被杀，女人被奴役，几个世纪积累的神庙供奉物被洗劫一空。实体城市大部分被拆毁：长城、比雷埃夫斯防御工事、大部分市政建筑。在卫城，帕台农神庙得以幸免——斯巴达宣称摧毁波斯人神庙的城市本身不会被摧毁。但其他的几乎都未能幸存。雅典不再是一座城市。它是一段记忆，是灰烬和碎裂大理石的原野。科林斯和底比斯得到了他们所要求的。雅典的骄傲的代价，是雅典的文明。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "athenianMorale", "operation": "set", "value": 100 },
+        { "variable": "politicalStability", "operation": "set", "value": 0 },
+        { "variable": "fleetStrength", "operation": "set", "value": 0 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

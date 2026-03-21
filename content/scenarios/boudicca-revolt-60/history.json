@@ -1,0 +1,91 @@
+{
+  "scenarioId": "boudicca-revolt-60",
+  "timeline": [
+    {
+      "date": "0060-01-01",
+      "description": {
+        "en": "King Prasutagus of the Iceni dies; Roman procurator Catus Decianus annexes Iceni territory, flogs Boudicca, and allows the assault of her daughters.",
+        "ja": "イケニ王プラスタグスが死去。ローマの財務長官カトゥス・デキアヌスがイケニの領土を併合し、ブーディカを鞭打ち、娘たちへの暴行を許す。",
+        "zh-CN": "爱西尼国王普拉苏塔古斯去世；罗马财务官卡图斯·德基安努斯吞并爱西尼领土，鞭打布狄卡，纵容士兵侮辱她的女儿。"
+      }
+    },
+    {
+      "date": "0060-06-01",
+      "description": {
+        "en": "Boudicca rallies the Iceni and forms an alliance with the Trinovantes tribe; warriors from across eastern Britain join the revolt.",
+        "ja": "ブーディカがイケニ族を結集し、トリノヴァンテス族と同盟を結ぶ。ブリテン東部各地から戦士たちが反乱に加わる。",
+        "zh-CN": "布狄卡团结爱西尼人并与特里诺万特部落结盟；不列颠东部各地的战士加入起义。"
+      }
+    },
+    {
+      "date": "0060-07-01",
+      "description": {
+        "en": "The British tribal army destroys Camulodunum (Colchester), massacring the Roman population and burning the Temple of Claudius.",
+        "ja": "ブリテンの部族軍がカムロドゥヌム（コルチェスター）を破壊し、ローマ人住民を虐殺しクラウディウス神殿を焼き払う。",
+        "zh-CN": "不列颠部落军摧毁卡姆洛杜努姆（科尔切斯特），屠杀罗马居民并焚毁克劳狄乌斯神殿。"
+      }
+    },
+    {
+      "date": "0060-07-15",
+      "description": {
+        "en": "Elements of the Roman IX Legion Hispana march to relieve Camulodunum but are ambushed and routed; the legion's infantry is annihilated.",
+        "ja": "ローマ第九軍団ヒスパナの一部がカムロドゥヌム救援に向かうが、待ち伏せに遭い壊走。軍団の歩兵が全滅する。",
+        "zh-CN": "罗马第九军团西班牙部分兵力前去救援卡姆洛杜努姆，但遭伏击溃败；军团步兵被歼灭。"
+      }
+    },
+    {
+      "date": "0060-08-01",
+      "description": {
+        "en": "Governor Paulinus reaches Londinium but decides to abandon it, judging his forces too few to defend the city against Boudicca's vast army.",
+        "ja": "総督パウリヌスがロンディニウムに到着するが、ブーディカの大軍に対して兵力が不足していると判断し、都市の放棄を決定する。",
+        "zh-CN": "总督保利努斯抵达伦丁尼乌姆但决定放弃，判断兵力不足以抵御布狄卡的庞大军队。"
+      }
+    },
+    {
+      "date": "0060-08-15",
+      "description": {
+        "en": "Boudicca's army sacks Londinium and Verulamium; combined death toll across the three cities reaches an estimated 70,000-80,000.",
+        "ja": "ブーディカの軍がロンディニウムとウェルラミウムを略奪。三都市の死者は推定7万〜8万人に達する。",
+        "zh-CN": "布狄卡的军队洗劫伦丁尼乌姆和维鲁拉米乌姆；三城死亡总人数估计达7万至8万。"
+      }
+    },
+    {
+      "date": "0061-01-01",
+      "description": {
+        "en": "Paulinus concentrates his forces—approximately 10,000 legionaries—and selects a narrow battlefield along Watling Street for the decisive engagement.",
+        "ja": "パウリヌスが約1万の軍団兵を集結させ、決戦のためにワトリング街道沿いの狭い戦場を選定する。",
+        "zh-CN": "保利努斯集结约1万军团士兵，在沃特林街沿线选定狭窄战场准备决战。"
+      }
+    },
+    {
+      "date": "0061-02-01",
+      "description": {
+        "en": "The Battle of Watling Street: Paulinus crushes Boudicca's army despite being outnumbered over 20 to 1. Boudicca dies shortly after, ending the revolt.",
+        "ja": "ワトリング街道の戦い。パウリヌスが20対1以上の数的劣勢にもかかわらずブーディカの軍を壊滅させる。ブーディカは間もなく死去し、反乱は終結する。",
+        "zh-CN": "沃特林街战役：保利努斯在兵力超过20比1劣势的情况下击溃布狄卡的军队。布狄卡不久后死去，起义结束。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Boudicca's revolt, despite destroying three Roman cities and killing tens of thousands, ended in total defeat at the Battle of Watling Street. The disciplined Roman legions, fighting on ground of their choosing, annihilated the massive but disorganized tribal army. Boudicca died shortly after—whether by suicide through poison or from illness is uncertain. The Romans conducted severe reprisals throughout eastern Britain, and the province was pacified through a combination of military force and, eventually, a more conciliatory administrative approach.",
+    "ja": "ブーディカの反乱は三つのローマの都市を破壊し数万人を殺害したにもかかわらず、ワトリング街道の戦いで完全な敗北に終わった。自ら選んだ地形で戦った規律あるローマ軍団が、大規模だが組織化されていない部族軍を殲滅した。ブーディカは間もなく死去した。毒による自殺か病気によるものかは不明である。ローマはブリテン東部全域で厳しい報復を行い、軍事力と最終的にはより融和的な行政手法の組み合わせによって属州を鎮圧した。",
+    "zh-CN": "布狄卡的起义尽管摧毁了三座罗马城市并杀死了数万人，最终在沃特林街战役中彻底失败。在自己选择的地形上作战的罗马军团纪律严明，歼灭了庞大但缺乏组织的部落军队。布狄卡不久后死去——是服毒自杀还是病亡不得而知。罗马人在不列颠东部进行了严厉报复，通过军事力量与最终更为怀柔的行政方法相结合来平定了行省。"
+  },
+  "casualties": {
+    "en": "During the sacking of the three Roman cities, an estimated 70,000-80,000 Romans and Roman-allied Britons were killed. At the Battle of Watling Street, Tacitus claims approximately 80,000 British warriors were killed versus only 400 Roman soldiers, though modern historians consider these figures exaggerated. The post-revolt reprisals and famine caused further significant losses among the British population.",
+    "ja": "三つのローマの都市の略奪中に、推定7万〜8万人のローマ人とローマに同盟するブリテン人が殺害された。ワトリング街道の戦いでは、タキトゥスによればローマ兵わずか400人の戦死に対し約8万人のブリテン戦士が殺害されたとされるが、現代の歴史家はこれらの数字を誇張と見なしている。反乱後の報復と飢饉がブリテンの人口にさらなる甚大な損失をもたらした。",
+    "zh-CN": "在三座罗马城市被劫掠期间，估计有7万至8万罗马人和亲罗马的不列颠人被杀。在沃特林街战役中，塔西佗声称约8万不列颠战士阵亡，而罗马方面仅400人战死，但现代历史学家认为这些数字有所夸大。起义后的报复和饥荒给不列颠人口造成了进一步的重大损失。"
+  },
+  "significance": {
+    "en": "Boudicca's revolt was the most serious challenge to Roman rule in Britain and nearly caused the abandonment of the province. It exposed the dangers of exploitative colonial administration and led to significant reforms in how Rome governed Britain. Boudicca herself became an enduring symbol of resistance against tyranny, celebrated in British culture from the Renaissance onward. Her statue stands on the Thames Embankment near the Houses of Parliament, embodying the spirit of British liberty—an ironic transformation from enemy of the state to national heroine.",
+    "ja": "ブーディカの反乱はブリテンにおけるローマの統治に対する最も深刻な挑戦であり、属州の放棄をも引き起こしかけた。搾取的な植民地行政の危険性を露呈し、ローマがブリテンを統治する方法に重大な改革をもたらした。ブーディカ自身は暴政に対する抵抗の永続的な象徴となり、ルネサンス以降のイギリス文化で称えられてきた。彼女の像は国会議事堂近くのテムズ河畔に立ち、イギリスの自由の精神を体現している。国家の敵から国民的英雄への皮肉な変容である。",
+    "zh-CN": "布狄卡起义是罗马统治不列颠面临的最严峻挑战，几乎导致该行省被放弃。它暴露了剥削性殖民统治的危险，并促使罗马对不列颠的治理方式进行重大改革。布狄卡本人成为反抗暴政的永恒象征，从文艺复兴时期起便在英国文化中受到颂扬。她的雕像矗立在议会大厦附近的泰晤士河堤上，体现着英国自由精神——从国家之敌到民族女英雄的讽刺性转变。"
+  },
+  "furtherReading": [
+    "Boudica: The Life and Legends of Britain's Warrior Queen by Vanessa Collingridge",
+    "The Annals by Tacitus (Book XIV)",
+    "Roman History by Dio Cassius (Book LXII)",
+    "Boudica: Iron Age Warrior Queen by Richard Hingley and Christina Unwin",
+    "The Roman Conquest of Britain by Graham Webster"
+  ]
+}

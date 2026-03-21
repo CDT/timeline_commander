@@ -1,0 +1,121 @@
+{
+  "id": "battle-of-alesia-52bc-scene-003",
+  "scenarioId": "battle-of-alesia-52bc",
+  "isTerminal": true,
+  "date": {
+    "en": "October, 52 BC — The Surrender",
+    "ja": "紀元前52年10月 — 降伏",
+    "zh-CN": "公元前52年10月——投降"
+  },
+  "location": {
+    "en": "Before the Gates of Alesia, Gaul",
+    "ja": "ガリア、アレシアの城門前",
+    "zh-CN": "高卢，阿莱西亚城门前"
+  },
+  "title": {
+    "en": "Vercingetorix Surrenders",
+    "ja": "ヴェルキンゲトリクスの降伏",
+    "zh-CN": "维钦托利投降"
+  },
+  "narrativePrompt": {
+    "en": "The relief army has fled. Vercingetorix's garrison has been without food for weeks; reports say they have expelled the civilian population from Alesia to stretch their supplies, and you have refused to let those civilians through — they are dying in the no-man's land between the walls. Now a herald approaches under flag of truce. Vercingetorix will surrender. The question is not whether you accept — you will — but how. Do you execute him immediately, removing all possibility of future rallying? Or take him to Rome for your triumph — the greatest propaganda display Rome has ever seen?",
+    "ja": "救援軍は逃走した。ヴェルキンゲトリクスの守備隊は数週間食料なしでいる。報告では、彼らは補給を延ばすためアレシアから民間人を追い出し、あなたはそれらの民間人を通すことを拒否した——彼らは壁の間の中間地帯で死にかけている。今、停戦の旗のもと使者が近づいてくる。ヴェルキンゲトリクスは降伏する。問題は受け入れるかどうかではない——受け入れる——どのようにかだ。将来の集結の可能性をすべて排除するために直ちに処刑するか？それともローマが見たことのない最大のプロパガンダの見せ場として凱旋式のためにローマに連れて行くか？",
+    "zh-CN": "援军已逃走。维钦托利的守军已数周没有食物；报告说他们已将平民驱逐出阿莱西亚以延长补给，而你拒绝让那些平民通过——他们正在两道城墙之间的无人区中死去。现在一名使者在休战旗下走近。维钦托利将会投降。问题不在于你是否接受——你会的——而在于怎样接受。是立即处决他，消除所有未来集结的可能性？还是将他带往罗马用于你的凯旋游行——罗马有史以来最伟大的宣传展示？"
+  },
+  "situationReport": [
+    {
+      "en": "The siege of Alesia is over. The relief army is routed; its chieftains are either dead or fleeing to their territories. Gaul is broken.",
+      "ja": "アレシアの包囲が終わった。救援軍は壊走した。その族長たちは死んでいるか領土に逃げるかしている。ガリアは打ち砕かれた。",
+      "zh-CN": "阿莱西亚的围城战结束了。援军已溃败；其首领们要么已死，要么正逃往各自领土。高卢已经崩溃。"
+    },
+    {
+      "en": "Vercingetorix is the unifying symbol of Gallic resistance. Alive, he remains a potential rallying point for future revolts. Dead, he becomes a martyr.",
+      "ja": "ヴェルキンゲトリクスはガリア抵抗の統一的シンボルだ。生きていれば、将来の反乱の潜在的な集結点であり続ける。死ねば、殉教者となる。",
+      "zh-CN": "维钦托利是高卢抵抗的统一象征。活着，他仍是未来起义的潜在集结点。死去，他成为烈士。"
+    },
+    {
+      "en": "Rome does not yet know the full story of Alesia. A triumphant return with the enemy king in chains would make Caesar politically untouchable in Rome.",
+      "ja": "ローマはまだアレシアの全貌を知らない。鎖に繋がれた敵の王と共に凱旋すれば、カエサルはローマで政治的に手の届かない存在になるだろう。",
+      "zh-CN": "罗马还不知道阿莱西亚的全部故事。带着戴着锁链的敌王凯旋归来将使凯撒在罗马政治上无法撼动。"
+    },
+    {
+      "en": "The Gallic civilians in the no-man's land — expelled by Vercingetorix to save food — are still dying between the walls. Mercy here costs nothing politically.",
+      "ja": "中間地帯のガリアの民間人——食料を節約するためにヴェルキンゲトリクスに追い出された——はまだ壁の間で死にかけている。ここでの慈悲は政治的に何の代償も払わない。",
+      "zh-CN": "无人区中的高卢平民——被维钦托利驱逐以节省食物——仍然在两道城墙之间死去。在这里施予慈悲在政治上没有任何代价。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Complete the conquest of Gaul — Vercingetorix's capture must translate into permanent Roman authority",
+      "ja": "ガリアの征服を完成させる——ヴェルキンゲトリクスの捕獲は恒久的なローマの権威に変換されなければならない",
+      "zh-CN": "完成对高卢的征服——维钦托利的被俘必须转化为永久的罗马权威"
+    },
+    {
+      "en": "Leverage this victory for political advantage in Rome — civil war with the Senate is coming",
+      "ja": "ローマでの政治的優位のためにこの勝利を活用する——元老院との内戦が来ている",
+      "zh-CN": "利用这场胜利获得罗马的政治优势——与元老院的内战即将到来"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Executing Vercingetorix here removes the triumph spectacle but eliminates future risk",
+      "ja": "ここでヴェルキンゲトリクスを処刑することは凱旋の見せ場を失わせるが、将来のリスクを排除する",
+      "zh-CN": "在这里处决维钦托利消除了凯旋游行的展示但也消除了未来的风险"
+    },
+    {
+      "en": "Keeping him alive for six years (until your triumph) carries risk — other nobles might attempt to free him",
+      "ja": "凱旋式まで六年間（凱旋式まで）生かしておくことにはリスクが伴う——他の貴族が彼を解放しようとするかもしれない",
+      "zh-CN": "为你的凯旋游行将他活着关押六年存在风险——其他贵族可能试图解救他"
+    }
+  ],
+  "choices": [
+    {
+      "id": "triumph-in-rome",
+      "label": {
+        "en": "Take Vercingetorix to Rome: six years as prisoner, then the greatest triumph Rome has seen",
+        "ja": "ヴェルキンゲトリクスをローマに連れて行く：六年間の囚人生活、その後ローマが見た中で最大の凱旋式",
+        "zh-CN": "将维钦托利带往罗马：六年囚禁，然后是罗马所见过最伟大的凯旋游行"
+      },
+      "description": {
+        "en": "Chain him and take him to Rome. He will wait in the Tullianum prison while you fight your civil war, defeat Pompey, and consolidate power. In 46 BC, display him in four simultaneous triumphs — Gaul, Egypt, Pontus, Africa. Gaul, personified, in chains. Then execute him properly, at the peak of your glory.",
+        "ja": "彼を鎖に繋ぎローマに連れて行く。内戦を戦い、ポンペイウスを打ち負かし、権力を固める間、彼はトゥリアヌム牢獄で待つ。紀元前46年、四つの同時凱旋式——ガリア、エジプト、ポントゥス、アフリカ——で彼を展示する。鎖に繋がれたガリアの象徴。そしてあなたの栄光の絶頂で、適切に処刑する。",
+        "zh-CN": "将他锁链加身带往罗马。他将在图利安努斯监狱等待，而你打内战、击败庞培、巩固权力。公元前46年，在四场同时举行的凯旋游行中展示他——高卢、埃及、本都、非洲。高卢的化身，戴着锁链。然后在你荣耀的顶峰，将他正式处决。"
+      },
+      "historicalContext": "This is what Caesar actually did. Vercingetorix was held prisoner for six years in Rome, paraded in Caesar's triumph of 46 BC, and then strangled in the Mamertine Prison. Caesar's four simultaneous triumphs in 46 BC were the greatest display of Roman military achievement in history to that point. Vercingetorix's surrender — riding his horse into Caesar's camp, throwing his weapons at Caesar's feet — became one of antiquity's most iconic scenes of defeat.",
+      "outcomePrompt": {
+        "en": "Vercingetorix rides his horse into your camp. He is in full armor and war regalia. He dismounts, walks to where you are seated, and without a word throws his weapons at your feet. He sits in silence. You have him taken to Rome in chains. For six years he waits in a Roman prison while you fight the civil war, cross the Rubicon, defeat Pompey at Pharsalus, become dictator. In 46 BC, he walks in your triumph through the streets of Rome — the last king of a free Gaul, displayed to a million people. He is executed that evening. Gaul becomes Roman. Two thousand years later, the French call him their first national hero.",
+        "ja": "ヴェルキンゲトリクスはあなたの陣営に馬に乗って入ってくる。彼は完全な鎧と戦装束を身に着けている。下馬し、あなたが座っているところまで歩き、一言も発せずあなたの足元に武器を投げ捨てる。無言で座る。あなたは彼を鎖に繋いでローマに連れて行かせる。六年間、ローマの牢獄で待つ間、あなたは内戦を戦い、ルビコンを渡り、ファルサルスでポンペイウスを打ち負かし、独裁官となる。紀元前46年、彼はローマの通りを行くあなたの凱旋式を歩く——自由なガリアの最後の王、百万人の人々に展示される。彼はその夕方処刑される。ガリアはローマとなる。二千年後、フランス人は彼を最初の国民的英雄と呼ぶ。",
+        "zh-CN": "维钦托利骑马进入你的营地。他身着完整的铠甲和战争装束。他下马，走到你坐着的地方，一言不发地将武器扔在你脚前。他默然而坐。你让人将他锁链加身带往罗马。六年间，他在罗马监狱里等待，而你打内战，渡过卢比孔河，在法萨卢斯击败庞培，成为独裁者。公元前46年，他穿越罗马街道走在你的凯旋游行中——自由高卢的最后一位国王，在百万人面前展示。他当晚被处决。高卢成为罗马。两千年后，法国人称他为他们的第一位民族英雄。"
+      },
+      "stateChanges": [
+        { "key": "romanMorale", "operation": "set", "value": 100 },
+        { "key": "cavalryReserve", "operation": "add", "value": 20 }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "id": "execute-immediately",
+      "label": {
+        "en": "Execute Vercingetorix on the spot: remove the risk, end the story here",
+        "ja": "その場でヴェルキンゲトリクスを処刑する：リスクを排除し、ここで話を終わらせる",
+        "zh-CN": "当场处决维钦托利：消除风险，在此结束故事"
+      },
+      "description": {
+        "en": "A living enemy king is a future problem. The war is over — finish it cleanly. Execute him in front of his surviving warriors, burn his war gear, and distribute his lands to tribes that stayed loyal to Rome. Gaul ends today, not six years from now.",
+        "ja": "生きている敵の王は将来の問題だ。戦争は終わった——きれいに終わらせる。生き残った戦士たちの前で彼を処刑し、彼の戦装束を燃やし、ローマに忠実であり続けた部族に彼の領地を分配する。ガリアは六年後ではなく、今日終わる。",
+        "zh-CN": "一位活着的敌王是未来的隐患。战争结束了——干净利落地结束它。在他幸存的战士面前处决他，焚毁他的战争装备，将他的土地分配给保持对罗马忠诚的部落。高卢今天就结束，而非六年后。"
+      },
+      "historicalContext": "This is the counterfactual. Immediate execution of Vercingetorix would have been pragmatically rational — it eliminated the risk of future revolt around his person. But it would have denied Caesar one of history's most powerful propaganda moments. The triumph of 46 BC, with Vercingetorix paraded through Rome, cemented Caesar's image as the greatest Roman general of his age. Without it, the political impact of the Gallic victory would have been significantly diminished.",
+      "outcomePrompt": {
+        "en": "You order Vercingetorix executed before his warriors. It is done quickly, without ceremony. His war gear is burned. His body is buried without honor. Word spreads through Gaul within days: the king is dead; Alesia has fallen; the Romans are absolute. There is no further organized resistance. Gaul pacifies faster than it would have otherwise. But in Rome, when you return, there is no triumph — no living symbol of your conquest to parade through the streets. Your political rivals note the absence. The Gallic War is a military victory without a moment that Rome can see.",
+        "ja": "あなたは戦士たちの前でヴェルキンゲトリクスを処刑するよう命じる。速やかに、儀式なく行われる。彼の戦装束が燃やされる。遺体は名誉なく埋葬される。数日以内にガリア全土に広まる：王は死んだ、アレシアは陥落した、ローマは絶対的だ。それ以上の組織的な抵抗はない。ガリアはそうでなかった場合より早く平定される。しかしローマで、あなたが帰還すると、凱旋式がない——街を練り歩くための征服の生きたシンボルがない。あなたの政治的なライバルたちは不在に気づく。ガリア戦争はローマが見ることができる瞬間のない軍事的勝利だ。",
+        "zh-CN": "你命令在他的战士们面前处决维钦托利。这被迅速完成，没有仪式。他的战争装备被焚毁。遗体被无荣誉地埋葬。消息在数天内传遍高卢：国王已死；阿莱西亚已沦陷；罗马是绝对的。没有进一步的有组织抵抗。高卢比否则更快地平定了。但在罗马，当你归来时，没有凯旋游行——没有活生生的征服象征可以游行穿越街道。你的政治对手注意到了这个缺席。高卢战争是一场罗马看不到任何时刻的军事胜利。"
+      },
+      "stateChanges": [
+        { "key": "romanMorale", "operation": "add", "value": 15 },
+        { "key": "innerGarrisonPressure", "operation": "set", "value": 0 }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

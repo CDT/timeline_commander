@@ -1,0 +1,123 @@
+{
+  "id": "actium-31bc-scene-001",
+  "scenarioId": "actium-31bc",
+  "date": {
+    "en": "Late August, 31 BC",
+    "ja": "紀元前31年8月末",
+    "zh-CN": "公元前31年8月末"
+  },
+  "location": {
+    "en": "Actium, Western Greece — Octavian's Command Position",
+    "ja": "ギリシャ西部アクティウム、オクタウィアヌスの指揮所",
+    "zh-CN": "希腊西部亚克兴，屋大维指挥所"
+  },
+  "isTerminal": false,
+  "title": {
+    "en": "The Trap at Actium",
+    "ja": "アクティウムの罠",
+    "zh-CN": "亚克兴的困局"
+  },
+  "narrativePrompt": {
+    "en": "The harbor at Actium stinks of rot. For weeks, Agrippa's naval blockade has been strangling Antony's fleet — a force that was once the pride of the eastern Mediterranean, now trapped in the Ambracian Gulf like a great animal in a cage. Disease has swept through the crews: malaria and dysentery kill more men each day than combat ever has. Deserters are arriving daily in your camp, men who once fought for Antony now offering their swords to Octavian.\n\nYou are Gaius Octavian, and for the first time in years, you can feel the war tilting decisively toward you. Reports from your scouts indicate Antony's fleet has fewer than 250 functional warships remaining, down from 500. His army is still formidable — 19 legions of experienced soldiers — but they cannot fight on empty stomachs, and the supply lines from Egypt are severed. Even Antony's allied kings are defecting: Amyntas of Galatia and Deiotaurus Philadelphus of Paphlagonia have both crossed to your side in the last week.\n\nBut there is a complication. One of Antony's closest friends, the general Quintus Dellius — a man who has switched sides before — has just arrived in your camp with startling intelligence: Antony and Cleopatra are planning an imminent breakout attempt. They intend to embark the war treasury aboard Cleopatra's squadron and fight their way through your blockade. If they reach Egypt with the gold, they can raise new armies and the war continues for years.\n\nYour admiral Agrippa is confident, but has a strategic question for you: do you extend the blockade to cut off even the small supply of provisions still reaching Antony's camp by land, accelerating his collapse — or do you prepare aggressively for the breakout, repositioning your fleet to intercept Cleopatra's squadron specifically?",
+    "ja": "アクティウムの港は腐敗の臭いで満ちている。何週間もの間、アグリッパの海軍封鎖がアントニウスの艦隊を絞め続けている——かつて東地中海の誇りだった軍が、今は巨大な動物のように檻に閉じ込められて、アンブラキア湾に封じ込められている。疫病が乗組員を席巻した：マラリアと赤痢が毎日戦闘よりも多くの命を奪っている。脱走者が毎日あなたの陣営に到着しており、かつてアントニウスのために戦った者たちがオクタウィアヌスに剣を捧げに来る。\n\nあなたはガイウス・オクタウィアヌスであり、数年ぶりに戦争が自分に向かって決定的に傾いているのを感じることができる。斥候からの報告によると、アントニウスの艦隊は500隻から減って機能する軍艦が250隻未満しか残っていない。彼の軍は依然として強力だ——19個軍団の経験豊富な兵士——しかし空腹では戦えず、エジプトからの補給線は断ち切られている。さらにアントニウスの同盟王たちまでが離反している：ガラテアのアミンタスとパフラゴニアのデイオタロス・フィラデルフォスが先週どちらもあなたの陣営に移った。\n\nしかし複雑な問題がある。アントニウスの最も親しい友人の一人、将軍クィントゥス・デッリウス——かつて何度も鞍替えした男——が驚くべき情報を持ってあなたの陣営に現れた：アントニウスとクレオパトラが差し迫った突破試みを計画しているという。クレオパトラの艦隊に戦争資金を積み込み、封鎖を突破しようとしているのだ。もし彼らが金とともにエジプトに到達すれば、新たな軍を組成でき、戦争は数年続く。\n\nあなたの提督アグリッパは自信を持っているが、戦略的な質問がある：アントニウスの陣営に陸路で届いているわずかな物資の補給さえも断つために封鎖を拡大し、彼の崩壊を早めるか——それともクレオパトラの艦隊を特に迎撃するために艦隊を積極的に再配置して、突破に備えるか？",
+    "zh-CN": "亚克兴港口散发着腐烂的气味。数周来，阿格里帕的海军封锁一直在扼杀安东尼的舰队——这支曾经是东地中海骄傲的力量，如今像一头被困在笼中的巨兽，被封锁在安布拉基亚湾里。疾病横扫船员：疟疾和痢疾每天夺走的生命比战斗更多。逃兵每天都在抵达你的营地，曾经为安东尼而战的人现在将剑献给屋大维。\n\n你是盖乌斯·屋大维，多年来第一次，你感受到战争正决定性地向你倾斜。你的斥候报告显示，安东尼的舰队剩余的功能性战舰不足250艘，从500艘减少而来。他的军队依然强大——19个军团的经验老兵——但不能饿着肚子作战，而来自埃及的补给线已被切断。甚至安东尼的附庸国王们也在背叛：加拉太的阿敏塔斯和帕弗拉戈尼亚的戴奥塔鲁斯·菲拉德尔弗斯上周都投靠了你。\n\n但有一个复杂情况。安东尼最亲密的朋友之一，将军昆图斯·德利乌斯——一个之前多次倒戈的人——刚刚带来了惊人情报抵达你的营地：安东尼和克利奥帕特拉正在计划一次即将到来的突围尝试。他们打算将战争国库装上克利奥帕特拉的分队，强行突破你的封锁线。如果他们带着黄金到达埃及，他们可以招募新的军队，战争将持续数年。\n\n你的海军将领阿格里帕充满信心，但有一个战略问题要问你：是扩大封锁线切断仍然通过陆路抵达安东尼营地的少量物资补给，加速他的崩溃——还是积极准备应对突围，重新部署舰队专门拦截克利奥帕特拉的分队？"
+  },
+  "situationReport": [
+    {
+      "en": "Antony's fleet is reduced to approximately 230 functional warships, with undermanned crews suffering from disease. His land force of 19 legions remains intact but is running short of food and suffering from desertion.",
+      "ja": "アントニウスの艦隊は約230隻の機能する軍艦に減少しており、乗組員は病気に苦しんでいる。19個軍団の陸軍は依然として無傷だが、食料が不足して脱走に苦しんでいる。",
+      "zh-CN": "安东尼的舰队已缩减至约230艘可用战舰，船员不足且饱受疾病之苦。他的19个军团陆军完好无损，但粮食短缺并遭受逃兵问题。"
+    },
+    {
+      "en": "Agrippa's fleet of 400 Liburnian warships controls the sea. His ships are lighter and faster than Antony's heavy quinqueremes, but individually less powerful in direct combat.",
+      "ja": "アグリッパの400隻のリブルナ型軍艦が制海権を握っている。彼の船はアントニウスの重い五段櫂船より軽くて速いが、直接戦闘では個々の戦力が劣る。",
+      "zh-CN": "阿格里帕的400艘利布尔纳型战船控制着海面。他的船比安东尼的重型五列桨战船更轻更快，但直接交战时单舰战力较弱。"
+    },
+    {
+      "en": "Intelligence from Quintus Dellius indicates the breakout is imminent — possibly within days. Cleopatra's 60 Egyptian ships, loaded with the war treasury, will attempt to break south through the blockade line.",
+      "ja": "クィントゥス・デッリウスからの情報によると、突破は差し迫っている——おそらく数日以内。戦争資金を積んだクレオパトラの60隻のエジプト船が、封鎖線を南に突破しようとするだろう。",
+      "zh-CN": "昆图斯·德利乌斯的情报显示突围迫在眉睫——可能在数天内。载有战争国库的克利奥帕特拉60艘埃及船将试图向南突破封锁线。"
+    },
+    {
+      "en": "Octavian's ground forces under his own command hold positions north of Actium, cutting off land supply. However, a trickle of provisions still reaches Antony's camp through mountain paths.",
+      "ja": "オクタウィアヌスの指揮下の地上軍はアクティウム北方の陣地を保持し、陸上補給を断っている。しかし、わずかな食料が山道を通じてアントニウスの陣営に届いている。",
+      "zh-CN": "屋大维亲自指挥的地面部队占据亚克兴北方阵地，切断陆路补给。然而，少量物资仍通过山路到达安东尼的营地。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Set the strategic conditions to either force Antony's surrender before a breakout attempt, or position your fleet to destroy the breakout when it comes.",
+      "ja": "アントニウスを突破試みの前に降伏させるか、突破が来た際に艦隊を撃破するために位置取りするかの戦略的条件を設定する。",
+      "zh-CN": "设置战略条件，要么在突围尝试之前迫使安东尼投降，要么将舰队定位好以在突围来临时将其摧毁。"
+    },
+    {
+      "en": "Ensure that Cleopatra's war treasury does not reach Egypt regardless of outcome.",
+      "ja": "結果がどうであれ、クレオパトラの戦争資金がエジプトに到達しないことを確実にする。",
+      "zh-CN": "无论结果如何，确保克利奥帕特拉的战争国库不会到达埃及。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You are not a skilled naval tactician. The fleet dispositions must be managed by Agrippa — your role is to set strategic priorities, not battle formations.",
+      "ja": "あなたは熟練した海戦戦術家ではない。艦隊の配置はアグリッパが管理しなければならない——あなたの役割は戦略的優先事項を設定することであり、戦闘隊形ではない。",
+      "zh-CN": "你不是熟练的海战战术家。舰队部署必须由阿格里帕管理——你的角色是设定战略优先事项，而非战斗队形。"
+    },
+    {
+      "en": "A complete land encirclement could provoke Antony to attack your ground forces with his still-formidable legions rather than attempt a sea breakout.",
+      "ja": "完全な陸上包囲は、アントニウスが海上突破を試みるのではなく、依然として強力な軍団でアナタの地上軍を攻撃するよう仕向ける可能性がある。",
+      "zh-CN": "完全的陆地包围可能激怒安东尼用他依然强大的军团攻击你的地面部队，而非尝试海上突围。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Tighten the land blockade — starve Antony into surrender before the breakout",
+        "ja": "陸上封鎖を強化する――突破前にアントニウスを兵糧攻めで降伏させる",
+        "zh-CN": "收紧陆上封锁——在突围之前通过饥饿迫使安东尼投降"
+      },
+      "description": {
+        "en": "Send additional cavalry and light infantry to close the mountain paths. Cut off the last trickle of supplies reaching Antony's camp by land. If his army has no food at all, his legions will mutiny within days. He will either surrender or attempt the breakout in a desperate, disorganized state with rowers too weak to fight effectively.",
+        "ja": "追加の騎兵と軽歩兵を送って山道を閉鎖する。アントニウスの陣営に陸路で届く最後のわずかな補給を断ち切る。軍に食料が全くなければ、軍団は数日以内に反乱を起こすだろう。彼は降伏するか、漕ぎ手が効果的に戦えないほど弱体化した絶望的で組織化されていない状態で突破を試みるかのどちらかになる。",
+        "zh-CN": "派遣额外的骑兵和轻步兵关闭山路。切断最后一丝到达安东尼营地的陆路补给。如果他的军队完全没有食物，军团将在数天内哗变。他要么投降，要么在桨手虚弱到无法有效战斗的绝望、无序状态下尝试突围。"
+      },
+      "historicalContext": "This is the counterfactual approach. Octavian chose to prepare for a naval engagement rather than attempt a complete strangulation. Part of the reason was that Antony still had a formidable land army — one that could potentially attack and destroy Octavian's ground forces if pushed to desperation. The historical Octavian, following Agrippa's advice, focused on maintaining naval superiority and positioning for the anticipated breakout.",
+      "outcomePrompt": {
+        "en": "The cavalry rides out to seal the mountain passes. Within three days, the last food reaching Antony's camp dries up entirely. Reports from deserters confirm chaos: soldiers fighting over rations, officers unable to maintain discipline, Antony himself reportedly seen weeping at a table set with empty dishes.\n\nBut Antony does not surrender. Instead, he makes the breakout attempt even earlier than expected — in a desperate, disorganized rush. His rowers, weakened from weeks of disease and now from starvation, cannot maintain formation. When his fleet emerges from the gulf, it is not the coordinated fighting withdrawal you anticipated but a panicked flight.\n\nAgrippa's fleet intercepts easily. The disorganized Antonine ships are destroyed or captured in detail. Cleopatra's Egyptian squadron, better supplied than the rest, breaks south through the chaos and escapes with a portion of the treasury — but only a fraction of what she carried, as several treasure ships are taken in the pursuit.\n\nAntony abandons his fleet entirely and follows Cleopatra with a handful of ships. His army, learning that Antony has fled, surrenders to you one week later without a fight. The war is over, though Egypt will require one more campaign to secure.",
+        "ja": "騎兵が山道を封鎖するために出発する。3日以内に、アントニウスの陣営に届く最後の食料が完全に尽きる。脱走者からの報告が混乱を確認する：配給を巡って戦う兵士たち、規律を維持できない将校たち、アントニウス自身が空の皿が並ぶテーブルで泣いているのを見られたと報告される。\n\nしかしアントニウスは降伏しない。代わりに、予想よりも早い突破試みを行う——絶望的で組織化されていない突進で。何週間もの病気と今や飢餓で弱った漕ぎ手たちは、陣形を維持できない。艦隊が湾から現れた時、それは予想した調整された戦闘的撤退ではなく、パニックになった逃走だ。\n\nアグリッパの艦隊は容易に迎撃する。組織化されていないアントニウスの船は個別に撃破または捕獲される。クレオパトラのエジプト艦隊は、他より補給が良く、財宝の一部と共に混乱を突いて南に逃走する——しかし彼女が携えていたものの一部だけで、追撃でいくつかの財宝船が捕らえられる。\n\nアントニウスは艦隊を完全に放棄し、わずかな船でクレオパトラを追う。軍はアントニウスが逃げたことを知り、一週間後に戦わずしてあなたに降伏する。戦争は終わる。エジプトを確保するにはもう一つの戦役が必要だが。",
+        "zh-CN": "骑兵出发封锁山口。三天之内，到达安东尼营地的最后食物完全断绝。来自逃兵的报告证实了混乱：士兵为口粮而争斗，军官无法维持纪律，据报道安东尼本人被看到在摆满空碟子的桌子前哭泣。\n\n但安东尼没有投降。相反，他甚至比预期更早发起突围——是绝望的、无组织的仓皇冲锋。桨手们因数周疾病加上饥饿而虚弱，无法保持队形。当他的舰队从海湾冒出时，这不是你预料的协调的战斗撤退，而是惊慌失措的逃窜。\n\n阿格里帕的舰队轻松拦截。无组织的安东尼战船被逐一摧毁或俘获。克利奥帕特拉的埃及分队补给比其他人好，携部分国库在混乱中向南突围——但只是她所携带的一部分，因为追击中几艘财宝船被截获。\n\n安东尼完全抛弃他的舰队，带着少数船只追随克利奥帕特拉。他的军队得知安东尼已逃，一周后不战而向你投降。战争结束了，尽管埃及还需要再一次战役来确保。"
+      },
+      "stateChanges": [
+        { "variable": "enemyMorale", "operation": "add", "value": -20 },
+        { "variable": "treasureSecurity", "operation": "add", "value": 10 },
+        { "variable": "fleetReadiness", "operation": "add", "value": 5 }
+      ],
+      "nextSceneId": "actium-31bc-scene-002"
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Reposition the fleet for interception — prepare to destroy the breakout when it comes",
+        "ja": "迎撃のために艦隊を再配置する――突破が来た時に撃破する準備をする",
+        "zh-CN": "重新部署舰队进行拦截——准备在突围到来时将其摧毁"
+      },
+      "description": {
+        "en": "Trust Agrippa's advice and focus on naval preparation. Reposition squadrons specifically to guard the southern exit from the gulf — the likely escape route for Cleopatra's treasury ships. Maintain the current land blockade but do not risk provoking Antony's land army by tightening further. Let the breakout come and destroy it on the water.",
+        "ja": "アグリッパのアドバイスを信頼し、海軍の準備に集中する。クレオパトラの財宝船の脱出ルートとなりそうな湾の南出口を守るために艦隊を特に再配置する。現在の陸上封鎖を維持するが、これ以上締め付けてアントニウスの陸軍を挑発するリスクは避ける。突破が来て、海上でそれを撃破させる。",
+        "zh-CN": "信任阿格里帕的建议，专注于海军准备。将分队重新部署，专门守卫海湾南出口——克利奥帕特拉财宝船可能的逃脱路线。维持当前的陆上封锁，但不要冒险通过进一步收紧来激怒安东尼的陆军。让突围到来，在海上将其摧毁。"
+      },
+      "historicalContext": "This is closer to the historical choice Octavian made, following Agrippa's strategic advice. Octavian maintained his naval blockade and ground positions without attempting a final land strangulation, allowing the breakout to come on terms that favored the Octavian fleet. The focus on intercepting Cleopatra's treasure ships rather than simply sinking everything reflects the genuine historical priority — Cleopatra's gold was the key to whether the war could continue.",
+      "outcomePrompt": {
+        "en": "Agrippa repositions his best squadrons to guard the southern approaches. You wait. Antony knows the trap is closing and makes his move on September 2.\n\nThe morning of Actium begins with Antony's fleet emerging from the gulf in battle formation — a brave effort by a weakened force. Agrippa holds position, fighting defensively, wearing down the Antonine ships while keeping formation. For hours, the battle is a grinding naval engagement, neither side able to deliver a decisive blow.\n\nThen Cleopatra moves. Her 60 Egyptian ships suddenly break through the Antonine center and drive south with full sails — a prearranged escape. The sight of the Egyptian queen abandoning the fleet tears the heart out of Antony's fighting spirit. He abandons his own flagship and follows her with a handful of ships.\n\nThe remaining Antonine fleet, leaderless, fights on briefly then surrenders or burns. Agrippa pursues Cleopatra's escaping squadron but cannot fully stop it — the treasure ships, running before the wind, escape with most of the Egyptian gold. It is a victory, but not total.\n\nA week later, Antony's land army surrenders without a fight. You hold the world — but Cleopatra and her treasury are in Alexandria, and the war is not yet fully over.",
+        "ja": "アグリッパは最良の艦隊を南の接近路を守るために再配置する。あなたは待つ。アントニウスは罠が閉まっていることを知り、9月2日に行動する。\n\nアクティウムの朝は、アントニウスの艦隊が戦闘陣形で湾から現れることで始まる——弱体化した軍による勇敢な試みだ。アグリッパは陣地を保持し、防衛的に戦い、陣形を維持しながらアントニウスの船を疲弊させる。数時間、戦闘は両陣営が決定的な打撃を与えられない消耗的な海戦だ。\n\nそしてクレオパトラが動く。60隻のエジプト船が突然アントニウスの中央を突破し、帆を張って南に向かう——事前に取り決められた脱出だ。エジプトの女王が艦隊を見捨てる光景は、アントニウスの戦意の心を引き裂く。彼は自分の旗艦を捨て、わずかな船で彼女を追う。\n\n指揮官を失った残りのアントニウス艦隊は一時的に戦闘を続けた後、降伏するか炎上する。アグリッパはクレオパトラの逃走する艦隊を追うが、完全には止められない——財宝船は風を受けて走り、エジプトの金のほとんどとともに逃走する。勝利だが、完全ではない。\n\n一週間後、アントニウスの陸軍は戦わずして降伏する。あなたは世界を握る——しかしクレオパトラとその財宝はアレクサンドリアにあり、戦争はまだ完全には終わっていない。",
+        "zh-CN": "阿格里帕重新部署他的最佳分队守卫南部进入通道。你等待。安东尼知道陷阱正在收紧，在9月2日采取了行动。\n\n亚克兴之晨以安东尼的舰队以战斗阵型从海湾冒出开始——这是一支削弱了的力量所做的勇敢努力。阿格里帕坚守阵地，进行防御性战斗，在保持阵型的同时消耗安东尼的战船。数小时内，战斗是一场双方都无法给予决定性打击的消耗性海战。\n\n然后克利奥帕特拉行动了。她的60艘埃及战船突然突破安东尼的中央，扬帆向南冲去——这是事先安排好的逃脱。看到埃及女王抛弃舰队的景象将安东尼的战斗意志撕碎。他抛下自己的旗舰，带着少数战船追随她。\n\n失去指挥官的剩余安东尼舰队短暂继续战斗后投降或被烧毁。阿格里帕追赶克利奥帕特拉逃脱的分队，但无法完全阻止——财宝船乘风而行，携带大部分埃及黄金逃脱。这是一场胜利，但并不彻底。\n\n一周后，安东尼的陆军不战而降。你掌握了世界——但克利奥帕特拉和她的国库在亚历山大城，战争尚未完全结束。"
+      },
+      "stateChanges": [
+        { "variable": "navalSuperiority", "operation": "add", "value": 10 },
+        { "variable": "fleetReadiness", "operation": "add", "value": 15 },
+        { "variable": "treasureSecurity", "operation": "add", "value": -10 }
+      ],
+      "nextSceneId": "actium-31bc-scene-002"
+    }
+  ]
+}

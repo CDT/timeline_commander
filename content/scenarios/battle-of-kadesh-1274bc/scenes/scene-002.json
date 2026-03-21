@@ -1,0 +1,123 @@
+{
+  "id": "battle-of-kadesh-1274bc-scene-002",
+  "scenarioId": "battle-of-kadesh-1274bc",
+  "isTerminal": false,
+  "date": {
+    "en": "Battle Day, 1274 BC — The Chariot Storm",
+    "ja": "紀元前1274年、戦闘の日 — 戦車の嵐",
+    "zh-CN": "公元前1274年战斗日——战车风暴"
+  },
+  "location": {
+    "en": "The Plain West of Kadesh, Syria",
+    "ja": "シリア、カデシュ西の平野",
+    "zh-CN": "叙利亚，卡叠什以西平原"
+  },
+  "title": {
+    "en": "Ramesses Alone",
+    "ja": "ひとりのラメセス",
+    "zh-CN": "孤独的拉美西斯"
+  },
+  "narrativePrompt": {
+    "en": "Three thousand Hittite chariots have smashed the Ra Division and are now wheeling toward your camp. The Amun Division is forming a panicked defensive perimeter. Your other two divisions are miles away. Officers are fleeing. Men are throwing down weapons. You mount your chariot. You are Pharaoh, son of Ra, living incarnation of Amun. You have your personal bodyguard — perhaps 500 men — and whatever soldiers can be rallied. The Hittite chariots are closing. There is a moment when a leader either becomes the god his people need, or is trampled. This is that moment.",
+    "ja": "三千台のヒッタイト戦車がラー師団を壊滅させ、今あなたのキャンプに向けて転進している。アメン師団は混乱した防衛線を形成しようとしている。他の二個師団は何マイルも離れている。将校たちが逃げている。兵士たちが武器を投げ捨てている。あなたは戦車に乗る。あなたはファラオ、ラーの息子、アメンの生きた化身だ。個人の護衛——おそらく500人——と結集できる兵士たちがいる。ヒッタイト戦車が迫っている。指導者がその民が必要とする神になるか、踏みにじられるかの瞬間がある。今がその瞬間だ。",
+    "zh-CN": "三千辆赫梯战车摧毁了拉师，现在正转向你的营地。阿蒙师正在仓皇组建防御阵地。你的另外两个师在数英里之外。军官们正在逃跑。士兵们正在丢弃武器。你登上战车。你是法老，拉神之子，阿蒙的活体化身。你有你的个人护卫——大约500人——以及能被集结的士兵。赫梯战车正在逼近。有一刻，一个领袖要么成为他的人民所需要的神，要么被踩踏。这就是那一刻。"
+  },
+  "situationReport": [
+    {
+      "en": "Your personal bodyguard has formed around you — approximately 500 elite soldiers. They will not flee. The rest of the Amun Division is in disorder.",
+      "ja": "個人の護衛があなたの周りに集結した——約500人の精鋭兵士たちだ。彼らは逃げない。アメン師団の残りは混乱している。",
+      "zh-CN": "你的个人护卫已在你周围集结——约500名精锐士兵。他们不会逃跑。阿蒙师的其余部分陷入混乱。"
+    },
+    {
+      "en": "The Ne'arin — an elite force from Amurru — may be approaching from the northwest. If they arrive in time, they could strike the Hittite flank.",
+      "ja": "アムルからの精鋭部隊ネアリン——が北西から接近しているかもしれない。もし間に合えば、ヒッタイトの側面を攻撃できる。",
+      "zh-CN": "内阿林——来自阿摩利的精锐部队——可能正从西北方接近。如果他们及时到达，可以打击赫梯的侧翼。"
+    },
+    {
+      "en": "The Hittite chariots have stopped plundering the Ra Division's baggage train — they are distracted by loot. This is a narrow window.",
+      "ja": "ヒッタイト戦車はラー師団の荷馬車の略奪を止めた——彼らは戦利品に気を取られている。これは狭い機会だ。",
+      "zh-CN": "赫梯战车已停止掠夺拉师的辎重队——他们被战利品分散了注意力。这是一个短暂的机会。"
+    },
+    {
+      "en": "The Orontes River is to the east — Hittite forces that fled into it at the Ra Division collapse are drowning. The river has reduced Hittite numbers somewhat.",
+      "ja": "オロンテス川が東にある——ラー師団の崩壊でそこに逃げ込んだヒッタイト軍が溺れている。川によってヒッタイトの数がいくらか減った。",
+      "zh-CN": "奥伦特斯河在东方——在拉师崩溃时逃入其中的赫梯军队正在溺亡。河流使赫梯的人数有所减少。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Survive the immediate Hittite chariot assault",
+      "ja": "差し迫ったヒッタイト戦車の突撃を生き延びる",
+      "zh-CN": "在赫梯战车立即发动的冲锋中生存下来"
+    },
+    {
+      "en": "Rally enough forces to prevent total collapse until relief arrives",
+      "ja": "救援が到着するまで完全崩壊を防ぐのに十分な軍を立て直す",
+      "zh-CN": "集结足够的力量防止全面崩溃，直到援军到达"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Hittite chariots are faster than infantry — you cannot outrun them, only outfight them",
+      "ja": "ヒッタイトの戦車は歩兵より速い——逃げることはできない、戦うしかない",
+      "zh-CN": "赫梯战车比步兵快——你无法逃离它们，只能与之战斗"
+    },
+    {
+      "en": "Your arrows and your chariot are your weapons — and your personal courage is the only rallying force available",
+      "ja": "あなたの矢と戦車があなたの武器だ——そして個人の勇気だけが使える集結の力だ",
+      "zh-CN": "你的弓箭和战车是你的武器——而你的个人勇气是唯一可用的集结力量"
+    }
+  ],
+  "choices": [
+    {
+      "id": "charge-personally",
+      "label": {
+        "en": "Lead the charge yourself: Pharaoh at the head of the bodyguard, directly into the Hittite mass",
+        "ja": "自ら突撃を率いる：ヒッタイトの集団に直接、護衛の先頭に立つファラオ",
+        "zh-CN": "亲自率领冲锋：法老率护卫冲入赫梯阵中"
+      },
+      "description": {
+        "en": "There is no tactical solution. There is only will. You charge into the Hittite chariot mass — six charges, into the thousands — relying on the shock of Pharaoh's personal presence to disrupt their cohesion and buy time for the Ne'arin to arrive.",
+        "ja": "戦術的解決策はない。あるのは意志だけだ。あなたはヒッタイット戦車集団に突撃する——六回の突撃、数千に向かって——ファラオの個人的な存在の衝撃が彼らの結束を乱し、ネアリンが到着するまで時間を稼ぐことを頼りに。",
+        "zh-CN": "没有战术解决方案。只有意志。你冲入赫梯战车阵中——六次冲锋，对着数千人——依靠法老个人现身的震撼破坏他们的凝聚力，为内阿林到达争取时间。"
+      },
+      "historicalContext": "This is what Ramesses actually did. According to his own account (the Poem of Pentaur), he made six personal charges into the Hittite mass, accompanied only by his bodyguard. He prayed to Amun and charged. Modern analysis suggests this account is exaggerated but based on real events — Ramesses did fight personally, the Ne'arin did arrive, and the Hittite chariots did withdraw. His personal courage was not fabricated, though his scribes amplified it enormously.",
+      "outcomePrompt": {
+        "en": "You charge. The bodyguard follows. The Hittite chariots, distracted by plunder, are not in formation. You crash through their flanks. You shoot. Your charioteer drives into gaps. You charge again. And again. The Hittites cannot organize — Pharaoh himself is in their midst, an impossible, furious target. Then the Ne'arin appear from the northwest and crash into the Hittite flank. The Hittite chariots break and flee toward the Orontes. Many drown. Tonight, you will sleep knowing you fought like a god. Your scribes will say you were one.",
+        "ja": "あなたは突撃する。護衛が続く。ヒッタイト戦車は戦利品に気を取られ、隊形を整えていない。あなたは側面から突き進む。射る。御者が隙間に突入する。また突撃する。さらに。ヒッタイトは組織できない——ファラオ自身が彼らの中にいる、ありえない激しい標的として。するとネアリンが北西から現れ、ヒッタイトの側面に突撃する。ヒッタイット戦車は崩れ、オロンテスに向けて逃走する。多くが溺れる。今夜、あなたは神のように戦ったと知りながら眠るだろう。あなたの書記官たちはあなたがそうだったと言うだろう。",
+        "zh-CN": "你冲锋。护卫跟随。赫梯战车因掠夺而分心，没有列阵。你冲破他们的侧翼。你射箭。御者驾车冲入缺口。你再次冲锋。又一次。赫梯人无法组织——法老本人就在他们中间，一个不可思议的、愤怒的目标。然后内阿林从西北方出现，冲击赫梯侧翼。赫梯战车崩溃，向奥伦特斯逃跑。许多人溺亡。今晚，你将在知道自己像神一样战斗的情况下入睡。你的书吏将说你就是神。"
+      },
+      "stateChanges": [
+        { "key": "egyptianMorale", "operation": "add", "value": 30 },
+        { "key": "pharaohPrestige", "operation": "add", "value": 25 },
+        { "key": "hittitePressure", "operation": "add", "value": -30 }
+      ],
+      "nextSceneId": "battle-of-kadesh-1274bc-scene-003"
+    },
+    {
+      "id": "defensive-perimeter",
+      "label": {
+        "en": "Form a defensive square: hold the camp perimeter and await the Ptah Division",
+        "ja": "防衛方陣を形成する：キャンプ防衛線を守りプタハ師団を待つ",
+        "zh-CN": "组建防御方阵：守住营地防线，等待普塔赫师"
+      },
+      "description": {
+        "en": "A pharaoh dead is worth nothing. Consolidate the Amun soldiers into a tight defensive perimeter around the camp. Hold. The Ptah Division is hours away — send riders. Buy time through defense rather than suicidal charges.",
+        "ja": "死んだファラオは何の価値もない。アメン兵士をキャンプ周辺の密集した防衛陣地に集結させる。持ちこたえる。プタハ師団は数時間後に来る——騎馬伝令を送れ。自殺的な突撃ではなく防衛で時間を稼ぐ。",
+        "zh-CN": "死去的法老毫无价值。将阿蒙士兵集结在营地周围形成密集防御阵地。坚守。普塔赫师数小时后就会到——派出骑手。以防守而非自杀性冲锋来争取时间。"
+      },
+      "historicalContext": "This is the counterfactual. A purely defensive response might have preserved the Amun Division but would have given the Hittites time to organize and storm the camp before the Ne'arin or Ptah Division could arrive. Ancient chariot warfare generally favored offensive disruption over static defense — a stationary Egyptian camp would have been vulnerable to massed Hittite chariot charges.",
+      "outcomePrompt": {
+        "en": "You form a square with the Amun soldiers. The Hittites circle, probing. Their chariots harry the perimeter. Your archers hold the line — barely. Hours pass in desperate defensive fighting. Then riders arrive: the Ptah Division is three hours away. More Hittite chariots appear from behind Kadesh — Muwatalli has committed his reserves. The perimeter begins to buckle. Only the arrival of the Ne'arin from the northwest breaks the pressure. The battle grinds to an exhausted standstill. You survive. But this will not be sung about for three thousand years.",
+        "ja": "あなたはアメン兵士と共に方陣を形成する。ヒッタイトは周囲を回り、探りを入れる。彼らの戦車が防衛線を悩ませる。弓兵が防衛線を辛うじて維持する。絶望的な防衛戦闘の中で数時間が過ぎる。そして騎馬伝令が到着する：プタハ師団はあと三時間だ。さらにヒッタイット戦車がカデシュの後ろから現れる——ムワタリは予備隊を投入した。防衛線が崩れ始める。北西からのネアリンの到着だけが圧力を解く。戦いは疲弊した膠着状態に終わる。あなたは生き延びる。しかしこれは三千年にわたって歌われることにはならない。",
+        "zh-CN": "你与阿蒙士兵组成方阵。赫梯人绕行，试探。他们的战车骚扰防线。你的弓箭手勉强守住防线。绝望的防御战中数小时过去。然后骑手到来：普塔赫师还有三小时。更多赫梯战车从卡叠什后方出现——穆瓦塔利投入了他的预备队。防线开始崩溃。只有内阿林从西北方到来才解除了压力。战斗在精疲力竭的僵局中磨耗殆尽。你生存下来。但这不会被传颂三千年。"
+      },
+      "stateChanges": [
+        { "key": "egyptianMorale", "operation": "add", "value": 10 },
+        { "key": "pharaohPrestige", "operation": "add", "value": -10 },
+        { "key": "hittitePressure", "operation": "add", "value": -15 }
+      ],
+      "nextSceneId": "battle-of-kadesh-1274bc-scene-003"
+    }
+  ]
+}

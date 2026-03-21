@@ -1,0 +1,174 @@
+{
+  "id": "fall-of-jerusalem-70",
+  "title": {
+    "en": "Siege of Jerusalem",
+    "ja": "エルサレム包囲戦",
+    "zh-CN": "耶路撒冷围城战"
+  },
+  "period": {
+    "en": "First Jewish-Roman War",
+    "ja": "第一次ユダヤ・ローマ戦争",
+    "zh-CN": "第一次犹太-罗马战争"
+  },
+  "dates": {
+    "start": "0070-04-14",
+    "end": "0070-09-08"
+  },
+  "location": {
+    "en": "Jerusalem, Roman Province of Judaea",
+    "ja": "ユダヤ属州エルサレム",
+    "zh-CN": "罗马犹太行省耶路撒冷"
+  },
+  "historicalOverview": {
+    "en": "In 70 AD, the Roman general Titus Flavius Vespasianus—son of the newly proclaimed Emperor Vespasian—arrived before the walls of Jerusalem with four legions and a host of auxiliary forces, totaling approximately 70,000 soldiers. His mission was to end the Great Jewish Revolt that had raged since 66 AD, a rebellion that had humiliated Rome when the rebels destroyed the XII Legion Fulminata and drove the Roman governor from the province.\n\nJerusalem was one of the most heavily fortified cities in the ancient world, protected by three concentric walls, the massive stones of the Temple Mount, and the fortress of Antonia overlooking the Temple. However, the defenders were fatally divided. Three rival Jewish factions—led by Simon bar Giora, John of Gischala, and Eleazar ben Simon—had spent months fighting each other for control of the city, burning each other's food stores and assassinating rivals even as the Roman siege engines were being assembled outside the walls.\n\nThe siege lasted approximately five months, from April to September. Titus methodically breached the outer walls one by one while the defenders fought with desperate courage. Famine ravaged the civilian population trapped inside, with ancient sources describing scenes of unimaginable horror. When the Romans finally stormed the Temple Mount in August, the Temple of Jerusalem—the holiest site in Judaism—was destroyed by fire, whether by Titus's orders or by accident remains debated to this day. The destruction of the Temple transformed Judaism forever and scattered the Jewish people in a diaspora that would last nearly two millennia.",
+    "ja": "西暦70年、ローマの将軍ティトゥス・フラウィウス・ウェスパシアヌス——新たに即位した皇帝ウェスパシアヌスの息子——が、四個軍団と多数の補助部隊、合計約七万人の兵士を率いてエルサレムの城壁の前に到着した。彼の任務は西暦66年以来続いていた大ユダヤ反乱を終結させることだった。この反乱は、反乱軍が第12軍団フルミナタを壊滅させ、ローマの属州総督を追放したことでローマの威信を傷つけていた。\n\nエルサレムは古代世界で最も堅固に防備された都市の一つであり、三重の同心円状の城壁、神殿の丘の巨大な石材、そして神殿を見下ろすアントニア要塞によって守られていた。しかし、防衛者たちは致命的に分裂していた。シモン・バル・ギオラ、ヨハネス・ギスカラ、エレアザル・ベン・シモンが率いる三つの対立するユダヤ人派閥が、ローマの攻城兵器が城壁の外で組み立てられている間にも、何ヶ月も都市の支配権をめぐって互いに戦い、互いの食糧庫を焼き、対立者を暗殺していた。\n\n包囲戦は4月から9月まで約五ヶ月間続いた。ティトゥスは外壁を一つずつ計画的に突破し、防衛者たちは必死の勇気で戦った。内部に閉じ込められた民間人を飢饉が襲い、古代の史料は想像を絶する恐怖の場面を描写している。8月にローマ軍がついに神殿の丘を強襲した時、エルサレム神殿——ユダヤ教の最も聖なる場所——は火災により破壊された。これがティトゥスの命令によるものか偶然かは今日まで議論されている。神殿の破壊はユダヤ教を永久に変革し、ユダヤ人を約二千年続くディアスポラに散らした。",
+    "zh-CN": "公元70年，罗马将军提图斯·弗拉维乌斯·维斯帕西安努斯——新登基的皇帝维斯帕先的儿子——率领四个军团和大量辅助部队，共约七万名士兵抵达耶路撒冷城墙前。他的任务是终结自公元66年以来持续的犹太大起义，这场叛乱在叛军消灭第十二'雷电'军团并将罗马总督赶出行省时令罗马颜面尽失。\n\n耶路撒冷是古代世界防御最为坚固的城市之一，由三道同心城墙、圣殿山的巨大石材和俯瞰圣殿的安东尼亚要塞保护。然而，防守者们致命地分裂了。三个对立的犹太派系——分别由西蒙·巴尔·吉奥拉、吉斯卡拉的约翰和埃莱亚扎尔·本·西蒙领导——在罗马攻城器械正在城墙外组装的同时，花了数月时间争夺城市控制权，焚烧彼此的粮食储备，暗杀对手。\n\n围城战持续了大约五个月，从四月到九月。提图斯有条不紊地逐一突破外墙，而防守者以绝望的勇气战斗。饥荒肆虐城内被困的平民，古代史料描述了难以想象的恐怖场景。当罗马军队终于在八月攻上圣殿山时，耶路撒冷圣殿——犹太教最神圣的地方——被大火摧毁，这究竟是提图斯下令还是意外事故至今仍有争议。圣殿的毁灭永久地改变了犹太教，并将犹太人民驱散到了持续近两千年的流散之中。"
+  },
+  "realWorldOutcome": {
+    "en": "The siege ended with the total destruction of Jerusalem. The Temple was burned on the 10th of Av (approximately August 30), a date that became one of the most solemn days in the Jewish calendar. Titus's soldiers plundered the Temple treasures, including the sacred Menorah and the Table of Showbread, which were later depicted on the Arch of Titus in Rome. An estimated 1.1 million people died during the siege according to Josephus, though modern historians consider this figure exaggerated—a more likely estimate is 200,000-600,000 deaths from combat, famine, and disease. Approximately 97,000 survivors were enslaved. The destruction of the Temple ended the sacrificial worship that was central to ancient Judaism, leading to the rabbinic transformation of the faith into the study-and-prayer-centered religion practiced today. Titus returned to Rome in triumph and later became emperor. The spoils from the Temple funded the construction of the Colosseum.",
+    "ja": "包囲戦はエルサレムの完全な破壊で終わった。神殿はアヴの月10日（およそ8月30日）に焼け落ち、この日はユダヤ暦で最も厳粛な日の一つとなった。ティトゥスの兵士たちは聖なるメノラーと供えのパンの台を含む神殿の宝物を略奪し、これらは後にローマのティトゥスの凱旋門に描かれた。ヨセフスによれば包囲戦中に約百十万人が死亡したとされるが、現代の歴史家はこの数字を誇張されたものと考えており、戦闘、飢饉、疫病による死者はより現実的には二十万〜六十万人と推定されている。約九万七千人の生存者が奴隷にされた。神殿の破壊は古代ユダヤ教の中心であった犠牲儀礼の祭祀を終わらせ、今日実践されている学びと祈りを中心とするラビ的信仰への変革をもたらした。ティトゥスは凱旋将軍としてローマに帰還し、後に皇帝となった。神殿からの戦利品はコロッセオの建設資金となった。",
+    "zh-CN": "围城战以耶路撒冷的彻底摧毁而告终。圣殿于阿布月十日（约8月30日）被焚毁，这一天成为犹太历中最庄严的日子之一。提图斯的士兵掠夺了圣殿的宝物，包括神圣的灯台和陈设饼桌，这些后来被刻画在罗马的提图斯凯旋门上。根据约瑟夫斯的记载，围城期间约有一百一十万人死亡，但现代历史学家认为这一数字有所夸大——更可能的估计是二十万至六十万人死于战斗、饥荒和疾病。约九万七千名幸存者被卖为奴隶。圣殿的毁灭终结了古代犹太教核心的献祭崇拜，促使信仰向以学习和祈祷为中心的拉比犹太教转变，延续至今。提图斯以凯旋者的身份返回罗马，后来成为皇帝。圣殿的战利品资助了罗马斗兽场的建造。"
+  },
+  "keyFigures": [
+    {
+      "id": "titus",
+      "name": "Titus Flavius Vespasianus",
+      "role": {
+        "en": "Roman Commander and Son of Emperor Vespasian",
+        "ja": "ローマ軍司令官、皇帝ウェスパシアヌスの息子",
+        "zh-CN": "罗马军队指挥官，皇帝维斯帕先之子"
+      },
+      "faction": "Roman Empire",
+      "description": {
+        "en": "At thirty years old, Titus was already a seasoned military commander who had served with distinction in Britain and Germania. He was placed in command of the Judaean campaign when his father Vespasian left to claim the imperial throne. Titus was known for his charisma, military talent, and complex personality—he reportedly wept at the destruction of the Temple, though whether this was genuine grief or political theater is debated.",
+        "ja": "三十歳にしてティトゥスはすでにブリタニアとゲルマニアで活躍した歴戦の軍事指揮官であった。父ウェスパシアヌスが帝位を請求するために去った後、ユダヤ遠征の指揮を任された。カリスマ性、軍事的才能、複雑な人格で知られ、神殿の破壊に涙したと伝えられるが、それが真の悲しみか政治的演技かは議論されている。",
+        "zh-CN": "年仅三十岁的提图斯已经是一位经验丰富的军事指挥官，曾在不列颠和日耳曼尼亚服役并表现卓越。当他的父亲维斯帕先离开去争夺帝位时，他被任命指挥犹太战役。提图斯以其魅力、军事才能和复杂的性格著称——据传他在圣殿被毁时流泪，但这究竟是真诚的悲伤还是政治表演仍有争议。"
+      }
+    },
+    {
+      "id": "simon-bar-giora",
+      "name": "Simon bar Giora",
+      "role": {
+        "en": "Leader of the Judean Resistance and Commander of the City Defenders",
+        "ja": "ユダヤ抵抗運動の指導者、都市防衛の司令官",
+        "zh-CN": "犹太抵抗运动领袖，城市防御指挥官"
+      },
+      "faction": "Jewish Defenders",
+      "description": {
+        "en": "A charismatic and ruthless leader who commanded the largest faction of Jewish defenders, controlling the Upper City and much of the Lower City. Simon attracted followers from across Judaea with promises of liberation and social revolution. He commanded a force of approximately 15,000 fighters and was the de facto military leader of the defense, though his rivalry with John of Gischala fatally divided the defenders' efforts.",
+        "ja": "ユダヤ人防衛者の最大派閥を率いたカリスマ的で容赦ない指導者で、上の町と下の町の大部分を支配していた。シモンは解放と社会革命の約束でユダヤ全土から支持者を集めた。約一万五千人の戦闘員を率い、防衛の事実上の軍事指導者であったが、ギスカラのヨハネスとの対立が防衛者たちの努力を致命的に分裂させた。",
+        "zh-CN": "一位有魅力且无情的领袖，指挥着犹太防守者中最大的派系，控制着上城和大部分下城。西蒙以解放和社会革命的承诺从犹太全境吸引追随者。他指挥着约一万五千名战士，是防御的实际军事领导者，但他与吉斯卡拉的约翰之间的对立致命地分裂了防守者的力量。"
+      }
+    },
+    {
+      "id": "john-of-gischala",
+      "name": "John of Gischala",
+      "role": {
+        "en": "Zealot Leader Controlling the Temple Mount",
+        "ja": "神殿の丘を支配する熱心党指導者",
+        "zh-CN": "控制圣殿山的奋锐党领袖"
+      },
+      "faction": "Jewish Defenders",
+      "description": {
+        "en": "John fled to Jerusalem after the fall of his home city of Gischala in Galilee and seized control of the Temple Mount and its formidable fortifications. A cunning political operator and determined fighter, John's forces numbered around 6,000 and held the most defensible position in the city. His refusal to cooperate with Simon bar Giora meant the Jewish defense was never unified, with the two factions sometimes fighting each other even during Roman assaults.",
+        "ja": "ヨハネスはガリラヤの故郷ギスカラの陥落後エルサレムに逃れ、神殿の丘とその堅固な防御施設の支配権を掌握した。巧みな政治的策略家であり、決意の固い戦闘家で、約六千人の兵力を擁し、都市で最も防御しやすい位置を占めていた。シモン・バル・ギオラとの協力を拒否したため、ユダヤの防衛は一度も統一されず、二つの派閥はローマ軍の攻撃中にさえ時に互いと戦った。",
+        "zh-CN": "约翰在家乡加利利的吉斯卡拉城陷落后逃到耶路撒冷，夺取了圣殿山及其坚固防御工事的控制权。他是一位精明的政治操盘手和坚定的战士，其部队约有六千人，占据着城中最易防守的位置。他拒绝与西蒙·巴尔·吉奥拉合作，意味着犹太人的防御从未统一，两个派系有时甚至在罗马人进攻期间相互交战。"
+      }
+    },
+    {
+      "id": "josephus",
+      "name": "Flavius Josephus",
+      "role": {
+        "en": "Jewish Historian and Roman Intermediary",
+        "ja": "ユダヤ人歴史家、ローマの仲介者",
+        "zh-CN": "犹太历史学家和罗马中间人"
+      },
+      "faction": "Roman Empire (defector)",
+      "description": {
+        "en": "Born Yosef ben Matityahu, Josephus was a former Jewish general who had surrendered to the Romans during the Galilean campaign and won Vespasian's favor by prophesying his rise to emperor. During the siege, Josephus served as Titus's interpreter and negotiator, repeatedly calling on the defenders to surrender. His detailed account of the siege, written in 'The Jewish War,' is the primary historical source for these events, though his perspective as a Roman collaborator colors his narrative.",
+        "ja": "ヨセフ・ベン・マティティヤフとして生まれたヨセフスは、ガリラヤ遠征中にローマに降伏し、ウェスパシアヌスの即位を予言してその好意を得た元ユダヤ人将軍であった。包囲戦中、ヨセフスはティトゥスの通訳兼交渉者として、防衛者たちに繰り返し降伏を呼びかけた。彼が『ユダヤ戦記』に記した包囲戦の詳細な記述はこれらの出来事に関する主要な歴史史料であるが、ローマの協力者としての彼の立場がその叙述に色を添えている。",
+        "zh-CN": "约瑟夫斯原名约瑟夫·本·马提提亚胡，是一位曾在加利利战役中向罗马投降的犹太将军，通过预言维斯帕先将成为皇帝而赢得了他的赏识。围城期间，约瑟夫斯担任提图斯的翻译和谈判者，反复呼吁守军投降。他在《犹太战记》中对围城的详细记述是这些事件的主要历史来源，尽管他作为罗马合作者的视角影响了他的叙述。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "titus-commander",
+      "scenarioId": "fall-of-jerusalem-70",
+      "name": "Titus Flavius Vespasianus",
+      "title": {
+        "en": "Commander of the Roman Forces in Judaea",
+        "ja": "ユダヤにおけるローマ軍司令官",
+        "zh-CN": "罗马驻犹太军队指挥官"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Titus Flavius Vespasianus, eldest son of the newly acclaimed Emperor Vespasian and commander of the Roman expeditionary force in Judaea. It is the spring of 70 AD, and you stand before the walls of Jerusalem with four legions at your command—the V Macedonica, X Fretensis, XII Fulminata, and XV Apollinaris—along with numerous auxiliary cohorts, totaling some 70,000 soldiers. Your father has entrusted you with the most important military operation of the decade: crush the Jewish revolt that has humiliated Rome for four years and demonstrate to the world that the new Flavian dynasty has the strength to rule. Jerusalem is a formidable target—three concentric walls, the fortress of Antonia, and the Temple Mount create layered defenses that could resist siege for months. However, intelligence reports indicate the defenders are divided into hostile factions who spend as much time fighting each other as preparing for your assault. The city is packed with hundreds of thousands of Passover pilgrims who were trapped when you sealed the approaches. You must balance military efficiency with political considerations—your father needs a swift, decisive victory, but excessive destruction could turn a military triumph into a political disaster. The eyes of the entire Roman world are upon you.",
+        "ja": "あなたは新たに即位した皇帝ウェスパシアヌスの長男であり、ユダヤにおけるローマ遠征軍の司令官、ティトゥス・フラウィウス・ウェスパシアヌスである。西暦70年の春、あなたは四個軍団——第5マケドニカ、第10フレテンシス、第12フルミナタ、第15アポリナリス——に加え多数の補助大隊、合計約七万人の兵士を率いてエルサレムの城壁の前に立っている。父はこの十年で最も重要な軍事作戦をあなたに託した：四年間ローマの威信を傷つけてきたユダヤの反乱を鎮圧し、新たなフラウィウス朝が統治する力を持つことを世界に示すことだ。エルサレムは手強い目標である——三重の同心城壁、アントニア要塞、そして神殿の丘が何ヶ月にもわたる包囲に耐えうる重層的な防御を作り出している。しかし、情報によれば防衛者たちはあなたの攻撃への準備と同じくらい互いの戦いに時間を費やす敵対派閥に分裂している。あなたが接近路を封鎖した際に閉じ込められた数十万人の過越祭の巡礼者で都市はあふれている。軍事的効率と政治的配慮のバランスを取らなければならない——父は迅速で決定的な勝利を必要としているが、過度の破壊は軍事的勝利を政治的災難に変えかねない。ローマ世界全体の目があなたに注がれている。",
+        "zh-CN": "你是提图斯·弗拉维乌斯·维斯帕西安努斯，新登基的皇帝维斯帕先的长子，犹太罗马远征军指挥官。公元70年春天，你率领四个军团——第五马其顿军团、第十海峡军团、第十二雷电军团和第十五阿波利纳里斯军团——以及众多辅助大队，共约七万名士兵，站在耶路撒冷城墙前。你的父亲将这十年来最重要的军事行动托付给你：镇压已经令罗马蒙羞四年的犹太叛乱，向世界证明新的弗拉维王朝有实力统治。耶路撒冷是一个令人生畏的目标——三道同心城墙、安东尼亚要塞和圣殿山构成了层层叠叠的防御，可能抵抗围攻数月之久。然而，情报显示守军分裂为敌对派系，他们花在相互争斗上的时间不亚于准备抵御你的进攻。当你封锁了通道时，数十万逾越节朝圣者被困在了城中。你必须在军事效率和政治考量之间取得平衡——你的父亲需要一场迅速而决定性的胜利，但过度的破坏可能将军事胜利变成政治灾难。整个罗马世界的目光都注视着你。"
+      },
+      "objectives": [
+        {
+          "en": "Capture Jerusalem and end the Jewish revolt decisively",
+          "ja": "エルサレムを占領し、ユダヤの反乱を決定的に終結させる",
+          "zh-CN": "攻占耶路撒冷，决定性地终结犹太叛乱"
+        },
+        {
+          "en": "Preserve the Temple if possible—its destruction could create a martyr symbol that fuels future rebellions",
+          "ja": "可能であれば神殿を保全する——その破壊は将来の反乱を煽る殉教のシンボルを生みかねない",
+          "zh-CN": "如果可能的话保存圣殿——它的毁灭可能创造一个激发未来叛乱的殉道象征"
+        },
+        {
+          "en": "Demonstrate the power of the Flavian dynasty to Rome and the provinces",
+          "ja": "フラウィウス朝の力をローマと属州に示す",
+          "zh-CN": "向罗马和各行省展示弗拉维王朝的实力"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "A prolonged siege damages your father's political position—he needs a victory before rival claimants can challenge the Flavian succession",
+          "ja": "長期の包囲は父の政治的立場を損なう——対立する帝位請求者がフラウィウス朝の継承に挑戦する前に勝利が必要だ",
+          "zh-CN": "旷日持久的围城会损害你父亲的政治地位——他需要在竞争对手挑战弗拉维王朝继承权之前取得胜利"
+        },
+        {
+          "en": "Hundreds of thousands of civilians are trapped inside the city—mass civilian casualties will tarnish your reputation",
+          "ja": "数十万人の民間人が都市内に閉じ込められている——大量の民間人の犠牲はあなたの名声を傷つける",
+          "zh-CN": "数十万平民被困在城内——大规模平民伤亡将玷污你的声誉"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Your legions are eager for plunder after years of campaigning—controlling their behavior will be difficult once the walls are breached",
+          "ja": "軍団は数年の遠征の後に略奪を渇望している——城壁が突破された後、彼らの行動を制御するのは困難だろう",
+          "zh-CN": "你的军团在多年征战后渴望掠夺——一旦城墙被突破，控制他们的行为将很困难"
+        },
+        {
+          "en": "Josephus, your Jewish advisor, urges negotiation, but the defenders have rejected every attempt at parley",
+          "ja": "ユダヤ人顧問のヨセフスが交渉を促すが、防衛者たちはあらゆる和平の試みを拒絶している",
+          "zh-CN": "你的犹太顾问约瑟夫斯敦促谈判，但守军已经拒绝了每一次和谈的尝试"
+        },
+        {
+          "en": "Disease is spreading in the cramped siege camps and summer heat is intensifying",
+          "ja": "密集した包囲陣地に疫病が蔓延し、夏の暑さが厳しさを増している",
+          "zh-CN": "疾病在拥挤的围城营地中蔓延，夏季的酷热正在加剧"
+        }
+      ],
+      "startingSceneId": "fall-of-jerusalem-70-scene-001",
+      "initialState": {
+        "romanMorale": 70,
+        "siegeProgress": 20,
+        "civilianCasualties": 15,
+        "templeIntegrity": 100,
+        "politicalStanding": 65
+      }
+    }
+  ],
+  "sceneIds": [
+    "fall-of-jerusalem-70-scene-001",
+    "fall-of-jerusalem-70-scene-002",
+    "fall-of-jerusalem-70-scene-003"
+  ],
+  "tags": ["ancient-rome", "siege-warfare", "judaea", "religious-conflict", "urban-warfare"],
+  "difficulty": "intermediate"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "alexander-gaugamela-331bc-scene-003",
+  "scenarioId": "alexander-gaugamela-331bc",
+  "isTerminal": true,
+  "date": {
+    "en": "October 2–3, 331 BC — The Morning After",
+    "ja": "紀元前331年10月2〜3日 — 翌朝",
+    "zh-CN": "公元前331年10月2-3日——次日清晨"
+  },
+  "location": {
+    "en": "Gaugamela Battlefield, Mesopotamia",
+    "ja": "メソポタミア、ガウガメラ戦場",
+    "zh-CN": "美索不达米亚，高加米拉战场"
+  },
+  "title": {
+    "en": "The Fall of Persia",
+    "ja": "ペルシアの崩壊",
+    "zh-CN": "波斯的陷落"
+  },
+  "narrativePrompt": {
+    "en": "Darius has fled toward Media, abandoning his empire. The Persian army has dissolved. Babylon — the greatest city in the world — lies open before you, undefended. Persepolis and Susa hold the accumulated wealth of two centuries of Persian kings. But Darius lives. Your generals debate: pursue the king and end his claim to power, or seize the capitals before Persian satraps can organize resistance? Parmenion argues for securing what you have won. Hephaestion says speed itself is the weapon now.",
+    "ja": "ダレイオスはメディアに向けて逃走し、帝国を放棄した。ペルシア軍は解散した。世界最大の都市バビロンが、無防備なあなたの前に開かれている。ペルセポリスとスーサには二世紀にわたるペルシア王たちの蓄積された富が眠っている。しかしダレイオスは生きている。将軍たちは議論する：王を追って権力への主張を終わらせるか、ペルシアの太守たちが抵抗を組織する前に首都を占領するか？パルメニオンは勝ち取ったものを固めることを主張する。ヘパイスティオンは、今や速度こそが武器だと言う。",
+    "zh-CN": "大流士已逃往米底，抛弃了他的帝国。波斯军队已溃散。世界上最伟大的城市巴比伦就在你面前，无人防守。波斯波利斯和苏萨藏着两个世纪波斯国王积累的财富。但大流士还活着。你的将领们争论：追击国王终结他的权力主张，还是在波斯总督组织抵抗之前夺取首都？帕曼纽主张巩固已有的胜利。赫费斯提翁说速度本身就是现在的武器。"
+  },
+  "situationReport": [
+    {
+      "en": "Darius has fled northeast with a remnant force toward Arbela and Media. He remains alive and dangerous as a rival claimant.",
+      "ja": "ダレイオスはアルベラとメディアに向けて残存部隊と共に北東に逃走した。彼は対抗する権力主張者として生きており、依然として危険だ。",
+      "zh-CN": "大流士率残余兵力向东北方逃往阿尔贝拉和米底。他仍然活着，作为竞争性权力主张者依然危险。"
+    },
+    {
+      "en": "Babylon has sent delegations offering surrender. The city is the administrative heart of the empire and controls Mesopotamian grain.",
+      "ja": "バビロンは降伏を申し出る使節団を派遣した。この都市は帝国の行政的中心地であり、メソポタミアの穀物を支配している。",
+      "zh-CN": "巴比伦已派遣代表团提出投降。该城是帝国的行政中心，控制着美索不达米亚的粮食。"
+    },
+    {
+      "en": "The Persian royal treasury at Susa holds an estimated 40,000–50,000 talents of silver. Persepolis holds more. Securing this wealth would end your dependency on Macedonian and Greek loans.",
+      "ja": "スーサのペルシア王室金庫には推定4万から5万タラントの銀が保管されている。ペルセポリスにはそれ以上がある。この富を確保することで、マケドニアとギリシアの借款への依存が終わる。",
+      "zh-CN": "苏萨的波斯王室国库藏有估计40,000至50,000塔兰特白银。波斯波利斯则更多。确保这些财富将终结你对马其顿和希腊贷款的依赖。"
+    },
+    {
+      "en": "Your cavalry is exhausted but functional. The infantry is intact. You have perhaps three days before the army genuinely needs rest and resupply.",
+      "ja": "騎兵は疲弊しているが機能している。歩兵は無傷だ。軍が真に休息と補給を必要とするまで、おそらく三日間の余裕がある。",
+      "zh-CN": "你的骑兵已疲惫但仍可作战。步兵完好无损。在军队真正需要休整和补给之前，你大约还有三天时间。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Consolidate the victory and deny Darius the resources to rebuild",
+      "ja": "勝利を固め、ダレイオスが再建する資源を奪う",
+      "zh-CN": "巩固胜利，剥夺大流士重建的资源"
+    },
+    {
+      "en": "Establish yourself as legitimate successor to the Persian throne, not merely a conqueror",
+      "ja": "単なる征服者としてではなく、ペルシア王位の正当な後継者として確立する",
+      "zh-CN": "确立自己为波斯王位的合法继承者，而非仅仅是征服者"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Darius alive means Persian nobles have a legitimate rallying point — his capture or death matters",
+      "ja": "ダレイオスが生きている間は、ペルシアの貴族たちには正当な集結点がある——彼の捕獲か死が重要だ",
+      "zh-CN": "大流士活着意味着波斯贵族有合法的集结中心——他的被俘或死亡至关重要"
+    },
+    {
+      "en": "Your men have marched from Egypt and fought a desperate battle — rest is not optional indefinitely",
+      "ja": "あなたの兵士たちはエジプトから行軍し、必死の戦いを戦った——いつまでも休息を省略することはできない",
+      "zh-CN": "你的士兵从埃及一路行军，打了一场艰苦的战役——无限期省去休息是不可能的"
+    }
+  ],
+  "choices": [
+    {
+      "id": "seize-capitals",
+      "label": {
+        "en": "March on Babylon: seize the capitals and their wealth before resistance forms",
+        "ja": "バビロンへ進軍する：抵抗が形成される前に首都とその富を占領する",
+        "zh-CN": "进军巴比伦：在抵抗形成之前占领首都及其财富"
+      },
+      "description": {
+        "en": "Take Babylon immediately, then press south to Susa and Persepolis. Secure the administrative machinery and treasury of the empire. Let Darius run — without money and cities, he cannot rebuild.",
+        "ja": "すぐにバビロンを攻略し、南のスーサとペルセポリスに向かう。帝国の行政機構と金庫を確保する。ダレイオスは逃がせ——金と都市なしでは再建できない。",
+        "zh-CN": "立即攻取巴比伦，然后南下进攻苏萨和波斯波利斯。确保帝国的行政机器和国库。让大流士逃跑——没有金钱和城市，他无法重建。"
+      },
+      "historicalContext": "This is what Alexander actually did. He entered Babylon in triumph within weeks of Gaugamela, was welcomed as a liberator, and systematically seized Susa and Persepolis — accumulating wealth that funded his campaigns for years. Darius was murdered by his own satrap Bessus in 330 BC, eliminating the threat without a costly pursuit.",
+      "outcomePrompt": {
+        "en": "You enter Babylon in triumph. The Babylonians welcome you as a liberator from Persian rule. Their priests declare you legitimate king. Susa falls without resistance; Persepolis follows. The accumulated wealth of the Persian Empire funds your campaigns for a decade. When Darius flees east, you will deal with him in due course — and his own satrap Bessus will save you the trouble.",
+        "ja": "あなたはバビロンに凱旋する。バビロン人はあなたをペルシア支配からの解放者として歓迎する。彼らの司祭たちはあなたを正当な王と宣言する。スーサは抵抗なく陥落し、ペルセポリスが続く。ペルシア帝国の蓄積された富が十年にわたる遠征の資金を提供する。ダレイオスが東に逃げると、あなたは適切な時期に彼を処理するだろう——そして彼自身の太守ベッソスがその手間を省いてくれる。",
+        "zh-CN": "你凯旋进入巴比伦。巴比伦人以解放者之礼欢迎你脱离波斯统治。他们的祭司宣布你是合法的国王。苏萨不战而降，波斯波利斯随之而来。波斯帝国积累的财富资助了你十年的战役。当大流士向东逃跑时，你将适时处置他——而他自己的总督贝苏斯会替你省去这个麻烦。"
+      },
+      "stateChanges": [
+        { "key": "babylonSecured", "operation": "set", "value": true },
+        { "key": "persianTreasurySeized", "operation": "set", "value": true },
+        { "key": "macedonianMorale", "operation": "add", "value": 15 }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "id": "pursue-darius",
+      "label": {
+        "en": "Pursue Darius immediately: run him down before he can raise a new army",
+        "ja": "直ちにダレイオスを追撃する：新しい軍を召集する前に追い詰める",
+        "zh-CN": "立即追击大流士：在他能召集新军之前将其追上"
+      },
+      "description": {
+        "en": "Darius is the Persian Empire. Kill or capture him and there is no Persian Empire. The capitals can wait — a living king can raise armies from Bactria and beyond.",
+        "ja": "ダレイオスはペルシア帝国だ。彼を殺すか捕獲すれば、ペルシア帝国は存在しない。首都は待てる——生きている王はバクトリアとその先から軍を召集できる。",
+        "zh-CN": "大流士就是波斯帝国。杀死或俘获他，波斯帝国便不复存在。首都可以等待——一个活着的国王可以从巴克特里亚及更远处召集军队。"
+      },
+      "historicalContext": "This is the counterfactual choice. Alexander chose not to immediately pursue Darius, instead taking the capitals. When he did eventually press east, Darius was murdered by Bessus before Alexander could reach him. An immediate pursuit might have caught Darius but would have left the Persian administrative and financial apparatus intact — potentially allowing loyalists in Persepolis and Susa to organize resistance, and denying Alexander the resources that funded his eastern campaigns.",
+      "outcomePrompt": {
+        "en": "You press northeast with the cavalry at full gallop. Your infantry falls behind within days. You reach Arbela only to learn Darius has already moved on toward Media. The chase stretches into weeks. Behind you, Babylonian administrators begin corresponding with Persian loyalists at Susa. The treasure vaults remain locked. When word comes that Darius has been murdered by Bessus, you have gained nothing that time would not have given you — and lost the administrative machinery of an empire.",
+        "ja": "あなたは騎兵と共に全力で北東に向かう。歩兵は数日で遅れをとる。アルベラに到着するが、ダレイオスはすでにメディアに向けて移動したと知る。追跡は数週間に及ぶ。背後では、バビロニアの行政官たちがスーサのペルシア忠臣派と連絡を取り始める。宝庫は施錠されたままだ。ダレイオスがベッソスに殺されたという知らせが届くと、時間が与えてくれたであろうものを何も得ておらず——そして帝国の行政機構を失っていた。",
+        "zh-CN": "你率骑兵全速向东北进发。步兵在几天内就落在了后面。你到达阿尔贝拉，却得知大流士已向米底转移。追击延续了数周。在你身后，巴比伦行政官员开始与苏萨的波斯保皇派通信。宝库仍然锁闭。当大流士被贝苏斯杀害的消息传来，你没有得到任何时间不能给你的东西——却失去了帝国的行政机器。"
+      },
+      "stateChanges": [
+        { "key": "dariusPursued", "operation": "set", "value": true },
+        { "key": "macedonianMorale", "operation": "add", "value": 5 },
+        { "key": "persianTreasurySeized", "operation": "set", "value": false }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

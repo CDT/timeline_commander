@@ -1,0 +1,114 @@
+{
+  "id": "peloponnesian-war-404bc-scene-002",
+  "scenarioId": "peloponnesian-war-404bc",
+  "title": {
+    "en": "The Catastrophe at Aegospotami",
+    "ja": "アイゴスポタモイの惨劇",
+    "zh-CN": "羊河口的惨败"
+  },
+  "date": {
+    "en": "September 405 BC",
+    "ja": "紀元前405年9月",
+    "zh-CN": "公元前405年9月"
+  },
+  "location": {
+    "en": "Aegospotami, the Hellespont",
+    "ja": "ヘレスポント、アイゴスポタモイ",
+    "zh-CN": "赫勒斯滂，羊河口"
+  },
+  "narrativePrompt": {
+    "en": "The fourth day since the standoff began. The Athenian crews have rowed out again in their daily challenge and again Lysander has refused to emerge. Now, as the evening light fades, the crews are beaching their ships and scattering inland to forage as they have done every previous evening. Conon watches from his trireme with mounting dread. His scouts report something wrong: a single Spartan vessel has left Lampsacus harbor and is rowing parallel to the Athenian fleet, watching. It is an observer — Lysander's eyes. And as Conon watches the crews disperse, taking their weapons and most of their equipment with them, he realizes with sick certainty what he is witnessing: Lysander has spent four days watching this exact moment, cataloguing the routine, waiting until he understood precisely when the fleet was at its most vulnerable. The signal will come when the observer returns to Lampsacus. Conon has perhaps an hour — perhaps less — before the Spartan fleet erupts from that harbor at full fighting speed. There are not enough men aboard the ships to man all 180 triremes. The crews are scattered across miles of scrubland. He cannot recall them all in time. But he can save some ships. He can warn some crews. He has one desperate choice: which ships to prioritize for the desperate escape that is now the only option.",
+    "ja": "対峙が始まって4日目。アテネの乗組員たちが毎日の挑戦のために再び漕ぎ出し、再びリュサンドロスは出撃を拒否した。今、夕暮れの光が薄れるにつれ、乗組員たちは前日の夕方と同じように船を浜辺に引き上げ、食料を探しに内陸に散っていく。コノンは戦慄を高めながら三段櫂船から見守っている。斥候が何かおかしいと報告する：スパルタ船一隻がランプサコス港を出てアテネ艦隊に平行して漕いでいる、監視している。これは観察者だ——リュサンドロスの目。そしてコノンが乗組員の散開を見守り、武器と装備の大部分を持って行くのを見るうちに、彼は吐き気を催す確信とともに自分が目撃していることを悟る：リュサンドロスは4日間この正確な瞬間を観察し、日課を記録し、艦隊がいつ最も脆弱かを正確に理解するまで待っていたのだと。観察者がランプサコスに戻れば合図が出る。コノンには1時間——おそらくそれ以下——しかない、スパルタ艦隊が全速戦闘態勢でその港から飛び出す前に。すべての180隻の三段櫂船に乗組員を配置するには aboard にいる人数が足りない。乗組員たちは何マイルもの灌木地に散らばっている。全員を間に合うように呼び戻すことはできない。しかし何隻かは救える。何人かの乗組員に警告できる。彼には一つの絶望的な選択がある。今や唯一の選択肢となった必死の逃走のためにどの船を優先するか。",
+    "zh-CN": "对峙以来的第四天。雅典船员们再次划船出去进行每日的挑战，吕山德再次拒绝出港。现在，随着傍晚的光线渐渐暗淡，船员们将战船拖上海岸，像前几个傍晚一样四散内陆觅食。科农从他的三列桨战船上怀着越来越深的恐惧注视着这一切。侦察兵报告有些不对劲：一艘斯巴达船驶出兰普萨库斯港，与雅典舰队平行地划行，监视着。这是一名观察者——吕山德的眼睛。当科农看着船员们四散，携带着武器和大部分装备离去时，他带着令人作呕的确信意识到自己正在目睹什么：吕山德用四天时间观察这个精确的时刻，记录日常规律，等到他精确地了解了舰队何时最为脆弱。当观察者返回兰普萨库斯时信号就会发出。科农大约有一个小时——也许更少——在斯巴达舰队以全速战斗状态从那个港口冲出之前。停靠在船上的人手不足以驾驶全部180艘三列桨战船。船员们分散在数英里的灌木丛中。他无法及时将他们全部召回。但他可以救一些船。他可以警告一些船员。他只有一个绝望的选择：在现在成为唯一选项的拼死逃亡中优先救哪些战船。"
+  },
+  "situationReport": [
+    {
+      "en": "Lysander has sent an observation ship to watch the Athenian fleet disperse for the evening — the attack is imminent",
+      "ja": "リュサンドロスがアテネ艦隊の夕方の解散を観察するために観察船を送った——攻撃は切迫している",
+      "zh-CN": "吕山德已派观察船监视雅典舰队傍晚散开的情况——攻击迫在眉睫"
+    },
+    {
+      "en": "The vast majority of Athenian crews are scattered inland foraging — fewer than a third remain aboard the beached ships",
+      "ja": "アテネ乗組員の大多数が内陸で食料調達に散らばっている——引き上げた船に残っているのは3分の1以下",
+      "zh-CN": "绝大多数雅典船员已散布内陆觅食——拖上岸的战船上留守的不足三分之一"
+    },
+    {
+      "en": "Conon commands the ships nearest to the water — he can escape with perhaps eight to twelve triremes if he acts immediately",
+      "ja": "コノンは水際に最も近い船を指揮している——今すぐ行動すれば8から12隻の三段櫂船で脱出できるかもしれない",
+      "zh-CN": "科农指挥距水边最近的战船——如果他立即行动，可能能带领八到十二艘三列桨战船逃脱"
+    },
+    {
+      "en": "There is no time to sound a general recall — any warning given will only reach a fraction of the fleet",
+      "ja": "全体召集の合図を出す時間はない——どんな警告も艦隊のほんの一部にしか届かないだろう",
+      "zh-CN": "已没有时间发出全体召回信号——任何警告都只能传达给一小部分舰队"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Save as much of the fleet as possible from Lysander's imminent surprise attack",
+      "ja": "リュサンドロスの差し迫った奇襲からできるだけ多くの艦隊を救う",
+      "zh-CN": "从吕山德即将到来的突袭中尽可能多地拯救舰队"
+    },
+    {
+      "en": "Preserve enough ships to warn Athens of the coming catastrophe",
+      "ja": "来たる惨劇をアテネに警告するのに十分な数の船を保存する",
+      "zh-CN": "保留足够的战船向雅典警告即将到来的灾难"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Any attempt to recall the full fleet will alert Lysander and trigger the attack before even partial preparations can be made",
+      "ja": "艦隊全体を呼び戻そうとすればリュサンドロスに警告が伝わり、部分的な準備さえできる前に攻撃が始まる",
+      "zh-CN": "任何召回全部舰队的尝试都会警告吕山德，在部分准备都来不及做的情况下触发攻击"
+    },
+    {
+      "en": "Abandoning the fleet without fighting will be seen as cowardice by Athens — political consequences will follow",
+      "ja": "戦わずして艦隊を見捨てることはアテネに臆病として見られる——政治的な結果が伴う",
+      "zh-CN": "不战而弃舰队将被雅典视为怯懦——政治后果随之而来"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Save what you can. Take your eight readiest ships and row for open water immediately. From safety, you can warn Athens. Staying means capture and the fleet is lost anyway.",
+        "ja": "救えるものを救う。最も準備の整った8隻を取り、直ちに外洋に漕ぎ出す。安全な場所からアテネに警告できる。残れば捕らえられ、艦隊はどうせ失われる。",
+        "zh-CN": "救能救的。带上你最准备充分的八艘战船，立即划向外海。从安全地带，你可以警告雅典。留下意味着被俘，而舰队无论如何都会失去。"
+      },
+      "historicalContext": "The historical outcome — Conon escaped with eight or nine ships as Lysander's fleet swept in. He sailed to Cyprus, then to the Persian satrap Pharnabazus, and eventually helped rebuild Athenian naval power. He never returned to Athens to face trial.",
+      "outcomePrompt": {
+        "en": "Conon makes his decision in seconds. He shouts the order and his oarsmen — the few who remained — throw themselves onto the benches and pull with desperate strength. Eight Athenian triremes push into the water as the first Spartan warships appear around the headland from Lampsacus, their bronze rams gleaming in the last light. The disaster is total. Lysander's fleet sweeps the beach like a scythe. Men wading into the surf to reach their ships are cut down by arrows. The beached triremes, unmanned or half-manned, are rammed, boarded, and taken one after another. The other Athenian generals — Philocles, Adeimantus, Tydeus — are captured on the beach with their men. In the chaos, Conon's eight ships reach open water and turn south. Three thousand Athenian sailors who cannot escape surrender and are taken prisoner. Lysander executes all three thousand by nightfall, except for Adeimantus, whom he spares because Adeimantus had opposed the Athenian decree to cut off the right hands of Spartan prisoners. One hundred and seventy-one Athenian triremes are taken. The war is over. Athens will fall within the year. Conon reaches Cyprus and sends a warning home. The message arrives to a city already beginning to starve.",
+        "ja": "コノンは瞬時に決断する。命令を叫ぶと、漕ぎ手たち——残っていた少数——はベンチに飛びつき、必死の力で漕ぐ。8隻のアテネ三段櫂船が入水すると、最初のスパルタ軍艦がランプサコスから岬を回って現れ、青銅の衝角が最後の光に輝く。惨劇は完全だ。リュサンドロスの艦隊が大鎌のように浜辺を薙ぐ。船に乗ろうと波打ち際に入った男たちが矢で倒される。無人あるいは半数しか乗員がいない引き上げられた三段櫂船が、次々と衝角で攻撃され、乗り込まれ、拿捕される。他のアテネの将軍たち——フィロクレス、アデイマントス、テュデウス——が兵士たちと共に浜辺で捕らえられる。混乱の中、コノンの8隻は外洋に到達し南に向かう。逃げられない3,000人のアテネ水兵が降伏して捕虜となる。リュサンドロスは日没までに全3,000人を処刑する。ただし、アデイマントスは、アデイマントスがスパルタ捕虜の右手を切り落とすというアテネの命令に反対したという理由で助命される。171隻のアテネ三段櫂船が拿捕される。戦争は終わった。アテネは一年以内に陥落する。コノンはキプロスに到達し、故国に警告を送る。メッセージはすでに飢え始めている都市に届く。",
+        "zh-CN": "科农在几秒内做出了决定。他大声发出命令，桨手们——留下的少数人——扑向坐椅，以拼命的力量划桨。八艘雅典三列桨战船驶入水中，第一批斯巴达战舰从兰普萨库斯绕过海角出现，青铜撞角在最后的光线中闪耀。灾难是彻底的。吕山德的舰队如镰刀般横扫沙滩。涉水冲向船只的男人们被箭矢射倒。无人驾驶或人手不足的搁浅三列桨战船被一艘接一艘地撞击、登船和俘获。其他雅典将领——菲洛克勒斯、阿狄曼托斯、提丢斯——与他们的士兵一起在沙滩上被俘。混乱中，科农的八艘船到达公海，向南转舵。三千名无法逃脱的雅典水兵投降被俘。吕山德在日落前将全部三千人处决，只有阿狄曼托斯得到赦免，因为阿狄曼托斯曾反对雅典砍断斯巴达俘虏右手的法令。一百七十一艘雅典三列桨战船被俘获。战争结束了。雅典将在一年内陷落。科农抵达塞浦路斯，向家乡发出警告。信息传到一座已经开始饥饿的城市。"
+      },
+      "nextSceneId": "peloponnesian-war-404bc-scene-003",
+      "stateChanges": [
+        { "variable": "fleetStrength", "operation": "set", "value": 8 },
+        { "variable": "athenianMorale", "operation": "add", "value": -40 },
+        { "variable": "politicalStability", "operation": "add", "value": -30 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Sound the recall and fight. Sound every horn and drum aboard the fleet. Some crews will make it back. We can man thirty, forty ships. Go down fighting, not running.",
+        "ja": "召集の合図を出して戦う。艦隊中のすべての角笛と太鼓を鳴らす。一部の乗組員は戻ってくる。30隻、40隻を配備できる。逃げるのではなく戦いながら倒れる。",
+        "zh-CN": "发出召回信号并战斗。敲响舰队上所有的号角和鼓声。一些船员会赶回来。我们能驾驶三十、四十艘战船。战斗中倒下，而非逃跑中倒下。"
+      },
+      "historicalContext": "A counterfactual — sounding the recall at the last moment was not attempted. It would have warned Lysander but also given the Athenians a brief moment of preparation.",
+      "outcomePrompt": {
+        "en": "Conon orders every horn aboard his ships sounded simultaneously. The blaring fills the evening air and echoes off the Thracian hills. Across the scrubland, men running to forage stop, turn, and begin sprinting back toward the beach. But even as the recall sounds, the Spartan fleet erupts from Lampsacus harbor — Lysander has been watching and the signal triggered an immediate response. The racing Spartan triremes close the distance in terrifying speed. Perhaps forty Athenian crews reach their ships and push into the water. They form no battle line, no organized defense — they are individual ships trying desperately to avoid the oncoming Spartan rams. The fight, such as it is, lasts perhaps twenty minutes. Athenian ships are rammed and overturned one by one. The remaining crews on shore watch in horror and then begin to run. Conon fights his way through with ten ships, ramming one Spartan vessel and using the confusion to break clear. One hundred and sixty-one Athenian triremes are taken. Three thousand sailors are captured and executed the following morning. But four hundred more Athenians die in the fighting — men who might have survived had Conon simply fled. The outcome is the same: Athens has no fleet. The city will fall within the year.",
+        "ja": "コノンは船上のすべての角笛を同時に吹くよう命じる。轟音が夕暮れの空気を満たし、トラキアの丘に反響する。灌木地全体で、食料調達に走っていた男たちが立ち止まり、振り返り、浜辺に向かって全力疾走を始める。しかし召集の合図が鳴り響く中、スパルタ艦隊がランプサコス港から飛び出す——リュサンドロスは見張っており、合図が即座の応答を引き起こした。疾走するスパルタ三段櫂船が恐ろしい速度で距離を詰める。おそらく40人のアテネ乗組員が船に到達し入水する。彼らは戦列も組織的な防衛もなく——迫りくるスパルタの衝角を何とかして避けようとする個々の船だ。戦いは、あったとしても、せいぜい20分しか続かない。アテネの船は次々と衝角で攻撃され転覆する。海岸の残りの乗組員は恐怖で見守り、それから逃げ始める。コノンはスパルタ船一隻を衝角で攻撃し混乱を利用して突破し、10隻の船で戦い抜く。161隻のアテネ三段櫂船が拿捕される。3,000人の水兵が捕らえられ翌朝処刑される。しかしさらに400人のアテネ人が戦闘で死ぬ——コノンが単に逃げていれば生き延びたかもしれない人々だ。結果は同じだ：アテネは艦隊を持たない。都市は一年以内に陥落する。",
+        "zh-CN": "科农命令他的战船上所有号角同时鸣响。嘈杂声充满傍晚的空气，在色雷斯的山丘间回荡。在灌木丛中，正在觅食的人们停下来，转身，开始全速向海岸奔跑。但就在召回信号响起的同时，斯巴达舰队从兰普萨库斯港冲出——吕山德一直在监视，信号触发了即时响应。急速驶来的斯巴达三列桨战船以令人恐惧的速度缩短距离。大约四十支雅典船员赶回他们的战船并驶入水中。他们没有战线，没有有组织的防御——只是各自拼命避开迎面而来的斯巴达撞角的单艘战船。战斗，如果可以这么称呼的话，大约持续了二十分钟。雅典战船被一艘一艘地撞击倾覆。岸上剩余的船员恐惧地注视着，然后开始逃跑。科农用十艘船撞击了一艘斯巴达船，利用混乱突围而出。一百六十一艘雅典三列桨战船被俘获。三千名水兵被俘，翌日清晨被处决。但又有四百名雅典人在战斗中阵亡——如果科农直接逃跑，这些人可能会幸存。结果是一样的：雅典没有舰队了。这座城市将在一年内陷落。"
+      },
+      "nextSceneId": "peloponnesian-war-404bc-scene-003",
+      "stateChanges": [
+        { "variable": "fleetStrength", "operation": "set", "value": 10 },
+        { "variable": "athenianMorale", "operation": "add", "value": -35 },
+        { "variable": "politicalStability", "operation": "add", "value": -25 },
+        { "variable": "grainSupply", "operation": "add", "value": -20 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

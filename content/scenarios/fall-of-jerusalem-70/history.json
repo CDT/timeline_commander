@@ -1,0 +1,89 @@
+{
+  "scenarioId": "fall-of-jerusalem-70",
+  "timeline": [
+    {
+      "date": "0070-04-14",
+      "description": {
+        "en": "Titus arrives before Jerusalem with four legions during the Passover festival. Hundreds of thousands of pilgrims are trapped inside the city as the Romans seal all exits.",
+        "ja": "ティトゥスが過越祭の期間中に四個軍団を率いてエルサレムに到着する。ローマ軍が全ての出口を封鎖し、数十万人の巡礼者が都市内に閉じ込められる。",
+        "zh-CN": "提图斯在逾越节期间率四个军团抵达耶路撒冷城前。罗马人封锁所有出口，数十万朝圣者被困城内。"
+      }
+    },
+    {
+      "date": "0070-05-10",
+      "description": {
+        "en": "Roman siege works begin. Titus establishes camps on the Mount of Olives and Mount Scopus. The first assaults target the Third Wall, the outermost fortification.",
+        "ja": "ローマ軍の攻囲工事が始まる。ティトゥスがオリーブ山とスコプス山に陣営を設置。最初の攻撃は最も外側の防御施設である第三城壁を標的とする。",
+        "zh-CN": "罗马围城工程开始。提图斯在橄榄山和斯科普斯山建立营地。首轮攻击以最外层的第三城墙为目标。"
+      }
+    },
+    {
+      "date": "0070-05-25",
+      "description": {
+        "en": "The Third Wall is breached after fifteen days of battering. Roman forces pour into the New City (Bezetha), securing the northern suburbs.",
+        "ja": "十五日間の攻城の後、第三城壁が突破される。ローマ軍が新市街（ベゼタ）に殺到し、北部の郊外を確保する。",
+        "zh-CN": "经过十五天的攻击，第三城墙被攻破。罗马军队涌入新城（贝泽塔），控制了北部郊区。"
+      }
+    },
+    {
+      "date": "0070-06-05",
+      "description": {
+        "en": "The Second Wall falls after intense fighting. The defenders retreat to the First Wall, the Temple Mount, and the Upper City. Titus offers terms of surrender, which are rejected.",
+        "ja": "激しい戦闘の後、第二城壁が陥落する。防衛者たちは第一城壁、神殿の丘、上の町に退却する。ティトゥスが降伏条件を提示するが拒否される。",
+        "zh-CN": "经过激烈战斗，第二城墙陷落。守军撤退至第一城墙、圣殿山和上城。提图斯提出投降条件，被拒绝。"
+      }
+    },
+    {
+      "date": "0070-07-01",
+      "description": {
+        "en": "Titus orders the construction of a circumvallation wall—a five-mile siege wall completely encircling Jerusalem—to starve the city into submission. It is completed in just three days.",
+        "ja": "ティトゥスがエルサレムを完全に包囲する五マイルの包囲壁の建設を命じ、都市を飢えさせて降伏に追い込む。わずか三日で完成する。",
+        "zh-CN": "提图斯下令修建一道五英里长的环城围墙，完全包围耶路撒冷，以饥饿迫使城市屈服。仅三天即建成。"
+      }
+    },
+    {
+      "date": "0070-07-20",
+      "description": {
+        "en": "Famine devastates the trapped population. Josephus records horrific scenes including cannibalism. Thousands attempt to flee but are crucified by the Romans outside the walls as a warning.",
+        "ja": "閉じ込められた住民を飢饉が襲う。ヨセフスは人肉食を含む凄惨な光景を記録している。数千人が脱出を試みるが、見せしめとしてローマ軍に城壁の外で十字架刑に処される。",
+        "zh-CN": "饥荒摧残着被困的人口。约瑟夫斯记录了包括人相食在内的恐怖场景。数千人试图逃跑但被罗马人钉死在城墙外作为警告。"
+      }
+    },
+    {
+      "date": "0070-08-06",
+      "description": {
+        "en": "The Fortress of Antonia is captured after fierce fighting, giving the Romans a platform overlooking the Temple Mount. Preparations begin for the final assault on the Temple.",
+        "ja": "激しい戦闘の末にアントニア要塞が占領され、ローマ軍に神殿の丘を見下ろす足場を与える。神殿への最終攻撃の準備が始まる。",
+        "zh-CN": "经过激烈战斗，安东尼亚要塞被攻占，为罗马军队提供了俯瞰圣殿山的平台。对圣殿的最后攻击准备开始。"
+      }
+    },
+    {
+      "date": "0070-08-30",
+      "description": {
+        "en": "The Temple of Jerusalem is stormed and burned. Whether Titus ordered the destruction or a soldier acted independently is debated by ancient and modern historians alike. The sacred treasures are looted.",
+        "ja": "エルサレム神殿が強襲され焼失する。ティトゥスが破壊を命じたのか、兵士が独断で行動したのかは古代・現代の歴史家の間で議論されている。聖なる宝物が略奪される。",
+        "zh-CN": "耶路撒冷圣殿被攻陷并焚毁。提图斯是否下令毁灭圣殿，还是士兵擅自行动，古今历史学家对此众说纷纭。神圣宝物被掠夺一空。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Jerusalem was completely destroyed. The Temple, the spiritual center of Judaism for nearly a thousand years, was razed to the ground with only the Western Wall foundation remaining. The city was systematically looted and burned, and the population was killed, enslaved, or scattered. Titus celebrated a triumph in Rome, and the spoils funded the construction of the Flavian Amphitheatre (Colosseum). The destruction marked the beginning of nearly two thousand years of Jewish exile from their homeland.",
+    "ja": "エルサレムは完全に破壊された。約千年にわたりユダヤ教の精神的中心であった神殿は、西壁の基礎を残すのみで徹底的に破壊された。都市は組織的に略奪・放火され、住民は殺害、奴隷化、あるいは離散した。ティトゥスはローマで凱旋式を挙行し、戦利品はフラウィウス円形闘技場（コロッセオ）の建設資金となった。この破壊は約二千年に及ぶユダヤ人の故郷からの離散の始まりとなった。",
+    "zh-CN": "耶路撒冷被彻底摧毁。作为犹太教精神中心近千年的圣殿被夷为平地，仅留下西墙地基。城市被系统性地掠夺和焚烧，居民被杀害、奴役或驱散。提图斯在罗马举行了凯旋式，战利品资助了弗拉维圆形竞技场（斗兽场）的建造。这次毁灭标志着犹太人近两千年流散的开始。"
+  },
+  "casualties": {
+    "en": "Ancient historian Josephus claims 1.1 million dead and 97,000 enslaved, though modern estimates suggest 200,000-600,000 deaths from all causes including famine and disease. Roman casualties were relatively light in comparison, estimated at several thousand killed during the five-month siege, with most losses occurring during the assaults on the fortifications.",
+    "ja": "古代の歴史家ヨセフスは百十万人の死者と九万七千人の奴隷化を主張するが、飢饉や疫病を含む全原因での死者は二十万〜六十万人と現代では推定されている。ローマ側の損害は比較的軽微で、五ヶ月の包囲戦中に数千人が戦死し、大半の損失は防御施設への強襲時に発生した。",
+    "zh-CN": "古代历史学家约瑟夫斯声称有一百一十万人死亡和九万七千人被奴役，但现代估计认为包括饥荒和疾病在内的各种原因造成的死亡人数为二十万至六十万。罗马方面的伤亡相对较轻，估计在五个月的围城中有数千人阵亡，大部分损失发生在对防御工事的强攻期间。"
+  },
+  "significance": {
+    "en": "The destruction of the Second Temple is one of the most consequential events in world history. It fundamentally transformed Judaism from a Temple-based sacrificial religion into a faith centered on study, prayer, and communal worship, laying the foundations for rabbinic Judaism as practiced today. The event created the Jewish diaspora that spread Jewish communities across the Roman world and beyond. It also had profound implications for the development of Christianity, as the early Church interpreted the Temple's destruction as divine vindication of their faith. The Arch of Titus in Rome, depicting the looting of the Temple treasures, remains one of the most iconic monuments of the ancient world.",
+    "ja": "第二神殿の破壊は世界史上最も重大な結果をもたらした出来事の一つである。ユダヤ教を神殿を基盤とした犠牲儀礼の宗教から、学び、祈り、共同体の礼拝を中心とした信仰へと根本的に変革し、今日実践されているラビ的ユダヤ教の基礎を築いた。この出来事はユダヤ人のディアスポラを生み出し、ローマ世界とその先にユダヤ人共同体を広めた。また、初代教会が神殿の破壊を自らの信仰の神聖な正当化と解釈したため、キリスト教の発展にも深い影響を与えた。神殿の宝物の略奪を描いたローマのティトゥスの凱旋門は、古代世界で最も象徴的な記念碑の一つであり続けている。",
+    "zh-CN": "第二圣殿的毁灭是世界历史上最具深远影响的事件之一。它从根本上将犹太教从以圣殿为基础的献祭宗教转变为以学习、祈祷和社区崇拜为中心的信仰，奠定了今天所实践的拉比犹太教的基础。这一事件产生了犹太人的流散，将犹太社区散布到整个罗马世界及更远的地方。它对基督教的发展也有深远的影响，因为早期教会将圣殿的毁灭解释为对其信仰的神圣证明。罗马的提图斯凯旋门描绘了圣殿宝物被掠夺的场景，至今仍是古代世界最具标志性的纪念碑之一。"
+  },
+  "furtherReading": [
+    "The Jewish War by Flavius Josephus",
+    "The Destruction of Jerusalem by Simon Goldhill",
+    "Rome and Jerusalem: The Clash of Ancient Civilizations by Martin Goodman"
+  ]
+}

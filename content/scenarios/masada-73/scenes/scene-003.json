@@ -1,0 +1,123 @@
+{
+  "id": "masada-73-scene-003",
+  "scenarioId": "masada-73",
+  "date": {
+    "en": "April 73 AD",
+    "ja": "西暦73年4月",
+    "zh-CN": "公元73年4月"
+  },
+  "location": {
+    "en": "Masada Fortress, Judea",
+    "ja": "ユダヤ、マサダ要塞",
+    "zh-CN": "犹地亚，马萨达要塞"
+  },
+  "isTerminal": true,
+  "title": {
+    "en": "The Silence of Masada",
+    "ja": "マサダの沈黙",
+    "zh-CN": "马萨达的沉默"
+  },
+  "narrativePrompt": {
+    "en": "Dawn breaks over the Judean desert. The Roman Tenth Legion, after months of brutal siege work, stands ready at the breach in Masada's western wall. Flavius Silva gives the order to advance. The legionaries pour through the gap, shields locked, expecting fierce resistance from the 960 defenders. Instead, they find silence.\n\nThe Romans move through the fortress complex cautiously, then with growing unease. Store rooms packed with provisions stand intact — enough food and water to last months. The silence is absolute. No battle cries, no clash of weapons, no screaming of the wounded. Only the wind across the plateau.\n\nThen they find them. In the palace complex, in the synagogue, in the cistern chambers — hundreds of bodies, families lying together, the dead arranged with terrible dignity. The women and children first, then the men. Only two women and five children emerge alive from a hiding place, witnesses to what transpired through the night.\n\nYou are Flavius Silva, commander of the siege. You have your victory — Masada is taken, the last stronghold of Jewish resistance in Judea crushed. But what you have found is not a military triumph. It is something Rome has never encountered before: a people who chose to die as free persons rather than live as slaves. How you document this, how you present it to Rome, how you treat the survivors and the dead — these decisions will define how history remembers this day.",
+    "ja": "夜明けがユダヤの砂漠を照らす。数ヶ月にわたる苛酷な包囲工事の末、ローマ第十軍団はマサダの西壁の突破口に展開していた。フラウィウス・シルウァは前進の命令を下す。軍団兵たちは盾を組んで隙間に押し込み、960人の守備兵からの激しい抵抗を予期していた。代わりに、彼らが見つけたのは沈黙だった。\n\nローマ兵たちは要塞の施設を慎重に、そして高まる不安とともに進んだ。食料や水が何ヶ月分も詰まった貯蔵室が手つかずのまま残されている。沈黙は完全だった。戦いの叫び声もなく、武器の衝突もなく、傷ついた者の悲鳴もない。台地を渡る風の音だけが響いていた。\n\nそして、彼らは発見した。宮殿複合施設に、シナゴーグに、貯水槽の部屋に――何百もの遺体が、家族が寄り添って横たわり、死者は恐ろしいほどの尊厳をもって並べられていた。女性と子供が先で、次に男性たちが続いた。隠れ場所から二人の女性と五人の子供だけが生きて現れ、夜通し何が起きたかを証言した。\n\nあなたは包囲軍の司令官フラウィウス・シルウァである。勝利を手にした――マサダは陥落し、ユダヤにおけるユダヤ人抵抗の最後の拠点が潰された。しかし、見つけたものは軍事的勝利ではなかった。それはローマがかつて遭遇したことのないものだ。奴隷として生きるより自由人として死ぬことを選んだ人々。この記録をどうつけるか、ローマにどう伝えるか、生存者と死者をどう扱うか――これらの決断が、この日を歴史がどう記憶するかを決める。",
+    "zh-CN": "黎明降临犹地亚沙漠。经过数月残酷的围城工程，罗马第十军团在马萨达西墙的缺口处严阵以待。弗拉维乌斯·席尔瓦下令推进。军团士兵们以盾牌相连的方阵涌过缺口，预料着960名守军的激烈抵抗。然而，他们发现的是沉默。\n\n罗马人谨慎地穿越要塞建筑群，随后感到越来越不安。堆满补给的储藏室完好无损——足够维持数月的食物和水。寂静是绝对的。没有战斗呐喊，没有兵器碰撞，没有伤者的哀嚎。只有高原上的风声。\n\n然后他们发现了他们。在宫殿建筑群中，在会堂里，在蓄水池房间——数百具遗体，家庭成员相依而卧，死者以令人惊骇的尊严排列。先是妇女和儿童，然后是男人。只有两名妇女和五名儿童从藏身处活着出来，见证了整夜发生的事情。\n\n你是围城指挥官弗拉维乌斯·席尔瓦。你获得了胜利——马萨达被攻克，犹地亚最后的犹太抵抗据点被摧毁。但你所发现的不是军事胜利。这是罗马从未遭遇过的事情：一个宁愿以自由人的身份死去也不愿以奴隶身份活着的民族。你如何记录这一切，如何向罗马呈报，如何对待幸存者和死者——这些决定将决定历史如何铭记这一天。"
+  },
+  "situationReport": [
+    {
+      "en": "Masada has fallen without a battle. The Romans have entered to find 960 dead, arranged with dignity by their own hands. Only seven survivors — two women, five children — have emerged from hiding.",
+      "ja": "マサダは戦闘なしに陥落した。ローマ軍は960人の死者を発見した。彼らは自らの手で尊厳をもって並べられていた。生存者はわずか七人――二人の女性と五人の子供――が隠れ場所から現れただけだった。",
+      "zh-CN": "马萨达在没有战斗的情况下陷落。罗马人进入后发现了960名死者，以尊严之姿由他们自己的手排列。只有七名幸存者——两名妇女、五名儿童——从藏身处出来。"
+    },
+    {
+      "en": "The fortress's storerooms remain fully stocked with provisions — food, water, weapons — proving the defenders could have held out much longer. This undermines any Roman claim that hunger or desperation forced their hand.",
+      "ja": "要塞の貯蔵室には食料、水、武器など物資が満載のままだった。守備兵たちはもっと長く持ちこたえられたことを証明している。これは飢えや絶望が彼らを行動に駆り立てたというローマのいかなる主張も覆す。",
+      "zh-CN": "要塞储藏室仍然满载物资——食物、水、武器——证明守军本可坚守更长时间。这驳斥了任何关于饥饿或绝望迫使他们动手的罗马说法。"
+    },
+    {
+      "en": "The surviving women have given detailed accounts to Roman interpreters of Eleazar ben Ya'ir's speech and the events of the night. Their testimony, if suppressed, removes the story; if published, it becomes the historical record.",
+      "ja": "生存した女性たちはローマの通訳者に、エレアザル・ベン・ヤイルの演説と夜の出来事について詳細な証言をした。彼女たちの証言を抹消すれば物語は消える。公表すれば、それが歴史的記録となる。",
+      "zh-CN": "幸存的妇女已向罗马翻译者详细描述了以利亚撒·本·亚伊尔的演讲和那夜发生的事件。如果压制她们的证词，故事就消失了；如果公开，它就成为历史记录。"
+    },
+    {
+      "en": "Rome expects a triumph. The Jewish War has been long, costly, and embarrassing. Titus sacked Jerusalem in 70 CE; Silva is expected to deliver the final clean victory. What he reports now sets the official narrative for the empire.",
+      "ja": "ローマは凱旋を期待している。ユダヤ戦争は長く、費用がかかり、恥ずべきものだった。ティトゥスは紀元70年にエルサレムを略奪した。シルウァは最終的な完全勝利をもたらすことを期待されている。今彼が報告することが帝国の公式見解を定める。",
+      "zh-CN": "罗马期待着凯旋。犹太战争漫长、代价高昂且令人尴尬。提图斯于公元70年劫掠了耶路撒冷；席尔瓦被期待带来最终的完整胜利。他现在的报告将确立帝国的官方叙事。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Report the fall of Masada to Rome in a way that serves Roman imperial interests and your own career.",
+      "ja": "マサダの陥落をローマの帝国的利益とあなた自身のキャリアに資する形でローマに報告する。",
+      "zh-CN": "以服务于罗马帝国利益和你个人仕途的方式向罗马报告马萨达的陥落。"
+    },
+    {
+      "en": "Determine how to handle the survivors and the dead, setting the tone for Roman treatment of the final Jewish resistance.",
+      "ja": "生存者と死者の扱いを決め、ユダヤ最後の抵抗に対するローマの対処の基調を定める。",
+      "zh-CN": "决定如何对待幸存者和死者，为罗马处置最后犹太抵抗确立基调。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The seven survivors are witnesses. Whatever happened here is known to living people who can speak. You cannot control the story entirely.",
+      "ja": "七人の生存者は証人だ。ここで何が起きたかは話すことができる生きた人々が知っている。物語を完全に制御することはできない。",
+      "zh-CN": "七名幸存者是见证人。这里发生的一切是有语言能力的活人所知道的。你无法完全控制这个故事。"
+    },
+    {
+      "en": "The legionaries who entered Masada have seen the dead. Word of what was found will spread through the ranks and eventually reach Rome through private letters, whatever the official report says.",
+      "ja": "マサダに入った軍団兵たちは死者を目にした。何が発見されたかの言葉は隊列に広まり、公式報告が何を言おうとも、最終的には私信を通じてローマに届く。",
+      "zh-CN": "进入马萨达的军团士兵们已经看到了死者。无论官方报告说什么，发现了什么的消息将在军队中传播，并最终通过私人信件传到罗马。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Report an honorable Roman victory — downplay the mass death",
+        "ja": "名誉あるローマの勝利を報告する――集団死を軽視する",
+        "zh-CN": "报告光荣的罗马胜利——淡化集体死亡"
+      },
+      "description": {
+        "en": "File an official report emphasizing Roman military achievement. Describe the taking of Masada as a complete victory, with minimal mention of how the defenders died. Treat the seven survivors as prisoners of war; do not amplify their testimony. Let the official version of history be one of Roman triumph.",
+        "ja": "ローマの軍事的成果を強調する公式報告書を提出する。マサダ攻略を完全な勝利として描写し、守備兵がどのように死んだかについては最小限に触れる。七人の生存者を捕虜として扱い、彼らの証言を増幅しない。歴史の公式版をローマの勝利とする。",
+        "zh-CN": "提交一份强调罗马军事成就的官方报告。将攻取马萨达描述为完全胜利，对守军如何死亡提及甚少。将七名幸存者视为战俘；不放大他们的证词。让历史的官方版本成为罗马凯旋的故事。"
+      },
+      "historicalContext": "This is the counterfactual choice. Silva did report the victory to Rome, but the testimony of the surviving women — recorded by Josephus in 'The Jewish War' — ensured that the story of Eleazar's speech and the collective death became part of the historical record. The Roman official narrative focused on the military achievement, but the human story survived through Josephus's account.",
+      "outcomePrompt": {
+        "en": "Your official dispatches reach Rome to great acclaim. The Emperor is pleased — Judea is finally, fully pacified after decades of rebellion. Your career benefits from the clean conclusion to an ugly war. The seven survivors are absorbed quietly into the Roman system, their testimony never formally amplified.\n\nBut the story does not stay buried. A Jewish historian named Josephus Flavius, who had surrendered to the Romans years earlier and now writes under Roman patronage, has access to the survivors' accounts. He records Eleazar's speech in full, describes the lots drawn, the families killed, the eerie silence that greeted the Roman legions. His work 'The Jewish War' will survive the centuries, preserving what you tried to minimize.\n\nHistory records Masada as both a Roman military achievement and a testament to human will. Your name is attached to the siege, but it is Eleazar's speech that echoes through the ages. The official record says Rome won. The human record says something more complicated.",
+        "ja": "あなたの公式急報はローマに届き、大喝采を受けた。皇帝は喜んだ――ユダヤはついに、数十年の反乱の末に完全に平定された。あなたのキャリアは醜い戦争の明確な終結から恩恵を受けた。七人の生存者は静かにローマの体制に吸収され、彼らの証言が正式に増幅されることはなかった。\n\nしかし、物語は埋もれたままにはならなかった。数年前にローマに降伏し、今はローマの庇護のもとで著述するヨセフス・フラウィウスというユダヤ人歴史家が、生存者の証言にアクセスできた。彼はエレアザルの演説を全文記録し、引かれたくじ、殺された家族、ローマ軍団を迎えた不気味な沈黙を描写した。彼の著作『ユダヤ戦記』は世紀を超えて生き残り、あなたが最小化しようとしたものを保存した。\n\n歴史はマサダをローマの軍事的成果と人間の意志の証言の両方として記録した。あなたの名前は包囲に付されているが、時代を超えて響くのはエレアザルの演説だ。公式記録はローマが勝利したと言う。人間の記録はより複雑なことを語る。",
+        "zh-CN": "你的官方急报传到罗马，受到热烈欢迎。皇帝很高兴——经历数十年叛乱，犹地亚终于被完全平定。你的仕途从这场丑陋战争的干净收尾中获益。七名幸存者被悄悄纳入罗马体制，他们的证词从未被正式放大。\n\n但这个故事并没有被埋葬。一位名叫约瑟夫斯·弗拉维乌斯的犹太历史学家——他多年前向罗马投降，现在在罗马庇护下写作——获得了幸存者的陈述。他完整记录了以利亚撒的演讲，描述了抽签过程、被杀的家庭、以及迎接罗马军团的诡异寂静。他的著作《犹太战争》将跨越世纪流传，保存你试图淡化的一切。\n\n历史将马萨达记录为罗马军事成就和人类意志的双重见证。你的名字与围城相连，但回荡千古的是以利亚撒的演讲。官方记录说罗马赢了。人类的记录说了更复杂的事情。"
+      },
+      "stateChanges": [
+        { "variable": "defenderMorale", "operation": "set", "value": 0 },
+        { "variable": "romanLegitimacy", "operation": "add", "value": 20 },
+        { "variable": "historicalRecord", "operation": "set", "value": "suppressed" }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Acknowledge the truth — record what actually happened with honesty",
+        "ja": "真実を認める――実際に起きたことを誠実に記録する",
+        "zh-CN": "承认事实——如实记录真正发生的事情"
+      },
+      "description": {
+        "en": "File a full and honest account of the fall of Masada. Record the testimony of the surviving women. Describe the mass death as an act of collective choice by a people who refused Roman slavery. Bury the dead with dignity. This report will complicate Roman claims of an easy, glorious victory, but it will be true.",
+        "ja": "マサダ陥落の完全で正直な記録を提出する。生存した女性たちの証言を記録する。集団死をローマの奴隷制を拒否した人々の集団的選択の行為として描述する。死者を尊厳をもって埋葬する。この報告書はローマが主張する簡単で栄光ある勝利を複雑にするだろうが、それは真実だろう。",
+        "zh-CN": "提交一份关于马萨达陥落的完整诚实的陈述。记录幸存妇女的证词。将集体死亡描述为一个拒绝罗马奴役的民族的集体选择行为。以尊严安葬死者。这份报告将使罗马关于轻松、光荣胜利的主张变得复杂，但它将是真实的。"
+      },
+      "historicalContext": "This represents the path closest to what actually happened in the historical record. Josephus's account, based on survivor testimony, is the primary source for Masada. The Romans did acknowledge what they found — the silence and mass death became part of the story almost immediately, immortalized by Josephus. Modern archaeology has confirmed much of the account, including the lots (ostraka with names) that may have been used to choose the final ten men.",
+      "outcomePrompt": {
+        "en": "You submit an honest account. Your dispatches describe the silence, the dead, the testimony of the women, the stored provisions that prove the choice was made freely. Rome's response is complicated — this is not the clean triumph anyone wanted. But it is the truth.\n\nThe report reaches Josephus, who has already heard from the survivors. He incorporates your account and theirs into 'The Jewish War,' reconstructing Eleazar's speech in full. Whether that speech is exactly what Eleazar said or Josephus's literary construction of what he must have said, it captures something essential: that 960 people chose death over submission, and that they did so with deliberation and dignity.\n\nArchaeologists will one day find the ostraka — pottery shards with names scratched on them — perhaps the actual lots drawn that night. Masada becomes a symbol: for Jewish memory of resistance, for universal understanding of people who refuse to be conquered on their oppressor's terms. Your honest record is part of why the story survived. 'Masada shall not fall again' becomes a cry across centuries.",
+        "ja": "あなたは正直な報告を提出した。あなたの急報は沈黙を、死者を、女性たちの証言を、自由意思による選択を証明する保存された食料を描述した。ローマの反応は複雑だった――これは誰も望んでいた明確な勝利ではなかった。しかしそれは真実だった。\n\n報告書はヨセフスに届き、彼はすでに生存者から話を聞いていた。彼はあなたの記録と彼らの証言を『ユダヤ戦記』に組み込み、エレアザルの演説を完全に再構成した。その演説がエレアザルが実際に言ったことか、彼が言ったに違いないことについてのヨセフスの文学的構成かはわからないが、それは本質的な何かを捉えている。960人が服従より死を選んだこと、そして熟慮と尊厳をもってそうしたということを。\n\nいつか考古学者たちが土器片（オストラコン）を発見するだろう――名前が刻まれた陶器の破片――おそらくその夜に引かれた実際のくじだ。マサダはシンボルとなる。抵抗のユダヤの記憶に、抑圧者の条件で征服されることを拒否する人々への普遍的な理解に。あなたの誠実な記録は物語が生き残った理由の一部だ。「マサダは再び陥落しない」という叫びが世紀を超えて響く。",
+        "zh-CN": "你提交了一份诚实的陈述。你的急报描述了寂静、死者、妇女的证词、证明选择是自由做出的储备物资。罗马的反应是复杂的——这不是任何人想要的干净胜利。但这是真相。\n\n报告传到约瑟夫斯手中，他已经从幸存者那里听说了。他将你的陈述和她们的证词合并入《犹太战争》，完整重构了以利亚撒的演讲。无论那篇演讲是否是以利亚撒实际所说的，还是约瑟夫斯对他必定所说内容的文学构建，它都捕捉到了一些本质的东西：960人选择了死亡而非屈服，并且他们这样做是经过深思熟虑和带着尊严的。\n\n考古学家有一天将发现陶片——上面刻着名字的陶器碎片——也许是那夜实际抽取的签。马萨达成为一个象征：对于犹太人抵抗的记忆，对于拒绝在压迫者条件下被征服的人们的普世理解。你诚实的记录是这个故事得以留存的原因之一。'马萨达不会再陷落'成为跨越世纪的呐喊。"
+      },
+      "stateChanges": [
+        { "variable": "defenderMorale", "operation": "set", "value": 100 },
+        { "variable": "romanLegitimacy", "operation": "add", "value": 5 },
+        { "variable": "historicalRecord", "operation": "set", "value": "preserved" }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

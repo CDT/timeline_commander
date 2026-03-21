@@ -1,0 +1,91 @@
+{
+  "scenarioId": "trojan-war-1184bc",
+  "timeline": [
+    {
+      "date": "-1194-01-01",
+      "description": {
+        "en": "Paris of Troy abducts Helen from Sparta, triggering the Greek alliance to assemble a massive fleet for war.",
+        "ja": "トロイのパリスがスパルタからヘレネを略奪し、ギリシャ同盟が戦争のために大艦隊を編成するきっかけとなる。",
+        "zh-CN": "特洛伊的帕里斯从斯巴达掳走海伦，引发希腊联盟组建庞大舰队出征。"
+      }
+    },
+    {
+      "date": "-1194-06-01",
+      "description": {
+        "en": "The Greek fleet of over a thousand ships lands on the shores near Troy. Initial skirmishes result in stalemate as Troy's walls prove impervious.",
+        "ja": "千隻を超えるギリシャ艦隊がトロイ近郊の海岸に上陸。トロイの城壁が難攻不落であることが判明し、最初の小競り合いは膠着状態に終わる。",
+        "zh-CN": "超过千艘战船的希腊舰队在特洛伊附近海岸登陆。最初的战斗陷入僵局，特洛伊城墙被证明坚不可摧。"
+      }
+    },
+    {
+      "date": "-1190-01-01",
+      "description": {
+        "en": "Years of siege warfare grind on. The Greeks raid surrounding towns and Trojan allies for supplies, while periodic battles rage before Troy's walls.",
+        "ja": "何年もの攻城戦が続く。ギリシャ軍は補給のために周辺の町やトロイの同盟者を襲撃し、トロイの城壁の前では断続的な戦闘が繰り広げられる。",
+        "zh-CN": "多年的围城战持续进行。希腊人为获取补给袭击周边城镇和特洛伊的盟友，城墙前不时爆发激烈战斗。"
+      }
+    },
+    {
+      "date": "-1186-01-01",
+      "description": {
+        "en": "Agamemnon and Achilles quarrel over war spoils, leading Achilles to withdraw from battle. Greek losses mount severely without their greatest warrior.",
+        "ja": "アガメムノンとアキレウスが戦利品を巡って争い、アキレウスが戦線を離脱する。最強の戦士を失ったギリシャ軍の損害は深刻に増大する。",
+        "zh-CN": "阿伽门农和阿喀琉斯因战利品发生争执，导致阿喀琉斯退出战斗。失去最伟大的战士后，希腊方面损失急剧增加。"
+      }
+    },
+    {
+      "date": "-1185-06-01",
+      "description": {
+        "en": "Hector leads a devastating Trojan counterattack that nearly drives the Greeks back to their ships. Patroclus dons Achilles' armor and is slain by Hector.",
+        "ja": "ヘクトルがトロイ軍の壊滅的な反撃を率い、ギリシャ軍を船のところまでほぼ追い返す。パトロクロスがアキレウスの鎧を着て出陣するが、ヘクトルに討たれる。",
+        "zh-CN": "赫克托尔率领特洛伊军发动毁灭性反击，几乎将希腊人赶回船上。帕特罗克洛斯穿上阿喀琉斯的铠甲出战，被赫克托尔所杀。"
+      }
+    },
+    {
+      "date": "-1185-07-01",
+      "description": {
+        "en": "Enraged by Patroclus' death, Achilles returns to battle and slays Hector in single combat before the walls of Troy, dragging his body behind his chariot.",
+        "ja": "パトロクロスの死に激怒したアキレウスが戦場に復帰し、トロイの城壁の前でヘクトルとの一騎打ちに勝利、その遺体を戦車で引きずり回す。",
+        "zh-CN": "阿喀琉斯因帕特罗克洛斯之死而怒不可遏，重返战场，在特洛伊城墙前的单打独斗中杀死赫克托尔，并用战车拖拽其遗体。"
+      }
+    },
+    {
+      "date": "-1184-06-01",
+      "description": {
+        "en": "Achilles is killed by Paris with an arrow guided by Apollo to his vulnerable heel. The Greeks are demoralized and Odysseus begins formulating the Trojan Horse plan.",
+        "ja": "アキレウスが、アポロンに導かれたパリスの矢によって弱点の踵を射抜かれて戦死する。ギリシャ軍の士気は落ち込み、オデュッセウスはトロイの木馬の計画を練り始める。",
+        "zh-CN": "阿喀琉斯被帕里斯在阿波罗引导下射出的箭射中脚踵而亡。希腊军士气低落，奥德修斯开始构想特洛伊木马计划。"
+      }
+    },
+    {
+      "date": "-1184-09-01",
+      "description": {
+        "en": "The Greeks construct the Trojan Horse, hide warriors inside, and feign departure. The Trojans bring the horse within their walls. That night, the hidden Greeks emerge and open the gates. Troy is sacked and burned.",
+        "ja": "ギリシャ軍がトロイの木馬を建造し、内部に戦士を隠して撤退を装う。トロイの人々が木馬を城壁内に運び入れる。その夜、隠れていたギリシャ兵が出現して城門を開放。トロイは略奪され焼き払われる。",
+        "zh-CN": "希腊人建造特洛伊木马，将战士藏于其中，假装撤离。特洛伊人将木马拉入城墙之内。当夜，隐藏的希腊战士现身并打开城门。特洛伊遭到洗劫和焚毁。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Troy was completely destroyed. The city was sacked, burned, and its population killed or enslaved. The Greek victory was total but came at enormous cost — many Greek heroes had perished during the decade-long siege, and the victors faced difficult and often fatal journeys home. The fall of Troy marked the end of an era in the ancient world.",
+    "ja": "トロイは完全に滅亡した。都市は略奪・焼き払われ、住民は殺害されるか奴隷にされた。ギリシャ軍の勝利は完全なものであったが、膨大な犠牲を伴った。十年にわたる包囲戦で多くのギリシャの英雄が命を落とし、勝者たちは困難でしばしば致命的な帰路に直面した。トロイの陥落は古代世界における一つの時代の終わりを告げた。",
+    "zh-CN": "特洛伊被彻底摧毁。城市遭到洗劫焚毁，居民被杀或被掳为奴。希腊的胜利是彻底的，但付出了巨大代价——许多希腊英雄在长达十年的围城战中阵亡，而胜利者们面临着艰难且往往致命的归途。特洛伊的陷落标志着古代世界一个时代的结束。"
+  },
+  "casualties": {
+    "en": "Exact figures are unknown as the conflict exists in the realm of legend. According to Homer's account, thousands of warriors on both sides perished, including heroes such as Achilles, Hector, Patroclus, Ajax, and Paris. The entire civilian population of Troy was killed or enslaved.",
+    "ja": "この紛争は伝説の領域に属するため、正確な数字は不明である。ホメロスの記述によれば、両軍で数千人の戦士が命を落とし、アキレウス、ヘクトル、パトロクロス、アイアス、パリスなどの英雄もその中に含まれる。トロイの民間人は全員殺害されるか奴隷にされた。",
+    "zh-CN": "由于这场冲突存在于传说领域，确切数字无从知晓。根据荷马的记载，双方数千名战士阵亡，包括阿喀琉斯、赫克托尔、帕特罗克洛斯、埃阿斯和帕里斯等英雄。特洛伊全部平民被杀或被掳为奴。"
+  },
+  "significance": {
+    "en": "The Trojan War became the foundational narrative of Western literature through Homer's Iliad and Odyssey. It shaped Greek identity, provided moral and philosophical lessons explored for millennia, and influenced countless works of art, literature, and theater. The story of the Trojan Horse became an enduring metaphor for deception and hidden danger. Archaeological excavations at Hisarlik have suggested a historical basis for the legend, linking it to Bronze Age conflicts in the Aegean world.",
+    "ja": "トロイ戦争はホメロスの『イリアス』と『オデュッセイア』を通じて西洋文学の礎となる物語となった。ギリシャのアイデンティティを形作り、何千年にもわたって探求される道徳的・哲学的教訓を提供し、無数の芸術、文学、演劇作品に影響を与えた。トロイの木馬の物語は欺瞞と隠れた危険の永続的な比喩となった。ヒサルリクでの考古学的発掘は伝説の歴史的根拠を示唆し、エーゲ海世界の青銅器時代の紛争との関連を明らかにしている。",
+    "zh-CN": "特洛伊战争通过荷马的《伊利亚特》和《奥德赛》成为西方文学的奠基叙事。它塑造了希腊人的身份认同，提供了数千年来被不断探讨的道德和哲学教训，影响了无数艺术、文学和戏剧作品。特洛伊木马的故事成为欺骗和隐患的永恒隐喻。希萨利克的考古发掘表明这一传说具有历史基础，将其与爱琴海世界的青铜时代冲突联系起来。"
+  },
+  "furtherReading": [
+    "The Iliad by Homer (translated by Robert Fagles)",
+    "The Odyssey by Homer (translated by Emily Wilson)",
+    "The Trojan War: A New History by Barry Strauss",
+    "Troy and Homer by Joachim Latacz",
+    "In Search of the Trojan War by Michael Wood"
+  ]
+}

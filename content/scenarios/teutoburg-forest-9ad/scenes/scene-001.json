@@ -1,0 +1,115 @@
+{
+  "id": "teutoburg-forest-9ad-scene-001",
+  "scenarioId": "teutoburg-forest-9ad",
+  "title": {
+    "en": "Into the Forest",
+    "ja": "森の中へ",
+    "zh-CN": "深入森林"
+  },
+  "date": {
+    "en": "September 1, 9 AD",
+    "ja": "西暦9年9月1日",
+    "zh-CN": "公元9年9月1日"
+  },
+  "location": {
+    "en": "Western edge of the Teutoburg Forest, Germania",
+    "ja": "ゲルマニア、トイトブルク森の西端",
+    "zh-CN": "日耳曼尼亚，条顿堡森林西缘"
+  },
+  "narrativePrompt": {
+    "en": "The morning mist clings to the low ground as your army breaks camp and prepares for the day's march. Three proud Roman legions—nearly fifteen thousand legionaries plus thousands more auxiliaries, camp followers, and civilians—stretch out along a muddy track that winds into the dark expanse of the Teutoburg Forest. The sky is overcast and threatening, and your scouts report that the forest paths ahead are narrow and hemmed in by thick undergrowth and marshy ground on both sides.\n\nYour trusted Germanic auxiliary commander, Arminius, rode into camp at dawn with troubling news: a minor tribal uprising has broken out among the settlements to the north, and he recommends a detour through the forest to suppress it quickly before it spreads. He assures you the forest paths are passable and that his scouts know the way. However, moments ago, the Cherusci chieftain Segestes sought a private audience with you, his face grave with concern. He claims that Arminius is plotting betrayal—that he has secretly united several Germanic tribes and plans to ambush your legions deep in the forest. Segestes urges you to arrest Arminius and all the Germanic chieftains immediately, or at the very least, to abandon the forest route and march along the established Roman road back to the Rhine.\n\nYou stand at a crossroads, both literally and figuratively. Your legions are packed and ready to march. Arminius waits at the head of the auxiliary column, eager to lead you into the forest. Segestes watches from the edge of the camp, his warning hanging in the air. Your senior centurions are looking to you for the order to march. The troops are restless—they want to reach winter quarters before the autumn storms worsen. Every hour of delay increases the grumbling in the ranks. You must decide: do you trust Arminius and proceed into the forest as planned, or do you heed Segestes's warning and change your course?",
+    "ja": "朝霧が低地にまとわりつく中、あなたの軍は陣営を畳み、その日の行軍の準備を整えている。三個の誇り高きローマ軍団——約一万五千人の軍団兵に加え、数千人の補助兵、従軍者、民間人——がトイトブルク森の暗い広がりへと続くぬかるんだ道に沿って隊列を伸ばしている。空は曇って今にも降り出しそうで、斥候は前方の森の道が狭く、両側を密生した下草と湿地に挟まれていると報告している。\n\nあなたの信頼するゲルマン人補助部隊指揮官アルミニウスが夜明けに不穏な知らせを持って陣営に駆け込んできた。北方の集落で小規模な部族反乱が発生しており、拡大する前に森を通って迅速に鎮圧する迂回路を推奨するという。彼は森の道は通行可能であり、斥候が道を知っていると保証した。しかし先ほど、ケルスキ族の族長セゲステスが深刻な面持ちであなたとの内密の面会を求めてきた。彼はアルミニウスが裏切りを企てていると主張する——ひそかに複数のゲルマン部族を結集させ、森の奥深くであなたの軍団を待ち伏せする計画だという。セゲステスはアルミニウスと全てのゲルマン族長を直ちに逮捕するか、少なくとも森の経路を放棄して既設のローマ街道に沿ってラインに戻るよう強く促している。\n\nあなたは文字通りにも比喩的にも岐路に立っている。軍団は荷造りを終え、行軍の準備ができている。アルミニウスは補助部隊の先頭であなたを森に導くべく待機している。セゲステスは陣営の端から見守り、その警告が空気中に漂っている。上級百人隊長たちは行軍命令を待ってあなたを見ている。兵士たちは落ち着かない——秋の嵐がひどくなる前に冬営地に着きたいのだ。遅延が長引くほど隊列の不満は増す。あなたは決断しなければならない：アルミニウスを信頼して計画通り森に進むのか、それともセゲステスの警告に従い進路を変えるのか？",
+    "zh-CN": "晨雾笼罩着低洼地带，你的军队拔营准备当天的行军。三个骄傲的罗马军团——近一万五千名军团士兵加上数千名辅助兵、随军人员和平民——沿着一条蜿蜒进入条顿堡森林黑暗深处的泥泞小道排列开来。天空阴沉欲雨，你的斥候报告前方的森林小道狭窄，两侧被茂密的灌木丛和沼泽地夹住。\n\n你信任的日耳曼辅助部队指挥官阿米尼乌斯黎明时分骑马赶到营地，带来了令人不安的消息：北方的定居点爆发了一场小规模部落起义，他建议绕道穿过森林迅速镇压，以免蔓延。他向你保证森林小道可以通行，他的斥候熟悉道路。然而，就在片刻之前，切鲁西族首领塞盖斯特斯面色凝重地请求与你私下会面。他声称阿米尼乌斯正在策划背叛——他已经秘密联合了几个日耳曼部落，计划在森林深处伏击你的军团。塞盖斯特斯敦促你立即逮捕阿米尼乌斯和所有日耳曼首领，或者至少放弃森林路线，沿着现有的罗马大道返回莱茵河。\n\n你站在一个十字路口——无论从字面意义还是比喻意义上。你的军团已经打包完毕，准备出发。阿米尼乌斯在辅助纵队前方等待，急切地要带你进入森林。塞盖斯特斯在营地边缘注视着，他的警告悬在空气中。你的高级百夫长们正看着你等待行军命令。士兵们焦躁不安——他们想在秋季风暴加剧之前到达冬季营地。每一小时的延误都会加剧队伍中的怨言。你必须做出决定：是信任阿米尼乌斯按计划进入森林，还是听从塞盖斯特斯的警告改变路线？"
+  },
+  "situationReport": [
+    {
+      "en": "Your three legions (XVII, XVIII, XIX) plus auxiliaries total approximately 20,000 combatants, but the column stretches for over 10 miles including the baggage train and camp followers.",
+      "ja": "三個軍団（第17、第18、第19）と補助兵を合わせて約二万人の戦闘員がいるが、輜重隊と従軍者を含めると縦隊は10マイル以上に伸びている。",
+      "zh-CN": "你的三个军团（第十七、十八、十九）加上辅助部队共约两万名战斗人员，但包括辎重队和随军人员在内，纵队绵延超过十英里。"
+    },
+    {
+      "en": "Arminius has provided a route through the forest that he claims will take two days. He has ridden ahead with his Germanic auxiliaries to 'scout the path.'",
+      "ja": "アルミニウスは二日で通過できるとする森林の経路を提供した。彼は「道を偵察する」ためにゲルマン人補助兵とともに先に出発している。",
+      "zh-CN": "阿米尼乌斯提供了一条他声称需要两天的穿越森林的路线。他已经带着他的日耳曼辅助兵先行出发去'侦察道路'。"
+    },
+    {
+      "en": "Weather conditions are deteriorating rapidly—heavy rain is expected, which will turn the forest tracks to mud and make river crossings dangerous.",
+      "ja": "天候は急速に悪化している——大雨が予想され、森の道を泥沼に変え、河川渡河を危険にする。",
+      "zh-CN": "天气状况正在迅速恶化——预计将有大雨，这将使森林小道变成泥沼，河流渡口变得危险。"
+    },
+    {
+      "en": "Segestes has formally warned you that Arminius has united the Cherusci, Marsi, Chatti, and Bructeri tribes and intends to ambush the Roman column in the forest narrows.",
+      "ja": "セゲステスがアルミニウスがケルスキ族、マルシ族、カッティ族、ブルクテリ族を結集させ、森の隘路でローマ軍縦隊を待ち伏せする計画であると正式に警告している。",
+      "zh-CN": "塞盖斯特斯已正式警告你，阿米尼乌斯已经联合了切鲁西人、马尔西人、卡蒂人和布鲁克特里人，打算在森林隘路伏击罗马纵队。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide on the army's route: through the Teutoburg Forest or along the established Roman road",
+      "ja": "軍の進路を決定する：トイトブルク森を通るか、既設のローマ街道を行くか",
+      "zh-CN": "决定军队的路线：穿越条顿堡森林还是沿现有的罗马大道行进"
+    },
+    {
+      "en": "Address the conflicting intelligence from Arminius and Segestes",
+      "ja": "アルミニウスとセゲステスからの矛盾する情報に対処する",
+      "zh-CN": "处理来自阿米尼乌斯和塞盖斯特斯的矛盾情报"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Arresting Arminius without proof could provoke his Germanic auxiliaries and damage Rome's relations with allied tribes",
+      "ja": "証拠なしにアルミニウスを逮捕すれば、ゲルマン人補助兵を刺激し、同盟部族とのローマの関係を損なう可能性がある",
+      "zh-CN": "在没有证据的情况下逮捕阿米尼乌斯可能会激怒他的日耳曼辅助部队并损害罗马与同盟部落的关系"
+    },
+    {
+      "en": "Taking the longer Roman road route will delay your return to winter quarters and may be seen as cowardice by your officers",
+      "ja": "より長いローマ街道の経路を取れば冬営地への帰還が遅れ、将校たちに臆病と見なされる可能性がある",
+      "zh-CN": "走更长的罗马大道将延迟你返回冬季营地，并可能被你的军官们视为怯懦"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Trust Arminius and proceed into the Teutoburg Forest as planned. Segestes has a known personal grudge against Arminius and his warnings are likely motivated by jealousy.",
+        "ja": "アルミニウスを信頼し、計画通りトイトブルク森に進む。セゲステスはアルミニウスに対する個人的な恨みがあることが知られており、その警告は嫉妬によるものだろう。",
+        "zh-CN": "信任阿米尼乌斯，按计划进入条顿堡森林。塞盖斯特斯与阿米尼乌斯有已知的私人恩怨，他的警告很可能出于嫉妒。"
+      },
+      "historicalContext": "This is what Varus actually chose. He trusted Arminius, dismissed Segestes's warnings, and led his legions into the forest, directly into the ambush that would destroy them.",
+      "outcomePrompt": {
+        "en": "You give the order to march, and the column lurches forward into the dark canopy of the Teutoburg Forest. The track narrows almost immediately, forcing your legions to abandon their standard marching formation and stretch into a thin, vulnerable line. Wagons become stuck in the mud, and soldiers curse as they push through tangled undergrowth and wade through ankle-deep water. The forest seems to close in around you—ancient oaks towering overhead, their branches blocking out the grey sky. By midday, the rain begins in earnest, a cold, relentless downpour that soaks everything and everyone. Visibility drops to a few dozen yards. Your scouts report that the paths ahead are even worse—narrow defiles between boggy marshes where the column will be forced into single file. The mood among the troops turns dark. Centurions bark orders to keep the men moving, but progress slows to a crawl. As the afternoon wears on, you notice something troubling: the Germanic auxiliaries who were marching with your column have begun to slip away in small groups, melting into the forest on either side. By evening, most of them have vanished. Then, just as the first fires are being lit for the night camp, you hear it—a chorus of war horns echoing through the trees, coming from every direction at once.",
+        "ja": "あなたは行軍命令を下し、縦隊はトイトブルク森の暗い樹冠の下へと揺れ動きながら進む。道はほぼ即座に狭まり、軍団は標準的な行軍隊形を放棄し、細く脆弱な線に伸びざるを得なくなる。荷車が泥にはまり、兵士たちは絡み合った下草をかき分け、足首まで浸かる水の中を歩きながら罵声を上げる。森があなたの周りを包み込むように迫ってくる——古代の樫の木が頭上にそびえ、その枝が灰色の空を遮る。正午までに本格的な雨が降り始め、冷たく容赦ない豪雨が全てを浸す。視界は数十ヤードまで落ちる。斥候たちは前方の道がさらに悪化していると報告する——泥沼の間の狭い隘路で、縦隊は一列にならざるを得ないという。兵士たちの雰囲気が暗くなる。百人隊長たちが前進を促す命令を怒鳴るが、進行は遅々たるものになる。午後が進むにつれ、不穏なことに気づく：縦隊とともに行軍していたゲルマン人補助兵たちが少人数の集団で抜け出し始め、両側の森の中に消えていく。夕方までにその大半が姿を消した。そして、夜営のための最初の火が灯されようとしたまさにその時、それが聞こえた——あらゆる方向から一斉に木々の間にこだまする戦いの角笛の合唱が。",
+        "zh-CN": "你下达了行军命令，纵队摇晃着前进，进入条顿堡森林黑暗的树冠之下。小道几乎立刻变窄，迫使你的军团放弃标准行军队形，拉伸成一条细长而脆弱的线。辎重车辆陷入泥中，士兵们在密集的灌木丛中艰难推进，涉过没过脚踝的积水，口中咒骂不止。森林似乎在你周围合拢——古老的橡树高耸入天，枝条遮蔽了灰色的天空。到了中午，雨真正开始了，冰冷无情的倾盆大雨浸透了一切。能见度降至几十码。斥候报告前方道路更加糟糕——沼泽之间的狭窄隘路将迫使纵队排成单列。部队的情绪变得阴沉。百夫长们厉声命令士兵继续前进，但行军速度降至龟速。随着下午的推移，你注意到了令人不安的事情：随纵队行军的日耳曼辅助兵开始以小组为单位悄然脱离，消融进两侧的森林中。到傍晚时分，他们中的大多数已经消失。然后，就在夜间营地的第一堆篝火被点燃时，你听到了——战争号角的齐鸣回荡在树林间，从四面八方同时传来。"
+      },
+      "nextSceneId": "teutoburg-forest-9ad-scene-002",
+      "stateChanges": [
+        { "variable": "legionMorale", "operation": "add", "value": -15 },
+        { "variable": "formationIntegrity", "operation": "add", "value": -20 },
+        { "variable": "intelligenceAwareness", "operation": "add", "value": -10 },
+        { "variable": "casualtyRate", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Heed Segestes's warning. Arrest Arminius and the Germanic chieftains, then redirect the march along the established Roman road back to the Rhine.",
+        "ja": "セゲステスの警告に従う。アルミニウスとゲルマン族長たちを逮捕し、既設のローマ街道に沿ってラインへの帰途に進路を変更する。",
+        "zh-CN": "听从塞盖斯特斯的警告。逮捕阿米尼乌斯和日耳曼首领们，然后改道沿现有的罗马大道返回莱茵河。"
+      },
+      "historicalContext": "This is what Segestes urged Varus to do. Had Varus heeded this warning, the ambush would likely have been prevented entirely, though it might have triggered an open revolt by the Germanic auxiliaries.",
+      "outcomePrompt": {
+        "en": "You summon your senior centurions and camp prefect to your tent and quietly relay Segestes's intelligence. The decision is made swiftly: Arminius and the principal Germanic chieftains are to be detained immediately. A squad of Praetorian guards moves through the camp, and within the hour, Arminius is seized as he prepares to ride out with his scouts. His face betrays a flash of rage before settling into cold composure—he demands to know the meaning of this insult to a loyal Roman officer. The Germanic auxiliaries stir with anger and confusion, and there are tense moments as some reach for their weapons, but the disciplined presence of your legionaries prevents any immediate violence. You order the march redirected along the Roman road—a longer route but over established, well-maintained terrain. As your column turns west, away from the forest, you see smoke signals rising from the tree line. Distant war horns sound in the deep woods. Whatever was waiting in the forest, you have denied it the chance to strike on its terms. The march will be longer, and your Germanic allies may never trust Rome again, but your legions remain intact and in formation. Arminius glares at you from his bonds, his eyes promising that this is not over.",
+        "ja": "あなたは上級百人隊長と陣営長官をテントに呼び、セゲステスの情報をひそかに伝える。決断は迅速に下された：アルミニウスと主要なゲルマン族長たちを直ちに拘束する。一隊の近衛兵が陣営を巡回し、一時間以内にアルミニウスが斥候とともに出発しようとしていたところを捕らえる。彼の顔に一瞬の怒りが走るが、すぐに冷たい平静に変わり、忠実なローマ将校に対するこの侮辱の意味を問いただす。ゲルマン人補助兵たちが怒りと混乱で動揺し、一部が武器に手を伸ばす緊迫した瞬間があるが、軍団兵の規律ある存在が即座の暴力を防ぐ。あなたはローマ街道に沿った行軍に進路を変更する——より長い経路だが、整備された確立された地形を通る。縦隊が西に向きを変え、森から離れると、木の列から烽煙が上がるのが見える。遠くの森の奥から戦いの角笛が鳴り響く。森に何が待ち受けていたにせよ、あなたはその条件で攻撃する機会を与えなかった。行軍は長くなり、ゲルマン人の同盟者は二度とローマを信頼しないかもしれないが、あなたの軍団は隊形を保ったまま無傷である。アルミニウスは縛られたままあなたを睨みつけ、その目はこれで終わりではないと語っている。",
+        "zh-CN": "你召集高级百夫长和营地长官到你的帐篷，悄悄转达了塞盖斯特斯的情报。决定迅速做出：立即拘留阿米尼乌斯和主要的日耳曼首领。一队禁卫军在营地中行动，不到一个小时，阿米尼乌斯在准备带着斥候骑马出发时被抓获。他的脸上闪过一丝愤怒，随即恢复了冷静的镇定——他要求知道这种对一名忠诚罗马军官的侮辱是什么意思。日耳曼辅助兵愤怒而困惑地骚动起来，有些人伸手去拿武器，气氛一度紧张，但你的军团士兵的纪律存在阻止了任何即时的暴力行为。你下令改道沿罗马大道行军——路程更长，但经过的是已开辟的、维护良好的地形。当你的纵队向西转向，远离森林时，你看到树线处升起了烟火信号。远处的战争号角在森林深处响起。无论森林中等待着什么，你都没有给它按自己条件发动打击的机会。行军将更加漫长，你的日耳曼盟友可能再也不会信任罗马，但你的军团完好无损，阵型井然。阿米尼乌斯从束缚中怒视着你，眼神承诺这一切还没有结束。"
+      },
+      "nextSceneId": "teutoburg-forest-9ad-scene-002",
+      "stateChanges": [
+        { "variable": "legionMorale", "operation": "add", "value": 5 },
+        { "variable": "formationIntegrity", "operation": "add", "value": 10 },
+        { "variable": "intelligenceAwareness", "operation": "add", "value": 25 },
+        { "variable": "casualtyRate", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

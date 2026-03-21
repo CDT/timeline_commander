@@ -1,0 +1,123 @@
+{
+  "id": "boudicca-revolt-60-scene-001",
+  "scenarioId": "boudicca-revolt-60",
+  "date": {
+    "en": "Spring, 60 AD",
+    "ja": "西暦60年春",
+    "zh-CN": "公元60年春"
+  },
+  "location": {
+    "en": "Iceni Territory, Roman Britain",
+    "ja": "ローマ属州ブリタンニア、イケニ族の領土",
+    "zh-CN": "罗马不列颠，爱西尼领土"
+  },
+  "isTerminal": false,
+  "title": {
+    "en": "The Rising",
+    "ja": "蜂起",
+    "zh-CN": "起义"
+  },
+  "narrativePrompt": {
+    "en": "The welts on your back have not yet healed. Three weeks ago, in full view of your warriors and your people, Roman soldiers stripped and flogged you — a queen — in the dust of your own courtyard, after the procurator Catus Decianus declared your husband's will void and seized Iceni lands as imperial property. Your daughters were violated before witnesses who could do nothing. Roman moneylenders are seizing property across the tribe, calling in loans that Iceni nobles never truly agreed to. The humiliation runs deeper than words can measure.\n\nYou are Boudicca, and you have found the thing the Romans could not take from you: rage. It has spread like fire through dried grass. The Iceni have risen. The neighboring Trinovantes, who have their own list of Roman outrages — the hated veterans' colony at Camulodunum built on stolen land, the colossal temple to the deified Claudius that they are forced to fund — have joined the revolt. Tribal messengers report that warriors from Coritani, Durotrigian settlements, and others are streaming toward your banner.\n\nThe Roman governor Suetonius Paulinus is on the island of Mona, destroying the last druid sanctuary. He cannot reach you quickly. The settlements of Roman Britain lie nearly undefended.\n\nYour war chiefs present you with a strategic question before the march begins. Camulodunum — the colony of Roman veterans built on Trinovantian land, housing the hated Temple of Claudius — is the nearest significant target, less than two days' march. But some advisors argue for a rapid strike on Londinium first: a smaller settlement but the trading and financial hub of the province, where Roman merchants and moneylenders have grown fat on British suffering. Which city burns first will set the nature of this revolt.",
+    "ja": "背中の傷跡はまだ癒えていない。三週間前、あなたの戦士たちと民の目の前で、ローマの兵士たちがあなたを——女王を——あなた自身の中庭の塵の中で裸にして鞭打った。財務長官カトゥス・デキアヌスが夫の遺言を無効とし、イケニの土地を帝国の財産として没収した後のことだ。娘たちは何もできない証人の前で侵辱された。ローマの金貸しがイケニの貴族が本当に同意したことのない借金を回収しながら、部族全体で財産を差し押さえている。屈辱の深さは言葉で測れない。\n\nあなたはブーディカであり、ローマ人が奪えなかったものを見つけた：怒りだ。それは乾いた草の中の火のように広がった。イケニ族は立ち上がった。隣接するトリノヴァンテス族も——彼らには独自のローマの暴虐のリスト、奪った土地に建てられた退役軍人植民地カムロドゥヌムの憎しみ、強制的に資金を出させられる神格化されたクラウディウスの巨大な神殿がある——反乱に加わった。部族の使者たちが、コリターニ族、ドゥロトリガエ族の入植地、その他の部族の戦士たちがあなたの旗の下に向かっていると報告する。\n\nローマ総督スエトニウス・パウリヌスはモナ島で最後のドルイドの聖域を破壊している。彼は素早くあなたに到達できない。ローマ属州ブリタンニアの入植地はほぼ無防備だ。\n\nあなたの戦争指導者たちが行軍前に戦略的な質問を提示する。カムロドゥヌム——トリノヴァンテス族の土地に建てられたローマ人退役軍人の植民地、憎しみを集めるクラウディウスの神殿がある——は2日以内の行軍距離にある最も近い重要な目標だ。しかし一部の顧問はロンディニウムへの素早い攻撃を主張する：より小さな入植地だが属州の交易・金融の中心地で、ブリテン人の苦しみで肥え太ったローマの商人と金貸しがいる。どの都市が最初に燃えるかが、この反乱の性格を決定する。",
+    "zh-CN": "背上的鞭痕还没有愈合。三周前，在你的战士和族人面前，罗马士兵将你——一位女王——在你自己庭院的尘土中剥衣鞭打，原因是财务官卡图斯·德基安努斯宣布你丈夫的遗嘱无效，并将爱西尼土地没收为帝国财产。你的女儿在无能为力的证人面前遭到侮辱。罗马高利贷者正在整个部落没收财产，追讨爱西尼贵族从未真正同意的债务。屈辱之深难以言表。\n\n你是布狄卡，你找到了罗马人无法夺走的东西：愤怒。它像干草中的火一样蔓延。爱西尼人已经起义。邻近的特里诺万特人，他们有自己的罗马暴行清单——建在被盗土地上的卡姆洛杜努姆憎恨的退役军团老兵殖民地，以及他们被迫资助的神格化的克劳狄乌斯巨型神庙——已经加入了起义。部落使者报告说，科里塔尼人、杜罗特里加人定居点和其他部落的战士正在涌向你的旗帜。\n\n罗马总督苏埃托尼乌斯·保利努斯正在莫纳岛摧毁最后的德鲁伊圣所。他无法迅速到达你这里。罗马不列颠的定居点几乎毫无防守。\n\n你的战争首领们在进军开始前向你提出了一个战略问题。卡姆洛杜努姆——建在特里诺万特土地上的罗马退役军团老兵殖民地，供奉憎恨的克劳狄乌斯神庙——是最近的重要目标，不到两天的行军距离。但一些顾问主张首先迅速打击伦丁尼乌姆：一个较小的定居点，但却是行省的贸易和金融中心，罗马商人和高利贷者在此靠不列颠人的苦难发家致富。哪座城市率先燃烧将决定这场起义的性质。"
+  },
+  "situationReport": [
+    {
+      "en": "Your combined force numbers over 100,000 warriors from Iceni, Trinovantes, and allied tribes. Governor Paulinus and his legions are on the island of Mona, weeks away from Britain's heartland.",
+      "ja": "あなたの合同軍はイケニ族、トリノヴァンテス族、同盟部族から10万人以上の戦士を数える。総督パウリヌスと軍団はモナ島にあり、ブリタンニアの中心地から数週間かかる。",
+      "zh-CN": "你的联合部队拥有来自爱西尼、特里诺万特和盟友部族的超过10万名战士。总督保利努斯和他的军团在莫纳岛上，距不列颠腹地数周之遥。"
+    },
+    {
+      "en": "Camulodunum (Colchester) has no walls and a small garrison of retired legionaries, perhaps 200 fighting men. The Trinovantes especially despise it — their sacred land was seized to build it.",
+      "ja": "カムロドゥヌム（コルチェスター）は城壁がなく、退役軍団兵のわずかな守備隊、おそらく200人の戦闘員だけだ。トリノヴァンテス族は特にそれを嫌悪する——彼らの聖地がそれを建てるために没収された。",
+      "zh-CN": "卡姆洛杜努姆（科尔切斯特）没有城墙，只有一小支退役军团老兵守备队，也许200名战斗人员。特里诺万特人特别憎恨它——他们的圣地被没收用来建造它。"
+    },
+    {
+      "en": "Londinium (London) is smaller but wealthier — the center of Roman financial activity in Britain. Burning it would strike at the economic foundation of the occupation, but it is further away and gives Paulinus more time to respond.",
+      "ja": "ロンディニウム（ロンドン）はより小さいがより裕福だ——ブリテンにおけるローマの金融活動の中心地。それを燃やすと占領の経済的基盤を打撃するが、より遠く、パウリヌスが対応する時間をより多く与える。",
+      "zh-CN": "伦丁尼乌姆（伦敦）较小但更富有——不列颠罗马金融活动的中心。燃烧它将打击占领的经济基础，但距离更远，给保利努斯更多时间来应对。"
+    },
+    {
+      "en": "Your army has no organized supply system. It must move and plunder to feed itself. A long campaign of strategic maneuvering is not possible — you must fight and win before Paulinus returns with his legions.",
+      "ja": "あなたの軍には組織化された補給システムがない。食料を得るために移動して略奪しなければならない。長期的な戦略的機動の作戦は不可能だ——パウリヌスが軍団と共に戻る前に戦って勝たなければならない。",
+      "zh-CN": "你的军队没有组织化的补给系统。它必须移动和掠夺才能养活自己。长期战略机动战役是不可能的——你必须在保利努斯带着军团回来之前战斗并取胜。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Strike the Roman settlements to avenge Iceni grievances and demonstrate that the Romans can be driven from Britain.",
+      "ja": "イケニ族の不満を晴らし、ローマ人がブリタンニアから追い出せることを示すためにローマの入植地を攻撃する。",
+      "zh-CN": "袭击罗马定居点以为爱西尼人的怨屈复仇，并证明罗马人可以被驱逐出不列颠。"
+    },
+    {
+      "en": "Maintain the tribal coalition long enough to face and defeat Paulinus's legions when they return.",
+      "ja": "パウリヌスの軍団が戻った時に直面して打ち負かすために十分な時間、部族連合を維持する。",
+      "zh-CN": "维持部落联盟足够长的时间，以便在保利努斯的军团返回时面对并击败他们。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your warriors demand vengeance and plunder — strategic restraint is nearly impossible. They will follow you into battle but not into patient, disciplined waiting.",
+      "ja": "あなたの戦士たちは復讐と略奪を求めている——戦略的な自制はほぼ不可能だ。彼らは戦闘であなたに従うが、忍耐強い規律ある待機には従わない。",
+      "zh-CN": "你的战士要求复仇和掠夺——战略上的克制几乎不可能。他们会在战斗中跟随你，但不会进行耐心、有纪律的等待。"
+    },
+    {
+      "en": "Time is your greatest enemy. Every week that passes gives Paulinus time to race back from Mona with experienced legions who are individually worth ten tribal warriors on a battlefield.",
+      "ja": "時間が最大の敵だ。過ぎる週ごとにパウリヌスは戦場で一対一では部族戦士十人に匹敵する経験豊富な軍団を連れてモナ島から急ぎ戻る時間を得る。",
+      "zh-CN": "时间是你最大的敌人。每过去一周，保利努斯就有时间从莫纳岛带着在战场上以一当十胜过部落战士的经验丰富的军团疾驰而回。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Strike Camulodunum first — destroy the most hated symbol of Roman oppression",
+        "ja": "まずカムロドゥヌムを攻撃する――ローマの抑圧の最も憎まれたシンボルを破壊する",
+        "zh-CN": "首先攻击卡姆洛杜努姆——摧毁罗马压迫最受憎恨的象征"
+      },
+      "description": {
+        "en": "March on Camulodunum immediately. This is the city the Trinovantes most hate — the veterans' colony built on their sacred ground. Destroying it and the Temple of Claudius will inflame the rest of Britain and demonstrate Roman vulnerability. Then march west to Londinium and north to Verulamium, burning all three before Paulinus can return.",
+        "ja": "直ちにカムロドゥヌムに向かって行軍する。これはトリノヴァンテス族が最も憎む都市——彼らの聖地に建てられた退役軍人植民地だ。それとクラウディウスの神殿を破壊することでブリテンの残りを燃え立たせ、ローマの脆弱性を示す。次にロンディニウムに向けて西に進み、ウェルラミウムに北上し、パウリヌスが戻れる前に三つすべてを燃やす。",
+        "zh-CN": "立即向卡姆洛杜努姆进军。这是特里诺万特人最憎恨的城市——建在他们圣地上的退役军团老兵殖民地。摧毁它和克劳狄乌斯神庙将激励不列颠其余部分并展示罗马的脆弱性。然后向西进军至伦丁尼乌姆，向北至维鲁拉米乌姆，在保利努斯能够返回之前将三座城市全部烧毁。"
+      },
+      "historicalContext": "This is the historical choice Boudicca made. The revolt struck Camulodunum first, then Londinium, then Verulamium. The destruction of all three was total — archaeology confirms the 'Boudicca destruction layer' at all three sites. The Temple of Claudius held out for two days before being stormed and burned. Governor Paulinus abandoned Londinium to its fate rather than defend it with insufficient forces, marching his legions north to find a defensive position of his choosing.",
+      "outcomePrompt": {
+        "en": "The march on Camulodunum is swift. The retired Roman veterans there send desperately to the procurator for help — Catus Decianus, the man who had you flogged, sends only 200 inadequately armed soldiers before fleeing to Gaul. The city has no walls.\n\nThe sack of Camulodunum takes two days. The Roman veterans barricade themselves in the Temple of Claudius — the great hated monument to Roman divine power — and hold for another two days before your warriors break down the doors and burn it with them inside. There is no mercy, and none is asked for.\n\nThe news spreads across Britain like fire across moorland. Roman settlers are fleeing toward Londinium. Paulinus, receiving word on Mona, abandons the island and races south with his legions — but he is weeks away. His cavalry reach Londinium first and report that defending it is impossible.\n\nYou march west, burning everything in your path. The choice of next targets — Londinium and then Verulamium — waits ahead. Britain trembles. For this moment, you are free.",
+        "ja": "カムロドゥヌムへの行軍は迅速だ。そこの退役ローマ軍人たちは絶望的に財務長官に助けを求める——あなたを鞭打った男カトゥス・デキアヌスは、ガリアに逃げる前に不十分な武装の兵士わずか200人しか送らない。街には城壁がない。\n\nカムロドゥヌムの略奪は2日かかる。ローマの退役軍人たちはクラウディウスの神殿——ローマの神的権力への偉大な憎まれた記念碑——に立てこもる。あなたの戦士たちが扉を破り、中にいる彼らと共に燃やすまで、さらに2日間持ちこたえる。慈悲はなく、慈悲も求められない。\n\n知らせはブリテン中に荒野の火のように広まる。ローマの入植者たちはロンディニウムに向かって逃げている。モナ島で知らせを受けたパウリヌスは島を放棄して軍団と共に南に急ぐが、数週間かかる。彼の騎兵が先にロンディニウムに到達し、防衛が不可能と報告する。\n\n西に向かって進軍し、道中のすべてを燃やす。次の目標——ロンディニウム、次にウェルラミウム——の選択が前方に待っている。ブリタンニアは震える。この瞬間、あなたは自由だ。",
+        "zh-CN": "向卡姆洛杜努姆的进军迅速。那里的罗马退役军团老兵绝望地向财务官求援——鞭打过你的那个人卡图斯·德基安努斯在逃往高卢之前只派来200名装备不足的士兵。城市没有城墙。\n\n劫掠卡姆洛杜努姆花了两天时间。罗马退役老兵把自己关在克劳狄乌斯神庙里——这座对罗马神圣权力的伟大憎恨纪念碑——再坚守了两天，直到你的战士破门而入，与他们一起烧毁了它。没有怜悯，也没有人寻求怜悯。\n\n消息像荒野上的大火一样在不列颠传播。罗马定居者正在逃往伦丁尼乌姆。正在莫纳岛的保利努斯接到消息，放弃了岛屿，率军团疾速南下——但他还有数周的路程。他的骑兵先到达伦丁尼乌姆，报告防守那里是不可能的。\n\n你向西进军，一路烧毁一切。下一个目标——伦丁尼乌姆，然后是维鲁拉米乌姆——的选择在前方等待。不列颠颤抖。在这一刻，你自由了。"
+      },
+      "stateChanges": [
+        { "variable": "tribalUnity", "operation": "add", "value": 15 },
+        { "variable": "romanFear", "operation": "add", "value": 25 },
+        { "variable": "strategicPosition", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": "boudicca-revolt-60-scene-002"
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Strike Londinium first — cut the financial heart of the occupation",
+        "ja": "まずロンディニウムを攻撃する――占領の金融の心臓を断ち切る",
+        "zh-CN": "首先攻击伦丁尼乌姆——切断占领的金融心脏"
+      },
+      "description": {
+        "en": "March directly to Londinium, bypassing Camulodunum. The trading hub is the economic nerve center of Roman Britain — its Roman merchants, moneylenders, and tax collectors are the direct instruments of the financial oppression that has driven tribes to desperation. Burning Londinium first strikes at Roman economic power and may cause a financial panic that paralyzes the occupiers. Then turn to Camulodunum and Verulamium.",
+        "ja": "カムロドゥヌムを迂回して、直接ロンディニウムに向かって行軍する。この交易の中心地はローマ属州ブリタンニアの経済的神経中枢だ——ローマの商人、金貸し、徴税吏は、部族を絶望に追い込んだ財政的抑圧の直接の道具だ。まずロンディニウムを燃やすことでローマの経済力を打撃し、占領者を麻痺させる財政的パニックを引き起こすかもしれない。次にカムロドゥヌムとウェルラミウムに向かう。",
+        "zh-CN": "绕过卡姆洛杜努姆，直接向伦丁尼乌姆进军。这个贸易中心是罗马不列颠的经济神经中枢——罗马商人、高利贷者和税务官是使部落陷入绝境的金融压迫的直接工具。首先焚烧伦丁尼乌姆打击罗马经济力量，可能引发使占领者瘫痪的金融恐慌。然后再转向卡姆洛杜努姆和维鲁拉米乌姆。"
+      },
+      "historicalContext": "This is the counterfactual — Boudicca historically struck Camulodunum first, which was the most symbolically significant target for her Trinovantian allies. Striking Londinium first would have been strategically interesting but would have required bypassing the site of the greatest Trinovantian grievances, potentially fraying the alliance. Historically, all three cities were destroyed in sequence over a period of weeks.",
+      "outcomePrompt": {
+        "en": "You march west toward Londinium. The Trinovantes murmur — Camulodunum, the site of their stolen sacred ground, is passed without burning — but they follow because the coalition's momentum is too strong to resist. You reach Londinium in four days.\n\nThe city is barely defended. The financial community — Roman bankers, tax farmers, merchants — flees in panic before you arrive, many taking their wealth with them. The killing and burning are still significant, but less satisfying: many of the most hated oppressors have escaped. The treasury buildings hold some wealth, but the personal fortunes of Londinium's elite are mostly gone.\n\nThe Trinovantes grow louder in their demands to turn east and burn Camulodunum. Their spiritual debt is still unpaid. You must manage the coalition carefully. You turn east for Camulodunum, then north for Verulamium.\n\nThe three cities fall. But the advance warning given by bypassing Camulodunum has allowed more Romans to flee and more wealth to be carried away. The symbolic impact is somewhat reduced, and your Trinovantian allies feel their specific grievances were deprioritized. Their unity wavers slightly, a crack that may matter when Paulinus returns.",
+        "ja": "ロンディニウムに向かって西に行軍する。トリノヴァンテス族はつぶやく——彼らの奪われた聖地の場所であるカムロドゥヌムが燃やされることなく通り過ぎられる——しかし連合の勢いは抵抗するには強すぎるため従う。4日でロンディニウムに到達する。\n\n街はほとんど防衛されていない。金融コミュニティ——ローマの銀行家、徴税請負人、商人——はあなたが到着する前にパニックになって逃げ、多くが財産を持ち去る。殺戮と放火は依然として重大だが、満足感は少ない：最も憎まれた抑圧者の多くが逃れてしまった。財務庁の建物にはいくらかの富があるが、ロンディニウムのエリートの個人的な財産はほとんどなくなっている。\n\nトリノヴァンテス族は東に向かってカムロドゥヌムを燃やすよう要求する声が大きくなる。彼らの精神的な負債はまだ払われていない。あなたは連合を慎重に管理しなければならない。東のカムロドゥヌムに向かい、次に北のウェルラミウムに向かう。\n\n三つの都市は陥落する。しかしカムロドゥヌムを迂回することで与えられた事前警告により、より多くのローマ人が逃げ、より多くの富が運ばれた。象徴的な影響はやや軽減され、トリノヴァンテスの同盟者は自分たちの特定の不満が優先度を下げられたと感じている。彼らの結束がわずかに揺らぎ、パウリヌスが戻った時に問題になりうる亀裂となっている。",
+        "zh-CN": "你向西进军至伦丁尼乌姆。特里诺万特人低声抱怨——卡姆洛杜努姆，他们被盗圣地的所在，被绕过而没有焚烧——但他们跟随，因为联盟的势头太强难以抗拒。四天后到达伦丁尼乌姆。\n\n城市几乎没有防守。金融界——罗马银行家、包税人、商人——在你到达之前便惊慌逃离，许多人带走了他们的财富。杀戮和燃烧仍然是严重的，但满足感较少：许多最受憎恨的压迫者逃脱了。财政大楼里有些财富，但伦丁尼乌姆精英的个人财富大多消失了。\n\n特里诺万特人越来越响亮地要求转向东方焚烧卡姆洛杜努姆。他们精神上的债务仍未还清。你必须谨慎管理联盟。你向东转向卡姆洛杜努姆，然后北上至维鲁拉米乌姆。\n\n三座城市陷落。但绕过卡姆洛杜努姆给予的提前警告使更多罗马人逃跑，更多财富被带走。象征性影响有所减少，你的特里诺万特盟友感到他们具体的不满被降低了优先级。他们的团结略有动摇，这是一个裂缝，当保利努斯回来时可能会很重要。"
+      },
+      "stateChanges": [
+        { "variable": "tribalUnity", "operation": "add", "value": 5 },
+        { "variable": "romanFear", "operation": "add", "value": 15 },
+        { "variable": "strategicPosition", "operation": "add", "value": 5 }
+      ],
+      "nextSceneId": "boudicca-revolt-60-scene-002"
+    }
+  ]
+}

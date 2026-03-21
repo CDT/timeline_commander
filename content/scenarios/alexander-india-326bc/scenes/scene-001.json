@@ -1,0 +1,115 @@
+{
+  "id": "alexander-india-326bc-scene-001",
+  "scenarioId": "alexander-india-326bc",
+  "title": {
+    "en": "The Rain-Swollen River",
+    "ja": "増水した大河",
+    "zh-CN": "暴涨的河流"
+  },
+  "date": {
+    "en": "Early May, 326 BC",
+    "ja": "紀元前326年5月初旬",
+    "zh-CN": "公元前326年5月初"
+  },
+  "location": {
+    "en": "Western bank of the Hydaspes River, Punjab",
+    "ja": "ヒュダスペス川西岸、パンジャーブ",
+    "zh-CN": "希达斯佩斯河西岸，旁遮普"
+  },
+  "narrativePrompt": {
+    "en": "The monsoon rain hammers the canvas of your command tent as you study the far bank of the Hydaspes through the grey curtain of water. For two weeks you have camped here, watching King Porus's army grow in confidence on the opposite shore. His war elephants are visible even through the rain — dark shapes like moving hills, their trumpeting carrying across the swollen river. Your scouts report the river is nearly half a mile wide at this point, with treacherous currents that have already drowned several men who attempted to test the crossing.\n\nYour generals have gathered for a war council. Craterus, ever the steady hand, reports that the men are growing restless. Supplies are adequate for now, but the monsoon is rotting grain and spreading fever through the camp. Ptolemy brings intelligence from local informants: Porus has positioned his elephants at every viable crossing point along a twenty-mile stretch of river. Coenus, who has fought beside you since Granicus, speaks plainly — the men will fight, but they need to believe the plan will work.\n\nYou have spent days riding along the riverbank, studying the terrain, and devising your strategy. Your scouts have identified a crossing point seventeen miles upstream where a wooded island divides the river into two narrower channels. The far bank there is screened by thick jungle. But reaching it undetected will require moving thousands of troops through muddy terrain at night, and the crossing itself will be perilous in the monsoon-swollen waters. The alternative is to attempt a direct crossing here, using your numerical advantage in infantry to overwhelm Porus's defenders — but the elephants could devastate your men as they struggle through the water. You must decide: how will you cross the Hydaspes?",
+    "ja": "モンスーンの雨が指揮天幕の帆布を叩く中、あなたは灰色の雨のカーテンを通してヒュダスペス川の対岸を観察している。二週間ここに陣を敷き、対岸でポロス王の軍が自信を深めていくのを見てきた。戦象は雨の中でも見える——動く丘のような黒い影で、その咆哮は増水した川を越えて響いてくる。斥候の報告によれば、この地点で川幅はほぼ半マイルに達し、渡河を試みた数名の兵士がすでに危険な流れに飲まれて溺死している。\n\nあなたの将軍たちが軍議のために集まった。常に安定した指揮を見せるクラテロスは、兵士たちが落ち着きを失いつつあると報告する。補給は今のところ十分だが、モンスーンが穀物を腐らせ、陣営に熱病を蔓延させている。プトレマイオスが現地の情報提供者からの情報を持ってくる。ポロスは川の20マイルの範囲にわたるすべての渡河可能な地点に象を配置している。グラニコス以来あなたとともに戦ってきたコエヌスは率直に語る——兵士たちは戦うが、作戦がうまくいくと信じる必要がある。\n\nあなたは数日かけて川岸を馬で走り、地形を研究し、戦略を練ってきた。斥候が上流17マイルの地点に、樹木の茂った島が川を二つの狭い水路に分ける渡河地点を発見した。対岸はそこでは密林に覆われている。しかし、気づかれずにそこに到達するには、夜間に泥だらけの地形を通って数千の兵士を移動させる必要があり、渡河自体もモンスーンで増水した水の中では危険を伴う。もう一つの選択肢は、ここで直接渡河を試み、歩兵の数的優位を使ってポロスの防衛を圧倒することだ。しかし、兵士たちが水中でもがいている間に象が壊滅的な被害を与える可能性がある。あなたは決断しなければならない——どのようにしてヒュダスペスを渡るのか？",
+    "zh-CN": "季风暴雨敲打着你指挥帐篷的帆布，你透过灰色的雨幕观察着希达斯佩斯河对岸。两周以来你一直在此扎营，看着波鲁斯王的军队在对岸日益自信。即使透过雨帘，他的战象依然清晰可见——如同移动的山丘般的黑色轮廓，它们的嘶鸣声穿越暴涨的河面传来。你的斥候报告说，这里河面宽近半英里，险恶的水流已经淹死了几名试图探路的士兵。\n\n你的将领们聚集起来召开军事会议。一向沉稳的克拉特鲁斯报告说士兵们越来越焦躁不安。目前补给尚且充足，但季风正在使粮食腐烂，疾病在营中蔓延。托勒密带来了当地线人的情报：波鲁斯在沿河二十英里范围内的每个可行渡河点都部署了战象。从格拉尼库斯起就与你并肩作战的科纳斯直言不讳——士兵们愿意战斗，但他们需要相信计划能够成功。\n\n你已经花了好几天骑马沿河岸巡视，研究地形，制定战略。你的斥候在上游十七英里处发现了一个渡河点，那里有一座树木茂密的岛屿将河流分为两条较窄的水道。对岸被茂密的丛林所遮蔽。但要不被发现地抵达那里，需要在夜间穿过泥泞的地形转移数千兵力，而渡河本身在季风暴涨的水中也十分危险。另一个选择是在此处直接强渡，利用步兵的数量优势压倒波鲁斯的防守——但当你的士兵在水中挣扎时，战象可能对他们造成毁灭性的打击。你必须做出决断：如何渡过希达斯佩斯河？"
+  },
+  "situationReport": [
+    {
+      "en": "The Hydaspes River is nearly half a mile wide and running fast with monsoon floodwaters, making any crossing extremely hazardous.",
+      "ja": "ヒュダスペス川は川幅がほぼ半マイルに達し、モンスーンの洪水で急流となっており、渡河は極めて危険である。",
+      "zh-CN": "希达斯佩斯河宽近半英里，季风洪水使水流湍急，任何渡河行动都极为危险。"
+    },
+    {
+      "en": "King Porus has deployed over 200 war elephants along the riverbank at every viable crossing point within a twenty-mile stretch.",
+      "ja": "ポロス王は20マイルの範囲内のすべての渡河可能地点に200頭以上の戦象を配置している。",
+      "zh-CN": "波鲁斯王在二十英里范围内的每个可行渡河点沿河岸部署了两百多头战象。"
+    },
+    {
+      "en": "A potential upstream crossing point has been identified 17 miles north, where a wooded island provides concealment, but the night march will be arduous.",
+      "ja": "上流17マイル北に渡河候補地が発見された。樹木の茂った島が遮蔽を提供するが、夜間行軍は困難を極める。",
+      "zh-CN": "在上游十七英里处发现了一个潜在的渡河点，那里有一座树木茂密的岛屿提供掩护，但夜间行军将十分艰苦。"
+    },
+    {
+      "en": "Army morale is declining due to monsoon conditions, disease in camp, and uncertainty about facing war elephants in battle.",
+      "ja": "モンスーンの環境、陣営での疫病、戦象との戦いへの不安により、軍の士気は低下している。",
+      "zh-CN": "由于季风环境恶劣、营地疾病蔓延以及对战象的恐惧，军队士气正在下降。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Devise a plan to cross the Hydaspes River while neutralizing Porus's defensive advantage",
+      "ja": "ポロスの防御上の優位を無力化しつつ、ヒュダスペス川を渡河する計画を立案する",
+      "zh-CN": "制定渡河计划，同时瓦解波鲁斯的防御优势"
+    },
+    {
+      "en": "Maintain army cohesion and prevent a collapse of morale before the crossing attempt",
+      "ja": "渡河作戦前に軍の結束を維持し、士気の崩壊を防ぐ",
+      "zh-CN": "在渡河行动前维持军队的团结，防止士气崩溃"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Any large-scale troop movement risks detection by Porus's scouts watching from the far bank",
+      "ja": "大規模な兵力移動は対岸から監視しているポロスの斥候に発見される危険がある",
+      "zh-CN": "任何大规模的部队调动都有被对岸波鲁斯斥候发现的风险"
+    },
+    {
+      "en": "The monsoon weather limits visibility but also makes river crossings and overland marches more dangerous",
+      "ja": "モンスーンの天候は視界を制限するが、渡河と陸上行軍もより危険にする",
+      "zh-CN": "季风天气限制了能见度，但同时也使渡河和陆路行军更加危险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Execute the upstream flanking maneuver: secretly march the main strike force 17 miles north under cover of darkness and storm, cross at the wooded island, while Craterus remains at camp with a diversionary force to pin Porus in place.",
+        "ja": "上流迂回作戦を実行する：闇と嵐に紛れて主力突撃部隊を密かに北へ17マイル行軍させ、樹木の茂った島で渡河する。クラテロスは陣営に残り、陽動部隊でポロスを釘付けにする。",
+        "zh-CN": "执行上游迂回机动：利用夜色和暴风雨的掩护，秘密将主力突击部队向北行军十七英里，在树木茂密的岛屿处渡河，同时克拉特鲁斯留在营地率佯攻部队牵制波鲁斯。"
+      },
+      "historicalContext": "This is what Alexander actually did. He used deception and a night march during a thunderstorm to cross upstream undetected, achieving complete tactical surprise.",
+      "outcomePrompt": {
+        "en": "The plan is set in motion with the precision that has defined your campaigns. As night falls and a thunderstorm rolls across the Punjab plain, you lead your elite cavalry and picked infantry units north along the riverbank, screened by the curtain of rain. The march is grueling — men slip and stumble through knee-deep mud, horses snort nervously at the lightning, and the constant downpour soaks through every layer of clothing and armor. But your veterans press on, trusting in your judgment as they have so many times before.\n\nBack at the main camp, Craterus plays his part to perfection. His troops make a show of preparing for a crossing — lighting extra campfires, moving boats to the water's edge, sounding trumpets at intervals. Porus's sentries, watching through the rain, see exactly what you want them to see: an army preparing for a frontal assault at dawn.\n\nBy the time your strike force reaches the wooded island, the storm is at its peak. The crossing is harrowing — boats are swept downstream, men cling to horses swimming through the current, and for several terrifying minutes it seems the river might claim your army before Porus gets the chance. But your men make it across, and as dawn breaks through the clouds, you stand on the eastern bank of the Hydaspes with a powerful force that Porus does not yet know is there. The element of surprise is yours.",
+        "ja": "あなたの作戦はこれまでの遠征を特徴づけてきた精密さで実行に移される。夜が降りパンジャーブ平原に雷雨が押し寄せると、あなたは精鋭騎兵と選抜歩兵部隊を率いて雨のカーテンに隠れながら川岸を北へ進む。行軍は過酷だ——兵士たちは膝まで泥に浸かりながら滑り転び、馬は稲光に怯えていなないき、絶え間ない豪雨がすべての衣服と鎧を濡らし尽くす。しかし、あなたの古参兵たちはこれまで何度もそうしてきたように、あなたの判断を信じて進み続ける。\n\n本営ではクラテロスが完璧に役割を果たしている。彼の部隊は渡河準備の見せかけを行う——余分な篝火を焚き、船を水際に移動させ、間隔をおいてラッパを鳴らす。雨の中を見張るポロスの歩哨は、あなたが見せたいものだけを目にする。夜明けに正面強襲を準備する軍の姿を。\n\nあなたの突撃部隊が樹木の茂った島に到達する頃には、嵐は最高潮に達している。渡河は恐ろしい——船は下流に流され、兵士たちは流れを泳ぐ馬にしがみつき、数分間の恐怖の中、ポロスにその機会を与える前に川があなたの軍を飲み込むかに思われる。しかし兵士たちは渡りきり、雲間から夜が明けると、あなたはポロスがまだ存在を知らない強力な部隊とともにヒュダスペス川の東岸に立っている。奇襲の機会はあなたの手の中にある。",
+        "zh-CN": "计划以你历次战役一贯的精确性付诸实施。夜幕降临，雷暴席卷旁遮普平原，你率领精锐骑兵和精选步兵沿河岸向北推进，被雨幕所遮蔽。行军异常艰苦——士兵们在齐膝深的泥浆中跌跌撞撞，战马被闪电惊得嘶鸣不安，倾盆大雨浸透了每一层衣物和铠甲。但你的老兵们坚持前进，一如既往地信任你的判断。\n\n在主营地，克拉特鲁斯完美地扮演着他的角色。他的部队佯装准备渡河——点燃额外的营火，将船只推到水边，间歇性地吹响号角。透过雨帘监视的波鲁斯哨兵们看到的正是你想让他们看到的：一支正在准备黎明正面强攻的军队。\n\n当你的突击部队抵达那座树木茂密的岛屿时，暴风雨正达到顶峰。渡河过程惊心动魄——船只被冲向下游，士兵们紧紧抓住在激流中泅渡的战马，有好几分钟的恐怖时刻，似乎河流会在波鲁斯出手之前就吞没你的军队。但你的士兵们成功渡过，当曙光穿破云层时，你率领一支波鲁斯尚不知晓的强大兵力站在了希达斯佩斯河东岸。奇袭的优势在你手中。"
+      },
+      "nextSceneId": "alexander-india-326bc-scene-002",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 25 },
+        { "variable": "armyMorale", "operation": "add", "value": 10 },
+        { "variable": "alexanderPrestige", "operation": "add", "value": 10 },
+        { "variable": "armyStrength", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Launch a direct frontal crossing at dawn with the full army: use massed archery and artillery to suppress the elephants while infantry crosses on boats and improvised rafts, relying on overwhelming numbers to establish a beachhead.",
+        "ja": "夜明けに全軍で正面渡河を決行する：集中弓射と砲撃で戦象を制圧しつつ、歩兵が船と即席の筏で渡河し、圧倒的な兵力で橋頭堡を確保する。",
+        "zh-CN": "在黎明时分率全军正面强渡：集中弓箭手和攻城器械压制战象，步兵乘船和临时木筏渡河，依靠压倒性的兵力建立滩头阵地。"
+      },
+      "historicalContext": "Alexander considered but rejected this approach. A frontal crossing against prepared defenses with war elephants would have resulted in catastrophic casualties, as the elephants would have panicked the horses and devastated infantry struggling in the water.",
+      "outcomePrompt": {
+        "en": "Dawn breaks over the Hydaspes and your army surges toward the river in a massive frontal assault. Your archers and siege engines open a barrage against the far bank, sending volleys of arrows and stones arcing across the water toward the line of war elephants. But the range is extreme, and the rain-swept wind scatters your missiles wide. The elephants, protected by thick hides and armored howdahs, barely flinch.\n\nAs your infantry begins to cross on boats and hastily lashed-together rafts, the true horror of the situation reveals itself. The current is far stronger than anticipated, sweeping boats downstream and capsizing several rafts. Men in heavy armor are dragged beneath the muddy water. Those who make it to the shallows near the far bank are met by Porus's elephants, which wade into the water with terrifying ease. The great beasts trample men and overturn boats with their trunks, while Indian archers on their backs rain arrows down on your struggling soldiers.\n\nYour cavalry cannot cross at all — the horses refuse to enter the water with the elephants so close, rearing and throwing their riders in panic. After two hours of bloody chaos, you are forced to sound the retreat. Hundreds of your men lie dead in the river, and morale has taken a devastating blow. Your army has crossed many rivers before, but never against an enemy like this. You must find another way — and quickly, before your men lose faith entirely.",
+        "ja": "ヒュダスペスに夜が明け、あなたの軍は大規模な正面攻撃で川に向かって突進する。弓兵と攻城兵器が対岸への弾幕射撃を開始し、矢と石の斉射が水面を越えて戦象の列に向かって弧を描く。しかし射程は極限に近く、雨と風がミサイルを大きく散らす。厚い皮と装甲された輿に守られた象はほとんど動じない。\n\n歩兵が船と急ごしらえの筏で渡河を開始すると、状況の恐ろしさが露わになる。流れは予想をはるかに超える強さで、船を下流に押し流し、いくつかの筏を転覆させる。重い鎧を着た兵士たちが泥水の下に引きずり込まれる。対岸近くの浅瀬にたどり着いた者は、恐ろしいほど容易に水中に入ってくるポロスの象に迎え撃たれる。巨大な獣は兵士を踏みつぶし、鼻で船を転覆させ、背中のインドの弓兵がもがく兵士たちに矢の雨を降らせる。\n\n騎兵はまったく渡河できない——馬は象がこれほど近くにいる水に入ることを拒否し、恐怖で立ち上がり騎手を振り落とす。二時間の血みどろの混乱の後、あなたは撤退を命じざるを得ない。何百人もの兵士が川の中に横たわり、士気は壊滅的な打撃を受けた。あなたの軍はこれまで多くの川を渡ってきたが、このような敵に対したことはなかった。別の方法を見つけなければならない——そして早急に、兵士たちが完全に信頼を失う前に。",
+        "zh-CN": "曙光照亮希达斯佩斯河，你的军队发起大规模正面强攻冲向河面。弓箭手和攻城器械对对岸发起齐射，箭矢和石弹越过水面飞向战象队列。但射程太远，雨中的风将投射物吹得偏离目标。被厚皮和装甲象轿保护的战象几乎纹丝不动。\n\n当步兵开始乘船和匆忙捆扎的木筏渡河时，局势的恐怖真相暴露无遗。水流远比预想的强劲，将船只冲向下游，掀翻了几只木筏。穿着沉重铠甲的士兵被拖入浑浊的水下。那些勉强抵达对岸浅滩的人遭到波鲁斯战象的迎击——巨兽以令人恐惧的轻松姿态涉入水中，用脚踩踏士兵，用象鼻掀翻船只，背上的印度弓箭手向在水中挣扎的士兵们倾泻箭雨。\n\n你的骑兵根本无法渡河——战马拒绝在战象如此近距离的情况下入水，惊恐地直立将骑手甩落。经过两个小时的血腥混战，你被迫下令撤退。数百名士兵的尸体横陈河中，士气遭到毁灭性打击。你的军队以前渡过许多河流，但从未面对过这样的敌人。你必须找到另一条路——而且要快，在士兵们彻底丧失信心之前。"
+      },
+      "nextSceneId": "alexander-india-326bc-scene-002",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": -15 },
+        { "variable": "armyMorale", "operation": "add", "value": -20 },
+        { "variable": "armyStrength", "operation": "add", "value": -15 },
+        { "variable": "pauravaThreat", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

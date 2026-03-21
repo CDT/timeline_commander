@@ -1,0 +1,113 @@
+{
+  "id": "caesar-assassination-44bc-scene-002",
+  "scenarioId": "caesar-assassination-44bc",
+  "title": {
+    "en": "The Ides of March",
+    "ja": "三月のイデス",
+    "zh-CN": "三月望日"
+  },
+  "date": {
+    "en": "March 15, 44 BC",
+    "ja": "紀元前44年3月15日",
+    "zh-CN": "公元前44年3月15日"
+  },
+  "location": {
+    "en": "The Theatre of Pompey, Rome",
+    "ja": "ローマ、ポンペイウス劇場",
+    "zh-CN": "罗马，庞培剧院"
+  },
+  "narrativePrompt": {
+    "en": "The morning of the Ides has come. Caesar's litter bearers carried him to the Theatre of Pompey through streets thronged with the ordinary life of Rome — merchants calling, children running, the smell of bread from the bakeries. Omens have plagued him: his wife Calpurnia dreamed of his statue spouting blood, and the priests who examined the sacrificial animals this morning reported that the victim had no heart. Caesar dismissed them. He is a rational man who does not believe in such things. Or perhaps he simply does not wish to appear afraid.\n\nIn the portico outside the Senate chamber, the conspirators have gathered. More than twenty men, each with a short blade concealed in the folds of his toga. Cassius stands to your left, his face controlled but his eyes bright. Around the marble colonnade, the others take their positions with practiced casualness, as if meeting by chance.\n\nA complication has already arisen. A senator named Popilius Laenas approached you this morning and whispered that he knew of the conspiracy and wished you well. He has now entered the Senate chamber and is speaking intently with Caesar, gesturing emphatically. Caesar's expression is unreadable. Cassius grips your arm and hisses — is Laenas betraying you? Should you strike now, before Caesar can act? But Caesar might still be unaware. If you move prematurely, in open daylight outside the chamber, the confusion could allow Caesar to escape or his bodyguards to intervene — he still has lictors nearby, even if his Spanish guard is dismissed. The moment is balanced on a knife's edge.\n\nNow Laenas backs away from Caesar, smiling. It was something else. A mundane matter. Caesar has not been warned. The meeting begins. Caesar takes his seat. The conspirators close in around him, pressing forward under the pretense of presenting a petition on behalf of Tillius Cimber's exiled brother. The moment is now.",
+    "ja": "イデスの朝が来た。カエサルの輿担ぎが彼を、商人の呼び声、走り回る子供たち、パン屋からのパンの匂いという普通のローマの生活で溢れた通りを通って、ポンペイウス劇場に運んできた。不吉な予兆が彼を悩ませてきた：妻カルプルニアは彼の像が血を噴き出す夢を見た。今朝、生贄の動物を調べた祭司たちは、犠牲の牛に心臓がなかったと報告した。カエサルはそれらを退けた。彼はそのようなことを信じない合理的な人物だ。あるいはただ、恐れているように見えたくないのかもしれない。\n\n元老院議場の外の玄関廊下で、陰謀者たちが集まっている。20人以上の男たちが、それぞれトガの折り目に隠した短剣を持っている。カッシウスが左に立ち、表情は落ち着いているが目が輝いている。大理石の柱廊のあちこちで、他の者たちがまるで偶然会ったかのように、練習された何気なさで位置についている。\n\nすでに複雑な問題が生じている。ポピリウス・ラエナスという元老院議員が今朝あなたに近づき、陰謀を知っており幸運を祈っていると囁いた。彼は今、元老院議場に入ってカエサルと熱心に話し、力強く身振りをしている。カエサルの表情は読めない。カッシウスが腕を掴み、ラエナスが裏切っているのかと囁く。今すぐ動くべきか、カエサルが行動する前に？しかしカエサルはまだ気づいていないかもしれない。議場の外の真昼の光の中で早まって動けば、混乱でカエサルが逃げるか護衛が介入する可能性がある。スペイン人護衛隊は解散しても、近くにまだリクトルがいる。瞬間は刃の上でバランスを取っている。\n\n今、ラエナスが微笑みながらカエサルから後退する。別の何かだった。些細な問題。カエサルは警告されていない。会議が始まる。カエサルが着席する。陰謀者たちがティッリウス・キンベルの追放された兄弟のための請願を提出する振りをしながら彼の周りに押し寄せる。その瞬間が今、ここにある。",
+    "zh-CN": "望日的早晨来临了。凯撒的轿夫将他穿过充满罗马寻常生活的街道运往庞培剧院——商贩的叫卖声，奔跑的孩童，面包房飘来的面包香气。不祥的预兆一直困扰着他：妻子卡尔普尼娅梦见他的雕像喷血；今晨检查祭品动物的祭司报告说，祭牲没有心脏。凯撒将这些统统置之不理。他是个不相信此类事情的理性之人。或许他只是不想显得害怕。\n\n在元老院议事厅外的门廊里，密谋者们已经聚集。二十多名男子，每人在托加长袍的褶皱中藏着一把短刃。卡西乌斯立于你左侧，神情从容但双眼熠熠发光。大理石柱廊四周，其他人以练习过的随意神态各就各位，仿佛只是偶然相遇。\n\n一个复杂情况已经出现。一位名叫波皮利乌斯·拉埃纳斯的元老院议员今晨走近你，低声说他知道阴谋的存在，并祝你顺利。他现在已进入议事厅，正在与凯撒热切交谈，手势夸张。凯撒的表情难以解读。卡西乌斯攥住你的手臂，低声质问——拉埃纳斯是在出卖你们吗？该不该现在就动手，赶在凯撒采取行动之前？但凯撒或许仍一无所知。如果在议事厅外的白昼下仓促出手，混乱可能让凯撒逃脱或让他的护卫介入——虽然他的西班牙卫队已解散，但附近仍有随从官员。这一刻悬于刀刃之上。\n\n此刻拉埃纳斯微笑着从凯撒身边退开。不过是另一件事。一件无关紧要的小事。凯撒并未被预警。会议开始了。凯撒入座。密谋者们以呈递请愿书的名义——为提利乌斯·辛伯被流放的兄弟——涌向凯撒，将他团团围住。那个时刻，现在，就在此刻。"
+  },
+  "situationReport": [
+    {
+      "en": "Caesar has entered the Theatre of Pompey and is seated; the conspirators have surrounded him under pretense of petition",
+      "ja": "カエサルがポンペイウス劇場に入り着席した。陰謀者たちが請願の振りをして彼を囲んでいる",
+      "zh-CN": "凯撒已进入庞培剧院并就座；密谋者们以呈递请愿为由将他团团围住"
+    },
+    {
+      "en": "The scare with Popilius Laenas has passed — Caesar was not warned; the plan remains intact",
+      "ja": "ポピリウス・ラエナスの一件は過ぎた——カエサルは警告されておらず、計画は依然として無傷だ",
+      "zh-CN": "波皮利乌斯·拉埃纳斯引发的惊慌已经过去——凯撒未被预警；计划仍完好无损"
+    },
+    {
+      "en": "Over twenty conspirators are in position; the signal must be given before the moment is lost",
+      "ja": "20人以上の陰謀者が位置についている。機会を逃す前に合図を送らなければならない",
+      "zh-CN": "二十多名密谋者各就各位；必须在时机失去之前发出信号"
+    },
+    {
+      "en": "Mark Antony has been detained or neutralized outside the chamber according to plan",
+      "ja": "マルクス・アントニウスは計画通り議場の外で拘束または無力化されている",
+      "zh-CN": "马克·安东尼已按计划在议事厅外被拘押或制约"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Execute the assassination and escape the Theatre without triggering a panic that kills conspirators",
+      "ja": "暗殺を実行し、陰謀者を殺す混乱を引き起こさずに劇場から脱出する",
+      "zh-CN": "执行刺杀并撤离剧院，同时避免引发可能危及密谋者的恐慌"
+    },
+    {
+      "en": "Immediately address the Roman people and shape how the act will be remembered",
+      "ja": "直ちにローマ市民に訴えかけ、この行為がどのように記憶されるかを形成する",
+      "zh-CN": "立即向罗马人民发表演说，塑造这一行动将被铭记的方式"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The assassination must proceed quickly — hesitation or a botched first strike could alert Caesar's lictors",
+      "ja": "暗殺は迅速に進めなければならない——躊躇や最初の攻撃の失敗はカエサルのリクトルを警戒させる可能性がある",
+      "zh-CN": "刺杀必须迅速进行——犹豫或第一击失手可能惊动凯撒的随从官员"
+    },
+    {
+      "en": "The Roman populace's reaction is unknown — they loved Caesar; the streets outside could turn dangerous within hours",
+      "ja": "ローマ市民の反応は未知だ——彼らはカエサルを愛していた。外の街路は数時間で危険になる可能性がある",
+      "zh-CN": "罗马民众的反应未知——他们爱戴凯撒；外面的街道可能在数小时内变得危险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Strike now. Tillius Cimber grabs Caesar's toga — this is the signal. Draw the blade and deliver the first blow. Make it clean and decisive.",
+        "ja": "今、刺す。ティッリウス・キンベルがカエサルのトガを掴む——これが合図だ。短剣を抜き、最初の一撃を放つ。素早く確実に。",
+        "zh-CN": "现在动手。提利乌斯·辛伯抓住凯撒的托加——这是信号。拔出短刃，给予第一击。干净利落，果断决绝。"
+      },
+      "historicalContext": "The historical event — Tillius Cimber grabbed Caesar's toga as the signal. Casca struck first, a glancing blow to the neck. Caesar grabbed Casca's arm. Then all twenty-three conspirators stabbed him. Caesar received 23 wounds. He fell at the base of Pompey's statue.",
+      "outcomePrompt": {
+        "en": "Cimber seizes Caesar's toga and drags it from his shoulder. Caesar demands to know what this insolence means. Casca draws and strikes — a wild blow that catches Caesar on the shoulder rather than the neck. Caesar cries out and grabs Casca's arm, snarling in Latin. For one terrible second the plan seems to be unraveling. Then the others surge forward. Blades flash. Caesar turns, realizing, and tries to rise — but there are too many, pressing from every side. He covers his face with his toga as the blows fall. Twenty-three wounds. When it is over, the senators and conspirators scatter in every direction, fleeing through the Theatre's corridors. Caesar lies at the foot of Pompey's statue, a twisted heap in a blood-soaked toga. Brutus raises his dagger to the Senate — their daggers dripping — and shouts that Rome is free. But the surviving senators have already fled in terror. The streets outside are emptying as the news spreads. You have two hours, perhaps less, before the city's reaction crystallizes. The Republic you sacrificed everything for now has to be rebuilt from the ruins of a murder — and Antony is alive, and has access to Caesar's papers, and is already thinking.",
+        "ja": "キンベルがカエサルのトガを掴み、肩から引き剥がす。カエサルはこの無礼の意味を問う。カスカが短剣を抜き刺す——首ではなく肩に当たる野性的な一撃だ。カエサルは叫び声を上げ、唸りながらラテン語でカスカの腕を掴む。一瞬、計画が崩れかけているように思える。そして他の者たちが一斉に押し寄せる。刃が閃く。カエサルは気づいて向き直り、立ち上がろうとするが——四方八方から押し寄せる者が多すぎる。一撃一撃が降る中、彼はトガで顔を覆う。二十三の傷。終わると、元老院議員と陰謀者たちは四方八方に散り、劇場の廊下を逃げていく。カエサルはポンペイウスの像の足下に、血に染まったトガに包まれた歪んだ塊として横たわっている。ブルトゥスは元老院に向かって——滴る短剣を掲げながら——ローマは自由だと叫ぶ。しかし生き残った元老院議員たちはすでに恐怖で逃げ去っている。知らせが広まるにつれ、外の街路が閑散としていく。都市の反応が固まる前に二時間、あるいはそれ以下しかない。すべてを犠牲にした共和国は今、殺人の廃墟から再建しなければならない——アントニウスは生きていて、カエサルの書類を入手でき、すでに考えている。",
+        "zh-CN": "辛伯抓住凯撒的托加袍，将其从肩膀拉开。凯撒质问这无礼之举是何意。卡斯卡拔刃出击——一刀野蛮地划在肩膀而非脖颈上。凯撒发出叫声，用拉丁语咆哮着抓住卡斯卡的手臂。有那么一个可怕的瞬间，计划似乎要功亏一篑。然后其他人蜂拥而上。短刃闪光。凯撒意识到发生了什么，转身想要起身——但四面八方的人太多了。一刀接一刀落下时，他用托加遮住脸。二十三处伤口。结束后，元老院议员和密谋者们四散奔逃，穿过剧院的走廊仓皇撤离。凯撒躺在庞培雕像脚下，以一团扭曲的血浸托加的形态倒下。布鲁图斯向元老院举起短刃——鲜血仍在滴落——高呼罗马自由了。但幸存的元老院议员已经在惊恐中逃散。消息传开，外面的街道正在清空。在城市的反应定型之前，你还有两个小时，也许更少。你为之牺牲一切的共和国，现在必须从一场谋杀的废墟中重建——而安东尼活着，有机会获取凯撒的文件，且已经开始盘算。"
+      },
+      "nextSceneId": "caesar-assassination-44bc-scene-003",
+      "stateChanges": [
+        { "variable": "conspiracySecrecy", "operation": "set", "value": 0 },
+        { "variable": "republicanLegitimacy", "operation": "add", "value": 10 },
+        { "variable": "caesarianThreat", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Hesitate. Look at Caesar — this man who crossed the Rubicon, who loved you like a son. Give him one last chance to abdicate power willingly before the blades fall.",
+        "ja": "躊躇する。カエサルを見る——ルビコンを渡り、あなたを息子のように愛したこの男を。刃が降る前に、彼に自ら権力を放棄する最後の機会を与える。",
+        "zh-CN": "犹豫。凝视凯撒——这个曾渡过卢比孔河、视你如子的男人。在刀刃落下之前，给他最后一次机会，让他主动放弃权力。"
+      },
+      "historicalContext": "A counterfactual — Brutus did not hesitate. But his famous last words to Caesar ('Et tu, Brute?') — reported by later writers — suggest Caesar was most wounded by Brutus's involvement, as if he had not expected it.",
+      "outcomePrompt": {
+        "en": "You meet Caesar's eyes across the crowded Senate chamber. For a moment — a moment that stretches unbearably — you do nothing. Caesar sees you and understands, in that instant, everything. His expression shifts from confusion to something almost like grief. Then Casca moves. The blow is clumsy, wild, catching Caesar on the shoulder. Caesar grabs Casca's wrist and cries out. Pandemonium erupts. Several conspirators, seeing you frozen, hesitate as well. The plan begins to fall apart. You force yourself to move, to draw, to step forward. Caesar turns to you as you approach — you who have known him since childhood, you who owe him everything, you whose ancestor founded the Republic he has destroyed. He says nothing. You do what you came to do. It is the worst moment of your life. Later, ancient writers will record that his last words were spoken to you — 'Et tu, Brute?' — though whether he truly spoke them, no one will ever know. When it is over, the Theatre erupts in screaming panic. The conspirators scatter. You stand over the body, alone with what you have done, as the sound of Rome reacting to its shock begins to rise from the streets outside.",
+        "ja": "混雑した元老院議場を越えてカエサルの目を見る。一瞬——耐えられないほど引き伸ばされる一瞬——あなたは何もしない。カエサルはあなたを見て、その瞬間、すべてを理解する。彼の表情が混乱から、悲しみに近い何かへと変わる。そしてカスカが動く。一撃はぎこちなく、野性的で、肩に当たる。カエサルはカスカの手首を掴んで叫ぶ。大混乱が勃発する。あなたが凍りついているのを見た数人の陰謀者も躊躇する。計画が崩れ始める。あなたは自分を動かし、抜剣し、前へ踏み出すよう強制する。あなたが近づくとカエサルがあなたを向く——子供の頃から彼を知るあなた、すべてを彼に負うあなた、彼が破壊した共和国を創設した祖先を持つあなた。彼は何も言わない。あなたは来た目的を果たす。それはあなたの人生で最悪の瞬間だ。後に、古代の著述家たちは彼の最後の言葉があなたに向けられたと記録する——「ブルトゥス、お前もか」——それが本当に言われたかどうかは誰も知らないだろうが。終わると、劇場は悲鳴と恐怖で爆発する。陰謀者たちは散り散りになる。外の通りからローマが衝撃に反応する音が高まり始める中、あなたは一人で自分がしたことと向き合いながら、遺体の上に立っている。",
+        "zh-CN": "你穿过拥挤的元老院议事厅凝视凯撒的双眼。一瞬间——一段长得难以忍受的瞬间——你什么也没做。凯撒看见你，在那个瞬间，明白了一切。他的表情从困惑转变为近乎悲恸的某种东西。然后卡斯卡动了。那一击笨拙而凌乱，划在肩膀上。凯撒抓住卡斯卡的手腕并发出叫声。大混乱爆发了。几名密谋者看见你僵住了，也跟着迟疑起来。计划开始土崩瓦解。你强迫自己动起来，拔刃，迈步向前。凯撒在你走近时转向你——自童年便相识的你，欠他一切的你，那个拥有创建他已摧毁的共和国之祖先的你。他什么也没说。你做了你此来该做的事。这是你一生中最痛苦的时刻。后来，古代作家们将记载他的最后话语是对你说的——\"你也这样，布鲁图斯?\"——尽管他是否真的说出了这句话，无人知晓。结束后，剧院在尖叫声和恐慌中爆炸。密谋者们作鸟兽散。你独自站在遗体旁，面对自己所做的一切，外面街道上罗马对这场震惊做出反应的声音已开始涌起。"
+      },
+      "nextSceneId": "caesar-assassination-44bc-scene-003",
+      "stateChanges": [
+        { "variable": "conspiracySecrecy", "operation": "set", "value": 0 },
+        { "variable": "republicanLegitimacy", "operation": "add", "value": 20 },
+        { "variable": "caesarianThreat", "operation": "add", "value": 15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

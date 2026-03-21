@@ -1,0 +1,90 @@
+{
+  "scenarioId": "hannibal-cannae-216bc",
+  "timeline": [
+    {
+      "date": "-216-06-01",
+      "description": {
+        "en": "Hannibal seizes the Roman supply depot at Cannae in Apulia, threatening Rome's grain supply from the south. The Roman Senate, enraged by two years of defeats, authorizes the largest army ever assembled — eight legions plus allied contingents, totaling approximately 86,000 men.",
+        "ja": "ハンニバルがアプリアのカンナエにあるローマの補給拠点を占領し、南からのローマの穀物供給を脅かす。2年間の敗北に激怒したローマ元老院は、史上最大の軍——同盟軍を含む8個軍団、計約86,000人——の編成を許可する。",
+        "zh-CN": "汉尼拔夺取了阿普利亚坎尼的罗马补给站，威胁罗马南方的粮食供应。对两年来的失败愤怒不已的罗马元老院批准组建有史以来最庞大的军队——八个军团加盟军，总计约86000人。"
+      }
+    },
+    {
+      "date": "-216-07-15",
+      "description": {
+        "en": "The Roman army under consuls Paullus and Varro marches south from Rome. The two consuls alternate command daily — Paullus favoring caution, Varro pressing for immediate battle. This divided command structure will prove fatal.",
+        "ja": "執政官パウルスとウァロの下、ローマ軍がローマから南進する。二人の執政官は毎日交互に指揮を執る——パウルスは慎重を好み、ウァロは即座の会戦を主張する。この分裂した指揮構造が致命的となる。",
+        "zh-CN": "罗马军队在执政官保卢斯和瓦罗率领下从罗马南下。两位执政官每日轮流指挥——保卢斯倾向谨慎，瓦罗急于立即决战。这种分裂的指挥体系将被证明是致命的。"
+      }
+    },
+    {
+      "date": "-216-07-31",
+      "description": {
+        "en": "The Roman army arrives near Cannae and establishes two camps on either side of the Aufidus River. Skirmishing begins. Hannibal positions his army on the flat plain with the wind at his back, ensuring dust will blow into Roman faces during battle.",
+        "ja": "ローマ軍がカンナエ近くに到着し、アウフィドゥス川の両岸に二つの陣営を設営する。小競り合いが始まる。ハンニバルは風を背に受ける平原に軍を配置し、戦闘中に砂塵がローマ軍の顔に吹き付けるようにする。",
+        "zh-CN": "罗马军队抵达坎尼附近，在奥菲杜斯河两岸建立两座营地。前哨战开始。汉尼拔将军队部署在背风的平原上，确保战斗时尘土会吹向罗马人的面部。"
+      }
+    },
+    {
+      "date": "-216-08-01",
+      "description": {
+        "en": "On a day when Varro holds command, the aggressive consul orders the full army to cross the river and form up for battle. Paullus objects but is overruled. The Romans deploy in an unusually deep formation, hoping to use their mass to punch through Hannibal's center.",
+        "ja": "ウァロが指揮を執る日に、攻撃的な執政官は全軍に川を渡って戦闘陣形を取るよう命じる。パウルスは反対するが却下される。ローマ軍は異例の深い陣形を取り、その質量でハンニバルの中央を突破しようとする。",
+        "zh-CN": "在瓦罗掌握指挥权的日子，这位好战的执政官命令全军渡河列阵。保卢斯反对但被否决。罗马人摆出异常纵深的阵型，希望以其庞大的兵力突破汉尼拔的中央。"
+      }
+    },
+    {
+      "date": "-216-08-02",
+      "description": {
+        "en": "The Battle of Cannae. Hannibal's crescent-shaped center of Iberian and Celtic infantry deliberately gives ground, drawing the Roman mass forward. Meanwhile, Carthaginian heavy cavalry under Hasdrubal destroys the Roman cavalry on the left flank, rides behind the Roman army, and routs the allied cavalry on the right. The Libyan heavy infantry wheels inward from both flanks. The Roman army is completely encircled.",
+        "ja": "カンナエの戦い。ハンニバルの三日月形に配置されたイベリア・ケルト歩兵の中央が意図的に後退し、ローマ軍の大部隊を前方に引き込む。一方、ハスドルバル率いるカルタゴ重騎兵が左翼のローマ騎兵を壊滅させ、ローマ軍の背後を回り、右翼の同盟騎兵を敗走させる。リビア重装歩兵が両翼から内側に旋回する。ローマ軍は完全に包囲される。",
+        "zh-CN": "坎尼战役。汉尼拔以伊比利亚和凯尔特步兵组成的月牙形中央故意后退，将罗马大军引向前方。与此同时，哈斯德鲁巴尔率领的迦太基重骑兵在左翼摧毁了罗马骑兵，绕到罗马军队背后，击溃了右翼的同盟骑兵。利比亚重装步兵从两翼向内旋转。罗马军队被彻底包围。"
+      }
+    },
+    {
+      "date": "-216-08-02",
+      "description": {
+        "en": "The encirclement becomes a massacre. Packed so tightly they cannot raise their weapons, Roman soldiers are slaughtered from all sides. By nightfall, between 50,000 and 70,000 Romans lie dead, including consul Paullus, 29 of 48 military tribunes, and an estimated 80 senators serving as officers. Consul Varro escapes with a small cavalry force.",
+        "ja": "包囲は虐殺となる。武器を上げることもできないほど密集したローマ兵は、全方向から殺戮される。日暮れまでに50,000から70,000人のローマ人が死亡し、執政官パウルス、48人中29人の軍団長官、将校として従軍していた推定80人の元老院議員が含まれた。執政官ウァロは少数の騎兵と共に脱出する。",
+        "zh-CN": "包围变成了屠杀。罗马士兵挤得太紧，连武器都举不起来，从四面八方被杀戮。到黄昏时分，50000至70000名罗马人倒下，包括执政官保卢斯、48名军事护民官中的29名，以及估计80名以军官身份参战的元老院议员。执政官瓦罗率少数骑兵逃脱。"
+      }
+    },
+    {
+      "date": "-216-08-03",
+      "description": {
+        "en": "Maharbal urges Hannibal to march immediately on Rome, declaring the war can be won within five days. Hannibal declines, judging his army too exhausted and lacking siege equipment. Maharbal reportedly responds: 'You know how to gain a victory, Hannibal, but not how to use one.'",
+        "ja": "マハルバルがハンニバルに直ちにローマに進軍するよう促し、5日以内に戦争に勝てると宣言する。ハンニバルは軍が疲弊しすぎており攻城兵器が不足していると判断して拒否する。マハルバルは「ハンニバルよ、あなたは勝利を得る方法は知っているが、それを使う方法は知らない」と答えたとされる。",
+        "zh-CN": "马哈巴尔敦促汉尼拔立即进军罗马，宣称五天之内即可赢得战争。汉尼拔以军队过于疲惫且缺乏攻城器械为由拒绝。据说马哈巴尔回应道：'汉尼拔，你知道如何赢得胜利，却不知道如何利用胜利。'"
+      }
+    },
+    {
+      "date": "-216-09-01",
+      "description": {
+        "en": "Several Italian city-states and allies, including Capua — the second largest city in Italy — defect to Hannibal. However, Rome's core Latin allies remain loyal, and the Senate begins raising new legions. Rome will never again risk a pitched battle against Hannibal in Italy, instead pursuing the war through attrition.",
+        "ja": "イタリア第二の都市カプアを含むいくつかのイタリアの都市国家と同盟国がハンニバルに離反する。しかし、ローマの中核であるラテン同盟は忠実であり続け、元老院は新たな軍団の編成を開始する。ローマは二度とイタリアでハンニバルとの会戦を行わず、消耗戦を通じて戦争を遂行する。",
+        "zh-CN": "包括意大利第二大城市卡普阿在内的数个意大利城邦和盟友倒向汉尼拔。然而，罗马核心的拉丁同盟仍然忠诚，元老院开始组建新的军团。罗马再也不会在意大利与汉尼拔进行正面会战，而是通过消耗战来继续这场战争。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Cannae was a total Carthaginian victory and one of the most devastating defeats in military history. Rome lost approximately one-fifth of its entire male population over seventeen years of age in a single day. Yet the battle's strategic aftermath was paradoxical: despite annihilating Rome's largest army, Hannibal could not translate his tactical triumph into strategic victory. Rome refused to surrender, raised new armies, and eventually carried the war to Africa, where Scipio Africanus defeated Hannibal at Zama in 202 BC. Cannae thus became both the pinnacle of tactical warfare and a cautionary tale about the limits of battlefield victory.",
+    "ja": "カンナエはカルタゴの完全勝利であり、軍事史上最も壊滅的な敗北の一つであった。ローマは一日で17歳以上の男性人口の約5分の1を失った。しかし、戦いの戦略的余波は逆説的であった。ローマの最大の軍を殲滅したにもかかわらず、ハンニバルは戦術的勝利を戦略的勝利に転化できなかった。ローマは降伏を拒否し、新たな軍を編成し、最終的に戦争をアフリカに持ち込み、スキピオ・アフリカヌスが紀元前202年のザマの戦いでハンニバルを破った。カンナエはこうして戦術戦争の頂点であると同時に、戦場での勝利の限界についての警告的教訓となった。",
+    "zh-CN": "坎尼是迦太基的全面胜利，也是军事史上最具毁灭性的败仗之一。罗马在一天之内失去了约五分之一的十七岁以上男性人口。然而，战役的战略后果是矛盾的：尽管歼灭了罗马最庞大的军队，汉尼拔却无法将战术上的胜利转化为战略上的胜利。罗马拒绝投降，组建新军，最终将战争推进到非洲，西庇阿·阿非利加努斯于公元前202年在扎马之战中击败了汉尼拔。坎尼因此既是战术战争的巅峰，也是关于战场胜利局限性的警世故事。"
+  },
+  "casualties": {
+    "en": "Carthage: approximately 6,000-8,000 killed. Rome: approximately 50,000-70,000 killed, including consul Paullus, 29 military tribunes, 80 senators; approximately 10,000 captured.",
+    "ja": "カルタゴ：約6,000～8,000人戦死。ローマ：約50,000～70,000人戦死、執政官パウルス、29人の軍団長官、80人の元老院議員を含む。約10,000人が捕虜。",
+    "zh-CN": "迦太基：约6000-8000人阵亡。罗马：约50000-70000人阵亡，包括执政官保卢斯、29名军事护民官、80名元老院议员；约10000人被俘。"
+  },
+  "significance": {
+    "en": "Cannae is regarded as the most perfect tactical victory in ancient warfare and possibly in all of military history. The double envelopment executed by Hannibal became the ideal that commanders from Scipio to Schwarzkopf have sought to replicate. The battle demonstrated that a numerically inferior force could not only defeat but annihilate a much larger army through superior tactics, terrain awareness, and combined arms coordination. It remains a core case study at military academies including West Point and Sandhurst, and influenced German operational doctrine well into the twentieth century.",
+    "ja": "カンナエは古代戦争における、そしておそらく全軍事史上最も完璧な戦術的勝利と見なされている。ハンニバルが実行した包囲殲滅戦は、スキピオからシュワルツコフまでの指揮官たちが再現しようとした理想となった。この戦いは、数的に劣る軍が優れた戦術、地形の認識、諸兵科連合の協調によって、はるかに大きな軍を敗北させるだけでなく殲滅できることを実証した。ウエストポイントやサンドハーストを含む士官学校の中核的事例研究であり続け、20世紀に至るまでドイツの作戦教義に影響を与えた。",
+    "zh-CN": "坎尼被认为是古代战争中，也可能是整个军事史上最完美的战术胜利。汉尼拔执行的双重包围成为从西庇阿到施瓦茨科普夫等历代统帅试图复制的理想范式。这场战役证明了兵力处于劣势的一方不仅能击败，更能通过卓越的战术、地形意识和诸兵种协同完全歼灭一支规模大得多的军队。它至今仍是西点军校和桑德赫斯特等军事院校的核心案例研究，并影响了德国作战条令直到二十世纪。"
+  },
+  "furtherReading": [
+    "Polybius — The Histories (Book III)",
+    "Livy — Ab Urbe Condita (Book XXII)",
+    "Adrian Goldsworthy — Cannae: Hannibal's Greatest Victory",
+    "Robert L. O'Connell — The Ghosts of Cannae"
+  ]
+}

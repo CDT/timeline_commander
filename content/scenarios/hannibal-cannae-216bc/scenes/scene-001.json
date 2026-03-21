@@ -1,0 +1,113 @@
+{
+  "id": "hannibal-cannae-216bc-scene-001",
+  "scenarioId": "hannibal-cannae-216bc",
+  "title": {
+    "en": "The Plains of Cannae",
+    "ja": "カンナエの平原",
+    "zh-CN": "坎尼平原"
+  },
+  "date": {
+    "en": "Late July 216 BC",
+    "ja": "紀元前216年7月下旬",
+    "zh-CN": "公元前216年7月下旬"
+  },
+  "location": {
+    "en": "Carthaginian Camp near Cannae, Apulia",
+    "ja": "アプリア、カンナエ近くのカルタゴ軍陣営",
+    "zh-CN": "阿普利亚坎尼附近迦太基军营"
+  },
+  "narrativePrompt": {
+    "en": "Hannibal stands on the low hill overlooking the flat Apulian plain that stretches toward the Aufidus River. His scouts have confirmed what he expected: the Romans are coming in force. Two consular armies, merged into a single massive host of nearly 86,000 men, are marching south along the Adriatic coast. It is the largest Roman army ever assembled, and its commanders intend to overwhelm Hannibal through sheer numbers. Hannibal has roughly 50,000 troops — but they are veterans, hardened by two years of campaigning in Italy and two stunning victories at the Trebia and Trasimene. His cavalry, especially the Numidian light horse and the heavy Iberian and Celtic horsemen under Maharbal, is far superior to anything Rome can field. The question is where and how to fight. Hannibal has deliberately seized the Roman grain depot at Cannae to force the Romans into battle on ground of his choosing. The flat, open plain seems to favor the Romans with their massive infantry phalanx, but Hannibal sees opportunity in the terrain: the river on one side can anchor a flank, and the open ground gives his superior cavalry room to maneuver. His officers are divided. Some urge a defensive posture, letting the Romans attack prepared positions. Others, led by Maharbal, advocate an aggressive approach that exploits Carthaginian cavalry superiority. Hannibal must decide the shape of the coming battle.",
+    "ja": "ハンニバルはアウフィドゥス川に向かって広がるアプリアの平坦な平原を見下ろす低い丘の上に立っている。斥候は予想通りの報告をもたらした：ローマ軍が大挙して迫っている。二つの執政官軍が一つの巨大な軍勢——約86,000人に統合され、アドリア海沿岸を南下している。これはかつて編成されたローマ最大の軍であり、その指揮官たちは圧倒的な数でハンニバルを押し潰すつもりだ。ハンニバルの兵力は約50,000人——しかし彼らはイタリアでの2年間の戦役とトレビアおよびトラシメヌスでの二つの鮮やかな勝利で鍛えられた歴戦の兵士たちだ。彼の騎兵、特にヌミディア軽騎兵とマハルバル率いるイベリアおよびケルトの重騎兵は、ローマが展開できるどの騎兵よりもはるかに優れている。問題はどこで、どのように戦うかだ。ハンニバルはローマ軍を自らが選んだ地形で戦わせるため、意図的にカンナエのローマ穀物貯蔵庫を占領した。平坦で開けた平原はローマの巨大な歩兵方陣に有利に見えるが、ハンニバルは地形に好機を見出している：一方の川が側面を固定でき、開けた地は優れた騎兵に機動の余地を与える。彼の士官たちは意見が分かれている。ローマ軍に準備された陣地を攻撃させる防御的な姿勢を促す者もいれば、マハルバルに率いられた一派はカルタゴ騎兵の優位を活かす攻撃的なアプローチを主張する。ハンニバルは来たる戦いの形を決めなければならない。",
+    "zh-CN": "汉尼拔站在俯瞰奥菲杜斯河方向延伸的阿普利亚平坦原野的低矮山丘上。侦察兵证实了他的预期：罗马人正大举而来。两支执政官军队合并为一支近86000人的庞大军团，正沿亚得里亚海岸南下。这是罗马有史以来集结的最庞大的军队，其指挥官打算以绝对的数量优势压倒汉尼拔。汉尼拔拥有约50000人的部队——但他们是身经百战的老兵，经过两年在意大利的征战以及特雷比亚和特拉西梅诺两场惊人胜利的锤炼。他的骑兵，尤其是努米底亚轻骑兵和马哈巴尔统率的伊比利亚及凯尔特重骑兵，远远优于罗马所能集结的任何骑兵。问题是在哪里、如何作战。汉尼拔故意夺取了坎尼的罗马粮仓，迫使罗马人在他选择的地形上交战。平坦开阔的平原似乎有利于罗马人庞大的步兵方阵，但汉尼拔在地形中看到了机会：一侧的河流可以固定侧翼，开阔的地面给予他优势骑兵充足的机动空间。他的军官们意见分歧。一些人主张采取防御姿态，让罗马人进攻预设阵地。以马哈巴尔为首的另一派则主张采取攻势，充分发挥迦太基骑兵优势。汉尼拔必须决定即将到来的战斗的形态。"
+  },
+  "situationReport": [
+    {
+      "en": "Approximately 50,000 Carthaginian troops are encamped near Cannae, including 10,000 superb cavalry",
+      "ja": "約50,000人のカルタゴ軍がカンナエ近くに陣を張っており、10,000人の優れた騎兵を含む",
+      "zh-CN": "约50000名迦太基军队驻扎在坎尼附近，包括10000名精锐骑兵"
+    },
+    {
+      "en": "The Roman army of 86,000 men under consuls Paullus and Varro is two days' march away, advancing rapidly",
+      "ja": "執政官パウルスとウァロの下、86,000人のローマ軍が2日行軍の距離にあり、急速に前進中",
+      "zh-CN": "由执政官保卢斯和瓦罗统率的86000人罗马军队在两天行军距离处，正快速推进"
+    },
+    {
+      "en": "The flat Apulian plain near the Aufidus River has been chosen as the battlefield — terrain favors cavalry maneuver",
+      "ja": "アウフィドゥス川近くのアプリアの平原が戦場として選ばれた——地形は騎兵の機動に有利",
+      "zh-CN": "奥菲杜斯河附近的阿普利亚平原已被选为战场——地形有利于骑兵机动"
+    },
+    {
+      "en": "Supplies are running low — the captured Roman depot at Cannae provides temporary relief but a battle must come soon",
+      "ja": "補給が不足している——カンナエの占領したローマの補給拠点が一時的な救済を与えるが、戦いはすぐに行わなければならない",
+      "zh-CN": "补给日渐匮乏——夺取的坎尼罗马补给站提供了暂时缓解，但必须尽快决战"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Choose the tactical approach for the coming battle — determine how to deploy your forces against a much larger army",
+      "ja": "来たる戦いの戦術的アプローチを選ぶ——はるかに大きな軍に対してどのように兵力を展開するかを決定する",
+      "zh-CN": "选择即将到来的战斗的战术方针——决定如何部署兵力对抗规模大得多的军队"
+    },
+    {
+      "en": "Ensure the battlefield conditions maximize your cavalry advantage and minimize Roman infantry superiority",
+      "ja": "戦場条件があなたの騎兵の優位を最大化し、ローマ歩兵の優位を最小化するようにする",
+      "zh-CN": "确保战场条件最大化己方骑兵优势，最小化罗马步兵优势"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You cannot afford to retreat — your army needs the supplies at Cannae and Carthage expects a decisive result",
+      "ja": "撤退する余裕はない——軍はカンナエの補給を必要としており、カルタゴは決定的な結果を期待している",
+      "zh-CN": "您不能撤退——军队需要坎尼的补给，迦太基期待一个决定性的结果"
+    },
+    {
+      "en": "Your diverse army of Libyans, Iberians, Celts, and Numidians requires careful coordination — each contingent fights differently",
+      "ja": "リビア人、イベリア人、ケルト人、ヌミディア人からなる多様な軍は慎重な調整が必要——各部隊は異なる戦い方をする",
+      "zh-CN": "您由利比亚人、伊比利亚人、凯尔特人和努米底亚人组成的多元军队需要精心协调——各部队战法各异"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Plan a double envelopment. Use a weak, crescent-shaped center to draw the Romans forward while cavalry and heavy infantry close the trap from flanks and rear.",
+        "ja": "包囲殲滅戦を計画する。弱い三日月形の中央でローマ軍を引き込み、騎兵と重装歩兵が側面と背後から罠を閉じる。",
+        "zh-CN": "策划双重包围。用薄弱的月牙形中央将罗马人引向前方，同时骑兵和重装步兵从两翼和后方合拢陷阱。"
+      },
+      "historicalContext": "The historical choice — Hannibal's double envelopment at Cannae became the most studied tactical maneuver in military history.",
+      "outcomePrompt": {
+        "en": "Hannibal gathers his commanders in the command tent and outlines his plan on a sand table. The key is the center — he will place his Iberian and Celtic infantry in a forward-bulging crescent formation. When the Romans attack, this center will deliberately give ground, bending inward like a bow. The Romans, sensing victory, will push deeper and deeper into the pocket. Meanwhile, on the flanks, the elite Libyan heavy infantry — equipped with captured Roman armor and weapons — will stand fast in echelon formation, hidden by dust and the press of battle. When the Roman center pushes far enough forward, the Libyans will wheel inward like closing doors, striking the Roman flanks. At the same time, Maharbal's cavalry, after destroying the outnumbered Roman horsemen, will sweep around to seal the rear. The entire Roman army will be encircled. Maharbal grins. The Libyan commanders nod grimly. The Celtic and Iberian chiefs understand their role — they must bend but not break, absorbing terrible punishment while the trap closes. Hannibal looks at each man. The plan requires perfect timing and extraordinary discipline from every unit. But if it works, it will annihilate the largest army Rome has ever fielded.",
+        "ja": "ハンニバルは指揮テントに指揮官たちを集め、砂盤上で計画を説明する。鍵は中央だ——イベリアとケルトの歩兵を前方に膨らんだ三日月陣形に配置する。ローマ軍が攻撃すると、この中央は意図的に後退し、弓のように内側に曲がる。勝利を感じたローマ軍はますます深く突出部に押し込むだろう。一方、両翼では、鹵獲したローマの鎧と武器を装備した精鋭リビア重装歩兵が、砂塵と戦闘の混乱に隠れて梯形陣で待機する。ローマ軍の中央が十分に前進したとき、リビア兵は閉じるドアのように内側に旋回し、ローマ軍の側面を攻撃する。同時に、マハルバルの騎兵が数で劣るローマ騎兵を壊滅させた後、背後を塞ぐために回り込む。ローマ軍全体が包囲される。マハルバルがにやりと笑う。リビアの指揮官たちは厳しく頷く。ケルトとイベリアの首長たちは自らの役割を理解する——彼らは曲がっても折れてはならず、罠が閉じる間、恐ろしい打撃を吸収しなければならない。ハンニバルは一人一人の顔を見る。この計画はすべての部隊に完璧なタイミングと並外れた規律を要求する。しかし成功すれば、ローマが展開した最大の軍を殲滅することになる。",
+        "zh-CN": "汉尼拔将指挥官们召集到帅帐中，在沙盘上阐述他的计划。关键在于中央——他将把伊比利亚和凯尔特步兵部署成向前凸出的月牙阵形。当罗马人进攻时，这个中央将故意后退，像弓一样向内弯曲。罗马人嗅到胜利的气息，会越来越深地推入口袋。与此同时，两翼的精锐利比亚重装步兵——装备着缴获的罗马盔甲和武器——将以梯次队形隐藏在尘土和战斗的混乱中待命。当罗马中央推进得足够远时，利比亚人将像关闭的门一样向内旋转，打击罗马人的侧翼。同时，马哈巴尔的骑兵在消灭了兵力不足的罗马骑兵后，将绕到后方封锁退路。整个罗马军队将被包围。马哈巴尔咧嘴而笑。利比亚指挥官们严肃地点头。凯尔特和伊比利亚首领们明白了自己的角色——他们必须弯曲但不能折断，在陷阱合拢的过程中承受可怕的打击。汉尼拔注视每个人的面孔。这个计划要求每个单位完美的时机配合和非凡的纪律。但如果成功，它将歼灭罗马有史以来投入战场的最庞大军队。"
+      },
+      "nextSceneId": "hannibal-cannae-216bc-scene-002",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 30 },
+        { "variable": "armyMorale", "operation": "add", "value": 10 },
+        { "variable": "cavalryStrength", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Fight a defensive battle. Anchor on the river and the village, force the Romans to attack prepared positions, and use cavalry for counterattacks.",
+        "ja": "防御的な戦いを行う。川と村に拠って、ローマ軍に準備された陣地を攻撃させ、騎兵を反撃に使う。",
+        "zh-CN": "打一场防御战。依托河流和村庄，迫使罗马人进攻预设阵地，用骑兵进行反击。"
+      },
+      "historicalContext": "A counterfactual — a defensive approach would have been safer but unlikely to produce the total annihilation Hannibal needed.",
+      "outcomePrompt": {
+        "en": "Hannibal orders his army to dig in along the south bank of the Aufidus, using the river as a natural barrier on one flank and the ruins of Cannae on the other. Field fortifications are constructed — ditches, sharpened stakes, and earthen ramparts. The Iberian and Celtic infantry anchor the center behind these defenses, while the Libyan veterans hold the flanks. Maharbal's cavalry is positioned behind the lines as a mobile reserve, ready to strike at any Roman formation that overextends. When the Roman army arrives and deploys, the consuls are initially cautious — the prepared positions give them pause. But Varro, on his day of command, orders a general advance. The Roman legions crash against Hannibal's fortified line and are bloodied but not broken. The fighting is fierce and attritional. Maharbal launches cavalry charges against exposed Roman flanks, causing significant casualties, but the sheer mass of the Roman army prevents a decisive encirclement. By nightfall, the Romans have suffered perhaps 20,000 casualties but withdraw in good order. Hannibal has won a tactical victory but the Roman army survives intact as a fighting force.",
+        "ja": "ハンニバルは軍にアウフィドゥス川の南岸に沿って塹壕を掘るよう命じ、川を片方の側面の自然の障壁として、もう片方にはカンナエの廃墟を利用する。野戦築城が構築される——塹壕、尖った杭、土塁。イベリアとケルトの歩兵がこれらの防御の背後に中央を固め、リビアの古参兵が側面を守る。マハルバルの騎兵は戦線の背後に機動予備として配置され、過度に突出したローマ軍の陣形を攻撃する準備ができている。ローマ軍が到着して展開すると、執政官たちは最初は慎重だ——準備された陣地が彼らを躊躇させる。しかし、指揮を執る日のウァロが総攻撃を命じる。ローマ軍団がハンニバルの要塞化された戦線に衝突し、流血するが突破されない。戦闘は激しく消耗的だ。マハルバルが露出したローマ軍の側面に騎兵突撃を行い、大きな損害を与えるが、ローマ軍の圧倒的な質量が決定的な包囲を妨げる。日暮れまでにローマ軍はおそらく20,000人の死傷者を出すが、秩序正しく撤退する。ハンニバルは戦術的勝利を収めたが、ローマ軍は戦闘力を保ったまま生き残る。",
+        "zh-CN": "汉尼拔命令军队沿奥菲杜斯河南岸构筑防御工事，以河流作为一侧的天然屏障，另一侧依托坎尼废墟。修建了野战工事——壕沟、削尖的木桩和土垒。伊比利亚和凯尔特步兵在这些防御工事后方固守中央，利比亚老兵把守两翼。马哈巴尔的骑兵部署在阵线后方作为机动预备队，随时准备打击任何过度突出的罗马编队。当罗马军队到达并展开时，两位执政官最初持谨慎态度——预设阵地让他们犹豫不前。但在瓦罗指挥的日子，他下令全面进攻。罗马军团撞上汉尼拔的设防阵线，伤亡惨重但未被击溃。战斗激烈而消耗巨大。马哈巴尔对暴露的罗马侧翼发动骑兵冲锋，造成重大伤亡，但罗马军队的庞大规模阻止了决定性的包围。到黄昏时分，罗马人可能遭受了约20000人的伤亡，但有序撤退。汉尼拔赢得了战术胜利，但罗马军队作为一支战斗力量完好无损地幸存下来。"
+      },
+      "nextSceneId": "hannibal-cannae-216bc-scene-002",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 10 },
+        { "variable": "romanCohesion", "operation": "add", "value": -15 },
+        { "variable": "cavalryStrength", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

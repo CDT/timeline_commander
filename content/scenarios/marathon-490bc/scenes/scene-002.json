@@ -1,0 +1,115 @@
+{
+  "id": "marathon-490bc-scene-002",
+  "scenarioId": "marathon-490bc",
+  "title": {
+    "en": "The Charge at Dawn",
+    "ja": "夜明けの突撃",
+    "zh-CN": "黎明冲锋"
+  },
+  "date": {
+    "en": "September 12, 490 BC — Early Morning",
+    "ja": "紀元前490年9月12日 — 早朝",
+    "zh-CN": "公元前490年9月12日 — 清晨"
+  },
+  "location": {
+    "en": "The Plain of Marathon, Between the Hills and the Sea",
+    "ja": "マラトン平原、丘陵と海の間",
+    "zh-CN": "马拉松平原，山丘与大海之间"
+  },
+  "narrativePrompt": {
+    "en": "Dawn breaks over the mountains of Euboea, painting the sky in bands of crimson and gold. The air is cool and still, carrying the salt scent of the sea mingled with the smoke of dying campfires. Your hoplites stand in formation on the lower slopes, their bronze helmets and shields catching the first light. Eleven thousand men—ten thousand Athenians and one thousand faithful Plataeans—arrayed in a line nearly a mile wide. The plain stretches before them, flat and open, roughly 1,500 meters of exposed ground between your position and the Persian camp.\n\nYour scouts brought critical intelligence during the night: the Persian cavalry is absent from the field. The phrase 'choris hippeis'—'the cavalry is away'—races through the ranks like wildfire. This is the moment you have been waiting for. Whether the horsemen are watering their mounts at the far end of the plain, or have been re-embarked on ships for a flanking maneuver against Athens, their absence transforms the battlefield. Without cavalry to sweep your flanks or ride down broken infantry, the Persians lose their greatest advantage.\n\nBut the open ground remains a killing field. Persian archers, thousands of them, stand ready behind their wall of wicker shields—the sparabara formation. Each archer can loose twelve arrows per minute. At normal marching pace, your hoplites would endure nearly three minutes of arrow fire crossing that open ground, potentially thousands of arrows darkening the sky before you reach their line. Your bronze armor is good, but no armor is perfect, and arrows find gaps in greaves, in the joints of corselets, in the eye slits of helmets.\n\nYou have formed your line as planned: the tribes Leontis and Antiochis hold the center at reduced depth—only four ranks instead of the usual eight. The flanks are strengthened to eight or more ranks, with the Plataeans holding the left wing and your best Athenian fighters on the right under Callimachus. Now the final decision: how to cross that deadly no-man's land. The conventional approach is a steady advance in lockstep, maintaining the perfect alignment of the phalanx. But you have a radical idea—one that no Greek army has ever attempted.",
+    "ja": "エウボイアの山々の向こうから夜が明け、空を深紅と金色の帯に染める。空気は涼しく静かで、消えかけた焚き火の煙に混じって海の塩の香りが漂う。あなたの重装歩兵たちは低い斜面に隊列を組んで立ち、青銅の兜と盾が朝日を受けて輝いている。1万1千人——1万人のアテナイ人と1千人の忠実なプラタイア人——がほぼ1マイルの幅で一列に並んでいる。眼前に平原が広がり、あなたの陣地からペルシア陣営まで約1,500メートルの開けた地面が平坦に続いている。\n\n斥候たちが夜の間に重大な情報をもたらした。ペルシアの騎兵が戦場にいない。「ホーリス・ヒッペイス」——「騎兵が去った」——という言葉が野火のように隊列を駆け巡る。これこそあなたが待ち望んでいた瞬間だ。騎馬が平原の端で馬に水を飲ませているのか、アテナイへの側面攻撃のために船に再乗船したのかはともかく、彼らの不在は戦場を一変させる。側面を蹂躙し崩れた歩兵を追撃する騎兵がなければ、ペルシア軍は最大の優位を失う。\n\nしかし開けた地面は依然として死の地帯である。何千人ものペルシアの弓兵が籐の盾の壁——スパラバラ陣形——の後ろに待ち構えている。各弓兵は毎分12本の矢を放つことができる。通常の行軍速度では、重装歩兵はその開けた地面を渡る間に約3分間の矢の雨に耐えなければならず、戦列に到達する前に何千本もの矢が空を暗くする可能性がある。青銅の鎧は優れているが完璧な鎧はなく、矢は脛当ての隙間、胴鎧の継ぎ目、兜の目の穴を見つける。\n\n計画通りに戦列を形成した。レオンティスとアンティオキスの部族が減少した深さで中央を保持——通常の八列ではなくわずか四列。側面は八列以上に強化され、プラタイア軍が左翼を、カリマコス率いるアテナイ最精鋭が右翼を受け持つ。最後の決断が残っている——あの死の無人地帯をどう渡るか。従来のやり方は隊列の完璧な整列を維持しながら一歩一歩着実に前進することだ。しかしあなたには過激な考えがある——ギリシャの軍隊がこれまで一度も試みたことのないものだ。",
+    "zh-CN": "黎明从优卑亚的群山后升起，将天空染成深红与金色的条带。空气凉爽而宁静，带着海盐的气息混合着将熄篝火的烟味。你的重装步兵在低坡上列阵而立，青铜头盔和盾牌映着第一缕晨光。一万一千人——一万雅典人和一千忠诚的普拉提亚人——排成近一英里宽的战线。平原在他们面前展开，平坦开阔，从你的阵地到波斯营地约有1500米的暴露地带。\n\n你的斥候在夜间带回了关键情报：波斯骑兵不在战场上。「骑兵不在了」——这句话如野火般在队列中传开。这就是你一直等待的时刻。无论骑兵是在平原另一端饮马，还是已经重新登船准备从侧翼进攻雅典，他们的缺席改变了整个战场态势。没有骑兵扫荡你的侧翼或追杀溃散的步兵，波斯人就失去了最大的优势。\n\n但开阔地带仍然是死亡之地。数千名波斯弓箭手在柳条盾墙——斯帕拉巴拉阵形——后面严阵以待。每名弓箭手每分钟能射出十二支箭。以正常行军速度，你的重装步兵穿越那片开阔地将承受近三分钟的箭雨，在到达敌人阵线之前可能有数千支箭遮天蔽日。你的青铜铠甲虽好，但没有铠甲是完美的，箭矢会找到胫甲的缝隙、胸甲的接缝、头盔的眼缝。\n\n你已按计划排好阵线：莱昂提斯和安提奥基斯部落以减少的纵深守卫中央——只有四列而非通常的八列。两翼加强到八列或更多，普拉提亚人守卫左翼，由卡利马科斯率领的雅典最精锐战士守卫右翼。现在是最后的决定：如何穿越那片致命的无人地带。传统做法是以齐步稳步推进，保持方阵的完美排列。但你有一个大胆的想法——一个任何希腊军队都从未尝试过的方案。"
+  },
+  "situationReport": [
+    {
+      "en": "Persian cavalry has been confirmed absent from the battlefield — this window of opportunity may close at any moment if the horsemen return.",
+      "ja": "ペルシア騎兵が戦場に不在であることが確認された——騎兵が戻ればこの好機の窓はいつ閉じてもおかしくない。",
+      "zh-CN": "已确认波斯骑兵不在战场上——如果骑兵返回，这个机会窗口随时可能关闭。"
+    },
+    {
+      "en": "Your battle line is formed with strengthened wings (8+ ranks) and a thin center (4 ranks), spanning approximately 1,500 meters across the plain.",
+      "ja": "あなたの戦列は強化された両翼（8列以上）と薄い中央（4列）で形成され、平原を約1,500メートルにわたって展開している。",
+      "zh-CN": "你的战线已排好，两翼加强（8列以上），中央削薄（4列），横跨平原约1500米。"
+    },
+    {
+      "en": "Approximately 1,500 meters of open ground separates your line from the Persian position, well within effective range of massed Persian archery for at least two to three minutes of approach.",
+      "ja": "あなたの戦列とペルシア軍の陣地の間に約1,500メートルの開けた地面があり、少なくとも2〜3分の接近中にペルシア弓兵の集中射撃の有効範囲内にある。",
+      "zh-CN": "约1500米的开阔地将你的阵线与波斯阵地隔开，在至少两到三分钟的推进过程中处于波斯集中射箭的有效射程内。"
+    },
+    {
+      "en": "Morale among the Greek hoplites is high following the council's decision to attack, though many have never faced the Persians in battle before and fear the legendary arrow storms.",
+      "ja": "軍議の攻撃決定を受けてギリシャ重装歩兵の士気は高いが、多くの者はペルシア軍と実戦で対峙した経験がなく、伝説的な矢の嵐を恐れている。",
+      "zh-CN": "在军事会议决定进攻后，希腊重装步兵士气高昂，但许多人从未在战斗中面对过波斯人，对传说中的箭雨心存畏惧。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Cross the open ground and engage the Persian infantry before their cavalry can return to the battlefield",
+      "ja": "ペルシア騎兵が戦場に戻る前に開けた地面を渡りペルシア歩兵と交戦する",
+      "zh-CN": "在波斯骑兵返回战场之前穿越开阔地带并与波斯步兵交战"
+    },
+    {
+      "en": "Minimize casualties during the approach and achieve decisive contact along the entire battle line",
+      "ja": "接近中の損害を最小限に抑え、戦線全体で決定的な接触を達成する",
+      "zh-CN": "在推进过程中将伤亡降到最低，并在整条战线上实现决定性接触"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "A running charge risks breaking formation, especially in the center where your line is thinnest",
+      "ja": "駆け足の突撃は隊列の乱れを招くリスクがあり、特に戦列が最も薄い中央で顕著である",
+      "zh-CN": "跑步冲锋有打乱阵形的风险，尤其是在你阵线最薄的中央"
+    },
+    {
+      "en": "Each hoplite carries roughly 30 kilograms of armor and equipment — a running charge will exhaust the men before melee contact",
+      "ja": "各重装歩兵は約30キログラムの鎧と装備を携行している——駆け足の突撃は白兵戦の前に兵士を疲弊させる",
+      "zh-CN": "每名重装步兵携带约30公斤的铠甲和装备——跑步冲锋会在近战接触前耗尽士兵体力"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Order the unprecedented: a running charge across 1,500 meters in full armor. Have the men advance at a walk until reaching arrow range, then break into a dead sprint to minimize exposure to the Persian arrow storm.",
+        "ja": "前例のない命令を下す：完全武装で1,500メートルを駆け足で突撃する。矢の射程に入るまでは歩行で前進し、その後ペルシアの矢の嵐への被曝を最小限にするため全力疾走に切り替える。",
+        "zh-CN": "下达前所未有的命令：全副武装跑步冲锋1500米。让士兵步行前进直到进入箭矢射程，然后全力冲刺以尽量减少暴露在波斯箭雨下的时间。"
+      },
+      "historicalContext": "This is what Miltiades actually ordered. Herodotus records that the Greeks ran across the plain, the first time in recorded history that hoplites charged at a run. The charge shocked the Persians, who assumed the Greeks were mad to attack without cavalry or archer support.",
+      "outcomePrompt": {
+        "en": "You give the signal—a blast from the salpinx trumpet that echoes across the plain. The paean, the battle hymn to Apollo, rises from eleven thousand throats as the phalanx begins its advance. The bronze wall moves forward with mechanical precision, shield touching shield, the forest of spear-points swaying in unison. Ahead, you can see the Persian line stirring, archers nocking their first arrows. At 200 meters—the extreme range of the Persian composite bow—the first arrows arc into the sky. 'NOW!' you roar. 'DROMOI! AT THE RUN!' The command ripples down the line, and something extraordinary happens. Eleven thousand heavily armored men break into a sprint, their sandaled feet pounding the earth in a thunder that rivals the gods. The Persians freeze in disbelief. No army charges in full bronze. It is madness. But the madness has method: the arrows that should have had three minutes of carnage now have barely thirty seconds. Shafts clatter off bronze shields and helmets. A few men fall, but the wall holds. The impact when the Greek line hits is catastrophic. Your right wing under Callimachus smashes into the Persian left like a bronze avalanche. The Plataeans on your left fight with the fury of men defending their homeland. The center bows inward as planned, the thin line giving ground but never breaking. The Persian center surges forward, sensing victory—directly into the trap you have set.",
+        "ja": "あなたは合図を出す——平原に響き渡るサルピンクスの喇叭の一吹き。アポロンへの戦いの讃歌パイアンが1万1千の喉から響き、ファランクスが前進を開始する。青銅の壁が機械的な精密さで前に動き、盾が盾に接し、槍の穂先の森が一斉に揺れる。前方では、ペルシアの戦列が動き始め、弓兵が最初の矢をつがえるのが見える。200メートル——ペルシアの合成弓の最大射程——で最初の矢が空に弧を描く。「今だ！」とあなたは叫ぶ。「ドロモイ！駆け足で！」命令が戦列に波のように伝わり、驚くべきことが起きる。1万1千人の重装甲の男たちが全力疾走を始め、サンダルを履いた足が大地を踏みしめる音が神々に匹敵する雷鳴のように轟く。ペルシア軍は信じられない思いで凍りつく。完全な青銅の武装で突撃する軍隊はない。狂気だ。しかしこの狂気には方法がある——3分間の殺戮をもたらすはずだった矢がわずか30秒しかない。矢が青銅の盾と兜に当たって跳ね返る。数人が倒れるが、壁は保たれる。ギリシャ戦列の衝突は壊滅的だ。カリマコス率いるあなたの右翼が青銅の雪崩のようにペルシア左翼に激突する。左翼のプラタイア人は故郷を守る者の怒りで戦う。中央は計画通り内側に湾曲し、薄い列が地面を譲るが決して崩れない。ペルシアの中央が勝利を感じて前進する——あなたが仕掛けた罠の中へ。",
+        "zh-CN": "你发出信号——萨尔平克斯号角的一声长鸣回荡在平原上。祈战颂——献给阿波罗的战斗赞歌——从一万一千个喉咙中升起，方阵开始推进。青铜之墙以机械般的精确向前移动，盾牌紧靠盾牌，枪尖的森林齐齐摇动。前方，你能看到波斯阵线开始骚动，弓箭手搭上第一支箭。在200米处——波斯复合弓的最大射程——第一批箭矢划破天际。「现在！」你怒吼道。「跑步冲锋！」命令沿战线如波浪般传开，惊人的一幕发生了。一万一千名全副武装的人开始冲刺，他们穿着凉鞋的脚踏击大地，发出堪比神雷的轰鸣。波斯人难以置信地愣住了。没有军队会穿着全套青铜铠甲冲锋。这是疯狂。但疯狂中自有章法：原本有三分钟杀伤时间的箭雨现在只剩不到三十秒。箭矢叮当弹开青铜盾牌和头盔。几个人倒下，但铜墙依然完整。希腊战线撞上去时的冲击是毁灭性的。卡利马科斯率领的右翼如青铜雪崩般砸向波斯左翼。左翼的普拉提亚人以保卫家园之人的狂怒作战。中央如计划般向内弯曲，薄薄的阵线步步后退却始终不断。波斯中军感觉到胜利在望而向前涌去——正落入你设下的陷阱。"
+      },
+      "nextSceneId": "marathon-490bc-scene-003",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 25 },
+        { "variable": "greekMorale", "operation": "add", "value": 10 },
+        { "variable": "athenianCasualties", "operation": "add", "value": 5 },
+        { "variable": "persianCasualties", "operation": "add", "value": 30 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Advance steadily in traditional phalanx formation, maintaining perfect cohesion and alignment. Trust in the bronze shields and armor to absorb the arrow fire during a disciplined march across the plain.",
+        "ja": "伝統的なファランクス隊形で着実に前進し、完璧な結束と整列を維持する。規律ある行進中に矢の雨を吸収する青銅の盾と鎧を信頼する。",
+        "zh-CN": "以传统方阵队形稳步推进，保持完美的队列和整齐。在穿越平原的有序行军中，信赖青铜盾牌和铠甲来抵挡箭雨。"
+      },
+      "historicalContext": "A conventional phalanx advance was the standard Greek approach and would have maintained better formation cohesion. However, the extended exposure to Persian archery would have caused significantly higher casualties during the approach.",
+      "outcomePrompt": {
+        "en": "The salpinx sounds and the phalanx steps off with the mechanical rhythm that Greek hoplites have drilled since boyhood. Left foot forward, shields locked, spears level—the bronze wall advances at walking pace. It is magnificent. It is also terrifying. At 200 meters, the first Persian arrows rise in a black cloud against the dawn sky. The sound is like tearing linen, then a hammering rain of iron on bronze. Your men hunch behind their aspis shields, but the arrows come from above, finding shoulders, thighs, the vulnerable gaps between greaves and corselet. Men begin to fall. The discipline holds—the rear ranks step over the wounded and close the gaps—but each step costs lives. The crossing takes nearly four agonizing minutes. By the time your line crashes into the Persian infantry, the casualties are significant: perhaps three hundred men lie on the plain behind you, and the survivors are shaken by the ordeal. Still, the impact is devastating. Your right wing drives into the Persians with grinding force, and the Plataeans fight magnificently on the left. But the center—already thin at four ranks and now depleted by arrow fire to barely three—buckles under the weight of the Persian counterattack. The enemy Saka and Persian immortals drive a wedge into your middle. It is not a rout, not yet, but the situation in the center is critical. Your envelopment plan depends on the center holding long enough for the wings to complete their work. Every moment the center wavers, the risk of a catastrophic breakthrough grows.",
+        "ja": "サルピンクスが鳴り響き、ファランクスがギリシャの重装歩兵が少年時代から訓練してきた機械的なリズムで動き出す。左足を前に、盾を組み合わせ、槍を水平に——青銅の壁が歩行速度で前進する。壮観である。同時に恐ろしい。200メートルで、最初のペルシアの矢が夜明けの空に黒い雲のように立ち上る。その音は布を裂くようであり、次いで鉄が青銅を打つ雨のような轟音に変わる。兵士たちはアスピスの盾の後ろに身を縮めるが、矢は上から降り注ぎ、肩、太腿、脛当てと胴鎧の間の脆弱な隙間を見つける。兵士が倒れ始める。規律は保たれ——後列が負傷者をまたいで隙間を埋める——しかし一歩ごとに命が失われる。横断には約4分の苦悶の時間がかかる。あなたの戦列がペルシア歩兵に衝突した時、損害は甚大である。おそらく300人の兵が背後の平原に倒れ、生存者は試練に動揺している。それでも衝撃は壊滅的だ。右翼がすさまじい力でペルシア軍に押し込み、プラタイア軍は左翼で見事に戦う。しかし中央は——すでに四列で薄く、矢の雨でわずか三列にまで減った——ペルシアの反撃の重圧に屈する。敵のサカ族とペルシア不死隊が中央にくさびを打ち込む。まだ敗走ではないが、中央の状況は危機的である。包囲計画は両翼が任務を完了するまで中央が持ちこたえることに依存している。中央が揺れる一瞬ごとに、壊滅的な突破のリスクが高まる。",
+        "zh-CN": "萨尔平克斯号角响起，方阵以希腊重装步兵从少年时代就反复操练的机械节奏迈步。左脚向前，盾牌紧锁，长矛持平——青铜之墙以步行速度推进。这景象壮观无比。同时也令人恐惧。在200米处，第一批波斯箭矢如一片黑云在黎明的天空中升起。声音如同撕裂亚麻布，随后是铁雨击打青铜的锤击声。你的士兵们蜷缩在圆盾后面，但箭从上方落下，找到肩膀、大腿、胫甲与胸甲之间的脆弱缝隙。士兵开始倒下。纪律依然保持——后排踏过伤员填补缺口——但每一步都在付出生命。穿越花了将近痛苦的四分钟。当你的阵线撞上波斯步兵时，伤亡已经很重：大约三百人倒在你身后的平原上，幸存者被这场磨难所震撼。然而，冲击仍然是毁灭性的。你的右翼以碾压之力攻入波斯军，普拉提亚人在左翼英勇作战。但中央——原本只有四列已经很薄，现在被箭火削减到勉强三列——在波斯反击的重压下开始弯曲。敌人的萨卡人和波斯不死军在你的中路打入一个楔子。还没有溃败，但中央的形势危急。你的包围计划取决于中央坚持足够长的时间让两翼完成任务。中央每动摇一刻，灾难性突破的风险就增大一分。"
+      },
+      "nextSceneId": "marathon-490bc-scene-003",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 5 },
+        { "variable": "athenianCasualties", "operation": "add", "value": 25 },
+        { "variable": "persianCasualties", "operation": "add", "value": 15 },
+        { "variable": "greekMorale", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

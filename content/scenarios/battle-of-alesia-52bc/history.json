@@ -1,0 +1,75 @@
+{
+  "scenarioId": "battle-of-alesia-52bc",
+  "timeline": [
+    {
+      "date": "58–53 BC",
+      "event": {
+        "en": "Caesar conquers Gaul in a series of campaigns. Hundreds of thousands of Gauls are killed or enslaved. Roman authority extends to the Rhine and Channel. But the conquered tribes seethe under heavy taxation and Roman exploitation.",
+        "ja": "カエサルは一連の戦役でガリアを征服する。数十万のガリア人が殺されるか奴隷にされる。ローマの権威はライン川と英仏海峡まで広がる。しかし征服された部族は重税とローマの搾取の下でくすぶっている。",
+        "zh-CN": "凯撒通过一系列战役征服高卢。数十万高卢人被杀死或奴役。罗马权威延伸到莱茵河和海峡。但被征服的部落在沉重税赋和罗马剥削下积怨沸腾。"
+      }
+    },
+    {
+      "date": "52 BC — Spring",
+      "event": {
+        "en": "Vercingetorix, a young Arverni nobleman, unites the Gallic tribes in the first coordinated resistance to Rome. His strategy: refuse pitched battle, use scorched earth, and attack Caesar's supply lines. He scores a major victory at Gergovia — the only battle Caesar lost in Gaul.",
+        "ja": "アルウェルニ族の若い貴族ヴェルキンゲトリクスがガリアの部族をローマへの最初の組織的抵抗において統一する。彼の戦略：野戦を避け、焦土作戦を使い、カエサルの補給線を攻撃する。ゲルゴウィアで大勝利を収める——カエサルがガリアで敗れた唯一の戦いだ。",
+        "zh-CN": "阿维尔尼族年轻贵族维钦托利联合高卢各部落，组织起对罗马的第一次协调抵抗。他的战略：拒绝野战，使用焦土策略，攻击凯撒的补给线。他在格尔戈维亚取得重大胜利——这是凯撒在高卢唯一一次失败。"
+      }
+    },
+    {
+      "date": "52 BC — Summer",
+      "event": {
+        "en": "After Gergovia, Vercingetorix retreats to the fortified hilltop town of Alesia with 80,000 warriors. Caesar pursues and immediately begins construction of circumvallation — 11 miles of inner walls to contain Alesia, and 14 miles of outer walls (contravallation) to face the relief army he knows is coming.",
+        "ja": "ゲルゴウィアの後、ヴェルキンゲトリクスは8万の戦士と共に要塞化された丘の上の町アレシアに撤退する。カエサルが追跡し、直ちに包囲線の建設を始める——アレシアを封じ込めるための内側の壁11マイル、そして来ることが分かっている救援軍に向けた外側の壁（対攻囲線）14マイル。",
+        "zh-CN": "格尔戈维亚之后，维钦托利带着80,000名战士撤退到设防的山顶城镇阿莱西亚。凯撒追击并立即开始建造围城工事——11英里的内墙以困住阿莱西亚，以及14英里的外墙（反围困工事）以面对他知道即将到来的援军。"
+      }
+    },
+    {
+      "date": "September, 52 BC",
+      "event": {
+        "en": "A Gallic relief army of reportedly 250,000 infantry and 8,000 cavalry arrives. Caesar's 50,000 Romans now face simultaneous attack from the garrison within and the relief army without. Vercingetorix launches sorties. The outer Gallic army attacks the Roman outer walls.",
+        "ja": "報告によると25万の歩兵と8千の騎兵からなるガリアの救援軍が到着する。カエサルの5万のローマ人は今や内部の守備隊と外部の救援軍からの同時攻撃に直面する。ヴェルキンゲトリクスが出撃する。外側のガリア軍がローマの外壁を攻撃する。",
+        "zh-CN": "据报道由250,000步兵和8,000骑兵组成的高卢援军抵达。凯撒的50,000名罗马人现在面临内部守军和外部援军的同时攻击。维钦托利发动出击。外部高卢军队攻击罗马外墙。"
+      }
+    },
+    {
+      "date": "October, 52 BC — The Crisis",
+      "event": {
+        "en": "The Gauls identify a weak point in Caesar's northern wall where the terrain made construction difficult. Vercassivellaunus leads 60,000 men against this point while the main army attacks the south. The Roman line nearly breaks. Caesar personally rides the perimeter, visible to both sides, committing his last reserves.",
+        "ja": "ガリア人は地形により建設が困難だったカエサルの北壁の弱点を特定する。ヴェルカッシヴェラウヌスが6万人の兵士をこの地点に率いる一方、主力軍が南を攻撃する。ローマの防衛線はほぼ崩壊する。カエサルは個人的に両側から見えながら外周を馬で駆け、最後の予備隊を投入する。",
+        "zh-CN": "高卢人发现凯撒北墙的一个薄弱点，那里地形使建设困难。韦尔卡西韦拉乌努斯率60,000人进攻该点，同时主力军攻击南方。罗马防线几近崩溃。凯撒亲自骑马巡视防线，两方都能看见他，投入最后的预备队。"
+      }
+    },
+    {
+      "date": "October, 52 BC — Surrender",
+      "event": {
+        "en": "The relief army is routed. Vercingetorix, seeing the relief army flee, surrenders to Caesar the next day. He rides his horse into the Roman camp, dismounts, throws his weapons at Caesar's feet, and sits in silence. He is taken to Rome, held six years, and strangled after Caesar's triumph in 46 BC.",
+        "ja": "救援軍は壊走する。ヴェルキンゲトリクスは救援軍が逃げるのを見て翌日カエサルに降伏する。彼は馬でローマの陣営に乗り込み、下馬してカエサルの足元に武器を投げ、沈黙のまま座る。彼はローマに連行され、6年間拘留され、紀元前46年のカエサルの凱旋式の後に絞殺される。",
+        "zh-CN": "援军被击溃。维钦托利见援军逃跑，次日向凯撒投降。他骑马进入罗马营地，下马将武器扔在凯撒脚前，默然而坐。他被带往罗马，被拘禁六年，在公元前46年凯撒的凯旋游行后被绞死。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Alesia ended organized Gallic resistance to Rome. Caesar's double circumvallation — besieging the besieged — remains one of military history's most audacious engineering feats. The conquest of Gaul added a vast, fertile territory to Rome and gave Caesar the wealth and military loyalty to pursue the civil war that would make him dictator.",
+    "ja": "アレシアはローマへの組織的なガリアの抵抗を終わらせた。カエサルの二重包囲線——包囲された者を包囲する——は軍事史上最も大胆な工学的偉業の一つとして残っている。ガリアの征服はローマに広大で肥沃な領土を加え、カエサルに独裁官への道を歩む内戦を追求するための富と軍事的忠誠心を与えた。",
+    "zh-CN": "阿莱西亚终结了高卢对罗马的有组织抵抗。凯撒的双层围困工事——围困被围困者——至今仍是军事史上最大胆的工程壮举之一。征服高卢为罗马增添了一片广阔肥沃的领土，并给了凯撒追求使他成为独裁者的内战所需的财富和军事忠诚。"
+  },
+  "casualties": {
+    "en": "Gallic casualties: Vercingetorix's garrison was partly sent away before the siege (to preserve food); approximately 80,000 remained in Alesia. The relief army suffered tens of thousands killed. Roman casualties: significant but unreported — Caesar's own account minimizes Roman losses.",
+    "ja": "ガリア側の損失：ヴェルキンゲトリクスの守備隊の一部は包囲前に（食料を節約するために）追い出された。約8万人がアレシアに残った。救援軍は数万人の死者を出した。ローマ側の損失：相当だが報告されていない——カエサル自身の記録はローマの損失を最小化している。",
+    "zh-CN": "高卢方面损失：维钦托利的守军部分在围城前被遣送出去（以节省粮食）；约80,000人留在阿莱西亚。援军数万人被杀。罗马方面损失：相当可观但未见记载——凯撒自己的记述将罗马损失最小化。"
+  },
+  "significance": {
+    "en": "Alesia completed the Roman conquest of Gaul — a demographic and cultural catastrophe for the Celts that reshapedEurope's linguistic and cultural map. Caesar's Gallic Wars account became a foundational text of Latin literature and military writing. Vercingetorix became France's national hero two millennia later when Napoleon III sponsored archaeology at the Alesia site. The double circumvallation is still studied in military engineering.",
+    "ja": "アレシアはローマによるガリアの征服を完成させた——ヨーロッパの言語的・文化的地図を作り直したケルト人にとっての人口学的・文化的大惨事だ。カエサルのガリア戦記はラテン文学と軍事書物の基礎的なテキストとなった。ヴェルキンゲトリクスはナポレオン3世がアレシアの遺跡での考古学調査を支援した二千年後にフランスの国民的英雄となった。二重包囲線は今でも軍事工学で研究されている。",
+    "zh-CN": "阿莱西亚完成了罗马对高卢的征服——这对凯尔特人来说是一场重塑欧洲语言文化版图的人口和文化浩劫。凯撒的《高卢战记》成为拉丁文学和军事写作的基础文本。维钦托利在两千年后拿破仑三世赞助阿莱西亚遗址考古时成为法国的民族英雄。双层围困工事至今仍在军事工程学中被研究。"
+  },
+  "furtherReading": [
+    "Julius Caesar, Gallic Wars (Book VII)",
+    "Adrian Goldsworthy, Caesar: Life of a Colossus",
+    "Kate Gilliver, Caesar's Gallic Wars",
+    "Tom Holland, Rubicon",
+    "Pedro Barcel, Hannibal"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "fall-of-jerusalem-70-scene-003",
+  "scenarioId": "fall-of-jerusalem-70",
+  "title": {
+    "en": "The Fate of the Temple",
+    "ja": "神殿の運命",
+    "zh-CN": "圣殿的命运"
+  },
+  "date": {
+    "en": "August 29–30, 70 AD",
+    "ja": "西暦70年8月29～30日",
+    "zh-CN": "公元70年8月29—30日"
+  },
+  "location": {
+    "en": "The Temple Mount, Jerusalem",
+    "ja": "エルサレム、神殿の丘",
+    "zh-CN": "耶路撒冷，圣殿山"
+  },
+  "narrativePrompt": {
+    "en": "The Fortress of Antonia has fallen. Your legions now control the Temple courts up to the inner sanctuary itself. For days fierce fighting has raged across the sacred compound — the colonnades have burned, the outer courts are littered with Jewish dead, and still the fanatics fight on among the altar and the priestly courtyards with the ferocity of men who have nothing left to lose. The famine has done its terrible work; the defenders who remain are skeletal but seemingly beyond exhaustion, fighting on fury alone. John of Gischala and his zealots have retreated into the inner Temple — the structure Herod built that is one of the most magnificent buildings in the known world, faced with white marble and gleaming golden ornamentation that can be seen for miles.\n\nNow the moment of final decision has arrived. Your soldiers have already set fire to the Temple's gates and colonnades. Some accounts will later say it was an accident — a soldier threw a torch in the heat of battle. Others say the order was given. The truth is that the decision is yours to make right now, in this moment, as the fires begin to spread toward the inner sanctuary and your officers await your word.\n\nYour father Vespasian, who is now Emperor, sent a clear message before the siege: the Temple is a symbol of Jewish identity throughout the world. Destroying it may extinguish Jewish resistance permanently, but it will be seen as an act of wanton sacrilege that Rome will be blamed for across generations. He advised restraint. But your generals remind you that the Temple has become a fortified sanctuary for thousands of armed fanatics who will have to be killed in hand-to-hand combat among its chambers and colonnades at tremendous cost in Roman lives. And once taken, the structure could serve as a rallying point for future rebellion unless demolished entirely. The golden treasures within — the Menorah, the Table of Showbread, the Temple treasury — represent enormous wealth that rightfully belongs to the Roman state as the spoils of war.",
+    "ja": "アントニア要塞が陥落した。軍団兵は今や内なる聖域そのものまで神殿の中庭を制圧している。数日間、聖なる複合施設全体で激しい戦闘が続いた——柱廊が焼け、外庭はユダヤ人の死体で埋め尽くされ、それでも狂信者たちは祭壇や祭司の中庭で、失うものを何も持たない者の猛烈さで戦い続けている。飢饉はその恐ろしい仕事を果たした。残る防衛者たちは骸骨のようだが疲弊を超えたように見え、怒りだけで戦い続けている。ギスカラのヨハネスと熱心党は内なる神殿——ヘロデが建て、白大理石と何マイルも先から見える金色の装飾で輝く、知られた世界で最も壮麗な建物の一つ——に退いた。\n\n今、最終的な決断の瞬間が来た。兵士たちはすでに神殿の門と柱廊に火を放った。後の記録によれば偶然だったともいう——戦闘の熱の中で兵士が松明を投げた。命令が下されたという記録もある。真実は、この瞬間、火が内なる聖域に向けて広がり始め、将校たちがあなたの言葉を待っている今、決断はあなたのものだということだ。\n\n現在は皇帝となった父ウェスパシアヌスは包囲の前に明確なメッセージを送った：神殿は世界中のユダヤ人のアイデンティティの象徴だ。それを破壊することはユダヤ人の抵抗を永久に消滅させるかもしれないが、ローマが何世代にもわたって責められるいわれのない冒涜の行為として見られるだろう。彼は自制を勧めた。しかし将軍たちは、神殿がローマ兵の膨大な犠牲を払って部屋と柱廊の中での白兵戦で殺さなければならない何千人もの武装した狂信者の要塞化された聖域となっていることを思い起こさせる。そして占拠した後も、全面的に取り壊さない限り、その建物が将来の反乱の集結点となる可能性がある。内部の黄金の宝物——メノラー、陳列のテーブル、神殿の宝庫——は戦争の戦利品としてローマ国家に正当に帰属する膨大な富を意味する。",
+    "zh-CN": "安东尼亚要塞已经陷落。你的军团如今控制着直至内圣所本身的圣殿庭院。数日来，神圣建筑群各处激战连连——柱廊已被焚毁，外庭遍布犹太人的尸体，狂热分子仍以一无所有者的凶猛在祭坛和祭司庭院中持续抵抗。饥荒已发挥了其可怖的作用；留下来的守军形如骷髅，却似乎已超越疲惫，仅凭愤怒支撑战斗。吉斯卡拉的约翰和他的狂热分子已退入内圣殿——那座希律王所建、以白色大理石和数英里外可见的金色装饰点缀的建筑，是已知世界中最宏伟的建筑之一。\n\n现在，最终决断的时刻到来了。你的士兵已经点燃了圣殿的城门和柱廊。一些记载后来会说这是意外——一名士兵在战斗激烈时投掷了一支火把。其他记载则说命令已经下达。真相是，就在此刻，火焰开始向内圣所蔓延，你的军官们等待着你的命令，这个决定权在你手中。\n\n你的父亲韦斯帕先，现任皇帝，在围城前发来了明确的信息：圣殿是全世界犹太人身份认同的象征。摧毁它或许能永久扑灭犹太人的抵抗，但这将被视为一种无端亵渎之举，罗马将为此遭受数代人的谴责。他建议保持克制。但你的将领们提醒你，圣殿已成为数千名武装狂热分子的要塞圣所，必须在其厅堂和柱廊中以白刃战将其逐一消灭，罗马士兵将付出惨重代价。而且一旦占领，除非彻底拆毁，否则这一建筑可能成为未来叛乱的集结点。其中的黄金珍宝——七支烛台、陈设饼桌、圣殿国库——作为战利品理应归属于罗马国家，代表着巨大的财富。"
+  },
+  "situationReport": [
+    {
+      "en": "The Temple's gates and outer colonnades are already burning; fire is spreading toward the inner sanctuary",
+      "ja": "神殿の門と外側の柱廊はすでに燃えており、火は内なる聖域に向けて広がっている",
+      "zh-CN": "圣殿的城门和外部柱廊已在燃烧；火势正向内圣所蔓延"
+    },
+    {
+      "en": "John of Gischala and approximately 6,000 zealots are making their last stand inside the inner Temple",
+      "ja": "ギスカラのヨハネスと約六千人の熱心党が内なる神殿の中で最後の抵抗をしている",
+      "zh-CN": "吉斯卡拉的约翰和约六千名狂热分子正在内圣殿中做最后的抵抗"
+    },
+    {
+      "en": "Simon bar Giora still holds the Upper City and Herod's Palace with a remaining force — the siege is not yet complete",
+      "ja": "シモン・バル・ギオラが上の町とヘロデ宮殿を残存部隊と共にまだ保持している——包囲はまだ完了していない",
+      "zh-CN": "西蒙·巴尔·吉奥拉仍以残余兵力坚守上城和希律王宫——围城尚未完成"
+    },
+    {
+      "en": "Emperor Vespasian previously urged that the Temple be preserved if possible to avoid provoking lasting resentment across the Jewish diaspora",
+      "ja": "ウェスパシアヌス皇帝はユダヤ人ディアスポラ全体の永続的な怨恨を避けるため、できれば神殿を保存するよう以前に勧めていた",
+      "zh-CN": "韦斯帕先皇帝此前曾建议尽可能保留圣殿，以避免在全球犹太侨民中引发持久怨恨"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "End resistance in the Temple Mount and complete the capture of Jerusalem",
+      "ja": "神殿の丘での抵抗を終わらせ、エルサレムの占領を完了させる",
+      "zh-CN": "终结圣殿山的抵抗并完成对耶路撒冷的占领"
+    },
+    {
+      "en": "Make a decision about the Temple that history — and Vespasian — will judge",
+      "ja": "歴史——そしてウェスパシアヌス——が審判する神殿に関する決断を下す",
+      "zh-CN": "就圣殿做出一个历史——以及韦斯帕先——将要评判的决定"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Clearing thousands of fanatics from the Temple's chambers by hand-to-hand combat will cost hundreds of Roman lives",
+      "ja": "神殿の部屋から白兵戦で何千人もの狂信者を排除するには何百人ものローマ兵の命が必要",
+      "zh-CN": "在圣殿的厅堂中以白刃战驱逐数千名狂热分子将付出数百名罗马士兵的生命"
+    },
+    {
+      "en": "Destroying the Temple will be remembered for millennia — it cannot be undone once the fire takes hold",
+      "ja": "神殿の破壊は何千年も記憶されるだろう——火が燃え広がれば取り消しは不可能だ",
+      "zh-CN": "摧毁圣殿将被铭记数千年——一旦火焰蔓延便无法挽回"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Let the fire spread. The Temple burns. End this siege by letting the flames do what the legions would take weeks to accomplish in blood.",
+        "ja": "火の燃え広がるままにする。神殿が燃える。軍団兵が血の中で何週間もかけて成し遂げることを炎にさせて包囲を終わらせる。",
+        "zh-CN": "让火势蔓延。圣殿燃烧。让火焰完成军团士兵需要数周流血才能完成的事，从而结束这场围城。"
+      },
+      "historicalContext": "The historical outcome — whether by accident, soldiers' initiative, or tacit approval, the Temple burned on 9 Av (late August) 70 AD, the same calendar date as the destruction of the First Temple by Nebuchadnezzar in 586 BC. Josephus reports that Titus tried to stop it but failed.",
+      "outcomePrompt": {
+        "en": "The fire spreads. Titus — or so later accounts will insist — tried to stop it, shouting orders into the roar of flames and the screams of the dying. But soldiers intoxicated by battle and by the promise of the gold-and-silver treasures within hurl torches into the sanctuary through windows and doorways. By nightfall, the great golden Temple is an inferno visible for miles. The white marble cracks and shatters in the heat. The massive stones of the platform — some weighing hundreds of tons — collapse inward as the vaulted passages beneath them fill with fire. The surviving zealots are burned alive or cut down as they flee. John of Gischala escapes into the Upper City, which falls three weeks later when Titus systematically reduces it. Simon bar Giora is captured hiding in a tunnel. When the smoke clears, the Temple Mount is a waste of burned stone and ash. The Romans retrieve enormous quantities of gold and silver from the melted treasures — molten metal that had flowed between the stones as the gold of the furnishings liquefied in the heat. Titus enters Rome in triumph two years later. The Arch of Titus in the Forum still stands — carved with the image of Roman soldiers carrying the Temple Menorah through the streets of Rome. Jerusalem is not rebuilt as a Jewish city for nearly two thousand years.",
+        "ja": "火が燃え広がる。ティトゥスは——後の記録が主張するように——それを止めようとし、炎の轟音と死にゆく者の叫びの中に命令を叫んだ。しかし戦闘の陶酔と内部の金銀財宝の約束に酔いしれた兵士たちが、窓や出入り口から聖所に松明を投げ込む。夜になるまでに、偉大な黄金の神殿は何マイルも先から見える大火となっている。白大理石が熱で割れ砕ける。台座の巨大な石——一部は何百トンもある——は、その下の丸天井の通路が火で満たされると内側に崩れ落ちる。生き残った熱心党は生きたまま焼かれるか、逃げるところを斬られる。ギスカラのヨハネスは上の町に逃れ、そこは三週間後にティトゥスが組織的に制圧して陥落する。シモン・バル・ギオラはトンネルに隠れているところを捕らえられる。煙が晴れると、神殿の丘は焼けた石と灰の荒地となっている。ローマ人は溶けた宝物から莫大な量の金と銀を回収する——調度品の金が熱で液化して石の間に流れ込んだ溶融金属だ。ティトゥスは二年後に凱旋してローマに入る。フォルムのティトゥスの凱旋門は今も立っている——ローマ兵が神殿のメノラーをローマの街路に運ぶ姿が刻まれている。エルサレムはほぼ二千年の間、ユダヤ人の都市として再建されることはない。",
+        "zh-CN": "火势蔓延。提图斯——或者说，正如后来的记载所坚称的那样——试图阻止，在火焰的轰鸣和垂死者的惨叫声中呼喊命令。但被战斗的狂热和内部金银财宝的诱惑所迷醉的士兵，将火把从窗户和门道投入圣所。入夜时分，巍峨的金色圣殿已成数英里外可见的一片火海。白色大理石在高温中开裂碎裂。台基上的巨石——有些重达数百吨——随着其下的拱顶通道被火焰填满而向内坍塌。幸存的狂热分子被活活烧死，或在逃跑时被砍倒。吉斯卡拉的约翰逃入上城，三周后上城在提图斯的系统攻势下陷落。西蒙·巴尔·吉奥拉被发现躲藏在一条地道中而被俘。烟雾散尽，圣殿山已成一片烧焦石块和灰烬的废墟。罗马人从熔化的珍宝中找回大量黄金和白银——那是陈设品的黄金在高温中液化后流入石缝的熔融金属。提图斯两年后凯旋进入罗马。广场上的提图斯凯旋门至今仍矗立——上面刻着罗马士兵将圣殿七支烛台运过罗马街道的场景。耶路撒冷近两千年来未能以犹太城市的身份重建。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "siegeProgress", "operation": "set", "value": 100 },
+        { "variable": "romanMorale", "operation": "add", "value": 20 },
+        { "variable": "civilianCasualties", "operation": "add", "value": 30 },
+        { "variable": "templeIntegrity", "operation": "set", "value": 0 },
+        { "variable": "politicalStanding", "operation": "add", "value": -20 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Stop the fire. Drive the soldiers back, let the fires already burning die out, and take the Temple by direct assault. Preserve this building — its capture intact is worth more than its ashes.",
+        "ja": "火を止める。兵士たちを下がらせ、すでに燃えている火を消え去らせ、直接攻撃で神殿を占領する。この建物を保存する——無傷での占領は灰よりも価値がある。",
+        "zh-CN": "扑灭大火。命令士兵后退，让已燃起的火焰自然熄灭，通过直接强攻占领圣殿。保留这座建筑——完好无损地占领它比夺得一堆灰烬价值更高。"
+      },
+      "historicalContext": "A counterfactual — the Temple was not saved. Titus's later claims that he tried to save it are debated by historians. A Roman emperor preserving the Jewish Temple would have been an extraordinary diplomatic act.",
+      "outcomePrompt": {
+        "en": "Titus throws himself into the effort to stop the fire. He physically strikes soldiers who continue to throw torches and has officers beat back the men looting the outer treasuries. With tremendous effort, the fires already burning are contained to the gate areas and outer colonnades. The inner sanctuary still stands. What follows is three days of the bloodiest close-quarters fighting of the entire siege as legionaries storm through the Temple's chambers room by room, fighting against zealots who know they are already dead and have nothing to lose. Roman losses are severe — over a thousand dead in the Temple complex alone. But when the fighting ends, the Temple stands. Intact. The Menorah, the golden furnishings, the sacred objects — all are catalogued and removed to Rome as the permanent spoils of the Jewish War. John of Gischala surrenders. Simon bar Giora fights on for another three weeks in the Upper City before his capture. Titus enters Rome in triumph, his triumph more complex than he anticipated — the generals and senators who respect strength applaud, but the preservation of a barbarian temple strikes some as weakness. In Judaea, the preserved structure becomes a haunting reminder of what was lost — and a seed of hope for those who will wait, generation after generation, for its restoration.",
+        "ja": "ティトゥスは火を止める努力に身を投じる。松明を投げ続ける兵士たちを直接叩き、将校に外部の宝物庫を略奪する兵たちを叩きのめすよう命じる。大変な努力で、すでに燃えている火は門の区域と外側の柱廊に封じ込められる。内なる聖域は依然として立っている。続く三日間は包囲全体で最も血みどろの近接戦闘で、軍団兵が神殿の部屋を一つずつ制圧し、すでに死んでいて失うものがない熱心党と戦う。ローマの損失は深刻で——神殿複合施設だけで千人以上が戦死する。しかし戦闘が終わると、神殿は立っている。無傷で。メノラー、黄金の調度品、聖なる器物——すべてがユダヤ戦争の永続的な戦利品としてローマに移送するために目録に記載され、除去される。ギスカラのヨハネスは降伏する。シモン・バル・ギオラはさらに三週間上の町で戦った後に捕らえられる。ティトゥスは凱旋してローマに入るが、凱旋は予想より複雑だった。力を重んじる将軍や元老院議員は喝采するが、野蛮人の神殿の保存は一部の者に弱さとして映る。ユダヤでは、保存された建物は何が失われたかという不気味な思い出となる——そして世代から世代へとその回復を待つ者たちの希望の種となる。",
+        "zh-CN": "提图斯全力投入扑火。他亲自击打仍在投掷火把的士兵，并命令军官驱散劫掠外部宝库的人。经过巨大努力，已燃起的火焰被控制在城门区域和外部柱廊。内圣所仍然矗立。接下来是整个围城中最血腥的三天近身肉搏战，军团士兵逐室攻克圣殿各厅堂，与深知自己已经死定、别无所惧的狂热分子厮杀。罗马伤亡惨重——仅圣殿建筑群就有逾千人阵亡。但战斗结束时，圣殿还在。完好无损。七支烛台、黄金陈设、圣物——一切均被编目后运往罗马，作为犹太战争的永久战利品。吉斯卡拉的约翰投降。西蒙·巴尔·吉奥拉在上城又坚守了三周后被俘。提图斯凯旋进入罗马，但这场凯旋比他预想的更为复杂——崇尚力量的将领和元老们喝彩，但保留一座蛮族神殿在某些人看来是软弱的表现。在犹太，保留下来的建筑成为一个令人心痛的提醒，提醒着曾经失去的一切——同时也成为那些将代代等待其复兴之人的一粒希望种子。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "siegeProgress", "operation": "set", "value": 100 },
+        { "variable": "romanMorale", "operation": "add", "value": -10 },
+        { "variable": "civilianCasualties", "operation": "add", "value": 10 },
+        { "variable": "templeIntegrity", "operation": "set", "value": 60 },
+        { "variable": "politicalStanding", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

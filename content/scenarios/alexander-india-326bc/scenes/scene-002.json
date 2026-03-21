@@ -1,0 +1,116 @@
+{
+  "id": "alexander-india-326bc-scene-002",
+  "scenarioId": "alexander-india-326bc",
+  "title": {
+    "en": "Clash of Titans",
+    "ja": "巨人たちの激突",
+    "zh-CN": "巨人之战"
+  },
+  "date": {
+    "en": "Mid-May, 326 BC",
+    "ja": "紀元前326年5月中旬",
+    "zh-CN": "公元前326年5月中旬"
+  },
+  "location": {
+    "en": "Eastern bank of the Hydaspes River, Punjab",
+    "ja": "ヒュダスペス川東岸、パンジャーブ",
+    "zh-CN": "希达斯佩斯河东岸，旁遮普"
+  },
+  "narrativePrompt": {
+    "en": "The moment of truth has arrived. Your forces are now committed on the eastern bank of the Hydaspes, and Porus is advancing to meet you with the full weight of his army. The Indian king has deployed his forces in a formidable formation: a long line of war elephants forms the front rank, spaced at intervals with infantry filling the gaps between them. Behind the elephant line, his cavalry is massed on both flanks, and his chariots — though hampered by the muddy ground — are positioned to exploit any breakthrough.\n\nThe sight is unlike anything your Macedonians have faced before. The war elephants, over two hundred strong, create a living wall of armored flesh. Each beast carries a howdah filled with archers and javelin throwers, and their very presence is causing visible agitation among your cavalry horses. Your Companion cavalry, the hammer that has shattered every army from Granicus to Gaugamela, may be neutralized if the horses refuse to charge toward the elephants.\n\nYou survey the battlefield from horseback, your mind racing through possibilities. Your force on this bank consists of your elite Companion cavalry, the hypaspists, several taxeis of the phalanx, and contingents of light troops including Scythian horse archers. Coenus commands a cavalry detachment that could be used for a flanking maneuver. Back across the river, Craterus waits with the rest of the army, ready to cross once battle is joined and Porus is fully committed.\n\nThe ground is soft and muddy from the monsoon, which will slow both infantry and chariots but matter less to the elephants. You notice that Porus has concentrated his cavalry on his left flank, leaving his right somewhat exposed. The Indian king himself rides the largest elephant, a magnificent beast that towers over the others, directing his army from this moving command post. Your infantry phalanx, with its long sarissa pikes, could potentially keep the elephants at bay, but if the formation breaks, your men will be trampled. How do you engage Porus's army?",
+    "ja": "決定的な瞬間が到来した。あなたの軍はヒュダスペス川東岸に展開し、ポロスが全軍の力を持って迎撃に向かっている。インドの王は恐るべき陣形で軍を展開した。戦象の長い列が前列を形成し、間隔を置いて歩兵がその間を埋めている。象の列の後方には、両翼に騎兵が集結し、泥濘で制限されているとはいえ戦車が突破口を利用すべく配置されている。\n\nこの光景はマケドニア軍がこれまで直面したことのないものだ。200頭以上の戦象が装甲された肉の生きた壁を作り出している。各獣は弓兵と投槍兵を乗せた輿を背負い、その存在だけで騎兵の馬に目に見える動揺を引き起こしている。グラニコスからガウガメラまですべての軍を粉砕してきた鉄槌であるヘタイロイ騎兵も、馬が象に向かって突撃を拒否すれば無力化される可能性がある。\n\nあなたは馬上から戦場を見渡し、可能性を駆け巡らせる。この岸にいるあなたの部隊は精鋭のヘタイロイ騎兵、ヒュパスピスタイ、数個のファランクスのタクセイス、スキタイの騎馬弓兵を含む軽装部隊で構成されている。コエヌスは側面機動に使える騎兵部隊を指揮している。川の向こうではクラテロスが残りの軍とともに待機し、戦闘が始まりポロスが完全に拘束された時点で渡河する準備ができている。\n\nモンスーンで地面は柔らかく泥だらけで、歩兵と戦車の動きを遅くするが象にはあまり影響しない。あなたはポロスが騎兵を左翼に集中させ、右翼がやや手薄であることに気づく。インドの王自身は最も大きな象に乗り、この移動する指揮所から軍を指揮している。長いサリッサ槍を持つあなたの歩兵ファランクスは象を寄せ付けない可能性があるが、陣形が崩れれば兵士たちは踏み潰される。どのようにポロスの軍と交戦するか？",
+    "zh-CN": "决定性时刻已经来临。你的部队已在希达斯佩斯河东岸展开，波鲁斯正率全军前来迎战。这位印度国王以令人生畏的阵型部署了他的军队：一条由战象组成的长列构成前排，象与象之间间隔配置步兵填补空隙。在象阵后方，骑兵集中在两翼，战车虽受泥泞地面制约，但也部署在可以利用突破口的位置。\n\n这番景象是你的马其顿人从未面对过的。两百多头战象形成了一道活的装甲肉墙。每头巨兽背上的象轿里载满了弓箭手和标枪手，它们的存在本身就在你的骑兵战马中引起了明显的不安。从格拉尼库斯到高加米拉粉碎了所有军队的铁锤——你的伙伴骑兵，如果战马拒绝向战象冲锋，就可能被彻底废掉。\n\n你在马背上审视战场，脑中飞速运转着各种可能性。你在这一岸的兵力包括精锐的伙伴骑兵、持盾卫队、数个方阵步兵大队，以及包括斯基泰骑射手在内的轻装部队。科纳斯指挥着一支可用于侧翼机动的骑兵分队。河对岸，克拉特鲁斯率领剩余军队待命，准备在战斗打响、波鲁斯全力投入后渡河。\n\n季风使地面松软泥泞，这会迟滞步兵和战车的行动，但对战象影响不大。你注意到波鲁斯将骑兵集中在他的左翼，右翼相对薄弱。印度国王本人骑在最大的一头战象上，那头雄伟的巨兽高出其他战象一截，他从这个移动指挥所指挥全军。你的步兵方阵凭借长长的萨里沙长矛或许能阻挡战象，但一旦阵型崩溃，你的士兵就会被踩成肉泥。你将如何与波鲁斯的军队交战？"
+  },
+  "situationReport": [
+    {
+      "en": "Porus has deployed over 200 war elephants in a frontal line with infantry filling gaps, creating an almost impenetrable wall of armored beasts and soldiers.",
+      "ja": "ポロスは200頭以上の戦象を前線に配置し、歩兵が間隙を埋めて、装甲された獣と兵士によるほぼ突破不可能な壁を作っている。",
+      "zh-CN": "波鲁斯在前线部署了两百多头战象，步兵填补间隙，形成了一道几乎不可穿透的装甲巨兽与士兵之墙。"
+    },
+    {
+      "en": "Porus's cavalry is concentrated on his left flank, leaving his right flank relatively vulnerable to a flanking attack.",
+      "ja": "ポロスの騎兵は左翼に集中しており、右翼は側面攻撃に対して比較的脆弱である。",
+      "zh-CN": "波鲁斯的骑兵集中在左翼，其右翼相对容易遭受侧翼攻击。"
+    },
+    {
+      "en": "Your Companion cavalry horses are visibly agitated by the presence of the war elephants, making a direct cavalry charge against the elephant line inadvisable.",
+      "ja": "あなたのヘタイロイ騎兵の馬は戦象の存在に目に見えて動揺しており、象の列への直接騎兵突撃は得策ではない。",
+      "zh-CN": "你的伙伴骑兵战马因战象的存在而明显躁动不安，直接对象阵发起骑兵冲锋并不可取。"
+    },
+    {
+      "en": "Craterus is positioned across the river with reserves, ready to cross and strike Porus's rear once the Indian army is fully engaged.",
+      "ja": "クラテロスは川の向こうに予備兵力とともに配置され、インド軍が完全に交戦したら渡河してポロスの背後を突く準備ができている。",
+      "zh-CN": "克拉特鲁斯率预备队在河对岸待命，一旦印度军队全面投入战斗即可渡河攻击波鲁斯后方。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Defeat Porus's army while minimizing Macedonian casualties, especially against the war elephants",
+      "ja": "特に戦象に対してマケドニア軍の損害を最小限に抑えつつ、ポロスの軍を撃破する",
+      "zh-CN": "击败波鲁斯的军队，同时尽量减少马其顿军的伤亡，特别是在应对战象时"
+    },
+    {
+      "en": "Capture or neutralize King Porus to secure control of the Paurava kingdom",
+      "ja": "ポロス王を捕虜にするか無力化し、パウラヴァ王国の支配を確保する",
+      "zh-CN": "俘获或制服波鲁斯王，确保对保拉瓦王国的控制"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your cavalry horses cannot be directed against the war elephants without risking a panicked rout",
+      "ja": "騎兵の馬は恐慌による潰走の危険なしに戦象に向けることはできない",
+      "zh-CN": "你的骑兵战马无法直接对抗战象，否则可能引发恐慌性溃败"
+    },
+    {
+      "en": "The muddy terrain limits phalanx mobility and could cause the formation to break if forced to maneuver quickly",
+      "ja": "泥濘の地形がファランクスの機動性を制限し、素早い機動を強いられた場合に陣形が崩れる可能性がある",
+      "zh-CN": "泥泞的地形限制了方阵的机动性，如果被迫快速调动可能导致阵型崩溃"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Execute a cavalry double envelopment: lead the Companions against Porus's left-flank cavalry while Coenus sweeps wide around the rear to hit the same flank from behind, then use the phalanx to pin the elephants in place while your victorious cavalry rolls up the flanks.",
+        "ja": "騎兵による二重包囲を実行する：ヘタイロイを率いてポロスの左翼騎兵を攻撃し、コエヌスは大きく迂回して後方から同じ翼を攻撃する。次にファランクスで象を釘付けにし、勝利した騎兵で側面を巻き上げる。",
+        "zh-CN": "执行骑兵双重包围：率伙伴骑兵攻击波鲁斯的左翼骑兵，同时科纳斯大范围迂回从后方打击同一侧翼，然后用方阵牵制战象，让取胜的骑兵卷击两翼。"
+      },
+      "historicalContext": "This is essentially what Alexander did. He engaged Porus's cavalry with a feint, while Coenus looped around to attack from behind. The Indian cavalry was routed and fled back into the elephant line, causing chaos. The phalanx then advanced methodically against the disorganized elephants.",
+      "outcomePrompt": {
+        "en": "You put your battle-tested tactical playbook into action with devastating effect. Leading the Companions yourself, you charge toward Porus's left-flank cavalry, drawing them into a full engagement. The Indian horsemen fight fiercely, but they are unaware that Coenus has already led his cavalry detachment in a wide arc behind the battlefield. Just as the Indian cavalry commits fully to engaging your Companions, Coenus strikes their rear like a thunderbolt.\n\nThe result is catastrophic for Porus. Caught between two converging cavalry forces, his horsemen break and flee — directly back into their own elephant line. The panicked horses and riders crash into the legs of the war elephants, and the great beasts begin to stamp and trumpet in confusion, crushing friend and foe alike. Your phalanx seizes the moment, advancing with leveled sarissas in a disciplined wall of pike points that the disoriented elephants will not charge into.\n\nThe battle descends into a grinding melee as the elephants mill about, unable to advance against the pikes and unwilling to retreat into the chaos behind them. Your light troops — archers and javelin men — pour missiles into the packed mass of elephants and infantry, while your cavalry completes the encirclement. When Craterus finally crosses the river and strikes Porus's rear, the Indian army collapses entirely. Porus himself, wounded multiple times, continues to fight from atop his great elephant until the beast finally kneels from exhaustion. The battle is won decisively.",
+        "ja": "あなたは実戦で磨き上げた戦術を壊滅的な効果で実行に移す。ヘタイロイを自ら率い、ポロスの左翼騎兵に向かって突撃し、全面交戦に引き込む。インドの騎兵は激しく戦うが、コエヌスがすでに騎兵部隊を率いて戦場の後方に大きく回り込んでいることを知らない。インドの騎兵があなたのヘタイロイとの交戦に完全に入った瞬間、コエヌスが雷のように背後を突く。\n\n結果はポロスにとって壊滅的だ。二つの騎兵部隊に挟まれたインドの騎兵は崩壊し、自軍の象の列に向かって逃走する。恐慌に陥った馬と騎手が戦象の足にぶつかり、巨獣は混乱して暴れ始め、味方も敵も区別なく踏み潰す。あなたのファランクスはこの機会を捉え、水平に構えたサリッサの整然とした槍の壁を前進させる。混乱した象はこの壁に突っ込もうとしない。\n\n戦闘は消耗戦に移行する。象は右往左往し、槍に向かって前進できず、背後の混乱に退却することもできない。弓兵と投槍兵がひしめく象と歩兵の塊に飛び道具を浴びせ、騎兵が包囲を完成させる。ついにクラテロスが川を渡りポロスの背後を突くと、インド軍は完全に崩壊する。ポロス自身は何度も負傷しながらも巨大な象の上で戦い続けたが、獣がついに疲労で膝を折る。戦いは決定的な勝利に終わった。",
+        "zh-CN": "你将久经考验的战术手册付诸实施，效果毁灭性十足。你亲率伙伴骑兵冲向波鲁斯的左翼骑兵，将其引入全面交战。印度骑兵奋勇作战，但他们不知道科纳斯已率骑兵分队从战场后方大范围迂回。就在印度骑兵全力投入与你的伙伴骑兵交战之际，科纳斯如雷霆般袭击了他们的后方。\n\n结果对波鲁斯而言是灾难性的。被两支骑兵夹击的印度骑兵崩溃逃窜——径直逃向自己的象阵。惊恐的战马和骑手撞上战象的腿，巨兽在混乱中开始践踏嘶鸣，不分敌我地踩踏。你的方阵抓住时机，以整齐划一的萨里沙长矛之墙向前推进，混乱中的战象不敢冲向这道枪尖之墙。\n\n战斗演变为一场残酷的混战，战象四处乱撞，既无法冲破长矛阵，也不愿退入身后的混乱之中。你的轻装部队——弓箭手和标枪手——向密集的象群和步兵倾泻箭矢，而你的骑兵完成了合围。当克拉特鲁斯终于渡河攻击波鲁斯后方时，印度军队彻底崩溃。波鲁斯本人身负多处重伤，仍在巨象上继续战斗，直到坐骑精疲力竭跪倒在地。这是一场决定性的胜利。"
+      },
+      "nextSceneId": "alexander-india-326bc-scene-003",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 20 },
+        { "variable": "armyMorale", "operation": "add", "value": 15 },
+        { "variable": "pauravaThreat", "operation": "add", "value": -40 },
+        { "variable": "alexanderPrestige", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Order a massed phalanx frontal assault: advance the entire infantry line directly into the elephants with sarissas leveled, attempting to drive the beasts back through sheer pressure while cavalry screens the flanks from Indian horsemen.",
+        "ja": "ファランクスの集中正面攻撃を命じる：サリッサを水平に構えた歩兵全線を象に向かって直接前進させ、純粋な圧力で獣を押し返しつつ、騎兵が側面をインドの騎兵から守る。",
+        "zh-CN": "下令方阵全面正面突击：整条步兵线端平萨里沙长矛直接向战象推进，试图以纯粹的压力迫使巨兽后退，同时骑兵在侧翼屏护抵挡印度骑兵。"
+      },
+      "historicalContext": "A direct frontal assault against war elephants would have been extremely costly. While the sarissa phalanx could theoretically hold against elephants, the formation was vulnerable if the elephants managed to create gaps, and the psychological impact on the infantry of facing charging elephants head-on was enormous.",
+      "outcomePrompt": {
+        "en": "The great phalanx advances like a bristling hedgehog across the muddy plain, thousands of sarissa points creating a forest of steel aimed at the elephant line. For a moment, the sheer spectacle of your disciplined formation gives the Indian army pause. But war elephants are not cavalry horses — they do not shy away from a wall of spears.\n\nThe collision is apocalyptic. The elephants charge into the pike line with a force that buckles the formation in several places. Sarissas snap like twigs against the elephants' thick hide, and where the pikes do find purchase, the maddened beasts only become more dangerous, thrashing wildly and trampling everything in reach. Several elephants punch clean through the phalanx, and in the gaps they create, Indian infantry pours in with swords and javelins, devastating your tightly packed pikemen who cannot use their long weapons at close range.\n\nYour cavalry engages the Indian horsemen on the flanks with mixed results — without the double envelopment, the fight becomes a grinding stalemate. The battle rages for hours under the monsoon sky, a hellish melee of screaming elephants, dying men, and churning mud. Eventually your superior training and discipline begin to tell, and Porus's army slowly gives ground. When Craterus crosses the river to reinforce you, the Indian line finally breaks. But the victory comes at a terrible price — your phalanx has suffered grievous casualties, and the sight of broken men trampled by elephants has shaken the entire army to its core. Porus is captured, but your army may never be the same.",
+        "ja": "大ファランクスが針鼠のように泥の平原を前進し、何千ものサリッサの穂先が象の列に向けられた鋼の森を作り出す。一瞬、あなたの統制された陣形の威容がインド軍を躊躇させる。しかし戦象は騎馬ではない——槍の壁から逃げたりしない。\n\n衝突は壊滅的だ。象が槍の列に突撃し、その力で陣形がいくつかの箇所で歪む。サリッサは象の厚い皮に対して小枝のように折れ、槍が刺さった箇所では狂った獣がさらに危険になり、手当たり次第に暴れ踏み潰す。数頭の象がファランクスを完全に突破し、作られた隙間からインドの歩兵が剣と投槍を持って流れ込み、長い武器を近距離で使えない密集した槍兵を蹂躙する。\n\n騎兵は側面でインドの騎兵と交戦するが、成果はまちまちだ。二重包囲なしでは戦いは消耗戦の膠着状態になる。モンスーンの空の下、戦闘は何時間も続く。叫ぶ象、死にゆく兵士、泥の渦巻く地獄の乱戦。やがてあなた側の優れた訓練と規律が効き始め、ポロスの軍は徐々に後退する。クラテロスが川を渡り援軍に加わると、インドの戦線はついに崩壊する。しかし勝利は恐ろしい代償を伴った。ファランクスは甚大な損害を被り、象に踏み潰された兵士たちの姿は全軍の心を根底から揺るがした。ポロスは捕虜になったが、あなたの軍は二度と同じではないかもしれない。",
+        "zh-CN": "巨大的方阵如刺猬般穿越泥泞的平原推进，数千根萨里沙长矛的枪尖形成一片钢铁之林指向象阵。一瞬间，你那纪律严明的阵型的壮观气势令印度军队迟疑。但战象不是骑兵的战马——它们不会在枪林面前退缩。\n\n碰撞是毁灭性的。战象以巨大的力量冲入长矛线，在好几处地方压弯了阵型。萨里沙长矛撞上战象厚皮如同折断树枝，而在长矛刺入之处，发狂的巨兽只会变得更加危险，疯狂翻搅践踏一切。数头战象直接穿透方阵，在它们撕开的缺口中，印度步兵手持刀剑和标枪涌入，摧残着无法在近距离使用长武器的密集长矛兵。\n\n你的骑兵在侧翼与印度骑兵交战，战果参半——没有双重包围，战斗变成了旷日持久的胶着。战斗在季风的天空下持续了数小时，是一场嘶吼的战象、垂死的士兵和翻搅泥浆的地狱般混战。最终你方优越的训练和纪律开始发挥作用，波鲁斯的军队缓慢后退。当克拉特鲁斯渡河增援时，印度战线终于崩溃。但胜利付出了惨痛代价——你的方阵遭受了惨重伤亡，被战象践踏的士兵惨状震撼了全军上下。波鲁斯被俘，但你的军队可能再也不复从前了。"
+      },
+      "nextSceneId": "alexander-india-326bc-scene-003",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 5 },
+        { "variable": "armyMorale", "operation": "add", "value": -10 },
+        { "variable": "armyStrength", "operation": "add", "value": -20 },
+        { "variable": "pauravaThreat", "operation": "add", "value": -25 },
+        { "variable": "alexanderPrestige", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

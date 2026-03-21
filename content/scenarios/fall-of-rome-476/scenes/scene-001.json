@@ -1,0 +1,114 @@
+{
+  "id": "fall-of-rome-476-scene-001",
+  "scenarioId": "fall-of-rome-476",
+  "title": {
+    "en": "The Last Emperor",
+    "ja": "最後の皇帝",
+    "zh-CN": "末代皇帝"
+  },
+  "date": {
+    "en": "August 28, 476 AD",
+    "ja": "西暦476年8月28日",
+    "zh-CN": "公元476年8月28日"
+  },
+  "location": {
+    "en": "Imperial Palace, Ravenna",
+    "ja": "ラヴェンナ、皇帝宮殿",
+    "zh-CN": "拉文纳，皇宫"
+  },
+  "narrativePrompt": {
+    "en": "A messenger staggers into the throne room of the imperial palace at Ravenna, his tunic stained with dust and blood. The news he brings is the worst imaginable: your father, Orestes, the magister militum and the real power behind your throne, has been captured by Odoacer's barbarian army at Placentia and executed. Your uncle Paulus fell in a skirmish outside the city trying to rally the remaining loyal troops, and he too is dead. The barbarian foederati — Heruli, Scirians, Torcilingi, warriors who were supposed to be Rome's army — have turned completely against the imperial government. Their demand was simple: one-third of Italian land for permanent settlement. Your father refused. Now your father is dead, and the same army that once swore to protect the empire is marching on Ravenna under Odoacer's banner. You sit on the throne of Augustus, of Trajan, of Constantine — but you are sixteen years old, you command perhaps two hundred palace guards, and the mightiest empire the world has ever known is dying around you. Your remaining advisors cluster around you, their faces gray with fear. Some urge you to flee south by sea to the Eastern Empire. Others suggest negotiating with Odoacer directly, offering him what your father refused. A few old soldiers argue for a desperate defense of Ravenna's legendary marshland fortifications. But everyone in the room knows the truth: there is no army coming to save you. The Western Roman Empire has run out of legions, out of allies, out of time.",
+    "ja": "使者がラヴェンナの皇宮の玉座の間によろめきながら入ってくる。埃と血にまみれた衣服。彼がもたらす知らせは考え得る最悪のものだ。あなたの父、軍務長官にして帝位の背後の実権者であるオレステスが、プラケンティアでオドアケルの蛮族軍に捕らえられ処刑されたのだ。叔父のパウルスは残る忠誠な兵を結集しようとした市外の小競り合いで倒れ、彼も死んだ。蛮族同盟軍——ヘルリ族、スキリ族、トルキリンギ族、ローマの軍であるはずだった戦士たち——は帝国政府に完全に反旗を翻した。彼らの要求は単純だった。永住のためのイタリアの土地の三分の一。父は拒否した。今、父は死に、かつて帝国を守ると誓った同じ軍がオドアケルの旗の下にラヴェンナに進軍している。あなたはアウグストゥスの、トラヤヌスの、コンスタンティヌスの玉座に座っている——しかしあなたは16歳で、指揮できるのはせいぜい200人の宮殿衛兵、そして世界が知る最も強大な帝国があなたの周りで死にかけている。残りの顧問たちが恐怖に灰色になった顔であなたの周りに群がっている。海路で東ローマ帝国に逃げるよう促す者もいる。オドアケルと直接交渉し、父が拒んだものを提供するよう提案する者もいる。少数の老兵はラヴェンナの伝説的な湿地帯の防御工事での必死の防衛を主張する。しかしこの部屋の全員が真実を知っている。助けに来る軍はない。西ローマ帝国は軍団も、同盟者も、時間も尽きたのだ。",
+    "zh-CN": "一名信使踉跄着走进拉文纳皇宫的王座厅，外衣沾满尘土和鲜血。他带来的消息是最坏的：您的父亲、军事长官、您王位背后真正的掌权者奥瑞斯特斯，已在普拉琴提亚被奥多亚克的蛮族军队俘虏并处决。您的叔父保卢斯在城外试图集结残余忠诚部队的冲突中阵亡。蛮族联盟军——赫鲁利人、斯基里人、托尔奇林吉人，这些本该是罗马军队的战士——已完全背叛了帝国政府。他们的要求很简单：意大利三分之一的土地用于永久定居。您的父亲拒绝了。现在您的父亲死了，曾经宣誓保卫帝国的同一支军队正打着奥多亚克的旗号向拉文纳进军。您坐在奥古斯都的、图拉真的、君士坦丁的王座上——但您只有十六岁，能指挥的不过约两百名宫殿卫兵，而这个世界所知最强大的帝国正在您周围走向死亡。剩余的顾问们围在您身边，面色因恐惧而发灰。一些人催促您从海路南逃到东罗马帝国。另一些人建议直接与奥多亚克谈判，将您父亲所拒绝的交给他。几个老兵主张依托拉文纳传奇的沼泽地防御工事做殊死抵抗。但房间里的每个人都知道真相：没有军队会来拯救您。西罗马帝国的军团、盟友和时间都已耗尽。"
+  },
+  "situationReport": [
+    {
+      "en": "Your father Orestes has been captured and executed at Placentia; your uncle Paulus is dead",
+      "ja": "父オレステスがプラケンティアで捕らえられ処刑された。叔父パウルスも死亡",
+      "zh-CN": "您的父亲奥瑞斯特斯已在普拉琴提亚被俘处决；叔父保卢斯也已阵亡"
+    },
+    {
+      "en": "Odoacer commands the entire barbarian foederati army and is marching on Ravenna",
+      "ja": "オドアケルが蛮族同盟軍全体を指揮し、ラヴェンナに進軍中",
+      "zh-CN": "奥多亚克指挥着整个蛮族联盟军队，正向拉文纳进军"
+    },
+    {
+      "en": "You have approximately 200 palace guards — no field army remains loyal to the throne",
+      "ja": "手元にあるのは約200人の宮殿衛兵のみ——帝位に忠誠な野戦軍は残っていない",
+      "zh-CN": "您大约有200名宫殿卫兵——没有野战军队仍然效忠于皇位"
+    },
+    {
+      "en": "The Eastern Emperor Zeno considers Julius Nepos the legitimate Western emperor, not you",
+      "ja": "東ローマ皇帝ゼノンはユリウス・ネポスを正統な西方皇帝と見なしており、あなたではない",
+      "zh-CN": "东罗马皇帝芝诺认为尤利乌斯·尼波斯才是合法的西方皇帝，而非您"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide your immediate response to the fall of Orestes and Odoacer's advance on Ravenna",
+      "ja": "オレステスの陥落とオドアケルのラヴェンナ進軍への即座の対応を決める",
+      "zh-CN": "决定您对奥瑞斯特斯覆灭和奥多亚克进军拉文纳的即时应对"
+    },
+    {
+      "en": "Ensure your personal survival in the coming crisis",
+      "ja": "来たる危機での個人の生存を確保する",
+      "zh-CN": "确保您在即将到来的危机中的人身安全"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You have no military force capable of defeating Odoacer in open battle",
+      "ja": "野戦でオドアケルを打ち破れる軍事力がない",
+      "zh-CN": "您没有能在野战中击败奥多亚克的军事力量"
+    },
+    {
+      "en": "No external power is willing or able to intervene on your behalf",
+      "ja": "あなたのために介入する意志や能力のある外部勢力がいない",
+      "zh-CN": "没有外部势力愿意或有能力为您干预"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Send envoys to Odoacer immediately. Offer him what your father refused — land for his soldiers — and negotiate for your own safety. Perhaps reason can prevail where force cannot.",
+        "ja": "直ちにオドアケルに使者を送る。父が拒否したもの——兵士たちへの土地——を提供し、自身の安全について交渉する。力が及ばないところで理性が勝るかもしれない。",
+        "zh-CN": "立即派使者前往奥多亚克。提供您父亲所拒绝的——给他的士兵们土地——并为您自身的安全进行谈判。也许在武力无法奏效的地方，理智可以占上风。"
+      },
+      "historicalContext": "Romulus Augustulus did not significantly resist. The historical record suggests the transition was relatively peaceful, with negotiations preceding the deposition.",
+      "outcomePrompt": {
+        "en": "Your envoys ride out under a flag of truce, carrying your seal and a carefully worded offer. They find Odoacer's army camped along the Via Aemilia, a vast host of Germanic warriors, many of them men who once served under your father's command. Odoacer receives the envoys with surprising courtesy. He is a shrewd leader — he does not want to destroy Ravenna or massacre its inhabitants, because he intends to rule Italy, not ruin it. He agrees to negotiate. His terms arrive the following day: Romulus must abdicate the imperial title. In exchange, his life will be spared, he will receive a generous pension, and he will be allowed to retire to a villa in Campania. The imperial regalia will be sent to Constantinople. There will be no more Western Roman Emperor. Your advisors are divided. The bishop of Ravenna urges acceptance, arguing that preserving lives matters more than preserving a title that commands nothing. The old soldiers call it a shameful surrender. But the terms are better than anyone expected — Odoacer is offering life when he could easily demand death.",
+        "ja": "使者が休戦旗を掲げ、あなたの印章と慎重に言葉を選んだ申し出を携えて出発する。彼らはアエミリア街道沿いに野営するオドアケルの軍を見つける。かつて父の指揮下にあった者も多いゲルマン戦士の大軍だ。オドアケルは驚くほど丁重に使者を迎える。彼は抜け目のない指導者だ——ラヴェンナを破壊したり住民を虐殺することは望んでいない。イタリアを荒廃させるのではなく統治するつもりだからだ。交渉に応じる。翌日、彼の条件が届く。ロムルスは帝位を退位しなければならない。その代わり、命は助けられ、寛大な年金を受け、カンパニアの別荘に引退することが許される。帝国の象徴はコンスタンティノープルに送られる。西ローマ皇帝はもう存在しない。顧問たちの意見は分かれる。ラヴェンナの司教は受諾を勧め、何も支配しない称号を守ることより命を守ることが重要だと主張する。老兵たちはそれを恥ずべき降伏と呼ぶ。しかし条件は誰もが予想したよりも良い——オドアケルは容易に死を要求できるのに命を提供しているのだ。",
+        "zh-CN": "您的使者打着休战旗出发，携带着您的印章和一份措辞谨慎的提议。他们在艾米利亚大道沿线发现了奥多亚克的军队扎营——一支庞大的日耳曼战士大军，其中许多人曾在您父亲麾下效力。奥多亚克以出人意料的礼遇接待了使者。他是一位精明的领袖——他不想摧毁拉文纳或屠杀其居民，因为他打算统治意大利，而非毁灭它。他同意谈判。次日他的条件送达：罗慕路斯必须放弃帝号。作为交换，他的性命将被保全，他将获得丰厚的年金，并被允许退居坎帕尼亚的一座别墅。帝国徽章将被送往君士坦丁堡。西罗马皇帝将不复存在。您的顾问们意见分歧。拉文纳主教敦促接受，认为保全性命比保住一个指挥不了任何东西的头衔更重要。老兵们称这是可耻的投降。但条件比任何人预期的都要好——奥多亚克在可以轻易要求处死的情况下却给予了生路。"
+      },
+      "nextSceneId": "fall-of-rome-476-scene-002",
+      "stateChanges": [
+        { "variable": "personalSafety", "operation": "add", "value": 20 },
+        { "variable": "odoacerHostility", "operation": "add", "value": -20 },
+        { "variable": "imperialAuthority", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Prepare to defend Ravenna. The city's marshland defenses have held against invaders before. Send urgent messages to Constantinople begging Emperor Zeno for aid. Buy time.",
+        "ja": "ラヴェンナの防衛を準備する。都市の湿地帯の防御は以前にも侵略者を退けた。コンスタンティノープルにゼノン皇帝の援助を懇願する緊急の使者を送る。時間を稼ぐ。",
+        "zh-CN": "准备防守拉文纳。这座城市的沼泽地防御曾经阻挡过侵略者。向君士坦丁堡发出紧急信息，恳求芝诺皇帝援助。争取时间。"
+      },
+      "historicalContext": "A counterfactual — Ravenna's marshy location did make it defensible, but without an army or external support, any defense would have been futile.",
+      "outcomePrompt": {
+        "en": "You order the palace guards to man Ravenna's walls and close the causeways through the surrounding marshes. Ravenna has been the Western capital precisely because of its natural defenses — the city sits amid impenetrable wetlands, accessible only by narrow raised roads. You dispatch a fast galley to Constantinople carrying a desperate plea to Emperor Zeno, offering to recognize Julius Nepos as co-emperor if Zeno will send the Eastern fleet to relieve you. For three days, the marshes hold. Odoacer's army, primarily an infantry force, cannot easily approach the city. But Odoacer is patient and resourceful. His men find local guides who know paths through the marshes. More critically, your own palace guards begin to desert — they are barbarians themselves, many from the same tribes as Odoacer's men, and they see no reason to die for a boy-emperor with no treasury and no hope of relief. By the fourth day, your garrison has shrunk to fewer than eighty men. The message to Constantinople will take weeks to arrive, and even if Zeno responded favorably, months would pass before any fleet could reach Italy. Your position is untenable. Odoacer sends a messenger under truce: surrender now and live, or resist and face the consequences when the city falls.",
+        "ja": "宮殿衛兵にラヴェンナの城壁を守らせ、周囲の湿地を通る土手道を封鎖するよう命じる。ラヴェンナが西方の首都であったのはまさにその自然の防御力のためだ——都市は難攻不落の湿地帯の中にあり、狭い高架道路からのみ接近可能だ。コンスタンティノープルにゼノン皇帝への必死の嘆願を携えた高速ガレー船を急派し、ゼノンが東方艦隊を派遣して救援してくれるならユリウス・ネポスを共同皇帝として認めると申し出る。3日間、湿地帯は持ちこたえる。主に歩兵部隊であるオドアケルの軍は容易に都市に接近できない。しかしオドアケルは忍耐強く機知に富んでいる。部下が湿地を通る道を知る地元の案内人を見つける。より致命的なことに、宮殿衛兵たち自身が脱走し始める——彼ら自身も蛮族であり、多くはオドアケルの兵と同じ部族出身で、国庫もなく救援の見込みもない少年皇帝のために死ぬ理由がないのだ。4日目までに守備兵は80人以下に減少する。コンスタンティノープルへの伝言は到着に数週間かかり、たとえゼノンが好意的に応じたとしても艦隊がイタリアに到達するまで数ヶ月かかる。状況は維持不可能だ。オドアケルが休戦の下に使者を送る——今降伏すれば生かす、さもなくば都市が陥落した時の結果に直面せよ。",
+        "zh-CN": "您命令宫殿卫兵守卫拉文纳的城墙，封锁穿过周围沼泽的堤道。拉文纳之所以成为西方首都正是因为其天然防御——这座城市坐落在难以穿越的湿地之中，只能通过狭窄的高架道路进入。您紧急派遣一艘快速战船前往君士坦丁堡，携带一封绝望的请愿书给芝诺皇帝，表示如果芝诺派遣东方舰队来援救，您愿意承认尤利乌斯·尼波斯为共治皇帝。三天里，沼泽地守住了。以步兵为主的奥多亚克军队无法轻易接近城市。但奥多亚克既有耐心又足智多谋。他的部下找到了熟悉沼泽地路径的当地向导。更致命的是，您自己的宫殿卫兵开始逃散——他们本身就是蛮族，许多人与奥多亚克的部下属于同一部落，他们看不出有任何理由为一个既无国库又无救援希望的少年皇帝去送死。到第四天，您的守军已缩减到不足八十人。送往君士坦丁堡的信需要数周才能到达，即使芝诺做出有利回应，任何舰队抵达意大利也需要数月。您的处境已不可维持。奥多亚克派来一名休战使者：现在投降就能活命，否则城池陷落时自行承担后果。"
+      },
+      "nextSceneId": "fall-of-rome-476-scene-002",
+      "stateChanges": [
+        { "variable": "personalSafety", "operation": "add", "value": -15 },
+        { "variable": "odoacerHostility", "operation": "add", "value": 15 },
+        { "variable": "romanLegitimacy", "operation": "add", "value": 10 },
+        { "variable": "easternRelations", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

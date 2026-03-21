@@ -1,0 +1,113 @@
+{
+  "id": "peloponnesian-war-404bc-scene-001",
+  "scenarioId": "peloponnesian-war-404bc",
+  "title": {
+    "en": "Stalemate at the Hellespont",
+    "ja": "ヘレスポントの膠着",
+    "zh-CN": "赫勒斯滂的僵局"
+  },
+  "date": {
+    "en": "Early September, 405 BC",
+    "ja": "紀元前405年9月初旬",
+    "zh-CN": "公元前405年9月初"
+  },
+  "location": {
+    "en": "Aegospotami, Hellespont (modern Dardanelles), Thrace",
+    "ja": "アイゴスポタモイ、ヘレスポント（現ダーダネルス海峡）、トラキア",
+    "zh-CN": "羊河口，赫勒斯滂海峡（今达达尼尔海峡），色雷斯"
+  },
+  "narrativePrompt": {
+    "en": "The Athenian fleet rides at anchor off the barren beach of Aegospotami, a desolate stretch of coastline on the European shore of the Hellespont with no harbor, no fortifications, and no nearby town for supplies. Across the narrow strait, barely visible in the morning haze, Lysander's Spartan fleet lies safe in the fortified harbor of Lampsacus. For three consecutive days now, the Athenian admirals have rowed their 180 triremes across the strait in battle formation, challenging Lysander to fight. Each day, Lysander has refused to emerge from his harbor. Each evening, the Athenian crews beach their ships on the open shore and scatter inland to forage for food — there is no market, no supply depot, nothing but scrubland and a small river. The situation is absurd and dangerous. Conon has repeatedly argued in the war council that the fleet should relocate to Sestos, a fortified city just a few miles south along the coast, where there is a proper harbor, a market, and defensive walls. But the other generals — Philocles, Adeimantus, and Tydeus among them — dismiss the idea. They see any withdrawal, even a short one, as showing weakness. Just this morning, the exiled Alcibiades rode down from his castle on the nearby hills. He warned the generals bluntly that their position is a death trap: the beach offers no protection, the crews disperse every evening, and Lysander is clearly waiting for the perfect moment to strike. The generals told Alcibiades he was no longer in command and sent him away. Now Conon must decide how to proceed. The fleet cannot stay here indefinitely — supplies are dwindling, the rowers are restless, and every day that passes without action erodes Athenian morale further.",
+    "ja": "アテネ艦隊はアイゴスポタモイの荒涼とした浜辺の沖に停泊している。ヘレスポントのヨーロッパ側海岸の人気のない一帯で、港もなく、要塞もなく、補給のための近隣の町もない。狭い海峡の向こう、朝霧にかすかに見えるランプサコスの要塞化された港に、リュサンドロスのスパルタ艦隊が安全に停泊している。3日連続で、アテネの提督たちは180隻の三段櫂船を戦闘陣形で海峡を渡らせ、リュサンドロスに戦いを挑んできた。毎日、リュサンドロスは港から出ることを拒否した。毎晩、アテネの乗組員は開けた海岸に船を引き上げ、食料を探しに内陸に散っていく——市場も補給所もなく、灌木地と小さな川があるだけだ。状況は馬鹿げており危険だ。コノンは軍議で繰り返し、艦隊を海岸沿い数マイル南にある要塞都市セストスに移動すべきだと主張してきた。そこには適切な港、市場、防壁がある。しかし他の将軍たち——フィロクレス、アデイマントス、テュデウスら——はその考えを退ける。彼らはたとえ短い距離であっても撤退は弱さを見せることだと考えている。今朝、亡命中のアルキビアデスが近くの丘の城から馬で降りてきた。彼は将軍たちに率直に警告した。この位置は死の罠だと：浜辺には防御がなく、乗組員は毎晩散り、リュサンドロスは明らかに攻撃の完璧な瞬間を待っている。将軍たちはアルキビアデスにもはや指揮官ではないと告げ、追い返した。今、コノンはどう進めるか決断しなければならない。艦隊はここに無期限にとどまれない——補給は減り、漕ぎ手は落ち着かず、行動なしに過ぎる毎日がアテネの士気をさらに蝕んでいく。",
+    "zh-CN": "雅典舰队停泊在羊河口荒凉的海滩外。这是赫勒斯滂海峡欧洲一侧海岸上的一片荒凉地带，没有港口，没有防御工事，附近也没有可供补给的城镇。狭窄海峡的对面，在晨雾中隐约可见，吕山德的斯巴达舰队安全地停泊在兰普萨库斯设防的港口中。连续三天，雅典将领们将180艘三列桨战船以战斗队形划过海峡，向吕山德挑战。每一天，吕山德都拒绝出港。每天傍晚，雅典船员们将战船拖上开阔的海岸，四散到内陆觅食——这里没有集市，没有补给站，只有灌木丛和一条小河。局势既荒谬又危险。科农在军事会议上反复主张舰队应转移到塞斯托斯，那是沿海岸向南仅几英里的一座设防城市，有合适的港口、集市和城防。但其他将领——包括菲洛克勒斯、阿狄曼托斯和提丢斯——驳回了这个建议。他们认为任何撤退，哪怕是短距离的，都是示弱。就在今天早上，流亡的阿尔西比亚德斯从附近山丘上的城堡骑马赶来。他直言不讳地警告将领们，这个位置是死亡陷阱：海滩毫无防护，船员每晚四散，吕山德显然在等待完美的时机发动攻击。将领们告诉阿尔西比亚德斯他已不再是指挥官，将他打发走了。现在科农必须决定如何行动。舰队不能无限期留在这里——补给日益减少，桨手们躁动不安，每过一天不采取行动，雅典的士气就进一步消磨。"
+  },
+  "situationReport": [
+    {
+      "en": "180 Athenian triremes are beached on an open, unfortified shore at Aegospotami with no harbor or supply depot",
+      "ja": "180隻のアテネの三段櫂船が港も補給所もないアイゴスポタモイの開けた無防備な海岸に引き上げられている",
+      "zh-CN": "180艘雅典三列桨战船停靠在羊河口一片开阔、无设防的海岸上，没有港口或补给站"
+    },
+    {
+      "en": "Lysander's fleet is safely harbored at Lampsacus across the strait and has refused battle for three days",
+      "ja": "リュサンドロスの艦隊は海峡の対岸のランプサコスに安全に停泊し、3日間戦闘を拒否している",
+      "zh-CN": "吕山德的舰队安全停泊在海峡对面的兰普萨库斯，已连续三天拒绝交战"
+    },
+    {
+      "en": "Alcibiades has warned that the position is dangerously exposed, but the other generals dismissed his counsel",
+      "ja": "アルキビアデスがこの位置は危険にさらされていると警告したが、他の将軍たちは彼の助言を退けた",
+      "zh-CN": "阿尔西比亚德斯警告此位置极度危险，但其他将领拒绝了他的建议"
+    },
+    {
+      "en": "Crews must forage inland each evening for food, leaving the ships unguarded and vulnerable to surprise attack",
+      "ja": "乗組員は毎晩食料を求めて内陸に散らなければならず、船は無防備で奇襲に脆弱な状態になる",
+      "zh-CN": "船员每天傍晚必须到内陆觅食，使战船无人看守，容易遭受突袭"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure a defensible position for the Athenian fleet before Lysander exploits its vulnerability",
+      "ja": "リュサンドロスが脆弱性を突く前にアテネ艦隊の防御可能な位置を確保する",
+      "zh-CN": "在吕山德利用舰队弱点之前，为雅典舰队确保一个可防御的位置"
+    },
+    {
+      "en": "Maintain fleet discipline and readiness despite the stalemate and dwindling supplies",
+      "ja": "膠着状態と減少する補給にもかかわらず、艦隊の規律と即応態勢を維持する",
+      "zh-CN": "尽管陷入僵局且补给日减，仍要维持舰队的纪律和战备状态"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The other Athenian generals outvote Conon and favor an aggressive posture — any move requires persuading them",
+      "ja": "他のアテネの将軍たちがコノンを多数決で上回り、攻撃的な姿勢を支持している——いかなる行動も彼らの説得が必要",
+      "zh-CN": "其他雅典将领以多数票否决科农，主张进攻姿态——任何行动都需要说服他们"
+    },
+    {
+      "en": "Relocating the fleet may be seen by Athens as retreat, risking political consequences for the generals",
+      "ja": "艦隊の移動はアテネに撤退と見なされる可能性があり、将軍たちに政治的な結果をもたらす危険がある",
+      "zh-CN": "转移舰队可能被雅典视为撤退，将领们面临政治后果的风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Force the issue: take personal command of a squadron and relocate it to Sestos. The other generals will have to follow or split the fleet.",
+        "ja": "問題を強行する：自ら一個戦隊の指揮を執り、セストスに移動させる。他の将軍たちは追随するか艦隊を分裂させるしかない。",
+        "zh-CN": "强行推动：亲自率领一个分队转移到塞斯托斯。其他将领要么跟随，要么分裂舰队。"
+      },
+      "historicalContext": "A counterfactual — Conon historically could not convince the other generals and the fleet remained at Aegospotami.",
+      "outcomePrompt": {
+        "en": "Conon makes a bold decision. Without waiting for another fruitless vote in the war council, he orders the thirty triremes under his direct command to weigh anchor and make for Sestos. It is a calculated gamble: splitting the fleet is dangerous, but a divided force at two harbored positions is better than a unified fleet on an open beach. The other generals are furious. Philocles accuses Conon of insubordination and cowardice. But when Conon's squadron reaches Sestos and takes up position in the fortified harbor, the logic of the move becomes undeniable. Lysander's scouts report the split to the Spartan admiral, who now faces a more complicated tactical picture. Over the next two days, grudgingly, two more squadrons follow Conon to Sestos. The fleet is not yet fully consolidated in its new position, but it is no longer entirely exposed. Lysander, seeing his window of opportunity narrowing, must decide whether to strike at the reduced force still at Aegospotami or wait for a new opening.",
+        "ja": "コノンは大胆な決断を下す。軍議でのまた別の実りのない投票を待たずに、直接指揮下の30隻の三段櫂船に碇を上げてセストスに向かうよう命じる。これは計算された賭けだ：艦隊の分割は危険だが、二つの港のある位置に分かれた軍は、開けた浜辺にいる統一された艦隊より良い。他の将軍たちは激怒する。フィロクレスはコノンを命令違反と臆病だと非難する。しかしコノンの戦隊がセストスに到着し要塞化された港に陣取ると、この行動の論理は否定できなくなる。リュサンドロスの斥候が分裂をスパルタの提督に報告し、彼はより複雑な戦術的状況に直面する。次の2日間で、しぶしぶながらさらに二つの戦隊がコノンに続いてセストスに移動する。艦隊はまだ新しい位置に完全に統合されていないが、もはや完全には露出していない。リュサンドロスは機会の窓が狭まるのを見て、まだアイゴスポタモイに残る減少した戦力を攻撃するか、新たな隙を待つか決断しなければならない。",
+        "zh-CN": "科农做出了大胆的决定。不再等待军事会议上又一次无果的投票，他命令直接指挥的三十艘三列桨战船起锚驶往塞斯托斯。这是一场精心计算的赌博：分裂舰队很危险，但分散在两个有港口的位置，总比全部暴露在开阔海滩上要好。其他将领怒不可遏。菲洛克勒斯指责科农抗命和怯懦。但当科农的分队抵达塞斯托斯并在设防港口中就位后，这一行动的合理性变得不可否认。吕山德的侦察兵将舰队分裂的消息报告给斯巴达统帅，他现在面临更加复杂的战术局面。在接下来的两天里，又有两个分队不情愿地跟随科农转移到塞斯托斯。舰队尚未在新位置完全集结，但已不再完全暴露。吕山德眼见机会窗口正在缩小，必须决定是攻击仍留在羊河口的缩减兵力，还是等待新的机会。"
+      },
+      "nextSceneId": "peloponnesian-war-404bc-scene-002",
+      "stateChanges": [
+        { "variable": "fleetStrength", "operation": "add", "value": -5 },
+        { "variable": "athenianMorale", "operation": "add", "value": 10 },
+        { "variable": "politicalStability", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Maintain the current position but impose strict fleet discipline: keep crews aboard the ships at all times and post scouts to watch Lysander's movements.",
+        "ja": "現在の位置を維持するが、厳格な艦隊規律を強制する：乗組員を常に船上に留め、リュサンドロスの動きを監視する斥候を配置する。",
+        "zh-CN": "维持当前位置，但实施严格的舰队纪律：让船员始终留在船上，派出侦察兵监视吕山德的动向。"
+      },
+      "historicalContext": "A partial counterfactual — historically, the Athenian crews were allowed to scatter for food each evening, leaving the fleet fatally exposed.",
+      "outcomePrompt": {
+        "en": "Conon concedes the position but fights for discipline. After heated arguments, the generals agree to a compromise: the fleet stays at Aegospotami, but Conon is allowed to organize a proper watch system. He posts scout ships at the mouth of Lampsacus harbor to signal any Spartan movement. He orders that at least half the crews must remain with their ships at all times, with the other half foraging in shifts. Rations are cut to stretch the limited supplies. The new routine is hard on the already exhausted rowers — the men grumble about half-rations and sleeping on hard wooden benches — but the fleet is at least partially ready at any given moment. Lysander tests the Athenians the next day, sending a few ships out of harbor as if to engage, then pulling back. The Athenian scouts spot the movement immediately and the fleet is manned within minutes. Lysander sees that the Athenians are more alert than before, but he is patient. He knows the fundamental weakness of the position has not changed. He simply needs to wait for discipline to erode — and his spies tell him the other generals are already complaining about Conon's harsh measures.",
+        "ja": "コノンは位置については譲歩するが、規律のために戦う。激しい議論の後、将軍たちは妥協に同意する：艦隊はアイゴスポタモイに留まるが、コノンが適切な監視体制を組織することが許される。彼はランプサコス港の入口に偵察船を配置し、スパルタのいかなる動きも信号で知らせるようにする。少なくとも乗組員の半分が常に船に残り、もう半分が交代で食料調達するよう命じる。限られた補給を引き延ばすため配給が削減される。新しい日課はすでに疲弊した漕ぎ手にとって厳しい——兵士たちは半配給と硬い木のベンチでの睡眠に不満を漏らす——しかし艦隊は少なくともいつでも部分的に準備が整っている。翌日、リュサンドロスがアテネ軍を試す。まるで交戦するかのように数隻を港から出し、すぐに引き返す。アテネの斥候がすぐに動きを察知し、数分で艦隊に乗組員が配置される。リュサンドロスはアテネ軍が以前より警戒していることを知るが、忍耐強い。位置の根本的な弱点は変わっていないことを知っている。彼は規律が崩れるのを待つだけでよい——そして彼の間者は他の将軍たちがすでにコノンの厳しい措置に不満を言っていると報告する。",
+        "zh-CN": "科农在阵位问题上让步，但为纪律而战。经过激烈争论，将领们达成妥协：舰队留在羊河口，但允许科农组织适当的警戒体系。他在兰普萨库斯港口入口处部署侦察船，以便在斯巴达人有任何动向时发出信号。他下令至少半数船员必须始终留在船上，另一半轮流外出觅食。为延长有限的补给，口粮被削减。新的作息制度对已经精疲力竭的桨手们很艰苦——士兵们抱怨半份口粮和睡在坚硬的木凳上——但舰队在任何时刻至少保持部分战备。第二天，吕山德试探雅典人，派几艘船驶出港口佯装交战，然后撤回。雅典侦察兵立即发现动静，几分钟内舰队就完成了人员配置。吕山德看到雅典人比以前更加警觉，但他很有耐心。他知道这个位置的根本弱点没有改变。他只需等待纪律松懈——他的间谍告诉他，其他将领已经在抱怨科农的严厉措施。"
+      },
+      "nextSceneId": "peloponnesian-war-404bc-scene-002",
+      "stateChanges": [
+        { "variable": "athenianMorale", "operation": "add", "value": -5 },
+        { "variable": "grainSupply", "operation": "add", "value": -10 },
+        { "variable": "fleetStrength", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

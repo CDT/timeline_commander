@@ -1,0 +1,114 @@
+{
+  "id": "fall-of-carthage-146bc-scene-001",
+  "scenarioId": "fall-of-carthage-146bc",
+  "title": {
+    "en": "Restoring the Legions",
+    "ja": "軍団の再建",
+    "zh-CN": "重整军团"
+  },
+  "date": {
+    "en": "Spring 147 BC",
+    "ja": "紀元前147年 春",
+    "zh-CN": "公元前147年 春"
+  },
+  "location": {
+    "en": "Roman camp outside Carthage, North Africa",
+    "ja": "北アフリカ、カルタゴ城外のローマ軍陣営",
+    "zh-CN": "北非迦太基城外的罗马军营"
+  },
+  "narrativePrompt": {
+    "en": "You step off the transport ship onto the sun-baked shores of North Africa, the salt wind carrying the distant sounds of a city under siege. Before you stretches the Roman encampment—a sprawling, disorganized mess that bears little resemblance to the disciplined military machine you expected. Soldiers lounge in the shade of their tents, their weapons poorly maintained, their formations slack. Camp followers and merchants wander freely through areas that should be restricted. The fortifications facing Carthage are incomplete, with gaps that the defenders have exploited in nighttime sorties.\n\nYour senior tribune, Gaius Laelius, meets you at the command tent with a grim report. Two years of failed assaults have shattered the legions' confidence. Desertions are increasing. The previous commanders allowed discipline to decay, and some units have become little more than armed mobs. Meanwhile, Carthage's triple walls still stand unbreached, and the defenders—fighting for their very existence—have repelled every attack with desperate ferocity.\n\nAs you survey the massive walls of Carthage from a distance, you can see the Carthaginians working feverishly to strengthen their defenses. Smoke rises from forges where they melt down every scrap of metal to make weapons. You know that within those walls, a population of hundreds of thousands has committed to fight to the last. Your first decision as commander will set the tone for everything that follows. The question is how to transform this demoralized force into one capable of taking one of the most heavily fortified cities in the ancient world.",
+    "ja": "輸送船から降り立ち、太陽に焼かれた北アフリカの海岸に足を踏み入れると、塩辛い風が包囲された都市の遠い音を運んでくる。目の前にはローマ軍の陣営が広がっているが、それは期待していた規律ある軍事機構とはかけ離れた、無秩序な混乱の様相を呈していた。兵士たちは天幕の影で怠惰に横たわり、武器の手入れは行き届かず、陣形は弛緩している。従軍商人や業者たちが制限区域であるべき場所を自由に歩き回っている。カルタゴに面した要塞は未完成で、守備兵たちが夜間の出撃で利用している隙間がある。\n\n上級護民官のガイウス・ラエリウスが司令部の天幕で厳しい報告を持って出迎える。二年間の攻撃失敗が軍団の自信を粉砕した。脱走兵が増加している。前任の指揮官たちは規律の崩壊を許し、一部の部隊は武装した暴徒に近い状態になっている。一方、カルタゴの三重城壁は依然として突破されておらず、存亡をかけて戦う守備兵たちはあらゆる攻撃を必死の猛攻で撃退してきた。\n\n遠くからカルタゴの巨大な城壁を視察すると、カルタゴ人が防御を強化するために熱狂的に作業しているのが見える。あらゆる金属の破片を溶かして武器を作る鍛冶場から煙が上がっている。城壁の中では何十万もの人々が最後まで戦う覚悟を決めていることを知っている。司令官としての最初の決断が、すべての展開の基調を決めることになる。問題は、この士気の低い軍隊を、古代世界で最も堅固に要塞化された都市の一つを攻略できる部隊にいかに変えるかである。",
+    "zh-CN": "你从运兵船上踏上北非被太阳烤灼的海岸，咸涩的海风中传来远处被围城市的声音。眼前是罗马军营——一片杂乱无章的景象，与你预期的纪律严明的军事机器相去甚远。士兵们懒散地躺在帐篷的阴影中，武器保养不善，队形松散。随军商贩自由穿行于本应管制的区域。面对迦太基的防御工事尚未完工，防守方利用缺口进行夜间突袭。\n\n你的高级军事护民官盖乌斯·莱利乌斯在指挥帐篷前迎接你，带来了令人沮丧的报告。两年失败的进攻已经摧毁了军团的信心。逃兵日益增多。前任指挥官放任纪律败坏，一些部队已经沦为不过是武装暴民。与此同时，迦太基的三重城墙仍未被突破，为生存而战的守军以绝望的猛烈抵御着每一次进攻。\n\n当你远远眺望迦太基的巨大城墙时，可以看到迦太基人正在疯狂地加固防御。熔炉中冒出浓烟，他们将每一块金属碎片熔化制造武器。你知道城墙内数十万人已决心战斗到底。作为指挥官的第一个决定将为之后的一切奠定基调。问题是如何将这支士气低落的部队转变成能够攻克古代世界最坚固城市之一的力量。"
+  },
+  "situationReport": [
+    {
+      "en": "Roman army discipline has severely deteriorated under previous commanders, with increasing desertions and poor weapons maintenance across all units.",
+      "ja": "前任指揮官の下でローマ軍の規律は著しく悪化しており、全部隊で脱走兵の増加と武器整備の不備が見られる。",
+      "zh-CN": "在前任指挥官领导下，罗马军队纪律严重败坏，各部队逃兵增加、武器维护不善。"
+    },
+    {
+      "en": "Carthage's triple walls remain unbreached after two years of siege, and the defenders have successfully repelled all major assaults.",
+      "ja": "二年間の包囲にもかかわらずカルタゴの三重城壁は突破されておらず、守備兵はすべての主要な攻撃を成功裏に撃退している。",
+      "zh-CN": "经过两年围城，迦太基的三重城墙仍未被攻破，守军成功击退了所有大规模进攻。"
+    },
+    {
+      "en": "The Carthaginian harbor remains partially open, allowing limited supplies and reinforcements to reach the city by sea.",
+      "ja": "カルタゴの港は部分的に開かれたままで、限られた物資と援軍が海路で都市に到達している。",
+      "zh-CN": "迦太基港口仍部分开放，少量补给和增援仍可通过海路进入城市。"
+    },
+    {
+      "en": "Numidian cavalry allies provide scouting capability but are restless and demand a more aggressive strategy to end the prolonged campaign.",
+      "ja": "同盟のヌミディア騎兵は偵察能力を提供しているが、長引く作戦に苛立ち、より攻撃的な戦略を求めている。",
+      "zh-CN": "努米底亚骑兵盟军提供侦察能力，但对旷日持久的战役感到不耐烦，要求采取更积极的策略。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Restore discipline and combat readiness among the Roman legions within the first weeks of command",
+      "ja": "指揮を執ってから最初の数週間でローマ軍団の規律と戦闘準備態勢を回復する",
+      "zh-CN": "在接管指挥权后的最初几周内恢复罗马军团的纪律和战斗准备状态"
+    },
+    {
+      "en": "Establish a strategic plan for tightening the siege and isolating Carthage from external support",
+      "ja": "包囲を強化しカルタゴを外部支援から孤立させるための戦略計画を策定する",
+      "zh-CN": "制定收紧围城并切断迦太基外部支援的战略计划"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You must avoid costly frontal assaults until the army is properly reorganized and retrained",
+      "ja": "軍が適切に再編成され再訓練されるまで、犠牲の大きい正面攻撃は避けなければならない",
+      "zh-CN": "在军队得到适当重组和再训练之前，必须避免代价高昂的正面进攻"
+    },
+    {
+      "en": "Harsh disciplinary measures risk mutiny if applied too severely to the already demoralized troops",
+      "ja": "すでに士気の低い兵士に厳しすぎる懲罰措置を取れば、反乱を招く危険がある",
+      "zh-CN": "对已经士气低落的部队施以过于严厉的纪律处分可能引发哗变"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Implement strict disciplinary reforms: expel all camp followers and merchants, enforce daily drills and weapons inspections, and make examples of deserters with severe punishments. Focus first on building a proper fortified circumvallation line before any offensive action.",
+        "ja": "厳格な規律改革を実施する：全ての従軍商人を追放し、毎日の訓練と武器点検を義務化し、脱走兵を厳罰に処して見せしめにする。攻撃行動の前にまず適切な要塞化された包囲線の構築に集中する。",
+        "zh-CN": "实施严格的纪律改革：驱逐所有随军商贩，实行每日操练和武器检查，对逃兵施以严厉惩罚以儆效尤。在发动任何进攻前，首先集中精力修建完善的环形围城工事。"
+      },
+      "historicalContext": "This is close to what Scipio actually did. He expelled non-combatants, enforced rigorous training, and focused on systematic siege works before attempting any assault, restoring the army's discipline and effectiveness.",
+      "outcomePrompt": {
+        "en": "Your reforms are harsh but effective. Within weeks, the transformation of the Roman camp is remarkable. The expulsion of camp followers and merchants causes initial grumbling, but the veterans recognize the hand of a true commander. Daily drills in full armor under the African sun are grueling, but the legionaries begin to rediscover their pride as Roman soldiers. Deserters are flogged before the assembled legions, and the message is clear: there will be no more tolerance for indiscipline.\n\nMore importantly, you set the entire army to work on a massive engineering project—a fortified line of circumvallation that will completely encircle Carthage by land. Trenches are dug, palisades erected, and guard towers constructed at regular intervals. The Numidian cavalry, given clear patrol routes, intercepts several Carthaginian foraging parties. The defenders watch from their walls as the noose slowly tightens. Gaius Laelius reports that morale is climbing—the men can see purpose in their work now, and they believe in their new commander. The systematic approach is working, though it will take time before you are ready for the next phase.",
+        "ja": "改革は厳しいが効果的である。数週間のうちに、ローマ軍陣営の変貌は目覚ましい。従軍商人の追放は当初不満を引き起こすが、古参兵たちは真の指揮官の手腕を認識する。アフリカの太陽の下、完全武装での毎日の訓練は過酷だが、軍団兵たちはローマ兵としての誇りを取り戻し始める。脱走兵は集合した軍団の前で鞭打ちに処され、もはや規律違反を容認しないというメッセージは明確である。\n\nさらに重要なことに、あなたは全軍を大規模な工兵事業に投入する。カルタゴを陸から完全に包囲する要塞化された包囲線の構築である。塹壕が掘られ、柵が立てられ、一定間隔で監視塔が建設される。明確な巡回路を与えられたヌミディア騎兵は、カルタゴの食料調達隊をいくつか阻止する。守備兵たちは城壁から包囲の輪がゆっくりと締まっていくのを見守る。ガイウス・ラエリウスは士気が向上していると報告する。兵士たちは今や自分たちの仕事に目的を見出し、新しい指揮官を信頼している。体系的なアプローチは機能しているが、次の段階に備えるにはまだ時間がかかる。",
+        "zh-CN": "你的改革严厉但有效。几周之内，罗马军营的变化令人瞩目。驱逐随军商贩起初引起了一些不满，但老兵们认出了真正指挥官的手段。在非洲烈日下全副武装的每日操练虽然艰苦，但军团士兵开始重新找回作为罗马士兵的骄傲。逃兵在全军列阵前受到鞭刑，信号很明确：不再容忍任何违纪行为。\n\n更重要的是，你让全军投入了一项大规模工程——修建一条要塞化的环形围城线，从陆地上完全包围迦太基。壕沟被挖掘，栅栏被竖立，哨塔按固定间距建造。努米底亚骑兵被分配了明确的巡逻路线，截获了几支迦太基的粮草队。守军从城墙上眺望着绞索缓缓收紧。盖乌斯·莱利乌斯报告说士气正在回升——士兵们现在看到了工作的目标，他们相信自己的新指挥官。系统性的方法正在奏效，尽管在准备好进入下一阶段之前还需要时间。"
+      },
+      "nextSceneId": "fall-of-carthage-146bc-scene-002",
+      "stateChanges": [
+        { "variable": "romanMorale", "operation": "add", "value": 25 },
+        { "variable": "siegeEffectiveness", "operation": "add", "value": 20 },
+        { "variable": "politicalSupport", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Launch an immediate large-scale assault to exploit the defenders' surprise at a new commander's arrival. Use the element of boldness to restore morale through a quick victory, concentrating forces against the weakest section of the wall near the harbor.",
+        "ja": "新司令官の到着による守備兵の不意を突き、即座に大規模攻撃を開始する。大胆さを武器に速やかな勝利で士気を回復し、港付近の城壁の最も弱い箇所に兵力を集中する。",
+        "zh-CN": "发动即时大规模进攻，利用守军对新指挥官到来的措手不及。以大胆行动通过速胜来恢复士气，集中兵力攻击港口附近城墙最薄弱的地段。"
+      },
+      "historicalContext": "This is a counterfactual approach. Previous Roman commanders had attempted direct assaults and failed. The undisciplined army was not ready for such an operation, and Carthage's defenses were designed to repel exactly this kind of attack.",
+      "outcomePrompt": {
+        "en": "The assault begins at dawn with trumpets blaring across the siege lines. Your boldness catches both your own troops and the Carthaginians off guard initially, and for a brief, exhilarating moment it seems the gamble might pay off. Roman soldiers surge toward the harbor walls with scaling ladders and siege equipment, driven by the energy of a new command.\n\nBut the moment is fleeting. The undisciplined legions cannot maintain formation under fire. Units that were supposed to coordinate their attacks arrive at different times, allowing the defenders to concentrate their resistance. Carthaginian women and old men join the fighters on the walls, hurling stones, burning oil, and improvised weapons down on the Roman ranks. The assault on the harbor section nearly succeeds when a group of legionaries breaches a small gap, but without proper reserves to exploit the opening, they are cut off and slaughtered.\n\nBy midday, the retreat is sounded. Hundreds of Roman dead lie beneath the walls. The surviving troops are even more demoralized than before, and you have lost credibility with your officers. Gaius Laelius says nothing, but his expression speaks volumes. You now face the same problem as before—a demoralized army—but with fewer soldiers and less trust. The Carthaginians, emboldened by their victory, celebrate on the walls as your stretcher-bearers collect the wounded.",
+        "ja": "攻撃は夜明けにラッパが包囲線に鳴り響く中で始まる。あなたの大胆さは当初、味方の兵士とカルタゴの守備兵の両方を不意に打つ。束の間の高揚感の中、賭けが成功するかに見えた。ローマ兵は攻城梯子と攻城兵器を携え、新しい指揮への活力に突き動かされて港の城壁に殺到する。\n\nしかしその瞬間は儚い。規律のない軍団は砲火の下で陣形を維持できない。連携すべき部隊が異なる時間に到着し、守備兵が抵抗を集中することを許してしまう。カルタゴの女性や老人が城壁上の戦闘員に加わり、石、煮えたぎる油、即席の武器をローマ軍に浴びせかける。軍団兵の一団が小さな隙間を突破し、港の区域への攻撃はほぼ成功しかけるが、突破口を活用するための適切な予備兵がなく、孤立して虐殺される。\n\n正午までに撤退の号令がかかる。何百人ものローマ兵の死体が城壁の下に横たわる。生き残った兵士たちは以前にも増して士気を失い、あなたは士官たちの信頼を失った。ガイウス・ラエリウスは何も言わないが、その表情がすべてを物語っている。以前と同じ問題、すなわち士気の低い軍隊に直面しているが、兵士は減り信頼も薄い。勝利に勇気づけられたカルタゴ人が城壁上で祝勝する中、担架兵が負傷者を収容していく。",
+        "zh-CN": "进攻在黎明时分伴随着号角声展开。你的大胆出击最初让己方士兵和迦太基守军都措手不及，在短暂而令人振奋的瞬间，这场豪赌似乎可能奏效。罗马士兵带着攻城梯和攻城器械，在新指挥官带来的能量驱动下冲向港口城墙。\n\n但这一刻转瞬即逝。缺乏纪律的军团无法在火力下保持队形。本应协同进攻的各部队在不同时间抵达，使守军得以集中力量抵御。迦太基的妇女和老人加入城墙上的战斗者行列，向罗马军队投掷石块、倾倒沸油和临时武器。一群军团士兵突破了一个小缺口，港口地段的进攻差点成功，但由于没有适当的预备队来扩大战果，他们被切断后路遭到屠杀。\n\n到中午时分，撤退号响起。数百名罗马士兵的尸体横陈在城墙之下。幸存的部队比之前更加士气低落，你在军官中的威信也已受损。盖乌斯·莱利乌斯什么也没说，但他的表情已说明一切。你现在面临的问题和以前一样——一支士气低落的军队——但兵力更少，信任更薄。迦太基人被胜利鼓舞，在城墙上欢庆，而你的担架兵们正在收治伤亡者。"
+      },
+      "nextSceneId": "fall-of-carthage-146bc-scene-002",
+      "stateChanges": [
+        { "variable": "romanMorale", "operation": "add", "value": -15 },
+        { "variable": "siegeEffectiveness", "operation": "add", "value": -10 },
+        { "variable": "politicalSupport", "operation": "add", "value": -10 },
+        { "variable": "carthaginianResistance", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

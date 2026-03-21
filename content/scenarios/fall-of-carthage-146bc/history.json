@@ -1,0 +1,91 @@
+{
+  "scenarioId": "fall-of-carthage-146bc",
+  "timeline": [
+    {
+      "date": "-149-03-01",
+      "description": {
+        "en": "Rome declares war on Carthage after the city raises an army against Numidia, violating the treaty that ended the Second Punic War.",
+        "ja": "カルタゴがヌミディアに対して軍を編成し、第二次ポエニ戦争を終結させた条約に違反したことを受け、ローマがカルタゴに宣戦布告する。",
+        "zh-CN": "迦太基组建军队对抗努米底亚，违反了终结第二次布匿战争的条约，罗马对迦太基宣战。"
+      }
+    },
+    {
+      "date": "-149-06-01",
+      "description": {
+        "en": "Carthage surrenders hostages and all weapons to Rome, hoping to avoid destruction, but Rome demands the city be abandoned entirely.",
+        "ja": "カルタゴはローマに人質と全武器を引き渡し、破壊を免れることを望んだが、ローマは都市の完全放棄を要求した。",
+        "zh-CN": "迦太基向罗马交出人质和所有武器，希望避免毁灭，但罗马要求完全放弃城市。"
+      }
+    },
+    {
+      "date": "-149-07-01",
+      "description": {
+        "en": "Carthaginians refuse to abandon their city and begin frantically manufacturing weapons; women cut their hair to make bowstrings.",
+        "ja": "カルタゴ市民は都市の放棄を拒否し、必死に武器を製造し始める。女性たちは弓弦を作るために髪を切った。",
+        "zh-CN": "迦太基人拒绝放弃城市，开始疯狂制造武器；妇女们剪下头发制作弓弦。"
+      }
+    },
+    {
+      "date": "-149-09-01",
+      "description": {
+        "en": "Initial Roman assaults on Carthage fail; the city's triple walls and determined defenders repel all attacks.",
+        "ja": "ローマ軍のカルタゴへの最初の攻撃は失敗。都市の三重城壁と決死の守備兵がすべての攻撃を撃退した。",
+        "zh-CN": "罗马军队对迦太基的初次进攻失败；城市的三重城墙和顽强的守军击退了所有进攻。"
+      }
+    },
+    {
+      "date": "-148-06-01",
+      "description": {
+        "en": "King Masinissa of Numidia dies; his kingdom is divided among his sons under Roman supervision, ensuring continued support for the siege.",
+        "ja": "ヌミディアのマシニッサ王が死去。王国はローマの監督下で息子たちに分割され、包囲への継続的支援が確保された。",
+        "zh-CN": "努米底亚国王马西尼萨去世；他的王国在罗马监督下被分给他的儿子们，确保了对围城的持续支援。"
+      }
+    },
+    {
+      "date": "-147-01-01",
+      "description": {
+        "en": "Scipio Aemilianus is elected consul and given command of the African campaign despite not meeting the minimum age requirement.",
+        "ja": "スキピオ・アエミリアヌスが最低年齢要件を満たしていないにもかかわらず執政官に選出され、アフリカ戦役の指揮権を与えられる。",
+        "zh-CN": "西庇阿·埃米利安努斯尽管未达到最低年龄要求仍当选为执政官，并被授予非洲战役指挥权。"
+      }
+    },
+    {
+      "date": "-147-06-01",
+      "description": {
+        "en": "Scipio restores discipline, constructs a massive mole across the harbor entrance, and systematically tightens the blockade around Carthage.",
+        "ja": "スキピオは規律を回復し、港の入口を横断する巨大な防波堤を建設し、カルタゴ周囲の封鎖を体系的に強化する。",
+        "zh-CN": "西庇阿恢复了军纪，在港口入口修建了巨大的防波堤，并系统地收紧了对迦太基的封锁。"
+      }
+    },
+    {
+      "date": "-146-04-01",
+      "description": {
+        "en": "Final assault on Carthage: Roman forces breach the walls, fight through the city for six days, and raze it to the ground. Carthage ceases to exist.",
+        "ja": "カルタゴへの最終攻撃。ローマ軍が城壁を突破し、六日間にわたって市内を戦い抜き、都市を完全に破壊した。カルタゴは消滅した。",
+        "zh-CN": "对迦太基的最终进攻：罗马军队突破城墙，在城内激战六天，将城市夷为平地。迦太基不复存在。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Carthage was utterly destroyed in 146 BC. The city was burned, demolished, and its site cursed. Approximately 50,000 survivors were sold into slavery. The territory became the Roman province of Africa, and Punic civilization as an independent political and cultural force was extinguished forever.",
+    "ja": "紀元前146年、カルタゴは完全に破壊された。都市は焼かれ、取り壊され、その地は呪われた。約5万人の生存者が奴隷として売られた。領土はローマの属州アフリカとなり、独立した政治的・文化的勢力としてのポエニ文明は永遠に消滅した。",
+    "zh-CN": "迦太基于公元前146年被彻底摧毁。城市被焚烧、拆毁，其遗址被诅咒。约5万名幸存者被卖为奴隶。该领土成为罗马的阿非利加行省，布匿文明作为独立的政治和文化力量永远消亡。"
+  },
+  "casualties": {
+    "en": "Carthaginian losses were catastrophic: of an estimated 500,000 inhabitants at the start of the siege, roughly 450,000 perished from combat, starvation, and disease. Only about 50,000 survived to be enslaved. Roman casualties over the three-year campaign numbered in the tens of thousands, though exact figures are uncertain.",
+    "ja": "カルタゴ側の損害は壊滅的であった。包囲開始時に推定50万人いた住民のうち、約45万人が戦闘、飢餓、疫病で命を落とした。生き残って奴隷にされたのはわずか約5万人であった。三年間にわたるローマ軍の損害は数万人に上ったが、正確な数字は不明である。",
+    "zh-CN": "迦太基的损失是灾难性的：围城开始时估计有50万居民，约45万人死于战斗、饥饿和疾病。仅约5万人幸存并被奴役。罗马在三年战役中的伤亡达数万人，但确切数字不详。"
+  },
+  "significance": {
+    "en": "The destruction of Carthage eliminated Rome's last major rival in the western Mediterranean and established unchallenged Roman supremacy over the region. It marked the end of Punic civilization and served as a stark warning about the ruthlessness of Roman foreign policy. The event has resonated throughout history as a symbol of total war and the annihilation of a civilization, influencing debates about warfare, imperialism, and the ethics of conquest for millennia.",
+    "ja": "カルタゴの破壊は西地中海におけるローマ最後の主要な競争相手を排除し、この地域におけるローマの揺るぎない覇権を確立した。これはポエニ文明の終焉を意味し、ローマ外交政策の無慈悲さについての厳しい警告となった。この出来事は総力戦と文明の絶滅の象徴として歴史を通じて反響し、数千年にわたって戦争、帝国主義、征服の倫理に関する議論に影響を与えてきた。",
+    "zh-CN": "迦太基的毁灭消除了罗马在西地中海的最后一个主要对手，确立了罗马对该地区无可争议的霸权。它标志着布匿文明的终结，也是对罗马外交政策残酷性的严厉警示。这一事件作为全面战争和文明灭绝的象征在历史上持续回响，数千年来影响着关于战争、帝国主义和征服伦理的辩论。"
+  },
+  "furtherReading": [
+    "The Fall of Carthage by Adrian Goldsworthy",
+    "The Punic Wars by Adrian Goldsworthy",
+    "Carthage Must Be Destroyed by Richard Miles",
+    "Appian's Roman History: The Punic Wars",
+    "The Life of the Younger Scipio by Plutarch"
+  ]
+}

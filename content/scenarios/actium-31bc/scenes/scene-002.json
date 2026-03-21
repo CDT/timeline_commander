@@ -1,0 +1,123 @@
+{
+  "id": "actium-31bc-scene-002",
+  "scenarioId": "actium-31bc",
+  "date": {
+    "en": "September 2, 31 BC — Morning",
+    "ja": "紀元前31年9月2日朝",
+    "zh-CN": "公元前31年9月2日清晨"
+  },
+  "location": {
+    "en": "The Ionian Sea, Mouth of the Ambracian Gulf",
+    "ja": "イオニア海、アンブラキア湾の入口",
+    "zh-CN": "爱奥尼亚海，安布拉基亚湾口"
+  },
+  "isTerminal": false,
+  "title": {
+    "en": "The Battle of Actium",
+    "ja": "アクティウムの海戦",
+    "zh-CN": "亚克兴海战"
+  },
+  "narrativePrompt": {
+    "en": "The morning of September 2 breaks clear and windless. The Ambracian Gulf is calm as Antony's fleet begins to emerge — a sight that sends a shock through your watching officers. Despite weeks of attrition, the force coming out is still formidable: over 200 massive quinqueremes, their bronze rams gleaming, their towers loaded with archers and artillery. Antony has burned the ships he cannot crew, concentrating his remaining men onto the vessels still capable of fighting.\n\nYou are Octavian. Your 400 Liburnian warships deploy in a crescent formation, Agrippa commanding the left wing, your other admiral Arruntius on the right. Antony's fleet forms a broad line facing you. The wind is still at dawn, but the afternoon sea breeze from the south will arrive around noon — and Antony's ships have their sails aboard, not stored in camp as was normal for battle. He is planning to run, not just to fight.\n\nThe battle is joined. For hours it is a brutal grinding engagement — Antony's heavier ships hard to sink but hard to maneuver, your lighter Liburnians circling and striking with fire-arrows and grapples. Casualties mount on both sides. The outcome is uncertain.\n\nThen you receive the message that everything hinges on: Cleopatra's 60 Egyptian ships — which had been holding position behind Antony's line — have suddenly unfurled their sails and are driving south through a gap that has opened in the fighting. The wind has arrived. She is making her escape with the war treasury.\n\nAntony sees it too. Even as his own battle line still fights, you watch from your position as his flagship turns and follows her, abandoning the fleet. At this moment, you face a critical decision about how to use your reserves.",
+    "ja": "9月2日の朝は晴れて無風だ。アンブラキア湾は穏やかで、アントニウスの艦隊が出現し始める——見守る将校たちに衝撃を与える光景だ。何週間もの消耗にもかかわらず、出てくる戦力はまだ強力だ：200隻以上の巨大な五段櫂船、青銅の衝角が輝き、塔には弓兵と攻城兵器が満載されている。アントニウスは乗組員が足りない船を燃やし、残った兵力をまだ戦闘できる艦船に集中させた。\n\nあなたはオクタウィアヌスだ。400隻のリブルナ型軍艦が三日月形の陣形に展開し、アグリッパが左翼、もう一人の提督アルントゥウスが右翼を指揮する。アントニウスの艦隊はあなたと向き合って広い戦線を形成する。夜明けには風がなかったが、午後の南からの海風は正午頃到着する——そしてアントニウスの船は通常の戦闘時とは違い、陸上の倉庫ではなく船上に帆を積んでいる。彼は戦うだけでなく、逃走を計画している。\n\n戦闘が始まる。何時間もの間それは残酷な消耗戦だ——アントニウスの重い船は沈めにくいが機動しにくく、あなたの軽いリブルナ船が火矢と鈎で取り囲んで攻撃する。双方に犠牲者が増える。結果は不確かだ。\n\nそして、すべてがかかるメッセージを受け取る：アントニウスの戦線の後ろに位置していたクレオパトラの60隻のエジプト船が、戦闘で開いた隙間を通じて帆を張り、突然南に向かっている。風が到着した。彼女は戦争資金とともに脱出しようとしている。\n\nアントニウスも見ている。自分の戦列がまだ戦っている中でさえ、彼の旗艦が向きを変えて彼女を追い、艦隊を見捨てるのをあなたは自分の位置から見ている。この瞬間、あなたは予備部隊をどのように使うかについて重大な決断に直面する。",
+    "zh-CN": "9月2日清晨晴朗无风。安布拉基亚湾平静，安东尼的舰队开始出现——这一幕令你的观战将领们震惊。尽管经过数周消耗，出来的力量仍然强大：超过200艘巨大的五列桨战船，铜制冲角熠熠生辉，塔楼上满载弓手和攻城器械。安东尼已烧毁他无法供给船员的战船，将剩余人员集中到仍能作战的船只上。\n\n你是屋大维。400艘利布尔纳型战船以月牙形阵型展开，阿格里帕指挥左翼，你的另一位海军将领阿鲁提乌斯在右翼。安东尼的舰队排成宽广的战线面向你。黎明时风平浪静，但下午来自南方的海风将在正午前后抵达——安东尼的战船带着帆具，而不是像战斗常规那样储存在营地。他计划的是逃跑，而不仅仅是战斗。\n\n战斗开始了。数小时内这是一场残酷的消耗性交战——安东尼的较重战船难以击沉但难以机动，你的较轻利布尔纳战船绕圈用火箭和钩爪打击。双方伤亡增加。结果难以预料。\n\n然后你收到了一切所系的消息：一直在安东尼战线后方待命的克利奥帕特拉60艘埃及战船，突然扬帆穿过战斗中打开的缺口向南驶去。风来了。她正带着战争国库逃脱。\n\n安东尼也看到了。即使他自己的战线仍在战斗，你从你的位置看到他的旗舰转向追随她，抛弃了舰队。在这一刻，你面临着关于如何使用预备力量的关键决定。"
+  },
+  "situationReport": [
+    {
+      "en": "The naval engagement has been underway for several hours. Antony's line is under pressure but not broken. Both sides have taken significant casualties, but neither fleet has achieved a decisive advantage.",
+      "ja": "海戦は数時間進行中だ。アントニウスの戦線は圧力を受けているが崩れていない。双方が相当の犠牲を出しているが、どちらの艦隊も決定的な優位を得ていない。",
+      "zh-CN": "海战已持续数小时。安东尼的战线受到压力但尚未崩溃。双方都遭受了重大伤亡，但两支舰队都没有取得决定性优势。"
+    },
+    {
+      "en": "Cleopatra's 60 ships are now running south under full sail with the war treasury. Antony has abandoned his flagship and follows her with a small squadron. His main fleet — over 170 ships — is still fighting without a commander.",
+      "ja": "クレオパトラの60隻の船は今や戦争資金を積んで帆を張って南に走っている。アントニウスは旗艦を捨て、小さな艦隊で彼女を追っている。彼の主力艦隊——170隻以上——がまだ指揮官なしに戦っている。",
+      "zh-CN": "克利奥帕特拉的60艘战船现在满帆向南逃去，携带着战争国库。安东尼已抛弃旗舰，带着小型分队追随她。他的主力舰队——超过170艘战船——仍在没有指挥官的情况下作战。"
+    },
+    {
+      "en": "The leaderless Antonine fleet is becoming disorganized. Some ships are attempting to follow Antony; others are continuing to fight; still others are looking for an opportunity to surrender.",
+      "ja": "指揮官を失ったアントニウス艦隊は組織を失いつつある。一部の船はアントニウスを追おうとしており、他は戦い続け、さらに他は降伏の機会を探っている。",
+      "zh-CN": "失去指挥官的安东尼舰队正趋于混乱。一些战船试图追随安东尼；另一些继续战斗；还有一些在寻找投降机会。"
+    },
+    {
+      "en": "Agrippa's left wing is performing well. Your right wing under Arruntius is in a harder fight. You have a reserve squadron of 40 ships that has not yet been committed.",
+      "ja": "アグリッパの左翼は健闘している。アルントゥウス指揮下の右翼はより困難な戦いをしている。あなたにはまだ投入していない40隻の予備艦隊がある。",
+      "zh-CN": "阿格里帕的左翼表现良好。阿鲁提乌斯指挥的右翼面临更艰难的战斗。你有一支尚未投入的40艘战船预备队。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Destroy or capture the leaderless Antonine fleet before it can escape or reorganize.",
+      "ja": "指揮官を失ったアントニウス艦隊が脱出または再編成される前に撃破または捕獲する。",
+      "zh-CN": "在失去指挥官的安东尼舰队逃脱或重新组织之前将其摧毁或俘获。"
+    },
+    {
+      "en": "Intercept Cleopatra's escaping squadron and the war treasury before it reaches the open sea.",
+      "ja": "クレオパトラの逃走艦隊と戦争資金が外洋に達する前に迎撃する。",
+      "zh-CN": "在克利奥帕特拉的逃脱分队和战争国库到达公海之前进行拦截。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You cannot be in two places at once. Pursuing Cleopatra south requires releasing ships from the main battle line, which may allow some Antonine ships to escape north.",
+      "ja": "同時に二か所にいることはできない。クレオパトラを南に追うには主戦線から船を外す必要があり、一部のアントニウス船が北に逃げる可能性がある。",
+      "zh-CN": "你不能同时在两个地方。向南追赶克利奥帕特拉需要从主战线撤出战船，这可能让一些安东尼战船向北逃脱。"
+    },
+    {
+      "en": "Cleopatra's Egyptian ships are the fastest in both fleets — they have a strong start and a favorable wind. Catching them will be difficult.",
+      "ja": "クレオパトラのエジプト船は両艦隊で最も速い——強いスタートと有利な風を持っている。追いつくのは難しいだろう。",
+      "zh-CN": "克利奥帕特拉的埃及战船是两支舰队中最快的——她们有很大的先发优势和有利的风向。追上她们将会很困难。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Send the reserve squadron to pursue Cleopatra — prioritize capturing the treasury",
+        "ja": "クレオパトラを追うために予備艦隊を送る――財宝の確保を優先する",
+        "zh-CN": "派遣预备队追赶克利奥帕特拉——优先夺取国库"
+      },
+      "description": {
+        "en": "The war treasury is the key to whether Antony can continue the war from Egypt. Send your 40-ship reserve squadron south at full speed to intercept Cleopatra's squadron. Accept that the main Antonine battle fleet may use this opening to escape north with some ships. Prioritize cutting off the gold over destroying every ship.",
+        "ja": "戦争資金はアントニウスがエジプトから戦争を継続できるかどうかの鍵だ。40隻の予備艦隊を全速力で南に送り、クレオパトラの艦隊を迎撃する。主力のアントニウス戦闘艦隊がこの隙を使って一部の船で北に逃げることを受け入れる。すべての船を破壊することより金の遮断を優先する。",
+        "zh-CN": "战争国库是安东尼是否能从埃及继续战争的关键。将你的40艘预备队以全速向南派出拦截克利奥帕特拉的分队。接受主力安东尼战斗舰队可能利用这个机会用部分战船向北逃脱。优先截断黄金而非摧毁每一艘战船。"
+      },
+      "historicalContext": "This is the counterfactual — Octavian did not successfully intercept Cleopatra's treasury ships at Actium. The Egyptian squadron, which had the wind and a head start, reached Egypt successfully. Octavian chose to focus on the main battle rather than dispatching reserves in pursuit, trusting that the follow-up campaign to Egypt would ultimately secure everything. This proved correct — Antony and Cleopatra both died in 30 BCE, and Egypt fell to Rome.",
+      "outcomePrompt": {
+        "en": "You send the reserve south. Agrippa receives word and adjusts, pressing the main battle line harder to compensate for the lost ships. The 40-ship reserve drives south at maximum speed.\n\nThey do not catch Cleopatra. Her Egyptian ships, purpose-built for speed and running before the wind with a significant head start, are faster than anything you have. The reserve catches two straggling treasure ships whose crews have struggled to keep up — a fraction of the gold — before losing the main Egyptian squadron in the gathering dusk.\n\nBehind you, the main battle has reached its conclusion. Antony's abandoned fleet, seeing that its admiral has fled, fights on briefly then begins surrendering. Several dozen ships escape north in the confusion, but over 150 Antonine warships surrender or are burned. The victory at sea is decisive.\n\nA week later, Antony's land army surrenders without a fight. You hold almost everything — but Cleopatra has most of the treasury in Alexandria, Antony is with her, and Egypt remains to be taken. The war has one final act.",
+        "ja": "予備艦隊を南に送る。アグリッパは知らせを受けて調整し、失った船を補うために主戦線をより強く押し進める。40隻の予備艦隊は最高速度で南に突進する。\n\nクレオパトラには追いつかない。スピードのために特別に建造されたエジプト船は、大きな先行優位を持って風前に走り、あなたが持っているどんな船より速い。予備艦隊は後れを取っていた二隻の財宝船——金のほんの一部——を捕まえるが、夕暮れ時に主力エジプト艦隊を見失う。\n\n後方では、主力戦闘が結論に達している。アントニウスに見捨てられた艦隊は提督が逃げたことを見て、一時的に戦い続けた後、降伏し始める。混乱の中で数十隻の船が北に逃げるが、150隻以上のアントニウス軍艦が降伏または炎上する。海上の勝利は決定的だ。\n\n一週間後、アントニウスの陸軍は戦わずして降伏する。あなたはほぼすべてを握る——しかしクレオパトラはほとんどの財宝をアレクサンドリアに持っており、アントニウスは彼女と共にいて、エジプトはまだ攻略されていない。戦争には最後の一幕がある。",
+        "zh-CN": "你向南派出预备队。阿格里帕收到消息后进行调整，更加猛烈地压制主战线以弥补损失的战船。40艘预备队以最大速度向南冲去。\n\n他们没有追上克利奥帕特拉。她的埃及战船是专为速度而建的，乘风而行且有相当大的先发优势，比你拥有的任何战船都快。预备队在沉沉暮色中抓获了两艘落后的财宝船——黄金的一小部分——然后在主力埃及分队中失去踪迹。\n\n在你身后，主战已经到达结尾。安东尼遗弃的舰队看到统帅已逃，短暂继续战斗后开始投降。混乱中数十艘战船向北逃脱，但超过150艘安东尼战舰投降或被烧毁。海上胜利是决定性的。\n\n一周后，安东尼的陆军不战而降。你掌握了几乎所有的一切——但克利奥帕特拉带着大部分国库在亚历山大城，安东尼与她在一起，埃及仍需攻取。战争还有最后一幕。"
+      },
+      "stateChanges": [
+        { "variable": "treasureSecurity", "operation": "add", "value": 15 },
+        { "variable": "navalSuperiority", "operation": "add", "value": -5 },
+        { "variable": "politicalLegitimacy", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": "actium-31bc-scene-003"
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Concentrate on the main battle — destroy Antony's fleet completely, Egypt can wait",
+        "ja": "主戦に集中する――アントニウスの艦隊を完全に撃破する。エジプトは後でよい",
+        "zh-CN": "集中于主战——彻底摧毁安东尼的舰队，埃及可以等待"
+      },
+      "description": {
+        "en": "Commit the reserve to reinforce Arruntius's struggling right wing. Destroy the Antonine fleet utterly — let not a single ship escape if possible. Once Antony's naval power is eliminated and his army surrenders, Egypt is isolated. Without a navy, Cleopatra cannot escape, and the treasury is trapped in Alexandria where you can collect it at leisure.",
+        "ja": "予備艦隊をアルントゥウスの苦戦する右翼の増援に投入する。アントニウスの艦隊を完全に撃破する——可能であれば一隻も逃がさない。アントニウスの海軍力が排除され、軍が降伏すれば、エジプトは孤立する。海軍なしにはクレオパトラは逃げられず、財宝はアレクサンドリアに閉じ込められ、あなたが余裕をもって回収できる。",
+        "zh-CN": "将预备队投入增援阿鲁提乌斯苦战的右翼。彻底摧毁安东尼的舰队——如果可能的话一艘都不让逃脱。一旦安东尼的海军力量被消灭，他的军队投降，埃及就孤立无援了。没有海军，克利奥帕特拉无法逃脱，国库被困在亚历山大城，你可以从容收取。"
+      },
+      "historicalContext": "This is closer to what historically occurred — Octavian focused on the main naval engagement and allowed Cleopatra's squadron to escape (though not intentionally). The subsequent Egypt campaign in 30 BCE was relatively swift: Antony committed suicide when he heard (false) reports of Cleopatra's death, and Cleopatra herself committed suicide shortly after to avoid being taken to Rome as a prisoner. The treasury, while Cleopatra threatened to burn it, ultimately fell to Octavian intact.",
+      "outcomePrompt": {
+        "en": "You commit the reserves to the right wing. Arruntius's position stabilizes then pushes forward. Agrippa's left flank is already winning. The Antonine battle fleet, leaderless since Antony abandoned it, begins to break apart under pressure from all sides.\n\nThe rout becomes complete by mid-afternoon. Over 150 Antonine warships are captured or burned. Perhaps 50 escape north in the confusion — but without Antony, without leadership, they disperse and eventually surrender over the following weeks. You have destroyed Antony's naval power.\n\nCleopatra reaches Egypt with most of the treasury. But Egypt is now a dead end. Without the fleet she brought from Actium, she has no way to escape and no allies to turn to. Antony follows her but knows his cause is lost.\n\nA year later, you lead the campaign to Egypt. Antony commits suicide. Cleopatra, preferring death to being led through Rome in chains, follows him. Egypt and the treasury fall to you without significant resistance. The civil wars of Rome are over. The Republic, whatever name you give to what comes next, has breathed its last.",
+        "ja": "予備艦隊を右翼に投入する。アルントゥウスの陣地が安定し、前進し始める。アグリッパの左翼はすでに勝利しつつある。アントニウスに見捨てられて指揮官のいないアントニウスの戦闘艦隊は、四方からの圧力で崩れ始める。\n\n敗走は午後中盤までに完結する。150隻以上のアントニウス軍艦が捕獲または炎上する。おそらく50隻が混乱の中で北に逃げる——しかしアントニウスなし、指導なしに散り散りになり、最終的に数週間後に降伏する。あなたはアントニウスの海軍力を壊滅させた。\n\nクレオパトラはほとんどの財宝とともにエジプトに到達する。しかしエジプトは今や行き止まりだ。アクティウムから持ってきた艦隊なしには逃げる手段がなく、頼れる同盟者もいない。アントニウスは彼女の後を追うが、大義が失われたことを知っている。\n\n一年後、あなたはエジプト遠征を率いる。アントニウスは自決する。クレオパトラは鎖につながれてローマを引き回されるより死を選び、彼に続く。エジプトと財宝は大きな抵抗なしにあなたのものになる。ローマの内戦は終わった。共和国は、次に来るものをどう呼ぼうとも、最後の息を引き取った。",
+        "zh-CN": "你将预备队投入右翼。阿鲁提乌斯的阵地稳定下来，随后向前推进。阿格里帕的左翼已经在获胜。被安东尼遗弃的安东尼战斗舰队，在来自四面八方的压力下开始瓦解。\n\n溃败在下午中段完成。超过150艘安东尼战舰被俘获或烧毁。也许50艘在混乱中向北逃脱——但没有安东尼、没有领导，他们分散，最终在接下来的几周内投降。你摧毁了安东尼的海军力量。\n\n克利奥帕特拉携大部分国库到达埃及。但埃及现在是死路一条。没有她从亚克兴带来的舰队，她没有逃脱的途径，也没有可以求助的盟友。安东尼追随她而去，但知道他的事业已经失败。\n\n一年后，你率领对埃及的战役。安东尼自杀身亡。克利奥帕特拉宁愿以死换自由，不愿被带着镣铐走过罗马，跟随他而去。埃及和国库几乎没有遭到抵抗便落入你的手中。罗马的内战结束了。共和国，无论你如何称呼接下来的时代，已经吐出了最后一口气。"
+      },
+      "stateChanges": [
+        { "variable": "navalSuperiority", "operation": "add", "value": 20 },
+        { "variable": "treasureSecurity", "operation": "add", "value": -20 },
+        { "variable": "politicalLegitimacy", "operation": "add", "value": 15 }
+      ],
+      "nextSceneId": "actium-31bc-scene-003"
+    }
+  ]
+}

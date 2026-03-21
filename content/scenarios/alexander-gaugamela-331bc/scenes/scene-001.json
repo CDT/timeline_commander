@@ -1,0 +1,123 @@
+{
+  "id": "alexander-gaugamela-331bc-scene-001",
+  "scenarioId": "alexander-gaugamela-331bc",
+  "date": {
+    "en": "September 30, 331 BC — Night Before the Battle",
+    "ja": "紀元前331年9月30日、前夜",
+    "zh-CN": "公元前331年9月30日，战前夜"
+  },
+  "location": {
+    "en": "Macedonian Camp, Plain of Gaugamela",
+    "ja": "ガウガメラの平原、マケドニア軍の野営地",
+    "zh-CN": "高加米拉平原，马其顿军营"
+  },
+  "isTerminal": false,
+  "title": {
+    "en": "Before the Storm",
+    "ja": "嵐の前",
+    "zh-CN": "风暴前夕"
+  },
+  "narrativePrompt": {
+    "en": "Night has fallen over the plain of Gaugamela. Across the dark expanse, you can see the fires of Darius's camp — tens of thousands of them, a vast constellation that makes your own campfires look sparse. Scouts report the Persian army has been standing to arms all night, fearful of a night attack. You refused to make one.\n\nYou are Alexander. Your generals, led by the cautious Parmenion, urged a night assault — attack the Persian camp in darkness, use confusion and terror, avoid the disadvantage of their numbers. You refused. 'I will not steal a victory,' you said. Perhaps more practically: a night attack could scatter your own men as easily as theirs, and would deny you the clean, unambiguous triumph that your political position demands.\n\nIn your tent, studying the latest scout reports by lamplight, you see the problem clearly. The Persian line is much longer than yours — their cavalry already extends past your flanks. Darius has his scythed chariots prepared for the center. His elephants, though few, may panic your horses. He has leveled this plain specifically to give his chariots room.\n\nBut your scouts have also given you something invaluable: a detailed map of the Persian dispositions. You can see where the gaps in their line might open as different units advance at different speeds. You can see where Darius himself stands — in the center, in his great royal chariot, surrounded by his best guards. If you can reach him, his army will collapse.\n\nParmenion wants to attack at dawn in a conventional frontal assault. Your own instinct is different. What is your plan for the morning?",
+    "ja": "ガウガメラの平原に夜が落ちた。暗い広がりの向こうに、ダレイオスの陣営の焚き火が見える——何万もの火が広がり、あなた自身のかがり火を疎らに見せる巨大な星座のようだ。斥候は夜間攻撃を恐れてペルシア軍が一晩中武装したまま立っていると報告する。あなたはそれを行わなかった。\n\nあなたはアレクサンドロスだ。慎重なパルメニオンに率いられた将軍たちは夜間突撃を促した——暗闇でペルシアの陣営を攻撃し、混乱と恐怖を利用し、彼らの数の優位を避ける。あなたは拒否した。「私は勝利を盗まない」と言った。おそらくより実際的には：夜間攻撃は彼らと同じくらい容易に自分の兵を散り散りにする可能性があり、あなたの政治的立場が要求する明確で明白な勝利を否定するだろう。\n\nテントの中でランプの光で最新の斥候報告を研究しながら、問題を明確に見ている。ペルシアの戦列はあなたのものよりはるかに長い——彼らの騎兵はすでに側面を超えて延びている。ダレイオスは中央に鎌付き戦車を準備している。象は少ないが、あなたの馬をパニックに陥れるかもしれない。彼はこの平原を、戦車に空間を与えるために特別に平坦化した。\n\nしかし斥候はかけがえない情報も与えてくれた：ペルシアの陣形の詳細な地図だ。異なる部隊が異なる速度で前進するにつれて、戦列のどこに隙間が開くかを見ることができる。ダレイオス自身がどこに立っているかを見ることができる——中央に、巨大な王室の戦車に乗り、最良の護衛たちに囲まれている。彼に到達できれば、軍は崩壊する。\n\nパルメニオンは夜明けに通常の正面攻撃で攻撃したいと思っている。あなた自身の本能は違う。朝のための計画は何か？",
+    "zh-CN": "夜幕降临高加米拉平原。透过黑暗的广袤，你能看到大流士营地的篝火——成千上万的火焰，形成一个庞大的星座，使你自己的营火看起来稀疏。斥候报告波斯军队整夜保持武装警戒，担心夜袭。你拒绝了这样做。\n\n你是亚历山大。以谨慎的帕曼纽为首的将领们敦促发动夜间突袭——在黑暗中攻击波斯营地，利用混乱和恐惧，避免他们数量上的劣势。你拒绝了。'我不会窃取胜利，'你说。也许更实际的是：夜间攻击可能和瓦解他们一样容易打散自己的部队，并且会剥夺你的政治立场所要求的那种干净、明确的胜利。\n\n在帐篷里，借着灯光研究最新的侦察报告，你清楚地看到了问题所在。波斯战线比你的长得多——他们的骑兵已经超出了你的侧翼。大流士在中央准备了镰刀战车。他的大象虽少，但可能使你的战马惊恐。他特意平整了这片平原，给他的战车留有空间。\n\n但你的斥候也给了你一些无价的东西：波斯部署的详细地图。你可以看出，当不同部队以不同速度推进时，他们战线的哪些地方可能会出现缺口。你可以看到大流士本人所在的位置——在中央，乘坐他那辆宏大的王室战车，被他最好的护卫包围。如果你能到达他，他的军队将会崩溃。\n\n帕曼纽想在黎明时发动常规正面攻击。你自己的直觉不同。你早上的计划是什么？"
+  },
+  "situationReport": [
+    {
+      "en": "The Persian army outnumbers you significantly — estimates range from 2:1 to 5:1. Their cavalry especially exceeds yours. Darius has leveled this plain specifically to remove the advantages terrain gave Alexander at Issus.",
+      "ja": "ペルシア軍はあなたを大幅に上回る——推定は2対1から5対1に及ぶ。特に騎兵はあなたを上回る。ダレイオスはイッソスでアレクサンドロスに地形が与えた優位を取り除くために特にこの平原を平坦化した。",
+      "zh-CN": "波斯军队在数量上显著超过你——估计从2比1到5比1不等。他们的骑兵尤其超过你。大流士特意平整了这片平原，以消除地形在伊苏斯给予亚历山大的优势。"
+    },
+    {
+      "en": "Darius stands in the Persian center. His personal guard — the Persian Immortals and apple-bearers — surround him. If Alexander can reach and threaten Darius directly, the Persian command structure collapses.",
+      "ja": "ダレイオスはペルシア中央に立っている。彼の親衛隊——ペルシアの不死隊とリンゴ持ち——が彼を取り囲んでいる。アレクサンドロスがダレイオスに直接到達して脅かすことができれば、ペルシアの指揮系統は崩壊する。",
+      "zh-CN": "大流士站在波斯中央。他的亲卫队——波斯不死军和持苹果者——包围着他。如果亚历山大能够直接到达并威胁大流士，波斯指挥结构就会崩溃。"
+    },
+    {
+      "en": "The scythed chariots — 200 of them — are positioned to sweep the Macedonian infantry phalanx. Historical accounts and military analysis suggest they are most effective if the target cannot disperse or open gaps.",
+      "ja": "鎌付き戦車——200台——はマケドニア歩兵ファランクスを一掃するために配置されている。歴史的な記述と軍事分析は、標的が分散したり隙間を開けたりできない場合が最も効果的だと示唆している。",
+      "zh-CN": "镰刀战车——200辆——被部署为横扫马其顿步兵方阵。历史记载和军事分析表明，当目标无法分散或打开缺口时效果最佳。"
+    },
+    {
+      "en": "Parmenion commands the Macedonian left — the Thessalian cavalry and allied Greek infantry. His wing will be under extreme pressure from Persian cavalry who massively outnumber him.",
+      "ja": "パルメニオンはマケドニア左翼——テッサリア騎兵と同盟国ギリシア歩兵——を指揮する。彼の翼は圧倒的に数の多いペルシア騎兵から極度の圧力を受ける。",
+      "zh-CN": "帕曼纽指挥马其顿左翼——色萨利骑兵和盟国希腊步兵。他的翼将受到数量大得多的波斯骑兵的极大压力。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Develop a battle plan that neutralizes the Persian numerical advantage and creates an opportunity to reach Darius in the center.",
+      "ja": "ペルシアの数の優位を無効化し、中央のダレイオスに到達する機会を作る戦闘計画を立案する。",
+      "zh-CN": "制定一个能中和波斯数量优势并创造机会到达中央大流士的战役计划。"
+    },
+    {
+      "en": "Brief Parmenion on how to hold the left flank under pressure without retreating in a way that exposes the infantry center.",
+      "ja": "歩兵中央を露出させる退却をすることなく圧力下で左翼を保持する方法についてパルメニオンに説明する。",
+      "zh-CN": "向帕曼纽详细说明如何在压力下保持左翼，而不以暴露步兵中央的方式撤退。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "A night attack would lose the decisive clarity you need. The victory must be achieved in daylight, in a way Rome, Greece, and Persia can all understand — and accept.",
+      "ja": "夜間攻撃はあなたが必要とする決定的な明確さを失う。勝利は昼間に達成されなければならない。ローマ、ギリシャ、そしてペルシャがすべて理解し——そして受け入れることができる方法で。",
+      "zh-CN": "夜间攻击会失去你所需要的决定性清晰度。胜利必须在白天取得，以罗马、希腊和波斯都能理解——并接受的方式。"
+    },
+    {
+      "en": "The oblique drift rightward that you are planning is dangerous — if you move too far right, your infantry center separates from your cavalry, creating a gap the Persians can exploit.",
+      "ja": "計画している右への斜め漂流は危険だ——右に動きすぎると、歩兵中央と騎兵が分離し、ペルシア人が利用できる隙間を作る。",
+      "zh-CN": "你计划的向右斜向漂移是危险的——如果移动太靠右，你的步兵中央与骑兵分离，为波斯人创造可以利用的缺口。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "The oblique approach — drift right, draw them out, strike the gap",
+        "ja": "斜め戦法――右に漂流し、引き出し、隙間を突く",
+        "zh-CN": "斜向战法——向右漂移，引诱他们出击，突击缺口"
+      },
+      "description": {
+        "en": "Execute the complex tactical plan: march obliquely rightward at the battle's opening, drawing the Persian left cavalry out of position as they try to maintain contact. Create the gap in the Persian center. Then lead the Companions through that gap directly at Darius. Brief Parmenion to hold the left at all costs and accept casualties rather than retreating.",
+        "ja": "複雑な戦術的計画を実行する：戦闘の開始時に右斜め方向に行軍し、接触を維持しようとするペルシア左翼騎兵を位置から引き出す。ペルシア中央に隙間を作る。次にコンパニオンをその隙間を通じて直接ダレイオスに向けて率いる。左翼をどんな犠牲を払っても保持し、撤退するのではなく犠牲を受け入れるようパルメニオンに説明する。",
+        "zh-CN": "执行复杂的战术计划：在战斗开始时向右斜向行军，将波斯左翼骑兵从阵地上引诱出来，因为他们试图保持联系。在波斯中央制造缺口。然后率领伴侣骑兵穿过那个缺口直扑大流士。向帕曼纽交代要不惜一切代价守住左翼，接受伤亡而不是撤退。"
+      },
+      "historicalContext": "This is the historical choice — Alexander's oblique rightward march at Gaugamela was one of the most analyzed tactical moves in ancient history. He deliberately drifted rightward, drawing the Persian left wing cavalry out of position, then identified and exploited the gap that opened in the Persian center. The Companion Cavalry charge directly at Darius caused the Persian king to flee for the second time, and his army collapsed. Alexander then turned to relieve Parmenion's hard-pressed left flank.",
+      "outcomePrompt": {
+        "en": "The battle opens at dawn. You lead the right wing in the oblique march — a steady, controlled drift rightward that slowly draws the Persian left cavalry out of position as they try to keep pace. Darius watches from his center. The Persian left extends further and further, creating the gap you need in their center.\n\nAnd then you see it. A space has opened between the Persian left-center and right-center. Not large — but large enough. You wheel the Companions leftward and drive directly at the gap. The charge is devastating: armored horsemen moving at full gallop, aimed like a spear at the heart of the Persian line.\n\nYou break through. Ahead of you: Darius, standing in his royal chariot, surrounded by the last of his guard. For one moment he faces you — this man who has already fled one battlefield. The moment stretches. Then Darius turns his chariot and flees for the second time.\n\nThe Persian army sees it. Their god-king, the Great King, running. And they break. The rout is total.\n\nBehind you, Parmenion's left is still fighting desperately — you turn the Companions and ride to relieve him. But the battle is already won. Persia is finished.\n\nOf all the battles you will ever fight, this is the perfect one. It will be studied for two thousand years.",
+        "ja": "戦闘は夜明けに始まる。あなたは斜め行軍で右翼を率いる——ペルシア左翼騎兵が追いつこうとするにつれて彼らを位置から徐々に引き出す、着実で制御された右への漂流。ダレイオスは中央から見ている。ペルシアの左翼は延びに延び、あなたが必要とする中央の隙間を作る。\n\nそして見える。ペルシア左中央と右中央の間に空間が開いた。大きくはない——しかし十分に大きい。コンパニオンを左に向けてその隙間に直接突撃する。突撃は壊滅的だ：完全な駆け足で動く装甲騎兵がペルシアの戦列の心臓に向けて槍のように向かう。\n\n突破する。あなたの前に：ダレイオスが、最後の護衛に囲まれて王室の戦車に立っている。一瞬、彼はあなたと向き合う——すでに一つの戦場から逃げたこの男が。瞬間が延びる。そしてダレイオスは戦車を向けて二度目の逃走をする。\n\nペルシア軍はそれを見る。彼らの神王、大王が逃げている。そして彼らは崩れる。敗走は完全だ。\n\n後方では、パルメニオンの左翼がまだ必死に戦っている——あなたはコンパニオンを向けて彼を救援するために馳せる。しかし戦闘はすでに勝利している。ペルシアは終わった。\n\nあなたが戦うすべての戦闘の中で、これは完璧なものだ。2000年間研究され続けるだろう。",
+        "zh-CN": "战斗在黎明时开始。你率领右翼进行斜向行军——一种稳定、受控的向右漂移，随着波斯左翼骑兵试图跟上而慢慢将他们从阵地引出。大流士从他的中央观察。波斯左翼越伸越远，在他们的中央创造了你所需的缺口。\n\n然后你看到了。波斯左中央和右中央之间开出了一个空间。不大——但足够大了。你将伴侣骑兵向左转向，直接冲向那个缺口。冲锋是毁灭性的：装甲骑兵以全速奔驰，像一支矛一样瞄准波斯战线的心脏。\n\n你突破了。在你面前：大流士，站在他的王室战车上，被最后的护卫包围。有那么一刻他面对着你——这个已经逃离过一个战场的人。这一刻被拉长了。然后大流士调转战车，第二次逃跑了。\n\n波斯军队看到了这一幕。他们的神王，大王，在逃跑。他们崩溃了。溃败是彻底的。\n\n在你身后，帕曼纽的左翼仍在拼死作战——你转向伴侣骑兵，策马前往救援他。但战斗已经赢了。波斯完了。\n\n在你曾经打过的所有战役中，这是最完美的一场。它将被研究两千年。"
+      },
+      "stateChanges": [
+        { "variable": "macedonianMorale", "operation": "add", "value": 15 },
+        { "variable": "persianMorale", "operation": "add", "value": -20 },
+        { "variable": "cavalryAdvantage", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": "alexander-gaugamela-331bc-scene-002"
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Follow Parmenion's advice — attack at dawn with a conventional frontal assault",
+        "ja": "パルメニオンの助言に従う――夜明けに通常の正面攻撃で攻撃する",
+        "zh-CN": "遵从帕曼纽的建议——黎明时以常规正面攻击发起进攻"
+      },
+      "description": {
+        "en": "Accept Parmenion's conventional wisdom. Attack at dawn across the full front, using the shock of a simultaneous advance to overwhelm the Persian response. Trust the superior discipline and individual quality of Macedonian soldiers over Persian numbers. Concentrate reserves to support the critical moment wherever it emerges.",
+        "ja": "パルメニオンの従来の知恵を受け入れる。ペルシアの応答を圧倒するために同時前進の衝撃を利用して、全前線にわたって夜明けに攻撃する。ペルシアの数よりもマケドニア兵士の優れた規律と個々の質を信頼する。どこでも発生する重要な瞬間を支援するために予備隊を集中させる。",
+        "zh-CN": "接受帕曼纽的传统智慧。在黎明时横跨整个正面发起攻击，利用同时推进的冲击压倒波斯的反应。信任马其顿士兵优于波斯数量的更高纪律性和个人素质。将预备队集中支援在任何地方出现的关键时刻。"
+      },
+      "historicalContext": "This is the counterfactual approach — Parmenion advised a more conventional attack but was overruled by Alexander. A frontal assault across the open plain of Gaugamela would have given the Persian cavalry maximum room to maneuver and their scythed chariots maximum effect. The Macedonian infantry phalanx was superior to Persian infantry, but the sheer weight of numbers on the Persian flanks would likely have led to an envelopment. Alexander's oblique strategy was essential to his victory.",
+      "outcomePrompt": {
+        "en": "You advance at dawn across the full front. The Persian army meets you on the open plain. For the first hour, the Macedonian phalanx grinds forward against Persian infantry — and wins everywhere it makes contact. Your soldiers are simply better.\n\nBut the flanks are another story. The Persian cavalry, massively superior in numbers, drives around both your wings. Parmenion sends desperate messages: his left is being enveloped. You send the Companions to shore up his right, but the movement takes time.\n\nThe scythed chariots charge the phalanx. Your infantry, trained for this possibility, open lanes in the formation and allow the chariots to pass through — a brilliant improvised response — but the maneuver disrupts the phalanx's momentum.\n\nThe battle hangs in the balance for three hours. You personally lead the Companions in charge after charge against the Persian center, but Darius has not been reached — he retreats steadily as you approach. You cannot close the distance.\n\nFinally, Parmenion's messages become critical. You break off the central engagement to relieve him. By the time you reach him, his left has bent but not broken. The Persian cavalry that had enveloped him has begun to plunder your camp rather than fighting.\n\nThe battle ends in victory — Darius eventually flees — but it is messy, costly, and nearly catastrophic. You have won, but the oblique masterpiece you planned last night was never executed. History will remember Gaugamela differently than it should.",
+        "ja": "夜明けに全前線にわたって前進する。ペルシア軍が開けた平原であなたを迎える。最初の一時間、マケドニアのファランクスはペルシア歩兵に対して前進し続ける——そして接触するどこでも勝利する。あなたの兵士たちは単純により優れている。\n\nしかし側面は別の話だ。数で大幅に優勢なペルシア騎兵が両翼を回り込む。パルメニオンは絶望的なメッセージを送る：彼の左翼が包囲されている。コンパニオンを彼の右翼を補強するために送るが、移動には時間がかかる。\n\n鎌付き戦車がファランクスに突撃する。あなたの歩兵はこの可能性のために訓練を受けており、陣形に通路を開いて戦車を通過させる——見事な即興の対応——しかし機動がファランクスの勢いを乱す。\n\n戦闘は3時間均衡している。あなたは個人的にコンパニオンをペルシア中央に対して何度も突撃させるが、ダレイオスには到達していない——彼はあなたが近づくにつれて着実に退いている。距離を縮めることができない。\n\n最終的に、パルメニオンのメッセージは深刻になる。彼を救援するために中央の交戦を断ち切る。彼のところに到達した時、彼の左翼は曲がっているが崩れていない。彼を包囲したペルシア騎兵は戦うのではなくあなたの陣営を略奪し始めている。\n\n戦闘は勝利に終わる——ダレイオスは最終的に逃走する——しかしそれは乱雑で、コストが高く、ほぼ壊滅的だ。あなたは勝ったが、昨夜計画した斜め方向の傑作は決して実行されなかった。歴史はガウガメラをあるべきとは異なる形で記憶するだろう。",
+        "zh-CN": "你在黎明时横跨整个正面前进。波斯军队在开阔平原上迎击你。在第一个小时，马其顿方阵在波斯步兵面前稳步推进——并且在它接触的每个地方都赢了。你的士兵就是更优秀。\n\n但侧翼是另一回事。数量上大幅占优的波斯骑兵绕过你的两翼。帕曼纽发来绝望的信息：他的左翼被包围了。你派伴侣骑兵去支援他的右翼，但行动需要时间。\n\n镰刀战车向方阵冲锋。你的步兵为这种可能性进行了训练，在阵型中开辟通道让战车穿过——一个精彩的即兴应对——但这个机动打乱了方阵的势头。\n\n战斗悬而未决长达三个小时。你亲自率领伴侣骑兵一次又一次向波斯中央冲锋，但大流士没有被到达——随着你的接近他稳步退后。你无法缩短距离。\n\n最终，帕曼纽的消息变得紧急。你中断中央交战去救援他。当你到达他那里时，他的左翼已经弯曲但没有崩溃。包围了他的波斯骑兵已经开始掠夺你的营地而不是继续战斗。\n\n战役以胜利结束——大流士最终逃跑——但这是混乱的、代价高昂的，而且差点酿成灾难。你赢了，但你昨晚计划的斜向杰作从未得到执行。历史将以不同于应有的方式记住高加米拉。"
+      },
+      "stateChanges": [
+        { "variable": "macedonianMorale", "operation": "add", "value": 5 },
+        { "variable": "leftWingStability", "operation": "add", "value": -15 },
+        { "variable": "cavalryAdvantage", "operation": "add", "value": -5 }
+      ],
+      "nextSceneId": "alexander-gaugamela-331bc-scene-002"
+    }
+  ]
+}

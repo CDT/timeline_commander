@@ -1,0 +1,115 @@
+{
+  "id": "salamis-480bc-scene-002",
+  "scenarioId": "salamis-480bc",
+  "title": {
+    "en": "Dawn in the Straits",
+    "ja": "海峡の夜明け",
+    "zh-CN": "海峡黎明"
+  },
+  "date": {
+    "en": "25 September 480 BC, Dawn",
+    "ja": "紀元前480年9月25日、夜明け",
+    "zh-CN": "公元前480年9月25日黎明"
+  },
+  "location": {
+    "en": "Straits of Salamis, between Salamis and the Attic Coast",
+    "ja": "サラミス海峡、サラミス島とアッティカ海岸の間",
+    "zh-CN": "萨拉米斯海峡，萨拉米斯岛与阿提卡海岸之间"
+  },
+  "narrativePrompt": {
+    "en": "The first grey light of dawn reveals the shape of the trap. The Persian fleet fills the strait from shore to shore — hundreds of warships packed into the narrow channel, their oars churning the dark water in ragged rhythm. The crews have been rowing all night to take up their blocking positions, and exhaustion hangs over the enemy fleet like a fog. From the deck of his flagship, Themistocles can see the glint of Xerxes' golden throne on the slopes of Mount Aigaleo across the strait, where the Great King has positioned himself to watch his navy destroy the Greek resistance once and for all. Persian scribes sit ready to record the names of captains who distinguish themselves. The irony is exquisite — the presence of the king will make his captains fight recklessly for glory rather than tactically. The Greek triremes are drawn up in their battle lines along the Salamis shore, crews fed and rested. The Athenian contingent holds the left wing facing the Phoenician ships — the best sailors in the Persian fleet. The Spartans and Aeginetans anchor the right. A morning breeze is beginning to build from the southwest, raising a light chop that will trouble the higher-sided Persian vessels more than the lower Greek triremes. Themistocles must now decide how to open the engagement that will determine the fate of Greece.",
+    "ja": "夜明けの最初の灰色の光が罠の全容を明らかにする。ペルシア艦隊が海峡を岸から岸まで埋め尽くしている——何百もの軍船が狭い水路に詰め込まれ、櫂が不揃いなリズムで暗い海水をかき混ぜている。乗組員たちは封鎖位置に就くために一晩中漕ぎ続け、疲労が霧のように敵艦隊を覆っている。旗艦の甲板から、テミストクレスは海峡の向こうのアイガレオス山の斜面に輝くクセルクセスの黄金の玉座を見ることができる。大王はギリシャの抵抗を完全に粉砕するのを見届けるために陣取っている。ペルシアの書記官たちが功績を挙げた船長の名を記録する準備をしている。この皮肉は絶妙だ——王の臨席は船長たちを戦術的にではなく栄誉を求めて無謀に戦わせるだろう。ギリシャの三段櫂船はサラミスの海岸沿いに戦列を組み、乗組員は食事を取り休息している。アテナイ艦隊は左翼を担い、ペルシア艦隊最強の水兵であるフェニキア船と対峙している。スパルタとアイギナが右翼を固める。南西からの朝の微風が立ち始め、低いギリシャの三段櫂船よりも舷が高いペルシアの船により厄介な波を立てている。テミストクレスは今、ギリシャの運命を決する戦いをどう切り開くか決断しなければならない。",
+    "zh-CN": "黎明的第一缕灰色曙光揭示了陷阱的全貌。波斯舰队从此岸到彼岸填满了整个海峡——数百艘战舰挤在狭窄的水道中，船桨以参差不齐的节奏搅动着黑暗的海水。船员们整夜划船以到达封锁位置，疲惫如雾霭般笼罩着敌方舰队。从旗舰的甲板上，地米斯托克利可以看到海峡对面埃加莱奥山坡上薛西斯金色宝座的闪光——大王在那里落座，要亲眼看着他的海军彻底摧毁希腊人的抵抗。波斯书记官们已准备好记录立功将领的名字。这讽刺至极——国王的在场将使他的将领们为了荣耀而鲁莽作战，而非从容指挥。希腊三列桨战船沿萨拉米斯海岸列成战阵，船员们已经饱餐并充分休息。雅典分队据守左翼，面对腓尼基战船——波斯舰队中最优秀的水手。斯巴达和埃吉纳部队锚定右翼。西南方向的晨风开始增强，掀起轻浪，这对舷侧较高的波斯船只的困扰将远甚于较低矮的希腊三列桨战船。地米斯托克利现在必须决定如何打响这场将决定希腊命运的战役。"
+  },
+  "situationReport": [
+    {
+      "en": "The Persian fleet is crowded into the straits after rowing all night — crews are exhausted and formation is disordered",
+      "ja": "ペルシア艦隊は一晩中漕ぎ続けた後に海峡に密集している——乗組員は疲弊し隊形は乱れている",
+      "zh-CN": "波斯舰队在整夜划船后拥挤在海峡中——船员疲惫不堪，阵型混乱"
+    },
+    {
+      "en": "Xerxes watches from Mount Aigaleo, putting psychological pressure on his captains to fight aggressively for recognition",
+      "ja": "クセルクセスがアイガレオス山から見守っており、配下の船長たちに功名を求めて攻撃的に戦うよう心理的圧力をかけている",
+      "zh-CN": "薛西斯从埃加莱奥山上观战，给他的将领们施加心理压力，迫使他们为获得认可而积极进攻"
+    },
+    {
+      "en": "A rising southwest breeze favors the lower-profile Greek triremes over the taller Persian vessels",
+      "ja": "強まる南西の風が、背の高いペルシア船よりも低い船体のギリシャ三段櫂船に有利に働いている",
+      "zh-CN": "逐渐增强的西南风对低矮的希腊三列桨战船更有利，不利于较高的波斯船只"
+    },
+    {
+      "en": "The Greek fleet is rested, fed, and positioned in organized battle lines along the Salamis shore",
+      "ja": "ギリシャ艦隊は休息し食事を取り、サラミスの海岸沿いに整然とした戦列を組んでいる",
+      "zh-CN": "希腊舰队已经休息充分、饱餐完毕，沿萨拉米斯海岸排列成有序的战阵"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Launch the attack at the moment of maximum advantage before the Persians can reorganize",
+      "ja": "ペルシアが再編成する前に、最大の優位にある瞬間に攻撃を開始する",
+      "zh-CN": "在波斯人重新组织之前，于最大优势时刻发起攻击"
+    },
+    {
+      "en": "Inflict devastating losses on the Persian fleet while minimizing Greek casualties",
+      "ja": "ギリシャの損害を最小限に抑えつつ、ペルシア艦隊に壊滅的な打撃を与える",
+      "zh-CN": "在将希腊伤亡降到最低的同时重创波斯舰队"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Greek fleet must maintain formation in the narrow waters — breaking ranks risks collisions with friendly ships",
+      "ja": "ギリシャ艦隊は狭い海域で隊形を維持しなければならない——隊列を乱せば味方船との衝突の危険がある",
+      "zh-CN": "希腊舰队必须在狭窄水域中保持阵型——脱离队列可能导致与友军船只碰撞"
+    },
+    {
+      "en": "If the Persians break through the Greek line, they could land troops on Salamis and slaughter the Athenian refugees",
+      "ja": "ペルシアがギリシャの戦列を突破すれば、サラミスに軍を上陸させてアテナイの避難民を虐殺する可能性がある",
+      "zh-CN": "如果波斯人突破希腊防线，他们可能在萨拉米斯登陆并屠杀雅典难民"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Feign a slow withdrawal to draw the Persians deeper into the narrows, then wheel and charge when they are fully committed and unable to retreat.",
+        "ja": "緩やかな後退を装ってペルシアをさらに狭い水路に引き込み、完全に投入されて撤退不能になったところで反転突撃する。",
+        "zh-CN": "佯装缓慢后撤，将波斯人引入更深的狭窄水道，待其完全投入且无法撤退时再掉头冲锋。"
+      },
+      "historicalContext": "The historical tactic — Greek accounts describe the fleet initially backing water as if retreating, then surging forward with a battle cry and the paean. This drew the Persians into an even tighter space.",
+      "outcomePrompt": {
+        "en": "Themistocles signals the fleet to back water. The Greek triremes begin to withdraw slowly, oars dipping in disciplined unison. On the Persian side, a roar of triumph erupts — the Greeks are fleeing, just as the traitor's message promised. Persian captains surge forward, each desperate to be the first to strike under the eyes of their king. The ordered Persian lines dissolve into a charging mass as ships race ahead of their squadrons. Deeper and deeper they press into the narrowing strait, the faster vessels outpacing the slower, formations crumbling into chaos. Then a trumpet sounds from the Greek flagship. The paean — the war hymn — rises from three hundred and seventy ships in unison, a sound that echoes off the cliffs of Salamis. The Greek triremes reverse stroke and drive forward with furious speed. The bronze rams of the Athenian ships strike the Phoenician vessels with shattering force. Ships splinter and capsize. The Persians, packed so tightly they cannot turn or maneuver, begin colliding with one another as they try to evade the Greek rams. The water turns dark with wreckage and drowning men. The trap is perfect.",
+        "ja": "テミストクレスが艦隊に後退の合図を送る。ギリシャの三段櫂船が統制のとれた一斉の櫂さばきでゆっくりと後退を始める。ペルシア側では勝利の歓声が上がる——裏切り者の伝言通り、ギリシャ人が逃げていると。ペルシアの船長たちは我先にと突進する。王の目の前で一番槍の功名を立てようと必死だ。整然としたペルシアの戦列は突撃する群衆と化し、船が戦隊から飛び出し、速い船が遅い船を追い越し、隊形が混沌に崩壊する。すると、ギリシャの旗艦からラッパが鳴り響く。パイアン——軍歌——が370隻の船から一斉に立ち上り、サラミスの崖にこだまする。ギリシャの三段櫂船は漕ぎを逆転させ、猛烈な速度で前進する。アテナイの船の青銅の衝角がフェニキアの船に破壊的な力で激突する。船が砕け、転覆する。密集しすぎて旋回も操船もできないペルシアの船は、ギリシャの衝角を避けようとして互いに衝突し始める。海は残骸と溺れる者で暗く染まる。罠は完璧だった。",
+        "zh-CN": "地米斯托克利发出信号令舰队后退。希腊三列桨战船开始缓慢后撤，船桨整齐划一地拍击水面。波斯一方爆发出胜利的欢呼——希腊人在逃跑，正如叛徒的消息所说。波斯将领们争先恐后地冲锋，每个人都急切地想在国王的注视下率先出击。有序的波斯战线瓦解为蜂拥冲锋的混乱群体，快船超越慢船，阵型崩溃为一片混沌。然后，希腊旗舰上响起了号角。战歌——颂歌——从三百七十艘船上齐声响起，回荡在萨拉米斯的悬崖之间。希腊三列桨战船逆转桨击，以凶猛的速度向前冲锋。雅典战船的青铜撞角以粉碎性的力量撞击腓尼基船只。船只碎裂倾覆。波斯船只挤得太紧无法转向或机动，在试图躲避希腊撞角时开始相互碰撞。海面被残骸和溺水者染得一片昏暗。陷阱完美地合拢了。"
+      },
+      "nextSceneId": "salamis-480bc-scene-003",
+      "stateChanges": [
+        { "variable": "tacticalPosition", "operation": "add", "value": 25 },
+        { "variable": "persianFleetStrength", "operation": "add", "value": -30 },
+        { "variable": "greekFleetMorale", "operation": "add", "value": 20 },
+        { "variable": "civilianSafety", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Attack immediately with full force — drive straight into the disordered Persian fleet before they can recover from their night of rowing and form proper battle lines.",
+        "ja": "全力で即座に攻撃する——一晩中漕ぎ続けて疲弊し適切な戦列を組めないペルシア艦隊に真正面から突撃する。",
+        "zh-CN": "立即全力进攻——在波斯人从整夜划船中恢复并组成正式战线之前，径直冲入他们混乱的舰队。"
+      },
+      "historicalContext": "A more aggressive alternative. An immediate charge would have caught the Persians off guard but without drawing them as deeply into the narrows, leaving more room for their numerical advantage.",
+      "outcomePrompt": {
+        "en": "Themistocles gives the signal and the Greek fleet surges forward without hesitation, the rowers pulling with the strength of men defending their homeland. The paean erupts across the strait as three hundred and seventy triremes leap toward the enemy. The shock of the sudden assault catches the Persian front line completely off guard. The first wave of ramming attacks is devastating — Athenian bronze prows punch through Phoenician hulls, sending sailors tumbling into the sea. The Aeginetans on the right flank cut through the Ionian ships with brutal efficiency. But the Persians are not fully drawn into the narrows. The rear squadrons, still in more open water, have room to maneuver and begin forming a second battle line. The engagement becomes a grinding melee rather than a one-sided slaughter. Persian captains in the rear, able to see the chaos ahead, organize a more disciplined resistance. The fighting is fierce and the Greek losses are higher than they might have been, but the fundamental advantage of the narrow waters still holds. The Persian fleet is being ground down, ship by ship, in waters that deny it the ability to bring its full strength to bear.",
+        "ja": "テミストクレスが合図を出し、ギリシャ艦隊が躊躇なく突進する。漕ぎ手たちは祖国を守る者の力で櫂を引く。370隻の三段櫂船が敵に向かって飛び出すと、海峡中にパイアンが響き渡る。突然の攻撃の衝撃がペルシアの最前線を完全に不意打ちにする。最初の衝角攻撃の波は壊滅的で、アテナイの青銅の船首がフェニキアの船体を貫き、水兵を海に叩き落とす。右翼のアイギナ軍がイオニアの船を残忍な効率で切り裂く。しかしペルシアは完全に狭い水路に引き込まれていない。まだ開けた水域にいる後方の戦隊には操船の余地があり、第二の戦列を組み始める。戦闘は一方的な虐殺ではなく、消耗戦の乱戦となる。後方のペルシアの船長たちは前方の混乱を見て、より統制のとれた抵抗を組織する。戦闘は激しく、ギリシャの損失は本来よりも大きくなるが、狭い海域の根本的な優位は依然として保たれている。ペルシア艦隊は全力を発揮できない海域で、一隻また一隻と削り取られていく。",
+        "zh-CN": "地米斯托克利发出信号，希腊舰队毫不犹豫地猛冲向前，桨手们以保卫家园之人的力量奋力划桨。三百七十艘三列桨战船跃向敌人时，战歌响彻海峡。突如其来的进攻令波斯前线措手不及。第一波撞击攻势具有毁灭性——雅典的青铜船首穿透腓尼基船体，将水手们抛入大海。右翼的埃吉纳人以残酷的效率切入爱奥尼亚船队。但波斯人并未被完全引入最狭窄处。仍在较开阔水域的后方分队有机动空间，开始组成第二道战线。交战变成了一场消耗性的混战，而非一边倒的屠杀。后方的波斯将领能够看到前方的混乱，组织了更有纪律的抵抗。战斗异常激烈，希腊的损失比原本可能的要高，但狭窄水域的根本优势依然成立。波斯舰队在无法发挥全部实力的水域中，逐舰被消磨。"
+      },
+      "nextSceneId": "salamis-480bc-scene-003",
+      "stateChanges": [
+        { "variable": "tacticalPosition", "operation": "add", "value": 10 },
+        { "variable": "persianFleetStrength", "operation": "add", "value": -20 },
+        { "variable": "greekFleetMorale", "operation": "add", "value": 15 },
+        { "variable": "civilianSafety", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

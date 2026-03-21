@@ -1,0 +1,123 @@
+{
+  "id": "boudicca-revolt-60-scene-003",
+  "scenarioId": "boudicca-revolt-60",
+  "date": {
+    "en": "Autumn, 61 AD",
+    "ja": "西暦61年秋",
+    "zh-CN": "公元61年秋"
+  },
+  "location": {
+    "en": "Roman Britain — After the Battle",
+    "ja": "ローマ属州ブリタンニア、戦闘後",
+    "zh-CN": "罗马不列颠，战斗之后"
+  },
+  "isTerminal": true,
+  "title": {
+    "en": "The Legacy of Flame",
+    "ja": "炎の遺産",
+    "zh-CN": "烈焰的遗产"
+  },
+  "narrativePrompt": {
+    "en": "The battle is over. Whether you fought Paulinus at Watling Street and suffered catastrophic defeat, or whether you maneuvered him onto open ground and broke his legions, the strategic situation is the same: a negotiated or enforced conclusion to the revolt must now be reckoned with. The question is not whether Rome survives in Britain — it will — but what shape the peace takes, and whether the fires you lit will eventually consume more than the three cities already turned to ash.\n\nYou are Boudicca, and you are alive — for now. Your daughters are alive. Some portion of your warriors remains under arms, and the tribes of Britain, whatever their losses, remember what it felt like to make Rome tremble.\n\nThe new governor who will replace Paulinus has not yet arrived. There is a brief window of uncertainty, a moment when the Roman administration in Britain is between decisions. Word has reached you that the Emperor Nero's advisors are divided: some argue for complete punitive suppression; others, including the former governor of Britain, argue that the revolt was caused by administrative brutality and that a more conciliatory approach would better serve Roman interests.\n\nYour options are limited but real. You can negotiate — present yourself to the Roman authorities as a tribal queen seeking terms, use the leverage of continued unrest to extract concessions. Or you can dissolve into the territories, become a symbol rather than a prisoner, leave Rome to deal with a Britain that will never quite be pacified as long as the memory of this revolt lives.",
+    "ja": "戦いは終わった。ワトリング街道でパウリヌスと戦い壊滅的な敗北を喫したにせよ、開けた地形に彼を誘い込んで軍団を崩壊させたにせよ、戦略的状況は同じだ：反乱の交渉による、または強制的な結末を今や決着させなければならない。問題はローマがブリタンニアで生き残るかどうかではない——そうする——しかし平和がどのような形を取るか、そしてあなたが灯した炎が最終的にすでに灰になった三都市以上を消費するかどうかだ。\n\nあなたはブーディカであり、今のところ生きている。娘たちも生きている。あなたの戦士たちのある部分は武装したままであり、ブリタンニアの部族たちは、損失がどれほどであれ、ローマを震わせたあの感覚を覚えている。\n\nパウリヌスの後任として赴任する新総督はまだ到着していない。不確実性の短い窓があり、ブリタンニアのローマ行政が決断の間にある瞬間がある。皇帝ネロの顧問たちが分かれているという言葉があなたに届いている：完全な懲罰的弾圧を主張する者もいる、一方、ブリタンニアの前総督を含む他の者は、反乱は行政上の残虐さによって引き起こされたと主張し、より融和的なアプローチの方がローマの利益をより良く守ると言う。\n\nあなたの選択肢は限られているが現実だ。交渉することができる——条件を求める部族の女王としてローマ当局に自身を提示し、継続する不安の影響力を利用して譲歩を引き出す。または領地に姿を消すことができる。囚人ではなくシンボルになり、この反乱の記憶が生き続ける限りブリタンニアを完全に平定できないローマに任せる。",
+    "zh-CN": "战斗结束了。无论你是在沃特林街与保利努斯交战遭受灾难性失败，还是将他机动到开阔地并摧毁了他的军团，战略形势是相同的：起义的谈判或强制性结局现在必须算账了。问题不是罗马是否在不列颠存活——它会的——而是和平采取什么形式，以及你点燃的烈火是否最终会消耗比已经化为灰烬的三座城市更多的东西。\n\n你是布狄卡，你还活着——目前如此。你的女儿们还活着。你的战士中有一部分仍然持有武器，不列颠的部落，无论他们的损失如何，记得让罗马颤抖是什么感觉。\n\n将接替保利努斯的新总督尚未到来。有一段短暂的不确定性窗口，一个罗马在不列颠的行政处于决策间隙的时刻。消息传到你这里说尼禄皇帝的顾问们意见分歧：一些人主张完全的惩罚性镇压；其他人，包括前不列颠总督，认为起义是由行政暴行引起的，更怀柔的方式将更好地服务于罗马利益。\n\n你的选择有限但真实存在。你可以谈判——以寻求条件的部落女王身份出现在罗马当局面前，利用持续动乱的筹码来争取让步。或者你可以消失在领地中，成为一个象征而非囚犯，让罗马去应对一个只要这场起义的记忆存在就永远无法完全平定的不列颠。"
+  },
+  "situationReport": [
+    {
+      "en": "The Roman administration in Britain is in disarray. Paulinus, shamed by the revolt's scope, has been recalled for excessive reprisals against neutral tribes. The new governor Petronius Turpilianus arrives with instructions to pursue a more conciliatory policy.",
+      "ja": "ブリタンニアのローマ行政は混乱している。パウリヌスは反乱の規模に恥をかかされ、中立部族への過剰な報復のために召還された。新総督ペトロニウス・トゥルピリアヌスは、より融和的な政策を追求する指示を持って到着する。",
+      "zh-CN": "罗马在不列颠的行政处于混乱状态。保利努斯因起义的规模而蒙羞，因对中立部落过度报复而被召回。新总督彼得罗尼乌斯·图尔皮利阿努斯带着推行更怀柔政策的指示抵达。"
+    },
+    {
+      "en": "The financial oppression that triggered the revolt — the called loans, the seizure of Iceni territory, the brutal taxation — is under review in Rome. Several of Nero's advisors are arguing that Britain has been mismanaged and that the procurator Catus Decianus bore personal responsibility.",
+      "ja": "反乱のきっかけとなった財政的抑圧——回収された借金、イケニ領土の没収、残酷な課税——はローマで見直されている。ネロの顧問数名は、ブリタンニアは誤って管理されており、財務長官カトゥス・デキアヌスが個人的な責任を負うと主張している。",
+      "zh-CN": "引发起义的金融压迫——被追讨的贷款、对爱西尼领土的没收、残酷的税收——正在罗马被重新审视。尼禄的几位顾问认为不列颠被管理不善，财务官卡图斯·德基安努斯负有个人责任。"
+    },
+    {
+      "en": "The Iceni and Trinovantes territories have been devastated — by the revolt itself, by Roman reprisals, and by the disruption of farming and trade. The tribes face a difficult winter. Many warriors have gone home simply to survive.",
+      "ja": "イケニ族とトリノヴァンテス族の領地は壊滅している——反乱自体、ローマの報復、農業と貿易の混乱によって。部族は困難な冬に直面している。多くの戦士がただ生き延びるために家に帰った。",
+      "zh-CN": "爱西尼和特里诺万特领土已经遭到严重破坏——由起义本身、罗马报复以及农业和贸易的中断造成。部落面临艰难的冬天。许多战士仅仅为了生存而回家了。"
+    },
+    {
+      "en": "Your name is now known across the empire. In Rome, senators debate whether you were a monster or a wronged queen. The story of your flogging and your daughters' assault has been reported by Tacitus and Dio Cassius — Rome's own historians have condemned what was done to you.",
+      "ja": "あなたの名前は今や帝国全体に知られている。ローマでは、元老院議員たちがあなたが怪物か不正を受けた女王かを議論している。あなたへの鞭打ちと娘たちへの暴行の物語はタキトゥスとディオ・カッシウスによって報告された——ローマ自身の歴史家たちがあなたにされたことを非難した。",
+      "zh-CN": "你的名字现在在整个帝国都广为人知。在罗马，元老院议员们争论你是怪物还是受了冤屈的女王。关于你被鞭打和你女儿遭受侮辱的故事已经被塔西佗和狄奥·卡西乌斯报道——罗马自己的历史学家谴责了对你所做的事情。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure the best possible future for the Iceni and Trinovantes — either through negotiation, through continued resistance, or through the legacy of what has already been done.",
+      "ja": "交渉、継続的な抵抗、またはすでに達成されたことの遺産を通じて、イケニ族とトリノヴァンテス族に可能な限り良い未来を確保する。",
+      "zh-CN": "通过谈判、持续抵抗或已经完成的事情的遗产，为爱西尼人和特里诺万特人确保尽可能好的未来。"
+    },
+    {
+      "en": "Choose how Boudicca will be remembered — as a rebel who was ultimately crushed, or as a symbol that outlasts any individual outcome.",
+      "ja": "ブーディカがどのように記憶されるかを選択する——最終的に打ち砕かれた反乱者として、または個々の結果を超えて生き続けるシンボルとして。",
+      "zh-CN": "选择布狄卡将如何被铭记——作为一个最终被镇压的叛乱者，还是作为一个超越任何个人结果的象征。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You cannot win a conventional war against Rome. The empire has unlimited reserves; you do not. Any negotiated peace requires accepting Roman sovereignty in some form.",
+      "ja": "あなたはローマに対する従来の戦争に勝てない。帝国には無限の予備力がある。いかなる交渉による平和もある形でのローマの主権を受け入れることを必要とする。",
+      "zh-CN": "你无法赢得对抗罗马的常规战争。帝国有无限的后备力量；你没有。任何谈判达成的和平都需要以某种形式接受罗马主权。"
+    },
+    {
+      "en": "If you are captured alive, you will be taken to Rome and displayed in a triumph. This fate, which you find worse than death, constrains your negotiating options.",
+      "ja": "生きたまま捕らえられれば、ローマに連れて行かれて凱旋式で展示される。あなたが死より悪いと感じるこの運命が、交渉の選択肢を制限する。",
+      "zh-CN": "如果你活着被俘，你将被带到罗马在凯旋仪式中展示。这个命运——你认为比死亡更糟——限制了你的谈判选择。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Negotiate — use your leverage to extract reforms for the Iceni and Trinovantes",
+        "ja": "交渉する――影響力を使ってイケニ族とトリノヴァンテス族のために改革を引き出す",
+        "zh-CN": "谈判——利用你的筹码为爱西尼人和特里诺万特人争取改革"
+      },
+      "description": {
+        "en": "Present yourself to the new governor Petronius Turpilianus as a tribal queen seeking peace. Negotiate directly — demand restoration of Iceni lands, cancellation of the debt seizures, punishment of those responsible for the atrocities, and recognition of tribal governance rights. You can negotiate from a position of credible threat: another revolt is always possible.",
+        "ja": "部族の女王として、平和を求める姿勢で新総督ペトロニウス・トゥルピリアヌスに自分を示す。直接交渉する——イケニ領地の回復、債務差し押さえのキャンセル、暴虐に責任ある者への罰、部族統治権の承認を要求する。信頼できる脅威の立場から交渉できる：別の反乱はいつでも可能だ。",
+        "zh-CN": "以寻求和平的部落女王身份向新总督彼得罗尼乌斯·图尔皮利阿努斯出示自己。直接谈判——要求恢复爱西尼土地、取消债务扣押、惩处对暴行负责的人，以及承认部落治理权利。你可以从可信威胁的立场进行谈判：另一场起义随时都有可能。"
+      },
+      "historicalContext": "This is the counterfactual. The historical Boudicca died shortly after the Battle of Watling Street — by poison, according to Tacitus, or by illness. The subsequent Roman policy did shift toward conciliation: the new governor Petronius Turpilianus pursued a more moderate approach, and the procurator Catus Decianus was replaced. The conciliatory policy suggests Rome recognized the revolt was partly caused by Roman administrative failure. A negotiated settlement was historically possible in theory, though Boudicca's death ended that possibility.",
+      "outcomePrompt": {
+        "en": "You send envoys to Petronius Turpilianus before he has time to establish his position. The new governor, under pressure from Rome to avoid further devastation, receives them.\n\nThe negotiations are slow and difficult. Rome cannot acknowledge that the revolt was just — that would undermine imperial authority everywhere. But Rome can acknowledge that certain administrators exceeded their authority and that certain tribal rights will be respected going forward. The canceled loans become a matter of internal Roman accounting. The Iceni territory is returned — in theory, under Roman sovereignty, but administered by tribal elders.\n\nYou do not receive everything. You do not receive justice. But your daughters will not grow up as slaves. The Iceni will not be scattered. The worst excesses of the financial exploitation are curbed.\n\nYou live out your life in the territory of your ancestors, a queen under Roman sovereignty — a title that tastes bitter but is real. The story of your revolt is told and retold. The romans fear a second Boudicca. That fear is the real victory.\n\nTwo thousand years later, a statue stands in Westminster, across from the British Parliament: a warrior queen in a chariot, daughters beside her. Britannia, they call her now. The memory did not die.",
+        "ja": "彼が立場を確立する前にペトロニウス・トゥルピリアヌスに使者を送る。それ以上の壊滅を避けるようローマからの圧力を受けた新総督が彼らを迎える。\n\n交渉は遅く困難だ。ローマは反乱が正当だったと認めることができない——それは帝国の権威をどこでも損なう。しかしローマは特定の行政官が権限を超えたこと、特定の部族の権利が今後尊重されることを認めることができる。取り消された借金はローマの内部会計の問題になる。イケニの領地は返還される——理論上は、ローマの主権のもとで、しかし部族長老によって管理される。\n\nあなたはすべてを得ない。正義を得ない。しかし娘たちは奴隷として成長しない。イケニ族は離散しない。財政的搾取の最悪の行き過ぎは抑制される。\n\nあなたは先祖の領地で余生を過ごす。ローマの主権のもとでの女王として——苦い味がするが現実の称号。あなたの反乱の物語は語られ再び語られる。ローマ人は第二のブーディカを恐れる。その恐れが真の勝利だ。\n\n2000年後、ウェストミンスターに英国議会の向かいに像が立つ：戦車に乗った戦士の女王、傍に娘たち。ブリタンニアと彼らは今や呼ぶ。記憶は死ななかった。",
+        "zh-CN": "你在彼得罗尼乌斯·图尔皮利阿努斯还没来得及建立立场之前就向他派遣了使者。这位在罗马压力下避免进一步破坏的新总督接待了他们。\n\n谈判缓慢而艰难。罗马无法承认起义是正当的——那会在任何地方破坏帝国权威。但罗马可以承认某些行政官员超越了他们的权限，某些部落权利今后将得到尊重。被取消的贷款变成了罗马内部会计的问题。爱西尼领土被归还——理论上，在罗马主权下，但由部落长老管理。\n\n你没有得到一切。你没有得到正义。但你的女儿不会作为奴隶成长。爱西尼人不会被分散。金融剥削最严重的过激行为得到了遏制。\n\n你在祖先的领地度过余生，以罗马主权下的女王身份——一个苦涩但真实的头衔。你的起义故事一遍又一遍地被讲述。罗马人害怕第二个布狄卡。这种恐惧才是真正的胜利。\n\n两千年后，一座雕像矗立在威斯敏斯特，正对英国议会：一位坐在战车上的女战士，女儿在她身边。不列颠尼亚，他们如今这样称呼她。这段记忆没有消亡。"
+      },
+      "stateChanges": [
+        { "variable": "tribalUnity", "operation": "add", "value": 20 },
+        { "variable": "romanFear", "operation": "add", "value": 10 },
+        { "variable": "supplySituation", "operation": "add", "value": 15 }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Refuse captivity — choose death over being walked through Rome in chains",
+        "ja": "捕囚を拒否する――鎖でローマを歩かされるより死を選ぶ",
+        "zh-CN": "拒绝被俘——选择死亡而不是戴着镣铐被带过罗马"
+      },
+      "description": {
+        "en": "You will not be a prisoner. You will not be a trophy for Roman triumph. Take the poison you have carried for this eventuality. Die as a free queen, not as a captive. Leave your daughters to find what future they can among the tribes. Leave Rome with a symbol it cannot contain or control — a memory that will outlast the empire itself.",
+        "ja": "あなたは囚人にならない。ローマの凱旋のための戦利品にならない。この万一の事態のために持ち続けた毒を飲む。捕虜としてではなく、自由な女王として死ぬ。娘たちを部族の中で見つけられる未来を探させる。封じ込めも制御もできないシンボルをローマに残す——帝国自体より長く続く記憶を。",
+        "zh-CN": "你不会成为囚犯。你不会成为罗马凯旋仪式的战利品。服下你为此类情况而一直携带的毒药。作为一位自由的女王而死，而不是作为一名俘虏。让你的女儿们在部落中寻找她们能找到的未来。给罗马留下一个它无法遏制或控制的象征——一段将比帝国本身更长久的记忆。"
+      },
+      "historicalContext": "This is the historical choice Boudicca made, according to Tacitus. She took poison rather than be captured. The decision transformed her from a defeated rebel into an immortal symbol. The statue of Boudicca at Westminster, erected in 1902, stands as one of Britain's most enduring national icons. Her name was anglicized to Boadicea for centuries, but the original form Boudicca — meaning 'victory' in the Brythonic language — has been restored. She is now routinely listed among the most influential Britons of all time.",
+      "outcomePrompt": {
+        "en": "You do not fear death. You have lived beyond fear since the day the Romans put you in the dust. The poison is quick.\n\nYour daughters escape into the western territories. They carry your story with them. The tribes know what happened, and why, and who you were. Rome can kill a woman — it cannot kill a memory.\n\nThe Roman historian Tacitus, writing forty years after your death, will record your rebellion with respect verging on awe. He will describe the justice of your cause — the flogging, the assault on your daughters, the theft of Iceni lands — and let his readers draw their own conclusions about an empire that creates such uprisings through its own injustice.\n\nThe new governor pursues conciliation. The worst abuses are curbed. The Iceni and Trinovantes are not exterminated. Rome learns — for a generation — that Britain can only be held by consent, not by terror.\n\nCenturies pass. Rome falls. The English inherit the land and the memory both. They build a statue at Westminster of a warrior queen in her chariot, wild hair streaming, daughters beside her. They call the woman in the statue Boadicea, and later Boudicca again — victory — and they place her directly across from their Parliament, as if to remind themselves what it costs to be free.\n\nYou won something Rome could never take from you.",
+        "ja": "あなたは死を恐れない。ローマ人があなたを塵に伏せた日以来、恐れを超えて生きてきた。毒は素早い。\n\n娘たちは西方の領地に逃げる。彼女たちはあなたの物語を持ち歩く。部族は何が起きたか、なぜ、そしてあなたが誰であったかを知っている。ローマは一人の女を殺すことができる——記憶は殺せない。\n\nローマの歴史家タキトゥスは、あなたの死後40年後に書いて、あなたの反乱を畏敬に近い敬意をもって記録するだろう。彼はあなたの大義の正義——鞭打ち、娘たちへの暴行、イケニの土地の略奪——を描写し、読者が自分自身の反乱をその不正によって引き起こす帝国について自分自身の結論を引き出させるだろう。\n\n新総督は融和を追求する。最悪の乱用は抑制される。イケニ族とトリノヴァンテス族は根絶されない。ローマは学ぶ——一世代の間——ブリタンニアは恐怖ではなく同意によってのみ保持できることを。\n\n世紀が過ぎる。ローマは滅びる。英国人は土地と記憶の両方を引き継ぐ。彼らはウェストミンスターに戦車に乗った戦士の女王の像を建てる。野性的な髪をなびかせ、傍に娘たち。彼らは像の女性をボアディセアと呼び、後に再びブーディカ——勝利——と呼ぶ。そして彼らは彼女を彼らの議会の真向かいに置く。まるで自由であることに何が必要かを自分自身に思い出させるかのように。\n\nあなたはローマが決して奪えないものを勝ち取った。",
+        "zh-CN": "你不怕死。自从罗马人将你按倒在尘土中的那一天起，你就已经超越了恐惧而活着。毒药来得很快。\n\n你的女儿们逃入西部领地。她们带着你的故事。部落知道发生了什么，为什么，以及你是谁。罗马可以杀死一个女人——它无法杀死记忆。\n\n罗马历史学家塔西佗，在你死后四十年写作，将以接近敬畏的尊重记录你的起义。他将描述你的事业的正义——鞭打、对你女儿的侮辱、对爱西尼土地的掠夺——并让他的读者对一个通过自身不公正制造如此起义的帝国自己得出结论。\n\n新总督追求和解。最严重的滥权被遏制。爱西尼人和特里诺万特人没有被消灭。罗马学到了——一代人的时间——不列颠只能靠同意而不是靠恐怖来维持。\n\n世纪流逝。罗马覆灭。英格兰人同时继承了这片土地和这段记忆。他们在威斯敏斯特建造了一座战车上的女战士雕像，狂野的头发飘扬，女儿在她身边。他们称雕像中的女人为博阿迪西亚，后来再次称为布狄卡——胜利——并将她置于议会正对面，仿佛是要提醒自己自由的代价。\n\n你赢得了罗马永远无法夺走的东西。"
+      },
+      "stateChanges": [
+        { "variable": "tribalUnity", "operation": "set", "value": 0 },
+        { "variable": "romanFear", "operation": "add", "value": 30 },
+        { "variable": "strategicPosition", "operation": "set", "value": 100 }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

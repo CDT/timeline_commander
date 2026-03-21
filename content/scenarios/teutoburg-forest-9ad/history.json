@@ -1,0 +1,90 @@
+{
+  "scenarioId": "teutoburg-forest-9ad",
+  "timeline": [
+    {
+      "date": "0009-06-01",
+      "description": {
+        "en": "Varus establishes his summer camp east of the Rhine, administering Roman law and taxation among the Germanic tribes.",
+        "ja": "ウァルスがライン川東方に夏営地を設け、ゲルマン諸部族にローマ法と税制を施行する。",
+        "zh-CN": "瓦鲁斯在莱茵河以东建立夏季营地，在日耳曼部落中推行罗马法律和税收制度。"
+      }
+    },
+    {
+      "date": "0009-08-15",
+      "description": {
+        "en": "Arminius secretly begins uniting the Cherusci, Marsi, Chatti, Bructeri, Chauci, and Sicambri tribes against Rome.",
+        "ja": "アルミニウスがひそかにケルスキ族、マルシ族、カッティ族、ブルクテリ族、カウキ族、シカンブリ族をローマに対して結集し始める。",
+        "zh-CN": "阿米尼乌斯开始秘密联合切鲁西人、马尔西人、卡蒂人、布鲁克特里人、考基人和西坎布里人对抗罗马。"
+      }
+    },
+    {
+      "date": "0009-09-01",
+      "description": {
+        "en": "Arminius reports a fabricated tribal uprising to the north, convincing Varus to divert his march through the Teutoburg Forest.",
+        "ja": "アルミニウスが北方での架空の部族反乱を報告し、ウァルスにトイトブルク森を通る迂回行軍を決断させる。",
+        "zh-CN": "阿米尼乌斯报告了一场虚构的北方部落起义，说服瓦鲁斯改道穿越条顿堡森林。"
+      }
+    },
+    {
+      "date": "0009-09-01",
+      "description": {
+        "en": "Segestes warns Varus of Arminius's treachery and urges him to arrest the Germanic chieftains. Varus dismisses the warning.",
+        "ja": "セゲステスがウァルスにアルミニウスの裏切りを警告し、ゲルマン族長たちの逮捕を促す。ウァルスはその警告を退ける。",
+        "zh-CN": "塞盖斯特斯警告瓦鲁斯阿米尼乌斯的背叛并敦促他逮捕日耳曼首领们。瓦鲁斯驳回了这一警告。"
+      }
+    },
+    {
+      "date": "0009-09-02",
+      "description": {
+        "en": "The Roman column enters the dense forest. Heavy rains begin. Arminius departs the column under pretense of gathering auxiliary forces, and instead rallies his Germanic warriors.",
+        "ja": "ローマ軍縦隊が密林に入る。大雨が降り始める。アルミニウスは補助兵力の招集を口実に縦隊を離れ、代わりにゲルマン戦士たちを結集させる。",
+        "zh-CN": "罗马纵队进入茂密的森林。大雨开始降下。阿米尼乌斯以召集辅助部队为借口离开纵队，转而集结他的日耳曼战士。"
+      }
+    },
+    {
+      "date": "0009-09-02",
+      "description": {
+        "en": "First Germanic ambushes strike the strung-out Roman column from prepared positions behind earthen ramparts. The Romans suffer heavy casualties but manage to build a fortified camp overnight.",
+        "ja": "最初のゲルマン軍の伏撃が、土塁の背後に準備された陣地から伸びきったローマ軍縦隊を襲う。ローマ軍は大きな損害を受けるが、夜間に防御陣地の構築に成功する。",
+        "zh-CN": "日耳曼人从土墙后的预设阵地对拉长的罗马纵队发动首轮伏击。罗马军队遭受重大伤亡，但设法在夜间修建了一座防御营地。"
+      }
+    },
+    {
+      "date": "0009-09-03",
+      "description": {
+        "en": "The Romans burn their excess wagons and attempt to break through to open ground. A brief stretch of open terrain offers respite before the column is funneled into another wooded defile.",
+        "ja": "ローマ軍は余分な荷車を焼き払い、開けた地形への突破を試みる。一時的に開けた地形で小休止を得るが、縦隊は再び森林の隘路に誘い込まれる。",
+        "zh-CN": "罗马人烧毁多余的辎重车辆，试图突破到开阔地带。一段短暂的开阔地形提供了喘息之机，但纵队随后又被引入另一处林间隘路。"
+      }
+    },
+    {
+      "date": "0009-09-03",
+      "description": {
+        "en": "The final destruction: trapped between forest and marshland with a new wall of sod erected by the Germanic warriors, the Roman formations collapse completely. Varus falls on his sword. Nearly 20,000 Romans are killed, captured, or enslaved. The three legionary eagles are lost.",
+        "ja": "最後の殲滅：森林と沼地の間に挟まれ、ゲルマン戦士たちが築いた新たな土壁に阻まれたローマ軍の隊形が完全に崩壊する。ウァルスが自刃する。約二万人のローマ兵が殺害、捕虜、または奴隷となる。三つの軍団鷲旗が失われる。",
+        "zh-CN": "最终的毁灭：被困在森林和沼泽之间，面前是日耳曼战士新筑的草皮墙壁，罗马阵型彻底崩溃。瓦鲁斯伏剑自尽。近两万名罗马人被杀、被俘或沦为奴隶。三面军团鹰旗全部丢失。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Battle of Teutoburg Forest was one of the most devastating military defeats in Roman history. Three entire legions—XVII, XVIII, and XIX—were annihilated, along with their commander Varus, six cohorts of auxiliary troops, and three squadrons of cavalry. The defeat permanently ended Roman attempts to conquer and colonize Germania east of the Rhine, establishing a cultural and political divide that persisted for centuries.",
+    "ja": "トイトブルク森の戦いは、ローマ史上最も壊滅的な軍事的敗北の一つであった。三個軍団——第17、第18、第19——が指揮官ウァルス、六個補助兵大隊、三個騎兵隊とともに全滅した。この敗北はライン川以東のゲルマニア征服・植民の試みを永久に終わらせ、何世紀にもわたって続く文化的・政治的分断を確立した。",
+    "zh-CN": "条顿堡森林战役是罗马历史上最具毁灭性的军事惨败之一。三个完整的军团——第十七、第十八和第十九军团——连同指挥官瓦鲁斯、六个辅助步兵大队和三个骑兵中队一起被歼灭。这次失败永久性地终结了罗马征服和殖民莱茵河以东日耳曼尼亚的企图，建立了持续数个世纪的文化和政治分界线。"
+  },
+  "casualties": {
+    "en": "Roman losses: approximately 15,000-20,000 killed, including Varus and most senior officers. Thousands more were captured and enslaved or sacrificed. Germanic losses were comparatively light, estimated at 1,000-2,000 killed and wounded, owing to their superior tactical position and the element of surprise.",
+    "ja": "ローマ側の損失：ウァルスと大半の上級将校を含む約一万五千～二万人が戦死。さらに数千人が捕虜となり奴隷にされるか生贄にされた。ゲルマン側の損失は比較的軽微で、優位な戦術的立場と奇襲の効果により、死傷者は推定一千～二千人であった。",
+    "zh-CN": "罗马方面损失：约一万五千至两万人阵亡，包括瓦鲁斯和大多数高级军官。另有数千人被俘后沦为奴隶或被献祭。日耳曼方面损失相对较轻，由于其优越的战术位置和突袭的优势，估计伤亡约一千至两千人。"
+  },
+  "significance": {
+    "en": "The Battle of Teutoburg Forest is considered one of the most important battles in European history. It permanently halted Roman expansion into northern Europe and established the Rhine as the effective boundary of the Roman Empire in the northwest. This boundary became the dividing line between Romance-speaking and Germanic-speaking Europe, a linguistic and cultural division that persists to this day. The battle also demonstrated the limits of Roman military power and the vulnerability of even the most disciplined armies when operating in unfavorable terrain against determined guerrilla opposition.",
+    "ja": "トイトブルク森の戦いはヨーロッパ史上最も重要な戦いの一つとされている。北ヨーロッパへのローマの膨張を永久に阻止し、ライン川を北西部におけるローマ帝国の実質的な境界として確立した。この境界はロマンス語圏とゲルマン語圏のヨーロッパの分界線となり、今日まで続く言語的・文化的分断の基礎となった。この戦いはまた、ローマ軍事力の限界と、不利な地形で断固たるゲリラ的抵抗に直面した場合には最も規律ある軍隊でさえ脆弱であることを示した。",
+    "zh-CN": "条顿堡森林战役被认为是欧洲历史上最重要的战役之一。它永久性地阻止了罗马向北欧的扩张，确立了莱茵河作为罗马帝国西北部有效边界的地位。这条边界成为罗曼语区和日耳曼语区欧洲之间的分界线，这种语言和文化的分野延续至今。这场战役还展示了罗马军事力量的局限性，以及即使是最有纪律的军队在不利地形上面对顽强的游击抵抗时也是多么脆弱。"
+  },
+  "furtherReading": [
+    "The Battle That Stopped Rome by Peter S. Wells",
+    "Rome's Greatest Defeat: Massacre in the Teutoburg Forest by Adrian Murdoch",
+    "The Annals by Tacitus (Books I-II)",
+    "Roman History by Cassius Dio (Book 56)"
+  ]
+}

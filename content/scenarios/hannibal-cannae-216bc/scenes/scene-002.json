@@ -1,0 +1,123 @@
+{
+  "id": "hannibal-cannae-216bc-scene-002",
+  "scenarioId": "hannibal-cannae-216bc",
+  "date": {
+    "en": "August 2, 216 BC",
+    "ja": "紀元前216年8月2日",
+    "zh-CN": "公元前216年8月2日"
+  },
+  "location": {
+    "en": "Plain of Cannae, Apulia",
+    "ja": "アプリア、カンナエの平原",
+    "zh-CN": "阿普利亚，坎尼平原"
+  },
+  "isTerminal": false,
+  "title": {
+    "en": "The Envelopment",
+    "ja": "包囲殲滅",
+    "zh-CN": "包围歼灭"
+  },
+  "narrativePrompt": {
+    "en": "The morning of August 2, 216 BCE. The plain of Cannae stretches before you, and 86,000 Roman and allied soldiers have deployed in a massive formation designed to overwhelm by sheer weight. The consuls Paullus and Varro have arranged their legions in an unusually deep formation — packed tight, shoulder to shoulder — confident that concentrated mass will smash through anything. They outnumber you nearly two to one.\n\nYou are Hannibal Barca, and you have deliberately engineered this moment. Your center — Gauls and Spanish infantry — is positioned in a convex bulge facing the Roman lines, the weakest troops at the point of first contact. Your African veterans, your best troops, are held back on the flanks in two disciplined columns. Your cavalry — Numidians and Iberian horsemen — wait on the wings.\n\nThe Romans advance in their deep formation, thousands of shields grinding forward. Your center begins to give way as planned — bowing inward under Roman pressure, a controlled retreat that pulls the Romans deeper into the formation. The legions pack tighter, pushing forward, sensing victory.\n\nThis is the pivot moment. The center is bending but holding. The cavalry must act on the flanks to prevent Roman escape. And the African columns wait for the order to wheel inward and close the trap. The double envelopment — history's most perfect tactical maneuver — hinges on your timing now.",
+    "ja": "紀元前216年8月2日の朝。カンナエの平原が眼前に広がり、8万6千のローマとその同盟軍の兵士が純粋な重量で圧倒するように設計された巨大な陣形に展開している。執政官パウッルスとウァッロは軍団を異例に深い陣形に配置した――肩を寄せ合うほど密集して――集中した塊が何でも粉砕できると確信して。彼らはあなたのほぼ倍の兵力を持っている。\n\nあなたはハンニバル・バルカであり、この瞬間を意図的に作り上げた。あなたの中央――ガリア人とスペイン歩兵――はローマの戦線に向かって凸状の膨らみで配置されており、最初の接触点に最も弱い部隊がいる。あなたのアフリカの歴戦兵、最精鋭の部隊は、両翼の二つの規律ある縦列に控えている。あなたの騎兵――ヌミディア騎兵とイベリアの騎手――が翼に待機している。\n\nローマ軍は深い陣形で前進し、何千もの盾が粉砕しながら前進する。あなたの中央は計画通りに後退し始める――ローマの圧力のもとで内側に弓なりになり、ローマ軍を陣形の奥深くに引き込む制御された退却。軍団は密集し、前進し、勝利を感じている。\n\nこれが転換点だ。中央は曲がりながらも持ちこたえている。騎兵はローマ軍の脱出を防ぐために翼で行動しなければならない。そしてアフリカの縦列は内側に展開して罠を閉じる命令を待っている。二重包囲――歴史上最も完璧な戦術的機動――はあなたのタイミングにかかっている。",
+    "zh-CN": "公元前216年8月2日清晨。坎尼平原在你面前延伸，86,000名罗马及其同盟军士兵以一种旨在以纯粹重量压倒对手的巨大阵型展开。两位执政官包路斯和瓦罗将军团排成异常密集的纵深阵型——肩并肩紧密相连——自信集中的重量将冲破一切。他们的兵力几乎是你的两倍。\n\n你是汉尼拔·巴卡，你故意设计了这一刻。你的中央——高卢人和西班牙步兵——以凸形突出部面向罗马战线，最薄弱的部队在首次接触点。你的非洲老兵，你的精锐部队，被保留在两翼的两个纪律严明的纵队中。你的骑兵——努米底亚骑兵和伊比利亚骑手——在翼侧等待。\n\n罗马人以密集阵型前进，数千面盾牌研磨着向前推进。你的中央按计划开始让步——在罗马的压力下向内弯曲，一种受控的退却将罗马人拉得更深入阵型中。军团挤得更紧，向前推进，感受到胜利的气息。\n\n这是关键时刻。中央正在弯曲但仍在坚守。骑兵必须在两翼行动以阻止罗马人逃脱。非洲纵队等待着向内转向关闭陷阱的命令。双重包围——历史上最完美的战术机动——现在取决于你的时机选择。"
+  },
+  "situationReport": [
+    {
+      "en": "The Carthaginian center is successfully bowing inward under Roman pressure. The Romans are advancing confidently, packing tighter as they push, compressing their own flanks. They are walking into the trap.",
+      "ja": "カルタゴの中央はローマの圧力下で内側に弓なりになることに成功している。ローマ軍は自信を持って前進し、押し進むにつれてより密集し、自らの翼を圧縮している。彼らは罠に入り込んでいる。",
+      "zh-CN": "迦太基中央在罗马压力下成功向内弯曲。罗马人自信地前进，随着推进越挤越紧，压缩了自己的侧翼。他们正走入陷阱。"
+    },
+    {
+      "en": "Hasdrubal's heavy cavalry on the left wing has already routed the Roman allied cavalry. They are now free to ride around the Roman formation and strike the Roman cavalry from the rear.",
+      "ja": "左翼のハスドルバルの重騎兵はすでにローマの同盟騎兵を壊走させた。彼らはローマの陣形を回り込み、後方からローマ騎兵を打つために自由に騎乗できる。",
+      "zh-CN": "左翼的哈斯德鲁巴尔重骑兵已经击溃了罗马同盟骑兵。他们现在可以自由绕过罗马阵型，从后方攻击罗马骑兵。"
+    },
+    {
+      "en": "The African infantry on both flanks — your best troops, fresh and disciplined — await the order to pivot inward. When they turn, they will strike the compressed Roman flanks from two directions simultaneously.",
+      "ja": "両翼のアフリカ歩兵――最精鋭で新鮮で規律ある部隊――は内側に旋回する命令を待っている。彼らが向きを変えると、密集したローマの側面を同時に二方向から打つことになる。",
+      "zh-CN": "两翼的非洲步兵——你的精锐部队，精力充沛、纪律严明——等待向内转向的命令。当他们转向时，将同时从两个方向打击被压缩的罗马侧翼。"
+    },
+    {
+      "en": "Timing is everything. If the African columns pivot too early, the Romans may detect the envelopment and break off. If too late, the center may collapse before the trap is set. The moment must be perfect.",
+      "ja": "タイミングがすべてだ。アフリカの縦列が早すぎると旋回すると、ローマ軍は包囲を察知して離脱するかもしれない。遅すぎると、罠が仕掛けられる前に中央が崩壊するかもしれない。瞬間は完璧でなければならない。",
+      "zh-CN": "时机就是一切。如果非洲纵队转向太早，罗马人可能会察觉包围并脱身。如果太晚，在陷阱设置好之前中央可能会崩溃。时机必须完美。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Execute the double envelopment — close the trap around 70,000+ Roman soldiers before they can recognize and respond to the encirclement.",
+      "ja": "二重包囲を実行する――7万人以上のローマ兵士が包囲を認識して対応できる前に罠を閉じる。",
+      "zh-CN": "执行双重包围——在70,000多名罗马士兵能够识别并响应包围之前关闭陷阱。"
+    },
+    {
+      "en": "Coordinate cavalry and infantry timing across the entire battlefield to prevent any significant Roman force from escaping.",
+      "ja": "ローマの大部隊が脱出するのを防ぐために、戦場全体にわたる騎兵と歩兵のタイミングを調整する。",
+      "zh-CN": "协调整个战场的骑兵和步兵时机，防止任何相当规模的罗马部队逃脱。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your center troops are Gauls and Spanish infantry — brave but not your best. They must bend without breaking. If they route instead of retreating, the trap collapses before it closes.",
+      "ja": "あなたの中央部隊はガリア人とスペイン歩兵――勇敢だが最精鋭ではない。彼らは崩れずに曲がらなければならない。後退する代わりに壊走すると、罠は閉じる前に崩壊する。",
+      "zh-CN": "你的中央部队是高卢人和西班牙步兵——勇敢但不是你的精锐。他们必须弯曲而不崩溃。如果他们溃逃而非撤退，陷阱在关闭之前就会瓦解。"
+    },
+    {
+      "en": "You have no reserves. Every unit is committed to the envelopment plan. There is no fallback position if something goes wrong at a critical juncture.",
+      "ja": "予備隊はない。すべての部隊が包囲計画にコミットしている。重要な局面で何かが問題になった場合の後退陣地はない。",
+      "zh-CN": "你没有预备队。每个部队都致力于包围计划。如果在关键时刻出现问题，没有后备阵地。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Signal the African pivot now — close the trap at maximum Roman compression",
+        "ja": "今すぐアフリカ軍の旋回を指示する――ローマ軍の圧縮が最大の時に罠を閉じる",
+        "zh-CN": "立即发出非洲军旋转信号——在罗马压缩最大时关闭陷阱"
+      },
+      "description": {
+        "en": "The Romans are fully committed, pushing deep into the bowing center, their flanks now exposed and compressed. Signal both African columns to wheel inward simultaneously. Send Hasdrubal's cavalry around to strike the rear. Close the pocket now while the Romans are most disorganized and least able to respond.",
+        "ja": "ローマ軍は完全にコミットし、弓なりになった中央の奥深くまで押し込み、その翼は今や露出して圧縮されている。両アフリカ縦列に同時に内側に旋回するよう合図する。ハスドルバルの騎兵を後方から打つために回す。ローマ軍が最も組織化されておらず、対応が最も困難な今、包囲を閉じる。",
+        "zh-CN": "罗马人已全力投入，深深挤入弯曲的中央，他们的侧翼现在暴露且被压缩。同时向两支非洲纵队发出向内转向的信号。派哈斯德鲁巴尔的骑兵绕道打击后方。趁罗马人最混乱、最无法应对时立即关闭包围圈。"
+      },
+      "historicalContext": "This is essentially the historical choice — Hannibal waited until the Roman formation had pushed deep enough into the bowing center, then ordered the African flanks to pivot inward. The precise timing was the genius of the maneuver. The Romans were so compressed by the time the envelopment was complete that they could barely raise their sword arms to fight, let alone maneuver to escape.",
+      "outcomePrompt": {
+        "en": "The signal goes out. The African columns pivot inward with parade-ground precision — thousands of veterans who have trained for this exact moment, turning to face the exposed Roman flanks. Hasdrubal's cavalry completes the ride around the Roman rear.\n\nThe trap closes. The Roman army — 70,000 or more men — finds itself surrounded on every side. The compression is now a nightmare: men packed so tightly they cannot draw their weapons, cannot maneuver, cannot escape. They begin to die in place, crushed from every direction simultaneously.\n\nBy nightfall, between 47,000 and 70,000 Romans lie dead on the plain of Cannae. The slaughter is so efficient that Roman senators and cavalry officers are found among the dead in their ranks. The kill rate is staggering — 600 men killed per minute at the battle's peak. Consul Paullus dies. Consul Varro flees with a remnant.\n\nCannae will be studied in military academies for 2,000 years. Every general who has dreamed of the perfect battle of annihilation has dreamed of replicating this day. The trap has closed perfectly.",
+        "ja": "合図が出る。アフリカの縦列は演練場の精度で内側に旋回する――まさにこの瞬間のために訓練してきた何千もの歴戦兵が、露出したローマの翼に向くために向きを変える。ハスドルバルの騎兵はローマの後方を回り込む馬走を完了する。\n\n罠が閉じる。ローマ軍――7万人以上の兵士――が四方を包囲されていることに気づく。圧縮は今や悪夢だ：男たちは武器を抜くこともできず、機動することもできず、逃げることもできないほど密集している。彼らはその場で死に始め、同時に四方から押し潰される。\n\n日暮れまでに、4万7千から7万のローマ兵がカンナエの平原に横たわる。虐殺は非常に効率的で、ローマの元老院議員と騎兵将校が彼らの隊列の中の死者の中に発見される。殺傷率は驚異的だ――戦闘のピーク時には毎分600人が殺される。執政官パウッルスは死ぬ。執政官ウァッロは残余とともに逃げる。\n\nカンナエは2000年間にわたって士官学校で研究され続けるだろう。完璧な殲滅戦を夢見たすべての将軍がこの日を再現することを夢見た。罠は完璧に閉じられた。",
+        "zh-CN": "信号发出。非洲纵队以阅兵场的精度向内转向——数千名为这一刻而训练的老兵，转身面对暴露的罗马侧翼。哈斯德鲁巴尔的骑兵完成了绕到罗马后方的冲锋。\n\n陷阱关闭。罗马军队——70,000多人——发现自己被四面包围。压缩现在变成了噩梦：人们挤得如此之紧，无法拔出武器，无法机动，无法逃脱。他们开始在原地死去，同时从四面八方被压死。\n\n日暮时分，47,000至70,000名罗马人倒在坎尼平原上。屠杀如此高效，以至于在死者中发现了元老院议员和骑兵军官。杀伤率令人震惊——战斗高峰期每分钟600人死亡。执政官包路斯阵亡。执政官瓦罗率残部逃走。\n\n坎尼将在军事学院被研究2000年。每一个梦想完美歼灭战的将军都梦想复制这一天。陷阱完美地关闭了。"
+      },
+      "stateChanges": [
+        { "variable": "romanLosses", "operation": "set", "value": 70000 },
+        { "variable": "envelopmentSuccess", "operation": "set", "value": true },
+        { "variable": "carthaginianMorale", "operation": "add", "value": 30 }
+      ],
+      "nextSceneId": "hannibal-cannae-216bc-scene-003"
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Wait longer — let the center bend further before closing",
+        "ja": "もっと待つ――閉じる前に中央をさらに曲げさせる",
+        "zh-CN": "再等待——让中央进一步弯曲后再关闭"
+      },
+      "description": {
+        "en": "The Roman formation is deep but some units on the edges still have room to maneuver. Wait for the center to bow even further inward, pulling more Romans into the pocket and ensuring the flanking columns have maximum effect when they wheel. Risk center collapse for a potentially even more complete encirclement.",
+        "ja": "ローマの陣形は深いが、端の一部の部隊はまだ機動する余地がある。中央がさらに内側に弓なりになるのを待ち、より多くのローマ軍を包囲圏に引き込み、翼の縦列が旋回する際に最大の効果が得られるようにする。潜在的により完全な包囲のために中央崩壊のリスクを冒す。",
+        "zh-CN": "罗马阵型纵深但边缘部分单位仍有机动空间。等待中央进一步向内弯曲，将更多罗马人拉入包围圈，确保侧翼纵队转向时效果最大化。为了可能更彻底的包围，冒中央崩溃的风险。"
+      },
+      "historicalContext": "This is the counterfactual — waiting longer risked the Gallic/Spanish center breaking under pressure rather than conducting the planned fighting withdrawal. Hannibal's genius was knowing exactly when the Romans were committed enough that the African pivot would work, without waiting so long that the center collapsed. The historical timing was near-perfect.",
+      "outcomePrompt": {
+        "en": "You wait. The center bends further. The Romans push deeper, sensing the imminent collapse of the Carthaginian center, beginning to celebrate a victory they believe is at hand.\n\nThen the Gallic section of the center breaks — not the controlled retreat you intended, but a rout. Several cohorts of Gauls flee backward in genuine panic, creating a gap in the formation. The Romans pour through, and the careful geometry of your envelopment becomes complicated.\n\nYou order the African pivot anyway. The maneuver still works — the African flanks hammer the Roman sides, and Hasdrubal's cavalry closes the rear — but several thousand Romans escape through the gap created by the Gallic rout before the pocket fully closes. The victory is still enormous: 40,000 to 50,000 Romans die. But the historical ideal of total encirclement is not quite achieved.\n\nCannae is still a staggering victory. Rome will reel. But you know what it could have been — the perfect trap that history would have written about for millennia. It was almost.",
+        "ja": "あなたは待つ。中央はさらに曲がる。ローマ軍は深く押し込み、カルタゴ中央の差し迫った崩壊を感じ、手の届くところにあると信じる勝利を祝い始める。\n\nそして中央のガリア人部分が崩れる――意図した制御された後退ではなく、壊走だ。ガリア人の数コホートが本物のパニックで後退し、陣形に隙間を作る。ローマ軍は突破し、包囲の慎重な幾何学は複雑になる。\n\nいずれにせよアフリカの旋回を命じる。機動は依然として機能する――アフリカの翼はローマの側面を叩き、ハスドルバルの騎兵は後方を閉じる――しかし包囲圏が完全に閉じる前に、ガリア人の壊走によって作られた隙間を通じて数千人のローマ兵が脱出する。勝利は依然として巨大だ：4万から5万のローマ兵が死ぬ。しかし完全包囲の歴史的理想は完全には達成されない。\n\nカンナエは依然として驚異的な勝利だ。ローマは動揺する。しかしあなたは何であり得たかを知っている――歴史が何千年も語り続けるであろう完璧な罠。もう少しのところだった。",
+        "zh-CN": "你等待。中央进一步弯曲。罗马人更深地推进，感受到迦太基中央即将崩溃，开始庆祝他们认为唾手可得的胜利。\n\n然后中央的高卢人部分崩溃——不是你计划的受控撤退，而是溃逃。几个高卢人大队真正地惊慌后退，在阵型中造成缺口。罗马人涌入，你精心设计的包围几何变得复杂。\n\n你无论如何下令非洲转向。这个机动仍然奏效——非洲侧翼猛击罗马侧面，哈斯德鲁巴尔的骑兵封锁后方——但在包围圈完全关闭之前，数千名罗马人通过高卢人溃逃造成的缺口逃脱。胜利仍然是巨大的：40,000至50,000名罗马人死亡。但完全包围的历史理想并未完全实现。\n\n坎尼仍然是一场惊人的胜利。罗马将震颤。但你知道它本可能是什么——历史将谈论数千年的完美陷阱。差一点就实现了。"
+      },
+      "stateChanges": [
+        { "variable": "romanLosses", "operation": "set", "value": 50000 },
+        { "variable": "envelopmentSuccess", "operation": "set", "value": false },
+        { "variable": "carthaginianMorale", "operation": "add", "value": 20 }
+      ],
+      "nextSceneId": "hannibal-cannae-216bc-scene-003"
+    }
+  ]
+}

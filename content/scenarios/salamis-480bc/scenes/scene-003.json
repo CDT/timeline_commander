@@ -1,0 +1,114 @@
+{
+  "id": "salamis-480bc-scene-003",
+  "scenarioId": "salamis-480bc",
+  "title": {
+    "en": "Victory at Salamis",
+    "ja": "サラミスの勝利",
+    "zh-CN": "萨拉米斯的胜利"
+  },
+  "date": {
+    "en": "25 September 480 BC, Afternoon",
+    "ja": "紀元前480年9月25日、午後",
+    "zh-CN": "公元前480年9月25日下午"
+  },
+  "location": {
+    "en": "Straits of Salamis — the aftermath",
+    "ja": "サラミス海峡——戦闘後",
+    "zh-CN": "萨拉米斯海峡——战后"
+  },
+  "narrativePrompt": {
+    "en": "The straits of Salamis are choked with wreckage. Over two hundred Persian warships have been rammed, burned, or captured. The sea runs dark with debris and the bodies of thousands of drowned sailors — Phoenicians, Egyptians, Ionians who had no choice but to fight for their Persian masters. Xerxes, who watched the catastrophe from his golden throne on the hillside, has already departed in rage and humiliation. The Persian army on the mainland — still enormous, still dangerous — lingers north of Athens without a secure supply line now that the fleet is broken. The Greeks have won the most decisive naval battle of the ancient world.\n\nBut the decision Themistocles must make now may matter as much as the battle itself. A substantial portion of the Persian fleet — perhaps a third of the ships that began the day — survived by fleeing south around the tip of Salamis. They are regrouping at Phalerum Bay. If the Greek fleet pursues immediately, it can destroy them before they reorganize, potentially ending the naval threat entirely and forcing Xerxes' land army to begin an immediate retreat. But the Greek ships are battered and exhausted after hours of brutal combat. Many have damage to rams and oars. A pursuit in these conditions risks Greek losses and could end in disaster if the Persians turn and fight with desperation.\n\nAt the same time, Themistocles has received urgent dispatches from the Greek political leadership. Sparta and the Peloponnesian states want the fleet to sail south immediately and fortify the Isthmus of Corinth — abandoning Attica but securing the Peloponnese. The Athenians demand a pursuit northward to reclaim their devastated city. And Aristides, who commands the Athenian hoplites on Salamis island, reports that Persian garrisons have been left on the small island of Psyttaleia in the straits — a cleanup action is possible that would complete the Greek victory. Themistocles must choose how to consolidate this stunning triumph.",
+    "ja": "サラミスの海峡は残骸で埋め尽くされている。二百隻以上のペルシア軍艦が衝角に突かれ、焼かれ、あるいは捕獲された。海は瓦礫と、ペルシアの主人のために戦わざるを得なかった何千人もの溺死した水兵——フェニキア人、エジプト人、イオニア人——の死体で黒く染まっている。丘腹の黄金の玉座から惨劇を見ていたクセルクセスは、すでに怒りと屈辱の中で立ち去った。大陸のペルシア陸軍——依然として大規模で依然として危険——は、艦隊が壊滅した今、補給路を確保できないままアテナイの北に留まっている。ギリシア軍は古代世界で最も決定的な海戦に勝利した。\n\nしかし、テミストクレスが今下さなければならない決断は、戦闘そのものと同じくらい重要かもしれない。ペルシア艦隊のかなりの部分——その日の開始時点の船の約三分の一——がサラミスの先端を南に逃げて生き残った。彼らはファレルム湾で再集結しつつある。ギリシア艦隊が直ちに追撃すれば、再編成前に撃滅し、海上の脅威を完全に終わらせ、クセルクセスの陸軍に即時撤退を強いる可能性がある。しかし、ギリシアの船は数時間にわたる苛烈な戦闘の後に損傷を受け、疲弊している。多くが衝角と櫂に損傷を受けている。この状況での追撃はギリシア側の損失のリスクがあり、ペルシアが絶望的に反転して戦えば惨事で終わる可能性がある。\n\n同時に、テミストクレスはギリシア政治指導部から緊急の急報を受けた。スパルタとペロポネソス諸国はアッティカを見捨ててコリントス地峡を確保するために南方に即時航海することを求めている。アテナイ人は荒廃した都市を奪還するために北上することを要求している。サラミス島のアテナイ重装歩兵を指揮するアリステイデスは、海峡のプシュッタレイア小島にペルシアの守備隊が残されていると報告している——ギリシアの勝利を完成させる掃討作戦が可能だ。テミストクレスはこの驚くべき勝利をどう固めるか選択しなければならない。",
+    "zh-CN": "萨拉米斯海峡残骸遍布。超过两百艘波斯战舰被撞击、焚毁或俘获。大海被碎片和数千名溺死水手的尸体染得一片昏暗——他们是腓尼基人、埃及人、爱奥尼亚人，别无选择只能为波斯主人而战。在山坡上金色宝座前目睹灾难的薛西斯，已在愤怒与屈辱中离去。大陆上的波斯陆军——规模依然庞大，依然危险——在舰队覆灭、补给线断绝的情况下，仍滞留于雅典以北。希腊人赢得了古代世界最决定性的海战。\n\n然而，地米斯托克利现在必须做出的决策，其重要性可能不亚于这场战役本身。相当一部分波斯舰队——约占当天出战船只的三分之一——绕过萨拉米斯南端逃脱。他们正在法勒隆湾重新集结。如果希腊舰队立即追击，可以在他们重组之前将其歼灭，彻底终结海上威胁，迫使薛西斯的陆军立即撤退。但希腊战船在数小时的激烈厮杀后已伤痕累累、精疲力竭。许多船的撞角和船桨已受损。在这种情况下追击存在损失希腊战力的风险，如果波斯人绝望地反身迎战，后果可能是灾难性的。\n\n与此同时，地米斯托克利收到了希腊政治领导层发来的紧急急报。斯巴达和伯罗奔尼撒各邦要求舰队立即南下并加固科林斯地峡防线——放弃阿提卡但确保伯罗奔尼撒的安全。雅典人要求北上追击以夺回满目疮痍的城市。而指挥萨拉米斯岛雅典重装步兵的阿里斯泰德斯报告，海峡中的普西塔勒伊亚小岛上还留有波斯守军——一次可以完成希腊胜利的清剿行动是可能的。地米斯托克利必须选择如何巩固这一惊人的胜利。"
+  },
+  "situationReport": [
+    {
+      "en": "Over 200 Persian ships have been sunk or captured; the Persian fleet is broken as a fighting force",
+      "ja": "200隻以上のペルシア船が撃沈または捕獲され、ペルシア艦隊は戦力として壊滅した",
+      "zh-CN": "逾200艘波斯船只被击沉或俘获；波斯舰队作为战斗力量已被摧毁"
+    },
+    {
+      "en": "Roughly one-third of the Persian fleet survived and is regrouping at Phalerum Bay under Artemisia",
+      "ja": "ペルシア艦隊の約三分の一が生き残り、アルテミシアの下でファレルム湾に再集結中",
+      "zh-CN": "约三分之一的波斯舰队幸存，正在阿尔忒弥西亚的率领下于法勒隆湾重新集结"
+    },
+    {
+      "en": "Xerxes and the Persian land army remain north of Athens — the war is not over, only the naval phase",
+      "ja": "クセルクセスとペルシア陸軍はアテナイの北に留まっている——戦争は終わっておらず、海軍戦だけが終わった",
+      "zh-CN": "薛西斯和波斯陆军仍在雅典以北——战争尚未结束，只是海战阶段已终"
+    },
+    {
+      "en": "A Persian garrison on the island of Psyttaleia in the straits is isolated and vulnerable to attack",
+      "ja": "海峡のプシュッタレイア島のペルシア守備隊が孤立し攻撃に脆弱な状態にある",
+      "zh-CN": "海峡中普西塔勒伊亚岛上的波斯守军处于孤立无援的脆弱状态"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Consolidate the victory at Salamis and maximize its strategic impact",
+      "ja": "サラミスの勝利を固め、その戦略的影響を最大化する",
+      "zh-CN": "巩固萨拉米斯的胜利并最大化其战略影响"
+    },
+    {
+      "en": "Navigate the competing demands of Sparta, Athens, and the allied fleet",
+      "ja": "スパルタ、アテナイ、同盟艦隊の競合する要求を調整する",
+      "zh-CN": "协调斯巴达、雅典和盟邦舰队的相互竞争的要求"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Greek fleet is battered and exhausted — many ships need repairs before they can fight effectively again",
+      "ja": "ギリシア艦隊は損傷を受け疲弊している——多くの船が再び効果的に戦うには修理が必要",
+      "zh-CN": "希腊舰队伤痕累累、精疲力竭——许多船只需要修理才能再次有效作战"
+    },
+    {
+      "en": "Greek political unity is fragile — pushing too hard in any direction risks breaking the alliance",
+      "ja": "ギリシアの政治的団結は脆弱だ——どの方向にも強引に押すことは同盟を壊すリスクがある",
+      "zh-CN": "希腊政治团结脆弱——在任何方向上过度施压都有瓦解联盟的风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Destroy the garrison on Psyttaleia, then reorganize and claim victory. Let the surviving Persian fleet go — the war will be decided on land next year at Plataea.",
+        "ja": "プシュッタレイアの守備隊を殲滅してから再編成し勝利を宣言する。生き残ったペルシア艦隊は見逃す——戦争は来年プラタイアで陸上で決せられる。",
+        "zh-CN": "消灭普西塔勒伊亚的守军，然后重新整编并宣告胜利。放走幸存的波斯舰队——战争将于明年在普拉提亚的陆战中决出。"
+      },
+      "historicalContext": "The historical outcome — Aristides led Athenian hoplites to destroy the Persian garrison on Psyttaleia. Themistocles did not pursue the surviving Persian fleet. Xerxes withdrew most of his army. The war was indeed settled at Plataea in 479 BC.",
+      "outcomePrompt": {
+        "en": "Themistocles signals to Aristides across the water. The Athenian general lands his hoplites on the rocky island of Psyttaleia and systematically destroys the Persian garrison — three hundred soldiers who had been positioned to rescue survivors from the battle and now find themselves trapped with no hope of relief. It is swift and merciless work. By dusk, the island is cleared. The Greek fleet, exhausted and victorious, stands down. Themistocles makes no pursuit of the survivors at Phalerum. Within days, Xerxes, his supply line severed and his navy broken, begins the long march back to Persia with the bulk of his army. He leaves Mardonius behind with a picked force of three hundred thousand to winter in Thessaly and complete the conquest next spring. The war continues — but Salamis has fundamentally changed its character. Greece has proved it can fight and win. The Persian Empire is not invincible. Come spring, the Greeks will meet Mardonius at Plataea, and there the final judgment will fall. The stand at Salamis will echo through eternity — the day three hundred and seventy Greek ships saved Western civilization.",
+        "ja": "テミストクレスが海を越えてアリステイデスに合図する。アテナイの将軍は重装歩兵をプシュッタレイアの岩礁に上陸させ、ペルシアの守備隊を組織的に殲滅する。彼らは戦闘の生存者を救助するために配置されていた三百人の兵士であったが、今や救援の望みなく捕らわれた身となっている。迅速で容赦ない仕事だ。夕暮れまでに島は掃討された。疲弊し勝利したギリシア艦隊は戦闘を終了する。テミストクレスはファレルムの生存者を追撃しない。数日のうちに、補給路を断たれ海軍を壊滅させられたクセルクセスは、軍の大部分を率いて長いペルシアへの帰路につき始める。彼はマルドニオスをテッサリアで越冬し来春征服を完成させるために選り抜きの三十万の軍勢と共に残す。戦争は続く——しかしサラミスはその性格を根本的に変えた。ギリシアは戦い勝てることを証明した。ペルシア帝国は無敵ではない。春が来れば、ギリシア軍はプラタイアでマルドニオスと対峙し、そこで最終的な審判が下される。サラミスの戦いは永遠に響き渡るだろう——三百七十隻のギリシア船が西洋文明を救った日として。",
+        "zh-CN": "地米斯托克利越水向阿里斯泰德斯发出信号。这位雅典将军将重装步兵登上普西塔勒伊亚的礁石岛屿，系统地歼灭波斯守军——这三百名士兵原本部署在此以救援战斗中的幸存者，如今却发现自己已被困，毫无救援希望。这是迅速而无情的工作。入暮时分，小岛已被清剿完毕。疲惫而胜利的希腊舰队停止作战。地米斯托克利未追击法勒隆的幸存者。数日内，补给线被切断、海军覆灭的薛西斯，率领大部分军队踏上漫长的回波斯之路。他留下马多尼乌斯率领精选的三十万兵力在帖撒利亚越冬，以便来春完成征服。战争还在继续——但萨拉米斯已从根本上改变了其性质。希腊证明了自己能够战斗并取胜。波斯帝国并非无懈可击。来年春天，希腊人将在普拉提亚与马多尼乌斯相遇，最终的审判将在那里落下。萨拉米斯之战将永远回响——三百七十艘希腊战船拯救西方文明的那一天。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "tacticalPosition", "operation": "add", "value": 10 },
+        { "variable": "greekFleetMorale", "operation": "set", "value": 100 },
+        { "variable": "civilianSafety", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Pursue the surviving Persian fleet immediately. Drive them from Phalerum Bay and destroy what remains. Press the advantage before Xerxes can regroup.",
+        "ja": "生き残ったペルシア艦隊を即座に追撃する。ファレルム湾から駆逐し残存勢力を壊滅させる。クセルクセスが再編成する前に優位を押し進める。",
+        "zh-CN": "立即追击幸存的波斯舰队。将其从法勒隆湾驱逐并歼灭残余力量。趁薛西斯重整旗鼓之前乘胜追击。"
+      },
+      "historicalContext": "A counterfactual — Themistocles proposed sailing north to destroy the bridges over the Hellespont, trapping Xerxes in Europe, but was overruled. Aggressively pursuing the surviving fleet was not attempted.",
+      "outcomePrompt": {
+        "en": "Themistocles drives his exhausted captains back to their oars. The Greek fleet — battered, with leaking hulls and broken oars hastily replaced — rows toward Phalerum Bay as the sun begins to set. The remaining Persian ships, warned by fast scouts of the Greek approach, do not stand and fight. They flee in disorder south along the Attic coast. The pursuit becomes a running chase across open water as darkness falls, and the Greek advantage in the narrow straits evaporates in open sea. Several Persian ships are caught and sunk, but the majority escape under cover of night toward the Cyclades and eventually Ionia. The Greek fleet, now dangerously spread out and with several ships that take on water from unrepaired battle damage, limps back to Salamis by dawn. Three Greek triremes are lost to accidents in the dark pursuit. The attempt has yielded less than expected — perhaps twenty additional Persian vessels destroyed at the cost of exhausted crews and minor Greek losses. But the political result is significant: the Greek allies, seeing Themistocles drive the men so hard after victory, begin to murmur about Athenian aggression. Nevertheless, Xerxes receives the news of the fleet's complete failure to hold Phalerum and accelerates his retreat north.",
+        "ja": "テミストクレスは疲弊した船長たちを再び櫂に向かわせる。損傷し、船体から浸水し、折れた櫂を急いで交換したギリシア艦隊が日が沈み始める中ファレルム湾へと漕ぎ進む。残存するペルシア船は素早い斥候からギリシアの接近を知らされ、踏みとどまって戦わない。混乱しながらアッティカ海岸沿いに南へ逃げる。追撃は夜の闇の中、外洋での追いかけっことなり、狭い海峡でのギリシアの優位は外洋では消滅する。数隻のペルシア船が捕捉されて撃沈されるが、大多数は夜の暗闇に紛れてキュクラデス諸島、最終的にはイオニアへ逃れる。修理されていない戦闘ダメージから浸水する船もあり、危険なほど散開したギリシア艦隊は夜明けまでにサラミスに戻る。暗闇の追撃中の事故で三隻のギリシア三段櫂船が失われた。作戦は期待ほどの成果を上げられなかった——疲弊した乗組員とわずかなギリシア損失の代償として、さらに二十隻ほどのペルシア船を追加破壊したに過ぎない。しかし政治的結果は重大だ：テミストクレスが勝利後も兵士たちをそれほど激しく駆り立てるのを見たギリシア同盟諸国はアテナイの攻撃性についてつぶやき始める。それでも、クセルクセスはファレルムを保持することへの艦隊の完全な失敗を知らせを受け、北への撤退を加速させる。",
+        "zh-CN": "地米斯托克利驱使精疲力竭的船长们再次握桨。船体漏水、折断的船桨匆忙更换的希腊舰队，在夕阳西沉之际向法勒隆湾划去。剩余的波斯船只被快速侦察船预警了希腊人的逼近，没有原地迎战，而是混乱地沿着阿提卡海岸向南逃窜。随着夜幕降临，追击变成了一场在开阔海面上的奔逐，希腊在狭窄海峡中的优势在公海上荡然无存。数艘波斯船只被截获击沉，但大多数趁夜色逃向基克拉迪群岛，最终抵达爱奥尼亚。船只散布危险、数艘因未修复的战损而进水的希腊舰队，在黎明前踉跄返回萨拉米斯。三艘希腊三列桨战船在黑暗追击中意外受损沉没。此番尝试收效甚微——以疲惫的船员和轻微的希腊损失为代价，额外摧毁了约二十艘波斯船只。但政治结果举足轻重：盟邦城邦看到地米斯托克利在胜利后仍如此苛待士兵，开始私下议论雅典的扩张野心。尽管如此，薛西斯得知舰队彻底未能守住法勒隆的消息后，加快了向北撤退的步伐。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "tacticalPosition", "operation": "add", "value": 5 },
+        { "variable": "persianFleetStrength", "operation": "add", "value": -15 },
+        { "variable": "greekFleetMorale", "operation": "add", "value": -10 },
+        { "variable": "civilianSafety", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

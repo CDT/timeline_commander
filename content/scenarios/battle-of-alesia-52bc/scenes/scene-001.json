@@ -1,0 +1,123 @@
+{
+  "id": "battle-of-alesia-52bc-scene-001",
+  "scenarioId": "battle-of-alesia-52bc",
+  "isTerminal": false,
+  "date": {
+    "en": "Summer, 52 BC — The Engineering Decision",
+    "ja": "紀元前52年夏 — 工学的決断",
+    "zh-CN": "公元前52年夏——工程决策"
+  },
+  "location": {
+    "en": "The Plateau of Alesia, Gaul",
+    "ja": "ガリア、アレシアの高台",
+    "zh-CN": "高卢，阿莱西亚高地"
+  },
+  "title": {
+    "en": "The Double Wall",
+    "ja": "二重の壁",
+    "zh-CN": "双层城墙"
+  },
+  "narrativePrompt": {
+    "en": "Vercingetorix has retreated to the hilltop fortress of Alesia with 80,000 warriors. You pursue and immediately assess the terrain. The plateau is virtually unassailable by direct assault. You can attempt to storm it — losing thousands in a frontal attack against entrenched Gauls — or you can do what no Roman general has attempted at this scale: build a complete circumvallation and starve them out. But your engineers warn: Vercingetorix will certainly send for a relief army. To hold your siege lines, you may need to build two walls — one facing inward, one outward.",
+    "ja": "ヴェルキンゲトリクスは80,000人の戦士と共にアレシアの丘の上の要塞に撤退した。あなたは追撃し、直ちに地形を評価する。高台は直接突撃では事実上攻略不可能だ。正面攻撃で試みることができる——陣地を固めたガリア人に対して正面攻撃で何千人もの損失を出しながら——または、このような規模では誰もローマの将軍が試みたことのないことをすることができる：完全な包囲線を構築して餓死させる。しかし工兵たちは警告する：ヴェルキンゲトリクスは確実に救援軍を呼ぶだろう。包囲線を維持するために、二つの壁を構築する必要があるかもしれない——一つは内向き、一つは外向きに。",
+    "zh-CN": "维钦托利带着80,000名战士撤退到了阿莱西亚山顶要塞。你追击并立即评估地形。高地在正面突袭下几乎无法攻克。你可以试图强攻——在针对壁垒中的高卢人的正面进攻中损失数千人——或者你可以做任何罗马将军都未曾在这样的规模上尝试过的：建造完整的围城工事，困死他们。但你的工程师警告：维钦托利肯定会召唤援军。为了守住围城阵线，你可能需要建造两道城墙——一道朝内，一道朝外。"
+  },
+  "situationReport": [
+    {
+      "en": "Alesia sits on a plateau 330 feet high. Its walls are strong. A frontal assault would require scaling under fire — estimated casualties: 5,000–10,000 men.",
+      "ja": "アレシアは330フィートの高さの高台にある。壁は堅固だ。正面攻撃には火の下での登攀が必要——推定損失：5,000から10,000人。",
+      "zh-CN": "阿莱西亚坐落在330英尺高的高地上。城墙坚固。正面攻击需要在火力下攀爬——估计伤亡：5,000至10,000人。"
+    },
+    {
+      "en": "Your army of 50,000 must build 11 miles of inner wall (circumvallation) and potentially 14 miles of outer wall (contravallation) to face both threats simultaneously.",
+      "ja": "あなたの50,000人の軍は11マイルの内壁（包囲線）と、両方の脅威に同時に対応するための潜在的に14マイルの外壁（対攻囲線）を建設しなければならない。",
+      "zh-CN": "你的50,000人军队必须建造11英里的内墙（围城工事）和可能的14英里外墙（反围困工事），以同时面对两方威胁。"
+    },
+    {
+      "en": "The construction will take weeks. During that time, Vercingetorix can sortie and the relief army can attack from outside — your men will be caught in the middle.",
+      "ja": "建設には数週間かかるだろう。その間、ヴェルキンゲトリクスは出撃でき、救援軍が外から攻撃できる——あなたの兵士たちは挟み撃ちにされる。",
+      "zh-CN": "建设需要数周时间。在此期间，维钦托利可以出击，援军可以从外部攻击——你的士兵将被夹在中间。"
+    },
+    {
+      "en": "Your Gallic cavalry — fighting for Rome — can be sent out before the siege lines close to prevent it being trapped and to forage freely.",
+      "ja": "ローマのために戦っているガリア騎兵は包囲線が閉じる前に外に送り出すことができる——閉じ込めを防ぎ、自由に食料を調達するために。",
+      "zh-CN": "你为罗马战斗的高卢骑兵可以在围城阵线关闭之前派遣出去——防止被困，并可以自由觅食。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Capture or starve out Vercingetorix — he is the unifying force of Gallic resistance",
+      "ja": "ヴェルキンゲトリクスを捕らえるか餓死させる——彼はガリア抵抗の統一の力だ",
+      "zh-CN": "俘获或饿死维钦托利——他是高卢抵抗的统一力量"
+    },
+    {
+      "en": "Survive the relief army — which will be larger than your entire force",
+      "ja": "救援軍を生き残る——それはあなたの全軍よりも大きいだろう",
+      "zh-CN": "在援军面前生存——援军将比你的全部兵力还要多"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You cannot be in two places at once — the double wall commits your army to a static position for months",
+      "ja": "あなたは同時に二箇所にいることはできない——二重の壁はあなたの軍を数ヶ月間静的な位置に縛り付ける",
+      "zh-CN": "你无法同时在两个地方——双层城墙使你的军队数月处于固定位置"
+    },
+    {
+      "en": "Every day spent building is a day Vercingetorix can escape — speed of construction is critical",
+      "ja": "建設に費やされる毎日はヴェルキンゲトリクスが逃げられる日だ——建設の速度が重要だ",
+      "zh-CN": "建设的每一天都是维钦托利可能逃跑的一天——建设速度至关重要"
+    }
+  ],
+  "choices": [
+    {
+      "id": "build-double-wall",
+      "label": {
+        "en": "Build the double circumvallation: besiege the besieged and face the relief army simultaneously",
+        "ja": "二重包囲線を構築する：包囲された者を包囲し、救援軍に同時に対処する",
+        "zh-CN": "建造双层围城工事：围困被围困者，同时面对援军"
+      },
+      "description": {
+        "en": "Build both walls. Eleven miles inward, fourteen miles outward. Every Roman soldier becomes a construction worker. Dig trenches. Plant stakes. Build towers. When the relief army comes — and it will — you will fight from prepared positions. It is the most ambitious engineering project in the history of Roman warfare.",
+        "ja": "両方の壁を建設する。内側11マイル、外側14マイル。すべてのローマ兵士が建設労働者になる。溝を掘る。杭を打つ。塔を建てる。救援軍が来たら——そして来るだろう——準備された陣地から戦う。ローマの戦争史上最も野心的な工学プロジェクトだ。",
+        "zh-CN": "建造两道城墙。内侧11英里，外侧14英里。每个罗马士兵都成为建筑工人。挖壕沟。立木桩。建塔楼。当援军来临——它会来的——你将从准备好的阵地上战斗。这是罗马战争史上最雄心勃勃的工程项目。"
+      },
+      "historicalContext": "This is what Caesar actually did. The double circumvallation at Alesia — 11 miles of inner wall and 14 miles of outer wall, completed in approximately three weeks — remains one of the most celebrated engineering feats in military history. Caesar's own account in the Gallic Wars describes the construction in detail. The engineering created a situation where 50,000 Romans faced simultaneous attack from 80,000 Gauls inside and reportedly 250,000 outside — and won.",
+      "outcomePrompt": {
+        "en": "You set every man to work. For three weeks, Rome's army becomes a construction battalion. Soldiers who have fought their way across Gaul dig ditches, haul timber, plant sharpened stakes. The inner wall rises. Then the outer. Twenty-five miles of fortification, built by 50,000 men who know what is coming. The relief army will be vast. But it will attack prepared Roman positions, not open legions. You send your Gallic cavalry out before the lines close. They will return with word of the relief force — and with whatever help can be found.",
+        "ja": "あなたはすべての兵士を作業に就かせる。三週間、ローマの軍は建設大隊となる。ガリア全土を戦い抜いてきた兵士たちが溝を掘り、丸太を運び、尖らせた杭を打つ。内壁が立ち上がる。続いて外壁。25マイルの要塞、何が来るかを知っている50,000人の兵士によって建設される。救援軍は膨大なものになるだろう。しかし彼らは開かれた軍団ではなく、準備されたローマの陣地を攻撃するだろう。防衛線が閉じる前にガリア騎兵を外に送り出す。彼らは救援軍の知らせと——見つけられる限りの援助を持って帰ってくるだろう。",
+        "zh-CN": "你让每个士兵投入工作。三周里，罗马军队变成了建筑营。纵横高卢战斗过来的士兵们挖壕沟、搬运木材、打入削尖的木桩。内墙竖立。然后是外墙。25英里的防御工事，由50,000名知道将会发生什么的人建造。援军将会是庞大的。但它将攻击准备好的罗马阵地，而非开阔中的军团。你在防线关闭之前将高卢骑兵派出。他们将带着援军的消息——以及所能找到的任何帮助——回来。"
+      },
+      "stateChanges": [
+        { "key": "fortificationIntegrity", "operation": "set", "value": 100 },
+        { "key": "romanMorale", "operation": "add", "value": 10 },
+        { "key": "reliefArmyPressure", "operation": "add", "value": -15 }
+      ],
+      "nextSceneId": "battle-of-alesia-52bc-scene-002"
+    },
+    {
+      "id": "storm-immediately",
+      "label": {
+        "en": "Storm Alesia now before the garrison is fully prepared — accept the casualties",
+        "ja": "守備隊が完全に準備する前に今すぐアレシアを攻める——損失を受け入れる",
+        "zh-CN": "趁守军尚未完全准备好就立即强攻阿莱西亚——接受伤亡"
+      },
+      "description": {
+        "en": "Every day of siege preparation is a day Vercingetorix can organize his defense and send for relief. Storm the plateau now, in the first day, before they settle in. You will lose men — but you will end this quickly, before a 250,000-man relief army can assemble.",
+        "ja": "包囲準備の毎日はヴェルキンゲトリクスが防衛を組織し救援を求める日だ。今すぐ、最初の日に、彼らが落ち着く前に高台を攻める。兵士を失うだろう——しかし25万人の救援軍が集結する前にこれをすばやく終わらせるだろう。",
+        "zh-CN": "围城准备的每一天都是维钦托利可以组织防御并召唤援军的一天。现在就进攻高地，在第一天，在他们稳定下来之前。你会损失士兵——但在25万援军能够集结之前，你会迅速结束这一切。"
+      },
+      "historicalContext": "This is the counterfactual. Caesar actually considered and apparently rejected an immediate assault, choosing the engineering solution instead. The plateau of Alesia was described by ancient sources as very strong and naturally defensible. An immediate assault against 80,000 entrenched Gauls with 50,000 Romans — many already fatigued from the pursuit — would likely have resulted in catastrophic losses even if successful. Caesar's engineering solution was audacious precisely because it seemed more difficult than assault.",
+      "outcomePrompt": {
+        "en": "You order the assault at dawn. Your legions climb the plateau in three columns. The Gauls meet you at the walls with spears, rocks, and boiling pitch. Your men are brave — the assault makes progress. Then Vercingetorix commits his full reserve, 20,000 warriors, to a counterattack. The assault breaks. You lose 6,000 men in four hours. The plateau is not taken. You are now committed to a siege with a weakened, bloodied army — and the Gallic relief force is already being assembled across Gaul. Building the wall now will be harder with fewer hands.",
+        "ja": "夜明けに突撃を命じる。軍団は三列縦隊で高台に登る。ガリア人は槍、岩、沸騰したピッチで壁であなたを迎える。あなたの兵士たちは勇敢だ——突撃は進展する。そしてヴェルキンゲトリクスは20,000人の戦士からなる全予備隊を反撃に投入する。突撃が崩れる。四時間で6,000人を失う。高台は占領されない。あなたは今、弱体化した血にまみれた軍を抱えたまま包囲に縛り付けられている——そしてガリアの救援軍はガリア全土で集結しつつある。今から壁を建設するのは人手が少なくなった分、難しくなるだろう。",
+        "zh-CN": "你命令在黎明发动突击。你的军团三路纵队攀登高地。高卢人用长矛、石块和沸腾的沥青在城墙迎击你。你的士兵英勇作战——突击取得进展。然后维钦托利将他的全部预备队——20,000名战士——投入反击。突击崩溃。四小时内损失6,000人。高地未被攻占。你现在被迫以削弱的、满身血腥的军队继续围城——而高卢援军已经在高卢各地集结。现在用更少的人建造城墙会更加困难。"
+      },
+      "stateChanges": [
+        { "key": "romanMorale", "operation": "add", "value": -20 },
+        { "key": "fortificationIntegrity", "operation": "add", "value": -20 },
+        { "key": "innerGarrisonPressure", "operation": "add", "value": -10 }
+      ],
+      "nextSceneId": "battle-of-alesia-52bc-scene-002"
+    }
+  ]
+}

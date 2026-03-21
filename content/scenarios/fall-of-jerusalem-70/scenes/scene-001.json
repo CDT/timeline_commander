@@ -1,0 +1,115 @@
+{
+  "id": "fall-of-jerusalem-70-scene-001",
+  "scenarioId": "fall-of-jerusalem-70",
+  "title": {
+    "en": "The Outer Walls",
+    "ja": "外壁攻略",
+    "zh-CN": "攻破外墙"
+  },
+  "date": {
+    "en": "May 10, 70 AD",
+    "ja": "西暦70年5月10日",
+    "zh-CN": "公元70年5月10日"
+  },
+  "location": {
+    "en": "Roman Field Headquarters, Mount Scopus, outside Jerusalem",
+    "ja": "エルサレム郊外スコプス山、ローマ野戦司令部",
+    "zh-CN": "耶路撒冷城外斯科普斯山罗马野战司令部"
+  },
+  "narrativePrompt": {
+    "en": "You have established your siege camps on the Mount of Olives and Mount Scopus, and your four legions are in position around the northern and western approaches to Jerusalem. The city before you is a formidable sight — three concentric walls of massive stone, the towering Fortress of Antonia, and beyond it the gleaming gold and white marble of the Temple Mount. Your engineers have begun constructing siege ramps and assembling battering rams to target the Third Wall, the outermost fortification built by King Agrippa only decades ago. Intelligence from deserters paints a grim picture inside the city: Simon bar Giora and John of Gischala have been waging a vicious civil war for control, even as your legions tighten the noose. They have burned each other's grain stores in acts of spite, leaving the city's food supply critically diminished before your siege has truly begun. Josephus, your Jewish advisor who once fought against Rome, urges you to call for surrender before the first ram strikes — he believes the moderate population would force the zealots to negotiate if given terms. However, your officers argue that a show of overwhelming force will break the defenders' will faster than words. The Third Wall stretches before you. How do you begin the assault?",
+    "ja": "あなたはオリーブ山とスコプス山に包囲陣営を設置し、四個軍団がエルサレムの北と西の接近路に展開している。眼前の都市は威容を誇る——巨石で築かれた三重の同心城壁、そびえ立つアントニア要塞、そしてその先に輝く金色と白い大理石の神殿の丘。工兵たちは攻城斜路の建設と破城槌の組み立てを開始し、わずか数十年前にアグリッパ王が築いた最外壁である第三城壁を標的にしている。脱走兵からの情報は城内の陰惨な状況を伝えている：シモン・バル・ギオラとギスカラのヨハネスが支配権をめぐって凄惨な内戦を繰り広げており、あなたの軍団が包囲を狭めているにもかかわらず争いを続けている。彼らは報復として互いの穀物倉庫を焼き払い、包囲戦が本格的に始まる前に都市の食糧供給を危機的水準にまで減少させた。かつてローマと戦ったユダヤ人顧問のヨセフスは、最初の破城槌が城壁を打つ前に降伏を呼びかけるよう強く勧める——条件を示せば穏健な住民が熱心党に交渉を強いるだろうと彼は信じている。しかし、将校たちは圧倒的な武力の誇示こそが言葉より早く防衛者の意志を砕くと主張している。第三城壁があなたの前に横たわっている。どのように攻撃を始めるか？",
+    "zh-CN": "你已在橄榄山和斯科普斯山建立了围城营地，四个军团在耶路撒冷北面和西面的通道上就位。眼前的城市令人生畏——三道巨石砌成的同心城墙、高耸的安东尼亚要塞，以及其后圣殿山闪耀的金色与白色大理石。你的工兵已开始修建攻城坡道并组装攻城锤，目标是仅在数十年前由阿格里帕王修建的最外层第三城墙。逃兵带来的情报描绘了城内严峻的局面：西蒙·巴尔·吉奥拉和吉斯卡拉的约翰一直在进行争夺控制权的残酷内战，即便你的军团正在收紧包围圈。他们出于报复焚毁了彼此的粮仓，使得围城尚未真正开始，城中粮食供应便已岌岌可危。你的犹太顾问约瑟夫斯——曾与罗马作战——极力建议在第一台攻城锤出击前先劝降，他相信如果给出条件，温和派民众会迫使狂热分子谈判。然而，你的军官们认为压倒性武力的展示比言语更能迅速瓦解守军的意志。第三城墙就在你面前，你将如何开始进攻？"
+  },
+  "situationReport": [
+    {
+      "en": "Four legions totaling 70,000 soldiers are deployed around the northern and western approaches to Jerusalem",
+      "ja": "合計七万人の四個軍団がエルサレムの北と西の接近路に展開している",
+      "zh-CN": "共计七万人的四个军团已在耶路撒冷北面和西面部署到位"
+    },
+    {
+      "en": "The Jewish defenders are divided into hostile factions under Simon bar Giora and John of Gischala who have been fighting each other",
+      "ja": "ユダヤ人防衛者はシモン・バル・ギオラとギスカラのヨハネスの下で対立する派閥に分裂し、互いに戦っている",
+      "zh-CN": "犹太守军分裂为西蒙·巴尔·吉奥拉和吉斯卡拉的约翰领导的敌对派系，一直在相互交战"
+    },
+    {
+      "en": "Internal fighting has destroyed much of the city's food stores — famine is already beginning among the trapped population",
+      "ja": "内部抗争が都市の食糧貯蔵の多くを破壊し、閉じ込められた住民の間ですでに飢饉が始まっている",
+      "zh-CN": "内斗已摧毁了城内大量粮食储备——被困人口中饥荒已经开始蔓延"
+    },
+    {
+      "en": "Hundreds of thousands of Passover pilgrims are trapped inside the city, swelling the population far beyond normal levels",
+      "ja": "数十万人の過越祭の巡礼者が都市内に閉じ込められ、人口が通常の水準をはるかに超えて膨張している",
+      "zh-CN": "数十万逾越节朝圣者被困城内，使城市人口远超正常水平"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Breach the Third Wall and establish a foothold in the New City quarter of Bezetha",
+      "ja": "第三城壁を突破し、新市街ベゼタ地区に橋頭保を確保する",
+      "zh-CN": "突破第三城墙，在新城贝泽塔区建立立足点"
+    },
+    {
+      "en": "Maintain legionary discipline and morale during the opening phase of the siege",
+      "ja": "包囲戦の序盤において軍団の規律と士気を維持する",
+      "zh-CN": "在围城初期阶段维持军团纪律和士气"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your father Emperor Vespasian expects a swift resolution — political rivals in Rome are watching for signs of Flavian weakness",
+      "ja": "父である皇帝ウェスパシアヌスは迅速な解決を期待している——ローマの政敵がフラウィウス朝の弱さの兆候を窺っている",
+      "zh-CN": "你的父亲维斯帕先皇帝期望迅速解决——罗马的政治对手正在观察弗拉维王朝的弱点"
+    },
+    {
+      "en": "Josephus warns that excessive early violence will unite the fractured defenders against a common enemy",
+      "ja": "ヨセフスは序盤の過度な暴力は分裂した防衛者たちを共通の敵に対して団結させると警告している",
+      "zh-CN": "约瑟夫斯警告说过早的过度暴力会让分裂的守军团结起来对抗共同敌人"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Launch an immediate full-scale assault on the Third Wall with battering rams and siege towers. Overwhelm the defenders before they can organize a unified defense.",
+        "ja": "破城槌と攻城塔で第三城壁に即座に全面攻撃を開始する。防衛者たちが統一的な防御を組織する前に圧倒する。",
+        "zh-CN": "立即以攻城锤和攻城塔对第三城墙发动全面进攻。在守军组织统一防御之前将其压倒。"
+      },
+      "historicalContext": "The historical approach — Titus launched a rapid assault on the Third Wall, breaching it after approximately fifteen days of concentrated battering. The divided defenders could not coordinate an effective response.",
+      "outcomePrompt": {
+        "en": "You order the rams forward at dawn. Three massive battering rams pound the Third Wall simultaneously while your legionaries form testudo formations beneath a hail of stones and javelins from the ramparts. The defenders fight fiercely but chaotically — Simon bar Giora's men hold one section while John of Gischala's fighters defend another, with a dangerous gap between them where neither faction will yield authority. After fifteen days of relentless battering, the wall cracks and crumbles near its northern corner. Your legionaries surge through the breach with a roar, pouring into the New City of Bezetha. The defenders fall back in disorder toward the Second Wall, but your troops are exhilarated by their success. Some legionaries begin looting abandoned homes in the New City despite your orders to maintain formation. The assault succeeded faster than expected, but Roman casualties from the wall fighting are moderate, and controlling the troops' bloodlust will become harder with each wall that falls.",
+        "ja": "夜明けとともに破城槌の前進を命じる。三台の巨大な破城槌が同時に第三城壁を打ち、軍団兵が城壁上からの石と投槍の雨の中でテストゥド陣形を組む。防衛者たちは激しいが混沌とした戦いを繰り広げる——シモン・バル・ギオラの部下がある区域を守り、ギスカラのヨハネスの兵士が別の区域を守るが、どちらの派閥も指揮権を譲らないため両者の間に危険な隙間がある。十五日間の容赦ない攻城の後、城壁の北角付近にひびが入り崩壊する。軍団兵が雄叫びを上げて突破口に殺到し、新市街ベゼタになだれ込む。防衛者たちは混乱のうちに第二城壁へ後退するが、兵士たちは勝利に昂揚している。あなたの隊列維持命令にもかかわらず、一部の軍団兵が新市街の放棄された家屋の略奪を始める。攻撃は予想より早く成功したが、城壁戦でのローマ側の損害は中程度であり、城壁が一つ陥落するごとに兵士たちの血の渇望を制御するのは難しくなるだろう。",
+        "zh-CN": "你下令在黎明时分推进攻城锤。三台巨型攻城锤同时猛击第三城墙，军团士兵在城墙上倾泻而下的石块和标枪中组成龟甲阵。守军战斗激烈但混乱不堪——西蒙·巴尔·吉奥拉的人守卫一段城墙，吉斯卡拉的约翰的战士守卫另一段，两个派系之间因互不让权而出现了危险的缺口。经过十五天不懈的攻击，城墙在北角附近裂开并坍塌。军团士兵呐喊着冲入缺口，涌入新城贝泽塔。守军混乱地向第二城墙撤退，但你的士兵被胜利冲昏了头脑。尽管你下令保持队形，一些军团士兵开始洗劫新城中被遗弃的房屋。攻击比预期更快成功，但城墙作战中罗马方面的伤亡不轻，随着每道城墙的陷落，控制士兵的嗜血冲动将越来越困难。"
+      },
+      "nextSceneId": "fall-of-jerusalem-70-scene-002",
+      "stateChanges": [
+        { "variable": "siegeProgress", "operation": "add", "value": 25 },
+        { "variable": "romanMorale", "operation": "add", "value": 15 },
+        { "variable": "civilianCasualties", "operation": "add", "value": 10 },
+        { "variable": "politicalStanding", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Send Josephus forward under a flag of truce to offer terms of surrender. Exploit the divisions among the defenders by promising amnesty to factions that lay down their arms.",
+        "ja": "休戦旗の下でヨセフスを前に送り、降伏条件を提示する。武器を置く派閥に恩赦を約束し、防衛者間の分裂を利用する。",
+        "zh-CN": "派约瑟夫斯举白旗前去提出投降条件。承诺赦免放下武器的派系，利用守军之间的分裂。"
+      },
+      "historicalContext": "Josephus did attempt to negotiate surrender multiple times during the siege, but was met with contempt and arrows from the zealot defenders who considered him a traitor.",
+      "outcomePrompt": {
+        "en": "Josephus approaches the walls calling out in Aramaic, appealing to the people of Jerusalem to accept Roman mercy before it is too late. A crowd gathers on the ramparts to listen, and for a moment you can see hesitation on their faces. But then arrows fly from the zealots' positions. One strikes Josephus in the arm, and he stumbles back under the protection of your shields. Simon bar Giora's men shout that Josephus is a traitor who sold his people for Roman gold. The attempted negotiation has backfired — the zealot leaders use it as propaganda, claiming Rome is too weak to fight and must beg for surrender. The factions briefly unite in their contempt for the Roman offer, and the moderates who might have listened are silenced by fear. You have lost two weeks without progress, and your officers openly grumble about the delay. You order the rams forward, and the assault on the Third Wall begins belatedly. The wall falls after sustained battering, but the delay has allowed the defenders to strengthen the Second Wall and coordinate their positions.",
+        "ja": "ヨセフスがアラム語で呼びかけながら城壁に近づき、手遅れになる前にローマの慈悲を受け入れるようエルサレムの民に訴える。城壁上に群衆が集まって聞き入り、一瞬その顔にためらいが見える。しかし熱心党の陣地から矢が飛来する。一本がヨセフスの腕に刺さり、彼は盾の保護下によろめき後退する。シモン・バル・ギオラの配下がヨセフスはローマの金で民を売った裏切り者だと叫ぶ。交渉の試みは裏目に出た——熱心党の指導者たちはこれを宣伝に利用し、ローマは戦う力がなく降伏を懇願しなければならないと主張する。諸派閥はローマの申し出への軽蔑で束の間団結し、耳を傾けたかもしれない穏健派は恐怖で沈黙する。二週間を進展なく失い、将校たちは遅延について公然と不満を漏らす。破城槌の前進を命じ、第三城壁への攻撃が遅れて始まる。持続的な攻城の後に城壁は陥落するが、遅延により防衛者たちは第二城壁を強化し陣地を調整する時間を得てしまった。",
+        "zh-CN": "约瑟夫斯用阿拉姆语向城墙上的人喊话，恳请耶路撒冷人民在为时已晚之前接受罗马的宽大。城墙上聚集了一群人倾听，你看到他们脸上一度闪过犹豫。但随即狂热分子的阵地飞来箭矢。一支射中约瑟夫斯的手臂，他踉跄着退回盾牌掩护之后。西蒙·巴尔·吉奥拉的手下高喊约瑟夫斯是用罗马黄金出卖自己人民的叛徒。谈判的尝试适得其反——狂热派领袖将此作为宣传素材，声称罗马太虚弱不敢战斗，只能乞求投降。各派系在蔑视罗马条件上短暂团结，而那些可能愿意倾听的温和派在恐惧中沉默了。你浪费了两周时间毫无进展，军官们公开抱怨拖延。你终于下令攻城锤前进，对第三城墙的进攻迟迟展开。经过持续攻击城墙终于陷落，但拖延让守军有时间加固第二城墙并协调防御部署。"
+      },
+      "nextSceneId": "fall-of-jerusalem-70-scene-002",
+      "stateChanges": [
+        { "variable": "siegeProgress", "operation": "add", "value": 10 },
+        { "variable": "romanMorale", "operation": "add", "value": -10 },
+        { "variable": "civilianCasualties", "operation": "add", "value": 5 },
+        { "variable": "politicalStanding", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

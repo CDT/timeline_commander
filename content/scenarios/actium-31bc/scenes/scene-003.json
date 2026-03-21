@@ -1,0 +1,123 @@
+{
+  "id": "actium-31bc-scene-003",
+  "scenarioId": "actium-31bc",
+  "date": {
+    "en": "September 9, 31 BC",
+    "ja": "紀元前31年9月9日",
+    "zh-CN": "公元前31年9月9日"
+  },
+  "location": {
+    "en": "Octavian's Camp, Near Actium",
+    "ja": "アクティウム近郊、オクタウィアヌスの陣営",
+    "zh-CN": "亚克兴附近，屋大维军营"
+  },
+  "isTerminal": true,
+  "title": {
+    "en": "The World Surrenders",
+    "ja": "世界の降伏",
+    "zh-CN": "世界的臣服"
+  },
+  "narrativePrompt": {
+    "en": "One week after the battle. The naval victory is complete — Antony's fleet is destroyed or scattered, the wreckage still visible in the gulf. But the bigger prize just arrived: emissaries from Antony's 19 remaining legions have come to negotiate terms of surrender. Without Antony, without supplies, without hope, the largest remaining army in the Roman world has decided to lay down its arms.\n\nYou are Octavian. The civil war that began with Caesar's assassination in 44 BC — thirteen years of proscriptions, battles, betrayals, and dead Romans — is effectively over. There is no significant military force left in the world that can challenge you. The eastern provinces will follow whoever controls Egypt and the legions. Egypt will fall to whoever controls the sea. You have controlled the sea since Actium.\n\nBut the war is not legally concluded. Antony and Cleopatra are in Egypt with whatever remains of the treasury and whatever troops remain loyal. They have options — Cleopatra could flee to India with the treasure, Antony could make one final stand. You must plan the Egypt campaign thoughtfully.\n\nMore importantly, you must begin thinking about what comes next. You are 32 years old. You hold more power than any Roman in history. The Republic, as a functioning system with distributed power and competitive elections, no longer exists in any meaningful sense. What it becomes — and what role you play in that — depends on decisions you make in the next few months. How you treat these surrendering legionaries today sets a tone for what kind of ruler you intend to be.",
+    "ja": "戦闘から一週間後。海上の勝利は完全だ——アントニウスの艦隊は撃破されるか散り散りになり、残骸は湾の中にまだ見える。しかしより大きな戦利品がたった今届いた：アントニウスの残る19個軍団からの使者が降伏条件の交渉に来た。アントニウスなし、補給なし、希望なしに、ローマ世界に残る最大の軍が武器を捨てることを決断した。\n\nあなたはオクタウィアヌスだ。紀元前44年のカエサル暗殺から始まった内戦——13年にわたる追放令、戦闘、裏切り、そして死んだローマ人たち——は事実上終わった。世界に残るあなたに挑戦できる重要な軍事力はない。東方属州はエジプトと軍団を支配する者に従う。エジプトは海を支配する者のものになる。あなたはアクティウム以来海を支配している。\n\nしかし戦争は法的には終結していない。アントニウスとクレオパトラは財宝の残りと忠誠な部隊と共にエジプトにいる。彼らには選択肢がある——クレオパトラは財宝を持ってインドに逃げることができる、アントニウスは最後の決戦を行うことができる。あなたはエジプト遠征を慎重に計画しなければならない。\n\nより重要なことに、次に何が来るかを考え始めなければならない。あなたは32歳だ。歴史上のどのローマ人よりも多くの権力を持っている。機能するシステムとして分散した権力と競争的な選挙を持つ共和国は、もはや意味ある意味では存在しない。それが何になるか——そしてあなたがその中でどのような役割を果たすか——は、今後数ヶ月で下す決断にかかっている。今日降伏するこれらの兵士たちをどう扱うかが、あなたがどのような支配者になるつもりかのトーンを設定する。",
+    "zh-CN": "战斗一周后。海上胜利已经完成——安东尼的舰队被摧毁或分散，残骸仍在海湾中清晰可见。但更大的战利品刚刚到来：安东尼剩余的19个军团的使者前来谈判投降条件。没有安东尼，没有补给，没有希望，罗马世界中规模最大的剩余军队决定放下武器。\n\n你是屋大维。从公元前44年凯撒遇刺开始的内战——十三年的公敌宣告、战役、背叛和死去的罗马人——实际上已经结束。世界上没有留下任何可以挑战你的重要军事力量。东方行省将追随控制埃及和军团的人。埃及将属于控制海洋的人。自亚克兴以来你一直控制着海洋。\n\n但战争在法律上还未结束。安东尼和克利奥帕特拉在埃及，带着国库的残余和仍然忠于他们的军队。他们有选择——克利奥帕特拉可以带着财宝逃往印度，安东尼可以做最后的抵抗。你必须仔细规划埃及战役。\n\n更重要的是，你必须开始思考接下来会发生什么。你32岁。你掌握的权力比历史上任何罗马人都多。作为一个具有分散权力和竞争性选举的运作体系，共和国在任何有意义的意义上都不复存在了。它将变成什么——以及你在其中扮演什么角色——取决于你在接下来几个月做出的决定。你今天如何对待这些投降的士兵为你打算成为什么样的统治者定下了基调。"
+  },
+  "situationReport": [
+    {
+      "en": "Antony's 19 legions have sent representatives to negotiate surrender. These are experienced soldiers who followed a charismatic commander — how you treat them will determine whether they become loyal forces for your own campaigns.",
+      "ja": "アントニウスの19個軍団が降伏交渉の代表者を送ってきた。これらはカリスマ的な指揮官に従った経験豊富な兵士たちだ——あなたが彼らをどう扱うかが、彼らが自分自身の遠征のための忠実な部隊になるかどうかを決める。",
+      "zh-CN": "安东尼的19个军团已派出代表前来谈判投降。这些是跟随了一位具有魅力的指挥官的经验丰富的士兵——你如何对待他们将决定他们是否会成为你自己战役的忠实力量。"
+    },
+    {
+      "en": "Antony and Cleopatra are in Alexandria. Intelligence indicates they are making contingency plans — possibly to flee to the Red Sea with whatever treasure remains. Speed is important in the Egypt campaign.",
+      "ja": "アントニウスとクレオパトラはアレクサンドリアにいる。情報によると、彼らは緊急時の計画を立てている——おそらく残っている財宝と共に紅海に逃げることを計画している。エジプト遠征では速度が重要だ。",
+      "zh-CN": "安东尼和克利奥帕特拉在亚历山大城。情报显示他们正在制定应急计划——可能是带着剩余财宝逃往红海。埃及战役中速度至关重要。"
+    },
+    {
+      "en": "The Senate and people of Rome are watching. Your actions over the next months will define whether you are seen as a dictator or a liberator, a conqueror or a statesman. Caesar's fate is a warning — absolute power without political legitimacy ends in assassination.",
+      "ja": "元老院とローマの人々が見守っている。今後数ヶ月のあなたの行動が、あなたが独裁者か解放者か、征服者か政治家として見られるかを決定する。カエサルの運命は警告だ——政治的正統性のない絶対権力は暗殺に終わる。",
+      "zh-CN": "元老院和罗马人民在观察。你接下来几个月的行动将决定你是否被视为独裁者或解放者，征服者还是政治家。凯撒的命运是一个警告——没有政治合法性的绝对权力以暗杀告终。"
+    },
+    {
+      "en": "You have secured the sea route to Egypt. The fastest path to Alexandria is a direct naval assault — if you move within two weeks, before Cleopatra can organize a serious defense or flee.",
+      "ja": "あなたはエジプトへの海路を確保した。アレクサンドリアへの最速ルートは直接の海上攻撃だ——クレオパトラが本格的な防衛を組織したり逃げたりする前に、2週間以内に動けば。",
+      "zh-CN": "你已经确保了通往埃及的海路。去亚历山大城最快的路线是直接的海上突击——如果你在两周内行动，在克利奥帕特拉能够组织起严肃的防御或逃跑之前。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure the surrender of Antony's legions on terms that make them useful rather than resentful.",
+      "ja": "アントニウスの軍団の降伏を、彼らが怨恨を持つのではなく有用になる条件で確保する。",
+      "zh-CN": "在使他们有用而不是心怀怨恨的条件下确保安东尼军团的投降。"
+    },
+    {
+      "en": "Plan the Egypt campaign to secure the final victory and the treasury before Antony or Cleopatra can escape or destroy it.",
+      "ja": "アントニウスやクレオパトラが逃げたり破壊したりする前に最終的な勝利と財宝を確保するためのエジプト遠征を計画する。",
+      "zh-CN": "规划埃及战役，在安东尼或克利奥帕特拉逃脱或摧毁国库之前确保最终胜利和国库。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your troops are exhausted from the campaign at Actium. A rapid march to Egypt risks arriving with a force depleted by the journey. But delay gives Cleopatra time to organize.",
+      "ja": "あなたの軍はアクティウムの作戦で疲弊している。エジプトへの急行軍は旅で消耗した部隊で到着するリスクがある。しかし遅延はクレオパトラに組織化の時間を与える。",
+      "zh-CN": "你的军队已因亚克兴战役而精疲力竭。快速行军到埃及有抵达时部队因旅途而精疲力竭的风险。但延迟会给克利奥帕特拉时间来组织防御。"
+    },
+    {
+      "en": "Cleopatra controls a significant treasure — she has threatened to burn it rather than let it fall into Roman hands. How you approach Alexandria will affect whether the treasury survives intact.",
+      "ja": "クレオパトラは相当の財宝を支配している——彼女はローマの手に渡るくらいなら燃やすと脅している。アレクサンドリアへのアプローチ方法が財宝が無傷で残るかどうかに影響する。",
+      "zh-CN": "克利奥帕特拉控制着大量财富——她威胁说宁愿烧毁它也不让它落入罗马人手中。你接近亚历山大城的方式将影响国库是否完好无损地保存下来。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Grant generous terms to the surrendering legions, then march on Egypt immediately",
+        "ja": "降伏する軍団に寛大な条件を与え、直ちにエジプトに進軍する",
+        "zh-CN": "给予投降军团宽大条件，然后立即向埃及进军"
+      },
+      "description": {
+        "en": "Accept the surrendering legions fully into your own service with back pay and promises of land grants at campaign's end. Then move on Egypt within the week — by sea, the fastest route. Speed is the key: reach Alexandria before Cleopatra can organize her escape or destroy the treasury.",
+        "ja": "降伏する軍団を、未払いの給与と作戦終了時の土地付与の約束で完全に自分の服務に受け入れる。そして一週間以内にエジプトへ向かう——海路で、最速のルートで。速度が鍵だ：クレオパトラが脱出を組織したり財宝を破壊したりする前にアレクサンドリアに到達する。",
+        "zh-CN": "以补发欠薪和战役结束时的土地授予承诺，将投降的军团完全纳入你的服役。然后在一周内向埃及出发——走海路，最快的路线。速度是关键：在克利奥帕特拉能够组织逃脱或摧毁国库之前到达亚历山大城。"
+      },
+      "historicalContext": "This represents a combination of the historical choices Octavian made. He was indeed generous to surrendering troops, incorporating them into his own forces — a policy that served him well throughout his long reign as Augustus. The Egypt campaign of 30 BCE was conducted relatively swiftly, reaching Alexandria before serious resistance could be organized. Antony committed suicide on false reports of Cleopatra's death, and Cleopatra died shortly after — by asp bite according to tradition.",
+      "outcomePrompt": {
+        "en": "You receive the surrendering legates with generosity — the soldiers keep their arms, their officers keep their ranks, and you promise land in Italy at the campaign's end. The legions cheer. Within a week, Antony's 19 legions have become your 19 legions.\n\nYou embark for Egypt within days. The campaign is swift and almost bloodless — Antony's remaining forces in Egypt crumble at the approach of your fleet. Antony himself, receiving a false report that Cleopatra has already died, falls on his sword before he can learn the truth. He is carried to Cleopatra's refuge, where he dies in her arms.\n\nCleopatra negotiates with you for days — she is hoping you will allow her a kind of royal dignity, perhaps a role in your new order. When she understands that she will be taken to Rome to walk in your triumph, she takes her own life. By asp, according to legend; by poison, in all likelihood.\n\nEgypt falls without a siege. The treasury — most of it — is intact. You are 32 years old, and you rule the world. In four years, the Senate will give you the title Augustus. The empire you are about to build will last, in one form or another, for another 1,500 years.",
+        "ja": "降伏した軍団を寛大に迎える——兵士は武器を保持し、将校は階級を保ち、そしてあなたは作戦終了時にイタリアの土地を約束する。軍団は歓声を上げる。一週間以内に、アントニウスの19個軍団があなたの19個軍団になった。\n\n数日以内にエジプトへ向けて乗船する。作戦は迅速でほとんど流血がない——エジプトに残るアントニウスの軍はあなたの艦隊の接近で崩れる。アントニウス自身は、クレオパトラがすでに死んだという誤報を受け、真実を知る前に剣に倒れる。彼はクレオパトラの避難所に運ばれ、彼女の腕の中で死ぬ。\n\nクレオパトラは数日間あなたと交渉する——彼女は一種の王室の品位を許してもらえることを望んでいる。おそらくあなたの新しい秩序での役割を。あなたの凱旋式でローマを歩かせられることを理解した時、彼女は自ら命を絶つ。伝説によればコブラで、ほぼ確実に毒で。\n\nエジプトは包囲なしに陥落する。財宝は——そのほとんどが——無傷だ。あなたは32歳で、世界を支配している。4年後、元老院はあなたにアウグストゥスの称号を与えるだろう。あなたが構築しようとしている帝国は、一形態または別の形態で、さらに1500年続くだろう。",
+        "zh-CN": "你慷慨地接待投降的军团长——士兵保留他们的武器，军官保留他们的军衔，你承诺战役结束时在意大利给予土地。军团欢呼。一周内，安东尼的19个军团变成了你的19个军团。\n\n你在数天内乘船前往埃及。战役迅速且几乎没有流血——安东尼在埃及的剩余部队在你的舰队接近时崩溃。安东尼本人收到克利奥帕特拉已经死亡的错误报告，在他能得知真相之前就倒在了自己的剑上。他被抬到克利奥帕特拉的避难所，在她的怀抱中死去。\n\n克利奥帕特拉与你谈判了数天——她希望你允许她保留某种王室尊严，也许是在你新秩序中的某个角色。当她明白自己将被带到罗马走在你的凯旋仪式中时，她结束了自己的生命。传说是以眼镜蛇，大概率是以毒药。\n\n埃及不经围城便陷落了。国库——大部分——完好无损。你32岁，统治着世界。四年后，元老院将给你奥古斯都的称号。你即将建立的帝国将以这种或那种形式再延续1500年。"
+      },
+      "stateChanges": [
+        { "variable": "politicalLegitimacy", "operation": "add", "value": 30 },
+        { "variable": "treasureSecurity", "operation": "set", "value": 90 },
+        { "variable": "fleetReadiness", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Punish the disloyal — make examples of Antony's officers to prevent future betrayals",
+        "ja": "不忠実な者を罰する――将来の裏切りを防ぐためにアントニウスの将校を見せしめにする",
+        "zh-CN": "惩罚不忠者——将安东尼的军官作为警示以防止未来的背叛"
+      },
+      "description": {
+        "en": "These men fought against you for years and only surrender now that they have no choice. Grant terms to the common soldiers but make examples of the senior officers — fines, loss of rank, public humiliation, in the worst cases execution of those who cannot claim they were merely following orders. Send a message that disloyalty to Rome, and to you, has consequences.",
+        "ja": "これらの男たちは何年もあなたに対して戦い、選択肢がなくなった今だけ降伏する。一般兵士には条件を与えるが、上級将校を見せしめにする——罰金、階級の剥奪、公開の屈辱、最悪の場合は命令に従っただけとは言えない者の処刑。ローマへの、そしてあなたへの不忠実は結果があるというメッセージを送る。",
+        "zh-CN": "这些人多年来与你为敌，只有在别无选择时才投降。给普通士兵提供条件，但将高级军官作为警示——罚款、剥夺军衔、公开羞辱，最糟糕的情况下处决那些无法声称自己只是奉命行事的人。传达一个信息：对罗马、对你的不忠有后果。"
+      },
+      "historicalContext": "This is the counterfactual — the historical Octavian was notably clemency-focused, having learned from the example of Julius Caesar (whose clemency paradoxically contributed to his assassination, as his enemies were alive to conspire). However, Augustus's clemency was strategic, not sentimental. Punishing surrendering soldiers would have been militarily unwise and politically damaging, extending the resentment that fueled the civil wars rather than ending it.",
+      "outcomePrompt": {
+        "en": "You make examples. Several of Antony's senior officers are publicly stripped of rank; two are executed. The soldiers watch in sullen silence. They surrender on your terms — they have no choice — but the sullenness is palpable. These men will serve in your army, but they will not love you.\n\nWord of your treatment of the surrendering officers spreads east. Alexandria receives it with alarm. Cleopatra, learning what fate awaits Antony's officers, fears what awaits her. She accelerates her preparations to flee to the Red Sea.\n\nThe Egypt campaign becomes more complex than expected. Cleopatra's treasury fleet has already sailed when you arrive — ships loaded with treasure heading for ports in Arabia and beyond. You intercept some, but a significant portion of the Egyptian gold is gone, scattered across the eastern trade networks where it will fund future rivals for generations.\n\nYou take Egypt, and Antony and Cleopatra both die. But the campaign takes months longer than it needed to, and the wealth that should have funded your new order has partly vanished. The empire you build is slightly poorer for your decision at Actium. History will remember you as Augustus — but the scholars will note that you made mistakes before you became wise.",
+        "ja": "あなたは見せしめを作る。アントニウスの上級将校数人が公開で階級を剥奪され、二人が処刑される。兵士たちは不機嫌な沈黙の中で見ている。彼らはあなたの条件で降伏する——選択肢がないから——しかし不機嫌さは明白だ。これらの男たちはあなたの軍に仕えるが、あなたを愛しはしない。\n\n降伏将校への扱いの知らせが東に広まる。アレクサンドリアはそれを不安とともに受け取る。アントニウスの将校たちにどんな運命が待っているかを知ったクレオパトラは、自分には何が待っているかを恐れる。彼女は紅海に逃げる準備を加速させる。\n\nエジプト遠征は予想より複雑になる。あなたが到着した時、クレオパトラの財宝艦隊はすでに出帆している——アラビアやその先の港に向かって財宝を積んだ船。いくつかは迎撃するが、エジプトの金の相当部分は消え、東方の交易ネットワーク全体に散らばり、世代にわたって将来のライバルに資金を供給する。\n\nエジプトを取り、アントニウスとクレオパトラはどちらも死ぬ。しかし作戦は必要以上に数ヶ月長くかかり、あなたの新しい秩序に資金を供給すべきだった富の一部は消えてしまった。あなたが構築する帝国は、アクティウムでのあなたの決断のために、わずかに貧しい。歴史はあなたをアウグストゥスとして記憶するだろう——しかし学者たちはあなたが賢明になる前に過ちを犯したことに気づくだろう。",
+        "zh-CN": "你制造了警示。安东尼的几位高级军官被公开剥夺军衔；两人被处决。士兵们以阴郁的沉默旁观。他们按你的条件投降——他们别无选择——但阴郁是显而易见的。这些人将在你的军队中服役，但不会爱戴你。\n\n你对投降军官处置的消息向东传播。亚历山大城以惊恐接收到这个消息。克利奥帕特拉得知安东尼军官等待的命运后，恐惧自己等待的命运。她加速准备逃往红海。\n\n埃及战役比预期更为复杂。当你抵达时，克利奥帕特拉的财宝船队已经起航——满载财宝驶向阿拉伯和更远地方的港口。你拦截了一些，但相当部分的埃及黄金消失了，散布在东方贸易网络中，将为数代人中未来的竞争对手提供资金。\n\n你攻取了埃及，安东尼和克利奥帕特拉都死了。但战役比需要的时间长了好几个月，本应资助你新秩序的财富部分消失了。你建立的帝国因为你在亚克兴的决定而略显贫乏。历史将记住你为奥古斯都——但学者们会注意到在你变得睿智之前曾犯下错误。"
+      },
+      "stateChanges": [
+        { "variable": "politicalLegitimacy", "operation": "add", "value": -10 },
+        { "variable": "treasureSecurity", "operation": "add", "value": -30 },
+        { "variable": "navalSuperiority", "operation": "add", "value": 5 }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

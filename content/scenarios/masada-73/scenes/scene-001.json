@@ -1,0 +1,114 @@
+{
+  "id": "masada-73-scene-001",
+  "scenarioId": "masada-73",
+  "title": {
+    "en": "The Ramp Rises",
+    "ja": "傾斜路の上昇",
+    "zh-CN": "坡道渐起"
+  },
+  "date": {
+    "en": "Late 72 AD",
+    "ja": "紀元72年末",
+    "zh-CN": "公元72年末"
+  },
+  "location": {
+    "en": "Masada Fortress, Western Ramparts",
+    "ja": "マサダ要塞、西側城壁",
+    "zh-CN": "马萨达要塞西侧城墙"
+  },
+  "narrativePrompt": {
+    "en": "Eleazar ben Ya'ir stands on the western edge of Masada's plateau, watching the Roman siege works below. The view is both awe-inspiring and horrifying. Eight Roman camps are arranged with geometric precision around the base of the mountain, connected by a continuous wall that seals every goat path and crevice. The Tenth Legion has transformed the wilderness into a military city. And on the western slope, the ramp is growing. Day after day, columns of enslaved Jewish prisoners — men Eleazar may have known in Jerusalem, in the markets, in the Temple — haul baskets of earth and stone up the natural spur, packing it into a steadily rising causeway aimed directly at Masada's casemate wall. The defenders have tried dropping rocks and firing arrows at the workers, but Silva has placed the Jewish slaves at the most exposed positions, knowing that Eleazar's men will hesitate to kill their own people. A council of the defenders has gathered in Herod's old western palace. The question before them is stark: should they attempt to disrupt the ramp construction, accepting that Jewish slaves will die in the process, or focus their efforts on strengthening the walls and preparing for the assault that will eventually come? Some argue for a daring night raid down the Snake Path to attack the Roman supply lines instead.",
+    "ja": "エレアザル・ベン・ヤイルはマサダの台地の西端に立ち、眼下のローマ軍の包囲工事を見つめている。その光景は畏敬と恐怖の両方を呼び起こす。八つのローマ陣地が山の麓に幾何学的な正確さで配置され、すべての小道と裂け目を封じる連続した壁で結ばれている。第十軍団は荒野を軍事都市に変えた。そして西側の斜面では傾斜路が伸びている。来る日も来る日も、奴隷にされたユダヤ人捕虜の列が——エレアザルがエルサレムで、市場で、神殿で知っていたかもしれない人々が——土と石の籠を自然の岩棚の上に運び、マサダの二重壁に向けて着実に上昇する土手道に詰めている。守備側は労働者に岩を落とし矢を射ようとしたが、シルウァはユダヤ人奴隷を最も露出した位置に配置した——エレアザルの部下が同胞を殺すことを躊躇すると知っているからだ。守備者の評議会がヘロデの旧西宮殿に集まった。彼らの前にある問題は明白だ：傾斜路の建設を妨害し、その過程でユダヤ人奴隷が死ぬことを受け入れるか、壁の強化とやがて来る攻撃への準備に専念するか？一部はローマの補給線を攻撃するため蛇の道を下る大胆な夜襲を主張している。",
+    "zh-CN": "埃莱亚扎尔·本·亚伊尔站在马萨达高原的西缘，注视着下方的罗马围城工事。眼前的景象既令人敬畏又令人恐惧。八座罗马营地以几何般的精确围绕山脚布置，由一道连续的围墙连接，封锁了每一条羊肠小道和岩缝。第十军团已将荒野变成了一座军事城市。而在西面山坡上，坡道正在不断升高。日复一日，一队队被奴役的犹太俘虏——也许是埃莱亚扎尔在耶路撒冷的集市上、在圣殿中认识的人——背着装满泥土和石块的篮筐沿着天然山脊攀爬，将其夯实成一条稳步升高的堤道，直指马萨达的双层城墙。守军曾尝试向工人投掷石块和射箭，但席尔瓦将犹太奴隶安排在最暴露的位置，深知埃莱亚扎尔的人会犹豫不忍杀害自己的同胞。守军的议事会已在希律旧西宫集合。摆在他们面前的问题很残酷：是否应当试图破坏坡道建设，接受犹太奴隶会在此过程中丧生的事实；还是集中力量加固城墙，为终将到来的进攻做准备？有人主张趁夜沿蛇道下山大胆突袭罗马补给线。"
+  },
+  "situationReport": [
+    {
+      "en": "The Roman siege ramp on the western slope has reached roughly one-third of its required height",
+      "ja": "西側斜面のローマ軍攻城傾斜路は必要な高さの約3分の1に達した",
+      "zh-CN": "西坡的罗马攻城坡道已达到所需高度的约三分之一"
+    },
+    {
+      "en": "Approximately 960 Jewish defenders occupy the fortress, including women, children, and elderly",
+      "ja": "女性、子供、高齢者を含む約960人のユダヤ人守備者が要塞を占拠している",
+      "zh-CN": "约960名犹太守军占据要塞，包括妇女、儿童和老人"
+    },
+    {
+      "en": "Food stores remain abundant — Herod's storerooms hold grain, oil, wine, and dates sufficient for years",
+      "ja": "食糧は豊富——ヘロデの倉庫には穀物、油、ワイン、ナツメヤシが何年分も蓄えられている",
+      "zh-CN": "食物储备充足——希律的仓库中储有足够数年使用的谷物、油、酒和椰枣"
+    },
+    {
+      "en": "Silva is using Jewish prisoners as laborers on the ramp, making attacks on the construction morally agonizing",
+      "ja": "シルウァはユダヤ人捕虜を傾斜路の労働者として使っており、建設への攻撃は道徳的に苦悩を伴う",
+      "zh-CN": "席尔瓦使用犹太俘虏作为坡道劳工，使对施工的攻击在道德上令人痛苦"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide how to respond to the advancing Roman siege ramp",
+      "ja": "前進するローマの攻城傾斜路にどう対応するかを決める",
+      "zh-CN": "决定如何应对不断推进的罗马攻城坡道"
+    },
+    {
+      "en": "Maintain unity among the diverse group of defenders sheltering at Masada",
+      "ja": "マサダに避難している多様な守備者集団の結束を維持する",
+      "zh-CN": "维持马萨达避难守军中不同群体之间的团结"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Attacking the ramp means accepting Jewish slave casualties — this will tear at the defenders' conscience and unity",
+      "ja": "傾斜路を攻撃すればユダヤ人奴隷の犠牲を受け入れることになる——これは守備者の良心と結束を引き裂く",
+      "zh-CN": "攻击坡道意味着接受犹太奴隶的伤亡——这将撕裂守军的良知与团结"
+    },
+    {
+      "en": "Any sortie risks losing irreplaceable fighters — there are no reinforcements",
+      "ja": "出撃はかけがえのない戦士を失う危険がある——援軍はいない",
+      "zh-CN": "任何出击都有失去不可替代战士的风险——没有增援"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Focus on fortifying the walls. Strengthen the casemate defenses and build an inner wall of earth and timber. Let the ramp come — we will make them bleed when they reach the top.",
+        "ja": "壁の強化に集中する。二重壁の防御を強化し、土と木材の内壁を築く。傾斜路が来るに任せよ——彼らが頂上に達したとき血を流させる。",
+        "zh-CN": "集中力量加固城墙。强化双层城墙防御并用泥土和木材修建内墙。让坡道修上来吧——等他们到达顶部时，我们会让他们付出血的代价。"
+      },
+      "historicalContext": "Historically, the defenders did construct an inner wall of earth and timber as a secondary defense, which proved effective at absorbing the battering ram's blows until the Romans set it alight.",
+      "outcomePrompt": {
+        "en": "Eleazar orders all able-bodied defenders to focus on preparing for the inevitable assault. Working in shifts through the desert heat, they reinforce the casemate wall with packed earth and construct a secondary rampart of timber and soil behind it. The design is ingenious — where stone shatters under a battering ram, earth absorbs the blow and can be repacked. Women and older children carry baskets of rubble and soil. The old storerooms of Herod are repurposed as defensive positions. Meanwhile, the ramp continues to rise unchallenged. Some fighters grumble that they are merely waiting to die, but Eleazar argues that every day the Romans spend building is a day Masada endures. The unity of the defenders holds, barely. Months pass. The ramp grows taller. By spring, the Romans begin hauling their siege tower into position, and the shadow of the iron-clad battering ram falls across Masada's western wall for the first time.",
+        "ja": "エレアザルは全ての戦闘可能な守備者に、避けられない攻撃への準備に集中するよう命じる。砂漠の暑さの中で交代制で作業し、二重壁を詰めた土で強化し、その背後に木材と土の二次的な防壁を建設する。設計は巧みだ——石は破城槌で砕けるが、土は衝撃を吸収し、詰め直すことができる。女性と年長の子供が瓦礫と土の籠を運ぶ。ヘロデの旧倉庫は防御陣地に転用される。一方、傾斜路は妨害されることなく上昇を続ける。一部の戦士はただ死を待っているだけだと不満を漏らすが、エレアザルはローマ軍が建設に費やす一日一日がマサダが耐える一日だと主張する。守備者の結束はかろうじて保たれる。数ヶ月が過ぎる。傾斜路はさらに高くなる。春までにローマ軍は攻城塔を所定の位置に運び始め、鉄で覆われた破城槌の影がマサダの西壁に初めて落ちる。",
+        "zh-CN": "埃莱亚扎尔命令所有能战斗的守军集中精力为不可避免的进攻做准备。在沙漠的酷热中轮班作业，他们用夯实的泥土加固双层城墙，并在其后方用木材和泥土修建第二道防线。这个设计很巧妙——石头在攻城槌下会碎裂，泥土却能吸收冲击并可以重新夯实。妇女和年纪较大的孩子搬运碎石和泥土。希律的旧仓库被改造成防御阵地。与此同时，坡道在无人阻挡下继续升高。一些战士抱怨他们只是在等死，但埃莱亚扎尔争辩说罗马人花在建设上的每一天都是马萨达多坚持的一天。守军的团结勉强维持。数月过去。坡道越来越高。到了春天，罗马人开始将攻城塔运到位置上，铁甲攻城槌的阴影第一次落在马萨达的西墙上。"
+      },
+      "nextSceneId": "masada-73-scene-002",
+      "stateChanges": [
+        { "variable": "defenderMorale", "operation": "add", "value": -5 },
+        { "variable": "rampProgress", "operation": "add", "value": 40 },
+        { "variable": "defenderUnity", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Strike the ramp. Use fire and rockfalls at night to destroy months of construction. The slaves will be moved out of the way after dark — Silva cannot force them to work without daylight.",
+        "ja": "傾斜路を攻撃する。夜間に火と落石で数ヶ月の建設を破壊する。奴隷は暗くなれば移動させられる——シルウァは日光なしに彼らを働かせることはできない。",
+        "zh-CN": "打击坡道。利用夜间纵火和落石摧毁数月的建设成果。天黑后奴隶会被撤走——席尔瓦不能在没有日光的情况下强迫他们工作。"
+      },
+      "historicalContext": "There is limited historical evidence of major defensive sorties from Masada, though Josephus mentions the defenders harassing the construction. The ramp was ultimately completed despite any resistance.",
+      "outcomePrompt": {
+        "en": "Under cover of darkness, Eleazar leads a hand-picked team of fighters down the treacherous western slope to where the ramp meets the natural rock spur. They carry skins of oil, bundles of kindling, and heavy stones. The night raids prove partially effective — fires damage the timber framework supporting the earthen ramp, and cascades of boulders crush sections of the compacted surface. But the cost is high. On the third night raid, a Roman ambush kills eight defenders, including two of Eleazar's best fighters. Silva responds by posting permanent night guards with torches and stationing Jewish slaves in shelters along the ramp even after dark, daring the defenders to attack through their own people. The raids slow the ramp's progress by perhaps two months, but they cannot stop it. The defenders who participated in the raids are haunted by the screams of slaves caught in the rockfalls. Tensions rise inside the fortress between those who support aggressive action and those who condemn the cost. The ramp continues to grow, and by spring the Romans bring up their siege engines.",
+        "ja": "夜陰に乗じてエレアザルは精鋭の戦士チームを率いて危険な西側の斜面を下り、傾斜路が自然の岩棚と接する場所に向かう。油の入った革袋、焚き付けの束、重い石を持っている。夜襲は部分的に効果を上げる——火は土の傾斜路を支える木材の骨組みを損傷し、岩石の落下が固められた表面の一部を押し潰す。しかし代償は高い。3回目の夜襲でローマ軍の待ち伏せにより、エレアザルの最良の戦士2人を含む8人の守備者が殺される。シルウァは松明を持つ常駐の夜間警備を配置し、暗くなった後も傾斜路沿いの避難所にユダヤ人奴隷を配置して対応する——守備者が同胞を越えて攻撃することを挑発しているのだ。襲撃は傾斜路の進行をおそらく2ヶ月遅らせるが、止めることはできない。襲撃に参加した守備者は落石に巻き込まれた奴隷の叫び声に悩まされる。積極的な行動を支持する者と代償を非難する者の間で要塞内の緊張が高まる。傾斜路は成長を続け、春までにローマ軍は攻城兵器を運び上げる。",
+        "zh-CN": "在夜色掩护下，埃莱亚扎尔率领一支精挑细选的战士小队沿险峻的西坡下行，到达坡道与天然岩脊交汇处。他们携带装油的皮囊、引火物和重石。夜袭取得了部分成效——大火损坏了支撑土质坡道的木质框架，倾泻的巨石压碎了夯实表面的一些部分。但代价高昂。第三次夜袭时，一次罗马伏击杀死了八名守军，其中包括埃莱亚扎尔手下两名最优秀的战士。席尔瓦以在坡道配置举火把的永久夜间守卫作为回应，甚至在天黑后也将犹太奴隶留在坡道沿线的掩体中，挑衅守军穿过自己的同胞发动攻击。突袭或许将坡道的进度延缓了两个月，但无法阻止它。参与突袭的守军被落石中奴隶的惨叫声所困扰。要塞内部支持积极行动者与谴责其代价者之间的紧张关系加剧。坡道继续增长，到了春天罗马人运来了攻城器械。"
+      },
+      "nextSceneId": "masada-73-scene-002",
+      "stateChanges": [
+        { "variable": "defenderMorale", "operation": "add", "value": 5 },
+        { "variable": "rampProgress", "operation": "add", "value": 25 },
+        { "variable": "defenderUnity", "operation": "add", "value": -15 },
+        { "variable": "foodSupply", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

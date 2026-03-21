@@ -1,0 +1,115 @@
+{
+  "id": "teutoburg-forest-9ad-scene-003",
+  "scenarioId": "teutoburg-forest-9ad",
+  "title": {
+    "en": "The Final Stand",
+    "ja": "最後の抵抗",
+    "zh-CN": "最后的抵抗"
+  },
+  "date": {
+    "en": "September 3, 9 AD",
+    "ja": "西暦9年9月3日",
+    "zh-CN": "公元9年9月3日"
+  },
+  "location": {
+    "en": "Eastern Teutoburg Forest, near Kalkriese Hill, Germania",
+    "ja": "ゲルマニア、カルクリーゼの丘付近、トイトブルク森の東部",
+    "zh-CN": "日耳曼尼亚，条顿堡森林东部，卡尔克里泽山丘附近"
+  },
+  "narrativePrompt": {
+    "en": "The third and final day. Your legions are battered, exhausted, and running low on supplies. The rain has not relented, and the forest floor is a treacherous swamp. What remains of your force—perhaps ten thousand men still able to fight—stands at the edge of a narrow passage between Kalkriese Hill and a vast, impassable bog. The Germanic forces have constructed an elaborate system of earthen walls and ditches along the hillside, creating a gauntlet of death that any force must pass through to reach the open country beyond.\n\nThe situation is as dire as any Roman commander has ever faced. Your cavalry, once numbering over a thousand, has been reduced to a few hundred, and their horses are stumbling with exhaustion. Your infantry, the backbone of Roman military power, can barely lift their waterlogged shields. The wounded fill the center of your column, their groans a constant reminder of the cost of this march. Your officers look to you with eyes that hold little hope but unwavering duty.\n\nArminius himself has been seen on the ridgeline, directing his warriors with the tactical skill he learned in Roman service. His forces are fresh, well-fed, and fighting on ground of their choosing. They know these forests as intimately as your legionaries know the drill field. Every advantage is theirs.\n\nYet you are still a Roman commander, and the legions of Rome do not simply surrender. You must decide how this ends. Your remaining cavalry commander offers one final option: he can lead a mounted breakout with the surviving cavalry and any infantry who can keep pace, sacrificing the wounded and the baggage train but potentially saving a core of trained soldiers who can reach the Rhine and warn the garrison. Alternatively, you can form your remaining legions into a hollow square—the ultimate Roman defensive formation—and make your stand here, selling every life as dearly as possible and hoping that sheer Roman stubbornness will break the Germanic will to fight. Neither option offers much hope, but a Roman commander must choose.",
+    "ja": "三日目にして最終日。あなたの軍団は疲弊し、消耗し、補給が底をつきつつある。雨はやまず、森の地面は危険な沼地と化している。残存兵力——まだ戦える約一万人——はカルクリーゼの丘と広大な通行不能の沼沢との間の狭い通路の縁に立っている。ゲルマン軍は丘の斜面に沿って精巧な土壁と溝のシステムを構築し、その向こうの開けた土地に到達するには通過しなければならない死の回廊を作り出している。\n\n状況はかつてのいかなるローマ指揮官が直面したものにも匹敵するほど絶望的だ。かつて千騎以上を数えた騎兵は数百騎にまで減り、馬は疲労でよろめいている。ローマの軍事力の屋台骨である歩兵は、水を含んだ盾をかろうじて持ち上げる有様だ。負傷者が縦隊の中央を埋め尽くし、その呻き声がこの行軍の代償を絶えず思い出させる。将校たちは希望はほとんどないが揺るぎない義務感を持った目であなたを見ている。\n\nアルミニウス自身が尾根線上に姿を現し、ローマ軍務で学んだ戦術的技量でその戦士たちを指揮しているのが目撃されている。彼の軍勢は新鮮で、十分に食べ、自ら選んだ地形で戦っている。軍団兵が練兵場を知るように、彼らはこの森を隅々まで知っている。あらゆる利点が彼らにある。\n\nしかし、あなたは依然としてローマの指揮官であり、ローマの軍団は単に降伏はしない。あなたはこれがどう終わるかを決めなければならない。残りの騎兵指揮官が最後の選択肢を提示する：生き残った騎兵と追いつける歩兵で騎馬突破を行い、負傷者と輜重隊を犠牲にするが、ラインに到達して守備隊に警告できる訓練された兵士の核を救える可能性がある。あるいは、残りの軍団を方形陣——ローマ最後の防御隊形——に組み、ここで最後の抵抗を行い、すべての命をできる限り高く売り、ローマの不屈の精神がゲルマンの戦意を挫くことを期待することもできる。どちらの選択肢も大きな希望は持てないが、ローマの指揮官は選ばなければならない。",
+    "zh-CN": "第三天，也是最后一天。你的军团伤痕累累、精疲力竭，补给即将耗尽。雨没有停歇，森林地面成了危险的沼泽。你剩余的兵力——大约还有一万人能够作战——站在卡尔克里泽山丘和一片广阔的不可通行的沼泽之间的狭窄通道边缘。日耳曼军队沿着山坡构建了一套精心设计的土墙和壕沟系统，创造了一条死亡走廊，任何部队要到达前方的开阔地带都必须通过这里。\n\n局势之危急，堪比任何罗马指挥官曾面对过的困境。你的骑兵曾经有一千多人，现在只剩几百人，战马因疲惫而踉跄。你的步兵——罗马军事力量的支柱——几乎举不起浸透水的盾牌。伤员填满了纵队的中央，他们的呻吟不断提醒着这次行军的代价。你的军官们用几乎没有希望但依然坚定尽责的眼神看着你。\n\n阿米尼乌斯本人已被发现出现在山脊上，以他在罗马军中学到的战术技巧指挥着他的战士。他的部队精力充沛、给养充足，在他们自己选择的地形上作战。他们对这些森林的熟悉程度，就像你的军团士兵熟悉操练场一样。所有的优势都在他们一方。\n\n然而，你仍然是一名罗马指挥官，罗马军团不会轻易投降。你必须决定这一切如何收场。你剩余的骑兵指挥官提出了最后一个选择：他可以率领幸存的骑兵和能跟上速度的步兵进行骑马突围，牺牲伤员和辎重队，但有可能保住一批训练有素的士兵到达莱茵河并警告驻军。或者，你可以将剩余的军团组成方阵——罗马最终极的防御阵型——在这里进行最后的抵抗，尽可能让每条生命卖个高价，寄望于罗马人的顽强意志能击垮日耳曼人的战斗意志。两个选择都看不到多少希望，但罗马指挥官必须做出选择。"
+  },
+  "situationReport": [
+    {
+      "en": "Approximately 10,000 Roman soldiers remain combat-capable out of the original 20,000. The rest are dead, wounded, or have deserted.",
+      "ja": "原来の二万人のうち、約一万人のローマ兵が戦闘可能な状態で残っている。残りは戦死、負傷、または脱走した。",
+      "zh-CN": "原来两万名罗马士兵中，约一万人仍具备战斗力。其余的已经阵亡、负伤或逃散。"
+    },
+    {
+      "en": "The passage ahead is approximately 400 yards long, flanked by the hill on the left and impassable bog on the right, with Germanic earthworks blocking the far end.",
+      "ja": "前方の通路は約400ヤードの長さで、左は丘、右は通行不能の沼沢に挟まれ、遠端はゲルマンの土塁で塞がれている。",
+      "zh-CN": "前方的通道约四百码长，左侧是山丘，右侧是不可通行的沼泽，远端被日耳曼土墙封锁。"
+    },
+    {
+      "en": "Supplies are nearly exhausted—the army has food for less than one day and many soldiers have discarded their waterlogged packs to lighten their load.",
+      "ja": "補給はほぼ尽きている——軍の食料は一日分にも満たず、多くの兵士が荷を軽くするため水浸しの荷物を捨てている。",
+      "zh-CN": "补给几乎耗尽——军队的食物不到一天的量，许多士兵已经丢弃了浸水的背包以减轻负担。"
+    },
+    {
+      "en": "Arminius commands an estimated 20,000+ warriors occupying superior positions on the hillside and blocking the exit from the forest.",
+      "ja": "アルミニウスは推定二万人以上の戦士を率い、丘の斜面の優位な位置を占め、森からの出口を塞いでいる。",
+      "zh-CN": "阿米尼乌斯指挥着估计两万多名战士，占据山坡上的有利位置，封锁了森林的出口。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Determine the final fate of your legions: attempt a fighting breakout or make a last stand",
+      "ja": "軍団の最終的な運命を決定する：戦闘突破を試みるか、最後の抵抗を行うか",
+      "zh-CN": "决定你的军团的最终命运：尝试战斗突围还是进行最后的抵抗"
+    },
+    {
+      "en": "Preserve as many Roman lives as possible and deny the enemy a total victory",
+      "ja": "できるだけ多くのローマ兵の命を守り、敵の完全勝利を阻止する",
+      "zh-CN": "尽可能多地保存罗马人的生命，阻止敌人取得全面胜利"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your troops are exhausted, hungry, and demoralized after three days of continuous fighting and marching in the rain",
+      "ja": "三日間の連続した戦闘と雨中の行軍で、兵士たちは疲労困憊し、空腹で、士気が低下している",
+      "zh-CN": "经过三天连续的战斗和雨中行军，你的部队精疲力竭、饥饿不堪、士气低落"
+    },
+    {
+      "en": "Abandoning the wounded goes against Roman military tradition and will devastate morale among the survivors",
+      "ja": "負傷者の放棄はローマの軍事的伝統に反し、生存者の士気を壊滅的に低下させる",
+      "zh-CN": "抛弃伤员违反罗马军事传统，会严重打击幸存者的士气"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Order a cavalry-led breakout toward the Rhine. The mounted troops and fastest infantry will attempt to cut through the Germanic lines, sacrificing the rearguard to save a remnant of the army.",
+        "ja": "ラインに向けた騎兵主導の突破を命じる。騎馬部隊と最速の歩兵がゲルマン軍の防衛線を突破し、軍の一部を救うために後衛を犠牲にする。",
+        "zh-CN": "命令骑兵率领突围，向莱茵河方向突破。骑兵和最快的步兵将试图切穿日耳曼防线，牺牲后卫以保住军队的一部分。"
+      },
+      "historicalContext": "Some Roman cavalry did manage to escape the battle by riding through gaps in the Germanic lines. The cavalry commander Numonius Vala attempted to flee with the cavalry but was caught and killed. Only a handful of individuals escaped to bring news of the disaster to the Rhine.",
+      "outcomePrompt": {
+        "en": "You make the hardest decision of your career. The cavalry forms up at the front of the column, and behind them, the strongest remaining infantry cohorts prepare to follow in their wake. You address the rearguard—the men who will stay behind to hold the line and buy time for the breakout. Their faces show a mixture of resignation and fierce Roman pride. Many salute you; some clasp arms with comrades they know they will never see again.\n\nThe charge begins at dawn, erupting from your lines like a thunderbolt. The Roman cavalry crashes into the Germanic warriors blocking the passage, and for a moment, sheer momentum carries them through. The infantry follows, pouring through the gap in a desperate stream. The Germanic warriors recover quickly, and the passage becomes a slaughtering ground—men falling on both sides in savage hand-to-hand combat. Behind you, the rearguard forms its final shield wall and begins to sing the legionary hymn as the Germanic warriors close in.\n\nThe breakout partially succeeds. Perhaps three thousand men—cavalry and the fastest legionaries—punch through and begin the desperate march toward the Rhine. But the cost is staggering. The rearguard is overwhelmed and destroyed. Thousands of wounded are left behind. The legion eagles are lost in the chaos. As you ride west with the survivors, you can hear the sounds of the final battle fading behind you—the clash of iron, the screams of the dying, and then, eventually, silence. You have saved a fraction of your army, but three proud legions have been effectively destroyed, and Rome will never be the same.",
+        "ja": "あなたは経歴で最も困難な決断を下す。騎兵が縦隊の先頭に整列し、その後ろで最も強力な残存歩兵大隊がその後に続く準備をする。あなたは後衛に語りかける——突破のための時間を稼ぐべく留まって防衛線を守る兵士たちだ。彼らの顔には諦念とローマ人としての激しい誇りが入り混じっている。多くがあなたに敬礼し、二度と会えないと知る戦友と腕を組む者もいる。\n\n突撃は夜明けに始まり、雷光のように防衛線から飛び出す。ローマ騎兵が通路を塞ぐゲルマン戦士に激突し、一瞬、純粋な勢いで突き抜ける。歩兵が続き、必死の奔流となって隙間に殺到する。ゲルマン戦士たちはすぐに立ち直り、通路は殺戮の場と化す——両軍の兵士が壮絶な白兵戦で倒れていく。背後では後衛が最後の盾の壁を組み、ゲルマン戦士たちが迫る中、軍団讃歌を歌い始める。\n\n突破は部分的に成功する。約三千人——騎兵と最速の軍団兵——が突き抜け、ラインへの必死の行軍を開始する。だが代価は途方もない。後衛は圧倒され殲滅される。数千人の負傷者が置き去りにされる。軍団の鷲旗は混乱の中で失われる。生存者とともに西に馬を走らせながら、背後で最後の戦いの音が薄れていくのが聞こえる——鉄の激突、瀕死の者の叫び、そして最終的には沈黙。あなたは軍の一部を救ったが、三つの誇り高い軍団は事実上壊滅し、ローマはもう二度と同じではなくなる。",
+        "zh-CN": "你做出了职业生涯中最艰难的决定。骑兵在纵队前方列阵，身后是最强壮的剩余步兵大队准备跟进。你向后卫讲话——那些将留下坚守防线、为突围争取时间的士兵们。他们的脸上混合着无奈和激烈的罗马式自豪。许多人向你敬礼；一些人与他们知道永远不会再见的战友紧紧握手。\n\n冲锋在黎明时分开始，如雷霆般从阵线中爆发。罗马骑兵撞向封锁通道的日耳曼战士，一瞬间，纯粹的冲击力将他们冲了过去。步兵紧随其后，以绝望的洪流涌过缺口。日耳曼战士迅速恢复，通道变成了屠杀场——双方的人在野蛮的肉搏战中纷纷倒下。在你身后，后卫组成了最后的盾墙，在日耳曼战士逼近时开始唱起军团战歌。\n\n突围取得了部分成功。大约三千人——骑兵和最快的军团士兵——冲了出来，开始向莱茵河的绝望行军。但代价是惊人的。后卫被压倒并被消灭。数千名伤员被留下。军团鹰旗在混乱中丢失。当你与幸存者一起向西骑行时，你能听到身后最后战斗的声音逐渐消退——铁器的碰撞、垂死者的呐喊，然后，最终，是寂静。你挽救了军队的一小部分，但三个骄傲的军团已被实际上消灭，罗马将永远不再是从前的模样。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "legionMorale", "operation": "add", "value": -10 },
+        { "variable": "formationIntegrity", "operation": "add", "value": -30 },
+        { "variable": "casualtyRate", "operation": "add", "value": 30 },
+        { "variable": "supplyStatus", "operation": "add", "value": -20 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Form the remaining legions into a hollow square and make a final stand. Sell every Roman life as dearly as possible and fight to the last man.",
+        "ja": "残りの軍団を方形陣に組み、最後の抵抗を行う。すべてのローマ兵の命をできる限り高く売り、最後の一人まで戦う。",
+        "zh-CN": "将剩余军团组成方阵，进行最后的抵抗。尽可能让每条罗马人的生命卖个高价，战斗到最后一人。"
+      },
+      "historicalContext": "In the actual battle, the Roman army's cohesion collapsed completely on the third day. Varus and his senior officers committed suicide rather than face capture, and the remaining soldiers were killed or captured piecemeal. There was no organized last stand.",
+      "outcomePrompt": {
+        "en": "You will not run. You will not abandon your men. The order goes out: form the square. The remnants of three once-proud legions draw together in the ancient formation, shields locked outward, the wounded sheltered in the center. The eagle-bearers plant their standards in the mud at the heart of the square, and the men close ranks around them. There will be no retreat from this place.\n\nThe Germanic assault comes like a tide. Thousands of warriors surge down from the hillside and up from the marshland, crashing against the Roman shield wall from every direction. The legionaries fight with the grim determination of men who know they are already dead—every thrust of the gladius is precise, every shield bash delivered with savage efficiency. The square holds, contracts, holds again. Germanic warriors pile against the Roman shields, climbing over their own dead to reach the defenders. Hours pass in a blur of blood and iron.\n\nSlowly, inevitably, the square begins to shrink. The outer ranks fall and are replaced by the men behind them. The centurions die one by one, each falling at his post. You fight alongside your men until a javelin finds the gap between your neck guard and shoulder plate. As you fall, you see the eagle standards still standing above the carnage, defiant to the last. Your final thought is of Rome—of the Eternal City that will endure long after this forest has forgotten the blood soaked into its soil. The Battle of Teutoburg Forest is over. Rome has suffered its greatest defeat, but the legend of the legions' last stand will echo through the ages.",
+        "ja": "あなたは逃げない。兵士たちを見捨てない。命令が下される：方形陣を組め。かつて誇り高かった三個軍団の残存兵が古代の隊形に集結し、盾を外側に向けて連結し、負傷者を中央に収容する。鷲旗手たちが軍旗を方形陣の中心の泥に突き立て、兵士たちがその周りに密集する。この場所からの退却はない。\n\nゲルマン軍の突撃が潮のように押し寄せる。数千の戦士が丘の斜面から、そして湿地から殺到し、あらゆる方向からローマの盾の壁にぶつかる。軍団兵たちは自分たちがすでに死んでいることを知る者の冷厳な決意で戦う——グラディウスの一突き一突きが正確で、盾打ちの一撃一撃が野蛮な効率で繰り出される。方形陣は持ちこたえ、収縮し、再び持ちこたえる。ゲルマン戦士たちがローマの盾に押し寄せ、自軍の死者を乗り越えて防御者に達しようとする。血と鉄のぼやけた中で時間が過ぎる。\n\nゆっくりと、しかし確実に、方形陣は縮小し始める。外側の列が倒れ、後ろの者たちに代わられる。百人隊長たちが一人また一人と持ち場で倒れていく。あなたは兵士たちと共に戦い、投げ槍が首当てと肩甲の隙間を見つけるまで。倒れながら、あなたは鷲旗が殺戮の上にまだ立っているのを見る——最後まで不屈に。最後の思いはローマのことだ——この森がその土に染み込んだ血を忘れ去った後も長く存続する永遠の都のことだ。トイトブルク森の戦いは終わった。ローマは最大の敗北を喫したが、軍団の最後の抵抗の伝説は時代を超えてこだまし続けるだろう。",
+        "zh-CN": "你不会逃跑。你不会抛弃你的士兵。命令传达下去：组成方阵。三个曾经骄傲的军团残部聚拢成古老的阵型，盾牌向外连锁，伤员被庇护在中央。鹰旗手们将旗帜插入方阵中心的泥地中，士兵们紧密地围拢在旗帜周围。这个地方将没有退路。\n\n日耳曼人的冲锋如潮水般涌来。数千名战士从山坡上冲下，从沼泽地涌上来，从四面八方撞向罗马盾墙。军团士兵们以知道自己已经必死之人的冷峻决心战斗——短剑的每一次刺击都精准无比，盾牌的每一次撞击都以野蛮的效率完成。方阵坚守、收缩、再次坚守。日耳曼战士挤压着罗马盾牌，踩着自己人的尸体去够防守者。在血与铁的模糊中，数个小时过去了。\n\n缓慢地、不可避免地，方阵开始缩小。外层的士兵倒下，被身后的人替换。百夫长们一个接一个地在岗位上倒下。你与士兵们并肩作战，直到一根标枪找到了你颈甲和肩甲之间的缝隙。倒下时，你看到鹰旗仍然矗立在杀戮之上，至死不屈。你最后的念头是关于罗马的——关于那座永恒之城，它将在这片森林遗忘浸入土壤的鲜血之后长久存续。条顿堡森林战役结束了。罗马遭受了其最惨重的失败，但军团最后抵抗的传说将在岁月中回荡。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "legionMorale", "operation": "add", "value": 15 },
+        { "variable": "formationIntegrity", "operation": "add", "value": -40 },
+        { "variable": "casualtyRate", "operation": "add", "value": 50 },
+        { "variable": "supplyStatus", "operation": "add", "value": -30 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

@@ -1,0 +1,123 @@
+{
+  "id": "spartacus-revolt-73bc-scene-002",
+  "scenarioId": "spartacus-revolt-73bc",
+  "isTerminal": false,
+  "date": {
+    "en": "71 BC — Crassus's Wall",
+    "ja": "紀元前71年 — クラッサスの壁",
+    "zh-CN": "公元前71年——克拉苏的长墙"
+  },
+  "location": {
+    "en": "Bruttium, Southern Italy",
+    "ja": "イタリア南部、ブルッティウム",
+    "zh-CN": "意大利南部，布鲁提乌姆"
+  },
+  "title": {
+    "en": "Trapped",
+    "ja": "罠にはまる",
+    "zh-CN": "被困"
+  },
+  "narrativePrompt": {
+    "en": "Crassus has sealed you in. A ditch and wall 37 miles long cuts across the toe of Italy — your army is trapped in Bruttium. The Sicilian pirates you paid to transport your men to Sicily took the money and sailed away. Pompey is returning from Spain with veteran legions. Lucullus approaches from the east. In weeks, Rome's three best generals will have you surrounded. Your scouts say there is one weak point in Crassus's wall — a section built in winter, less reinforced. You have one chance to break through before the trap closes completely.",
+    "ja": "クラッサスはあなたを封鎖した。37マイルの溝と壁がイタリアの先端を横断する——あなたの軍はブルッティウムに閉じ込められている。シチリア島にあなたの兵士を輸送するために金を払ったシチリア人海賊は金を受け取って去った。ポンペイウスはベテランの軍団と共にスペインから戻ってきている。ルクッルスが東から接近している。数週間で、ローマの三人の最高の将軍があなたを包囲するだろう。偵察によるとクラッサスの壁に一つの弱点がある——冬に建設されたセクション、補強が少ない。罠が完全に閉じる前に突破する機会が一度だけある。",
+    "zh-CN": "克拉苏已将你封锁。一道37英里的壕沟和城墙横贯意大利靴尖——你的军队被困于布鲁提乌姆。你付钱让西西里海盗将你的士兵运往西西里，他们拿走钱后扬帆而去。庞培正带着久经战阵的军团从西班牙返回。卢库鲁斯从东方逼近。数周后，罗马三位最杰出的将领将围困你。你的侦察兵说克拉苏的城墙有一处薄弱点——冬天建造的一段，加固较少。在陷阱完全关闭之前，你只有一次突破的机会。"
+  },
+  "situationReport": [
+    {
+      "en": "Crassus's wall is 37 miles of ditch and rampart. Most of it is well-built. One section — in the mountains — was built hastily in winter and is less reinforced.",
+      "ja": "クラッサスの壁は37マイルの溝と土塁だ。その大部分はよく建設されている。山岳部の一つのセクション——冬に急いで建設され、補強が少ない。",
+      "zh-CN": "克拉苏的城墙是37英里的壕沟和土墙。大部分建造得很好。一段——在山区——冬天仓促建造，加固较少。"
+    },
+    {
+      "en": "Pompey arrives in approximately three weeks. Lucullus in two. After that, breaking out becomes impossible.",
+      "ja": "ポンペイウスは約三週間で到着する。ルクッルスは二週間後。その後は、突破が不可能になる。",
+      "zh-CN": "庞培大约三周后到达。卢库鲁斯两周后到。在此之后，突围变得不可能。"
+    },
+    {
+      "en": "Your army numbers approximately 60,000 after losses from disease and desertions. Morale is damaged but not broken.",
+      "ja": "病気と脱走による損失の後、あなたの軍は約60,000人だ。士気は傷ついているが崩壊していない。",
+      "zh-CN": "经过疾病和逃兵的损失，你的军队约有60,000人。士气受损但未崩溃。"
+    },
+    {
+      "en": "Crassus has 60,000 Roman soldiers — but they are spread along 37 miles of wall. At the weak point, concentration is possible.",
+      "ja": "クラッサスは60,000人のローマ兵を持つ——しかし彼らは37マイルの壁沿いに展開している。弱点では集中が可能だ。",
+      "zh-CN": "克拉苏有60,000名罗马士兵——但他们分散在37英里的城墙上。在薄弱点，集中兵力是可能的。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Break through Crassus's wall before Pompey and Lucullus arrive",
+      "ja": "ポンペイウスとルクッルスが到着する前にクラッサスの壁を突破する",
+      "zh-CN": "在庞培和卢库鲁斯到达之前突破克拉苏的城墙"
+    },
+    {
+      "en": "Keep the army together — a fragmented breakthrough is a massacre",
+      "ja": "軍を統一した状態に保つ——断片的な突破は虐殺だ",
+      "zh-CN": "保持军队完整——分散的突围是屠杀"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Surprise is critical — if Crassus learns where you plan to break through, he can reinforce before you arrive",
+      "ja": "奇襲が重要だ——クラッサスがどこで突破しようとしているか知れば、あなたが到着する前に増援できる",
+      "zh-CN": "奇袭至关重要——如果克拉苏知道你计划在哪里突破，他可以在你到达之前增援"
+    },
+    {
+      "en": "A night march through mountain terrain with 60,000 men risks losing cohesion and arriving exhausted",
+      "ja": "60,000人で山岳地形を夜間行軍することは結束を失い疲弊して到着するリスクがある",
+      "zh-CN": "带着60,000人在山地进行夜间行军有失去凝聚力、疲惫到达的风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "night-attack-weak-point",
+      "label": {
+        "en": "Night attack on the weak section: fill the ditch with earth and storm the wall",
+        "ja": "弱い区間への夜間攻撃：土で溝を埋め、壁を攻める",
+        "zh-CN": "对薄弱地段发动夜间攻击：用土填平壕沟，强攻城墙"
+      },
+      "description": {
+        "en": "Move the entire army under cover of night to the mountain section. Carry wood and earth. Fill the ditch, storm the wall, and be through before Crassus can respond. Speed and silence are everything.",
+        "ja": "夜の闇に乗じて全軍を山岳セクションに移動させる。木材と土を運ぶ。溝を埋め、壁を攻め、クラッサスが対応する前に突破する。速度と静寂がすべてだ。",
+        "zh-CN": "趁夜色将全军移动到山区地段。携带木材和泥土。填平壕沟，强攻城墙，在克拉苏能够应对之前突破。速度和沉默就是一切。"
+      },
+      "historicalContext": "This is what Spartacus actually did. According to Appian and Plutarch, he ordered the ditch filled with earth, wood, and the bodies of prisoners on a stormy winter night, and led the breakthrough himself. Approximately one-third of the army made it through before Crassus could respond — enough to escape Bruttium and march north. However, the army subsequently failed to maintain discipline and was eventually cornered.",
+      "outcomePrompt": {
+        "en": "On a stormy winter night, you move in silence. The Crassus troops at the mountain section are cold and inattentive. You fill the ditch with wood and earth in less than an hour. The wall is stormed. You are through — perhaps 35,000 men make it before Crassus seals the breach. You are out of Bruttium. But behind you, 25,000 of your men are still trapped. And Pompey is three days away. You march north. There will be one more battle.",
+        "ja": "嵐の冬の夜に、あなたは静かに移動する。山岳セクションのクラッサス軍は寒さで注意散漫だ。一時間以内に木材と土で溝を埋める。壁が攻められる。突破できた——クラッサスが突破口を塞ぐ前に約35,000人が通り抜けた。ブルッティウムを出た。しかしあなたの後ろには25,000人がまだ閉じ込められている。そしてポンペイウスは三日後だ。北に進軍する。もう一つの戦いがある。",
+        "zh-CN": "在一个风雪交加的冬夜，你们静默行进。山区地段的克拉苏部队受寒冷而疏于警惕。你们在不到一小时内用木材和泥土填平壕沟。城墙被攻破。你们突出去了——大约35,000人在克拉苏封堵缺口之前通过。你已出了布鲁提乌姆。但在你身后，25,000名你的手下仍被困。庞培还有三天就到。你北上行军。还有最后一场战斗。"
+      },
+      "stateChanges": [
+        { "key": "rebelMorale", "operation": "add", "value": 15 },
+        { "key": "armyUnity", "operation": "add", "value": -15 },
+        { "key": "escapeRouteOpen", "operation": "set", "value": 60 }
+      ],
+      "nextSceneId": "spartacus-revolt-73bc-scene-003"
+    },
+    {
+      "id": "negotiate-pirate-passage",
+      "label": {
+        "en": "Seek another sea route: send agents to find ships along the Bruttian coast",
+        "ja": "別の海路を探す：ブルッティウム沿岸で船を見つけるために使者を送る",
+        "zh-CN": "寻求另一条海路：派人沿布鲁提乌姆海岸寻找船只"
+      },
+      "description": {
+        "en": "The Sicilian pirates were one option, not the only one. There are fishing boats and merchant vessels along the coast. Bribe or seize them. Ferry the army to Sicily in stages — it will take weeks, but Sicily's slaves will rise, and an island fortress cannot be besieged by Crassus.",
+        "ja": "シチリア人海賊は一つの選択肢に過ぎず、唯一ではなかった。沿岸に漁船と商船がある。賄賂を贈るか奪う。軍を段階的にシチリア島に渡す——数週間かかるが、シチリアの奴隷が蜂起し、島の要塞はクラッサスによって包囲されることができない。",
+        "zh-CN": "西西里海盗只是一个选择，不是唯一的。沿海有渔船和商船。行贿或夺取它们。分批将军队渡往西西里——这需要数周，但西西里的奴隶会起义，而岛上的要塞无法被克拉苏围困。"
+      },
+      "historicalContext": "This is the counterfactual. Spartacus had already tried the sea crossing option (via Cilician pirates) and been betrayed. A second attempt via coastal vessels was not historically recorded. The logistics of moving 60,000+ people across the Strait of Messina with fishing boats would have been nearly impossible in the time available before Pompey's arrival — and it's unclear whether Sicilian slaves would have risen in support.",
+      "outcomePrompt": {
+        "en": "Your agents fan out along the coast, buying and seizing boats. Farmers and fishermen are conscripted as sailors. The ferry operation begins. But Crassus learns of it within days and sends galleys to intercept. The first boats get through; the second convoy is intercepted and sunk. Pompey arrives as you are still moving men across. He lands on the Sicilian side and blocks the crossing. You have perhaps 20,000 men stranded on the Italian coast, 15,000 in Sicily without a leader, and 25,000 facing Crassus's wall. The army shatters.",
+        "ja": "あなたの使者たちは沿岸に広がり、船を買い集め奪う。農民と漁師が船乗りとして徴用される。渡し作業が始まる。しかしクラッサスは数日以内にそれを知り、阻止するためにガレー船を送る。最初の船が通り抜ける。二番目の船団は遮断されて沈められる。ポンペイウスはあなたがまだ兵士たちを渡している間に到着する。彼はシチリア側に上陸して渡りを封鎖する。イタリア沿岸に約20,000人が取り残され、指導者なしにシチリアに15,000人、そしてクラッサスの壁に面して25,000人がいる。軍は粉砕される。",
+        "zh-CN": "你的人员沿海岸散开，购买和夺取船只。农民和渔民被征召为水手。渡海行动开始。但克拉苏在几天内得知此事，派遣战舰拦截。第一批船只通过；第二支船队被拦截击沉。庞培在你仍在渡人时到达。他在西西里一侧登陆，封锁渡口。你有约20,000人滞留在意大利海岸，15,000人没有领袖在西西里，25,000人面对克拉苏的城墙。军队瓦解。"
+      },
+      "stateChanges": [
+        { "key": "armyUnity", "operation": "add", "value": -30 },
+        { "key": "pirateAlliance", "operation": "set", "value": -1 },
+        { "key": "romanPressure", "operation": "add", "value": 20 }
+      ],
+      "nextSceneId": "spartacus-revolt-73bc-scene-003"
+    }
+  ]
+}

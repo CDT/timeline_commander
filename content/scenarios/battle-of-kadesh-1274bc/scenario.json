@@ -1,0 +1,63 @@
+{
+  "id": "battle-of-kadesh-1274bc",
+  "title": {
+    "en": "The Battle of Kadesh",
+    "ja": "カデシュの戦い",
+    "zh-CN": "卡叠什战役"
+  },
+  "subtitle": {
+    "en": "Syria, 1274 BC",
+    "ja": "シリア、紀元前1274年",
+    "zh-CN": "叙利亚，公元前1274年"
+  },
+  "description": {
+    "en": "Ramesses II leads the Egyptian army north to reclaim Kadesh from the Hittite Empire. Deceived by false intelligence, the Egyptian vanguard walks into a Hittite ambush. Ramesses finds himself nearly surrounded with only his personal guard. What happens next will be remembered for three thousand years.",
+    "ja": "ラメセス2世はヒッタイト帝国からカデシュを取り戻すためにエジプト軍を北に率いる。偽の情報に騙され、エジプトの先鋒隊がヒッタイトの待ち伏せに踏み込む。ラメセスは個人の護衛だけを連れてほぼ包囲されている状態に置かれる。次に起きることは三千年にわたって記憶されることになる。",
+    "zh-CN": "拉美西斯二世率领埃及军队北上，从赫梯帝国夺回卡叠什。被虚假情报欺骗，埃及前卫部队走入赫梯伏击。拉美西斯发现自己几乎被包围，只有个人护卫随行。接下来发生的事将被铭记三千年。"
+  },
+  "era": "ancient",
+  "region": "near-east",
+  "difficulty": "hard",
+  "role": "ramesses-pharaoh",
+  "keyFigures": [
+    {
+      "id": "ramesses",
+      "name": {
+        "en": "Ramesses II",
+        "ja": "ラメセス2世",
+        "zh-CN": "拉美西斯二世"
+      },
+      "role": {
+        "en": "Pharaoh of Egypt, commander of the army",
+        "ja": "エジプトのファラオ、軍の指揮官",
+        "zh-CN": "埃及法老，军队指挥官"
+      }
+    },
+    {
+      "id": "muwatalli",
+      "name": {
+        "en": "Muwatalli II",
+        "ja": "ムワタリ2世",
+        "zh-CN": "穆瓦塔利二世"
+      },
+      "role": {
+        "en": "Hittite Great King, architect of the ambush",
+        "ja": "ヒッタイトの大王、待ち伏せの立案者",
+        "zh-CN": "赫梯大王，伏击的策划者"
+      }
+    }
+  ],
+  "sceneIds": [
+    "battle-of-kadesh-1274bc-scene-001",
+    "battle-of-kadesh-1274bc-scene-002",
+    "battle-of-kadesh-1274bc-scene-003"
+  ],
+  "initialState": {
+    "egyptianMorale": 60,
+    "hittitePressure": 85,
+    "pharaohPrestige": 70,
+    "divisionCohesion": 30,
+    "diplomacyPath": 0
+  },
+  "tags": ["egypt", "hittites", "ramesses", "chariot", "bronze-age", "1274bc"]
+}

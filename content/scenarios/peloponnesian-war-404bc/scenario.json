@@ -1,0 +1,179 @@
+{
+  "id": "peloponnesian-war-404bc",
+  "title": {
+    "en": "Fall of Athens",
+    "ja": "アテネの陥落",
+    "zh-CN": "雅典的陷落"
+  },
+  "period": {
+    "en": "Peloponnesian War",
+    "ja": "ペロポネソス戦争",
+    "zh-CN": "伯罗奔尼撒战争"
+  },
+  "dates": {
+    "start": "-405-09-01",
+    "end": "-404-04-01"
+  },
+  "location": {
+    "en": "Hellespont and Athens, Greece",
+    "ja": "ヘレスポントおよびアテネ、ギリシア",
+    "zh-CN": "赫勒斯滂海峡及雅典，希腊"
+  },
+  "historicalOverview": {
+    "en": "By 405 BC, the Peloponnesian War had raged for nearly three decades between Athens and Sparta. Athens, once the supreme naval power of the Greek world, had been bled dry by the disastrous Sicilian Expedition, internal political turmoil, and the defection of key allies. Sparta, bolstered by Persian gold and the brilliant admiral Lysander, had built a formidable fleet that now challenged Athenian control of the vital grain routes through the Hellespont. The Athenian fleet, Athens' last lifeline, was stationed at Aegospotami on the Hellespont, attempting to force a decisive engagement with Lysander. The fate of the entire war — and of Athenian democracy itself — hung on this final naval confrontation. After the catastrophic defeat at Aegospotami, Athens was blockaded by land and sea, and within months the city that had led Greece for a generation was forced into unconditional surrender.",
+    "ja": "紀元前405年までに、ペロポネソス戦争はアテネとスパルタの間でほぼ30年間猛威を振るっていた。かつてギリシア世界の最高の海軍力を誇ったアテネは、壊滅的なシチリア遠征、国内の政治的混乱、主要同盟国の離反によって疲弊していた。ペルシアの金と優秀な提督リュサンドロスに支えられたスパルタは、ヘレスポント海峡を通る重要な穀物輸送路のアテネ支配に挑戦する強力な艦隊を建設していた。アテネの最後の生命線であるアテネ艦隊は、ヘレスポントのアイゴスポタモイに駐留し、リュサンドロスとの決定的な交戦を強いようとしていた。戦争全体の、そしてアテネ民主制そのものの運命が、この最後の海戦にかかっていた。アイゴスポタモイでの壊滅的な敗北の後、アテネは陸と海から封鎖され、数ヶ月のうちに一世代にわたりギリシアを率いた都市は無条件降伏を余儀なくされた。",
+    "zh-CN": "到公元前405年，伯罗奔尼撒战争已在雅典和斯巴达之间肆虐近三十年。雅典曾是希腊世界的最高海上强权，却因灾难性的西西里远征、国内政治动荡和关键盟友的叛离而元气大伤。斯巴达在波斯黄金和杰出海军将领吕山德的支持下，建立了一支强大的舰队，向雅典对赫勒斯滂海峡重要粮食航线的控制发起挑战。雅典舰队——雅典最后的生命线——驻扎在赫勒斯滂的羊河口，试图迫使吕山德进行决定性的交战。整场战争的命运——以及雅典民主制度本身的命运——都悬于这最后的海上对抗。在羊河口灾难性的惨败之后，雅典遭到海陆封锁，数月之内，这座领导希腊整整一代人的城市被迫无条件投降。"
+  },
+  "realWorldOutcome": {
+    "en": "Lysander's fleet destroyed the Athenian navy at the Battle of Aegospotami in 405 BC, capturing nearly 170 ships. Athens was besieged and starved into surrender by April 404 BC. The Long Walls connecting Athens to its port of Piraeus were demolished to the sound of flute music. Sparta imposed the oligarchic government of the Thirty Tyrants, ending over a century of Athenian democracy. Athens never fully recovered its former imperial power, and the golden age of Periclean Athens was definitively over.",
+    "ja": "リュサンドロスの艦隊は紀元前405年のアイゴスポタモイの海戦でアテネ海軍を壊滅させ、約170隻の船を拿捕した。アテネは包囲され、紀元前404年4月までに飢餓により降伏した。アテネと港町ピレウスを結ぶ長壁は笛の音に合わせて取り壊された。スパルタは三十人僭主の寡頭政治を押し付け、1世紀以上にわたるアテネ民主政を終わらせた。アテネはかつての帝国的な力を完全に回復することはなく、ペリクレス時代のアテネの黄金時代は決定的に終わった。",
+    "zh-CN": "公元前405年，吕山德的舰队在羊河口海战中摧毁了雅典海军，俘获近170艘战船。雅典遭到围困，于公元前404年4月因饥荒而投降。连接雅典与其港口比雷埃夫斯的长墙在笛声中被拆毁。斯巴达强行建立了三十僭主的寡头政府，结束了雅典一个多世纪的民主制度。雅典再也未能完全恢复其昔日的帝国实力，伯里克利时代雅典的黄金时代就此终结。"
+  },
+  "keyFigures": [
+    {
+      "id": "conon",
+      "name": "Conon",
+      "role": {
+        "en": "Athenian Admiral",
+        "ja": "アテネの提督",
+        "zh-CN": "雅典海军将领"
+      },
+      "faction": "Athens",
+      "description": {
+        "en": "One of the Athenian generals commanding the fleet at Aegospotami. A capable naval commander who recognized the danger of the fleet's exposed position but was unable to convince his fellow generals to adopt a more cautious strategy.",
+        "ja": "アイゴスポタモイで艦隊を指揮したアテネの将軍の一人。艦隊の露出した位置の危険性を認識した有能な海軍指揮官だったが、他の将軍たちにより慎重な戦略を採用するよう説得できなかった。",
+        "zh-CN": "在羊河口指挥舰队的雅典将领之一。一位有能力的海军指挥官，他认识到舰队暴露位置的危险，但无法说服其他将领采取更谨慎的策略。"
+      }
+    },
+    {
+      "id": "lysander",
+      "name": "Lysander",
+      "role": {
+        "en": "Spartan Navarch (Admiral)",
+        "ja": "スパルタのナウアルコス（提督）",
+        "zh-CN": "斯巴达海军统帅"
+      },
+      "faction": "Sparta",
+      "description": {
+        "en": "The brilliant and ruthless Spartan admiral who engineered Sparta's naval victory. A master of deception and patience, Lysander secured Persian funding for the Spartan fleet and waited for the perfect moment to strike at Aegospotami, destroying Athenian naval power in a single afternoon.",
+        "ja": "スパルタの海軍勝利を設計した優秀で冷酷なスパルタの提督。欺瞞と忍耐の達人であるリュサンドロスは、スパルタ艦隊のためにペルシアの資金を確保し、アイゴスポタモイで攻撃する完璧な瞬間を待ち、一つの午後でアテネの海軍力を壊滅させた。",
+        "zh-CN": "策划斯巴达海军胜利的杰出而冷酷的斯巴达海军统帅。精于欺骗与忍耐，吕山德为斯巴达舰队争取到波斯的资助，等待完美时机在羊河口发动突袭，一个下午便摧毁了雅典的海军力量。"
+      }
+    },
+    {
+      "id": "alcibiades",
+      "name": "Alcibiades",
+      "role": {
+        "en": "Exiled Athenian Statesman and General",
+        "ja": "亡命中のアテネの政治家・将軍",
+        "zh-CN": "流亡的雅典政治家与将军"
+      },
+      "faction": "Athens",
+      "description": {
+        "en": "The controversial and brilliant Athenian who had served both Athens and Sparta during the war. Living in exile near the Hellespont, he tried to warn the Athenian generals at Aegospotami that their position was dangerously exposed, but was rebuffed.",
+        "ja": "戦争中にアテネとスパルタの両方に仕えた物議を醸す優秀なアテネ人。ヘレスポント付近に亡命中、アイゴスポタモイのアテネの将軍たちに陣地が危険にさらされていると警告しようとしたが、拒絶された。",
+        "zh-CN": "一位备受争议却才华横溢的雅典人，战争期间曾先后为雅典和斯巴达效力。流亡在赫勒斯滂附近，他试图警告在羊河口的雅典将领们其阵位十分危险，但遭到拒绝。"
+      }
+    },
+    {
+      "id": "theramenes",
+      "name": "Theramenes",
+      "role": {
+        "en": "Athenian Politician and Negotiator",
+        "ja": "アテネの政治家・交渉者",
+        "zh-CN": "雅典政治家与谈判者"
+      },
+      "faction": "Athens",
+      "description": {
+        "en": "A moderate Athenian politician who would eventually negotiate the terms of Athens' surrender with Sparta. Known for his pragmatism, he walked a dangerous line between the democratic and oligarchic factions within Athens during the city's final crisis.",
+        "ja": "最終的にスパルタとアテネの降伏条件を交渉することになる穏健なアテネの政治家。その実用主義で知られ、都市の最終的な危機の間、アテネ内の民主派と寡頭派の間で危険な綱渡りをした。",
+        "zh-CN": "温和派雅典政治家，最终与斯巴达谈判雅典的投降条款。以务实著称，在雅典最后的危机中，他在民主派和寡头派之间走着一条危险的钢丝。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "athenian-commander",
+      "scenarioId": "peloponnesian-war-404bc",
+      "name": "Conon",
+      "title": {
+        "en": "Athenian Admiral",
+        "ja": "アテネの提督",
+        "zh-CN": "雅典海军将领"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Conon, one of the commanding admirals of the Athenian fleet. It is the autumn of 405 BC, and the Peloponnesian War is entering its final, desperate phase. Athens' once-magnificent fleet — the instrument that built an empire and held it for generations — is down to roughly 180 triremes, stationed at Aegospotami on the Hellespont. Across the strait at Lampsacus lies Lysander with the Spartan fleet, reinforced with Persian gold and crewed by experienced sailors. The Hellespont is Athens' lifeline: the grain ships from the Black Sea that feed the city must pass through these waters. If the fleet is lost, Athens starves. You have argued for a more defensible position at Sestos, where the fleet could be properly beached and supplied, but your fellow generals insist on staying at Aegospotami to challenge Lysander directly. The exiled Alcibiades has even ridden down from his nearby estate to warn that the position is exposed, but he was turned away. You must find a way to force a favorable engagement or avoid a catastrophe.",
+        "ja": "あなたはアテネ艦隊の指揮提督の一人、コノンです。紀元前405年の秋、ペロポネソス戦争は最後の必死の段階に入っています。かつて壮大だったアテネの艦隊——帝国を築き、世代にわたって維持した道具——は約180隻の三段櫂船にまで減少し、ヘレスポントのアイゴスポタモイに駐留しています。海峡の対岸のランプサコスには、ペルシアの金で強化され、経験豊富な船員を擁するリュサンドロスのスパルタ艦隊がいます。ヘレスポントはアテネの生命線です：都市を養う黒海からの穀物船はこの海域を通過しなければなりません。艦隊を失えば、アテネは飢餓に陥ります。あなたはセストスのより防御しやすい位置を主張してきましたが、他の将軍たちはリュサンドロスに直接挑戦するためアイゴスポタモイに留まることを主張しています。亡命中のアルキビアデスさえも近くの領地から馬で駆けつけ、この位置が危険にさらされていると警告しましたが、追い返されました。あなたは有利な交戦を強いるか、大惨事を避ける方法を見つけなければなりません。",
+        "zh-CN": "您是科农，雅典舰队的指挥将领之一。公元前405年秋天，伯罗奔尼撒战争正进入最后的绝望阶段。雅典曾经辉煌的舰队——建立并维持帝国数代人的工具——已减少到大约180艘三列桨战船，驻扎在赫勒斯滂的羊河口。海峡对岸的兰普萨库斯是吕山德率领的斯巴达舰队，得到波斯黄金的资助和经验丰富的水手。赫勒斯滂是雅典的生命线：从黑海运来养活城市的粮船必须经过这片水域。如果舰队覆灭，雅典就会饿死。您一直主张转移到塞斯托斯更易防守的位置，那里舰队可以妥善停靠和补给，但其他将领坚持留在羊河口直接挑战吕山德。流亡的阿尔西比亚德斯甚至从附近的庄园骑马赶来警告这个位置十分暴露，但被拒之门外。您必须找到办法迫使敌人进行有利的交战，或者避免一场灾难。"
+      },
+      "objectives": [
+        {
+          "en": "Protect the Athenian fleet from destruction at the Hellespont",
+          "ja": "ヘレスポントでのアテネ艦隊の壊滅を防ぐ",
+          "zh-CN": "保护雅典舰队免于在赫勒斯滂被歼灭"
+        },
+        {
+          "en": "Secure the vital grain supply route through the Hellespont to Athens",
+          "ja": "ヘレスポントを通るアテネへの重要な穀物供給路を確保する",
+          "zh-CN": "确保经赫勒斯滂至雅典的重要粮食供应航线"
+        },
+        {
+          "en": "Preserve Athens' ability to negotiate from a position of strength",
+          "ja": "アテネが有利な立場から交渉する能力を維持する",
+          "zh-CN": "保持雅典从强势地位进行谈判的能力"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "You share command with multiple generals who may overrule your decisions",
+          "ja": "複数の将軍と指揮権を共有しており、彼らがあなたの決定を覆す可能性がある",
+          "zh-CN": "您与多位将领共享指挥权，他们可能推翻您的决定"
+        },
+        {
+          "en": "The fleet at Aegospotami has no fortified harbor — ships must be beached on open shore each night",
+          "ja": "アイゴスポタモイの艦隊には要塞化された港がない——船は毎晩開けた海岸に引き上げなければならない",
+          "zh-CN": "羊河口的舰队没有设防港口——船只每晚必须在开阔海岸搁浅"
+        },
+        {
+          "en": "Athenian morale is fragile after years of defeats and the Sicilian disaster still haunts the city",
+          "ja": "長年の敗北の後、アテネの士気は脆弱であり、シチリアの大災害が依然として都市を苦しめている",
+          "zh-CN": "经过多年的战败，雅典士气脆弱，西西里灾难的阴影仍笼罩着这座城市"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Lysander refuses to engage on Athenian terms — he is clearly waiting for an opportunity to strike when you are vulnerable",
+          "ja": "リュサンドロスはアテネの条件での交戦を拒否している——明らかに脆弱な時に攻撃する機会を待っている",
+          "zh-CN": "吕山德拒绝按雅典的条件交战——他显然在等待您暴露弱点时发动攻击的机会"
+        },
+        {
+          "en": "Athens is running out of money to pay the fleet's rowers — desertion increases daily",
+          "ja": "アテネは艦隊の漕ぎ手に支払う金が尽きかけている——脱走が日々増加している",
+          "zh-CN": "雅典即将无力支付舰队桨手的薪饷——逃兵每天都在增加"
+        },
+        {
+          "en": "The Athenian Assembly demands aggressive action and has executed or exiled generals for perceived cowardice before",
+          "ja": "アテネの民会は積極的な行動を要求しており、過去に臆病と見なされた将軍を処刑または追放したことがある",
+          "zh-CN": "雅典公民大会要求采取积极行动，过去曾因被认为怯懦而处决或流放将领"
+        }
+      ],
+      "startingSceneId": "peloponnesian-war-404bc-scene-001",
+      "initialState": {
+        "fleetStrength": 80,
+        "athenianMorale": 40,
+        "grainSupply": 50,
+        "spartanNavalPower": 75,
+        "politicalStability": 35
+      }
+    }
+  ],
+  "sceneIds": [
+    "peloponnesian-war-404bc-scene-001",
+    "peloponnesian-war-404bc-scene-002",
+    "peloponnesian-war-404bc-scene-003"
+  ],
+  "tags": ["ancient", "military", "political", "Greece", "naval warfare", "siege"],
+  "difficulty": "advanced"
+}

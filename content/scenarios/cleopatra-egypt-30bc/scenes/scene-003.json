@@ -1,0 +1,121 @@
+{
+  "id": "cleopatra-egypt-30bc-scene-003",
+  "scenarioId": "cleopatra-egypt-30bc",
+  "isTerminal": true,
+  "date": {
+    "en": "August 12, 30 BC — The Last Pharaoh",
+    "ja": "紀元前30年8月12日 — 最後のファラオ",
+    "zh-CN": "公元前30年8月12日——最后的法老"
+  },
+  "location": {
+    "en": "The Royal Mausoleum, Alexandria",
+    "ja": "アレクサンドリア、王室霊廟",
+    "zh-CN": "亚历山大，王室陵墓"
+  },
+  "title": {
+    "en": "The Last Day of Egypt",
+    "ja": "エジプトの最後の日",
+    "zh-CN": "埃及的最后一天"
+  },
+  "narrativePrompt": {
+    "en": "The time has come. Octavian departs tomorrow. You will not be in Rome when he arrives — not in chains, not in a cage, not displayed as proof of his greatness. You have made your arrangements. The asp is here. Your handmaidens Iras and Charmion stand ready to die with you. Three centuries of Ptolemaic rule end today. Egypt ends today. The question is only how you wish to be remembered — as a ruler who shaped the world, or as a warning to those who resist Rome.",
+    "ja": "その時が来た。オクタウィアヌスは明日出発する。彼がローマに到着するとき、あなたはそこにいない——鎖に繋がれてでも、檻に入れられてでも、彼の偉大さの証拠として展示されてでも。手配は済んだ。コブラがここにある。侍女のイラスとカルミオンがあなたと共に死ぬ準備ができている。三世紀にわたるプトレマイオス朝の支配が今日終わる。エジプトが今日終わる。問題はただ、どのように記憶されたいかだ——世界を形作った支配者として、それともローマに抵抗する者への警告として。",
+    "zh-CN": "时机已到。屋大维明天出发。当他抵达罗马时，你不会在那里——不是戴着锁链，不是关在笼里，不是作为他伟大的证明被展示。你已做好安排。眼镜蛇就在这里。你的侍女伊拉斯和卡尔米翁准备与你同死。三个世纪的托勒密统治今天结束。埃及今天结束。问题只是你希望如何被铭记——作为一个塑造了世界的统治者，还是作为对抗拒罗马者的警示。"
+  },
+  "situationReport": [
+    {
+      "en": "You have confirmed: Octavian intends to parade you through Rome in his triumph, scheduled for late September. He will show you to Rome in chains, beside effigies of Antony and the Nile.",
+      "ja": "確認した：オクタウィアヌスは9月下旬に予定された凱旋式であなたをローマに練り歩かせるつもりだ。彼はアントニウスとナイルの模型と並べて鎖に繋いであなたをローマに見せるだろう。",
+      "zh-CN": "你已确认：屋大维打算在定于九月下旬举行的凯旋游行中将你带过罗马。他将用锁链拴着你，与安东尼的雕像和尼罗河的形象并排，展示给罗马人看。"
+    },
+    {
+      "en": "Iras and Charmion have been with you since childhood. They will not survive you. This is their choice and they are at peace.",
+      "ja": "イラスとカルミオンは幼い頃からあなたと共にいる。彼女たちはあなたより長く生きることはない。これは彼女たちの選択であり、彼女たちは安らかだ。",
+      "zh-CN": "伊拉斯和卡尔米翁从你童年起就陪伴着你。她们不会在你之后存活。这是她们的选择，她们平静接受。"
+    },
+    {
+      "en": "Word reaches you: Caesarion was either warned in time and has gone to ground, or he has not. You do not know. You may never know.",
+      "ja": "知らせが届く：カエサリオンは警告が間に合い潜伏したかもしれないし、そうでないかもしれない。分からない。永遠に知ることができないかもしれない。",
+      "zh-CN": "消息传来：凯撒里昂或许及时收到警告已经隐匿起来，或许没有。你不知道。你可能永远不会知道。"
+    },
+    {
+      "en": "The last of the Ptolemaic dynasty ends with you. After three hundred years, no Greek king will rule Egypt again for nearly two thousand years.",
+      "ja": "プトレマイオス朝の最後があなたで終わる。三百年後、ギリシア人の王がエジプトを再び支配することは約二千年はないだろう。",
+      "zh-CN": "托勒密王朝的最后一代在你这里结束。三百年后，希腊国王将近两千年不再统治埃及。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Die as a pharaoh, not as a captive",
+      "ja": "捕虜としてではなく、ファラオとして死ぬ",
+      "zh-CN": "作为法老而死，而非作为俘虏"
+    },
+    {
+      "en": "Deny Octavian the triumphant display he planned",
+      "ja": "オクタウィアヌスが計画した凱旋の見せ物を拒否する",
+      "zh-CN": "拒绝给予屋大维他所计划的凯旋展示"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "There is no third option — Octavian's guards are outside and will not leave",
+      "ja": "第三の選択肢はない——オクタウィアヌスの護衛が外にいて、去らない",
+      "zh-CN": "没有第三个选择——屋大维的卫兵在外面，不会离开"
+    },
+    {
+      "en": "Your legacy will be written by those who survive — mostly by Romans who saw you as an enemy",
+      "ja": "あなたの遺産は生き残った者たちによって書かれる——主にあなたを敵と見なしたローマ人によって",
+      "zh-CN": "你的遗产将由幸存者书写——主要是那些将你视为敌人的罗马人"
+    }
+  ],
+  "choices": [
+    {
+      "id": "die-as-isis",
+      "label": {
+        "en": "Dress as Isis: die in full royal regalia as the goddess-queen of Egypt",
+        "ja": "イシスとして着飾る：エジプトの女神女王として完全な王室の礼装で死ぬ",
+        "zh-CN": "扮作伊西斯：身着完整王室礼服作为埃及女神女王而死"
+      },
+      "description": {
+        "en": "You are not merely Cleopatra. You are Isis incarnate, last in an unbroken line of pharaohs stretching to the pyramids. Die as she would — robed, crowned, seated — and let Octavian explain to the world why the goddess Isis refused his triumph.",
+        "ja": "あなたは単にクレオパトラではない。あなたはイシスの化身であり、ピラミッドまでさかのぼる途切れることのないファラオの血統の最後だ。彼女が死ぬように死ぬ——衣をまとい、冠をかぶり、座して——そしてオクタウィアヌスに女神イシスが彼の凱旋を拒否した理由を世界に説明させる。",
+        "zh-CN": "你不仅仅是克利奥帕特拉。你是伊西斯的化身，法老血脉的最后一人，血脉延伸至金字塔时代。像她一样死去——身着袍服，头戴王冠，端坐宝座——让屋大维向世界解释为什么女神伊西斯拒绝了他的凯旋。"
+      },
+      "historicalContext": "This is what Cleopatra did, according to ancient sources. She was found by Octavian's guards dressed in full royal regalia, seated on her golden throne, already dead. Iras lay dead at her feet; Charmion was dying, still adjusting the diadem on Cleopatra's head. When a guard asked if this was well done, Charmion reportedly replied: 'Extremely well, and fitting for a queen descended from so many kings.' Octavian was furious but could not deny the impact.",
+      "outcomePrompt": {
+        "en": "You call for the figs. You send a letter to Octavian — he will find it and understand too late. You dress in the robes of Isis, place the double crown of Upper and Lower Egypt on your head, and seat yourself on the throne your family has held for three centuries. The asp fulfills its purpose swiftly. When Octavian's guards break through the doors, they find Charmion still upright, her fingers on your crown. 'Is this well done?' they demand. 'Extremely well,' she answers, 'and fitting for a queen.' She dies at their feet. Octavian is denied his triumph. Two thousand years later, the world still speaks your name.",
+        "ja": "無花果を呼ぶ。オクタウィアヌスへの手紙を送る——彼はそれを見つけて遅すぎてから理解するだろう。イシスの衣をまとい、上下エジプトの二重の冠を頭に置き、三世紀にわたって家族が保持してきた玉座に座る。コブラは素早くその役割を果たす。オクタウィアヌスの護衛が扉を破ると、カルミオンがまだ立ったまま、あなたの冠に指を置いているのを見つける。「これは良くなされたか？」と彼らは要求する。「非常によく」と彼女は答える。「そして多くの王の子孫たる女王にふさわしい」。彼女は彼らの足元で死ぬ。オクタウィアヌスは凱旋を拒否される。二千年後、世界はまだあなたの名を語る。",
+        "zh-CN": "你呼唤无花果。你给屋大维写一封信——他会发现它，但为时已晚才能理解。你穿上伊西斯的袍服，将上下埃及的双冠戴上头顶，坐在你的家族持有了三个世纪的宝座上。眼镜蛇迅速完成了它的使命。当屋大维的卫兵破门而入，他们发现卡尔米翁仍然站立着，手指放在你的王冠上。'这做得好吗？'他们喝问。'非常好，'她回答，'对于一位出身于如此众多国王的女王来说是合适的。'她倒在他们脚下。屋大维的凯旋游行落空了。两千年后，世界仍在诉说你的名字。"
+      },
+      "stateChanges": [
+        { "key": "cleopatraDignity", "operation": "set", "value": 100 },
+        { "key": "romanPressure", "operation": "set", "value": 0 }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "id": "send-letter-first",
+      "label": {
+        "en": "Write a final testament: letters to your children, to history, to those who will judge Egypt's end",
+        "ja": "最後の遺言を書く：子供たちへ、歴史へ、エジプトの終わりを裁く人たちへの手紙",
+        "zh-CN": "写下最后的遗嘱：给孩子们，给历史，给那些将评判埃及终结的人"
+      },
+      "description": {
+        "en": "Before the asp, write. Leave behind your own account of what happened — not Octavian's version. Let Egypt's story be told in Egypt's voice, even if the papyrus is destroyed. The act of writing is itself an act of sovereignty.",
+        "ja": "コブラの前に、書く。何が起きたかについてのあなた自身の記録を残す——オクタウィアヌスの版ではなく。エジプトの物語はエジプトの声で語られるようにする、たとえパピルスが破壊されても。書くという行為自体が主権の行為だ。",
+        "zh-CN": "在眼镜蛇之前，写作。留下你自己对发生之事的记述——不是屋大维的版本。让埃及的故事以埃及的声音讲述，即使纸莎草被销毁。写作的行为本身就是主权的行为。"
+      },
+      "historicalContext": "This is the counterfactual choice. Ancient sources mention that Cleopatra did send a letter to Octavian (which he received and immediately sent men to stop her, arriving too late), but no extensive testament was written or survived. Had she left a detailed written record, it might have significantly changed how history remembers the events of 30 BC — though Roman historians would likely have suppressed or distorted it.",
+      "outcomePrompt": {
+        "en": "You write through the morning. You write to Caesarion — wherever he is. You write to Selene, who will be taken to Rome and raised in Octavia's house. You write the account of Actium as it truly was. You write what Egypt was before Rome. You write until your hand tires, and then you call for the figs. The letters are found by Octavian's guards. Most are destroyed. One — a brief note asking to be buried beside Antony — survives in Roman records. It is enough. They grant it.",
+        "ja": "あなたは朝を通して書く。カエサリオンへ書く——彼がどこにいても。セレネへ書く。彼女はローマに連れて行かれ、オクタウィアのもとで育てられるだろう。アクティウムがどうだったかを真実として書く。ローマより前のエジプトが何だったかを書く。手が疲れるまで書く、そして無花果を呼ぶ。手紙はオクタウィアヌスの護衛に見つけられる。ほとんどは破壊される。一通——アントニウスの傍らに埋葬してほしいという短い覚書——がローマの記録に残る。十分だ。彼らはそれを認める。",
+        "zh-CN": "你整个早晨都在写作。你给凯撒里昂写信——不管他在哪里。你给塞勒涅写信，她将被带往罗马，在屋大维娅家里长大。你写下亚克兴战役的真实经过。你写下罗马到来之前的埃及是什么。你写到手累了，然后呼唤无花果篮。信件被屋大维的卫兵找到。大多数被销毁。一封——请求葬在安东尼身旁的简短便条——留存于罗马记录。这已足够。他们答应了。"
+      },
+      "stateChanges": [
+        { "key": "cleopatraDignity", "operation": "add", "value": 15 },
+        { "key": "caesarionSafety", "operation": "add", "value": 5 }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

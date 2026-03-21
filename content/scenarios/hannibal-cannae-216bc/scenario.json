@@ -1,0 +1,179 @@
+{
+  "id": "hannibal-cannae-216bc",
+  "title": {
+    "en": "Battle of Cannae",
+    "ja": "カンナエの戦い",
+    "zh-CN": "坎尼战役"
+  },
+  "period": {
+    "en": "Second Punic War",
+    "ja": "第二次ポエニ戦争",
+    "zh-CN": "第二次布匿战争"
+  },
+  "dates": {
+    "start": "-216-08-02",
+    "end": "-216-08-02"
+  },
+  "location": {
+    "en": "Cannae, Apulia, Southern Italy",
+    "ja": "南イタリア、アプリア、カンナエ",
+    "zh-CN": "意大利南部阿普利亚坎尼"
+  },
+  "historicalOverview": {
+    "en": "The Battle of Cannae, fought on August 2, 216 BC, was the climactic engagement of Hannibal Barca's Italian campaign during the Second Punic War. After crossing the Alps with his army and war elephants in 218 BC, Hannibal had spent two years ravaging the Italian peninsula and defeating Roman armies at the Trebia and Lake Trasimene. Rome responded by raising the largest army in its history — approximately 86,000 men under the consuls Lucius Aemilius Paullus and Gaius Terentius Varro. Hannibal, with roughly 50,000 troops, chose the flat plains near Cannae in Apulia as his battlefield. There, he executed one of the most famous tactical maneuvers in military history: the double envelopment. By deliberately allowing his weak center to bend inward under Roman pressure while his heavy cavalry and African infantry closed in from both flanks and the rear, Hannibal encircled and annihilated the Roman army. The result was catastrophic for Rome — an estimated 50,000 to 70,000 Roman soldiers were killed in a single afternoon.",
+    "ja": "カンナエの戦いは紀元前216年8月2日に行われ、第二次ポエニ戦争におけるハンニバル・バルカのイタリア遠征の頂点となる戦闘であった。紀元前218年に軍と戦象を率いてアルプスを越えた後、ハンニバルは2年間イタリア半島を蹂躙し、トレビアの戦いとトラシメヌス湖畔の戦いでローマ軍を破っていた。ローマは歴史上最大の軍を編成して応じた——執政官ルキウス・アエミリウス・パウルスとガイウス・テレンティウス・ウァロの下に約86,000人。約50,000人の兵力を持つハンニバルは、アプリアのカンナエ近くの平原を戦場に選んだ。そこで彼は軍事史上最も有名な戦術機動の一つ、包囲殲滅戦を実行した。弱い中央部がローマ軍の圧力で意図的に後退する間に、重騎兵とアフリカ歩兵が両翼と背後から迫り、ローマ軍を包囲殲滅した。結果はローマにとって壊滅的で、一日の午後だけで推定50,000から70,000人のローマ兵が殺された。",
+    "zh-CN": "坎尼战役于公元前216年8月2日爆发，是第二次布匿战争中汉尼拔·巴卡意大利远征的高潮之战。公元前218年率军及战象翻越阿尔卑斯山后，汉尼拔花了两年时间蹂躏意大利半岛，先后在特雷比亚河和特拉西梅诺湖击败罗马军队。罗马集结了其历史上最庞大的军队作为回应——由执政官卢基乌斯·埃米利乌斯·保卢斯和盖乌斯·特伦提乌斯·瓦罗统率的约86000人。汉尼拔以约50000人的兵力，选择了阿普利亚坎尼附近的平原作为战场。在那里，他实施了军事史上最著名的战术机动之一：双重包围。他故意让薄弱的中央在罗马人的压力下向后弯曲，同时重骑兵和非洲步兵从两翼和后方合围，将罗马军队包围歼灭。战果对罗马是灾难性的——仅一个下午就有约50000至70000名罗马士兵阵亡。"
+  },
+  "realWorldOutcome": {
+    "en": "Cannae was the worst military defeat in Roman history. An estimated 50,000 to 70,000 Romans were killed, including consul Paullus, 29 military tribunes, and 80 senators. Despite this crushing victory, Hannibal lacked the siege equipment and reinforcements to march on Rome itself. The Romans refused to negotiate, famously refusing to ransom prisoners, and adopted the Fabian strategy of attrition — avoiding pitched battles while slowly reclaiming territory. Cannae became the textbook example of a tactical encirclement and is still studied in military academies worldwide.",
+    "ja": "カンナエはローマ史上最悪の軍事的敗北であった。推定50,000から70,000人のローマ人が殺され、執政官パウルス、29人の軍団長官、80人の元老院議員が含まれた。この圧倒的な勝利にもかかわらず、ハンニバルにはローマ自体を攻囲する攻城兵器と援軍が不足していた。ローマは交渉を拒否し、有名な捕虜の身代金支払い拒否を行い、ファビウス式の消耗戦略を採用した——会戦を避けながら徐々に領土を奪還した。カンナエは戦術的包囲の教科書的事例となり、現在も世界中の士官学校で研究されている。",
+    "zh-CN": "坎尼是罗马历史上最惨重的军事失败。估计有50000至70000名罗马人阵亡，包括执政官保卢斯、29名军事护民官和80名元老院议员。尽管取得了这一压倒性的胜利，汉尼拔却缺乏围攻罗马城所需的攻城器械和增援。罗马人拒绝谈判，以拒绝赎回战俘而闻名，并采取了费边式消耗战略——避免正面会战，同时缓慢收复失地。坎尼成为战术包围的经典教科书案例，至今仍在全世界军事院校中被研究。"
+  },
+  "keyFigures": [
+    {
+      "id": "hannibal",
+      "name": "Hannibal Barca",
+      "role": {
+        "en": "Carthaginian Commander",
+        "ja": "カルタゴ軍司令官",
+        "zh-CN": "迦太基统帅"
+      },
+      "faction": "Carthage",
+      "description": {
+        "en": "One of the greatest military commanders in history, Hannibal led his army across the Alps to invade Italy. His tactical genius at Cannae produced the most devastating defeat Rome ever suffered and established the double envelopment as the gold standard of battlefield tactics.",
+        "ja": "歴史上最も偉大な軍事指揮官の一人。ハンニバルは軍を率いてアルプスを越えイタリアに侵攻した。カンナエでの戦術的天才はローマが被った最も壊滅的な敗北を生み出し、包囲殲滅戦を戦場戦術の最高基準として確立した。",
+        "zh-CN": "历史上最伟大的军事统帅之一，汉尼拔率军翻越阿尔卑斯山入侵意大利。他在坎尼展现的战术天才造成了罗马有史以来最惨烈的失败，确立了双重包围作为战场战术的黄金标准。"
+      }
+    },
+    {
+      "id": "paullus",
+      "name": "Lucius Aemilius Paullus",
+      "role": {
+        "en": "Roman Consul",
+        "ja": "ローマ執政官",
+        "zh-CN": "罗马执政官"
+      },
+      "faction": "Rome",
+      "description": {
+        "en": "The cautious Roman consul who opposed engaging Hannibal on open ground. He shared command with the aggressive Varro and was killed fighting in the thick of the battle after the Roman lines collapsed.",
+        "ja": "開けた地でハンニバルと交戦することに反対した慎重なローマ執政官。攻撃的なウァロと指揮権を共有し、ローマ軍の戦線が崩壊した後、戦闘の最前線で戦って戦死した。",
+        "zh-CN": "反对在开阔地与汉尼拔交战的谨慎罗马执政官。他与好战的瓦罗共同指挥，在罗马战线崩溃后于激战中阵亡。"
+      }
+    },
+    {
+      "id": "varro",
+      "name": "Gaius Terentius Varro",
+      "role": {
+        "en": "Roman Consul",
+        "ja": "ローマ執政官",
+        "zh-CN": "罗马执政官"
+      },
+      "faction": "Rome",
+      "description": {
+        "en": "The aggressive Roman consul who insisted on forcing a decisive battle with Hannibal. His overconfidence in Rome's numerical superiority played directly into Hannibal's tactical trap. He survived the battle and fled to Venusia.",
+        "ja": "ハンニバルとの決戦を強行した攻撃的なローマ執政官。ローマの数的優位に対する過信がハンニバルの戦術的罠に直接はまった。彼は戦いを生き延び、ウェヌシアに逃れた。",
+        "zh-CN": "坚持与汉尼拔进行决战的好战罗马执政官。他对罗马兵力优势的过度自信正中汉尼拔的战术陷阱。他在战斗中幸存，逃往韦努西亚。"
+      }
+    },
+    {
+      "id": "maharbal",
+      "name": "Maharbal",
+      "role": {
+        "en": "Carthaginian Cavalry Commander",
+        "ja": "カルタゴ騎兵指揮官",
+        "zh-CN": "迦太基骑兵统领"
+      },
+      "faction": "Carthage",
+      "description": {
+        "en": "Hannibal's chief cavalry officer and close companion. After Cannae, he famously urged Hannibal to march on Rome immediately, reportedly telling him: 'You know how to gain a victory, but not how to use one.'",
+        "ja": "ハンニバルの主席騎兵将校であり親しい僚友。カンナエの後、彼はハンニバルに直ちにローマに進軍するよう促したことで有名で、「あなたは勝利を得る方法は知っているが、それを使う方法は知らない」と言ったとされる。",
+        "zh-CN": "汉尼拔的首席骑兵军官和亲密战友。坎尼战后，他以敦促汉尼拔立即进军罗马而闻名，据说他对汉尼拔说：'你知道如何赢得胜利，却不知道如何利用胜利。'"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "hannibal",
+      "scenarioId": "hannibal-cannae-216bc",
+      "name": "Hannibal Barca",
+      "title": {
+        "en": "Commander of the Carthaginian Army",
+        "ja": "カルタゴ軍司令官",
+        "zh-CN": "迦太基军队统帅"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Hannibal Barca, son of Hamilcar, commander of the Carthaginian expeditionary force in Italy. It is the summer of 216 BC. Two years ago, you led your army — including war elephants — over the Alps in one of the most audacious military campaigns in history. Since then, you have crushed two Roman armies: at the Trebia River and at Lake Trasimene. But Rome refuses to break. The Senate has raised its largest army ever — eight legions, nearly 86,000 men — under the consuls Paullus and Varro, and they are marching south to destroy you. You have roughly 50,000 troops: Libyan heavy infantry, Iberian and Celtic warriors, Numidian light cavalry, and your superb heavy cavalry under Maharbal. You are deep in enemy territory with no reinforcements coming from Carthage. Every battle must count. You have chosen the flat plains near the village of Cannae in Apulia to make your stand.",
+        "ja": "あなたはハンニバル・バルカ、ハミルカルの息子、イタリアにおけるカルタゴ遠征軍の司令官です。紀元前216年の夏。2年前、あなたは戦象を含む軍を率いて、歴史上最も大胆な軍事遠征の一つであるアルプス越えを行いました。以来、トレビア川とトラシメヌス湖でローマ軍を二度撃破しました。しかしローマは屈しません。元老院は史上最大の軍——執政官パウルスとウァロの下に8個軍団、約86,000人——を編成し、あなたを滅ぼすべく南に進軍しています。あなたの兵力は約50,000人：リビア重装歩兵、イベリアおよびケルトの戦士、ヌミディア軽騎兵、そしてマハルバル率いる優秀な重騎兵です。カルタゴからの援軍は来ない敵地の奥深くにいます。すべての戦いが重要です。あなたはアプリアのカンナエ村近くの平原を決戦の地に選びました。",
+        "zh-CN": "您是汉尼拔·巴卡，哈米尔卡之子，驻意大利迦太基远征军统帅。时为公元前216年夏天。两年前，您率领包括战象在内的大军翻越阿尔卑斯山，完成了历史上最大胆的军事远征之一。此后，您在特雷比亚河和特拉西梅诺湖两次击溃罗马军队。但罗马拒绝屈服。元老院集结了有史以来最庞大的军队——由执政官保卢斯和瓦罗统率的八个军团、近86000人——正向南进军要消灭您。您拥有约50000人的部队：利比亚重装步兵、伊比利亚和凯尔特战士、努米底亚轻骑兵，以及马哈巴尔率领的精锐重骑兵。您深入敌境，迦太基不会派来援军。每一战都至关重要。您选择了阿普利亚坎尼村附近的平原作为决战之地。"
+      },
+      "objectives": [
+        {
+          "en": "Destroy the Roman army at Cannae through superior tactics",
+          "ja": "優れた戦術でカンナエのローマ軍を壊滅させる",
+          "zh-CN": "以卓越的战术在坎尼歼灭罗马军队"
+        },
+        {
+          "en": "Break Rome's will to continue the war and force a negotiated peace",
+          "ja": "ローマの継戦意志を挫き、交渉による講和を強いる",
+          "zh-CN": "瓦解罗马的作战意志，迫使其接受谈判和平"
+        },
+        {
+          "en": "Convince Rome's Italian allies to defect to Carthage",
+          "ja": "ローマのイタリア同盟国をカルタゴ側に離反させる",
+          "zh-CN": "说服罗马的意大利盟友倒向迦太基"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "You are outnumbered nearly 2 to 1 — the Roman army is the largest force you have ever faced",
+          "ja": "あなたは約2対1で劣勢——ローマ軍はあなたが直面した最大の軍勢である",
+          "zh-CN": "您在兵力上以近1比2处于劣势——罗马军队是您面对过的最庞大的力量"
+        },
+        {
+          "en": "No reinforcements or resupply from Carthage — you must live off the land and what you capture",
+          "ja": "カルタゴからの援軍や補給はない——現地調達と鹵獲品で生き延びなければならない",
+          "zh-CN": "没有来自迦太基的增援或补给——您必须就地取食和依靠缴获物资"
+        },
+        {
+          "en": "Your army is a diverse coalition of Libyans, Iberians, Celts, and Numidians — cohesion depends on your personal leadership",
+          "ja": "あなたの軍はリビア人、イベリア人、ケルト人、ヌミディア人の多様な連合——結束力はあなたの個人的指導力にかかっている",
+          "zh-CN": "您的军队是由利比亚人、伊比利亚人、凯尔特人和努米底亚人组成的多元联军——凝聚力取决于您的个人领导力"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Roman scorched-earth tactics are denying your army food and forage — you must force a decisive battle soon",
+          "ja": "ローマの焦土戦術があなたの軍の食料と飼料を奪っている——早急に決戦を強いなければならない",
+          "zh-CN": "罗马的焦土战术正在切断您军队的粮草——您必须尽快迫使决战"
+        },
+        {
+          "en": "Carthaginian senators are divided on supporting your campaign — another indecisive result could end reinforcement hopes entirely",
+          "ja": "カルタゴの元老院議員はあなたの遠征への支援で意見が分かれている——また不決定な結果になれば援軍の望みが完全に絶たれる可能性がある",
+          "zh-CN": "迦太基元老院对是否支持您的远征意见分歧——又一个不决定的结果可能彻底断绝援军的希望"
+        },
+        {
+          "en": "Some Italian allies are watching this battle to decide whether to defect from Rome — a clear victory is essential",
+          "ja": "一部のイタリア同盟国がこの戦いを見てローマから離反するかどうかを決めようとしている——明確な勝利が不可欠",
+          "zh-CN": "部分意大利盟邦正在观望这场战役以决定是否背离罗马——一场决定性的胜利至关重要"
+        }
+      ],
+      "startingSceneId": "hannibal-cannae-216bc-scene-001",
+      "initialState": {
+        "armyMorale": 80,
+        "cavalryStrength": 85,
+        "romanCohesion": 90,
+        "tacticalAdvantage": 50,
+        "italianAlliesLoyalty": 40
+      }
+    }
+  ],
+  "sceneIds": [
+    "hannibal-cannae-216bc-scene-001",
+    "hannibal-cannae-216bc-scene-002",
+    "hannibal-cannae-216bc-scene-003"
+  ],
+  "tags": ["ancient", "military", "Rome", "Carthage", "tactical masterpiece"],
+  "difficulty": "advanced"
+}

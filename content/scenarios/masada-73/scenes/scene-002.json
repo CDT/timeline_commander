@@ -1,0 +1,113 @@
+{
+  "id": "masada-73-scene-002",
+  "scenarioId": "masada-73",
+  "title": {
+    "en": "The Breach",
+    "ja": "突破口",
+    "zh-CN": "城墙被突破"
+  },
+  "date": {
+    "en": "Spring 73 AD",
+    "ja": "西暦73年春",
+    "zh-CN": "公元73年春"
+  },
+  "location": {
+    "en": "The Western Casemate Wall, Masada",
+    "ja": "マサダ、西側二重壁",
+    "zh-CN": "马萨达西侧双层城墙"
+  },
+  "narrativePrompt": {
+    "en": "The ramp is complete. For months it rose steadily against the western face of Masada, a mountain of packed earth and timber climbing toward the casemate wall. Now Flavius Silva has brought up his siege tower — an iron-clad mobile platform seven stories high — and inside it a massive battering ram. Yesterday, the Roman siege engines worked all day. The outer wall cracked, then gave way with a sound like thunder heard across the desert. The Masada defenders had built their inner wall of earth and timber as a secondary defense, and for a time it absorbed the blows: the battering ram struck, the packed earth shuddered but held, the defenders cheered. But last night, Silva tried something new: he had his soldiers set fire to the timber inner wall rather than continue battering it. The desert wind, Eleazar's first thought as he watched the fires begin, was blowing from the east — it would carry the flames back into the Roman siege tower. A miracle. But then the wind shifted. It always shifts in these mountains. The west wind caught the fire and drove it into the timber framework of Masada's inner defense. By dawn, the inner wall is a smoldering ruin. The breach is open. There is nothing between the Tenth Legion and the plateau where nine hundred and sixty people — men, women, children — have lived for three years in defiance of Rome. Eleazar ben Ya'ir calls a meeting of the defenders in the great hall of Herod's palace. He must address them, and his words will shape whatever happens next.",
+    "ja": "傾斜路が完成した。何ヶ月もマサダの西面に向かって着実に上昇してきた——詰めた土と木材の山が二重壁に向かって登っていった。今、フラウィウス・シルウァが攻城塔を持ち込んだ——7階建ての鉄板で覆われた移動プラットフォーム——そしてその中に巨大な破城槌がある。昨日、ローマの攻城兵器が一日中作業した。外壁が亀裂を生じ、やがて砂漠中に聞こえる雷のような音とともに崩壊した。マサダの守備者たちは第二の防衛として土と木材の内壁を築いており、しばらくはそれが衝撃を吸収した：破城槌が打ち付け、詰めた土が揺れたが持ちこたえ、守備者たちが歓声を上げた。しかし昨夜、シルウァは新しいことを試みた：打ち続けるのではなく、兵士に木材の内壁に火をつけさせた。エレアザルが炎が始まるのを見て最初に思ったのは、砂漠の風だった——それは炎をローマの攻城塔に向けて運ぶだろう。奇跡。しかしその後、風が変わった。この山々では常に変わる。西風が炎を捉え、マサダの内部防衛の木材骨組みに向けた。夜明けまでに、内壁はくすぶる廃墟となった。突破口は開いた。第十軍団と、3年間ローマへの反抗を続けてきた960人の人々——男性、女性、子供たち——が暮らす台地の間には何もない。エレアザル・ベン・ヤイルはヘロデ宮殿の大広間に守備者を集める会議を招集する。彼は彼らに語りかけなければならない。その言葉が次に起こることを形作るだろう。",
+    "zh-CN": "坡道完成了。数月来它一直稳步地向马萨达的西面升高——夯实泥土和木材组成的山丘攀向双层城墙。现在弗拉维乌斯·席尔瓦带来了他的攻城塔——一座高七层、外覆铁甲的移动平台——其中安装着一架巨大的攻城槌。昨天，罗马攻城器械工作了整整一天。外墙裂开，然后以一声响彻沙漠的雷声般的轰鸣崩塌。马萨达的守军修建了泥土和木材的内墙作为次级防线，有一段时间它吸收了冲击：攻城槌撞击，夯实的泥土震颤却撑住了，守军欢呼。但昨夜，席尔瓦尝试了新方法：他命令士兵点燃木材内墙而非继续锤击。沙漠的风——埃莱亚扎尔看到火焰升起时的第一个想法——是从东边吹来的，会将火焰带向罗马攻城塔。奇迹。但随后风向改变了。在这些山峦中，风总是在变。西风捕住了火焰，将其驱入马萨达内部防线的木质框架。到黎明时，内墙已成一片废墟。突破口开启。第十军团与九百六十人——男人、女人、孩子——三年来藐视罗马而生活的高原之间再无阻隔。埃莱亚扎尔·本·亚伊尔在希律宫的大厅里召集守军开会。他必须向他们发表讲话，他的话语将塑造接下来发生的一切。"
+  },
+  "situationReport": [
+    {
+      "en": "The outer and inner walls have been breached — the Romans will assault at dawn tomorrow",
+      "ja": "外壁と内壁が突破された——ローマ軍は明日の夜明けに攻撃する",
+      "zh-CN": "外墙和内墙均已被突破——罗马军队将于明日黎明发起进攻"
+    },
+    {
+      "en": "The entire Tenth Legion — approximately 15,000 soldiers — faces 960 defenders",
+      "ja": "第十軍団全体——約15,000人の兵士——が960人の守備者と対峙している",
+      "zh-CN": "整个第十军团——约15000名士兵——面对960名守军"
+    },
+    {
+      "en": "Food, water and weapons are still plentiful inside the fortress — starvation is not a factor",
+      "ja": "要塞内部には食料、水、武器がまだ豊富にある——飢饉は要素ではない",
+      "zh-CN": "要塞内部食物、水和武器仍然充足——饥饿不是因素"
+    },
+    {
+      "en": "Eleazar ben Ya'ir must address the defenders and give them something to choose: fight, surrender, or another path",
+      "ja": "エレアザル・ベン・ヤイルは守備者に演説し、選択肢を与えなければならない：戦うか、降伏するか、あるいは別の道か",
+      "zh-CN": "埃莱亚扎尔·本·亚伊尔必须向守军发表讲话，给他们一个选择：战斗、投降，还是另一条路"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Address the defenders and determine the course of Masada's last night",
+      "ja": "守備者に演説し、マサダ最後の夜の行方を決める",
+      "zh-CN": "向守军发表讲话，决定马萨达最后一夜的走向"
+    },
+    {
+      "en": "Choose a course that preserves the honor and dignity of the defenders of Masada",
+      "ja": "マサダの守備者の名誉と尊厳を守る行動方針を選ぶ",
+      "zh-CN": "选择一条保全马萨达守军荣誉和尊严的道路"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Fighting to the last man offers a meaningful death but Romans will enslave all surviving women and children",
+      "ja": "最後の一人まで戦えば意義ある死が得られるが、ローマ人は生き残った女性と子供を全員奴隷にする",
+      "zh-CN": "战斗至最后一人可以换来有意义的死亡，但罗马人将奴役所有幸存的妇女和儿童"
+    },
+    {
+      "en": "Surrender means Roman captivity, enslavement, and a likely display in a triumph at Rome",
+      "ja": "降伏はローマの捕虜、奴隷化、ローマでの凱旋式での展示を意味する",
+      "zh-CN": "投降意味着被罗马俘虏、奴役，以及很可能被展示于罗马凯旋式上"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Urge the defenders to choose death over slavery. Let each man kill his own family, then choose ten men by lot to kill the rest. The last man will take his own life. Rome will take nothing but corpses.",
+        "ja": "守備者に奴隷より死を選ぶよう促す。各人が自分の家族を殺し、次に抽選で10人を選び残りを殺す。最後の一人は自らの命を絶つ。ローマが得るものは死体だけとなる。",
+        "zh-CN": "敦促守军选择死亡而非奴役。让每个男人杀死自己的家人，然后抽签选出十个人杀死其余的人。最后一人将结束自己的生命。罗马得到的只会是尸体。"
+      },
+      "historicalContext": "The historical outcome as reported by Josephus. He records two speeches by Eleazar urging collective death. Two women and five children survived by hiding in a cistern and reported what happened.",
+      "outcomePrompt": {
+        "en": "Eleazar's first speech meets resistance — many of the defenders are unwilling. So he speaks again, longer, and with more passion: he speaks of the soul's freedom from the body's chains, of the sleep that knows no Roman domination. This time the people are moved. Men embrace their wives and children. The weeping is beyond description. Fathers make sure their families do not suffer. Ten men are chosen by lot. They move through the palace completing the terrible work. Then nine of the ten lie down. The last man checks that all are truly dead, sets fire to the palace stores, and falls upon his sword. When Flavius Silva's soldiers enter Masada at dawn on the following morning — with trumpets and banners, expecting to fight — they find silence. Nine hundred and forty dead lie in ordered rows or in family groups. The two women and five children emerge from their hiding place in a cistern, trembling, and tell the Romans what happened. Silva is reportedly shaken. This was not the conquest he expected. He takes the survivors to Caesarea. The story of Masada — the last stand of the Jewish rebels — passes into legend. Nearly two thousand years later, Israeli soldiers will take their oath of service on this mountain, declaring: Masada shall not fall again.",
+        "ja": "エレアザルの最初の演説は抵抗に遭う——多くの守備者が同意しない。そこで彼は再び、より長く、より情熱的に語る：体の鎖からの魂の自由について、ローマの支配を知らない眠りについて。今回、人々は動かされる。男たちが妻と子供を抱擁する。涙は言葉を超えている。父親たちは家族が苦しまないようにする。10人が抽選で選ばれる。彼らは恐ろしい仕事を終えるために宮殿を動き回る。そして10人のうち9人が横になる。最後の男はすべてが本当に死んでいることを確認し、宮殿の倉庫に火を放ち、剣の上に倒れる。翌朝夜明けにフラウィウス・シルウァの兵士たちがマサダに入ると——トランペットと旗を掲げ、戦うことを期待して——沈黙を見つける。940人の死者が整然とした列をなしているか、家族のグループになって横たわっている。2人の女性と5人の子供が地下貯水槽の隠れ場所から震えながら現れ、ローマ人に何が起きたかを話す。シルウァは動揺したと伝えられる。これは彼が予想した征服ではなかった。生存者をカエサレアに連れていく。マサダの物語——ユダヤ人反乱軍の最後の抵抗——は伝説となる。ほぼ2,000年後、イスラエルの兵士がこの山の上で就役の宣誓を行う：マサダは再び陥落しない。",
+        "zh-CN": "埃莱亚扎尔的第一次演讲遭到了抵制——许多守军不愿意。于是他再次发言，更长时间，更充满激情：他谈到灵魂从肉体枷锁中的解脱，谈到不知罗马统治的安眠。这一次，人们被打动了。男人们拥抱妻子和孩子。哭声无以言表。父亲们确保家人不会受苦。十名男子由抽签选出。他们穿行于宫殿中完成这可怕的工作。然后十人中的九人躺下。最后一人确认所有人真的已经死去，点燃了宫殿的仓库，倒在自己的剑上。当弗拉维乌斯·席尔瓦的士兵在次日黎明进入马萨达时——吹奏号角，举起旗帜，期待着战斗——他们发现了寂静。九百四十名死者整齐地躺在队列中或家庭群中。两名妇女和五名儿童从地下蓄水池的藏身处颤抖着走出，向罗马人讲述发生了什么。据报道席尔瓦深受震动。这不是他预期的征服。他将幸存者带到凯撒利亚。马萨达的故事——犹太起义军的最后抵抗——成为传奇。近两千年后，以色列士兵将在这座山上宣誓就职，宣告：马萨达永不再陷落。"
+      },
+      "nextSceneId": "masada-73-scene-003",
+      "stateChanges": [
+        { "variable": "defenderMorale", "operation": "set", "value": 100 },
+        { "variable": "defenderUnity", "operation": "set", "value": 100 },
+        { "variable": "rampProgress", "operation": "set", "value": 100 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Urge the men to fight at dawn — sell our lives as dearly as possible. Let the women and children surrender at first light. Let history record that Masada fought to the last warrior.",
+        "ja": "男たちに夜明けに戦うよう促す——できる限り高い代償をローマに払わせる。女性と子供は最初の光で降伏させる。歴史がマサダは最後の戦士まで戦ったと記録するようにする。",
+        "zh-CN": "敦促男人们在黎明时战斗——让我们的生命卖得尽可能贵。让妇女和孩子在天亮时投降。让历史记载马萨达战斗到最后一名战士。"
+      },
+      "historicalContext": "A counterfactual — the defenders did not choose to fight. Josephus's account describes the collective death. Had the men fought, Roman casualties would have been significant given Masada's remaining defenses.",
+      "outcomePrompt": {
+        "en": "Eleazar makes a different speech — not of death, but of defiance. The women and children will be sent out at dawn to surrender to Silva and receive Roman mercy. The men — all nine hundred fighting-age males — will arm themselves and take positions at the breach. When the Romans come through, they will find not cowering prisoners but warriors. The night is spent in preparation. Weapons are checked and sharpened. Positions are assigned at the narrow breach where the Roman advantage in numbers is partially negated. Farewells are said to families. When dawn comes and the Roman columns advance through the breach, they meet a wall of Jewish steel. The battle of Masada — never previously described by Josephus in his version of events — is ferocious. Roman soldiers die in significant numbers in the confined space. But the Tenth Legion is the finest fighting force in the world, and there are fifteen of them for every one defender. The battle lasts perhaps four hours. When it is over, every fighting man on Masada is dead. The women and children, who surrendered at dawn, are taken to Caesarea. Masada fell fighting. History records it differently than the collective death Josephus describes — but the outcome for Rome is the same: the last stronghold of Jewish resistance is gone.",
+        "ja": "エレアザルは違う演説をする——死ではなく、反抗の演説を。女性と子供は夜明けに出て行き、シルウァに降伏してローマの慈悲を受ける。男たちは——戦闘年齢の男性全員——武装し突破口の陣地に就く。ローマ軍が通ってくると、萎縮した囚人ではなく戦士を見つけることになる。夜は準備に費やされる。武器が確認され研ぎ澄まされる。狭い突破口で陣地が割り当てられ、そこではローマの数的優位が部分的に無効化される。家族との別れが告げられる。夜明けがきてローマの縦列が突破口を進んでくると、彼らはユダヤの鋼鉄の壁に出会う。マサダの戦い——これまでヨセフスの記述に描かれなかった——は熾烈だ。ローマ兵が密集した空間で相当数死ぬ。しかし第十軍団は世界最高の戦闘力を持ち、守備者一人に対して十五人いる。戦いはおそらく四時間続く。終わると、マサダの戦闘員全員が死んでいる。夜明けに降伏した女性と子供はカエサレアに連れて行かれる。マサダは戦いながら陥落した。歴史はヨセフスが描く集団死とは異なる記録をする——しかしローマにとっての結果は同じだ：ユダヤ人抵抗の最後の砦は消えた。",
+        "zh-CN": "埃莱亚扎尔发表了一篇不同的演讲——不是关于死亡，而是关于反抗。妇女和孩子们将在黎明时出去向席尔瓦投降，接受罗马人的仁慈。男人们——所有九百名战斗年龄的男性——将武装起来，在突破口处就位。当罗马人穿越而来，他们发现的不是瑟瑟发抖的俘虏，而是战士。整个夜晚都在准备。武器被检查和磨砺。在狭窄的突破口处分配好阵地，在那里罗马人的数量优势部分被抵消。与家人告别。当黎明来临，罗马纵队穿过突破口推进时，他们遇到了一堵犹太钢铁之墙。马萨达之战——约瑟夫斯的叙述中从未描述过——极为激烈。在密闭空间中，相当数量的罗马士兵阵亡。但第十军团是世界上最精锐的战斗力量，而且每位守军对应十五名罗马兵。战斗大约持续了四个小时。结束时，马萨达上每一名战斗男性都已阵亡。黎明时投降的妇女和孩子被带到凯撒利亚。马萨达在战斗中陷落。历史的记录与约瑟夫斯描述的集体死亡不同——但对罗马而言结果相同：犹太人抵抗的最后堡垒消失了。"
+      },
+      "nextSceneId": "masada-73-scene-003",
+      "stateChanges": [
+        { "variable": "defenderMorale", "operation": "set", "value": 90 },
+        { "variable": "defenderUnity", "operation": "add", "value": -10 },
+        { "variable": "rampProgress", "operation": "set", "value": 100 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

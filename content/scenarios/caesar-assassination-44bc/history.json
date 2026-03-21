@@ -1,0 +1,91 @@
+{
+  "scenarioId": "caesar-assassination-44bc",
+  "timeline": [
+    {
+      "date": "-044-02-15",
+      "description": {
+        "en": "Caesar is named dictator perpetuo (dictator in perpetuity) by the Roman Senate, an unprecedented concentration of permanent power.",
+        "ja": "カエサルはローマ元老院から終身独裁官に任命される。これは前例のない恒久的な権力の集中であった。",
+        "zh-CN": "凯撒被罗马元老院任命为终身独裁官，这是史无前例的永久性权力集中。"
+      }
+    },
+    {
+      "date": "-044-02-15",
+      "description": {
+        "en": "At the Lupercalia festival, Mark Antony publicly offers Caesar a royal diadem, which Caesar refuses — though observers note the refusal appears reluctant.",
+        "ja": "ルペルカリア祭でマルクス・アントニウスが公にカエサルに王冠を差し出すが、カエサルは拒否する。ただし観察者たちはその拒否が不承不承に見えたと記している。",
+        "zh-CN": "在牧神节上，马克·安东尼公开向凯撒献上王冠，凯撒拒绝了——但观察者注意到拒绝显得勉强。"
+      }
+    },
+    {
+      "date": "-044-03-01",
+      "description": {
+        "en": "The conspiracy solidifies with over sixty senators committed. Brutus and Cassius hold secret meetings to finalize the plan for the assassination.",
+        "ja": "60人以上の元老院議員が参加し、陰謀は固まる。ブルトゥスとカッシウスは暗殺計画を最終決定するための秘密会議を開く。",
+        "zh-CN": "六十多名元老院议员加入后，阴谋趋于巩固。布鲁图斯和卡西乌斯召开秘密会议敲定暗杀计划。"
+      }
+    },
+    {
+      "date": "-044-03-14",
+      "description": {
+        "en": "A soothsayer named Spurinna warns Caesar to 'beware the Ides of March.' Caesar dismisses the warning. That evening, Caesar dines with Lepidus and discusses what kind of death is best.",
+        "ja": "スプリンナという占い師がカエサルに「三月のイデスに気をつけよ」と警告する。カエサルはその警告を退ける。その夜、カエサルはレピドゥスと夕食を共にし、どのような死が最善かを語り合う。",
+        "zh-CN": "一位名叫斯普林纳的占卜师警告凯撒\"当心三月望日\"。凯撒对此不以为然。当晚，凯撒与雷必达共进晚餐，讨论什么样的死亡方式最好。"
+      }
+    },
+    {
+      "date": "-044-03-15",
+      "description": {
+        "en": "On the morning of the Ides, Caesar nearly stays home due to his wife Calpurnia's disturbing dreams, but Decimus Brutus persuades him to attend the Senate meeting.",
+        "ja": "イデスの朝、カエサルは妻カルプルニアの不吉な夢のため自宅にとどまりかけるが、デキムス・ブルトゥスが元老院の会議に出席するよう説得する。",
+        "zh-CN": "望日清晨，凯撒因妻子卡尔普尔尼亚的不祥之梦几乎留在家中，但德基穆斯·布鲁图斯说服他前往元老院会议。"
+      }
+    },
+    {
+      "date": "-044-03-15",
+      "description": {
+        "en": "Caesar is assassinated at the Theatre of Pompey, stabbed 23 times by the conspirators. His last recorded words may have been addressed to Brutus in Greek: 'kai su, teknon?' (You too, child?).",
+        "ja": "カエサルはポンペイウス劇場で暗殺され、陰謀者たちに23回刺される。最後に記録された言葉はブルトゥスに向けたギリシア語であった可能性がある。「カイ・ス・テクノン？」（おまえもか、息子よ？）。",
+        "zh-CN": "凯撒在庞培剧院被刺杀，身中二十三刀。他最后记录在案的话可能是用希腊语对布鲁图斯说的：'καὶ σύ, τέκνον;'（你也是吗，孩子？）。"
+      }
+    },
+    {
+      "date": "-044-03-17",
+      "description": {
+        "en": "Mark Antony delivers Caesar's funeral oration, displaying Caesar's bloodied toga and reading his will, which left gifts to every Roman citizen. The crowd turns violently against the conspirators.",
+        "ja": "マルクス・アントニウスがカエサルの追悼演説を行い、血に染まったトーガを掲げ、全ローマ市民への贈り物を遺した遺言を読み上げる。群衆は陰謀者たちに対して暴力的に転じる。",
+        "zh-CN": "马克·安东尼发表凯撒的葬礼演说，展示凯撒血迹斑斑的托加袍并宣读了他的遗嘱——遗嘱中向每位罗马公民赠予了礼物。民众愤怒地转向反对密谋者。"
+      }
+    },
+    {
+      "date": "-044-03-20",
+      "description": {
+        "en": "The Liberatores are forced to flee Rome as popular fury intensifies. Brutus and Cassius retreat to the eastern provinces to raise armies, beginning the chain of events that will lead to civil war.",
+        "ja": "民衆の怒りが激化する中、解放者たちはローマから逃亡を余儀なくされる。ブルトゥスとカッシウスは軍を集めるために東方属州に退き、内戦に至る一連の出来事が始まる。",
+        "zh-CN": "随着民愤加剧，解放者们被迫逃离罗马。布鲁图斯和卡西乌斯退往东方行省募集军队，由此开启了通向内战的一系列事件。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The assassination of Julius Caesar achieved its immediate goal — the dictator was dead — but failed completely in its broader objective of restoring the Roman Republic. The conspirators had no effective plan for the aftermath, allowing Mark Antony to seize the political initiative. The subsequent civil wars led to the defeat of the Liberatores at Philippi and ultimately the establishment of the Roman Empire under Octavian (Augustus), completing the very transformation the assassins had sought to prevent.",
+    "ja": "ユリウス・カエサルの暗殺は直接的な目標——独裁者の排除——を達成したが、ローマ共和国の回復というより大きな目的には完全に失敗した。陰謀者たちにはその後の効果的な計画がなく、マルクス・アントニウスが政治的主導権を握ることを許した。その後の内戦はフィリッピでの解放者たちの敗北に至り、最終的にオクタウィアヌス（アウグストゥス）のもとでのローマ帝国の成立をもたらし、暗殺者たちが阻止しようとしたまさにその変革を完成させた。",
+    "zh-CN": "刺杀尤利乌斯·凯撒实现了其直接目标——独裁者死了——但在恢复罗马共和国这一更宏大目标上完全失败。密谋者们没有有效的善后计划，使马克·安东尼得以掌握政治主动权。随后的内战导致解放者在腓立比战败，最终屋大维（奥古斯都）建立了罗马帝国，完成了刺客们试图阻止的那场变革。"
+  },
+  "casualties": {
+    "en": "The immediate casualty count was one: Julius Caesar himself, who suffered 23 stab wounds, of which only one (to the chest) was determined to be fatal by the physician Antistius. However, the political violence and civil wars that followed claimed hundreds of thousands of lives, including the proscriptions of the Second Triumvirate which killed an estimated 300 senators and 2,000 equestrians.",
+    "ja": "直接的な死者は一人、ユリウス・カエサル本人で、23カ所の刺し傷を受けたが、医師アンティスティウスにより致命的と判断されたのは胸への一刺しのみであった。しかし、その後の政治的暴力と内戦で数十万人の命が失われた。第二回三頭政治の追放令だけで推定300人の元老院議員と2,000人の騎士階級が殺害された。",
+    "zh-CN": "直接死亡人数为一人：尤利乌斯·凯撒本人，他身中二十三刀，其中只有一刀（刺入胸部）被医生安提斯提乌斯判定为致命伤。然而，随后的政治暴力和内战夺去了数十万人的生命，包括后三头同盟的公敌宣告估计杀死了三百名元老院议员和两千名骑士阶层人士。"
+  },
+  "significance": {
+    "en": "The assassination of Julius Caesar is one of the most consequential political events in Western history. It marked the effective end of the Roman Republic, though the Republic would linger in name for another generation. The event demonstrated the futility of political violence without a viable plan for its aftermath, a lesson that resonates throughout political history. It also created enduring cultural archetypes — Brutus as the tragic idealist, Caesar as the ambitious overreacher, and the Ides of March as a symbol of impending doom.",
+    "ja": "ユリウス・カエサルの暗殺は西洋史上最も重大な政治的事件の一つである。これはローマ共和制の事実上の終焉を画したが、共和制の名はさらに一世代続くことになる。この事件はその後の実行可能な計画なき政治的暴力の無益さを示し、政治史を通じて響き続ける教訓となった。また、永続的な文化的原型を生み出した。悲劇的な理想主義者としてのブルトゥス、野心的な越権者としてのカエサル、そして迫りくる運命の象徴としての三月のイデスである。",
+    "zh-CN": "刺杀尤利乌斯·凯撒是西方历史上最具深远影响的政治事件之一。它标志着罗马共和国的实际终结，尽管共和国的名义还将延续一代人。这一事件展示了没有可行善后计划的政治暴力的徒劳，这一教训在整个政治史中回响。它还创造了持久的文化原型——布鲁图斯作为悲剧性的理想主义者，凯撒作为野心勃勃的僭越者，三月望日作为厄运将至的象征。"
+  },
+  "furtherReading": [
+    "Plutarch, Life of Caesar and Life of Brutus",
+    "Suetonius, The Twelve Caesars",
+    "Barry Strauss, The Death of Caesar: The Story of History's Most Famous Assassination (2015)",
+    "Adrian Goldsworthy, Caesar: Life of a Colossus (2006)",
+    "Appian, The Civil Wars"
+  ]
+}

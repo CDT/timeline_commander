@@ -1,0 +1,115 @@
+{
+  "id": "fall-of-babylon-539bc-scene-002",
+  "scenarioId": "fall-of-babylon-539bc",
+  "title": {
+    "en": "Through the River Gates",
+    "ja": "河門を越えて",
+    "zh-CN": "穿越河门"
+  },
+  "date": {
+    "en": "Night of October 12, 539 BC",
+    "ja": "紀元前539年10月12日の夜",
+    "zh-CN": "公元前539年10月12日夜"
+  },
+  "location": {
+    "en": "Banks of the Euphrates, northern approach to Babylon",
+    "ja": "ユーフラテス川岸、バビロン北方接近路",
+    "zh-CN": "幼发拉底河岸，巴比伦北方接近通道"
+  },
+  "narrativePrompt": {
+    "en": "The night has come. Inside Babylon, the sounds of revelry echo through the streets — it is the night of a great religious festival, and Belshazzar himself is hosting an enormous banquet in the royal palace. Your preparations are complete. The Euphrates has been partially diverted, and the water level at the river gates has dropped significantly. Ugbaru stands beside you with a hand-picked force of two thousand Persian veterans, their armor blackened with soot to avoid reflecting torchlight. The Marduk priests have confirmed through their intermediaries that the inner river gates on the eastern bank will be left unbarred. However, your scouts have just returned with troubling news: Belshazzar has posted additional sentries along the river walls, perhaps sensing that something is wrong. The western river gate remains heavily guarded. You must decide how to commit your infiltration force. Ugbaru argues for splitting the force — sending men through both the northern and southern river entrances simultaneously to divide the defenders' attention. Your general Gobryas counsels patience, suggesting you wait another hour for the festival drinking to further dull the sentries' alertness. Every minute of delay risks the river level rising again if the upstream dams are not perfectly maintained, but moving too hastily could alert the garrison before enough men are inside the walls to secure key positions.",
+    "ja": "夜が来た。バビロンの内部では祝祭の音が通りに響き渡っている——大規模な宗教祭の夜であり、ベルシャザル自身が王宮で盛大な宴を催している。準備は完了した。ユーフラテス川は部分的に迂回され、河門の水位は大幅に低下している。ウグバルが精選された二千のペルシア古参兵と共に傍らに立ち、松明の光を反射しないよう煤で黒く塗った鎧を身に着けている。マルドゥクの神官たちは仲介者を通じ、東岸の内側の河門が閂を外されたままになることを確認した。しかし斥候が不穏な知らせを持ち帰った。ベルシャザルが何かを察知したのか、川沿いの城壁に追加の歩哨を配置したのだ。西側の河門は厳重に守られたままである。浸透部隊の投入方法を決断しなければならない。ウグバルは部隊の分割を主張する——北と南の河川入口から同時に兵を送り込み、守備側の注意を分散させる。将軍ゴブリアスは忍耐を勧め、祭りの飲酒で歩哨の警戒心がさらに鈍るまでもう一時間待つことを提案する。遅延の一分一分が、上流のダムが完璧に維持されなければ水位が再び上昇する危険を伴うが、急ぎすぎれば城壁内に十分な兵が入る前に守備隊に警報が上がるかもしれない。",
+    "zh-CN": "夜幕降临。巴比伦城内，欢宴的声音回荡在街道上——这是一个盛大宗教节日之夜，伯沙撒本人正在王宫举办一场盛大的宴会。你的准备工作已经完成。幼发拉底河已被部分改道，河门处的水位已大幅下降。乌格巴鲁站在你身边，身后是精心挑选的两千名波斯老兵，他们的铠甲涂满煤灰以避免反射火光。马尔杜克祭司通过中间人确认东岸的内河门将不上闩。然而你的斥候刚刚带回了令人不安的消息：伯沙撒在沿河城墙上增派了哨兵，也许察觉到了什么。西侧河门仍然守卫森严。你必须决定如何部署渗透部队。乌格巴鲁主张分兵行动——同时从南北两个河道入口派兵进入以分散守军注意力。你的将军戈布里亚斯建议耐心等待，再等一个小时让节日的饮酒进一步麻痹哨兵的警觉。每一分钟的延迟都有上游水坝维护不善导致水位回升的风险，但行动过于仓促可能在城墙内部署足够兵力确保关键阵地之前就惊动守军。"
+  },
+  "situationReport": [
+    {
+      "en": "The Euphrates water level has dropped enough for men to wade through the river gates chest-deep",
+      "ja": "ユーフラテス川の水位が十分に低下し、胸の深さで河門を歩いて渡れるようになった",
+      "zh-CN": "幼发拉底河水位已下降到足以让人涉水齐胸深通过河门的程度"
+    },
+    {
+      "en": "Belshazzar is hosting a great feast in the palace — most of the city is celebrating and drinking",
+      "ja": "ベルシャザルが宮殿で大宴会を催している——都市の大部分が祝祭と飲酒に耽っている",
+      "zh-CN": "伯沙撒正在王宫举行盛大宴会——城中大部分人都在庆祝饮酒"
+    },
+    {
+      "en": "The Marduk priesthood has agreed to leave the eastern inner river gates unbarred",
+      "ja": "マルドゥク神官団が東側の内河門の閂を外したままにすることに同意した",
+      "zh-CN": "马尔杜克祭司阶层已同意不为东侧内河门上闩"
+    },
+    {
+      "en": "Additional sentries have been posted along the river walls — Belshazzar may suspect treachery",
+      "ja": "川沿いの城壁に追加の歩哨が配置された——ベルシャザルは裏切りを疑っているかもしれない",
+      "zh-CN": "沿河城墙已增派额外哨兵——伯沙撒可能怀疑有人通敌"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Infiltrate sufficient forces through the river gates to seize key positions inside the city",
+      "ja": "河門を通じて十分な戦力を浸透させ、都市内の要所を確保する",
+      "zh-CN": "通过河门渗透足够兵力以夺取城内关键阵地"
+    },
+    {
+      "en": "Prevent the garrison from organizing a coordinated defense before the city is secured",
+      "ja": "都市が確保される前に守備隊が組織的な防衛を組むのを阻止する",
+      "zh-CN": "在城市被控制之前阻止守军组织起协调的防御"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The diverted river may begin rising again if upstream dams fail — the window of opportunity is narrow",
+      "ja": "迂回させた川は上流のダムが決壊すれば再び水位が上昇し始める可能性がある——機会の窓は狭い",
+      "zh-CN": "如果上游水坝失守，改道的河水可能重新上涨——机会之窗十分狭窄"
+    },
+    {
+      "en": "Excessive noise or fighting at the river gates will alert the entire garrison and trap your men inside",
+      "ja": "河門での過度な騒音や戦闘は守備隊全体に警報を発し、兵を内部に閉じ込めることになる",
+      "zh-CN": "河门处过大的噪音或战斗将惊动整个守军并把你的人困在城内"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Send the full force through the northern river gate immediately. Speed and concentration of force are paramount — get as many men inside as fast as possible before the alarm is raised.",
+        "ja": "全軍を直ちに北側の河門から送り込む。速度と戦力の集中が最重要——警報が上がる前にできるだけ多くの兵を素早く内部に入れる。",
+        "zh-CN": "立即将全部兵力从北侧河门送入。速度和兵力集中至关重要——在警报响起之前尽可能快地让更多人进入城内。"
+      },
+      "historicalContext": "The historical approach closely mirrors this — Ugbaru led a concentrated force along the riverbed under cover of the festival night, achieving almost complete surprise.",
+      "outcomePrompt": {
+        "en": "You give the signal and Ugbaru leads two thousand men into the black waters of the Euphrates. They wade in silence, weapons held above their heads, the cold river reaching their chests. The first men reach the northern river gate and find the bronze grate lifted just high enough to pass beneath — the work of sympathetic priests inside. They emerge dripping and silent into the darkened streets of Babylon's riverside quarter. The sentries on the river wall never look down. Within an hour, your forces have secured the Ishtar Gate from the inside and opened it to the main Persian army waiting outside. Babylonian soldiers, many of them drunk from the festival, are disarmed in their barracks without a fight. By the time Belshazzar realizes what is happening, Persian troops control every major gate and bridge in the city. The prince attempts to rally his personal guard at the palace, but it is too late. Babylon has been taken almost without bloodshed — a military miracle that will echo through the ages. Now you must decide how to consolidate your hold on this ancient capital.",
+        "ja": "合図を送り、ウグバルが二千の兵を率いてユーフラテスの暗い水の中に入る。武器を頭上に掲げ、冷たい川が胸まで達する中を無言で歩く。最初の兵士が北側の河門に到着し、青銅の格子がぎりぎり通れる高さまで持ち上げられているのを見つける——内部の協力的な神官の仕業だ。滴り落ちる水を纏い、バビロンの川沿いの地区の暗い通りに無音で出現する。川の城壁の歩哨は下を見ることはなかった。一時間以内に、あなたの軍はイシュタル門を内側から確保し、外で待機する本隊のために開放した。バビロニアの兵士たちは、その多くが祭りで酩酊しており、兵舎で戦うことなく武装解除された。ベルシャザルが事態を把握した時には、ペルシア軍が都市のすべての主要な門と橋を制圧していた。王子は宮殿で親衛隊を集結させようとするが、もう手遅れだった。バビロンはほぼ無血で陥落した——時代を超えて語り継がれる軍事的奇跡である。今この古代の首都に対する支配をどう固めるか決断しなければならない。",
+        "zh-CN": "你发出信号，乌格巴鲁率领两千人走入幼发拉底河漆黑的水中。他们沉默地涉水前进，武器举过头顶，冰冷的河水没至胸口。首批士兵到达北侧河门，发现青铜栅栏刚好被抬高到可以通过的高度——这是城内同情者的祭司所为。他们浑身湿透却悄无声息地出现在巴比伦河畔区昏暗的街道上。河墙上的哨兵从未向下张望。不到一个小时，你的部队已从内部控制了伊什塔尔门并将其向外面等候的波斯主力军打开。巴比伦士兵许多因节日饮酒而醉倒，在营房中未作抵抗便被缴械。当伯沙撒意识到发生了什么时，波斯军队已控制了城内每一座主要城门和桥梁。王子试图在王宫集结亲卫队，但为时已晚。巴比伦几乎不费一兵一卒便被攻占——这一军事奇迹将永载史册。现在你必须决定如何巩固对这座古老首都的控制。"
+      },
+      "nextSceneId": "fall-of-babylon-539bc-scene-003",
+      "stateChanges": [
+        { "variable": "persianStrength", "operation": "add", "value": -5 },
+        { "variable": "babylonianMorale", "operation": "add", "value": -20 },
+        { "variable": "cityIntegrity", "operation": "add", "value": -5 },
+        { "variable": "civilianSupport", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Split the force and send simultaneous teams through both the northern and southern river gates. Accept greater risk of detection for the chance to seize the entire city in a single coordinated strike.",
+        "ja": "部隊を分割し、北と南の河門から同時にチームを送り込む。都市全体を一度の共同攻撃で制圧する機会のために、発見のリスク増大を受け入れる。",
+        "zh-CN": "分兵同时从南北两个河门派遣队伍。为了一次协调打击夺取整座城市的机会，接受更大的被发现风险。"
+      },
+      "historicalContext": "A counterfactual — splitting forces through multiple entry points would have been riskier due to coordination challenges but could have secured more of the city simultaneously.",
+      "outcomePrompt": {
+        "en": "You divide Ugbaru's force into two columns. The northern team enters smoothly — the priests have done their work and the gate stands open. But the southern team encounters trouble. The water is deeper than expected at the southern gate, and the extra sentries Belshazzar posted spot movement in the river. Shouts ring out and torches flare along the southern wall. The southern team fights a sharp skirmish at the river gate, killing the sentries but alerting nearby barracks. Now it becomes a race. The northern force, hearing the commotion, abandons stealth and sprints through the streets toward the palace and the Ishtar Gate. The southern force pushes through heavy resistance toward the Temple of Marduk. The city erupts in confused fighting — most Babylonian soldiers have no idea what is happening and many surrender immediately when they see Persian troops inside the walls. Within two hours, both forces link up at the palace complex. Belshazzar is captured attempting to flee through a servants' passage. The city is taken, though with more fighting and civilian casualties than a purely stealthy approach would have caused.",
+        "ja": "ウグバルの部隊を二つの縦隊に分割する。北側のチームは順調に進入する——神官たちが役目を果たし、門は開いている。だが南側のチームは問題に遭遇する。南門での水位は予想より深く、ベルシャザルが配置した追加の歩哨が川の中の動きを発見する。叫び声が響き、南壁沿いに松明が燃え上がる。南側のチームは河門で激しい小競り合いを行い、歩哨を殺害するが、近くの兵舎に警報が届く。ここからは時間との戦いだ。北側の部隊は騒動を聞いて隠密行動を放棄し、宮殿とイシュタル門に向かって通りを駆け抜ける。南側の部隊は激しい抵抗を押して馬爾杜克神殿に向かう。都市中で混乱した戦闘が発生するが、大半のバビロニア兵は何が起きているのか分からず、城壁内にペルシア軍を見た多くが即座に降伏する。二時間以内に両部隊が宮殿施設で合流する。ベルシャザルは使用人の通路から逃亡しようとして捕らえられる。完全な隠密行動よりも多くの戦闘と市民の犠牲を伴ったものの、都市は陥落した。",
+        "zh-CN": "你将乌格巴鲁的部队分成两路纵队。北路顺利进入——祭司们完成了他们的任务，门已敞开。但南路遇到了麻烦。南门处的水位比预想的更深，伯沙撒增派的哨兵发现了河中的动静。喊声响起，火把沿南墙点亮。南路部队在河门处经历了一场激烈的小规模战斗，杀死了哨兵但惊动了附近的营房。现在变成了一场争分夺秒的竞赛。北路部队听到骚动后放弃隐蔽，沿街道全速奔向王宫和伊什塔尔门。南路部队顶着猛烈抵抗向马尔杜克神庙推进。全城爆发了混乱的战斗——大多数巴比伦士兵不知道发生了什么，许多人在城墙内看到波斯军队后立即投降。两小时内两支部队在王宫建筑群会合。伯沙撒试图通过仆人通道逃跑时被捕。城市被攻占了，但比纯粹的隐蔽行动造成了更多的战斗和平民伤亡。"
+      },
+      "nextSceneId": "fall-of-babylon-539bc-scene-003",
+      "stateChanges": [
+        { "variable": "persianStrength", "operation": "add", "value": -15 },
+        { "variable": "babylonianMorale", "operation": "add", "value": -25 },
+        { "variable": "cityIntegrity", "operation": "add", "value": -15 },
+        { "variable": "civilianSupport", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

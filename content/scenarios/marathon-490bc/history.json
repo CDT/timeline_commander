@@ -1,0 +1,91 @@
+{
+  "scenarioId": "marathon-490bc",
+  "timeline": [
+    {
+      "date": "-490-06-01",
+      "description": {
+        "en": "The Persian expeditionary fleet departs from Cilicia under the command of Datis and Artaphernes, carrying an estimated 25,000 troops across the Aegean Sea.",
+        "ja": "ダティスとアルタフェルネスの指揮下、ペルシア遠征艦隊がキリキアを出発し、推定25,000人の兵士をエーゲ海を越えて輸送する。",
+        "zh-CN": "波斯远征舰队在达提斯和阿塔弗涅斯的指挥下从奇里乞亚出发，载着约25000名士兵横渡爱琴海。"
+      }
+    },
+    {
+      "date": "-490-07-15",
+      "description": {
+        "en": "The Persians island-hop across the Cyclades, demanding submission from each island. Naxos is burned in retribution for its successful resistance a decade earlier.",
+        "ja": "ペルシア軍はキクラデス諸島を島伝いに進み、各島に降伏を要求する。ナクソスは十年前の抵抗への報復として焼き払われる。",
+        "zh-CN": "波斯人跳岛穿越基克拉泽斯群岛，要求每个岛屿臣服。纳克索斯因十年前成功的抵抗而被焚毁作为报复。"
+      }
+    },
+    {
+      "date": "-490-08-01",
+      "description": {
+        "en": "Eretria on the island of Euboea is besieged. After six days of fierce resistance, the city is betrayed from within and falls. The population is enslaved and deported to Persia.",
+        "ja": "エウボイア島のエレトリアが包囲される。六日間の激しい抵抗の後、内部からの裏切りにより陥落。住民は奴隷にされペルシアに連行される。",
+        "zh-CN": "优卑亚岛上的埃雷特里亚遭到围攻。经过六天激烈抵抗后，城市从内部被出卖而陷落。居民被奴役并流放至波斯。"
+      }
+    },
+    {
+      "date": "-490-09-01",
+      "description": {
+        "en": "The Persian fleet lands at Marathon on the advice of the exiled Athenian tyrant Hippias, who hopes to be restored to power. The flat coastal plain is ideal for Persian cavalry.",
+        "ja": "亡命アテナイの僭主ヒッピアスの助言により、ペルシア艦隊がマラトンに上陸する。平坦な海岸平原はペルシア騎兵に理想的である。",
+        "zh-CN": "在流亡雅典僭主希庇亚斯的建议下，波斯舰队在马拉松登陆。平坦的海岸平原是波斯骑兵的理想场地。"
+      }
+    },
+    {
+      "date": "-490-09-05",
+      "description": {
+        "en": "Athens sends the runner Pheidippides to Sparta requesting aid. He covers 240 kilometers in two days. Sparta agrees to help but cannot march until after the Carneia festival.",
+        "ja": "アテナイは伝令フェイディピデスをスパルタに派遣し援軍を要請する。彼は二日間で240キロメートルを走破する。スパルタは援助に同意するが、カルネイア祭の後まで出兵できない。",
+        "zh-CN": "雅典派遣信使菲迪皮德斯前往斯巴达请求援助。他在两天内跑了240公里。斯巴达同意帮助，但在卡尔内亚节日结束前无法出兵。"
+      }
+    },
+    {
+      "date": "-490-09-10",
+      "description": {
+        "en": "The Athenian army of 10,000 hoplites marches to Marathon and takes up a defensive position in the hills overlooking the plain. 1,000 Plataeans join them as allies.",
+        "ja": "1万人の重装歩兵からなるアテナイ軍がマラトンに進軍し、平原を見下ろす丘陵に防御陣地を構える。プラタイアから1,000人の同盟軍が合流する。",
+        "zh-CN": "由一万名重装步兵组成的雅典军队向马拉松进军，在俯瞰平原的山丘上建立防御阵地。一千名普拉提亚盟军前来汇合。"
+      }
+    },
+    {
+      "date": "-490-09-12",
+      "description": {
+        "en": "Miltiades seizes the moment when Persian cavalry is absent (possibly re-embarked on ships) and orders the attack. The Greeks charge at a run across the plain to minimize exposure to Persian arrows.",
+        "ja": "ペルシア騎兵が不在の瞬間（おそらく船に再乗船中）を捉え、ミルティアデスが攻撃を命じる。ギリシャ軍はペルシアの矢にさらされる時間を最小限にするため、平原を駆け足で突撃する。",
+        "zh-CN": "米太亚德抓住波斯骑兵不在的时机（可能已重新登船），下令进攻。希腊人跑步冲过平原，以尽量减少暴露在波斯箭雨下的时间。"
+      }
+    },
+    {
+      "date": "-490-09-12",
+      "description": {
+        "en": "The Greek wings crush the Persian flanks and envelop the center. The Persians rout and flee to their ships. Greece loses 192 men; Persia loses approximately 6,400. The Athenians then force-march back to Athens to prevent a seaborne attack.",
+        "ja": "ギリシャ軍の両翼がペルシアの側面を粉砕し中央を包囲する。ペルシア軍は敗走し船へ逃走する。ギリシャの戦死者は192名、ペルシアは約6,400名を失う。その後、アテナイ軍は海からの攻撃を防ぐためアテナイへ急行軍する。",
+        "zh-CN": "希腊两翼粉碎了波斯侧翼并包围了中央。波斯军队溃败逃向船只。希腊阵亡192人；波斯损失约6400人。随后雅典人强行军返回雅典以阻止海上进攻。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Battle of Marathon was a decisive Greek victory that halted the first Persian invasion of Greece. The Athenian-Plataean force defeated a much larger Persian army through superior tactics, training, and equipment. The victory preserved Athenian independence and demonstrated that the Persian Empire was not invincible.",
+    "ja": "マラトンの戦いは、ペルシアによるギリシャへの第一次侵攻を阻止した決定的なギリシャの勝利であった。アテナイ・プラタイア連合軍は、優れた戦術、訓練、装備によって、はるかに大きなペルシア軍を打ち破った。この勝利はアテナイの独立を守り、ペルシア帝国が無敵ではないことを示した。",
+    "zh-CN": "马拉松战役是希腊的决定性胜利，阻止了波斯对希腊的第一次入侵。雅典-普拉提亚联军凭借优越的战术、训练和装备击败了规模大得多的波斯军队。这场胜利保全了雅典的独立，并证明波斯帝国并非不可战胜。"
+  },
+  "casualties": {
+    "en": "Greek losses: 192 Athenians and 11 Plataeans killed. Persian losses: approximately 6,400 killed and 7 ships captured. The low Greek casualties reflect the superiority of hoplite armor and the effectiveness of Miltiades' tactical plan.",
+    "ja": "ギリシャ側の損害：アテナイ人192名、プラタイア人11名が戦死。ペルシア側の損害：約6,400名が戦死、7隻が鹵獲。ギリシャ側の低い損害は、重装歩兵の鎧の優位性とミルティアデスの戦術計画の有効性を反映している。",
+    "zh-CN": "希腊损失：192名雅典人和11名普拉提亚人阵亡。波斯损失：约6400人阵亡，7艘船被俘获。希腊较低的伤亡反映了重装步兵铠甲的优越性和米太亚德战术计划的有效性。"
+  },
+  "significance": {
+    "en": "Marathon was a turning point in Western history. It proved that Greek hoplites could defeat Persian forces in open battle, boosted Greek confidence enormously, and set the stage for the larger confrontation at Thermopylae and Salamis ten years later. The battle became a symbol of democratic resistance against tyranny and inspired the legend of the marathon run. Athens used the prestige of the victory to build its naval power, ultimately leading to the golden age of Athenian democracy.",
+    "ja": "マラトンは西洋史の転換点であった。ギリシャの重装歩兵が野戦でペルシア軍を打ち破れることを証明し、ギリシャの自信を大いに高め、10年後のテルモピュライとサラミスでのより大きな対決の舞台を整えた。この戦いは専制に対する民主的抵抗の象徴となり、マラソン走の伝説を生んだ。アテナイはこの勝利の威信を利用して海軍力を構築し、最終的にアテナイ民主制の黄金時代へとつながった。",
+    "zh-CN": "马拉松是西方历史的转折点。它证明了希腊重装步兵能够在野战中击败波斯军队，极大地增强了希腊人的信心，并为十年后在温泉关和萨拉米斯的更大对决奠定了基础。这场战役成为民主抵抗暴政的象征，并催生了马拉松长跑的传说。雅典利用这场胜利的声望建立了海军力量，最终开启了雅典民主制的黄金时代。"
+  },
+  "furtherReading": [
+    "Herodotus, The Histories (Book VI)",
+    "Peter Krentz, The Battle of Marathon (2010)",
+    "Nicholas Sekunda, Marathon 490 BC: The First Persian Invasion of Greece (2002)",
+    "J.F. Lazenby, The Defence of Greece 490-479 BC (1993)",
+    "Alan Lloyd, Marathon: The Story of Civilizations on Collision Course (2004)"
+  ]
+}

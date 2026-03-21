@@ -1,0 +1,114 @@
+{
+  "id": "fall-of-carthage-146bc-scene-003",
+  "scenarioId": "fall-of-carthage-146bc",
+  "title": {
+    "en": "The Final Assault",
+    "ja": "最終攻撃",
+    "zh-CN": "最后的进攻"
+  },
+  "date": {
+    "en": "Spring 146 BC",
+    "ja": "紀元前146年 春",
+    "zh-CN": "公元前146年 春"
+  },
+  "location": {
+    "en": "Walls and streets of Carthage",
+    "ja": "カルタゴの城壁と市街",
+    "zh-CN": "迦太基的城墙与街道"
+  },
+  "narrativePrompt": {
+    "en": "The moment has come. After months of systematic siege operations, Carthage is starving. The blockade—whether by mole or by fleet—has reduced the city to desperate extremity. Scouts report that the defenders are eating leather, boiling hides, and fighting over scraps of grain. Disease ravages the weakened population, and the stench of death hangs over the city like a pall. Yet even now, the Carthaginians refuse to surrender. Hasdrubal has executed anyone who speaks of capitulation, and the remaining defenders—gaunt, desperate, but unbowed—man the walls with a ferocity born of absolute despair.\n\nYour army is ready. The months of disciplined training and systematic preparation have forged the legions into a formidable fighting force. Siege engines are positioned, scaling ladders prepared, and assault columns organized. Your officers are confident, the men eager to end the long campaign. But the final assault on a city is always the bloodiest phase of any siege, and Carthage is no ordinary city. The triple walls, though battered, still stand. The narrow streets beyond form a labyrinth that will negate your numerical advantage and turn every house into a fortress.\n\nYou have gathered your senior officers in the command tent for a final war council. Two plans are on the table. The first is a concentrated assault through the harbor area, where the walls have been weakened by your bombardment and the defenders are thinnest. Once inside, your forces would push through the commercial district toward the Byrsa hill citadel in the city center. The second plan involves a broader assault on multiple points simultaneously, stretching the defenders thin and preventing them from concentrating their remaining strength.\n\nAs you consider your options, you are acutely aware of what will happen when your soldiers enter the city. Three years of frustration, heat, disease, and casualties have built an enormous reservoir of rage in your legions. The Senate's mandate is clear: Carthago delenda est. But as a man of culture and learning, you cannot help but feel the weight of what you are about to do—the destruction of a civilization that has endured for seven centuries. Whatever choice you make today, the world will never be the same.",
+    "ja": "その時が来た。数ヶ月にわたる組織的な包囲作戦の後、カルタゴは飢えている。防波堤であれ艦隊であれ、封鎖は都市を絶望的な窮乏に追い込んだ。偵察兵の報告によると、守備兵たちは革を食べ、皮を煮て、穀物のかけらを奪い合っている。疫病が衰弱した住民を蝕み、死の悪臭が都市を覆い尽くしている。それでもなお、カルタゴ人は降伏を拒んでいる。ハスドルバルは降伏を口にする者を処刑し、残りの守備兵たち――痩せ細り、絶望しながらも屈しない者たち――は絶対的な絶望から生まれる獰猛さで城壁を守っている。\n\nあなたの軍は準備万端である。数ヶ月の規律ある訓練と体系的な準備が軍団を恐るべき戦闘力に鍛え上げた。攻城兵器が配置され、攻城梯子が準備され、突撃縦隊が編成されている。士官たちは自信に満ち、兵士たちは長い作戦の終結を切望している。しかし、都市への最終攻撃はあらゆる包囲戦で最も血生臭い段階であり、カルタゴは普通の都市ではない。三重城壁は砲撃で損傷しているが依然として立っている。その向こうの狭い街路は迷宮をなし、数の優位を無効化し、すべての家を要塞に変えるだろう。\n\n最後の軍議のために上級将校を司令部の天幕に集めた。二つの作戦案がある。第一案は港湾地区を通る集中攻撃で、砲撃により城壁が弱体化し守備兵が最も手薄な場所である。突入後、軍は商業地区を通って市の中心にあるビュルサの丘の城塞に向かって押し進む。第二案は複数の地点への同時広域攻撃で、守備兵を薄く引き伸ばし、残存戦力の集中を阻止する。\n\n選択肢を検討しながら、兵士たちが市内に入った時に何が起こるかを痛感している。三年間の挫折、暑さ、疫病、損害が軍団の中に巨大な怒りの蓄積を築いた。元老院の命令は明確である：カルタゴは滅ぼされるべし。しかし、教養ある文化人として、今まさに行おうとしていること――七世紀にわたって存続した文明の破壊――の重さを感じずにはいられない。今日どのような選択をしても、世界は二度と元には戻らない。",
+    "zh-CN": "时刻已到。经过数月系统性的围城作战，迦太基正在挨饿。无论是通过防波堤还是舰队的封锁，都已将这座城市逼入绝境。侦察兵报告守军在啃食皮革、熬煮兽皮、争抢残余的粮食。疾病肆虐着虚弱的居民，死亡的恶臭如同帷幕般笼罩着整座城市。然而即便如此，迦太基人仍然拒绝投降。哈斯德鲁巴尔处决了任何提及投降的人，剩余的守军——骨瘦如柴、绝望但不屈——以绝对绝望中产生的凶猛坚守城墙。\n\n你的军队已经准备就绪。数月的严格训练和系统性准备已将军团锻造成一支令人生畏的作战力量。攻城器械就位，攻城梯准备完毕，突击纵队编组完成。你的军官们信心十足，士兵们渴望结束这场漫长的战役。但对城市的最终进攻始终是任何围城战中最血腥的阶段，而迦太基不是一座普通的城市。三重城墙虽然遭受了猛烈轰击，仍然矗立。城墙之后的狭窄街道形成迷宫，将抵消你的兵力优势，使每栋房屋都成为一座堡垒。\n\n你将高级军官召集到指挥帐篷进行最后的军事会议。桌上有两个方案。第一个是从港口区域发动集中进攻，那里的城墙已被你的轰击削弱，守军最为薄弱。突入后，部队将穿过商业区向城市中心的比尔萨山城堡推进。第二个方案是在多个点位同时发动更广泛的进攻，迫使守军分散兵力，阻止他们集中剩余力量。\n\n在考虑选项时，你深切意识到士兵们进入城市后将会发生什么。三年的挫折、酷热、疾病和伤亡在你的军团中积蓄了巨大的愤怒。元老院的命令很明确：迦太基必须毁灭。但作为一个有教养的文化人，你不禁感受到即将之事的沉重——毁灭一个延续了七个世纪的文明。无论你今天做出什么选择，世界都将永远不同。"
+  },
+  "situationReport": [
+    {
+      "en": "Carthage's population is starving after months of effective blockade; defenders are severely weakened but remain determined to fight to the death.",
+      "ja": "数ヶ月の効果的な封鎖の後、カルタゴの住民は飢えている。守備兵は著しく弱体化しているが、死ぬまで戦う決意を変えていない。",
+      "zh-CN": "经过数月有效封锁，迦太基居民正在挨饿；守军严重虚弱但仍决心战斗到死。"
+    },
+    {
+      "en": "Roman siege engines have damaged sections of the triple walls, particularly near the harbor, creating potential breach points for assault.",
+      "ja": "ローマの攻城兵器が三重城壁の一部、特に港付近を損傷し、攻撃のための突破口となりうる箇所を作り出している。",
+      "zh-CN": "罗马攻城器械已损坏三重城墙的部分区段，特别是港口附近，形成了潜在的突破口。"
+    },
+    {
+      "en": "Intelligence reports indicate that Hasdrubal has concentrated his best remaining fighters around the Byrsa citadel as a final defensive position.",
+      "ja": "情報によると、ハスドルバルは最後の防衛陣地としてビュルサの城塞周辺に残存する最精鋭の兵士を集結させている。",
+      "zh-CN": "情报显示哈斯德鲁巴尔已将其最精锐的残余战斗人员集中在比尔萨城堡周围作为最后防线。"
+    },
+    {
+      "en": "Roman legions are at peak fighting condition and morale is high, but officers warn that urban combat in the narrow streets will be extremely costly.",
+      "ja": "ローマ軍団は最高の戦闘態勢にあり士気も高いが、将校たちは狭い街路での市街戦が極めて多大な犠牲を伴うと警告している。",
+      "zh-CN": "罗马军团处于巅峰战斗状态，士气高昂，但军官们警告在狭窄街道中的巷战将代价极其高昂。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Breach the walls of Carthage and capture the city, including the Byrsa citadel",
+      "ja": "カルタゴの城壁を突破し、ビュルサの城塞を含む都市を占領する",
+      "zh-CN": "突破迦太基城墙并攻占城市，包括比尔萨城堡"
+    },
+    {
+      "en": "Fulfill the Senate's mandate for the complete destruction of Carthage while managing casualties",
+      "ja": "損害を管理しながら、カルタゴの完全破壊という元老院の命令を遂行する",
+      "zh-CN": "在控制伤亡的同时完成元老院彻底摧毁迦太基的使命"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Urban combat in Carthage's dense streets will negate Roman advantages in open-field tactics and formation fighting",
+      "ja": "カルタゴの密集した街路での市街戦は、野戦戦術と陣形戦闘におけるローマの優位を無効化する",
+      "zh-CN": "迦太基密集街道中的巷战将抵消罗马在野战战术和阵形作战中的优势"
+    },
+    {
+      "en": "The desperation of the defenders makes them unpredictable and willing to use any means, including booby traps and building collapses",
+      "ja": "守備兵の絶望は彼らを予測不能にし、罠や建物の崩落を含むあらゆる手段を用いる覚悟を持たせている",
+      "zh-CN": "守军的绝望使他们行为难以预测，愿意使用任何手段，包括诡雷和建筑坍塌"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Launch a concentrated assault through the harbor breach. Send your best legions through the weakened harbor walls and advance methodically through the commercial district, clearing each block before moving to the next. Accept a slower advance in exchange for fewer casualties and maintaining unit cohesion as you push toward the Byrsa citadel.",
+        "ja": "港の突破口を通る集中攻撃を開始する。最精鋭の軍団を弱体化した港の城壁から突入させ、商業地区を方法的に前進させ、次のブロックに移る前に各ブロックを制圧する。ビュルサの城塞に向けて押し進む中、部隊の結束を維持し、損害を抑えるために進撃速度の低下を受け入れる。",
+        "zh-CN": "从港口突破口发动集中进攻。派遣最精锐的军团穿过被削弱的港口城墙，在商业区有条不紊地推进，清除每个街区后再向下一个推进。接受较慢的推进速度，换取更少的伤亡和向比尔萨城堡推进时的部队凝聚力。"
+      },
+      "historicalContext": "This is essentially what Scipio did. The Roman assault came through the harbor area, and the legions fought their way through the city block by block over six days of brutal combat, systematically demolishing buildings to create clear lines of advance toward the Byrsa.",
+      "outcomePrompt": {
+        "en": "At dawn, the trumpets sound and the assault begins. Your best legions surge through the harbor breach, shields locked, fighting with the discipline you have painstakingly restored. The initial resistance is fierce—starving Carthaginians fight from windows, rooftops, and barricades with the fury of those who have nothing left to lose. But your methodical approach prevails.\n\nBlock by block, house by house, your soldiers advance through the commercial district. Engineers demolish buildings to create wider avenues of advance, denying the defenders their advantage in the narrow streets. The fighting is savage and relentless. For six days and nights, the battle rages without pause. The streets run with blood, and the screams of the dying echo off stone walls.\n\nOn the seventh day, your forces reach the Byrsa hill. The citadel is packed with the last survivors—soldiers, civilians, women, and children. Hasdrubal, in a final act of cowardice, emerges alone to surrender at your feet, abandoning the people he swore to protect. His wife, watching from the citadel walls, curses him and throws herself with their children into the burning Temple of Eshmun. The remaining defenders fight until they can fight no more.\n\nAs you stand atop the Byrsa, surveying the burning ruins of a city that once rivaled Rome itself, tears stream down your face. You quote Homer's words about the fall of Troy, and in this moment of triumph, you feel the terrible weight of empire. Carthage, after seven centuries, is no more. The Senate's will is done, but the cost—to both the conquered and the conqueror—is beyond reckoning.",
+        "ja": "夜明けにラッパが鳴り響き、攻撃が始まる。最精鋭の軍団が港の突破口から突入し、盾を組み、苦労して回復した規律で戦う。最初の抵抗は激烈である。飢えたカルタゴ人が窓、屋上、バリケードから、失うものが何もない者の怒りで戦う。しかし、方法的なアプローチが勝利する。\n\nブロックごと、家ごとに、兵士たちは商業地区を前進する。工兵が建物を破壊してより広い前進路を作り、狭い街路における守備兵の利点を奪う。戦闘は凄惨で容赦ない。六日六晩、戦いは休むことなく続く。通りは血に染まり、死にゆく者の叫びが石壁にこだまする。\n\n七日目に、軍はビュルサの丘に到達する。城塞には最後の生存者――兵士、市民、女性、子供――が詰め込まれている。ハスドルバルは最後の卑怯な行為として、守ると誓った人々を見捨て、一人であなたの足元に降伏しに現れる。城塞の壁から見ていた彼の妻は彼を呪い、子供たちと共に燃えるエシュムン神殿に身を投じる。残りの守備兵たちは戦えなくなるまで戦い続ける。\n\nビュルサの頂上に立ち、かつてローマ自体に匹敵した都市の燃える廃墟を見渡す時、涙が頬を伝う。トロイの陥落についてのホメロスの言葉を引用し、この勝利の瞬間に帝国の恐るべき重さを感じる。七世紀の後、カルタゴはもうない。元老院の意志は果たされたが、征服された者と征服した者の両方にとってのその代償は計り知れない。",
+        "zh-CN": "黎明时分，号角响起，进攻开始。你最精锐的军团从港口突破口涌入，盾牌紧锁，以你艰苦恢复的纪律作战。最初的抵抗异常激烈——饥饿的迦太基人从窗户、屋顶和路障后以无所失去之人的狂怒战斗。但你有条不紊的方法最终占了上风。\n\n逐个街区、逐栋房屋，你的士兵穿过商业区推进。工程师拆毁建筑物以开辟更宽的推进通道，剥夺守军在狭窄街道中的优势。战斗残酷而不间断。六天六夜，战斗毫无停歇。街道被鲜血浸透，垂死者的惨叫在石墙间回荡。\n\n第七天，你的部队抵达比尔萨山。城堡里挤满了最后的幸存者——士兵、平民、妇女和儿童。哈斯德鲁巴尔在最后的懦夫行径中，独自走出来跪倒在你脚下投降，抛弃了他誓言保护的人民。他的妻子从城堡墙上看到这一幕，诅咒了他，然后带着他们的孩子投入燃烧的埃什蒙神殿。剩余的守军战斗到再也无法战斗为止。\n\n当你站在比尔萨山顶，俯瞰这座曾与罗马本身比肩的城市的燃烧废墟时，泪水流下面颊。你引用了荷马关于特洛伊陷落的诗句，在这胜利的时刻，你感受到帝国的可怕重量。七个世纪之后，迦太基不复存在。元老院的意志已经实现，但代价——对被征服者和征服者而言——都是无法估量的。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "siegeEffectiveness", "operation": "add", "value": 30 },
+        { "variable": "carthaginianResistance", "operation": "add", "value": -50 },
+        { "variable": "politicalSupport", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Launch simultaneous assaults on multiple points around the city walls to overwhelm the thinly-spread defenders. Attack from the harbor, the land walls to the west, and the isthmus to the north simultaneously. Accept higher initial casualties in exchange for a faster collapse of organized resistance.",
+        "ja": "城壁の複数地点に同時攻撃を開始し、薄く広がった守備兵を圧倒する。港、西の陸壁、北の地峡から同時に攻撃する。組織的抵抗の早期崩壊と引き換えに、初期の高い損害を受け入れる。",
+        "zh-CN": "在城墙周围多个点位同时发动进攻以压倒分散的守军。从港口、西面的陆墙和北面的地峡同时进攻。接受较高的初期伤亡，换取有组织抵抗的更快崩溃。"
+      },
+      "historicalContext": "This is a counterfactual multi-pronged approach. While potentially faster, it risked spreading Roman forces thin and could have led to higher casualties if any assault column was repelled and isolated.",
+      "outcomePrompt": {
+        "en": "The assault erupts from every direction at once. Three assault columns hit the walls simultaneously—through the harbor breach, against the western land walls, and along the narrow isthmus from the north. The Carthaginian defenders, already stretched impossibly thin, cannot be everywhere at once. The effect is devastating.\n\nThe harbor column breaks through first, as expected, surging into the commercial district. But the western assault also succeeds when legionaries find a section of wall weakened by subsidence and batter through it. The northern isthmus attack faces the stiffest resistance but pins down defenders who might otherwise have reinforced the other breaches. Within hours, Roman soldiers are fighting inside the city from three directions.\n\nThe speed of the collapse catches even you by surprise. Organized Carthaginian resistance crumbles faster than anyone anticipated as defenders find themselves surrounded and cut off. But the rapid advance comes at a terrible price—Roman casualties are heavy as units advance too quickly through booby-trapped streets and find themselves in crossfires. Some units, drunk on victory, break discipline entirely and begin looting and killing indiscriminately.\n\nThe Byrsa citadel falls within four days rather than the expected week. Hasdrubal surrenders in the chaos, and his wife's dramatic self-immolation in the burning temple becomes the enduring image of Carthage's fall. As you survey the smoldering ruins, the speed of the destruction is staggering. Where seven centuries of civilization stood this morning, there is now only ash and silence. You have fulfilled Rome's mandate with brutal efficiency, though the cost in Roman blood was higher than it needed to be. The soldiers who survived will carry the horrors of these streets with them for the rest of their lives.",
+        "ja": "攻撃はあらゆる方向から一斉に噴出する。三つの突撃縦隊が同時に城壁を攻撃する――港の突破口から、西の陸壁に対して、そして北の狭い地峡沿いに。すでに限界まで薄く広がったカルタゴの守備兵は、同時にあらゆる場所にいることができない。その効果は壊滅的である。\n\n予想通り、港の縦隊が最初に突破し、商業地区に突入する。しかし西の攻撃も成功する。軍団兵が地盤沈下で弱体化した城壁の一区間を発見し、打ち破ったのだ。北の地峡からの攻撃は最も頑強な抵抗に直面するが、他の突破口を増援するはずだった守備兵を釘付けにする。数時間以内に、ローマ兵が三方向から市内で戦闘を展開する。\n\n崩壊の速さはあなた自身をも驚かせる。守備兵が包囲され孤立する中、組織的なカルタゴの抵抗は誰の予想よりも早く瓦解する。しかし急速な前進は恐ろしい代償を伴う。部隊が罠の仕掛けられた通りを急ぎすぎて交差射撃に陥り、ローマ軍の損害は大きい。勝利に酔った一部の部隊は規律を完全に失い、無差別に略奪と殺戮を始める。\n\nビュルサの城塞は予想された一週間ではなく四日以内に陥落する。ハスドルバルは混乱の中で降伏し、彼の妻が燃える神殿で劇的に焼身自殺する光景がカルタゴの陥落を象徴する永遠のイメージとなる。くすぶる廃墟を見渡す時、破壊の速さに圧倒される。今朝まで七世紀の文明が立っていた場所には、今や灰と沈黙しかない。ローマの命令を残酷な効率で果たしたが、ローマの血の代償は必要以上に高かった。生き残った兵士たちは、この街路の恐怖を生涯背負い続けるだろう。",
+        "zh-CN": "进攻从四面八方同时爆发。三支突击纵队同时冲击城墙——从港口突破口、西面的陆墙和北面的狭窄地峡。本已被拉到极限的迦太基守军无法同时出现在每个地方。效果是毁灭性的。\n\n如预期的那样，港口纵队率先突破，涌入商业区。但西面的进攻也取得了成功，军团士兵发现一段因地基下沉而脆弱的城墙并将其打穿。北面地峡的进攻遭遇了最顽强的抵抗，但牵制了可能增援其他突破口的守军。数小时内，罗马士兵从三个方向在城内作战。\n\n崩溃的速度甚至让你也感到惊讶。当守军发现自己被包围和切断时，有组织的迦太基抵抗比任何人预想的都更快地瓦解。但快速推进付出了可怕的代价——部队在布满诡雷的街道中推进过快，陷入交叉火力，罗马伤亡惨重。一些被胜利冲昏头脑的部队完全失去纪律，开始无差别地劫掠和杀戮。\n\n比尔萨城堡在四天内陷落，而非预期的一周。哈斯德鲁巴尔在混乱中投降，他妻子在燃烧的神殿中戏剧性的自焚成为迦太基陷落的永恒画面。当你审视着仍在冒烟的废墟，毁灭的速度令人震惊。今天早晨还矗立着七个世纪文明的地方，现在只剩灰烬和沉寂。你以残酷的效率完成了罗马的使命，尽管罗马人付出的血的代价超出了必要。幸存的士兵将终生背负这些街道上的恐怖记忆。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "siegeEffectiveness", "operation": "add", "value": 20 },
+        { "variable": "romanMorale", "operation": "add", "value": -10 },
+        { "variable": "carthaginianResistance", "operation": "add", "value": -60 },
+        { "variable": "politicalSupport", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

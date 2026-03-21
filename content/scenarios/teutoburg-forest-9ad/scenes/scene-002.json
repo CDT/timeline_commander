@@ -1,0 +1,115 @@
+{
+  "id": "teutoburg-forest-9ad-scene-002",
+  "scenarioId": "teutoburg-forest-9ad",
+  "title": {
+    "en": "The Ambush Unfolds",
+    "ja": "伏撃の展開",
+    "zh-CN": "伏击展开"
+  },
+  "date": {
+    "en": "September 2, 9 AD",
+    "ja": "西暦9年9月2日",
+    "zh-CN": "公元9年9月2日"
+  },
+  "location": {
+    "en": "Deep within the Teutoburg Forest, Germania",
+    "ja": "ゲルマニア、トイトブルク森の奥深く",
+    "zh-CN": "日耳曼尼亚，条顿堡森林深处"
+  },
+  "narrativePrompt": {
+    "en": "The second day dawns grey and cold. Whether your legions are deep in the forest or on the Roman road, the Germanic tribes are mobilizing. If you entered the forest, the night was a nightmare—Germanic warriors harried your camp with hit-and-run attacks, flaming arrows arcing out of the darkness, war cries echoing from every direction. Your men barely slept, and the wounded are piling up in the center of the column. The forest track has become a river of mud, and the baggage wagons are hopelessly stuck. Your engineers struggle to clear fallen trees that the enemy has deliberately placed across the path. If you took the Roman road, the situation is tense but more controlled—your scouts report large warbands shadowing your column from the treeline, and during the night, your camp was probed by skirmishers, though your fortifications held.\n\nRegardless of your earlier choice, the situation is now critical. Your scouts have confirmed that thousands of Germanic warriors are converging on your position from multiple directions. The terrain ahead narrows into a defile between a forested ridge and a vast bog—a natural killing ground. Your vanguard reports that the path forward is partially blocked by a freshly constructed earthen wall, and enemy warriors are massing behind it. Behind you, the sounds of pursuit grow louder. Your senior officers gather for a desperate council of war.\n\nTwo options present themselves. Your cavalry commander proposes an aggressive breakout: concentrate your strongest cohorts into a wedge formation and punch through the barrier ahead before the Germanic forces can fully encircle you. The risk is enormous—if the breakthrough fails, your army will be caught in the open with enemies on all sides. Alternatively, your camp prefect argues for establishing a fortified position on the nearest defensible high ground, building a proper Roman marching camp with ditches and palisades, and waiting for the storm to pass before attempting a coordinated withdrawal at dawn. This would sacrifice mobility but give your legionaries the defensive advantage they fight best with.",
+    "ja": "二日目の夜明けは灰色で寒い。軍団が森の奥深くにいようとローマ街道にいようと、ゲルマン諸部族は動員を進めている。森に入った場合、夜は悪夢だった——ゲルマン戦士たちが一撃離脱の攻撃で陣営を悩まし、暗闇から火矢が弧を描き、あらゆる方向から鬨の声がこだました。兵士たちはほとんど眠れず、負傷者が縦隊の中央に積み上がっている。森の道は泥の川と化し、輜重車は絶望的に動けない。工兵たちは敵が故意に道を塞いだ倒木の撤去に苦闘している。ローマ街道を取った場合、状況は緊迫しているがより統制されている——斥候が大規模な戦闘集団が樹木線から縦隊を尾行していると報告し、夜間には散兵が陣営を探っていたが、防御工事が持ちこたえた。\n\n先の選択に関わらず、状況は今や危機的である。斥候により、数千人のゲルマン戦士が複数の方向からあなたの位置に収束していることが確認された。前方の地形は森に覆われた尾根と広大な沼沢の間の隘路に狭まっている——天然の殲滅地帯だ。先遣隊は前方の道が新たに築かれた土壁で部分的に塞がれ、敵の戦士がその背後に結集していると報告している。背後では追撃の音がますます大きくなる。上級将校たちが必死の軍議のために集まる。\n\n二つの選択肢が提示される。騎兵指揮官が積極的な突破を提案する：最強の歩兵大隊を楔形陣に集中させ、ゲルマン軍が完全に包囲する前に前方の障壁を突破する。リスクは甚大だ——突破に失敗すれば、軍は四方を敵に囲まれた状態で開けた場所に取り残される。一方、陣営長官は最も近い防御可能な高地に防御陣地を構築し、溝と柵を備えた適切なローマ式行軍陣地を建設し、嵐が過ぎるのを待ってから夜明けに組織的な撤退を試みることを主張する。これは機動性を犠牲にするが、軍団兵に最も得意とする防御的優位を与える。",
+    "zh-CN": "第二天的黎明灰暗而寒冷。无论你的军团是在森林深处还是在罗马大道上，日耳曼部落都在动员。如果你进入了森林，夜晚就是一场噩梦——日耳曼战士以游击战术骚扰你的营地，火箭从黑暗中划出弧线，战吼从四面八方回荡。你的士兵几乎没有合眼，伤员在纵队中央不断增加。森林小道已变成泥浆河，辎重车辆绝望地陷入其中。你的工兵正在艰难地清除敌人故意放置在道路上的倒木。如果你走了罗马大道，局势紧张但更加可控——你的斥候报告大群战士从树线跟踪你的纵队，夜间散兵试探了你的营地，但防御工事挡住了他们。\n\n无论你先前的选择如何，局势现在已经危急。你的斥候已确认数千名日耳曼战士正从多个方向向你的位置集结。前方的地形在一处森林覆盖的山脊和一片广阔沼泽之间收窄成一条隘路——一个天然的杀戮地带。先头部队报告前方道路被一道新筑的土墙部分堵住，敌方战士正在土墙后集结。身后，追击的声音越来越响。你的高级军官们聚在一起召开紧急军事会议。\n\n两个选择摆在面前。你的骑兵指挥官提议积极突破：将最强的步兵大队集中成楔形阵，在日耳曼军队完全包围之前冲破前方的障碍。风险巨大——如果突破失败，你的军队将在四面受敌的情况下被困在开阔地带。另一方面，你的营地长官主张在最近的可防御高地上建立防御阵地，修建带有壕沟和栅栏的标准罗马行军营地，等待暴风雨过去后在黎明时分尝试有组织的撤退。这将牺牲机动性，但能给予你的军团士兵他们最擅长的防御优势。"
+  },
+  "situationReport": [
+    {
+      "en": "Scouts confirm between 15,000 and 25,000 Germanic warriors converging from the north, east, and south, with more arriving by the hour.",
+      "ja": "斥候により、一万五千から二万五千人のゲルマン戦士が北、東、南から収束しつつあり、さらに時間ごとに増加していることが確認された。",
+      "zh-CN": "斥候确认有一万五千至两万五千名日耳曼战士从北面、东面和南面集结，且每小时都有更多人到达。"
+    },
+    {
+      "en": "Your baggage train is severely bogged down and is consuming a disproportionate number of troops to defend, slowing the entire column's progress.",
+      "ja": "輜重隊がひどくぬかるみにはまり、防衛に不釣り合いな兵力を消費しており、縦隊全体の前進を遅らせている。",
+      "zh-CN": "你的辎重队严重陷入泥沼，消耗了大量兵力来防御，拖慢了整个纵队的进度。"
+    },
+    {
+      "en": "The terrain ahead features a 500-yard defile between a wooded ridge and marshland—a newly constructed Germanic earthwork blocks the passage, with warriors massing behind it.",
+      "ja": "前方の地形は森に覆われた尾根と湿地の間の500ヤードの隘路で、新たに築かれたゲルマンの土塁が通路を塞ぎ、戦士たちがその背後に集結している。",
+      "zh-CN": "前方地形在森林覆盖的山脊和沼泽之间形成一条五百码的隘路——一道新修的日耳曼土墙挡住了通道，战士们在其后集结。"
+    },
+    {
+      "en": "Approximately 2,000 casualties have been sustained so far from skirmishing and the night attacks. Legionary morale is strained but discipline holds.",
+      "ja": "これまでの小競り合いと夜襲で約二千人の損害が発生している。軍団の士気は消耗しているが規律は保たれている。",
+      "zh-CN": "截至目前，小规模冲突和夜袭已造成约两千人伤亡。军团士气受到压力但纪律仍在。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Survive the Germanic encirclement and preserve as many troops as possible",
+      "ja": "ゲルマン軍の包囲を生き延び、できるだけ多くの兵力を保全する",
+      "zh-CN": "在日耳曼人的包围中生存下来，尽可能多地保存兵力"
+    },
+    {
+      "en": "Choose a tactical approach: aggressive breakout or defensive fortification",
+      "ja": "戦術的方針を選択する：積極的突破か防御的築城か",
+      "zh-CN": "选择战术方针：积极突破还是防御筑垒"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The terrain severely limits Roman tactical options—standard battle formations cannot be deployed in the narrow forest paths",
+      "ja": "地形がローマ軍の戦術的選択肢を著しく制限している——狭い森の道では標準的な戦闘隊形を展開できない",
+      "zh-CN": "地形严重限制了罗马的战术选择——在狭窄的森林小道上无法展开标准战斗阵型"
+    },
+    {
+      "en": "Continuous rain has rendered many weapons and shields waterlogged, reducing their effectiveness",
+      "ja": "絶え間ない雨により多くの武器と盾が水を含み、効果が低下している",
+      "zh-CN": "持续的降雨使许多武器和盾牌浸水，降低了其效能"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Launch an aggressive breakout: form your best cohorts into a wedge and smash through the Germanic earthwork before the encirclement is complete.",
+        "ja": "積極的突破を開始する：最精鋭の歩兵大隊を楔形陣に組み、包囲が完成する前にゲルマンの土塁を突破する。",
+        "zh-CN": "发动积极突破：将你最精锐的步兵大队组成楔形阵，在包围完成之前冲破日耳曼土墙。"
+      },
+      "historicalContext": "Some Roman officers attempted localized breakouts during the actual battle, but without unified command these efforts were piecemeal and ultimately failed. A coordinated, early breakout might have saved a portion of the army.",
+      "outcomePrompt": {
+        "en": "You give the order and your finest centurions roar the command forward. The first and second cohorts of Legion XVII form into a tight wedge, shields locked, gladii drawn, and charge directly at the earthen barrier. The Germanic warriors behind the wall unleash a storm of javelins and arrows, but the Roman testudo formation absorbs the worst of it. With a thunderous crash, the wedge hits the wall. Legionaries claw their way up the muddy earthwork, fighting hand-to-hand with the Germanic defenders at the top. For terrible minutes the outcome hangs in the balance—then, with a surge of desperate energy, the Roman wedge punches through. The breach opens and troops begin pouring through the gap, but the flanks are exposed and Germanic warriors stream in from both sides. The fighting becomes a bloody melee as your rearguard struggles to follow through the breach. You lose nearly a third of your remaining force in the breakout, but the survivors emerge into slightly more open ground where they can form a defensive perimeter. The Germanic pursuit continues, but your legionaries can now fight in something resembling their trained formations. You have bought time, but at a terrible cost—and the forest still stretches for miles ahead.",
+        "ja": "あなたが命令を下し、最精鋭の百人隊長たちが前進の号令を轟かせる。第17軍団の第一・第二歩兵大隊が密集した楔形陣を組み、盾を連結し、グラディウスを抜いて、土塁に向かって直接突撃する。壁の背後のゲルマン戦士たちが投げ槍と矢の嵐を放つが、ローマのテストゥド陣形がその最悪の部分を吸収する。雷鳴のような衝突音とともに、楔形陣が壁に激突する。軍団兵たちが泥まみれの土塁をよじ登り、頂上でゲルマンの防衛兵と白兵戦を繰り広げる。恐ろしい数分間、結果は五分五分のまま——そして、死に物狂いのエネルギーの爆発とともに、ローマの楔形陣が突破する。突破口が開き、兵士たちが隙間に殺到し始めるが、側面が露出し、ゲルマン戦士たちが両側から流れ込む。後衛が突破口を追おうともがく中、戦闘は血みどろの混戦となる。突破で残存兵力の約三分の一を失うが、生存者はやや開けた地形に出て防御周囲を形成できるようになる。ゲルマン軍の追撃は続くが、軍団兵たちは今や訓練された隊形に近い形で戦うことができる。あなたは時間を稼いだが、恐ろしい代償を払った——そして森はまだ何マイルも先まで続いている。",
+        "zh-CN": "你下达了命令，最精锐的百夫长们怒吼着发出前进指令。第十七军团的第一和第二步兵大队组成紧密的楔形阵，盾牌连锁，短剑出鞘，直冲土墙。土墙后的日耳曼战士释放出标枪和箭矢的风暴，但罗马龟甲阵吸收了最猛烈的攻击。伴随着雷鸣般的撞击声，楔形阵撞上了土墙。军团士兵们攀上泥泞的土墙，与顶部的日耳曼守军展开肉搏战。在可怕的几分钟里，胜负悬于一线——然后，凭着一股拼死的力量，罗马楔形阵突破了防线。缺口打开，士兵们开始涌过缺口，但侧翼暴露，日耳曼战士从两侧涌入。当你的后卫挣扎着跟随通过缺口时，战斗变成了血腥的混战。你在突破中失去了约三分之一的剩余兵力，但幸存者到达了稍微开阔的地带，可以组成防御圈。日耳曼人的追击仍在继续，但你的军团士兵现在可以在接近其训练阵型的状态下作战。你赢得了时间，但付出了可怕的代价——而森林仍然在前方延伸数英里。"
+      },
+      "nextSceneId": "teutoburg-forest-9ad-scene-003",
+      "stateChanges": [
+        { "variable": "legionMorale", "operation": "add", "value": 5 },
+        { "variable": "formationIntegrity", "operation": "add", "value": -15 },
+        { "variable": "casualtyRate", "operation": "add", "value": 20 },
+        { "variable": "supplyStatus", "operation": "add", "value": -20 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Establish a fortified camp on the nearest high ground. Build proper Roman defenses and wait for conditions to improve before attempting a coordinated withdrawal.",
+        "ja": "最も近い高地に防御陣地を構築する。適切なローマ式防御を建設し、状況が改善するのを待ってから組織的撤退を試みる。",
+        "zh-CN": "在最近的高地建立防御营地。修建标准的罗马防御工事，等待条件改善后再尝试有组织的撤退。"
+      },
+      "historicalContext": "The Romans did attempt to build fortified camps during the actual battle, and these provided temporary respite. However, each time they left their fortifications to march, they were attacked again, and the camps could not be held indefinitely without supplies.",
+      "outcomePrompt": {
+        "en": "Your engineers identify a low hill roughly two hundred yards off the main track—not ideal, but the best ground available. The legions pivot with practiced efficiency, and within hours, thousands of soldiers are digging ditches, raising earthen ramparts, and sharpening stakes for the palisade. The Germanic warriors press their attacks but are repelled by volleys of pila and the disciplined shield walls that form at every point of contact. By nightfall, you have a proper Roman marching camp—not comfortable, but defensible. The rain continues to fall, and the camp quickly becomes a sea of mud, but your men can rest in shifts and tend to the wounded. Throughout the night, the Germanic warriors maintain a loose siege, their fires visible in the tree line all around. War horns and taunting cries echo through the darkness. Your scouts report that the enemy numbers are growing—word of the trapped Roman legions is spreading, and warriors from distant tribes are arriving to join the siege. Your supplies are limited, your wounded are increasing, and every hour in this camp is an hour that allows the enemy to grow stronger. You have bought your men a night of rest, but you cannot stay here forever. By dawn, you will need a plan to move.",
+        "ja": "工兵たちが主要な道から約二百ヤード離れた低い丘を見つける——理想的ではないが、利用可能な最善の地形だ。軍団が訓練された効率で方向転換し、数時間以内に数千人の兵士が溝を掘り、土塁を築き、柵のための杭を削っている。ゲルマン戦士たちが攻撃を続けるが、ピルムの斉射と接触点ごとに形成される規律ある盾の壁に撃退される。日暮れまでには、適切なローマ式行軍陣地が完成する——快適ではないが防御可能だ。雨は降り続き、陣営はすぐに泥の海となるが、兵士たちは交代で休息し、負傷者の手当てができる。夜通し、ゲルマン戦士たちは緩やかな包囲を維持し、周囲の樹木線のあちこちに彼らの篝火が見える。戦いの角笛と挑発の叫びが暗闇にこだまする。斥候たちは敵の数が増えていると報告する——閉じ込められたローマ軍団の噂が広まり、遠方の部族の戦士たちが包囲に加わるべく到着している。補給は限られ、負傷者は増加し、この陣営にいる一時間一時間が敵をより強大にさせている。あなたは兵士たちに一夜の休息を与えたが、ここに永遠にいることはできない。夜明けまでに、移動の計画が必要だ。",
+        "zh-CN": "你的工兵在主路旁约两百码处找到了一座低矮的小山丘——不太理想，但是可用的最佳地形。军团以训练有素的效率转向，几个小时之内，数千名士兵挖掘壕沟、堆筑土墙、削尖栅栏的木桩。日耳曼战士继续发动攻击，但被标枪齐射和在每个接触点形成的纪律严明的盾墙击退。到天黑时，你拥有了一座标准的罗马行军营地——谈不上舒适，但可以防守。雨继续下着，营地很快变成了泥海，但你的士兵可以轮流休息并照料伤员。整夜，日耳曼战士维持着松散的围困，他们的篝火在四周的树线中清晰可见。战争号角和嘲讽的叫声在黑暗中回荡。你的斥候报告敌人的数量在增长——被困罗马军团的消息正在传播，远方部落的战士纷纷赶来加入围困。你的补给有限，伤员在增加，在这个营地中每多待一个小时，就是让敌人变得更强一个小时。你为你的士兵赢得了一夜的休息，但你不能永远留在这里。到黎明时分，你需要一个行动计划。"
+      },
+      "nextSceneId": "teutoburg-forest-9ad-scene-003",
+      "stateChanges": [
+        { "variable": "legionMorale", "operation": "add", "value": 10 },
+        { "variable": "formationIntegrity", "operation": "add", "value": 15 },
+        { "variable": "casualtyRate", "operation": "add", "value": 5 },
+        { "variable": "supplyStatus", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

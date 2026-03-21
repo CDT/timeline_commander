@@ -1,0 +1,91 @@
+{
+  "scenarioId": "alexander-india-326bc",
+  "timeline": [
+    {
+      "date": "-326-04-01",
+      "description": {
+        "en": "Alexander's army arrives at the western bank of the Hydaspes River and establishes camp opposite King Porus's forces.",
+        "ja": "アレクサンドロスの軍がヒュダスペス川の西岸に到着し、ポロス王の軍勢の対岸に陣営を設ける。",
+        "zh-CN": "亚历山大的军队抵达希达斯佩斯河西岸，在波鲁斯王军队对面扎营。"
+      }
+    },
+    {
+      "date": "-326-04-15",
+      "description": {
+        "en": "Alexander begins a campaign of deception, moving troops up and down the riverbank at night to confuse Porus about the intended crossing point.",
+        "ja": "アレクサンドロスは欺瞞作戦を開始し、夜間に兵士を川岸に沿って移動させ、渡河地点についてポロスを混乱させる。",
+        "zh-CN": "亚历山大开始实施欺骗战术，夜间沿河岸调动部队，迷惑波鲁斯对渡河地点的判断。"
+      }
+    },
+    {
+      "date": "-326-05-01",
+      "description": {
+        "en": "Alexander identifies a crossing point 17 miles upstream near a wooded island, and begins secretly assembling boats and rafts.",
+        "ja": "アレクサンドロスは上流17マイルの樹木が茂った島の近くに渡河地点を特定し、密かに船と筏の組み立てを開始する。",
+        "zh-CN": "亚历山大在上游十七英里处一座树木茂密的岛屿附近确定了渡河点，开始秘密组装船只和木筏。"
+      }
+    },
+    {
+      "date": "-326-05-10",
+      "description": {
+        "en": "Under cover of a violent thunderstorm, Alexander leads his strike force across the Hydaspes at the upstream crossing point during the night.",
+        "ja": "激しい雷雨の中、アレクサンドロスは夜間に上流の渡河地点で突撃部隊を率いてヒュダスペス川を渡る。",
+        "zh-CN": "在一场猛烈雷暴的掩护下，亚历山大率领突击部队于夜间从上游渡河点渡过希达斯佩斯河。"
+      }
+    },
+    {
+      "date": "-326-05-11",
+      "description": {
+        "en": "Alexander defeats a cavalry force led by Porus's son, who is killed in the engagement. Porus moves his main army to confront Alexander.",
+        "ja": "アレクサンドロスはポロスの息子が率いる騎兵隊を撃破し、息子は戦死する。ポロスはアレクサンドロスに対抗するため主力軍を動かす。",
+        "zh-CN": "亚历山大击败了波鲁斯之子率领的骑兵部队，波鲁斯之子在战斗中阵亡。波鲁斯调动主力军队迎战亚历山大。"
+      }
+    },
+    {
+      "date": "-326-05-12",
+      "description": {
+        "en": "The main Battle of the Hydaspes takes place. Alexander's cavalry executes a double envelopment while Craterus crosses with reinforcements. Porus is defeated and captured.",
+        "ja": "ヒュダスペスの主戦闘が行われる。アレクサンドロスの騎兵が二重包囲を実行し、クラテロスが援軍とともに渡河する。ポロスは敗北し捕虜となる。",
+        "zh-CN": "希达斯佩斯主力会战爆发。亚历山大的骑兵实施双重包围，克拉特鲁斯率援军渡河。波鲁斯战败被俘。"
+      }
+    },
+    {
+      "date": "-326-06-01",
+      "description": {
+        "en": "Alexander restores Porus to his throne as a vassal and founds two cities: Bucephala (named for his horse) and Nicaea (for victory).",
+        "ja": "アレクサンドロスはポロスを臣従王として王位に復帰させ、二つの都市を建設する。ブケファラ（愛馬の名）とニカイア（勝利の名）である。",
+        "zh-CN": "亚历山大恢复波鲁斯为附庸国王的王位，并建立两座城市：布塞法拉（以其战马命名）和尼凯亚（意为胜利）。"
+      }
+    },
+    {
+      "date": "-326-07-15",
+      "description": {
+        "en": "At the Hyphasis River, Alexander's army mutinies and refuses to march further east. Alexander is forced to turn back, ending his conquests.",
+        "ja": "ヒュパシス川で、アレクサンドロスの軍が反乱を起こし、さらに東へ進軍することを拒否する。アレクサンドロスは引き返すことを余儀なくされ、征服は終わりを告げる。",
+        "zh-CN": "在希法西斯河，亚历山大的军队发动兵变，拒绝继续东进。亚历山大被迫回师，征服事业就此终结。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Alexander won a decisive tactical victory at the Hydaspes, demonstrating his unmatched ability to combine deception, river-crossing operations, and combined-arms tactics. However, the strategic outcome was ultimately a failure — the battle was the last major victory of Alexander's career, and the army's subsequent mutiny at the Hyphasis marked the end of his eastward expansion.",
+    "ja": "アレクサンドロスはヒュダスペスで決定的な戦術的勝利を収め、欺瞞、渡河作戦、諸兵科連合戦術を組み合わせる比類なき能力を示した。しかし、戦略的な結果は最終的に失敗であった。この戦いはアレクサンドロスの軍歴における最後の大勝利であり、軍のヒュパシスでの反乱は東方拡大の終焉を意味した。",
+    "zh-CN": "亚历山大在希达斯佩斯取得了决定性的战术胜利，展示了他无与伦比的将欺骗、渡河作战和诸兵种协同战术相结合的能力。然而战略结果最终是失败的——这场战役是亚历山大军事生涯中最后一场重大胜利，军队随后在希法西斯河的兵变标志着他东征的终结。"
+  },
+  "casualties": {
+    "en": "Macedonian losses were relatively light, estimated at around 1,000 killed. Porus's army suffered far heavier casualties — ancient sources claim up to 12,000 killed and 9,000 captured, including the loss of all war elephants and chariots, though these figures may be exaggerated.",
+    "ja": "マケドニア側の損失は比較的軽微で、戦死者は約1,000人と推定される。ポロスの軍はるかに大きな損害を被った。古代の史料によれば、戦死者12,000人、捕虜9,000人に達し、全ての戦象と戦車を失ったとされるが、これらの数字は誇張されている可能性がある。",
+    "zh-CN": "马其顿方面损失相对较轻，估计约有一千人阵亡。波鲁斯的军队遭受了惨重得多的伤亡——古代史料声称多达一万二千人阵亡、九千人被俘，包括所有战象和战车的损失，但这些数字可能有所夸大。"
+  },
+  "significance": {
+    "en": "The Battle of the Hydaspes was the easternmost major battle fought by Alexander and marked the furthest extent of Macedonian conquest. It demonstrated that Alexander could adapt his tactics to defeat unfamiliar enemies and weapons systems, including war elephants. The battle also set the stage for Hellenistic influence in the Indian subcontinent, eventually contributing to the rise of the Maurya Empire under Chandragupta, who may have met Alexander during this campaign.",
+    "ja": "ヒュダスペスの戦いはアレクサンドロスが戦った最も東方の大規模会戦であり、マケドニアの征服の最東端を示すものであった。アレクサンドロスが戦象を含む未知の敵と兵器体系に対して戦術を適応させられることを示した。この戦いはまた、インド亜大陸におけるヘレニズム文化の影響の基盤を築き、やがてチャンドラグプタのもとでのマウリヤ朝の台頭に寄与した。チャンドラグプタはこの遠征中にアレクサンドロスと会った可能性がある。",
+    "zh-CN": "希达斯佩斯战役是亚历山大进行的最东端的大规模会战，标志着马其顿征服的最远边界。它证明了亚历山大能够调整战术来击败不熟悉的敌人和武器系统，包括战象。这场战役还为希腊化文化对印度次大陆的影响奠定了基础，最终促成了旃陀罗笈多领导下的孔雀王朝的崛起——旃陀罗笈多可能在这次战役期间见过亚历山大。"
+  },
+  "furtherReading": [
+    "Arrian, Anabasis of Alexander",
+    "Robin Lane Fox, Alexander the Great (1973)",
+    "A.B. Bosworth, Conquest and Empire: The Reign of Alexander the Great (1988)",
+    "Pierre Briant, Alexander the Great and His Empire (2010)",
+    "Plutarch, Life of Alexander"
+  ]
+}

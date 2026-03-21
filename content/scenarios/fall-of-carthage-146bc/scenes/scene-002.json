@@ -1,0 +1,114 @@
+{
+  "id": "fall-of-carthage-146bc-scene-002",
+  "scenarioId": "fall-of-carthage-146bc",
+  "title": {
+    "en": "The Harbor Blockade",
+    "ja": "港の封鎖",
+    "zh-CN": "港口封锁"
+  },
+  "date": {
+    "en": "Summer 147 BC",
+    "ja": "紀元前147年 夏",
+    "zh-CN": "公元前147年 夏"
+  },
+  "location": {
+    "en": "Carthage harbor and surrounding waters",
+    "ja": "カルタゴの港と周辺海域",
+    "zh-CN": "迦太基港口及周边水域"
+  },
+  "narrativePrompt": {
+    "en": "Months have passed since you took command, and the land siege is progressing, but a critical problem remains: Carthage's harbor. The city's famous circular military harbor and rectangular commercial harbor still provide a lifeline to the outside world. Small, fast ships slip through your naval patrols at night, bringing grain from sympathetic communities in Africa and even from overseas. Your intelligence officers report that the Carthaginians have also secretly constructed a new channel from their military harbor to the open sea, bypassing your existing naval positions entirely.\n\nThis discovery is both alarming and revealing. It demonstrates the extraordinary ingenuity and determination of the Carthaginian people, who dug the channel in secret while under siege—a feat of engineering that speaks to their desperate resolve. But it also means that your blockade has been far less effective than you believed. Every shipment of grain that reaches the city extends the siege by weeks, costing Roman lives and treasure.\n\nYour engineers propose an audacious solution: construct a massive stone mole—an artificial causeway—across the mouth of the commercial harbor, permanently sealing it shut. It would be an enormous engineering undertaking, requiring thousands of laborers working for months, all within range of Carthaginian missiles. But if successful, it would strangle the city's last major supply route.\n\nAlternatively, your naval commander suggests concentrating the fleet at the new secret channel, destroying it and the ships within, and then maintaining a much tighter naval patrol pattern. This would be faster but less permanent, and the Carthaginians might simply dig another channel.\n\nThe summer heat is oppressive, disease is spreading through the camp, and every week of delay strengthens the enemy's resolve. You must decide how to seal Carthage's connection to the sea.",
+    "ja": "指揮を執ってから数ヶ月が経ち、陸上の包囲は進展しているが、決定的な問題が残っている。カルタゴの港である。都市の有名な円形軍港と矩形の商業港は依然として外界への生命線を提供している。小型の快速船が夜間に海上哨戒をすり抜け、アフリカの同情的な共同体や海外からさえ穀物を運び込んでいる。情報将校によると、カルタゴ人は軍港から外海への新しい水路を密かに建設し、既存の海軍の配置を完全に迂回しているという。\n\nこの発見は驚くべきものであると同時に示唆に富む。包囲下にありながら水路を密かに掘るという、彼らの必死の決意を物語る工学的偉業は、カルタゴの人々の驚異的な創意工夫と決意を示している。しかし同時に、封鎖が信じていたほど効果的でなかったことも意味する。都市に到達する穀物の輸送一つ一つが包囲を数週間延長し、ローマの人命と財産を消耗させている。\n\n工兵たちは大胆な解決策を提案する。商業港の入口に巨大な石の防波堤、すなわち人工の堤道を建設し、永久的に封鎖するのである。これは莫大な工事となり、数千人の労働者が数ヶ月間、カルタゴの飛び道具の射程内で作業する必要がある。しかし成功すれば、都市の最後の主要な補給路を絞め殺すことになる。\n\nあるいは、海軍司令官は艦隊を新しい秘密水路に集中し、それと中の船を破壊してから、より厳重な海上哨戒態勢を維持することを提案している。こちらの方が早いが永続性に劣り、カルタゴ人は別の水路を掘るかもしれない。\n\n夏の暑さは過酷で、陣営に疫病が広がり、遅延の一週間ごとに敵の決意が強まる。カルタゴの海との接続をいかに断つか、決断しなければならない。",
+    "zh-CN": "你接管指挥权已过数月，陆上围城正在推进，但一个关键问题依然存在：迦太基的港口。这座城市著名的圆形军港和矩形商港仍然为其提供着与外界的生命线。小型快船在夜间穿越你的海上巡逻，从非洲同情迦太基的社区甚至海外运来粮食。你的情报官报告称，迦太基人还秘密修建了一条从军港通往外海的新航道，完全绕过了你现有的海军阵位。\n\n这一发现既令人震惊又发人深省。它展示了迦太基人非凡的智慧和决心——在被围困的情况下秘密挖掘航道，这项工程壮举体现了他们绝望的决心。但这也意味着你的封锁远没有你以为的那么有效。每一批到达城市的粮食都将围城延长数周，消耗罗马的生命和财富。\n\n你的工程师提出了一个大胆的方案：在商港入口修建一座巨大的石质防波堤——一条人工堤道——将其永久封死。这将是一项浩大的工程，需要数千名工人工作数月，全部在迦太基投射武器的射程之内。但如果成功，将扼死城市最后的主要补给通道。\n\n另一方面，你的海军指挥官建议将舰队集中到新发现的秘密航道，摧毁航道和其中的船只，然后维持更加严密的海上巡逻。这种方法更快但不够持久，迦太基人可能会再挖一条航道。\n\n夏季的酷热令人窒息，疾病在营地中蔓延，每拖延一周都会增强敌人的抵抗意志。你必须决定如何切断迦太基与海洋的联系。"
+  },
+  "situationReport": [
+    {
+      "en": "Carthaginian engineers have secretly constructed a new channel from their military harbor to the open sea, bypassing the Roman naval blockade entirely.",
+      "ja": "カルタゴの工兵が軍港から外海への新しい水路を密かに建設し、ローマの海上封鎖を完全に迂回している。",
+      "zh-CN": "迦太基工程师秘密修建了一条从军港通往外海的新航道，完全绕过了罗马的海上封锁。"
+    },
+    {
+      "en": "Supply ships continue to reach Carthage at night, extending the siege and sustaining the defenders' ability to resist.",
+      "ja": "補給船が夜間にカルタゴに到達し続けており、包囲を延長し守備兵の抵抗能力を維持させている。",
+      "zh-CN": "补给船继续在夜间抵达迦太基，延长了围城时间并维持着守军的抵抗能力。"
+    },
+    {
+      "en": "Disease is spreading through the Roman camp due to summer heat and unsanitary conditions, reducing effective fighting strength.",
+      "ja": "夏の暑さと不衛生な環境により疫病がローマ軍陣営に広がり、実効的な戦闘力が低下している。",
+      "zh-CN": "由于夏季高温和不卫生的条件，疾病正在罗马军营中蔓延，削弱了有效战斗力。"
+    },
+    {
+      "en": "Roman engineers have assessed that a stone mole across the harbor mouth is feasible but would require several months of dangerous construction work.",
+      "ja": "ローマの工兵は港口を横断する石の防波堤が実現可能だが、数ヶ月の危険な建設作業が必要であると評価している。",
+      "zh-CN": "罗马工程师评估认为在港口入口修建石质防波堤可行，但需要数月的危险施工。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Seal Carthage's harbor to cut off all remaining supply routes and tighten the stranglehold on the city",
+      "ja": "カルタゴの港を封鎖して残りのすべての補給路を遮断し、都市への締め付けを強化する",
+      "zh-CN": "封锁迦太基港口以切断所有剩余补给线，收紧对城市的绞杀"
+    },
+    {
+      "en": "Maintain army health and readiness despite the challenges of summer campaigning in North Africa",
+      "ja": "北アフリカの夏季作戦の困難にもかかわらず、軍の健康と即応態勢を維持する",
+      "zh-CN": "在北非夏季作战的艰难条件下维持军队的健康和战备状态"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Construction of major siege works will expose laborers to Carthaginian missile fire and sorties",
+      "ja": "大規模な攻城施設の建設は労働者をカルタゴの飛び道具と出撃にさらすことになる",
+      "zh-CN": "修建大型攻城工事会使工人暴露在迦太基投射武器和突袭之下"
+    },
+    {
+      "en": "Naval resources are limited and cannot simultaneously block all possible sea approaches to the city",
+      "ja": "海軍の資源は限られており、都市へのすべての海上接近路を同時に封鎖することはできない",
+      "zh-CN": "海军资源有限，无法同时封锁通往城市的所有海上通道"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Begin construction of the massive stone mole across the harbor mouth. Commit the full engineering corps and rotate infantry units to provide labor and protection. Accept the months-long timeline and casualties from Carthaginian attacks during construction, knowing that once complete, the blockade will be permanent and unbreakable.",
+        "ja": "港口を横断する巨大な石の防波堤の建設を開始する。工兵隊全体を投入し、歩兵部隊を交代で労働力と護衛に充てる。完成すれば封鎖が永久的かつ突破不可能になることを知り、数ヶ月の工期と建設中のカルタゴ軍の攻撃による損害を受け入れる。",
+        "zh-CN": "开始在港口入口修建巨大的石质防波堤。投入全部工程兵部队，轮换步兵部队提供劳力和掩护。接受长达数月的工期以及施工期间来自迦太基攻击的伤亡，因为一旦完工，封锁将是永久性的、不可突破的。"
+      },
+      "historicalContext": "Scipio historically chose to build the mole, which was one of the great engineering feats of the ancient world. The massive stone causeway sealed the harbor and was the turning point of the siege, cutting off Carthage's last lifeline.",
+      "outcomePrompt": {
+        "en": "The construction of the mole begins under constant Carthaginian harassment. Every day, your soldiers haul massive stones and dump them into the harbor mouth while archers and slingers on the walls rain projectiles down upon them. Casualties mount, but the work continues relentlessly. You rotate units frequently, ensuring fresh troops are always available, and construct protective screens and mantlets to shelter the workers.\n\nThe Carthaginians respond with desperate countermeasures. They launch fire ships against the growing causeway. Their engineers attempt to undermine the foundations with divers. In a remarkable feat, they open the new secret channel and sortie with a hastily assembled fleet, catching your navy off guard. But you adapt quickly, reinforcing your naval positions and driving the Carthaginian ships back.\n\nAfter months of backbreaking labor, the mole is complete. The massive stone structure stretches across the harbor mouth like a wall, sealing it permanently. The last Carthaginian supply ships are trapped inside. From the walls, you can hear the rising desperation—the city's food supplies are dwindling, and there is no longer any hope of resupply. Starvation will now do what your soldiers' swords have not yet accomplished. The noose is tight, and Carthage is slowly dying.",
+        "ja": "防波堤の建設はカルタゴ軍の絶え間ない妨害の下で始まる。毎日、兵士たちは巨大な石を運び港口に投げ込む一方、城壁上の弓兵と投石兵が飛び道具を降らせる。損害は増加するが、作業は容赦なく続けられる。部隊を頻繁に交代させて常に新鮮な兵力を確保し、作業員を守るための防護壁と防盾を構築する。\n\nカルタゴ人は必死の対抗策で応じる。成長する堤道に火船を送り込む。工兵たちは潜水夫を使って基礎を弱体化しようとする。驚くべき偉業として、新しい秘密水路を開き、急遽編成した艦隊で出撃し、あなたの海軍の不意を突く。しかしあなたは素早く適応し、海軍の配置を強化してカルタゴの船を押し戻す。\n\n数ヶ月にわたる過酷な労働の後、防波堤は完成する。巨大な石造構造物が港口を壁のように横断し、永久的に封鎖する。最後のカルタゴの補給船が内部に閉じ込められる。城壁からは高まる絶望の声が聞こえる。都市の食料備蓄は減少し、再補給の望みはもはやない。飢餓が兵士の剣がまだ成し遂げていないことを実行するだろう。包囲の輪は締まり、カルタゴはゆっくりと死に向かっている。",
+        "zh-CN": "防波堤的建设在迦太基人持续不断的骚扰下开始。每天，你的士兵们搬运巨石投入港口入口，而城墙上的弓箭手和投石兵将弹雨倾泻而下。伤亡不断增加，但工程毫不松懈地继续。你频繁轮换部队，确保始终有生力军可用，并修建防护屏障和挡板掩护工人。\n\n迦太基人以绝望的反制措施回应。他们向不断延伸的堤道发射火船。他们的工程师试图用潜水员破坏地基。在一次令人惊叹的壮举中，他们打开了新的秘密航道，以一支仓促组建的舰队出击，打了你的海军一个措手不及。但你迅速调整，加强了海军部署并击退了迦太基船只。\n\n经过数月艰苦卓绝的劳动，防波堤终于完工。巨大的石砌结构如一道墙横跨港口入口，将其永久封死。最后的迦太基补给船被困在内部。从城墙上传来日益绝望的声音——城市的食物储备正在耗尽，再也没有获得补给的希望。饥饿将完成你的士兵之剑尚未完成的使命。绞索已经收紧，迦太基正在慢慢死去。"
+      },
+      "nextSceneId": "fall-of-carthage-146bc-scene-003",
+      "stateChanges": [
+        { "variable": "navalBlockade", "operation": "add", "value": 60 },
+        { "variable": "siegeEffectiveness", "operation": "add", "value": 20 },
+        { "variable": "carthaginianResistance", "operation": "add", "value": -20 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Focus on destroying the secret channel with a concentrated naval and land assault. Deploy the fleet to blockade the new opening while engineers demolish it from the landward side. Maintain aggressive naval patrols to intercept supply ships rather than attempting the massive mole construction.",
+        "ja": "海軍と陸軍の集中攻撃で秘密水路の破壊に集中する。新しい開口部を封鎖するために艦隊を展開し、工兵が陸側から破壊する。大規模な防波堤建設を試みるのではなく、積極的な海上哨戒で補給船を阻止する。",
+        "zh-CN": "集中海军和陆军力量摧毁秘密航道。部署舰队封锁新开口，同时工程师从陆地一侧将其拆毁。保持积极的海上巡逻以拦截补给船，而非尝试修建大规模防波堤。"
+      },
+      "historicalContext": "This represents a faster but less thorough approach. While the historical Scipio chose the mole, a naval-focused strategy might have worked in the short term but would have left Carthage's harbor infrastructure intact and potentially exploitable.",
+      "outcomePrompt": {
+        "en": "Your fleet converges on the secret channel in a dawn assault that catches the Carthaginian ships inside off guard. Roman triremes block the exit while marines storm the channel's banks. The fighting is fierce—Carthaginian sailors defend their lifeline with suicidal bravery—but Roman numbers prevail. The channel is captured and your engineers begin demolishing it, filling it with rubble and debris.\n\nHowever, the victory is incomplete. While you focused on the secret channel, the main harbor remains functional. Carthaginian shipwrights, working with remarkable speed, begin constructing new small vessels inside the harbor. Some manage to slip out through gaps in your patrol lines during storms and moonless nights. Your naval commanders report that maintaining a perfect blockade with the available ships is simply impossible—the coastline is too long and the Carthaginian sailors too skilled.\n\nThe supply flow to Carthage is reduced but not eliminated. Enough grain trickles in to prevent outright starvation, prolonging the siege. Your engineers now suggest that the mole project might still be necessary, but you have lost valuable summer construction months. The situation is better than before, but the decisive stranglehold you need remains elusive. Rome grows impatient.",
+        "ja": "艦隊は夜明けの攻撃で秘密水路に集結し、内部のカルタゴ船を不意打ちする。ローマの三段櫂船が出口を封鎖し、海兵が水路の岸を襲撃する。戦闘は熾烈である。カルタゴの水兵たちは自殺的な勇気で生命線を守るが、ローマの数の優位が勝る。水路は占領され、工兵が瓦礫と残骸で埋め始める。\n\nしかし、勝利は不完全である。秘密水路に集中している間、主要な港は機能し続けている。カルタゴの造船工たちは驚くべき速さで港内に新しい小型船を建造し始める。嵐や月のない夜に哨戒線の隙間を抜け出すことに成功する船もある。海軍指揮官たちは、利用可能な船で完全な封鎖を維持することは不可能だと報告する。海岸線が長すぎ、カルタゴの水兵が巧みすぎるのだ。\n\nカルタゴへの物資の流れは減少したが途絶えてはいない。完全な飢餓を防ぐのに十分な穀物が少しずつ流入し、包囲を延長している。工兵たちは防波堤計画がまだ必要かもしれないと提案するが、貴重な夏の建設期間を失ってしまった。状況は以前より改善されたが、必要とされる決定的な封鎖はまだ達成されていない。ローマは苛立ちを募らせている。",
+        "zh-CN": "你的舰队在黎明突袭中集结于秘密航道，打了航道内的迦太基船只一个措手不及。罗马三列桨战船封锁出口，海军陆战队冲上航道两岸。战斗异常激烈——迦太基水兵以自杀式的勇气保卫着这条生命线——但罗马的数量优势最终占了上风。航道被夺取，你的工程师开始拆毁它，用碎石和废料填埋。\n\n然而，胜利并不完整。当你集中力量对付秘密航道时，主港口仍在运作。迦太基造船工以惊人的速度在港内建造新的小型船只。一些船只趁暴风雨和无月之夜从巡逻线的缝隙中溜了出去。你的海军指挥官报告说，以现有的船只维持完美封锁根本不可能——海岸线太长，迦太基水手太娴熟。\n\n流入迦太基的补给减少了但未被切断。足够的粮食涓涓流入以防止彻底饥荒，延长了围城时间。你的工程师现在建议防波堤工程可能仍有必要，但你已经失去了宝贵的夏季施工月份。局势比之前有所改善，但你所需要的决定性绞杀仍然难以实现。罗马日益失去耐心。"
+      },
+      "nextSceneId": "fall-of-carthage-146bc-scene-003",
+      "stateChanges": [
+        { "variable": "navalBlockade", "operation": "add", "value": 25 },
+        { "variable": "siegeEffectiveness", "operation": "add", "value": 5 },
+        { "variable": "politicalSupport", "operation": "add", "value": -10 },
+        { "variable": "carthaginianResistance", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,164 @@
+{
+  "id": "masada-73",
+  "title": {
+    "en": "Siege of Masada",
+    "ja": "マサダの包囲戦",
+    "zh-CN": "马萨达围城战"
+  },
+  "period": {
+    "en": "First Jewish-Roman War",
+    "ja": "第一次ユダヤ・ローマ戦争",
+    "zh-CN": "第一次犹太-罗马战争"
+  },
+  "dates": {
+    "start": "0072-01-01",
+    "end": "0073-04-16"
+  },
+  "location": {
+    "en": "Masada Fortress, Judean Desert",
+    "ja": "ユダヤ砂漠、マサダ要塞",
+    "zh-CN": "犹大沙漠马萨达要塞"
+  },
+  "historicalOverview": {
+    "en": "The Siege of Masada was the final episode of the First Jewish-Roman War. After the fall of Jerusalem in 70 AD, a group of Jewish Zealots and Sicarii, led by Eleazar ben Ya'ir, retreated to the mountaintop fortress of Masada overlooking the Dead Sea. Built and fortified by Herod the Great decades earlier, the fortress was nearly impregnable — perched atop a steep plateau with sheer cliffs on all sides, stocked with vast stores of food, water cisterns, and weapons. The Roman governor Flavius Silva marched the Tenth Legion and thousands of Jewish prisoners to the site and established eight siege camps connected by a circumvallation wall, sealing off any escape. When direct assault proved impossible, Silva ordered the construction of a massive siege ramp on the western face of the mountain — an engineering feat that took months. As the ramp neared completion and the Romans prepared their battering ram, Eleazar faced the impossible choice that would define Masada's legacy forever.",
+    "ja": "マサダの包囲戦は第一次ユダヤ・ローマ戦争の最終局面であった。紀元70年のエルサレム陥落後、エレアザル・ベン・ヤイルに率いられたユダヤ人の熱心党員とシカリイの一団は、死海を見下ろす山頂の要塞マサダに退いた。数十年前にヘロデ大王によって建設・要塞化されたこの砦は、四方を切り立った崖に囲まれた急峻な台地の頂上にそびえ、膨大な食糧、貯水槽、武器を備えており、ほぼ難攻不落であった。ローマ総督フラウィウス・シルウァは第十軍団と数千人のユダヤ人捕虜を率いて現地に進軍し、包囲壁で結ばれた八つの包囲陣地を設置して脱出を封じた。直接攻撃が不可能と判明すると、シルウァは山の西面に巨大な攻城傾斜路の建設を命じた——数ヶ月を要する工兵の偉業であった。傾斜路が完成に近づき、ローマ軍が破城槌を準備する中、エレアザルはマサダの遺産を永遠に定義する不可能な選択に直面した。",
+    "zh-CN": "马萨达围城战是第一次犹太-罗马战争的最后篇章。公元70年耶路撒冷陷落后，一群由埃莱亚扎尔·本·亚伊尔领导的犹太狂热党人和西卡里伊派退守到俯瞰死海的山顶要塞马萨达。这座要塞由希律大帝在数十年前建造并加固，几乎坚不可摧——矗立在四面都是悬崖峭壁的陡峭高原之上，储备有大量食物、蓄水池和武器。罗马总督弗拉维乌斯·席尔瓦率第十军团和数千名犹太俘虏进驻该地，建立了八个由环形围墙连接的围城营地，封锁了一切逃生通道。当正面强攻被证明不可能后，席尔瓦下令在山的西面修建一条巨大的攻城坡道——这项工程壮举耗时数月。当坡道接近完工、罗马人准备好攻城槌时，埃莱亚扎尔面临着一个将永远定义马萨达遗产的艰难抉择。"
+  },
+  "realWorldOutcome": {
+    "en": "According to Josephus, on the night before the final Roman assault, Eleazar ben Ya'ir convinced the 960 defenders to choose death over slavery. Ten men were chosen by lot to slay the others, then one was chosen to kill the remaining nine before taking his own life. When the Romans breached the walls the next morning, they found only silence and the dead. Two women and five children who had hidden in a water conduit survived to tell the tale. Masada became an enduring symbol of Jewish resistance and the will to choose death over subjugation.",
+    "ja": "ヨセフスによれば、ローマ軍の最終攻撃の前夜、エレアザル・ベン・ヤイルは960人の守備兵に奴隷になるより死を選ぶよう説得した。くじで選ばれた10人が他の者を殺し、さらに1人が残りの9人を殺してから自ら命を絶った。翌朝ローマ軍が城壁を突破したとき、そこにあったのは静寂と死体だけだった。水路に隠れていた女性2人と子供5人が生き残り、この話を伝えた。マサダはユダヤ人の抵抗と、隷属より死を選ぶ意志の永続的な象徴となった。",
+    "zh-CN": "据约瑟夫斯记载，在罗马军队发动最终进攻的前一夜，埃莱亚扎尔·本·亚伊尔说服了960名守军宁死不做奴隶。十人被抽签选出杀死其余的人，然后一人被选出杀死剩余的九人，最后自尽。第二天早晨罗马人攻破城墙时，只发现了一片寂静和遗体。藏在水管道中的两名妇女和五个孩子幸存下来，讲述了这个故事。马萨达成为犹太人抵抗精神和宁死不屈意志的永恒象征。"
+  },
+  "keyFigures": [
+    {
+      "id": "eleazar",
+      "name": "Eleazar ben Ya'ir",
+      "role": {
+        "en": "Leader of the Sicarii at Masada",
+        "ja": "マサダのシカリイ派指導者",
+        "zh-CN": "马萨达西卡里伊派领袖"
+      },
+      "faction": "Jewish Defenders",
+      "description": {
+        "en": "A descendant of Judas of Galilee, Eleazar led the Sicarii faction that seized Masada from a Roman garrison early in the revolt. A charismatic and determined leader, he held the fortress for years after Jerusalem fell, becoming the symbol of the last Jewish resistance.",
+        "ja": "ガリラヤのユダの子孫であるエレアザルは、反乱初期にローマ駐屯軍からマサダを奪取したシカリイ派を率いた。カリスマ的で断固たる指導者として、エルサレム陥落後も何年もの間要塞を守り続け、最後のユダヤ人抵抗の象徴となった。",
+        "zh-CN": "作为加利利的犹大的后裔，埃莱亚扎尔领导西卡里伊派在起义初期从罗马驻军手中夺取了马萨达。作为一位富有魅力和决心的领袖，他在耶路撒冷陷落后仍坚守要塞数年，成为犹太人最后抵抗的象征。"
+      }
+    },
+    {
+      "id": "silva",
+      "name": "Flavius Silva",
+      "role": {
+        "en": "Roman Governor of Judaea, Commander of Legio X Fretensis",
+        "ja": "ユダヤ属州ローマ総督、第十軍団指揮官",
+        "zh-CN": "犹太行省罗马总督，第十军团指挥官"
+      },
+      "faction": "Rome",
+      "description": {
+        "en": "The Roman governor tasked with ending the last pocket of Jewish resistance. Silva was a methodical commander who chose engineering over brute force, constructing the enormous siege ramp that made Masada's fall inevitable.",
+        "ja": "ユダヤ人の最後の抵抗拠点を鎮圧する任務を与えられたローマ総督。シルウァは力任せではなく工兵技術を選んだ几帳面な指揮官で、マサダの陥落を不可避にした巨大な攻城傾斜路を建設した。",
+        "zh-CN": "被派去消灭犹太人最后抵抗据点的罗马总督。席尔瓦是一位有条不紊的指挥官，选择工程手段而非蛮力，修建了使马萨达陷落成为必然的巨大攻城坡道。"
+      }
+    },
+    {
+      "id": "josephus",
+      "name": "Flavius Josephus",
+      "role": {
+        "en": "Jewish historian and Roman citizen",
+        "ja": "ユダヤ人歴史家・ローマ市民",
+        "zh-CN": "犹太历史学家、罗马公民"
+      },
+      "faction": "Rome",
+      "description": {
+        "en": "A former Jewish rebel commander who surrendered to the Romans and became a historian under Flavian patronage. His account in 'The Jewish War' is the primary source for the siege, though its accuracy — particularly the mass suicide narrative — has been debated by scholars.",
+        "ja": "ローマに投降し、フラウィウス朝の庇護の下で歴史家となった元ユダヤ人反乱軍指揮官。『ユダヤ戦記』における彼の記述は包囲戦の主要な史料であるが、その正確性——特に集団自決の叙述——は学者の間で議論されている。",
+        "zh-CN": "一位投降罗马的前犹太叛军指挥官，在弗拉维王朝的庇护下成为历史学家。他在《犹太战争》中的记述是这次围城战的主要史料，尽管其准确性——尤其是集体自杀的叙述——一直受到学者质疑。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "eleazar",
+      "scenarioId": "masada-73",
+      "name": "Eleazar ben Ya'ir",
+      "title": {
+        "en": "Leader of the Sicarii at Masada",
+        "ja": "マサダのシカリイ派指導者",
+        "zh-CN": "马萨达西卡里伊派领袖"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Eleazar ben Ya'ir, leader of the Sicarii who hold the fortress of Masada. It is late in the year 72 AD. Jerusalem has fallen. The Temple has been destroyed. Across Judaea, the last embers of revolt have been stamped out — Herodium has surrendered, Machaerus has fallen. Masada alone remains defiant. Nearly a thousand souls shelter behind its walls: fighters, families, the elderly, children. Below you, the Roman Tenth Legion under Flavius Silva has encamped with methodical precision. Eight camps ring the mountain, connected by a wall of circumvallation that seals off every path of escape. You watch from the ramparts as thousands of Jewish slaves — your own people — are forced to build the siege ramp that will bring Rome to your gates. The fortress has food and water for years, but the ramp grows higher every day. You must decide how to resist, how to endure, and ultimately, how this will end.",
+        "ja": "あなたはマサダ要塞を守るシカリイ派の指導者、エレアザル・ベン・ヤイルです。紀元72年の暮れです。エルサレムは陥落しました。神殿は破壊されました。ユダヤ全土で反乱の最後の火種が消されつつあります——ヘロディウムは降伏し、マケルスは陥落しました。マサダだけが反抗を続けています。約千人の人々が城壁の内に身を寄せています：戦士、家族、老人、子供たち。眼下では、フラウィウス・シルウァ率いるローマ第十軍団が几帳面な正確さで陣を張っています。八つの陣地が山を取り囲み、すべての逃走路を封じる包囲壁で結ばれています。あなたは城壁から見守ります——数千人のユダヤ人奴隷、あなた自身の民が、ローマを門前に導く攻城傾斜路の建設を強制されているのを。要塞には何年分もの食糧と水がありますが、傾斜路は日々高くなっています。あなたはどう抵抗するか、どう耐えるか、そして最終的にこれがどう終わるかを決断しなければなりません。",
+        "zh-CN": "您是埃莱亚扎尔·本·亚伊尔，坚守马萨达要塞的西卡里伊派领袖。现在是公元72年末。耶路撒冷已经陷落。圣殿已被摧毁。在犹太全境，起义的最后余烬正被扑灭——希律堡已投降，马凯鲁斯已陷落。只有马萨达仍在抵抗。近千人藏身于城墙之后：战士、家庭、老人、孩子。在您脚下，弗拉维乌斯·席尔瓦率领的罗马第十军团以严谨的精确部署了营地。八座营地环绕山体，由一道封锁一切逃生之路的围墙相连。您从城墙上注视着数千名犹太奴隶——您自己的同胞——被迫修建那条将把罗马人送到您门前的攻城坡道。要塞有足够数年的食物和水，但坡道每天都在升高。您必须决定如何抵抗、如何坚持，以及最终，这一切将如何收场。"
+      },
+      "objectives": [
+        {
+          "en": "Preserve the lives and dignity of the defenders of Masada",
+          "ja": "マサダの守備者の命と尊厳を守る",
+          "zh-CN": "保全马萨达守军的生命与尊严"
+        },
+        {
+          "en": "Resist the Roman siege as long as possible",
+          "ja": "ローマの包囲にできるだけ長く抵抗する",
+          "zh-CN": "尽可能长久地抵抗罗马围城"
+        },
+        {
+          "en": "Determine the final fate of Masada's people on your own terms",
+          "ja": "マサダの民の最終的な運命を自らの意志で決定する",
+          "zh-CN": "以自己的方式决定马萨达人民的最终命运"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "There is no relief force coming — the Jewish revolt has been crushed everywhere else",
+          "ja": "援軍は来ない——ユダヤ人の反乱は他のすべての場所で鎮圧された",
+          "zh-CN": "不会有援军到来——犹太起义在其他所有地方都已被镇压"
+        },
+        {
+          "en": "The mountain is completely surrounded — escape for nearly a thousand people is effectively impossible",
+          "ja": "山は完全に包囲されている——約千人の脱出は事実上不可能",
+          "zh-CN": "山体被完全包围——近千人的逃脱实际上是不可能的"
+        },
+        {
+          "en": "Roman capture means slavery for survivors and crucifixion for leaders",
+          "ja": "ローマに捕らわれれば生存者は奴隷、指導者は十字架刑を意味する",
+          "zh-CN": "被罗马俘获意味着幸存者沦为奴隶，领袖被钉十字架"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Jewish slaves are being used to build the siege ramp — attacking the ramp means killing your own people",
+          "ja": "ユダヤ人奴隷が攻城傾斜路の建設に使われている——傾斜路を攻撃することは自らの民を殺すことを意味する",
+          "zh-CN": "犹太奴隶被用来修建攻城坡道——攻击坡道意味着杀死自己的同胞"
+        },
+        {
+          "en": "Families with children look to you for hope — but you know the situation is hopeless",
+          "ja": "子供を持つ家族があなたに希望を求めている——しかしあなたは状況が絶望的であることを知っている",
+          "zh-CN": "带着孩子的家庭向您寻求希望——但您知道局势已经绝望"
+        },
+        {
+          "en": "Some defenders whisper about negotiating surrender — others would rather die than submit to Rome",
+          "ja": "一部の守備者は降伏交渉を囁いている——他の者はローマに屈するより死を選ぶ",
+          "zh-CN": "一些守军在私下议论投降谈判——另一些人宁死不向罗马屈服"
+        }
+      ],
+      "startingSceneId": "masada-73-scene-001",
+      "initialState": {
+        "defenderMorale": 65,
+        "rampProgress": 30,
+        "foodSupply": 85,
+        "romanPatience": 70,
+        "defenderUnity": 60
+      }
+    }
+  ],
+  "sceneIds": [
+    "masada-73-scene-001",
+    "masada-73-scene-002",
+    "masada-73-scene-003"
+  ],
+  "tags": ["ancient", "military", "political", "siege", "Judaea", "Rome", "last stand"],
+  "difficulty": "advanced"
+}

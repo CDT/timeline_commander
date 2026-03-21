@@ -1,0 +1,114 @@
+{
+  "id": "trojan-war-1184bc-scene-001",
+  "scenarioId": "trojan-war-1184bc",
+  "title": {
+    "en": "The Desperate Gambit",
+    "ja": "絶望の賭け",
+    "zh-CN": "孤注一掷"
+  },
+  "date": {
+    "en": "Late Summer, circa 1184 BC",
+    "ja": "紀元前1184年頃 晩夏",
+    "zh-CN": "约公元前1184年 夏末"
+  },
+  "location": {
+    "en": "Greek Camp on the shores near Troy",
+    "ja": "トロイ近郊の海岸にあるギリシャ軍の陣営",
+    "zh-CN": "特洛伊附近海岸的希腊军营"
+  },
+  "narrativePrompt": {
+    "en": "The salt wind carries the smell of smoke and decay across the Greek camp. Ten years. Ten years since the fleet first landed on these foreign shores, and still the towers of Troy stand defiant against the horizon, their limestone walls gleaming mockingly in the late summer sun. You stand at the entrance of your tent, Odysseus, watching the dispirited Greek soldiers shuffle about their duties with hollow eyes and sluggish movements. The death of Achilles has left a wound in the army's spirit that no healer can mend. Without their greatest champion, many warriors believe the gods have turned against them.\n\nInside your command tent, a rough model of Troy sits on a wooden table, carved from driftwood during the long years of siege. You have studied every angle of those walls, every gate, every weakness — and found none that brute force can exploit. But you have found something else: the Trojans' deep reverence for the gods and their belief in sacred omens. A plan has been forming in your mind, audacious and unprecedented. You would build a great wooden horse, magnificent enough to be mistaken for a divine offering, and conceal within it a handpicked force of the Greeks' most elite warriors.\n\nBut first, you must convince the other commanders. Agamemnon sits brooding in his pavilion, torn between pressing on and retreating with whatever honor remains. Neoptolemus, young son of Achilles, burns for vengeance but lacks patience for subtlety. Menelaus cares only for recovering Helen. Ajax the Lesser is drunk more often than not. You must gather these fractious leaders and forge consensus — or find a way to act without it. The council of war meets at sundown, and the future of the entire expedition will be decided.",
+    "ja": "塩辛い風がギリシャ軍の陣営に煙と腐敗の臭いを運んでくる。十年。艦隊がこの異国の海岸に初めて上陸してから十年、それでもなおトロイの塔は地平線に反抗的にそびえ立ち、石灰岩の城壁が晩夏の太陽の中で嘲笑うかのように輝いている。あなたはテントの入り口に立ち、オデュッセウスよ、意気消沈したギリシャの兵士たちが虚ろな目と緩慢な動きで任務をこなすのを見つめている。アキレウスの死は軍の魂にいかなる癒し手も治せない傷を残した。最強の勇者を失い、多くの戦士は神々が自分たちに背を向けたと信じている。\n\n指揮用テントの中には、長い包囲戦の間に流木から彫られたトロイの粗い模型が木製のテーブルの上に置かれている。あなたはあの城壁のあらゆる角度、あらゆる門、あらゆる弱点を研究し尽くした——そして武力で突ける弱点は一つもないことを知った。しかし、別のものを発見した。トロイの人々の神々への深い畏敬の念と、聖なる前兆への信仰である。大胆かつ前例のない計画があなたの心の中で形を成しつつある。神への奉納物と見紛うほど壮麗な巨大な木馬を造り、その中にギリシャ軍の最精鋭の戦士を厳選して隠すのだ。\n\nしかしまず、他の指揮官たちを説得しなければならない。アガメムノンは自らの天幕で憂鬱に沈み、進軍を続けるか残されたわずかな名誉とともに撤退するかで引き裂かれている。アキレウスの若き息子ネオプトレモスは復讐に燃えているが、繊細な策略には忍耐がない。メネラオスはヘレネの奪還にしか関心がない。小アイアスは酔っていることの方が多い。あなたはこれらの不和な指導者たちを集めて合意を築かなければならない——あるいは、合意なしに行動する方法を見つけなければならない。日没に軍議が開かれ、遠征軍全体の未来が決せられる。",
+    "zh-CN": "咸涩的海风将硝烟和腐朽的气味吹过希腊军营。十年了。自舰队首次登上这片异域海岸以来已过十年，特洛伊的塔楼依然傲然矗立于天际线上，石灰岩城墙在夏末的阳光中闪耀着嘲弄的光芒。你站在帐篷入口，奥德修斯，看着士气低落的希腊士兵们以空洞的眼神和迟缓的动作敷衍着各自的职责。阿喀琉斯之死在军队的灵魂中留下了任何医者都无法治愈的创伤。失去了最伟大的勇士，许多战士相信众神已经抛弃了他们。\n\n在你的指挥帐篷内，一个粗糙的特洛伊模型放在木桌上，是在漫长的围城岁月中用浮木雕刻而成的。你研究过那些城墙的每一个角度、每一道城门、每一处弱点——却没有找到任何可以用蛮力攻破的地方。但你发现了别的东西：特洛伊人对神灵的深深敬畏和对神圣征兆的信仰。一个大胆而史无前例的计划正在你心中成形。你要建造一匹巨大的木马，宏伟到足以被误认为神圣的祭品，并在其中藏匿精心挑选的希腊最精锐的战士。\n\n但首先，你必须说服其他指挥官。阿伽门农在他的营帐中郁郁寡欢，在继续进攻和带着仅存的荣誉撤退之间左右为难。阿喀琉斯的年轻儿子涅俄普托勒摩斯渴望复仇，但缺乏对精妙策略的耐心。墨涅拉俄斯只在乎夺回海伦。小埃阿斯大部分时间都醉醺醺的。你必须将这些争执不休的领袖召集在一起达成共识——或者找到一种不需要他们同意就能行动的方法。军事会议将在日落时分召开，整个远征军的命运将在此刻决定。"
+  },
+  "situationReport": [
+    {
+      "en": "Greek army morale is critically low following the death of Achilles. Desertions are increasing and many units refuse to participate in further assaults on the walls.",
+      "ja": "アキレウスの死後、ギリシャ軍の士気は危機的に低下している。脱走が増加し、多くの部隊が城壁へのさらなる攻撃への参加を拒否している。",
+      "zh-CN": "阿喀琉斯阵亡后，希腊军队士气极度低落。逃兵人数增加，许多部队拒绝参与对城墙的进一步进攻。"
+    },
+    {
+      "en": "Troy's walls remain intact after a decade of siege. No conventional assault has succeeded in breaching the fortifications, and the city's water supply remains secure.",
+      "ja": "十年の包囲戦を経てもトロイの城壁は健在である。従来の攻撃では一度も防御の突破に成功しておらず、都市の水源は確保されたままである。",
+      "zh-CN": "经过十年围城，特洛伊城墙依然完好。没有任何常规进攻成功突破防御工事，城市的水源供应仍然安全。"
+    },
+    {
+      "en": "Food supplies in the Greek camp are running dangerously low. Recent raids on nearby towns have yielded diminishing returns as the surrounding region has been thoroughly plundered.",
+      "ja": "ギリシャ軍陣営の食料供給が危険なほど不足している。近隣の町への最近の略奪は、周辺地域が徹底的に収奪されたため、収穫が減少している。",
+      "zh-CN": "希腊营地的粮食供应已降至危险水平。近期对周边城镇的劫掠所获日益减少，因为周围地区已被彻底搜刮。"
+    },
+    {
+      "en": "Intelligence reports indicate the Trojans are celebrating the death of Achilles and have relaxed some defensive patrols, believing the Greek threat is diminishing.",
+      "ja": "情報報告によると、トロイ軍はアキレウスの死を祝い、ギリシャの脅威が減少していると信じて一部の防衛巡回を緩和している。",
+      "zh-CN": "情报显示特洛伊人正在庆祝阿喀琉斯之死，并放松了部分防御巡逻，认为希腊人的威胁正在减弱。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Present the Trojan Horse plan to the council of Greek commanders and secure their support",
+      "ja": "トロイの木馬の計画をギリシャ軍指揮官の軍議に提示し、彼らの支持を獲得する",
+      "zh-CN": "向希腊指挥官会议提出特洛伊木马计划并获得他们的支持"
+    },
+    {
+      "en": "Prevent the coalition from fragmenting by addressing the concerns of wavering commanders",
+      "ja": "動揺する指揮官たちの懸念に対処し、連合の分裂を防ぐ",
+      "zh-CN": "解决犹豫不决的指挥官们的顾虑，防止联盟分裂"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Any plan must account for the fact that the Greek army cannot sustain the siege for more than a few additional weeks",
+      "ja": "いかなる計画も、ギリシャ軍がさらに数週間以上包囲を維持できないという事実を考慮しなければならない",
+      "zh-CN": "任何计划都必须考虑到希腊军队最多只能再维持数周围城的事实"
+    },
+    {
+      "en": "Agamemnon's authority as supreme commander must be respected publicly, even if his judgment is questioned privately",
+      "ja": "アガメムノンの最高司令官としての権威は、たとえ私的にはその判断に疑問があっても、公にはは尊重されなければならない",
+      "zh-CN": "阿伽门农作为最高统帅的权威必须在公开场合得到尊重，即使私下对其判断有所质疑"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Present the Trojan Horse plan openly at the war council, appealing to each commander's self-interest and desire for glory to build a coalition of support.",
+        "ja": "軍議でトロイの木馬の計画を公然と提示し、各指揮官の利害と栄光への欲求に訴えて支持連合を築く。",
+        "zh-CN": "在军事会议上公开提出特洛伊木马计划，诉诸每位指挥官的自身利益和对荣耀的渴望来建立支持联盟。"
+      },
+      "historicalContext": "According to tradition, Odysseus convinced the Greek leadership to adopt the Trojan Horse stratagem. The plan required broad cooperation from multiple Greek contingents to construct the horse and coordinate the feigned withdrawal.",
+      "outcomePrompt": {
+        "en": "The war council convenes in Agamemnon's great pavilion as the sun dips below the western horizon, casting long shadows across the faces of weary kings. You rise to speak, and every eye turns to you. With the eloquence for which you are renowned, you lay out the plan methodically. You speak of Troy's walls — impregnable to force, yes, but vulnerable to guile. You describe the wooden horse in vivid detail, the concealed warriors, the feigned retreat. You address each commander in turn: to Agamemnon, you promise the glory of being the king who conquered Troy; to Neoptolemus, you offer the chance to avenge his father inside Troy's very walls; to Menelaus, you paint the picture of Helen restored to his arms at last. The tent falls silent as they absorb your words. Agamemnon strokes his beard thoughtfully. Neoptolemus's eyes blaze with fierce determination. One by one, the commanders nod their assent. The plan is adopted, and preparations begin immediately. Greek carpenters are summoned, timber is gathered from the sacred groves of Mount Ida, and the construction of the most famous weapon in history commences under cover of night. Morale flickers back to life as the army senses a final, decisive act is at hand.",
+        "ja": "太陽が西の地平線に沈み、疲れた王たちの顔に長い影を落とす中、軍議がアガメムノンの大天幕で召集される。あなたが立ち上がって話し始めると、すべての視線があなたに向けられる。あなたはその名高い雄弁さをもって、計画を条理立てて説明する。トロイの城壁について語る——力では難攻不落だが、策略には脆弱であると。木馬を鮮やかに描写し、隠された戦士たち、偽装の撤退を説明する。各指揮官に順番に語りかける。アガメムノンにはトロイを征服した王としての栄光を約束し、ネオプトレモスにはトロイの城壁の中で父の仇を討つ機会を提供し、メネラオスにはついにヘレネが彼の腕に戻る場面を描いて見せる。テントはあなたの言葉を噛みしめるように静まり返る。アガメムノンは思慮深く髭を撫で、ネオプトレモスの目は激しい決意で燃えている。指揮官たちは一人また一人と同意の頷きを見せる。計画は採択され、準備が直ちに始まる。ギリシャの大工が召集され、イダ山の聖なる森から木材が集められ、歴史上最も有名な兵器の建造が夜陰に紛れて開始される。最終的な決戦が間近に迫っていることを軍が感じ取り、士気が再び燃え上がる。",
+        "zh-CN": "夕阳沉入西方地平线，在疲惫的国王们脸上投下长长的影子之际，军事会议在阿伽门农的大帐中召开。你起身发言，所有目光都转向你。凭借你闻名遐迩的口才，你有条不紊地阐述计划。你谈及特洛伊的城墙——确实无法用武力攻破，但对计谋却毫无防备。你生动详细地描述了木马、隐藏的战士和假装撤退的计划。你依次对每位指挥官说：对阿伽门农，你许以征服特洛伊之王的荣耀；对涅俄普托勒摩斯，你提供在特洛伊城墙之内为父报仇的机会；对墨涅拉俄斯，你描绘海伦终于回到他怀中的画面。帐篷内陷入沉默，他们消化着你的话语。阿伽门农若有所思地抚摸胡须，涅俄普托勒摩斯的眼中燃烧着坚定的决心。指挥官们一个接一个地点头表示同意。计划被采纳，准备工作立即开始。希腊工匠被召集起来，从伊达山的圣林中采集木材，历史上最著名的武器在夜幕的掩护下开始建造。当军队感觉到最终的决定性行动即将到来时，士气重新燃起。"
+      },
+      "nextSceneId": "trojan-war-1184bc-scene-002",
+      "stateChanges": [
+        { "variable": "greekMorale", "operation": "add", "value": 20 },
+        { "variable": "allianceCohesion", "operation": "add", "value": 25 },
+        { "variable": "deceptionProgress", "operation": "add", "value": 30 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Secretly begin constructing the Trojan Horse with a small group of trusted allies, presenting it to the other commanders only once it is nearly complete and retreat is impossible.",
+        "ja": "信頼できる少数の同盟者と秘密裏にトロイの木馬の建造を開始し、ほぼ完成して撤回不可能になった段階で初めて他の指揮官たちに提示する。",
+        "zh-CN": "秘密地与一小群信任的盟友开始建造特洛伊木马，直到木马接近完工且无法回头时才向其他指挥官展示。"
+      },
+      "historicalContext": "While the historical tradition suggests the plan was presented to and approved by the Greek leadership, some accounts suggest Odysseus acted with considerable independence and secrecy, only revealing the full scope of his plans when necessary.",
+      "outcomePrompt": {
+        "en": "Under the cover of darkness, you gather a small circle of your most trusted companions: Diomedes, whose courage is matched only by his discretion; Epeius, the master craftsman who alone possesses the skill to build what you envision; and Neoptolemus, whose burning desire for vengeance makes him a willing conspirator. In a secluded corner of the camp, screened by beached ships and canvas, the construction begins in secret. Epeius works with astonishing speed and skill, shaping great timbers into the form of a horse that grows more magnificent with each passing night. But secrecy comes at a cost. Without the full resources of the army, the work proceeds slowly. Worse, rumors begin to spread through the camp about mysterious activity. Agamemnon sends messengers demanding an explanation, and some commanders grow suspicious that you are building a ship to flee. When you finally reveal the nearly completed horse, Agamemnon is furious at being bypassed, and several commanders question your loyalty. You manage to convince them of the plan's merits, but the rift in trust will not easily heal. The alliance holds together, but barely, and the preparation has consumed precious time that has further strained supplies.",
+        "ja": "夜の闇に紛れて、あなたは最も信頼できる仲間の小さな輪を集める。その勇気に匹敵する慎重さを持つディオメデス、あなたが構想するものを造る技術を唯一持つ名工エペイオス、そして復讐への燃えるような渇望が彼を進んで共謀者にさせるネオプトレモス。陣営の人目につかない一角で、座礁した船と天幕に遮られながら、秘密裏に建造が始まる。エペイオスは驚くべき速さと技術で作業し、大きな木材を夜ごとにますます壮麗になる馬の形に削り上げていく。しかし秘密には代償がある。軍の全資源を使えないため、作業は遅々として進む。さらに悪いことに、謎の活動についての噂が陣営に広まり始める。アガメムノンが説明を求める使者を送り、一部の指揮官たちはあなたが逃亡用の船を造っているのではないかと疑い始める。ほぼ完成した木馬をついに公開したとき、アガメムノンは自分が蚊帳の外に置かれたことに激怒し、数人の指揮官があなたの忠誠を疑問視する。計画の利点を何とか説得するが、信頼の亀裂は容易には修復されない。同盟はかろうじて持ちこたえるが、準備に貴重な時間を費やし、補給はさらに逼迫する。",
+        "zh-CN": "在夜幕的掩护下，你召集了一小群最值得信赖的同伴：狄俄墨得斯，其勇气只有其谨慎才能匹敌；厄珀俄斯，唯一拥有建造你构想之物技艺的工匠大师；以及涅俄普托勒摩斯，对复仇的强烈渴望使他成为甘愿的共谋者。在营地一个僻静的角落，被搁浅的船只和帆布遮挡着，秘密建造工程开始了。厄珀俄斯以惊人的速度和技巧工作，将巨大的木材塑造成一匹每过一夜就愈加宏伟的木马。但保密是有代价的。没有全军的资源，工程进展缓慢。更糟糕的是，关于神秘活动的谣言开始在营地中传播。阿伽门农派使者要求解释，一些指挥官怀疑你在建造逃跑用的船只。当你最终展示几近完工的木马时，阿伽门农对被绕过决策极为愤怒，数位指挥官质疑你的忠诚。你设法说服他们相信计划的价值，但信任的裂痕不会轻易愈合。联盟勉强维持，但准备工作消耗了宝贵的时间，补给更加紧张。"
+      },
+      "nextSceneId": "trojan-war-1184bc-scene-002",
+      "stateChanges": [
+        { "variable": "greekMorale", "operation": "add", "value": 5 },
+        { "variable": "allianceCohesion", "operation": "add", "value": -10 },
+        { "variable": "deceptionProgress", "operation": "add", "value": 20 },
+        { "variable": "suppliesRemaining", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,113 @@
+{
+  "id": "caesar-assassination-44bc-scene-003",
+  "scenarioId": "caesar-assassination-44bc",
+  "title": {
+    "en": "The Forum and the Funeral",
+    "ja": "フォルムと葬儀",
+    "zh-CN": "广场与葬礼"
+  },
+  "date": {
+    "en": "March 15–20, 44 BC",
+    "ja": "紀元前44年3月15～20日",
+    "zh-CN": "公元前44年3月15—20日"
+  },
+  "location": {
+    "en": "The Roman Forum and streets of Rome",
+    "ja": "ローマのフォルムとローマの通り",
+    "zh-CN": "罗马广场和罗马街道"
+  },
+  "narrativePrompt": {
+    "en": "The day after the Ides. Rome is in shock. Caesar's body was carried home by three slaves. The streets that had been emptying in panic have grown eerily quiet. The conspirators — the Liberatores, as they call themselves — hold the Capitol, where Brutus and Cassius have retreated to make a stand if needed. The city has not risen against them, but it has not embraced them either. The ordinary people of Rome loved Caesar for his grain doles, his shows, his wars, his generosity; they do not understand what tyrannicide means. They only know their patron is dead.\n\nMark Antony has emerged as the central figure of the crisis. As Caesar's co-consul, he has legal authority over the city. He has been in contact with the conspirators, negotiating a settlement: the Liberatores will receive amnesty in exchange for recognizing Caesar's acts as valid and allowing him a state funeral. Cassius argues violently that this is a fatal mistake — Antony will use the funeral as a platform to inflame the mob. But Brutus has already agreed to the terms, swayed by his belief that Rome would respond rationally to a principled appeal. The agreement has been made.\n\nNow Caesar's funeral has come. His body lies on a pyre in the Forum Romanum, wrapped in his bloodstained toga. The Roman people have gathered in their thousands. Antony mounts the rostra to deliver the eulogy. He produces Caesar's will — which bequeaths seventy-five drachmas to every Roman citizen and opens his gardens to the public. He reads the list of Caesar's honours that the Senate itself had bestowed. He unwraps the toga and holds it up so the crowd can see the twenty-three bloodstained holes. The people are weeping. They are beginning to roar. Antony has not said one accusatory word — he has simply let the facts speak. And Brutus, who also spoke and was politely received, now realizes that Antony is destroying everything with the most devastating weapon in Roman politics: grief.",
+    "ja": "イデスの翌日。ローマは衝撃の中にある。カエサルの遺体は三人の奴隷によって自宅に運ばれた。恐慌で閑散としていた通りは不気味なほど静まり返っている。陰謀者たち——彼ら自身が「解放者」と呼ぶ者たち——は必要なら抵抗できるようにカピトリヌスを占拠している。都市は彼らに反乱を起こしてはいないが、受け入れてもいない。ローマの一般市民はカエサルを、穀物の配給、見世物、戦争、気前の良さから愛していた。彼らは暴君殺害が何を意味するか理解していない。後援者が死んだとしか知らない。\n\nマルクス・アントニウスが危機の中心人物として浮かび上がっている。カエサルの共同執政官として、彼は都市に対する法的権限を持つ。彼は陰謀者たちと連絡を取り、和解を交渉してきた：解放者たちはカエサルの行為を有効と認め、国葬を許可する代わりに恩赦を受ける。カッシウスはこれが致命的な誤りだと激しく主張する——アントニウスは葬儀を群衆を煽る場として使うだろう。しかしブルトゥスはすでに条件に同意した。ローマが原則的な訴えに理性的に応じるという信念に動かされて。合意は成立した。\n\n今、カエサルの葬儀が来た。遺体は血に染まったトガに包まれてフォルム・ロマヌムの薪の山に横たわっている。ローマ市民が何千人も集まっている。アントニウスが弔辞を述べるために演壇に上がる。彼はカエサルの遺言を取り出す——すべてのローマ市民に七十五ドラクマを遺贈し、庭園を公開するという内容だ。元老院自身がカエサルに与えた栄誉のリストを読み上げる。トガを広げ、群衆が二十三の血に染まった穴を見られるよう掲げる。人々が泣いている。轟き始めている。アントニウスは一言も告発の言葉を発していない——ただ事実が語るままにした。そして、ブルトゥスも演説して礼儀正しく迎えられたが、今はアントニウスがローマ政治で最も壊滅的な武器——悲しみ——ですべてを破壊しつつあると気づく。",
+    "zh-CN": "望日之后的第二天。罗马笼罩在震惊之中。凯撒的遗体由三名奴隶抬回家中。曾因恐慌而人群散去的街道变得诡异地宁静。密谋者们——他们自称\"解放者\"——占据了卡皮托利山，如有必要可在那里做最后的抵抗。城市没有起来反对他们，但也没有接纳他们。罗马普通百姓因凯撒的粮食配给、竞技表演、战争和慷慨馈赠而爱戴他；他们不明白诛暴的含义。他们只知道自己的保护人死了。\n\n马克·安东尼已浮出水面，成为这场危机的核心人物。作为凯撒的共同执政官，他拥有对城市的法律权威。他一直与密谋者保持联系，谈判和解方案：解放者们将获得特赦，换取承认凯撒的行为有效并允许举行国葬。卡西乌斯强烈主张这是致命的错误——安东尼将利用葬礼作为煽动民众的平台。但布鲁图斯已经同意了条款，被他对罗马将理性地回应原则性呼吁这一信念所左右。协议已经达成。\n\n现在，凯撒的葬礼来临了。他的遗体裹在血迹斑斑的托加袍里，躺在罗马广场的柴堆上。数以千计的罗马人已经聚集。安东尼登上演讲台发表悼词。他拿出凯撒的遗嘱——向每位罗马公民遗赠七十五德拉克马并将其花园向公众开放。他宣读了元老院本身所授予凯撒的荣誉清单。他展开托加袍，高举示众，让人群看到那二十三个血迹斑斑的破洞。人们哭泣着。他们开始咆哮。安东尼没有说过一句指控之词——他只是让事实本身说话。而布鲁图斯，他也发表了演讲并获得了礼貌的接待，此刻却意识到安东尼正在用罗马政治中最具毁灭性的武器——悲恸——摧毁一切。"
+  },
+  "situationReport": [
+    {
+      "en": "Mark Antony's funeral oration is turning the Roman mob against the Liberatores — crowds are beginning to riot",
+      "ja": "マルクス・アントニウスの弔辞がローマの群衆を解放者に向かわせている——群衆が暴動を起こし始めている",
+      "zh-CN": "马克·安东尼的葬礼演说正将罗马民众引向反对解放者的方向——人群开始骚乱"
+    },
+    {
+      "en": "Brutus and Cassius have retreated to the Capitol but hold no military force; they are politically isolated",
+      "ja": "ブルトゥスとカッシウスはカピトリヌスに退いたが軍事力を持たない。政治的に孤立している",
+      "zh-CN": "布鲁图斯和卡西乌斯已退守卡皮托利山，但没有军事力量；他们已被政治孤立"
+    },
+    {
+      "en": "Caesar's will — leaving money to every citizen and opening his gardens — has turned popular sentiment against the conspirators",
+      "ja": "全市民への金と庭園公開を約束したカエサルの遺言が民衆の感情を陰謀者への反感に向けた",
+      "zh-CN": "凯撒的遗嘱——向每位公民留赠金钱并开放他的花园——已将民心引向反对密谋者的方向"
+    },
+    {
+      "en": "Antony holds Caesar's private papers and state funds; he is the most powerful figure in Rome tonight",
+      "ja": "アントニウスはカエサルの個人文書と国家資金を保持している。今夜のローマで最も力のある人物だ",
+      "zh-CN": "安东尼掌握着凯撒的私人文件和国家资金；今晚他是罗马最有权势的人物"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Survive the political backlash of the funeral and maintain some path forward for the Republic",
+      "ja": "葬儀の政治的反動を生き延び、共和国への何らかの進路を維持する",
+      "zh-CN": "在葬礼的政治反弹中存活下来，为共和国维持某种前进路径"
+    },
+    {
+      "en": "Respond to Antony's move before the streets of Rome turn completely against the Liberatores",
+      "ja": "ローマの通りが完全に解放者に敵対的になる前に、アントニウスの動きに対応する",
+      "zh-CN": "在罗马街道完全倒向对解放者不利之前，应对安东尼的举动"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The conspirators have no army — their only weapons are argument, law, and reputation",
+      "ja": "陰謀者たちには軍隊がない——彼らの武器は議論、法律、そして評判だけだ",
+      "zh-CN": "密谋者们没有军队——他们唯一的武器是论辩、法律和声誉"
+    },
+    {
+      "en": "Caesar's veterans outside the city are loyal to his memory — if Antony calls them, the game is over",
+      "ja": "都市外のカエサルの退役兵たちは彼の記憶に忠実だ——アントニウスが呼べばゲームは終わる",
+      "zh-CN": "城外凯撒的退伍军人忠于他的记忆——如果安东尼召唤他们，一切都将终结"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Leave Rome. Withdraw from the city before the mob turns completely hostile, preserve the Liberatores alive, and fight for the Republic from the provinces where loyal armies can be raised.",
+        "ja": "ローマを去る。群衆が完全に敵対的になる前に都市から撤退し、解放者たちを生かして、忠実な軍隊を集められる属州から共和国のために戦う。",
+        "zh-CN": "离开罗马。在民众完全变得敌对之前撤离城市，保全解放者的性命，从可以集结忠诚军队的行省为共和国而战。"
+      },
+      "historicalContext": "The historical outcome — Brutus and Cassius eventually left Rome and raised armies in the east. They were defeated by Antony and Octavian at the Battle of Philippi in 42 BC. Both committed suicide. The Republic never recovered.",
+      "outcomePrompt": {
+        "en": "Brutus gives the order and the Liberatores disperse from the Capitol under cover of night. By dawn they are gone from Rome — Brutus to Macedonia, Cassius to Syria. The city is Antony's. The weeks that follow are a masterpiece of Antonian politics: he uses Caesar's papers to enact Caesar's planned legislation, rewarding allies and building a power base that makes him indispensable. Then a young man arrives from Macedonia — Gaius Octavius, Caesar's eighteen-year-old great-nephew and adopted heir, who takes the name Gaius Julius Caesar Octavianus and immediately begins calling in the debts owed to his adoptive father. Brutus raises an army in the east. Cassius does the same. For two years the Republic fights its last civil war. At Philippi in northern Macedonia, in October 42 BC, the armies of Brutus and Cassius meet the combined forces of Antony and Octavian. Both Republican generals are defeated and choose death over capture. Brutus falls on his sword. The Liberatores are gone. The Republic — the system of self-governance that Rome had maintained for nearly five centuries — will never be restored. Within fifteen years, Octavian will stand in the Forum as Rome's first emperor, the divine Augustus. The Republic died on the Ides of March, though it took two years to finish falling.",
+        "ja": "ブルトゥスは命令を下し、解放者たちは夜の闇に紛れてカピトリヌスから解散する。夜明けまでに彼らはローマから去っている——ブルトゥスはマケドニアへ、カッシウスはシリアへ。都市はアントニウスのものとなる。続く数週間は完璧なアントニウス政治の傑作だ：カエサルの文書を使ってカエサルが計画した立法を実施し、同盟者を報いて自分を不可欠にする権力基盤を構築する。そしてマケドニアから若者が到着する——ガイウス・オクタウィウス、カエサルの18歳の大甥で養子相続人で、ガイウス・ユリウス・カエサル・オクタウィアヌスの名を取り、直ちに養父に対して負われた債務の回収を始める。ブルトゥスは東方で軍を集める。カッシウスも同様にする。二年間、共和国は最後の内戦を戦う。紀元前42年10月、北マケドニアのフィリッピで、ブルトゥスとカッシウスの軍がアントニウスとオクタウィアヌスの連合軍と相まみえる。両方の共和派将軍が敗北し、捕獲より死を選ぶ。ブルトゥスは剣に倒れる。解放者たちは去った。共和国——ローマが約五世紀にわたって維持してきた自己統治の体制——は二度と回復されない。十五年以内に、オクタウィアヌスがローマ初代皇帝、神君アウグストゥスとしてフォルムに立つ。共和国は三月のイデスに死んだが、倒れ終わるのに二年かかった。",
+        "zh-CN": "布鲁图斯下令，解放者们趁夜从卡皮托利山四散而去。黎明时他们已离开罗马——布鲁图斯去了马其顿，卡西乌斯去了叙利亚。城市属于安东尼了。接下来的数周是安东尼政治的杰作：他利用凯撒的文件颁布凯撒计划中的立法，奖赏盟友并建立使自己不可或缺的权力基础。然后一个年轻人从马其顿抵达——盖乌斯·屋大维，凯撒18岁的曾侄孙和养子继承人，他取名盖乌斯·尤利乌斯·凯撒·屋大维亚努斯，立即开始索取他的养父所应得的债务。布鲁图斯在东方集结军队。卡西乌斯亦然。两年间共和国进行着最后的内战。公元前42年10月，在马其顿北部的腓力比，布鲁图斯和卡西乌斯的军队与安东尼和屋大维的联军相遇。两位共和派将领均告失败，选择以死代替被俘。布鲁图斯倒在自己的剑上。解放者们消逝了。共和国——罗马维持了近五个世纪的自治体制——永远不会复兴。十五年内，屋大维将以罗马第一位皇帝、神圣的奥古斯都的身份屹立于广场之上。共和国在三月望日已经死去，尽管它的倒塌用了两年才最终完成。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "conspiracySecrecy", "operation": "set", "value": 0 },
+        { "variable": "republicanLegitimacy", "operation": "add", "value": -20 },
+        { "variable": "caesarianThreat", "operation": "set", "value": 100 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Confront Antony now. Take the Forum by force if necessary. Seize the moment before the mob crystallizes into an army. The Republic must assert itself tonight or it dies.",
+        "ja": "今すぐアントニウスと対峙する。必要なら力でフォルムを制圧する。群衆が軍に固まる前に機会を捉える。共和国は今夜自己主張しなければ死ぬ。",
+        "zh-CN": "现在就与安东尼正面交锋。必要时以武力夺取广场。在民众凝聚成一支军队之前抓住时机。共和国必须在今夜主张自己的权威，否则便将消亡。"
+      },
+      "historicalContext": "A counterfactual — the Liberatores had no forces with which to challenge Antony militarily in Rome. Seizing the initiative physically would have required calling on Caesar's veterans, which they did not control, or relying on gladiators and street gangs.",
+      "outcomePrompt": {
+        "en": "Brutus makes his choice: the Republic does not retreat. He descends from the Capitol and appears in the Forum before the grieving crowd, interrupting Antony's performance with a raised hand and the authority of a man who has done what he believes to be right. His words are simple and direct — Caesar was a tyrant, Rome is free, this is not murder but liberation. For a long, terrible moment, the crowd is silent. Then the grief reasserts itself. Someone throws a stone. Then another. The conspirators' supporters — there are some in the crowd — try to push back but are overwhelmed. Brutus is struck and barely escapes with his life through the back streets. The Forum erupts. Mobs burn the house of Cinna the poet, mistaking him for Cinna the conspirator. Antony, watching from a safe distance, moves swiftly to secure the city gates, the treasury, and Caesar's armies. Within forty-eight hours he controls Rome completely. Brutus and Cassius flee. Their bold gamble — that Rome would choose freedom over the comfort of a beloved tyrant — has failed. The Republic is over. The men who killed Caesar to save the Republic have instead only guaranteed that it will die faster and with more bloodshed than it would have under Caesar himself.",
+        "ja": "ブルトゥスは決断する：共和国は退かない。カピトリヌスを降り、アントニウスの演技を挙げた手と自分が正しいと信じることをした男の権威で遮りながら、悲しみに暮れる群衆の前のフォルムに姿を現す。言葉は単純で直接的だ——カエサルは暴君であり、ローマは自由であり、これは殺人ではなく解放だと。長い、恐ろしい沈黙の後、群衆は静まり返る。そして悲しみが再び主張する。誰かが石を投げる。そしてまた一つ。陰謀者の支持者——群衆の中にはいる——が押し返そうとするが圧倒される。ブルトゥスは打たれ、裏道を通ってかろうじて命からがら逃れる。フォルムが爆発する。暴徒が詩人キンナの家を焼く、陰謀者キンナと間違えて。安全な距離から見ていたアントニウスは、市門、財務府、カエサルの軍を確保するために素早く動く。四十八時間以内に彼はローマを完全に支配する。ブルトゥスとカッシウスは逃れる。彼らの大胆な賭け——ローマが愛された暴君の安楽より自由を選ぶだろうという——は失敗した。共和国は終わった。共和国を救うためにカエサルを殺した者たちは、カエサル自身の下でよりも早く、より多くの流血で共和国が死ぬことを保証しただけとなった。",
+        "zh-CN": "布鲁图斯做出了他的选择：共和国不会退缩。他从卡皮托利山走下，出现在广场悲恸的人群面前，以高举的手和一个相信自己所为之事正确的人的威严打断安东尼的表演。他的话语简单而直接——凯撒是暴君，罗马已经自由，这不是谋杀而是解放。在一段漫长而可怕的沉默中，人群默然无声。然后悲恸重新主导了一切。有人投出一块石头。然后又是一块。密谋者的支持者——人群中确实有一些——试图反击但被压倒。布鲁图斯被打中，从小巷中九死一生地逃脱。广场爆发了。暴徒焚烧了诗人辛纳的房子，误以为他是密谋者辛纳。安东尼从安全距离处观看，迅速行动以确保城门、国库和凯撒的军队。四十八小时内他完全控制了罗马。布鲁图斯和卡西乌斯逃亡。他们大胆的赌注——罗马将选择自由而非爱戴的暴君所带来的安逸——已经落败。共和国终结了。那些杀死凯撒以拯救共和国的人，却只是保证了它将以比凯撒本人统治下更快的速度、更多的流血走向终结。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "conspiracySecrecy", "operation": "set", "value": 0 },
+        { "variable": "republicanLegitimacy", "operation": "add", "value": 5 },
+        { "variable": "caesarianThreat", "operation": "set", "value": 100 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

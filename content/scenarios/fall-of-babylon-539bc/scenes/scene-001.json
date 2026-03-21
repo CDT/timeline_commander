@@ -1,0 +1,115 @@
+{
+  "id": "fall-of-babylon-539bc-scene-001",
+  "scenarioId": "fall-of-babylon-539bc",
+  "title": {
+    "en": "The Walls of Babylon",
+    "ja": "バビロンの城壁",
+    "zh-CN": "巴比伦的城墙"
+  },
+  "date": {
+    "en": "October 539 BC",
+    "ja": "紀元前539年10月",
+    "zh-CN": "公元前539年10月"
+  },
+  "location": {
+    "en": "Persian Camp, north of Babylon along the Euphrates",
+    "ja": "ユーフラテス川沿いバビロン北方のペルシア陣営",
+    "zh-CN": "幼发拉底河沿岸巴比伦以北的波斯营地"
+  },
+  "narrativePrompt": {
+    "en": "The dust of the Battle of Opis has barely settled, and already the greatest prize in the ancient world lies before you. Babylon — the city of Nebuchadnezzar, the city of the Ishtar Gate, the city whose Hanging Gardens are counted among the wonders of the world. Your scouts report that the Babylonian field army is shattered; the survivors have fled behind the city's legendary double walls. Those walls stretch for over fifty miles in circumference, rising nearly ninety feet high, thick enough for chariots to ride abreast along their summit. The Euphrates River flows directly through the city, entering and exiting through massive bronze river gates fitted with iron grates that descend into the riverbed. The city has stored enough grain to withstand a siege of twenty years, or so the Babylonians boast. A direct assault would cost you tens of thousands of men and might fail entirely. Yet you have assets that no previous attacker possessed. Your agent Ugbaru, the defected governor of Gutium, has provided detailed intelligence about the city's defenses, its internal politics, and the deep resentment that the Marduk priesthood harbors against King Nabonidus. Your engineers have surveyed the ancient canal systems upstream of Babylon and believe the Euphrates itself could be turned against the city. Meanwhile, Babylonian emissaries have arrived at your camp, hinting that certain factions within the city might open the gates — for a price. You must decide your approach to this seemingly impregnable fortress.",
+    "ja": "オピスの戦いの砂塵がまだ収まりきらぬうちに、古代世界最大の戦利品が目の前に横たわっている。バビロン——ネブカドネザルの都、イシュタル門の都、その空中庭園が世界の驚異に数えられる都。斥候の報告によれば、バビロニアの野戦軍は壊滅し、生存者は伝説の二重城壁の内側に逃げ込んだ。その城壁は周囲50マイル以上に及び、高さは約90フィートに達し、頂上では戦車が並んで走れるほどの厚さを持つ。ユーフラテス川は巨大な青銅の河門を通って都市を貫流し、川底まで降りる鉄格子が備えられている。バビロニア人は二十年の包囲にも耐えうる穀物を蓄えていると豪語する。直接攻撃は数万の兵を失い、完全に失敗する可能性もある。しかしあなたには、以前のどの攻撃者も持たなかった資産がある。寝返ったグティウム総督ウグバルが、都市の防衛、内政、そしてマルドゥク神官団がナボニドゥス王に抱く深い恨みについて詳細な情報を提供している。技師たちはバビロン上流の古代の運河システムを調査し、ユーフラテス川そのものを都市に対して利用できると確信している。一方、バビロニアの使者があなたの陣営に到着し、都市内の特定の勢力が門を開くかもしれないと示唆している——代価次第で。この難攻不落に見える要塞への接近方法を決断しなければならない。",
+    "zh-CN": "奥皮斯之战的尘烟尚未散尽，古代世界最伟大的战利品已摆在你面前。巴比伦——尼布甲尼撒之城、伊什塔尔门之城、其空中花园被列为世界奇迹的城市。斥候报告巴比伦野战军已被击溃，幸存者已逃入传说中的双层城墙之内。这些城墙周长超过五十英里，高近九十英尺，厚到可以让战车在墙顶并排行驶。幼发拉底河直接穿过城市，通过装有铁栅栏的巨大青铜河门进出，铁栅一直延伸到河床。巴比伦人夸口说他们储存的粮食足以支撑二十年的围城。直接进攻将损失数万人马，而且可能完全失败。然而你拥有此前任何进攻者都不曾有过的优势。叛逃的古提乌姆总督乌格巴鲁提供了关于城市防御、内部政治以及马尔杜克祭司阶层对拿波尼度斯国王深深怨恨的详细情报。你的工程师勘察了巴比伦上游的古代运河系统，确信可以利用幼发拉底河本身来对付这座城市。与此同时，巴比伦使者已抵达你的营地，暗示城内某些势力可能会打开城门——只要价格合适。你必须决定如何攻克这座看似坚不可摧的堡垒。"
+  },
+  "situationReport": [
+    {
+      "en": "The Babylonian field army has been destroyed at Opis — only garrison troops remain behind the walls",
+      "ja": "バビロニアの野戦軍はオピスで壊滅した——城壁の内側には守備隊のみが残る",
+      "zh-CN": "巴比伦野战军已在奥皮斯被歼灭——城墙内仅剩守备部队"
+    },
+    {
+      "en": "Babylon's double walls and the Euphrates River make direct assault nearly impossible",
+      "ja": "バビロンの二重城壁とユーフラテス川により直接攻撃はほぼ不可能である",
+      "zh-CN": "巴比伦的双层城墙和幼发拉底河使直接进攻几乎不可能"
+    },
+    {
+      "en": "Persian engineers have identified ancient canal systems upstream that could divert the Euphrates",
+      "ja": "ペルシアの技師たちがユーフラテス川の流れを変えられる上流の古代運河システムを特定した",
+      "zh-CN": "波斯工程师已发现上游可以改道幼发拉底河的古代运河系统"
+    },
+    {
+      "en": "Agents inside Babylon report growing discontent among the Marduk priesthood and nobility against Nabonidus",
+      "ja": "バビロン内部の工作員がマルドゥク神官団と貴族のナボニドゥスに対する不満の高まりを報告している",
+      "zh-CN": "巴比伦城内的密探报告马尔杜克祭司阶层和贵族对拿波尼度斯的不满日益增长"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Develop a strategy to penetrate Babylon's formidable defenses without a prolonged siege",
+      "ja": "長期包囲なしにバビロンの強固な防御を突破する戦略を策定する",
+      "zh-CN": "制定一项无需长期围城便能突破巴比伦强大防御的策略"
+    },
+    {
+      "en": "Exploit internal Babylonian divisions to weaken resistance from within",
+      "ja": "バビロン内部の分裂を利用して内側からの抵抗を弱める",
+      "zh-CN": "利用巴比伦内部的分裂从内部削弱抵抗"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "A prolonged siege risks overextending Persian supply lines and inviting rebellion in conquered territories",
+      "ja": "長期の包囲はペルシアの補給線の過剰な延伸を招き、征服地域での反乱を誘発するリスクがある",
+      "zh-CN": "长期围城有过度延伸波斯补给线并引发被征服领土叛乱的风险"
+    },
+    {
+      "en": "Destroying Babylon would eliminate the greatest city in Mesopotamia and undermine Cyrus's claim as a liberator",
+      "ja": "バビロンの破壊はメソポタミア最大の都市を消滅させ、解放者としてのキュロスの主張を損なう",
+      "zh-CN": "摧毁巴比伦将消灭美索不达米亚最伟大的城市并削弱居鲁士作为解放者的声望"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Order the engineers to begin diverting the Euphrates into the ancient canal basins upstream. Lower the river level so troops can wade under the river gates at night.",
+        "ja": "技師たちにユーフラテス川を上流の古代運河盆地に迂回させる作業を開始するよう命じる。夜間に兵士が河門の下を歩いて渡れるよう水位を下げる。",
+        "zh-CN": "命令工程师开始将幼发拉底河改道至上游的古代运河盆地。降低河水水位，使军队能在夜间从河门下涉水而入。"
+      },
+      "historicalContext": "The historical approach — according to Herodotus and the Cyrus Cylinder, Persian engineers diverted the Euphrates upstream, allowing troops to enter along the riverbed beneath Babylon's walls while the city celebrated a festival.",
+      "outcomePrompt": {
+        "en": "You set thousands of laborers to work on the ancient canal systems north of Babylon, reopening long-silted channels and constructing new earthen dams. The operation takes days, but gradually the mighty Euphrates begins to recede within Babylon's walls. Your engineers report that the river level at the bronze gates has dropped by nearly four feet — enough for men to wade through chest-deep. Ugbaru identifies the night of a great festival to Marduk as the ideal moment to strike, when the garrison will be distracted by celebrations and much of the population will be drunk on barley wine. The Marduk priesthood has secretly agreed not to raise the alarm when your troops enter. The stage is set for an audacious nighttime infiltration through the riverbed itself — a feat of engineering that will be remembered for millennia. Your advance force of elite Persian infantry prepares to wade into the darkness beneath the walls of the greatest city on earth.",
+        "ja": "数千の労働者をバビロン北方の古代運河システムの作業に投入し、長年堆積した水路を再開し、新たな土の堤を築く。作業には数日を要するが、徐々に偉大なるユーフラテス川がバビロンの城壁内で後退し始める。技師たちは青銅の門での水位が約4フィート低下したと報告する——胸の深さで歩いて渡れるほどだ。ウグバルはマルドゥクの大祭の夜を攻撃の最適な時機と特定する。守備隊は祝祭に気を取られ、住民の多くは大麦酒に酔っているだろう。マルドゥク神官団は軍が入城する際に警報を上げないことを密かに同意した。川底そのものを通る大胆な夜間浸透のための舞台が整った——千年にわたり記憶される工兵の偉業だ。精鋭ペルシア歩兵の先遣部隊が、地上最大の都市の城壁の下の闇の中を歩いて渡る準備を整える。",
+        "zh-CN": "你派遣数千名劳工在巴比伦北方的古代运河系统上施工，重新疏通淤塞已久的水道并修筑新的土坝。工程持续数日，但雄伟的幼发拉底河水位在巴比伦城墙内逐渐下降。工程师报告青铜河门处的水位已下降近四英尺——足以让人涉水通过齐胸深的河水。乌格巴鲁确定马尔杜克大祭之夜为最佳进攻时机，届时守军将沉浸于庆祝之中，大量民众会沉醉于大麦酒。马尔杜克祭司阶层已秘密同意在你的军队进入时不发出警报。一场大胆的夜间河床渗透行动的舞台已经搭好——这项工程壮举将被铭记千年。精锐波斯步兵先遣部队准备涉入黑暗，从地球上最伟大城市的城墙下方穿过。"
+      },
+      "nextSceneId": "fall-of-babylon-539bc-scene-002",
+      "stateChanges": [
+        { "variable": "persianStrength", "operation": "add", "value": -5 },
+        { "variable": "civilianSupport", "operation": "add", "value": 10 },
+        { "variable": "diplomaticLeverage", "operation": "add", "value": 15 },
+        { "variable": "cityIntegrity", "operation": "add", "value": 0 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Focus on intensifying negotiations with dissident factions inside Babylon. Offer the Marduk priesthood full restoration of their privileges and promise the nobility that their positions will be preserved under Persian rule.",
+        "ja": "バビロン内部の反体制派との交渉を強化することに注力する。マルドゥク神官団に特権の完全回復を提示し、貴族にペルシア統治下での地位保全を約束する。",
+        "zh-CN": "集中力量加强与巴比伦城内异见势力的谈判。向马尔杜克祭司阶层提出全面恢复其特权，并承诺贵族在波斯统治下保留其地位。"
+      },
+      "historicalContext": "A counterfactual emphasizing diplomacy — while Cyrus did conduct extensive propaganda, relying primarily on negotiation rather than the river diversion would have been a slower, riskier approach with no guarantee of success.",
+      "outcomePrompt": {
+        "en": "You dispatch a flurry of envoys into Babylon through secret channels, carrying clay tablets inscribed with your personal guarantees. The Marduk priesthood receives your promise to restore their temples and end Nabonidus's heretical devotion to Sin. The merchant guilds are promised tax reductions and free trade throughout the Persian Empire. Noble families receive assurances that their estates and titles will be preserved. Over several weeks, the diplomatic offensive bears fruit. A faction of senior priests agrees to sabotage the river gate mechanisms on a signal from your forces. Several military officers pledge to stand down their units when the time comes. However, Belshazzar's intelligence network has detected unusual activity. He has arrested two of your agents and tightened security at the gates. The conspiracy is fragile, and any delay risks its complete exposure. You must act soon — but the path into the city now depends on the reliability of men whose loyalty was bought, not earned.",
+        "ja": "秘密の経路を通じてバビロンに使者を次々と送り込み、個人的な保証が刻まれた粘土板を携えさせる。マルドゥク神官団は神殿の回復とナボニドゥスの異端的なシン崇拝の終結の約束を受け取る。商人組合には減税とペルシア帝国全域での自由貿易が約束される。貴族の家々には領地と称号の保全が保証される。数週間にわたり、外交攻勢は実を結ぶ。上級神官の一派がペルシア軍の合図で河門の仕組みを破壊することに同意する。数名の軍の将校が時が来れば部隊を待機させると誓う。しかし、ベルシャザルの諜報網が異常な活動を察知した。工作員が二名逮捕され、門の警備が強化された。陰謀は脆弱であり、遅延は完全な露見の危険がある。早急に行動しなければならない——しかし都市への道は今や、獲得されたのではなく買われた忠誠を持つ者たちの信頼性にかかっている。",
+        "zh-CN": "你通过秘密渠道向巴比伦派出大量使者，携带刻有你个人保证的泥板。马尔杜克祭司阶层收到你恢复他们神庙并终结拿波尼度斯对辛神异端崇拜的承诺。商人行会被许诺减税和在整个波斯帝国内的自由贸易。贵族家庭获得保留其庄园和封号的保证。经过数周，外交攻势开始结出果实。一个高级祭司派系同意在你军队发出信号时破坏河门机关。数名军官承诺到时候让部队按兵不动。然而伯沙撒的情报网已察觉异常活动。他逮捕了你的两名密探并加强了城门警卫。阴谋十分脆弱，任何延误都有完全暴露的风险。你必须尽快行动——但进城之路现在取决于那些忠诚是用金钱买来而非赢得的人是否可靠。"
+      },
+      "nextSceneId": "fall-of-babylon-539bc-scene-002",
+      "stateChanges": [
+        { "variable": "babylonianMorale", "operation": "add", "value": -15 },
+        { "variable": "civilianSupport", "operation": "add", "value": 20 },
+        { "variable": "diplomaticLeverage", "operation": "add", "value": 25 },
+        { "variable": "persianStrength", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

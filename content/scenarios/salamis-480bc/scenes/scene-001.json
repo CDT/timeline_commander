@@ -1,0 +1,115 @@
+{
+  "id": "salamis-480bc-scene-001",
+  "scenarioId": "salamis-480bc",
+  "title": {
+    "en": "The Council at Salamis",
+    "ja": "サラミスの軍議",
+    "zh-CN": "萨拉米斯军事会议"
+  },
+  "date": {
+    "en": "Late September 480 BC",
+    "ja": "紀元前480年9月下旬",
+    "zh-CN": "公元前480年9月下旬"
+  },
+  "location": {
+    "en": "Greek Naval Camp, Island of Salamis",
+    "ja": "サラミス島、ギリシャ海軍陣地",
+    "zh-CN": "萨拉米斯岛希腊海军营地"
+  },
+  "narrativePrompt": {
+    "en": "The war council is in uproar. Inside a cramped stone building on the shore of Salamis, the commanders of the Greek allied fleet shout over one another, their voices raw with fear and fury. Athens is burning — from across the strait, the orange glow of the Acropolis in flames is visible against the night sky. Themistocles watches the Peloponnesian admirals with cold calculation. Eurybiades, the Spartan navarch who holds supreme command despite Sparta's paltry contribution of sixteen ships, has just called for a vote on whether to withdraw the fleet to the Isthmus of Corinth. The Corinthian admiral Adeimantus has openly mocked Themistocles, saying a man without a city has no right to speak. The Aeginetan and Megarian commanders sit in uneasy silence, waiting to see which way the wind blows. Themistocles knows that retreat means annihilation. The Persian fleet of over six hundred warships will simply follow the Greeks south and crush them in open water, or worse, land troops behind the isthmus wall. Here in the straits, the narrow waters negate Persia's numerical advantage. His two hundred Athenian triremes — the largest contingent by far — give him leverage, but not supreme authority. He must find a way to keep the fleet at Salamis, whether by persuasion, threats, or something far more cunning.",
+    "ja": "軍議は騒然としている。サラミスの海岸にある狭い石造りの建物の中で、ギリシャ同盟艦隊の指揮官たちが怒号を飛ばし合い、恐怖と憤怒で声がかすれている。アテナイが燃えている——海峡の向こうから、炎に包まれたアクロポリスのオレンジ色の光が夜空に映し出されている。テミストクレスは冷徹な計算でペロポネソスの提督たちを観察している。スパルタのわずか16隻という貧弱な貢献にもかかわらず最高指揮権を握るスパルタの海軍司令官エウリュビアデスが、艦隊をコリントス地峡に撤退させるかどうかの投票を呼びかけたばかりである。コリントスの提督アデイマントスはテミストクレスを公然と嘲笑し、都市を持たない男に発言権はないと言い放った。アイギナとメガラの指揮官たちは居心地悪く沈黙し、形勢を見守っている。テミストクレスは撤退が壊滅を意味することを知っている。600隻以上のペルシア艦隊はギリシャ軍を南に追い、外洋で粉砕するか、さらに悪いことに地峡の壁の背後に軍を上陸させるだろう。ここ海峡では、狭い海域がペルシアの数的優位を無効化する。200隻のアテナイの三段櫂船——圧倒的に最大の分遣隊——は彼に影響力を与えるが、最高指揮権は与えない。説得であれ脅迫であれ、あるいはもっと狡猾な手段であれ、艦隊をサラミスに留める方法を見つけなければならない。",
+    "zh-CN": "军事会议陷入混乱。在萨拉米斯岸边一间狭小的石屋内，希腊联合舰队的指挥官们互相叫嚷，声音因恐惧和愤怒而嘶哑。雅典正在燃烧——从海峡对面，卫城大火的橙色光芒映照在夜空中清晰可见。地米斯托克利以冷静的算计注视着伯罗奔尼撒的海军将领们。斯巴达海军统帅欧里比亚德斯——尽管斯巴达仅贡献了可怜的十六艘船却握有最高指挥权——刚刚提议投票决定是否将舰队撤回科林斯地峡。科林斯将领阿迪曼托斯公然嘲讽地米斯托克利，说一个没有城邦的人没有资格发言。埃吉纳和麦加拉的指挥官们不安地沉默着，等待观望风向。地米斯托克利知道撤退意味着毁灭。波斯六百多艘战舰的庞大舰队只需尾随希腊人南下，在开阔水域将其击溃，或者更糟糕的是，在地峡城墙背后登陆军队。在这里的海峡中，狭窄的水域使波斯的数量优势化为乌有。他的两百艘雅典三列桨战船——迄今为止最大的分队——赋予他影响力，但并非最高权力。他必须想办法让舰队留在萨拉米斯，无论是通过劝说、威胁，还是更加巧妙的手段。"
+  },
+  "situationReport": [
+    {
+      "en": "The Greek allied fleet of 370 triremes is anchored at Salamis, facing a Persian fleet of over 600 warships across the strait",
+      "ja": "370隻の三段櫂船からなるギリシャ同盟艦隊がサラミスに停泊し、海峡を挟んで600隻以上のペルシア艦隊と対峙している",
+      "zh-CN": "由370艘三列桨战船组成的希腊联合舰队停泊在萨拉米斯，隔海峡面对超过600艘波斯战舰"
+    },
+    {
+      "en": "Athens has been evacuated and burned; Athenian civilians shelter on Salamis and in the Peloponnese as refugees",
+      "ja": "アテナイは避難し焼き払われた。アテナイ市民は難民としてサラミスとペロポネソスに避難している",
+      "zh-CN": "雅典已被疏散并焚毁；雅典平民作为难民在萨拉米斯和伯罗奔尼撒避难"
+    },
+    {
+      "en": "The Peloponnesian admirals, led by Spartan navarch Eurybiades, are demanding withdrawal to the Isthmus of Corinth",
+      "ja": "スパルタの海軍司令官エウリュビアデス率いるペロポネソスの提督たちがコリントス地峡への撤退を要求している",
+      "zh-CN": "以斯巴达海军统帅欧里比亚德斯为首的伯罗奔尼撒将领们要求撤退到科林斯地峡"
+    },
+    {
+      "en": "The narrow straits of Salamis would negate the Persian numerical advantage, but the fleet must stay to exploit this terrain",
+      "ja": "サラミスの狭い海峡はペルシアの数的優位を無効化するが、この地形を活用するには艦隊が留まらなければならない",
+      "zh-CN": "萨拉米斯狭窄的海峡可以抵消波斯的数量优势，但舰队必须留下才能利用这一地形"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Prevent the Greek fleet from withdrawing to the Isthmus of Corinth",
+      "ja": "ギリシャ艦隊のコリントス地峡への撤退を阻止する",
+      "zh-CN": "阻止希腊舰队撤退到科林斯地峡"
+    },
+    {
+      "en": "Maintain the fragile alliance and keep the Peloponnesian contingents committed to the fight",
+      "ja": "脆弱な同盟を維持し、ペロポネソスの部隊を戦闘に留める",
+      "zh-CN": "维系脆弱的同盟并使伯罗奔尼撒各部队坚持作战"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Eurybiades holds supreme command — Themistocles cannot simply overrule him",
+      "ja": "エウリュビアデスが最高指揮権を握っている——テミストクレスは彼を単純に却下することはできない",
+      "zh-CN": "欧里比亚德斯握有最高指挥权——地米斯托克利不能简单地否决他"
+    },
+    {
+      "en": "Open confrontation with the Peloponnesians risks splitting the fleet permanently",
+      "ja": "ペロポネソス勢力との公然たる対立は艦隊の恒久的な分裂を招く危険がある",
+      "zh-CN": "与伯罗奔尼撒人公开对抗有永久分裂舰队的风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Send a secret message to Xerxes through my slave Sicinnus, claiming the Greeks plan to flee — lure the Persian fleet into the straits overnight, making retreat impossible for both sides.",
+        "ja": "奴隷シキンノスを通じてクセルクセスに密使を送り、ギリシャ軍が逃走を計画していると偽る——ペルシア艦隊を夜の間に海峡に誘い込み、双方にとって撤退を不可能にする。",
+        "zh-CN": "通过我的奴隶西金努斯向薛西斯传递密信，谎称希腊人计划逃跑——引诱波斯舰队连夜进入海峡，使双方都无法撤退。"
+      },
+      "historicalContext": "The historical choice — Themistocles sent Sicinnus to deceive Xerxes, trapping both fleets in the straits and forcing the battle he wanted.",
+      "outcomePrompt": {
+        "en": "Under cover of darkness, Themistocles dispatches Sicinnus across the strait in a small boat. The trusted slave delivers the message perfectly: the Greek fleet is in disarray, the commanders cannot agree, and they plan to scatter at dawn. Xerxes, eager for a swift victory, takes the bait. He orders the Egyptian squadron to seal the western passage around Salamis and commands the main fleet to row into the eastern strait during the night. By dawn, the trap is sprung — but it is the Persians who are caught. When the Peloponnesian admirals wake to find Persian warships blocking every escape route, the debate over retreat becomes moot. There is nowhere left to go. Eurybiades, furious but pragmatic, agrees to fight. The entire Greek fleet begins preparing for battle with a grim determination born of desperation. Themistocles has gambled everything on this moment — he has manipulated the enemy, his own allies, and fate itself to force the decisive engagement in the waters he chose.",
+        "ja": "夜の闇に紛れて、テミストクレスは小舟でシキンノスを海峡の向こうに送り出す。信頼される奴隷は完璧に伝言を届ける：ギリシャ艦隊は混乱状態にあり、指揮官たちは合意できず、夜明けに散り散りに逃走する計画だと。迅速な勝利を望むクセルクセスは罠にかかる。エジプト艦隊にサラミスの西の水路を封鎖するよう命じ、主力艦隊には夜の間に東の海峡に漕ぎ入るよう命じる。夜明けまでに罠は作動する——しかし、かかったのはペルシア側である。ペロポネソスの提督たちがペルシア軍艦がすべての退路を塞いでいるのを見て目覚めると、撤退をめぐる議論は無意味になる。もう行く場所がない。激怒しつつも現実的なエウリュビアデスは戦うことに同意する。ギリシャ艦隊全体が絶望から生まれた厳しい決意で戦闘準備を始める。テミストクレスはこの瞬間にすべてを賭けた——敵と味方、そして運命そのものを操り、自ら選んだ海域で決戦を強いたのだ。",
+        "zh-CN": "在夜幕的掩护下，地米斯托克利派遣西金努斯乘小船穿越海峡。这位忠诚的奴隶完美地传达了信息：希腊舰队一片混乱，指挥官们无法达成一致，他们计划在黎明时分四散逃跑。急于取得速胜的薛西斯上了当。他命令埃及分舰队封锁萨拉米斯西侧的水道，并命令主力舰队在夜间划入东部海峡。到黎明时分，陷阱已经合拢——但被困住的是波斯人。当伯罗奔尼撒的将领们醒来发现波斯战舰封锁了所有退路时，关于撤退的争论变得毫无意义。已经无处可退。愤怒但务实的欧里比亚德斯同意作战。整个希腊舰队开始以绝望中诞生的坚定决心准备战斗。地米斯托克利将一切赌在了这一刻——他操纵了敌人、自己的盟友乃至命运本身，在他选择的水域迫使了这场决定性的交战。"
+      },
+      "nextSceneId": "salamis-480bc-scene-002",
+      "stateChanges": [
+        { "variable": "allianceCohesion", "operation": "add", "value": 20 },
+        { "variable": "tacticalPosition", "operation": "add", "value": 25 },
+        { "variable": "greekFleetMorale", "operation": "add", "value": 10 },
+        { "variable": "persianFleetStrength", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Confront Eurybiades directly in council — threaten that Athens will withdraw its 200 ships and relocate its entire population to found a new city in the west if the fleet retreats.",
+        "ja": "軍議でエウリュビアデスに直接対峙する——艦隊が撤退するなら、アテナイは200隻の船を引き揚げ、全住民を西方に移住させて新たな都市を建設すると脅迫する。",
+        "zh-CN": "在军事会议上直接对峙欧里比亚德斯——威胁如果舰队撤退，雅典将撤走其200艘船并将全部人口迁移到西方建立新城。"
+      },
+      "historicalContext": "Themistocles did use this threat historically, but combined it with the Sicinnus deception. Using only the threat risked alienating allies without guaranteeing battle.",
+      "outcomePrompt": {
+        "en": "Themistocles rises to his full height and delivers his ultimatum with thundering conviction. If the fleet leaves Salamis, Athens will take its two hundred triremes — more than half the allied fleet — and sail west to Siris in Italy, where the Athenians will found a new city far from Persian reach. Let the Peloponnesians defend themselves without a navy. The chamber falls silent. Eurybiades turns pale, calculating the impossible arithmetic of fighting Persia without the Athenian ships. After a long, tense silence, he concedes. The fleet will remain at Salamis. But the victory is bitter. The Corinthians seethe with resentment, and the other Peloponnesian commanders comply grudgingly. The alliance holds, but trust has been badly damaged. Without the Sicinnus ruse, the Persians have not been lured into the narrows. The fleet waits at Salamis, but the enemy has not committed to the trap. Themistocles has bought time, but he will need to find another way to bring the Persians into the killing ground.",
+        "ja": "テミストクレスは立ち上がり、雷のような確信をもって最後通牒を突きつける。艦隊がサラミスを去るなら、アテナイは200隻の三段櫂船——同盟艦隊の半数以上——を引き連れてイタリアのシリスまで西に航海し、ペルシアの手が届かない場所に新しい都市を建設する。ペロポネソスの者たちは海軍なしで自らを守ればよい。議場が沈黙に包まれる。エウリュビアデスは青ざめ、アテナイの船なしでペルシアと戦うという不可能な計算をする。長く緊迫した沈黙の後、彼は譲歩する。艦隊はサラミスに留まる。しかし勝利は苦いものだ。コリント人は憤懣に燃え、他のペロポネソスの指揮官たちは渋々従う。同盟は保たれたが、信頼は大きく傷ついた。シキンノスの策略がないため、ペルシアは狭い水路に誘い込まれていない。艦隊はサラミスで待つが、敵は罠にかかっていない。テミストクレスは時間を稼いだが、ペルシアを殺戮の場に引き入れる別の方法を見つける必要がある。",
+        "zh-CN": "地米斯托克利站起身来，以雷鸣般的信念发出了最后通牒。如果舰队离开萨拉米斯，雅典将带走它的两百艘三列桨战船——超过联合舰队的一半——向西航行到意大利的西里斯，在波斯人鞭长莫及之处建立一座新城。让伯罗奔尼撒人在没有海军的情况下自己保卫自己吧。议事厅陷入沉默。欧里比亚德斯面色苍白，计算着没有雅典战船如何对抗波斯的不可能等式。在漫长而紧张的沉默之后，他让步了。舰队将留在萨拉米斯。但这是一场苦涩的胜利。科林斯人怒火中烧，其他伯罗奔尼撒指挥官勉强服从。联盟保住了，但信任遭到严重损害。没有西金努斯的计谋，波斯人并未被引诱进入狭窄水道。舰队在萨拉米斯等待，但敌人尚未落入陷阱。地米斯托克利争取了时间，但他需要另寻办法将波斯人引入杀戮之地。"
+      },
+      "nextSceneId": "salamis-480bc-scene-002",
+      "stateChanges": [
+        { "variable": "allianceCohesion", "operation": "add", "value": -10 },
+        { "variable": "tacticalPosition", "operation": "add", "value": 5 },
+        { "variable": "greekFleetMorale", "operation": "add", "value": 5 },
+        { "variable": "civilianSafety", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

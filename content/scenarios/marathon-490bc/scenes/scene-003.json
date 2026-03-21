@@ -1,0 +1,115 @@
+{
+  "id": "marathon-490bc-scene-003",
+  "scenarioId": "marathon-490bc",
+  "title": {
+    "en": "The Envelopment and the Race to Athens",
+    "ja": "包囲とアテナイへの競走",
+    "zh-CN": "包围与奔向雅典"
+  },
+  "date": {
+    "en": "September 12, 490 BC — Midday to Evening",
+    "ja": "紀元前490年9月12日 — 正午から夕方",
+    "zh-CN": "公元前490年9月12日 — 正午至傍晚"
+  },
+  "location": {
+    "en": "The Plain of Marathon and the Road to Athens",
+    "ja": "マラトン平原とアテナイへの道",
+    "zh-CN": "马拉松平原及通往雅典的道路"
+  },
+  "narrativePrompt": {
+    "en": "The battle has reached its crisis point. On both flanks, your plan is working magnificently. The right wing under Callimachus has shattered the Persian left—the Ionian Greeks and levy troops crumbling before the eight-deep phalanx of Athens' finest fighters. The Plataeans on the left have driven back the Persian right with equal ferocity, their hatred of Persian tyranny fueling a relentless assault. But the center tells a different story. The Persian elite troops—the Saka warriors in their pointed caps and the Persian household guards—have pushed your thin center backward, and the fighting there is desperate and bloody.\n\nNow comes the moment of truth for your entire battle plan. Your victorious wings must wheel inward to envelop the Persian center before it can break through your weakened middle. This is the most difficult maneuver in ancient warfare: turning a victorious pursuit into a disciplined pivot requires iron control over men whose blood is up from combat. If the wings chase the fleeing Persian flanks to the ships instead of turning inward, the center will collapse and the battle will be lost.\n\nYou stand on the right wing, your spear bloody, your shield dented from combat. Callimachus fights nearby, rallying the men. Before you, the Persian left is in full flight toward the ships. Your men want to pursue—the primal instinct of the hunt surges through them. But you can see the center bowing dangerously inward, hear the crash of bronze and the screams of the dying. Dust rises from the melee in a choking cloud.\n\nAnd beyond the immediate battle, another crisis looms. Your scouts have confirmed that a portion of the Persian fleet is already raising sail, likely heading south around Cape Sunion to attack Athens while its army is here at Marathon. Even if you win this battle decisively, you must then march your exhausted men 40 kilometers back to Athens before the Persian fleet arrives. The victory on this field will mean nothing if Athens falls to a seaborne assault. Time is the enemy now as much as the Persians before you.",
+    "ja": "戦いは危機的な局面を迎えている。両翼では、あなたの計画が見事に機能している。カリマコス率いる右翼はペルシア左翼を粉砕した——イオニア系ギリシャ人と徴集兵がアテナイ最精鋭の八列縦深のファランクスの前に崩れ去った。左翼のプラタイア人は同等の猛烈さでペルシア右翼を押し返し、ペルシアの圧政への憎しみが容赦ない攻撃を支えている。しかし中央は別の物語を語っている。ペルシアの精鋭——尖った帽子をかぶったサカの戦士とペルシアの親衛隊——があなたの薄い中央を後退させ、そこでの戦闘は必死で血にまみれている。\n\nあなたの戦術計画全体にとって真実の瞬間が来た。勝利した両翼が、弱体化した中央を突破される前にペルシア中央を包囲するために内側に旋回しなければならない。これは古代戦争で最も困難な機動である。勝利の追撃を規律ある旋回に変えるには、戦闘で血が滾った兵士たちを鉄の制御で抑える必要がある。もし両翼が内側に旋回せず逃走するペルシアの側面を船まで追撃すれば、中央は崩壊し戦いは敗北となる。\n\nあなたは右翼に立ち、槍は血に染まり、盾は戦闘で凹んでいる。カリマコスが近くで戦い、兵士を鼓舞している。目の前でペルシア左翼は船に向かって全面的に逃走している。兵士たちは追撃を望んでいる——狩りの原始的な本能が彼らを駆り立てる。しかし中央が危険なほど内側に湾曲しているのが見え、青銅の衝突と瀕死の叫びが聞こえる。白兵戦から息が詰まるような砂塵の雲が立ち上る。\n\nそして目前の戦闘の向こうに、もう一つの危機が迫っている。斥候はペルシア艦隊の一部がすでに帆を上げ、おそらくスニオン岬を回って南下し、軍隊がマラトンにいる間にアテナイを攻撃する準備をしていると確認した。たとえこの戦いに圧勝しても、ペルシア艦隊が到着する前に疲弊した兵士を40キロメートル行軍させてアテナイに戻さなければならない。この戦場での勝利も、アテナイが海からの攻撃で陥落すれば無意味となる。今やペルシア軍と同じく、時間が敵である。",
+    "zh-CN": "战斗已到了危急关头。在两翼，你的计划发挥得淋漓尽致。卡利马科斯率领的右翼已经粉碎了波斯左翼——伊奥尼亚希腊人和征召兵在雅典最精锐战士的八列纵深方阵面前土崩瓦解。左翼的普拉提亚人以同样的凶猛击退了波斯右翼，对波斯暴政的仇恨驱动着他们无情的攻击。但中央讲述的是另一个故事。波斯精锐部队——戴尖帽的萨卡武士和波斯禁卫军——已将你薄弱的中央向后推，那里的战斗绝望而血腥。\n\n你整个作战计划的关键时刻到了。你获胜的两翼必须向内旋转包围波斯中军，赶在他们突破你削弱的中央之前。这是古代战争中最困难的机动：将胜利的追击转变为有纪律的旋转，需要对战斗中热血沸腾的士兵施以铁一般的控制。如果两翼追逐逃跑的波斯侧翼直到船边而不向内旋转，中央将崩溃，战役将以失败告终。\n\n你站在右翼，长矛沾满鲜血，盾牌在战斗中凹陷。卡利马科斯在附近战斗，鼓舞着士兵。在你面前，波斯左翼正全面溃逃向船只。你的士兵们想要追击——狩猎的原始本能在他们体内涌动。但你能看到中央危险地向内弯曲，听到青铜碰撞和垂死者的惨叫。肉搏战中扬起令人窒息的尘云。\n\n在眼前战斗之外，另一场危机正在逼近。你的斥候确认波斯舰队的一部分已经升帆，可能正绕苏尼翁角南下，趁军队在马拉松时攻击雅典。即使你在这场战斗中取得决定性胜利，也必须让精疲力竭的士兵行军40公里返回雅典，赶在波斯舰队到达之前。如果雅典被海上突袭攻陷，这片战场上的胜利将毫无意义。现在时间与你面前的波斯人一样，都是你的敌人。"
+  },
+  "situationReport": [
+    {
+      "en": "Both Greek wings have routed their opponents and are pursuing fleeing Persians toward the ships. The center is under severe pressure and at risk of being broken.",
+      "ja": "ギリシャ軍の両翼が対面の敵を敗走させ、逃走するペルシア軍を船に向かって追撃している。中央は激しい圧力を受けており、突破される危険がある。",
+      "zh-CN": "希腊两翼均已击溃对面的敌人，正在追击逃向船只的波斯人。中央承受着巨大压力，面临被突破的风险。"
+    },
+    {
+      "en": "Callimachus is fighting on the right wing and can help relay orders, but communication across the mile-wide battlefield is extremely difficult in the chaos of combat.",
+      "ja": "カリマコスが右翼で戦闘中で命令の伝達を手伝えるが、戦闘の混乱の中で1マイル幅の戦場全体への伝達は極めて困難である。",
+      "zh-CN": "卡利马科斯在右翼作战，可以帮助传达命令，但在战斗混乱中，跨越一英里宽战场的通信极其困难。"
+    },
+    {
+      "en": "Scout reports confirm a portion of the Persian fleet is sailing south, presumably to attack the undefended port of Phalerum near Athens.",
+      "ja": "斥候の報告によれば、ペルシア艦隊の一部が南に向かって航行しており、おそらくアテナイ近くの無防備なファレロン港を攻撃する意図と思われる。",
+      "zh-CN": "斥候报告确认波斯舰队的一部分正在南下航行，推测是要攻击雅典附近不设防的法勒龙港。"
+    },
+    {
+      "en": "Your hoplites are exhausted from the charge and melee combat but are in high spirits from the success on the wings. The Persian center troops, though still fighting, are increasingly aware of the collapse on their flanks.",
+      "ja": "あなたの重装歩兵は突撃と白兵戦で疲弊しているが、両翼の成功で士気は高い。ペルシア中央の部隊はまだ戦っているが、側面の崩壊をますます意識し始めている。",
+      "zh-CN": "你的重装步兵因冲锋和近战而精疲力竭，但因两翼的胜利而士气高昂。波斯中央部队虽仍在战斗，但越来越意识到侧翼的崩溃。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Complete the envelopment of the Persian center and rout the entire enemy force",
+      "ja": "ペルシア中央の包囲を完了し、敵軍全体を敗走させる",
+      "zh-CN": "完成对波斯中军的包围并击溃全部敌军"
+    },
+    {
+      "en": "Secure the battlefield and march the army back to Athens before the Persian fleet arrives at Phalerum",
+      "ja": "戦場を確保し、ペルシア艦隊がファレロンに到着する前に軍をアテナイまで行軍させる",
+      "zh-CN": "确保战场胜利，并在波斯舰队到达法勒龙之前将军队行军返回雅典"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your men are exhausted and many are wounded; the forced march to Athens will push them to their physical limits",
+      "ja": "兵士たちは疲弊し多くが負傷している。アテナイへの強行軍は彼らの体力の限界を押し上げる",
+      "zh-CN": "你的士兵精疲力竭且许多人负伤；强行军返回雅典将把他们推到体力极限"
+    },
+    {
+      "en": "Pursuing fleeing Persians to the ships risks heavy casualties from a fighting withdrawal and may delay the march to Athens",
+      "ja": "逃走するペルシア軍を船まで追撃すると、戦闘的撤退による多大な損害を被る危険があり、アテナイへの行軍が遅れる可能性がある",
+      "zh-CN": "追击逃向船只的波斯人有在战斗撤退中遭受重大伤亡的风险，且可能延误向雅典进军"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Sound the recall immediately on the wings. Wheel both flanks inward to crush the Persian center, then disengage from the ships and begin the forced march to Athens at once, leaving the dead for later burial.",
+        "ja": "直ちに両翼に帰還の合図を鳴らす。両側面を内側に旋回させてペルシア中央を粉砕し、船から離脱して直ちにアテナイへの強行軍を開始し、戦死者の埋葬は後に残す。",
+        "zh-CN": "立即在两翼吹响召回号角。两翼向内旋转粉碎波斯中军，然后脱离船只区域，立即开始向雅典强行军，将阵亡者留待日后安葬。"
+      },
+      "historicalContext": "This closely matches the historical outcome. The Greek wings wheeled inward to crush the Persian center, then pursued the routed enemy to the shore. The Athenians captured seven ships before the fleet escaped. The army then made the extraordinary forced march back to Athens, arriving before the Persian fleet.",
+      "outcomePrompt": {
+        "en": "The salpinx rings out—three sharp blasts, the signal to wheel inward. Your officers, drilled for this moment, bellow the commands. The right wing pivots like a great bronze door swinging shut. On the far side of the field, though you cannot see them through the dust and chaos, the Plataeans are doing the same. The Persian center, which moments ago was surging forward in triumph, suddenly finds armored walls closing in from both sides. Panic ripples through their ranks as they realize they are being surrounded. The Saka warriors fight desperately, but they are being compressed into an ever-tightening killing ground. The Persian formation shatters. What was an army becomes a mob, then a stampede toward the ships. Your hoplites pursue to the waterline, wading into the surf to hack at the fleeing enemy as they scramble onto their vessels. Seven ships are captured in the chaos. Callimachus falls in this final fighting at the ships, pierced by multiple spears as he tried to hold a captured trireme—a hero's death that Athens will mourn and honor for generations.\n\nBut you do not allow grief to delay duty. Even as the last Persian ships pull away from the blood-stained shore, you are forming your men for the march. Forty kilometers to Athens, in full armor, after a morning of savage combat. It seems impossible, but these are Athenian citizens fighting for their families, their homes, their freedom. They set off at a grueling pace, following the road through the hills as the afternoon sun beats down mercilessly. By evening, the exhausted army staggers into position at Cynosarges, overlooking the harbor of Phalerum. And there, riding at anchor in the bay, is the Persian fleet—arrived too late. They see the Greek army arrayed on the heights, shields glinting in the sunset, and they know. Athens will not fall today. The fleet turns and sails for Asia. You have won not just a battle, but the survival of Athens and the future of Western civilization.",
+        "ja": "サルピンクスが鳴り響く——三回の鋭い吹奏、内側に旋回せよの合図。この瞬間のために訓練された士官たちが命令を叫ぶ。右翼が巨大な青銅の扉が閉じるように旋回する。戦場の反対側では、砂塵と混乱の向こうに見えないが、プラタイア軍が同じことをしている。つい先ほどまで勝ち誇って前進していたペルシア中央は、突然両側から装甲の壁が迫ってくることに気づく。包囲されていると悟り、パニックが隊列に波紋を広げる。サカの戦士たちは必死に戦うが、ますます狭まる殺戮の場に圧縮されていく。ペルシアの隊形が崩壊する。軍隊だったものが群衆となり、次いで船への殺到となる。あなたの重装歩兵は水際まで追撃し、波打ち際に入って船に這い上がろうとする敵を斬りつける。混乱の中で7隻の船が鹵獲される。カリマコスはこの船での最後の戦闘で倒れる——鹵獲した三段櫂船を確保しようとして複数の槍に貫かれた、アテナイが世代を超えて哀悼し称える英雄の死であった。\n\nしかし、あなたは悲しみで義務を遅らせることを許さない。最後のペルシア船が血に染まった岸辺から離れる間にも、あなたは行軍のために兵を整えている。アテナイまで40キロメートル、完全武装で、朝からの激しい戦闘の後。不可能に思えるが、これは家族、家、自由のために戦うアテナイ市民である。午後の太陽が容赦なく照りつける中、丘を抜ける道を辿り、過酷な速度で出発する。夕方までに、疲弊した軍隊はファレロン港を見下ろすキュノサルゲスの陣地によろめきながら到着する。そして湾内に停泊しているのはペルシア艦隊——遅すぎた到着であった。彼らは高台に布陣したギリシャ軍を見る。盾が夕日に輝いている。そして彼らは悟る。今日、アテナイは陥落しない。艦隊は向きを変えアジアへ帰帆する。あなたは一つの戦いだけでなく、アテナイの存続と西洋文明の未来を勝ち取ったのである。",
+        "zh-CN": "萨尔平克斯号角响起——三声短促的吹奏，向内旋转的信号。为这一刻训练有素的军官们高声传令。右翼如一扇巨大的青铜门关闭般旋转。在战场的另一侧，虽然你透过尘土和混乱看不到，普拉提亚人正在做同样的事。片刻前还在胜利前进的波斯中军突然发现装甲之墙从两侧合拢。恐慌在他们的队列中蔓延，因为他们意识到自己正被包围。萨卡武士拼死抵抗，但他们被压缩进不断缩小的杀戮场。波斯阵形崩溃了。曾经的军队变成了乌合之众，然后变成了向船只的疯狂逃窜。你的重装步兵追击至水线，涉入浪花中劈砍那些爬向船只的逃敌。混乱中七艘船被俘获。卡利马科斯在船边的最后战斗中倒下——他试图守住一艘俘获的三列桨战船时被多支长矛刺穿——这是一位英雄的死亡，雅典将世世代代哀悼和尊崇。\n\n但你不允许悲伤延误责任。就在最后几艘波斯船只驶离血染的海岸时，你已经在集结部队准备行军。四十公里到雅典，全副武装，在一个早晨的残酷战斗之后。这似乎不可能，但这些是为家人、家园和自由而战的雅典公民。他们以令人筋疲力尽的速度出发，在午后烈日无情的照射下沿着穿越山丘的道路前进。到傍晚，精疲力竭的军队蹒跚着抵达居诺萨格斯的阵地，俯瞰法勒龙港。那里，在海湾中抛锚停泊的，是波斯舰队——到得太迟了。他们看到希腊军队在高地上列阵，盾牌在落日中闪闪发光，他们明白了。雅典今天不会陷落。舰队掉头驶向亚洲。你赢得的不仅是一场战役，而是雅典的存续和西方文明的未来。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 20 },
+        { "variable": "persianCasualties", "operation": "add", "value": 40 },
+        { "variable": "athenianCasualties", "operation": "add", "value": 10 },
+        { "variable": "greekMorale", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Press the pursuit to the ships aggressively with all forces, attempting to capture or destroy as many Persian vessels as possible before organizing the march to Athens. A crippled fleet cannot threaten the city.",
+        "ja": "全軍で積極的に船まで追撃し、アテナイへの行軍を組織する前にできるだけ多くのペルシア船を鹵獲または破壊しようとする。壊滅した艦隊は都市を脅かせない。",
+        "zh-CN": "以全部兵力积极追击至船只，在组织向雅典行军之前尽可能多地俘获或摧毁波斯船只。一支残废的舰队无法威胁城市。"
+      },
+      "historicalContext": "While the Greeks did pursue to the ships and captured seven, a more aggressive pursuit carried significant risks. Fighting at the waterline was chaotic and costly—this is where Callimachus and other notable Greeks fell. A longer engagement at the ships would have delayed the critical march to Athens.",
+      "outcomePrompt": {
+        "en": "You see the opportunity to destroy Persian naval power in a single stroke. If you can capture or burn enough ships, the fleet will be unable to threaten Athens regardless of when you arrive. You order all forces to press the pursuit to the waterline and beyond, wading into the sea to seize the ships before they can escape. The fighting at the shore is savage. Your hoplites grapple with Persian marines in the shallows, the water turning red. The Persians fight with the desperation of trapped animals, and your men pay a heavy price for every ship they seize. Callimachus is killed fighting at the ships, struck down by a Persian axe. Stesilaus, another strategos, falls as well. Your losses mount as the close-quarters fighting at the waterline proves far more costly than the open-field battle. You capture twelve ships—an impressive haul—and kill hundreds more Persians in the surf. But the engagement costs two precious hours and over two hundred additional Greek casualties.\n\nBy the time you rally your bloodied, exhausted army for the march to Athens, the sun is past its zenith. The forty-kilometer march in full armor, with wounded men straggling behind and the morale beginning to fray from exhaustion and grief, is an ordeal that pushes your army to the breaking point. Night falls with Athens still ahead. When you finally arrive at Phalerum in the early hours before dawn, the Persian fleet is already there, torches visible on the ships as they prepare to land. But your army, though ragged and depleted, forms up on the heights one more time. The Persians see the bronze line silhouetted against the dawn sky and hesitate. They have already lost one battle today; they will not risk another. The fleet withdraws. Athens is saved, but the cost was higher than it needed to be, and the margin of victory was razor-thin.",
+        "ja": "一撃でペルシアの海軍力を破壊する機会が見える。十分な数の船を鹵獲または焼き払えば、いつ到着するかに関わらず艦隊はアテナイを脅かせなくなる。全軍に水際まで、そしてその先まで追撃を続け、船が逃げる前に海に入って奪取するよう命じる。岸辺での戦闘は凄惨である。重装歩兵が浅瀬でペルシアの海兵と格闘し、水が赤く染まる。ペルシア軍は追い詰められた獣の必死さで戦い、奪取する船一隻ごとにあなたの兵は重い代償を払う。カリマコスは船での戦いで戦死し、ペルシアの戦斧に倒された。もう一人のストラテゴス、ステシラオスも倒れた。水際での近接戦闘は野戦よりもはるかに犠牲が大きく、損害が積み上がる。12隻を鹵獲し——見事な戦果——波打ち際でさらに数百人のペルシア兵を殺した。しかしこの交戦は貴重な2時間と200人以上のギリシャ兵の追加損害を要した。\n\n血まみれで疲弊した軍をアテナイへの行軍のために集結させた時、太陽はすでに天頂を過ぎている。負傷者が遅れ、疲労と悲しみで士気がほつれ始める中での完全武装での40キロメートルの行軍は、軍を限界まで追い詰める試練である。アテナイまであと先がある中で夜が訪れる。ついに夜明け前の早朝にファレロンに到着した時、ペルシア艦隊はすでにそこにいた。船の上で松明が見え、上陸の準備をしている。しかしあなたの軍は、ぼろぼろで消耗しているものの、もう一度高地に隊列を組む。ペルシア軍は夜明けの空に映し出される青銅の戦列を見て躊躇する。今日すでに一つの戦いに敗れた。もう一つの戦いを冒す気はない。艦隊は撤退する。アテナイは救われたが、その代価は必要以上に高く、勝利の差は紙一重であった。",
+        "zh-CN": "你看到了一举摧毁波斯海军力量的机会。如果你能俘获或焚毁足够多的船只，无论你何时到达，舰队都无法威胁雅典。你命令全军追击至水线并深入海中，在船只逃脱前夺取它们。海岸的战斗异常惨烈。你的重装步兵在浅水中与波斯海军陆战队格斗，海水被染成红色。波斯人以困兽之斗的绝望作战，你的士兵为夺取每一艘船付出沉重代价。卡利马科斯在船边的战斗中阵亡，被波斯战斧击倒。另一位将军斯特西劳斯也倒下了。水线处的近距离战斗证明比野战代价大得多，损失不断攀升。你俘获了十二艘船——一个可观的收获——并在浪花中又杀死了数百波斯人。但这次交战耗费了宝贵的两个小时，又多造成了两百多名希腊士兵的伤亡。\n\n当你集结满身鲜血、精疲力竭的军队准备向雅典行军时，太阳已过正午。全副武装的四十公里行军，伤员拖在后面，士气因疲惫和悲伤开始消磨，这场考验将你的军队推到了崩溃边缘。夜幕降临时雅典还在前方。当你终于在黎明前的凌晨到达法勒龙时，波斯舰队已经在那里了，船上可以看到准备登陆的火把。但你的军队，虽然疲惫残破，再次在高地上列阵。波斯人看到黎明天空映衬下的青铜战线，犹豫了。他们今天已经输了一场战斗；不愿再冒险打第二场。舰队撤退了。雅典得救了，但代价比本可以的更为高昂，胜利的余量薄如刀锋。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "persianCasualties", "operation": "add", "value": 50 },
+        { "variable": "athenianCasualties", "operation": "add", "value": 30 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 5 },
+        { "variable": "greekMorale", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

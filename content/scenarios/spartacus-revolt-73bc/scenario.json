@@ -1,0 +1,76 @@
+{
+  "id": "spartacus-revolt-73bc",
+  "title": {
+    "en": "The Spartacus Revolt",
+    "ja": "スパルタクスの反乱",
+    "zh-CN": "斯巴达克斯起义"
+  },
+  "subtitle": {
+    "en": "Italy, 73–71 BC",
+    "ja": "イタリア、紀元前73〜71年",
+    "zh-CN": "意大利，公元前73-71年"
+  },
+  "description": {
+    "en": "You are Spartacus, a Thracian gladiator who has led a slave revolt that has brought Rome to its knees. Your army of 70,000 freed slaves has defeated Roman legions repeatedly. The Alps lie ahead — freedom beyond. But your men refuse to leave Italy. The window is closing. Crassus, Rome's wealthiest man, marches south with ten legions.",
+    "ja": "あなたはスパルタクス、ローマを膝まずかせた奴隷反乱を率いたトラキア人剣闘士だ。7万人の解放された奴隷の軍はローマの軍団を繰り返し打ち負かしてきた。アルプスが前方にある——その先に自由がある。しかしあなたの部下たちはイタリアを離れることを拒否する。好機が失われつつある。ローマの最も裕福な男クラッススが十個軍団と共に南から進軍してくる。",
+    "zh-CN": "你是斯巴达克斯，一个率领奴隶起义让罗马屈膝的色雷斯角斗士。你那7万自由奴隶组成的军队已多次击败罗马军团。阿尔卑斯山就在前方——自由就在彼处。但你的手下拒绝离开意大利。时机正在流逝。罗马最富有的人克拉苏率十个军团从南方进军。"
+  },
+  "era": "ancient",
+  "region": "italy",
+  "difficulty": "hard",
+  "role": "spartacus-rebel",
+  "keyFigures": [
+    {
+      "id": "spartacus",
+      "name": {
+        "en": "Spartacus",
+        "ja": "スパルタクス",
+        "zh-CN": "斯巴达克斯"
+      },
+      "role": {
+        "en": "Thracian gladiator and rebel leader",
+        "ja": "トラキア人剣闘士と反乱指導者",
+        "zh-CN": "色雷斯角斗士和起义领袖"
+      }
+    },
+    {
+      "id": "crassus",
+      "name": {
+        "en": "Marcus Licinius Crassus",
+        "ja": "マルクス・リキニウス・クラッスス",
+        "zh-CN": "马库斯·李锡尼·克拉苏"
+      },
+      "role": {
+        "en": "Roman commander, wealthiest man in Rome",
+        "ja": "ローマの司令官、ローマで最も裕福な男",
+        "zh-CN": "罗马指挥官，罗马最富有的人"
+      }
+    },
+    {
+      "id": "crixus",
+      "name": {
+        "en": "Crixus",
+        "ja": "クリクスス",
+        "zh-CN": "克里克苏斯"
+      },
+      "role": {
+        "en": "Gallic rebel commander, Spartacus's rival",
+        "ja": "ガリア人反乱指揮官、スパルタクスのライバル",
+        "zh-CN": "高卢起义指挥官，斯巴达克斯的竞争对手"
+      }
+    }
+  ],
+  "sceneIds": [
+    "spartacus-revolt-73bc-scene-001",
+    "spartacus-revolt-73bc-scene-002",
+    "spartacus-revolt-73bc-scene-003"
+  ],
+  "initialState": {
+    "rebelMorale": 70,
+    "romanPressure": 60,
+    "armyUnity": 55,
+    "escapeRouteOpen": 80,
+    "pirateAlliance": 0
+  },
+  "tags": ["rome", "slavery", "spartacus", "crassus", "gladiator", "73bc"]
+}

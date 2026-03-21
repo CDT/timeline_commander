@@ -1,0 +1,91 @@
+{
+  "scenarioId": "fall-of-babylon-539bc",
+  "timeline": [
+    {
+      "date": "-0553-01-01",
+      "description": {
+        "en": "Cyrus II rebels against the Median Empire and begins building a coalition of Persian and allied forces that will eventually challenge Babylon.",
+        "ja": "キュロス二世がメディア帝国に対して反乱を起こし、最終的にバビロンに挑戦することになるペルシアと同盟勢力の連合を構築し始める。",
+        "zh-CN": "居鲁士二世反抗米底帝国，开始建立最终将挑战巴比伦的波斯及盟军联合力量。"
+      }
+    },
+    {
+      "date": "-0547-01-01",
+      "description": {
+        "en": "Cyrus conquers the Kingdom of Lydia under King Croesus, securing the western frontier and acquiring vast wealth to fund further campaigns.",
+        "ja": "キュロスがクロイソス王のリュディア王国を征服し、西方の国境を確保するとともに、さらなる遠征の資金となる莫大な富を獲得する。",
+        "zh-CN": "居鲁士征服克罗伊斯国王统治下的吕底亚王国，确保了西部边境并获得了资助进一步战役的巨额财富。"
+      }
+    },
+    {
+      "date": "-0540-01-01",
+      "description": {
+        "en": "Nabonidus returns to Babylon after a decade in Tayma, finding his empire weakened and his capital resentful of his long absence.",
+        "ja": "ナボニドゥスが十年間のテイマ滞在から帰還するが、帝国が弱体化し首都が長期不在に対して不満を抱いていることを知る。",
+        "zh-CN": "拿波尼度斯在泰马居留十年后返回巴比伦，发现帝国已被削弱，首都对他长期缺席深感不满。"
+      }
+    },
+    {
+      "date": "-0539-06-01",
+      "description": {
+        "en": "Cyrus's army crosses into Babylonian territory. Persian agents intensify propaganda operations within Babylon, portraying Cyrus as Marduk's chosen liberator.",
+        "ja": "キュロスの軍がバビロニア領に侵入。ペルシアの工作員がバビロン内部でプロパガンダ活動を強化し、キュロスをマルドゥクが選んだ解放者として描く。",
+        "zh-CN": "居鲁士的军队进入巴比伦领土。波斯间谍在巴比伦城内加强宣传活动，将居鲁士描绘为马尔杜克选定的解放者。"
+      }
+    },
+    {
+      "date": "-0539-09-01",
+      "description": {
+        "en": "The Battle of Opis: Persian forces decisively defeat the Babylonian army along the Tigris River. The city of Sippar surrenders without resistance.",
+        "ja": "オピスの戦い：ペルシア軍がティグリス川沿いでバビロニア軍を決定的に撃破する。シッパルの都市が無抵抗で降伏する。",
+        "zh-CN": "奥皮斯之战：波斯军队在底格里斯河沿岸决定性地击败巴比伦军队。西帕尔城不战而降。"
+      }
+    },
+    {
+      "date": "-0539-10-10",
+      "description": {
+        "en": "Persian engineers divert the Euphrates River. Ugbaru leads an advance force along the riverbed under Babylon's walls. The city falls with minimal resistance.",
+        "ja": "ペルシアの技師がユーフラテス川の流れを変える。ウグバルがバビロンの城壁の下の川底を通って先遣部隊を率いる。都市は最小限の抵抗で陥落する。",
+        "zh-CN": "波斯工程师改变幼发拉底河河道。乌格巴鲁率先遣部队沿河床从巴比伦城墙下方进入。城市在极小的抵抗下陷落。"
+      }
+    },
+    {
+      "date": "-0539-10-29",
+      "description": {
+        "en": "Cyrus makes his triumphal entry into Babylon, greeted as a liberator by the populace. Nabonidus is captured and sent into exile.",
+        "ja": "キュロスがバビロンに凱旋入城し、民衆から解放者として迎えられる。ナボニドゥスは捕らえられ、追放される。",
+        "zh-CN": "居鲁士凯旋进入巴比伦，被民众作为解放者欢迎。拿波尼度斯被俘并遭到流放。"
+      }
+    },
+    {
+      "date": "-0539-11-01",
+      "description": {
+        "en": "Cyrus issues the Cyrus Cylinder, proclaiming religious freedom, the restoration of temples, and the right of deported peoples to return to their homelands.",
+        "ja": "キュロスがキュロス・シリンダーを発布し、宗教の自由、神殿の修復、追放された民族の帰国の権利を宣言する。",
+        "zh-CN": "居鲁士颁布居鲁士圆柱铭文，宣布宗教自由、修复神庙以及被驱逐民族返回家园的权利。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Babylon fell to the Persian Empire with remarkably little destruction. Cyrus's combination of military prowess, engineering ingenuity, and diplomatic skill allowed him to capture one of the ancient world's greatest cities largely intact. His policy of tolerance and respect for Babylonian culture set a precedent for imperial governance that would influence rulers for centuries to come.",
+    "ja": "バビロンは極めて少ない破壊でペルシア帝国に陥落した。キュロスの軍事的手腕、工学的独創性、外交的技術の組み合わせにより、古代世界最大の都市の一つをほぼ無傷で占領することができた。バビロニア文化に対する寛容と敬意の政策は、その後何世紀にもわたって統治者に影響を与える帝国統治の先例を作った。",
+    "zh-CN": "巴比伦在极少破坏的情况下落入波斯帝国之手。居鲁士将军事才能、工程智慧和外交技巧相结合，使他能够几乎完整地占领古代世界最伟大的城市之一。他对巴比伦文化宽容和尊重的政策为帝国治理树立了先例，影响了此后数个世纪的统治者。"
+  },
+  "casualties": {
+    "en": "Casualties were relatively light compared to typical ancient city sieges. The Battle of Opis saw significant Babylonian military losses, but the fall of Babylon itself involved minimal fighting. Most of the city's population was spared, and its infrastructure remained largely intact under Persian occupation.",
+    "ja": "典型的な古代の都市攻囲戦に比べ、死傷者は比較的少なかった。オピスの戦いではバビロニア軍に大きな損害が出たが、バビロン自体の陥落は最小限の戦闘で済んだ。都市の住民の大部分は助けられ、インフラはペルシアの占領下でほぼ無傷のまま残った。",
+    "zh-CN": "与典型的古代城市围攻相比，伤亡人数相对较少。奥皮斯之战使巴比伦军队遭受重大损失，但巴比伦城本身的陷落几乎未经战斗。城市的大部分居民得以幸免，基础设施在波斯占领下基本完好无损。"
+  },
+  "significance": {
+    "en": "The fall of Babylon marked the end of Mesopotamian independence — a civilization that had endured for over three thousand years. It established the Achaemenid Persian Empire as the dominant power of the ancient world, controlling territory from Egypt and Anatolia to Central Asia and the Indus Valley. Cyrus's policy of religious tolerance, exemplified by the Cyrus Cylinder, has been called the world's first charter of human rights. His permission for the Jewish exiles to return to Jerusalem and rebuild their Temple became a foundational event in Jewish history, recorded in the biblical books of Ezra and Isaiah.",
+    "ja": "バビロンの陥落は三千年以上にわたって存続したメソポタミアの独立の終焉を意味した。アケメネス朝ペルシア帝国を古代世界の支配的大国として確立し、エジプトとアナトリアから中央アジアとインダス渓谷に至る領土を支配した。キュロス・シリンダーに具現された宗教的寛容の政策は、世界最初の人権憲章と呼ばれてきた。ユダヤ人の捕囚民にエルサレムへの帰還と神殿の再建を許可したことは、ユダヤ史における根本的な出来事となり、聖書のエズラ書とイザヤ書に記録されている。",
+    "zh-CN": "巴比伦的陷落标志着延续了三千多年的美索不达米亚独立的终结。它确立了阿契美尼德波斯帝国作为古代世界主导大国的地位，控制着从埃及和安纳托利亚到中亚和印度河流域的广阔领土。居鲁士以居鲁士圆柱铭文为代表的宗教宽容政策被称为世界上第一部人权宪章。他允许犹太流亡者返回耶路撒冷重建圣殿，成为犹太历史上的奠基性事件，记载于圣经的以斯拉记和以赛亚书中。"
+  },
+  "furtherReading": [
+    "From Cyrus to Alexander: A History of the Persian Empire by Pierre Briant",
+    "Babylon: Mesopotamia and the Birth of Civilization by Paul Kriwaczek",
+    "The Persian Empire: A Corpus of Sources from the Achaemenid Period by Amélie Kuhrt",
+    "Cyrus the Great: Life and Lore by M. Rahim Shayegan",
+    "The Cyrus Cylinder and Ancient Persia by John Curtis"
+  ]
+}

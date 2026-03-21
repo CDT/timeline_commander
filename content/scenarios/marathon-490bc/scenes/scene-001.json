@@ -1,0 +1,112 @@
+{
+  "id": "marathon-490bc-scene-001",
+  "scenarioId": "marathon-490bc",
+  "title": {
+    "en": "The Council of War",
+    "ja": "軍議",
+    "zh-CN": "军事会议"
+  },
+  "date": {
+    "en": "September 10, 490 BC",
+    "ja": "紀元前490年9月10日",
+    "zh-CN": "公元前490年9月10日"
+  },
+  "location": {
+    "en": "Greek Camp, Hills above the Plain of Marathon",
+    "ja": "ギリシャ軍陣営、マラトン平原を望む丘陵",
+    "zh-CN": "希腊军营，马拉松平原上方的山丘"
+  },
+  "narrativePrompt": {
+    "en": "The sun sets over the Attic hills as you stand at the edge of the Greek encampment, gazing down at the plain of Marathon spread below. Thousands of Persian campfires flicker in the gathering dusk, stretching from the marshes to the sea like a carpet of fallen stars. The enemy fleet—hundreds of triremes and horse transports—crowds the bay, their dark hulls rocking gently in the evening swell. The scale of the invasion force is staggering. Even the most optimistic estimate puts the Persians at twice your numbers, and the pessimists whisper of five-to-one odds.\n\nBehind you, in the sacred precinct of Heracles, the war council assembles. The ten strategoi take their seats in a rough semicircle, their faces grave in the torchlight. The debate that has raged for days must now reach its conclusion. Aristides speaks for caution—wait for the Spartans, hold the high ground, force the Persians to come to you. But you know what he does not: Persian cavalry scouts have been probing the hill paths, and each day you wait gives the enemy more time to find a route around your position. Worse, your intelligence suggests that Persian sympathizers in Athens—followers of the exiled tyrant Hippias—may be planning to signal the Persian fleet to sail directly to the undefended city.\n\nPolemarch Callimachus catches your eye across the firelight. He is the deciding vote—five generals for attack, five for defense. You have spoken to him privately, laying out your knowledge of Persian weaknesses: their reliance on missile troops who wilt before the hoplite charge, their lighter armor that cannot withstand the bronze-tipped dory spear, their polyglot army held together by fear rather than patriotism. Now he waits to hear your plan. The other generals lean forward. The fate of Athens hangs on your next words. Will you argue for an immediate attack, or propose a more cautious strategy of waiting while strengthening your position?",
+    "ja": "アッティカの丘に日が沈む中、あなたはギリシャ軍陣営の端に立ち、眼下に広がるマラトン平原を見下ろしている。夕暮れの中、何千ものペルシア軍の焚き火が沼地から海まで、落ちた星の絨毯のようにまたたいている。敵艦隊——数百隻の三段櫂船と馬匹輸送船——が湾を埋め尽くし、その黒い船体が夕方のうねりに穏やかに揺れている。侵攻軍の規模は驚愕に値する。最も楽観的な見積もりでもペルシア軍はあなたの軍の二倍、悲観論者は五対一の劣勢を囁いている。\n\nあなたの背後、ヘラクレスの聖域で軍議が開かれている。十人のストラテゴイが松明の光の中、厳しい表情で半円形に着席している。数日間続いた議論がついに結論を迎えなければならない。アリスティデスは慎重策を唱える——スパルタ軍を待ち、高地を保持し、ペルシア軍を引きつけよと。しかしあなたは彼の知らないことを知っている。ペルシアの騎兵斥候が丘陵の道を探っており、待てば待つほど敵にあなたの陣地を迂回する経路を見つける時間を与えることになる。さらに悪いことに、情報によれば、アテナイ内の親ペルシア派——亡命僭主ヒッピアスの追随者——が、ペルシア艦隊に直接無防備な都市へ向かうよう合図を送る計画を立てているかもしれない。\n\nポレマルコスのカリマコスが焚き火越しにあなたの目を見る。彼が決定票を握っている——五人の将軍が攻撃を支持し、五人が防御を支持している。あなたは彼に私的に、ペルシアの弱点についての知識を語っている。重装歩兵の突撃の前に崩れる遠距離兵への依存、青銅の穂先の槍に耐えられない軽装の鎧、愛国心ではなく恐怖で結束する多民族軍隊。今、彼はあなたの計画を聞こうとしている。他の将軍たちも身を乗り出す。アテナイの運命はあなたの次の言葉にかかっている。即座の攻撃を主張するのか、それとも陣地を強化しながら待つ慎重な戦略を提案するのか？",
+    "zh-CN": "夕阳西沉在阿提卡山丘上，你站在希腊营地边缘，俯瞰下方展开的马拉松平原。数千堆波斯篝火在暮色中闪烁，从沼泽延伸到海边，如同一片坠落星辰的地毯。敌人的舰队——数百艘三列桨战船和运马船——挤满了海湾，黑色的船体在傍晚的海浪中轻轻摇晃。入侵军队的规模令人震惊。即使最乐观的估计也认为波斯人的数量是你的两倍，而悲观者则低语着五比一的劣势。\n\n在你身后，在赫拉克勒斯的圣所中，军事会议正在召开。十位将军在火光中面色严峻地围成半圆就座。持续数日的激烈辩论必须得出结论。阿里斯提德主张谨慎——等待斯巴达人，固守高地，迫使波斯人主动进攻。但你知道他不知道的事情：波斯骑兵斥候一直在探查山间小路，你每等一天，敌人就多一天时间找到绕过你阵地的路线。更糟的是，你的情报显示雅典城内的亲波斯势力——流亡僭主希庇亚斯的追随者——可能正计划向波斯舰队发出信号，让其直接驶向不设防的城市。\n\n军事执政官卡利马科斯在火光对面与你目光相接。他掌握着决定性的一票——五位将军支持进攻，五位支持防守。你已私下向他阐述了你对波斯弱点的了解：他们依赖的远程部队在重装步兵冲锋面前不堪一击，他们较轻的铠甲无法抵挡青铜枪尖的长矛，他们的多民族军队靠恐惧而非爱国心维系。现在他等着听你的计划。其他将军们都倾身向前。雅典的命运取决于你接下来的话语。你是主张立即进攻，还是提议一个更谨慎的等待加强阵地的策略？"
+  },
+  "situationReport": [
+    {
+      "en": "The Persian invasion force of approximately 25,000 infantry and 1,000 cavalry is encamped on the coastal plain of Marathon, with their fleet anchored in the bay behind them.",
+      "ja": "約25,000人の歩兵と1,000人の騎兵からなるペルシア侵攻軍がマラトンの海岸平原に陣を構え、艦隊が背後の湾に停泊している。",
+      "zh-CN": "约25000名步兵和1000名骑兵组成的波斯入侵军驻扎在马拉松海岸平原上，他们的舰队停泊在身后的海湾中。"
+    },
+    {
+      "en": "Your force consists of 10,000 Athenian hoplites and 1,000 Plataean allies occupying the high ground at the southern end of the plain, near the sanctuary of Heracles.",
+      "ja": "あなたの軍勢は1万人のアテナイ重装歩兵と1,000人のプラタイア同盟軍で構成され、平原南端のヘラクレスの聖域近くの高地を占めている。",
+      "zh-CN": "你的部队由一万名雅典重装步兵和一千名普拉提亚盟军组成，占据平原南端赫拉克勒斯圣所附近的高地。"
+    },
+    {
+      "en": "Spartan reinforcements of 2,000 hoplites have been promised but cannot arrive for at least five more days due to the Carneia religious festival.",
+      "ja": "2,000人のスパルタ重装歩兵の援軍が約束されているが、カルネイア祭のため少なくともあと五日は到着できない。",
+      "zh-CN": "斯巴达已承诺派遣2000名重装步兵增援，但由于卡尔内亚宗教节日，至少还需五天才能到达。"
+    },
+    {
+      "en": "Intelligence reports suggest that pro-Persian elements within Athens may attempt to signal the Persian fleet, and Persian cavalry scouts have been probing the hill paths around your position.",
+      "ja": "情報によると、アテナイ内の親ペルシア派がペルシア艦隊に合図を送ろうとしている可能性があり、ペルシアの騎兵斥候があなたの陣地周辺の丘陵路を探っている。",
+      "zh-CN": "情报显示雅典城内的亲波斯势力可能试图向波斯舰队发出信号，且波斯骑兵斥候一直在探查你阵地周围的山间小路。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Convince Polemarch Callimachus and the war council to adopt your battle strategy",
+      "ja": "ポレマルコスのカリマコスと軍議にあなたの戦略を採用させる",
+      "zh-CN": "说服军事执政官卡利马科斯和军事会议采纳你的作战策略"
+    },
+    {
+      "en": "Choose the optimal timing and tactical approach for engaging the Persian force",
+      "ja": "ペルシア軍との交戦の最適なタイミングと戦術的アプローチを選択する",
+      "zh-CN": "选择与波斯军队交战的最佳时机和战术方法"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The war council must vote to approve any offensive action; you need Callimachus's support",
+      "ja": "軍議が攻撃行動を承認する投票をしなければならない。カリマコスの支持が必要である",
+      "zh-CN": "军事会议必须投票批准任何进攻行动；你需要卡利马科斯的支持"
+    },
+    {
+      "en": "Your hoplites are citizen-soldiers with limited supplies; a prolonged standoff erodes both provisions and morale",
+      "ja": "あなたの重装歩兵は限られた補給の市民兵である。長期の対峙は食糧と士気の両方を損なう",
+      "zh-CN": "你的重装步兵是补给有限的公民士兵；长期对峙会消耗给养和士气"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Argue forcefully for an immediate attack: present your plan to strengthen the wings, thin the center, and charge at a run to close the distance before Persian archers can take their toll.",
+        "ja": "即座の攻撃を力強く主張する：両翼を強化し中央を薄くし、ペルシアの弓兵が効果を発揮する前に距離を詰めるため駆け足で突撃する計画を提示する。",
+        "zh-CN": "强有力地主张立即进攻：提出加强两翼、削薄中央、以跑步冲锋在波斯弓箭手发挥作用之前拉近距离的计划。"
+      },
+      "historicalContext": "This is close to what actually happened. Miltiades convinced Callimachus to attack, devised the double-envelopment tactic with strong wings and a weak center, and ordered the unprecedented running charge across the open ground to minimize arrow casualties.",
+      "outcomePrompt": {
+        "en": "Your words carry the weight of experience—you have seen the Persians fight, you have lived among them, and you know their weaknesses as no other Greek does. You paint a vivid picture for the council: the Persian infantry, drawn from across the empire, fight in loose formations with wicker shields and short spears. They cannot stand against the bronze wall of a hoplite phalanx. Their archers are deadly at range, yes, but if your men close the distance at a run—something no Persian commander would expect from heavily armored infantry—the arrow storm will have mere seconds to do its work rather than minutes. You describe your plan to strengthen both wings with extra ranks while thinning the center to just four ranks deep, enough to hold but designed to give ground. When the Persian center pushes forward into the pocket, your victorious wings will wheel inward and crush them from both sides. Callimachus's eyes light with understanding. He stands and casts his vote for attack. The council roars its approval. Tomorrow, at dawn, you will march down to meet the greatest empire the world has ever known. The hoplites sharpen their spears and check their armor with a quiet determination. Athens will not fall without a fight.",
+        "ja": "あなたの言葉には経験の重みがある——ペルシア軍の戦いを見てきた、彼らの間で暮らしてきた、他のギリシャ人には知り得ない彼らの弱点を知っている。あなたは軍議に鮮明な像を描く。帝国中から集められたペルシア歩兵は、籐の盾と短い槍で散開隊形で戦う。重装歩兵のファランクスの青銅の壁の前には立ち向かえない。弓兵は遠距離では確かに致命的だが、もし兵士たちが駆け足で距離を詰めれば——重装甲の歩兵がそうするなどペルシアの指揮官は予想しない——矢の嵐は数分ではなくほんの数秒しか効果を発揮できない。両翼に余分な列を追加して強化し、中央をわずか四列に薄くする計画を説明する。中央は持ちこたえるに十分だが、後退するよう設計されている。ペルシアの中央が突出してきたとき、勝利した両翼が内側に旋回し、両側から粉砕する。カリマコスの目が理解の光を宿す。彼は立ち上がり、攻撃に票を投じる。軍議は承認の声を上げる。明日、夜明けとともに、世界がこれまでに知る最大の帝国を迎え撃つために進軍する。重装歩兵たちは静かな決意をもって槍を研ぎ、鎧を点検する。アテナイは戦わずして陥落することはない。",
+        "zh-CN": "你的话语承载着经验的分量——你曾目睹波斯人作战，曾在他们中间生活，你比任何其他希腊人都更了解他们的弱点。你为会议描绘了一幅生动的画面：从帝国各地征召的波斯步兵以松散阵形作战，使用柳条盾和短矛。他们无法抵挡重装步兵方阵的青铜之墙。他们的弓箭手在远距离确实致命，但如果你的士兵以跑步冲锋缩短距离——这是任何波斯指挥官都不会预料到重装甲步兵会做的事——箭雨将只有几秒钟而非几分钟来发挥作用。你描述了你的计划：在两翼增加额外的纵列来加强，同时将中央削薄到仅四列纵深，足以坚守但设计上会逐步后退。当波斯中军推入突出部时，你获胜的两翼将向内旋转从两侧粉碎他们。卡利马科斯的眼中闪烁着理解的光芒。他站起来投下了进攻的一票。会议爆发出赞同的呼声。明天黎明，你将下山迎战世界有史以来最强大的帝国。重装步兵们怀着沉静的决心磨砺长矛、检查铠甲。雅典不会不战而降。"
+      },
+      "nextSceneId": "marathon-490bc-scene-002",
+      "stateChanges": [
+        { "variable": "greekMorale", "operation": "add", "value": 15 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Advocate for a defensive posture: hold the high ground, fortify your camp with abatis and ditches, and wait for Spartan reinforcements while sending scouts to monitor Persian movements.",
+        "ja": "防御態勢を主張する：高地を保持し、鹿砦と塹壕で陣地を強化し、斥候を送ってペルシア軍の動きを監視しながらスパルタの援軍を待つ。",
+        "zh-CN": "主张防御姿态：固守高地，用鹿砦和壕沟加固营地，派出斥候监视波斯军队动向，同时等待斯巴达援军。"
+      },
+      "historicalContext": "This is the counterfactual approach advocated by several Athenian generals. While it would preserve the Greek force, waiting risked allowing the Persians to either find a way around the hills, receive cavalry reinforcements, or detach part of their fleet to attack Athens directly.",
+      "outcomePrompt": {
+        "en": "You counsel patience, and your words carry reason. Why risk everything in a single engagement when Sparta's finest warriors are mere days away? You order the camp fortified with fallen trees and ditches, creating a strong defensive position that the Persians cannot easily assault uphill. Patrols are doubled on the hill paths. For two days, the standoff holds. Your scouts report that Persian foraging parties are stripping the countryside, and the enemy cavalry makes probing attacks against your perimeter that your hoplites easily repel. But on the third morning, troubling news arrives from multiple directions. A runner from Athens reports that mysterious shield signals were seen flashing from Mount Pentelicus toward the Persian fleet—the traitors within the city are communicating with the enemy. Meanwhile, your forward scouts report significant movement in the Persian camp: a large portion of the cavalry and perhaps a third of the infantry are re-embarking on ships. The Persians may be splitting their force to attack Athens by sea while pinning you at Marathon. Callimachus looks to you with alarm. The defensive strategy has given the enemy time to outmaneuver you. You must now decide how to respond to this crisis with fewer options than you had before.",
+        "ja": "あなたは忍耐を進言し、その言葉には理がある。スパルタの精鋭がわずか数日で到着するのに、なぜ一度の戦いに全てを賭けるのか？あなたは陣地を倒木と塹壕で強化し、ペルシア軍が容易に攻め上れない堅固な防御陣地を構築する。丘陵路の巡回を倍増させる。二日間、対峙が続く。斥候はペルシアの食糧調達隊が田園地帯を荒らしていると報告し、敵の騎兵があなたの防衛線に偵察攻撃を仕掛けるが、重装歩兵が容易に撃退する。しかし三日目の朝、複数の方向から不穏な知らせが届く。アテナイからの伝令が、ペンテリコス山からペルシア艦隊に向けて謎の盾の信号が光っているのが目撃されたと報告する——市内の裏切り者が敵と連絡を取っている。同時に、前線の斥候がペルシア陣営で大規模な移動を報告する。騎兵の大部分と歩兵の約三分の一が船に再乗船している。ペルシア軍はあなたをマラトンに釘付けにしつつ、海路でアテナイを攻撃するために兵力を分割しようとしているかもしれない。カリマコスが警戒の目であなたを見る。防御戦略は敵に機動の時間を与えてしまった。以前より少ない選択肢でこの危機にどう対応するか決断しなければならない。",
+        "zh-CN": "你建议耐心等待，你的话有理有据。既然斯巴达最精锐的战士只需数日就能到达，为什么要在一场战斗中赌上一切？你下令用倒木和壕沟加固营地，建立了波斯人难以向上坡进攻的坚固防御阵地。山间小路上的巡逻加倍。对峙持续了两天。你的斥候报告波斯觅食队正在掠夺乡间，敌人骑兵对你的防线发起试探性进攻，但你的重装步兵轻松击退了他们。然而第三天早晨，多个方向传来令人不安的消息。一名来自雅典的信使报告，有人看到从彭特利库斯山向波斯舰队发出神秘的盾牌信号——城内的叛徒正在与敌人通信。与此同时，你的前方斥候报告波斯营地中有重大调动：大部分骑兵和大约三分之一的步兵正在重新登船。波斯人可能正在分兵，一方面在马拉松牵制你，同时从海路进攻雅典。卡利马科斯惊恐地望向你。防御策略给了敌人时间来智胜你。你现在必须以比之前更少的选择来应对这场危机。"
+      },
+      "nextSceneId": "marathon-490bc-scene-002",
+      "stateChanges": [
+        { "variable": "greekMorale", "operation": "add", "value": -5 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": -10 },
+        { "variable": "persianMorale", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,149 @@
+{
+  "id": "alexander-gaugamela-331bc",
+  "title": {
+    "en": "Battle of Gaugamela",
+    "ja": "ガウガメラの戦い",
+    "zh-CN": "高加米拉战役"
+  },
+  "period": {
+    "en": "331 BC — Alexander's Persian Campaign",
+    "ja": "紀元前331年 — アレクサンドロスのペルシア遠征",
+    "zh-CN": "公元前331年 — 亚历山大的波斯远征"
+  },
+  "dates": {
+    "start": "-331-10-01",
+    "end": "-331-10-01"
+  },
+  "location": {
+    "en": "Gaugamela, near Mosul (modern Iraq)",
+    "ja": "ガウガメラ、モスル近郊（現在のイラク）",
+    "zh-CN": "高加米拉，摩苏尔附近（今伊拉克）"
+  },
+  "historicalOverview": {
+    "en": "By 331 BC, Alexander III of Macedon had already done the impossible: he had crossed into Asia, defeated Darius III at Issus in 333 BC, conquered Egypt, and was marching deep into the heart of the Persian Empire. Darius, humiliated by his flight at Issus, had spent two years raising the largest army the Achaemenid Empire could muster — estimates range from 50,000 to over 200,000 men, with cavalry, war elephants, and 200 scythed chariots.\n\nDarius had chosen his battlefield carefully this time. The plain of Gaugamela, near the town of Arbela in modern Iraq, had been leveled specifically to allow his scythed chariots and overwhelming cavalry to maneuver freely. He would not be caught in a narrow pass as at Issus. His flanks extended far beyond Alexander's shorter line. He had every numerical and logistical advantage except one: the quality and confidence of his troops.",
+    "ja": "紀元前331年までに、マケドニアのアレクサンドロス3世はすでに不可能なことを成し遂げていた。アジアに渡り、紀元前333年のイッソスでダレイオス3世を打ち負かし、エジプトを征服し、ペルシア帝国の中心部へと深く進軍していた。イッソスでの逃走に屈辱を受けたダレイオスは、アカイメネス朝ペルシア帝国が動員できる最大の軍を編成するために2年間を費やした——推定は5万人から20万人以上に及び、騎兵、戦象、200台の鎌付き戦車を備えていた。\n\nダレイオスは今回慎重に戦場を選んだ。現在のイラクにあるアルベラの町近くのガウガメラの平原は、鎌付き戦車と圧倒的な騎兵が自由に機動できるように特別に平坦化されていた。イッソスのように狭い峠に追い込まれることはない。彼の側面はアレクサンドロスの短い戦列をはるかに超えて広がっていた。一つを除いてあらゆる数的および補給上の優位があった：部隊の質と自信だ。",
+    "zh-CN": "到公元前331年，马其顿的亚历山大三世已经完成了看似不可能的事：他渡过亚洲，在公元前333年的伊苏斯击败了大流士三世，征服了埃及，并正在向波斯帝国的心脏地带深入进军。在伊苏斯的逃跑使大流士蒙受了屈辱，他花了两年时间召集阿契美尼德帝国能够集结的最大军队——估计从五万到超过二十万人不等，配备骑兵、战象和200辆镰刀战车。\n\n大流士这次谨慎地选择了战场。位于现代伊拉克阿尔贝拉镇附近的高加米拉平原被专门平整，以便他的镰刀战车和压倒性骑兵自由机动。他不会像在伊苏斯那样被困在狭窄的山口。他的侧翼远远超出亚历山大较短的战线。他拥有除一项之外的所有数量和后勤优势：部队的素质和信心。"
+  },
+  "realWorldOutcome": {
+    "en": "The Battle of Gaugamela on October 1, 331 BC ended in complete Macedonian victory. Alexander executed a tactical masterpiece: feigning a rightward drift to draw the Persian left wing out, then identifying a gap in the Persian center and leading a devastating cavalry charge directly at Darius. Darius fled the battlefield for the second time. His remaining army collapsed, losing tens of thousands. Alexander captured the Persian royal treasury at Arbela. Darius was later murdered by his own satrap Bessus while fleeing east. Gaugamela effectively ended the Achaemenid Persian Empire and made Alexander master of Asia.",
+    "ja": "紀元前331年10月1日のガウガメラの戦いはマケドニアの完全な勝利に終わった。アレクサンドロスは戦術的傑作を実行した：右方向への漂流を演じてペルシア左翼を引き出し、次にペルシア中央の隙間を特定してダレイオスに向かって壊滅的な騎兵突撃を率いた。ダレイオスは二度目の逃走をした。残りの軍は崩壊し、数万人を失った。アレクサンドロスはアルベラのペルシア王室の財宝を捕獲した。ダレイオスはその後、東に逃げる途中で自分の太守ベッソスに殺された。ガウガメラは事実上アカイメネス朝ペルシア帝国を終わらせ、アレクサンドロスをアジアの主人にした。",
+    "zh-CN": "公元前331年10月1日的高加米拉战役以马其顿的完全胜利告终。亚历山大实施了一个战术杰作：假装向右漂移以引诱波斯左翼出击，然后识别出波斯中央的缺口，率领毁灭性的骑兵冲锋直扑大流士。大流士第二次逃离战场。他剩余的军队崩溃，损失数万人。亚历山大在阿尔贝拉缴获了波斯王室财库。大流士后来在向东逃亡途中被自己的总督贝苏斯杀害。高加米拉实际上终结了阿契美尼德波斯帝国，使亚历山大成为亚洲的主宰。"
+  },
+  "keyFigures": [
+    {
+      "id": "alexander",
+      "name": "Alexander III of Macedon",
+      "role": {
+        "en": "King of Macedon and Commander of the Greek-Macedonian Army",
+        "ja": "マケドニア王、ギリシャ・マケドニア軍の司令官",
+        "zh-CN": "马其顿国王，希腊-马其顿军总指挥"
+      },
+      "faction": "Macedonia",
+      "description": {
+        "en": "Twenty-five years old at Gaugamela, Alexander had already proven himself one of history's greatest commanders. Trained by Aristotle and by his father Philip II, he combined extraordinary physical courage — he always led cavalry charges from the front — with brilliant tactical improvisation. His Companion Cavalry, the elite heavy horsemen who served as his personal striking force, was the finest cavalry in the ancient world.",
+        "ja": "ガウガメラ時25歳であったアレクサンドロスは、すでに歴史上最も偉大な指揮官の一人であることを証明していた。アリストテレスと父フィリッポス2世に教育された彼は、並外れた身体的勇気——常に前から騎兵突撃を率いた——と見事な戦術的即興を組み合わせていた。彼の個人的打撃力として機能したエリート重騎兵、コンパニオン・カヴァルリーは、古代世界で最も優れた騎兵だった。",
+        "zh-CN": "在高加米拉时年仅25岁的亚历山大，已经证明了自己是历史上最伟大的指挥官之一。由亚里士多德和其父腓力二世培训，他将非凡的身体勇气——总是从前方率领骑兵冲锋——与出色的战术即兴结合起来。他的伴侣骑兵，作为他个人打击力量的精英重骑兵，是古代世界中最精良的骑兵。"
+      }
+    },
+    {
+      "id": "darius",
+      "name": "Darius III",
+      "role": {
+        "en": "Great King of Persia",
+        "ja": "ペルシアの大王",
+        "zh-CN": "波斯大王"
+      },
+      "faction": "Persia",
+      "description": {
+        "en": "Darius III was a competent administrator and decent general who was fundamentally outclassed by Alexander. His flight at Issus had damaged Persian morale irreparably. At Gaugamela, he had every numerical advantage but could not translate it into battlefield success. His personal courage was questionable — he fled Issus while his army still fought — but his political situation was desperate from the start.",
+        "ja": "ダレイオス3世はアレクサンドロスに根本的に格下の有能な行政官で程よい将軍であった。イッソスでの逃走はペルシアの士気を取り返しのつかないほど損なっていた。ガウガメラでは数的優位はすべてあったが、それを戦場での成功に変えることができなかった。個人的な勇気は疑問符が付いていた——軍がまだ戦っている間にイッソスを逃走した——しかし彼の政治的状況は最初から絶望的だった。",
+        "zh-CN": "大流士三世是一位有能力的行政官和还算不错的将领，但从根本上被亚历山大所超越。他在伊苏斯的逃跑不可挽回地损害了波斯的士气。在高加米拉，他拥有所有数量上的优势，但无法将其转化为战场上的成功。他的个人勇气令人置疑——他在军队仍在战斗的情况下逃离了伊苏斯——但他的政治处境从一开始就很绝望。"
+      }
+    },
+    {
+      "id": "parmenion",
+      "name": "Parmenion",
+      "role": {
+        "en": "Senior Macedonian General, Commander of the Left Wing",
+        "ja": "マケドニアの上級将軍、左翼指揮官",
+        "zh-CN": "马其顿高级将领，左翼指挥官"
+      },
+      "faction": "Macedonia",
+      "description": {
+        "en": "Parmenion was Philip's greatest general and served as Alexander's second-in-command. Old, cautious, and experienced, he commanded the Macedonian left wing at Gaugamela while Alexander led the decisive thrust on the right. He sent Alexander the famous message 'If I were Alexander, I would accept Darius's peace offer' — to which Alexander replied, 'So would I, if I were Parmenion.'",
+        "ja": "パルメニオンはフィリッポスの最も偉大な将軍で、アレクサンドロスの副司令官を務めた。老練で慎重で経験豊富な彼は、アレクサンドロスが右翼で決定的な突撃を率いる間、ガウガメラでマケドニアの左翼を指揮した。彼はアレクサンドロスに有名なメッセージを送った「もし私がアレクサンドロスなら、ダレイオスの和平提案を受け入れるだろう」——それに対しアレクサンドロスは答えた「もし私がパルメニオンなら私もそうする」。",
+        "zh-CN": "帕曼纽是腓力最伟大的将领，担任亚历山大的副司令。年迈、谨慎而经验丰富，他在亚历山大率领右翼实施决定性冲击时指挥马其顿左翼在高加米拉作战。他向亚历山大发出了著名的信息'如果我是亚历山大，我会接受大流士的和平提议'——亚历山大回答：'如果我是帕曼纽，我也会这样做。'"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "alexander-commander",
+      "scenarioId": "alexander-gaugamela-331bc",
+      "name": "Alexander III",
+      "title": {
+        "en": "King of Macedon, Lord of Asia",
+        "ja": "マケドニア王、アジアの主君",
+        "zh-CN": "马其顿国王，亚洲之主"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Alexander III of Macedon, twenty-five years old, King of Macedon, Pharaoh of Egypt, and conqueror of the Levant. Two years ago you crushed Darius at Issus, but he escaped. Now he has chosen this wide, leveled plain of Gaugamela for the decisive battle — and he has assembled the largest army you have ever faced. His line extends beyond yours on both flanks. He has 200 scythed chariots to disrupt your infantry. His cavalry, especially on his left, threatens to envelop you.\n\nBut Darius has made one mistake: he has given you time to study his dispositions. Your scouts have identified a gap that may open between his left-center and right-center if his lines advance unevenly. Your Companion Cavalry on the right wing — the finest horsemen in the world — can exploit that gap if you create the right conditions.\n\nParmenion commands your left, holding against overwhelming pressure. Your infantry phalanx holds the center. And you, at the head of the Companions, will be the decisive weapon if you can identify the moment and drive through. Darius himself commands from a chariot in the center of his line. If you can reach him, the battle ends.",
+        "ja": "あなたはマケドニアのアレクサンドロス3世、25歳、マケドニア王、エジプトのファラオ、レバントの征服者だ。2年前にイッソスでダレイオスを打ち砕いたが、彼は逃れた。今彼は決戦のためにこの広く平坦化されたガウガメラの平原を選んだ——そしてあなたがこれまで直面した最大の軍を編成した。彼の戦列は両側面であなたのものを超えて広がっている。彼の歩兵を乱すために200台の鎌付き戦車がある。彼の騎兵、特に左翼では、あなたを包囲しようと脅している。\n\nしかしダレイオスは一つの過ちを犯した：あなたが彼の陣形を研究する時間を与えた。偵察によって、彼の戦列が不均一に前進すると左中央と右中央の間に隙間が開く可能性があることを特定した。右翼のコンパニオン・カヴァルリー——世界最高の騎手たち——は適切な条件を作れば、その隙間を利用できる。\n\nパルメニオンは左翼を指揮し、圧倒的な圧力に対して持ちこたえている。あなたの歩兵ファランクスが中央を保持している。そしてあなたは、コンパニオンの先頭で、瞬間を特定し突破できれば決定的な武器となる。ダレイオス自身が彼の戦線の中央で戦車から指揮している。彼に到達できれば、戦闘は終わる。",
+        "zh-CN": "你是马其顿的亚历山大三世，25岁，马其顿国王，埃及法老，黎凡特的征服者。两年前你在伊苏斯击溃了大流士，但他逃脱了。现在他选择了这片宽阔、被平整的高加米拉平原进行决战——他集结了你迄今面对的最大军队。他的战线在两侧超出你的战线。他有200辆镰刀战车来扰乱你的步兵。他的骑兵，尤其是在他的左翼，威胁要包围你。\n\n但大流士犯了一个错误：他给了你时间研究他的部署。你的侦察兵发现，如果他的战线推进不均匀，他的左中央和右中央之间可能会开出一个缺口。你右翼的伴侣骑兵——世界上最优秀的骑手——如果你创造了正确的条件，可以利用那个缺口。\n\n帕曼纽指挥你的左翼，在压倒性的压力下坚守。你的步兵方阵守住中央。而你，在伴侣骑兵的最前端，如果能识别时机并突破，将成为决定性的武器。大流士本人从战线中央的战车指挥战斗。如果你能到达他，战斗就结束了。"
+      },
+      "objectives": [
+        {
+          "en": "Break the Persian center and reach Darius before he can flee the battlefield again",
+          "ja": "ペルシア中央を突破し、ダレイオスが再び戦場から逃走する前に到達する",
+          "zh-CN": "突破波斯中央，在大流士再次逃离战场之前到达他那里"
+        },
+        {
+          "en": "Prevent the Persian cavalry envelopment from destroying your left wing under Parmenion",
+          "ja": "ペルシア騎兵の包囲がパルメニオン指揮下の左翼を破壊するのを防ぐ",
+          "zh-CN": "防止波斯骑兵包围消灭帕曼纽指挥下的你的左翼"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "The scythed chariots must be neutralized before they can devastate your infantry phalanx",
+          "ja": "鎌付き戦車が歩兵ファランクスを壊滅させる前に無力化しなければならない",
+          "zh-CN": "镰刀战车在摧毁你的步兵方阵之前必须被中和"
+        },
+        {
+          "en": "Parmenion's left flank will be under extreme pressure — abandoning him to chase Darius may lead to the destruction of your left wing",
+          "ja": "パルメニオンの左翼は極度の圧力下に置かれる——ダレイオスを追うために彼を見捨てれば左翼の壊滅につながりうる",
+          "zh-CN": "帕曼纽的左翼将承受极大压力——为追逐大流士而抛弃他可能导致你左翼的毁灭"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Darius has already fled one battlefield — he may flee again before you can close",
+          "ja": "ダレイオスはすでに一つの戦場から逃走した——あなたが接近する前に再び逃走するかもしれない",
+          "zh-CN": "大流士已经逃离过一个战场——在你接近之前他可能再次逃跑"
+        },
+        {
+          "en": "Your line is shorter than the Persian line — you are at risk of being enveloped on both flanks",
+          "ja": "あなたの戦列はペルシアの戦列より短い——両翼で包囲されるリスクがある",
+          "zh-CN": "你的战线比波斯战线短——你面临两翼被包围的风险"
+        }
+      ],
+      "startingSceneId": "alexander-gaugamela-331bc-scene-001",
+      "initialState": {
+        "macedonianMorale": 80,
+        "persianMorale": 55,
+        "cavalryAdvantage": 70,
+        "leftWingStability": 60,
+        "dariusProximity": 0
+      }
+    }
+  ],
+  "sceneIds": [
+    "alexander-gaugamela-331bc-scene-001",
+    "alexander-gaugamela-331bc-scene-002",
+    "alexander-gaugamela-331bc-scene-003"
+  ],
+  "tags": ["ancient", "battle", "cavalry", "persia", "alexander", "conquest"],
+  "difficulty": "hard"
+}

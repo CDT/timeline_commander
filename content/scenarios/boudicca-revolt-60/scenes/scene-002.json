@@ -1,0 +1,123 @@
+{
+  "id": "boudicca-revolt-60-scene-002",
+  "scenarioId": "boudicca-revolt-60",
+  "date": {
+    "en": "Summer, 60 AD",
+    "ja": "西暦60年夏",
+    "zh-CN": "公元60年夏"
+  },
+  "location": {
+    "en": "Roman Britain — The March North",
+    "ja": "ローマ属州ブリタンニア、北への進軍",
+    "zh-CN": "罗马不列颠，北进途中"
+  },
+  "isTerminal": false,
+  "title": {
+    "en": "Paulinus Returns",
+    "ja": "パウリヌスの帰還",
+    "zh-CN": "保利努斯回归"
+  },
+  "narrativePrompt": {
+    "en": "Three cities lie in ash behind you. Camulodunum is rubble. Londinium is a black ruin. Verulamium has been burned to its foundations. An estimated 70,000 Romans and their collaborators are dead. The destruction layer visible in the ground will still be found by archaeologists two thousand years from now.\n\nYou are Boudicca. Your army — now swollen to perhaps 230,000 warriors and the families who have followed them, filling wagons drawn up in a vast semicircle behind the battle line — has never been larger. The mood is triumph. Camulodunum's sacred ground has been avenged. The gold and goods of Londinium have been distributed. You are everything your warriors said you would be: the goddess of victory made flesh.\n\nBut Suetonius Paulinus is back. His cavalry scouting parties have been seen on the northern roads. He has brought two legions — the Fourteenth and Twentieth — approximately 10,000 soldiers. A third legion, the Second Augusta, refused his orders and did not march; its commander later committed suicide in shame. He left his fleet and the Ninth Legion, which lost 2,000 men in a disastrous early attempt to confront the revolt.\n\nPaulinius has chosen his battlefield carefully. Your scouts describe it: a narrow defile with forest protecting both flanks, opening to a plain behind him where his supply wagons wait. He has placed 10,000 disciplined soldiers in a position where your numerical superiority of perhaps twenty-to-one cannot come to bear.\n\nYour war chiefs argue. Some urge caution — wait, draw him out, use your numbers on open ground. Others argue the warriors' blood is up, the mood is for battle, and an army that does not fight loses its edge. The families in the wagons behind the army wait for the outcome that will determine if they ever go home.",
+    "ja": "三つの都市が後方に灰として横たわっている。カムロドゥヌムは瓦礫だ。ロンディニウムは黒い廃墟だ。ウェルラミウムは基礎まで燃やされた。推定7万人のローマ人とその協力者が死んでいる。地面に見える破壊の層は、今から2000年後に考古学者によって今も発見されるだろう。\n\nあなたはブーディカだ。あなたの軍——今や約23万人の戦士と、戦列の後ろに広がる巨大な半円形に引き込まれた荷馬車で彼らを追う家族たちで膨れ上がっている——はかつてないほど大きい。雰囲気は勝利だ。カムロドゥヌムの聖地は復讐された。ロンディニウムの金と物品は分配された。あなたは戦士たちが言っていた通りのものだ：肉体となった勝利の女神。\n\nしかしスエトニウス・パウリヌスが戻ってきた。彼の騎兵の斥候が北の道で目撃されている。彼は二個軍団——第14軍団と第20軍団——約1万人の兵士を連れてきた。第三の軍団、第2アウグスタ軍団は彼の命令を拒否して行軍しなかった。その指揮官は恥の中で後に自決した。彼は艦隊と第9軍団を残した。第9軍団は反乱に対処しようとした初期の悲惨な試みで2000人の兵士を失った。\n\nパウリヌスは戦場を慎重に選んだ。あなたの斥候がそれを描写する：両側面を森が守る狭い隘路で、後方には彼の補給荷馬車が待つ平原が開けている。彼は10000人の規律ある兵士を、あなたの数的優位——おそらく20対1——を発揮できない位置に配置した。\n\nあなたの戦争指導者たちが議論する。一部は慎重を促す——待って、彼を引き出し、開けた場所で数の優位を使え。他の者は戦士たちの血が騒いでいる、雰囲気は戦闘を求めている、戦わない軍は鋭さを失うと主張する。軍の後方の荷馬車にいる家族たちが、彼らがいつか家に帰れるかどうかを決める結果を待っている。",
+    "zh-CN": "三座城市化为灰烬留在你身后。卡姆洛杜努姆是废墟。伦丁尼乌姆是黑色的遗址。维鲁拉米乌姆被烧到了地基。据估计70,000名罗马人及其合作者已经死去。地面上可见的破坏层将在两千年后仍被考古学家发现。\n\n你是布狄卡。你的军队——现在已膨胀到约230,000名战士，加上跟随他们的家属，在战线后面排成巨大半圆形的马车里——从未如此庞大。气氛是胜利的。卡姆洛杜努姆的圣地得到了复仇。伦丁尼乌姆的黄金和财物已被分发。你就是战士们所说的那样：化为肉身的胜利女神。\n\n但苏埃托尼乌斯·保利努斯回来了。他的骑兵侦察队已在北部道路上被发现。他带来了两个军团——第十四军团和第二十军团——约10,000名士兵。第三个军团，第二奥古斯塔军团，拒绝了他的命令，没有行军；它的指挥官后来在羞耻中自杀了。他留下了他的舰队和第九军团，后者在早期一次灾难性的试图应对起义的行动中损失了2,000名士兵。\n\n保利努斯谨慎地选择了他的战场。你的斥候描述了它：一条两侧有森林保护侧翼的狭窄隘路，在他身后通向一片平原，他的补给马车在那里等待。他将10,000名训练有素的士兵置于一个你约20比1的数量优势无法发挥的阵地。\n\n你的战争首领们争论。一些人建议谨慎——等待，引他出来，在开阔地使用你的数量优势。其他人认为战士们热血沸腾，气氛要求战斗，不战斗的军队会失去锐气。在军队后方马车中的家庭等待着将决定他们是否能回家的结果。"
+  },
+  "situationReport": [
+    {
+      "en": "Paulinus has approximately 10,000 disciplined Roman soldiers in a narrow defensive position. His flanks are protected by dense forest. His soldiers can fight three deep in the defile; your army of 230,000 cannot mass its numbers against him.",
+      "ja": "パウリヌスは約10000人の規律ある兵士を狭い防衛陣地に持っている。彼の側面は密生した森で保護されている。彼の兵士たちは隘路で三列縦隊で戦える。あなたの23万人の軍は彼に向けて数を結集できない。",
+      "zh-CN": "保利努斯有约10,000名训练有素的罗马士兵在狭窄的防御阵地。他的侧翼受到茂密森林的保护。他的士兵可以在隘路中三列纵深作战；你的230,000人军队无法将数量集中在他身上。"
+    },
+    {
+      "en": "Your warriors are experienced fighters but trained for individual combat, not disciplined formation fighting. Against a Roman shield wall in a narrow position, their individual courage and numbers are partly neutralized.",
+      "ja": "あなたの戦士たちは経験豊富な戦士だが、個人戦闘のために訓練されており、規律ある陣形戦闘のためではない。狭い陣地のローマ軍の盾の壁に対して、彼らの個人的な勇気と数は部分的に無力化される。",
+      "zh-CN": "你的战士是经验丰富的战士，但训练的是个人战斗，而不是有纪律的阵型作战。在狭窄阵地对抗罗马盾牌方阵时，他们个人的勇气和数量被部分化解。"
+    },
+    {
+      "en": "The wagons of families positioned behind the army — a common British practice to watch the battle — create a barrier. If the battle turns, there is no easy line of retreat for your warriors.",
+      "ja": "軍の後ろに位置する家族の荷馬車——戦闘を見守るブリテン人の一般的な慣習——が障壁を作る。戦闘が不利になれば、戦士たちの容易な撤退路はない。",
+      "zh-CN": "在军队后方定位的家庭马车——不列颠人观战的常见做法——造成了一个障碍。如果战况逆转，你的战士没有容易的撤退路线。"
+    },
+    {
+      "en": "Paulinus cannot advance. He must wait for you to attack into his chosen ground. Every day he waits is a day his soldiers maintain formation discipline; every day your army waits is a day of restlessness and eroding confidence.",
+      "ja": "パウリヌスは前進できない。彼は、あなたが彼が選んだ地形に攻撃してくるのを待たなければならない。彼が待つ日々は兵士たちが陣形の規律を維持する日だ。あなたの軍が待つ日々は落ち着きのなさと侵食される自信の日だ。",
+      "zh-CN": "保利努斯无法前进。他必须等待你攻入他选择的地形。他等待的每一天是他的士兵保持阵型纪律的一天；你的军队等待的每一天是焦躁不安和侵蚀信心的一天。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Defeat Paulinus's legions and eliminate Roman military power in Britain — or find a way to fight on terms more favorable than the position he has chosen.",
+      "ja": "パウリヌスの軍団を打ち負かし、ブリタンニアのローマの軍事力を排除する——または彼が選んだ陣地より有利な条件で戦う方法を見つける。",
+      "zh-CN": "击败保利努斯的军团，消除不列颠的罗马军事力量——或者找到一种比他所选阵地更有利的条件下战斗的方法。"
+    },
+    {
+      "en": "Preserve the tribal coalition — if the army disperses without a decisive victory, Rome will reconquer Britain piece by piece.",
+      "ja": "部族連合を維持する——決定的な勝利なしに軍が解散すれば、ローマはブリタンニアを少しずつ再征服する。",
+      "zh-CN": "保持部落联盟——如果军队在没有决定性胜利的情况下解散，罗马将逐步重新征服不列颠。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your army cannot maintain a long siege or encirclement — it has no supply system and must keep moving. The longer you wait, the more men slip away to tend to their farms and families.",
+      "ja": "あなたの軍は長い包囲や包囲を維持できない——補給システムがなく移動し続けなければならない。待てば待つほど、農場や家族の世話をするために多くの人が離れていく。",
+      "zh-CN": "你的军队无法维持长期围困或包围——它没有补给系统，必须持续移动。你等待的时间越长，越多人溜走照看他们的农场和家庭。"
+    },
+    {
+      "en": "The wagons of families behind the battle line have become a problem — they were brought to witness triumph, but if the battle turns, they block any retreat.",
+      "ja": "戦列の後ろにいる家族の荷馬車は問題になっている——勝利を目撃するために連れてこられたが、戦闘が不利になれば、撤退を塞ぐ。",
+      "zh-CN": "战线后方的家庭马车已成为问题——它们是为见证胜利而带来的，但如果战况逆转，它们阻断了任何撤退。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Attack directly — drive the mass of warriors into Paulinus's position",
+        "ja": "直接攻撃する――戦士の大軍をパウリヌスの陣地に突撃させる",
+        "zh-CN": "直接攻击——将战士大军驱入保利努斯的阵地"
+      },
+      "description": {
+        "en": "The warriors' blood is up. The momentum of three victories is behind you. Attack Paulinus's position with your full force — the mass of numbers must eventually overwhelm even the most disciplined Roman formation. Lead the charge yourself to inspire maximum effort. Victory here ends Roman power in Britain.",
+        "ja": "戦士たちの血が騒いでいる。三つの勝利の勢いがある。全兵力でパウリヌスの陣地を攻撃する——数の塊は最終的に最も規律あるローマの陣形さえも圧倒しなければならない。最大の努力を促すために自ら突撃を率いる。ここでの勝利がブリタンニアにおけるローマの力を終わらせる。",
+        "zh-CN": "战士们热血沸腾。三场胜利的势头在你身后。以全部兵力攻击保利努斯的阵地——数量的重量最终必须压倒即使是最有纪律的罗马阵型。亲自率领冲锋以激励最大努力。在这里的胜利将终结罗马在不列颠的权力。"
+      },
+      "historicalContext": "This is the historical choice — Boudicca attacked Paulinus's prepared position at Watling Street. The result was catastrophic. The Roman legionaries, fighting in close formation in a narrow defile with protected flanks, could not be overwhelmed by numbers. Tacitus reports 80,000 Britons killed against only 400 Romans — one of the most lopsided battles in ancient history. The wagons behind the British formation blocked retreat and created a killing ground. Boudicca died shortly after, either by poison or illness.",
+      "outcomePrompt": {
+        "en": "The attack begins with a roar that shakes the forest. Tens of thousands of warriors surge toward the Roman line — chariots leading, infantry following, the mass of the army pressing behind. You ride along the line in your chariot, your daughters beside you, exhorting the tribes to vengeance.\n\nAt first, the Roman line holds. Then you press harder. And harder. The narrow defile fills with bodies — Roman and British alike — as the fighting becomes a brutal grinding match. Your numbers mean nothing in this press: only the men in the front ranks can fight, and they face professional soldiers who have spent their lives learning this exact kind of warfare.\n\nThe Romans begin a controlled retreat, drawing more Britons into the narrow ground. Then the legions execute the maneuver Paulinus has been waiting to make: they advance as a solid wall, shields locked, javelins first, cutting down the press of warriors who have no room to use their weapons. The Britons cannot give ground — the wagons of families are behind them.\n\nThe rout begins. 80,000 dead, Tacitus will write — against 400 Romans. The wagons become a killing ground as warriors are pushed back into their own families. Britain's greatest army is destroyed in an afternoon.\n\nYou escape the slaughter. You consider a second fight, but there is no army left to lead. Rather than be taken prisoner and walked through Rome in chains, you take poison. Britain will not be free for another four centuries — and even then, it will never quite be the Britain that was.",
+        "ja": "攻撃は森を揺るがす叫びで始まる。何万もの戦士がローマの戦列に向かって殺到する——戦車が先頭、歩兵が続き、軍の大塊が後に続く。あなたは部族に復讐を促しながら、娘たちを傍に従えて戦車で戦列に沿って駆ける。\n\n最初は、ローマの戦列が持ちこたえる。次に、さらに強く押す。もっと強く。狭い隘路が遺体で埋まる——ローマとブリテンの両方——戦闘が残酷な消耗戦になるにつれて。この密集の中であなたの数は意味がない：最前列にいる兵士だけが戦えるが、彼らはまさにこの種の戦闘を学ぶために生涯を費やした職業軍人に直面している。\n\nローマ軍は制御された後退を開始し、より多くのブリテン人を狭い地形に引き込む。そしてパウリヌスが行うのを待っていた機動を軍団が実行する：彼らは盾を組み合わせた固い壁として前進し、最初に投げ槍で、武器を使う余地のない戦士の密集を切り倒す。ブリテン人は後退できない——後ろには家族の荷馬車がある。\n\n敗走が始まる。タキトゥスは8万人の死者を書くだろう——ローマの400人に対して。戦士たちが自分たちの家族に押し戻されるにつれて、荷馬車は虐殺の場になる。ブリタンニアの最大の軍は一午後で壊滅する。\n\nあなたは虐殺から逃れる。二度目の戦いを考えるが、率いる軍が残っていない。捕虜にされてローマを鎖で歩かされるより毒を飲む。ブリタンニアはさらに4世紀の間自由にならない——そしてその時でさえ、かつてのブリタンニアに完全には戻らない。",
+        "zh-CN": "攻击以震撼森林的呐喊声开始。数以万计的战士涌向罗马战线——战车领头，步兵跟随，军队的大队压在后面。你乘着战车沿战线策马，女儿们在你身边，激励着各部落报仇雪恨。\n\n起初，罗马战线坚守。然后你更加猛烈地推进。越来越猛烈。狭窄隘路里堆满了尸体——罗马的和不列颠的都有——战斗变成了一场残酷的消耗战。在这种密集中你的数量毫无意义：只有前排的人能够战斗，而他们面对的是花了一生学习这种战斗方式的职业士兵。\n\n罗马人开始有控制地后退，将更多不列颠人引入狭窄地带。然后军团执行保利努斯一直等待实施的机动：他们以紧密锁定盾牌的坚实墙壁前进，先投出标枪，砍倒没有空间使用武器的密集战士们。不列颠人无法让步——他们背后是家庭的马车。\n\n溃败开始了。塔西佗将写道80,000人死亡——对比罗马的400人。随着战士们被推回到他们自己的家人中，马车变成了屠杀场。不列颠最强大的军队在一个下午被摧毁。\n\n你逃出了大屠杀。你考虑第二次战斗，但没有军队可以率领了。与其被俘戴着镣铐走过罗马，你选择服毒。不列颠将在四个世纪内无法自由——即便那时，它也永远不会完全回到原来的不列颠。"
+      },
+      "stateChanges": [
+        { "variable": "armySize", "operation": "add", "value": -50 },
+        { "variable": "tribalUnity", "operation": "add", "value": -40 },
+        { "variable": "romanFear", "operation": "add", "value": -30 }
+      ],
+      "nextSceneId": "boudicca-revolt-60-scene-003"
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Refuse battle — draw Paulinus away from his chosen ground",
+        "ja": "戦闘を拒否する――パウリヌスを選んだ地形から引き離す",
+        "zh-CN": "拒绝战斗——将保利努斯从他选择的地形引离"
+      },
+      "description": {
+        "en": "Send the families home. Disperse the non-combatants and a third of the warriors to their territories with instructions to return in one month. March the main body westward, away from Paulinus's prepared position. Force him to follow you onto ground of your choosing — open country where your numbers count. Starve his small army of its defensive advantage.",
+        "ja": "家族を家に帰す。非戦闘員と戦士の三分の一を彼らの領地に分散させ、一ヶ月後に戻るよう指示する。主力部隊をパウリヌスの準備した陣地から西に行軍させる。あなたが選んだ地形——数の優位が有効な開けた土地——に彼を追わせる。彼の小さな軍から防衛上の利点を奪う。",
+        "zh-CN": "把家庭送回家。将非战斗人员和三分之一的战士遣散回他们的领地，指示他们一个月后返回。将主力部队向西进军，远离保利努斯的准备阵地。迫使他跟随你到你选择的地形——你的数量有效的开阔地带。剥夺他那小军队的防御优势。"
+      },
+      "historicalContext": "This is the counterfactual — Boudicca attacked rather than using strategic maneuver. Historical analysis suggests that the British forces had strategic options they did not use: dispersal and harassment, forcing Paulinus to give battle on unfavorable ground, or simply waiting him out as his small force had limited ability to supply itself in hostile territory. However, the structural problem with a large tribal confederation is that it cannot maintain cohesion through strategic patience — the warriors needed decisive action.",
+      "outcomePrompt": {
+        "en": "The decision to withdraw is one of the hardest you have made. The war chiefs protest — retreat means weakness, weakness means the coalition fractures. But you hold firm. The families are sent home with a third of the warriors as escort. The army moves westward.\n\nPaulinius faces a dilemma. His small force cannot sustain itself in hostile territory indefinitely. He must either follow you or accept that Britain is lost while he stands in a defile. He follows.\n\nTwo weeks of marching and counter-marching. Paulinus is careful — he refuses to be drawn onto open ground. But his soldiers are tired, hungry, and marching through country that now actively supports you. Desertions from his legions begin. Supplies become critically short.\n\nYou find your ground — a wide valley with open flanks, no forest cover. You turn and offer battle here. Paulinus has 8,000 men now. You have 180,000.\n\nThe battle is brutal and costly. Roman discipline is formidable even on open ground. But you have space for your numbers to matter, and matter they do. After four hours of fighting, the Roman line breaks. Less than 2,000 Romans escape. Paulinus is among them.\n\nBritain is not free — Paulinus will call for reinforcements, and Rome will send them eventually. But today, the legions have broken. And for the first time in seventeen years, the Romans might consider whether Britain is worth the cost.",
+        "ja": "撤退の決断はあなたが下した最も困難なものの一つだ。戦争指導者たちは抗議する——撤退は弱さを意味し、弱さは連合の分裂を意味する。しかしあなたは固守する。家族は護衛として戦士の三分の一と共に家に帰される。軍は西に向かって移動する。\n\nパウリヌスはジレンマに直面する。彼の小さな軍は敵対的な地域で無期限に維持できない。あなたを追うか、彼が隘路に立つ間ブリタンニアが失われることを受け入れるかのどちらかだ。彼は追う。\n\n二週間の行軍と反行軍。パウリヌスは慎重だ——彼は開けた地形に引き出されることを拒否する。しかし彼の兵士たちは疲れ、空腹で、今や積極的にあなたを支持している地方を行軍している。軍団からの脱走者が増え始める。補給が決定的に不足する。\n\nあなたは自分の地形を見つける——開いた側面と森の覆いのない広い谷。向きを変えてここで戦闘を申し出る。パウリヌスは今8000人の兵士を持つ。あなたは18万人持つ。\n\n戦闘は残酷でコストが高い。ローマの規律は開けた地形でさえ手強い。しかしあなたには数が重要になる空間があり、実際に重要だ。4時間の戦闘の後、ローマの戦列が崩れる。2000人未満のローマ人が脱出する。パウリヌスはその中にいる。\n\nブリタンニアは自由ではない——パウリヌスは増援を求め、ローマは最終的にそれを送る。しかし今日、軍団は崩れた。そして17年ぶりに、ローマ人はブリタンニアがコストに値するかどうかを考慮するかもしれない。",
+        "zh-CN": "撤退的决定是你做过的最艰难的决定之一。战争首领们抗议——撤退意味着软弱，软弱意味着联盟瓦解。但你坚持立场。家庭在三分之一战士护送下被遣送回家。军队向西移动。\n\n保利努斯面临两难困境。他的小部队无法在敌对领土上无限期维持自身。他必须要么追随你，要么接受他站在隘路中的同时不列颠已经失去。他追随了。\n\n两周的行军和反行军。保利努斯很谨慎——他拒绝被引到开阔地上。但他的士兵疲惫、饥饿，在现在积极支持你的地区行军。来自他军团的逃兵开始增加。补给严重短缺。\n\n你找到了你的地形——一个有开阔侧翼、无森林覆盖的宽广山谷。你转身在此提出战斗。保利努斯现在有8,000人。你有180,000人。\n\n战斗残酷且代价高昂。罗马纪律即使在开阔地上也令人畏惧。但你有让数量发挥作用的空间，而它确实发挥了作用。经过四个小时的战斗，罗马战线崩溃。不到2,000名罗马人逃脱。保利努斯在其中。\n\n不列颠尚未自由——保利努斯将请求增援，罗马最终会派来。但今天，军团已经崩溃。而且十七年来第一次，罗马人可能会考虑不列颠是否值得这个代价。"
+      },
+      "stateChanges": [
+        { "variable": "armySize", "operation": "add", "value": -20 },
+        { "variable": "tribalUnity", "operation": "add", "value": -15 },
+        { "variable": "strategicPosition", "operation": "add", "value": 30 }
+      ],
+      "nextSceneId": "boudicca-revolt-60-scene-003"
+    }
+  ]
+}

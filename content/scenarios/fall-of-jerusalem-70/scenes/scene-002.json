@@ -1,0 +1,117 @@
+{
+  "id": "fall-of-jerusalem-70-scene-002",
+  "scenarioId": "fall-of-jerusalem-70",
+  "title": {
+    "en": "The Fortress of Antonia",
+    "ja": "アントニア要塞",
+    "zh-CN": "安东尼亚要塞"
+  },
+  "date": {
+    "en": "July 20, 70 AD",
+    "ja": "西暦70年7月20日",
+    "zh-CN": "公元70年7月20日"
+  },
+  "location": {
+    "en": "Roman Forward Command Post, within the captured New City",
+    "ja": "占領された新市街内のローマ前線司令部",
+    "zh-CN": "已占领新城区内的罗马前线指挥所"
+  },
+  "narrativePrompt": {
+    "en": "Two months have passed since the siege began, and you have driven the defenders behind their inner fortifications. The Third Wall and Second Wall have both fallen. You now hold the New City and much of the Lower City, but the defenders have consolidated into two strongholds: John of Gischala holds the Temple Mount and the Fortress of Antonia with his zealots, while Simon bar Giora controls the Upper City and Herod's Palace with his larger force. Between these positions, the ancient First Wall still stands defiant. You have ordered the construction of a circumvallation wall — a continuous five-mile barrier encircling all of Jerusalem — to seal the city completely and starve the defenders into submission. Your engineers completed it in an astonishing three days, and now nothing enters or leaves the city. The effects are already devastating. Famine has taken hold of the civilian population with terrible swiftness. Josephus reports scenes of unspeakable horror — families fighting over scraps, the dead piling in the streets, desperate people attempting to flee only to be caught between your patrols and the zealots who kill anyone trying to surrender. Your soldiers have crucified hundreds of captured fugitives along the walls as a warning. Now you must decide how to crack the Fortress of Antonia, the key to the Temple Mount. A direct assault up its steep walls will be costly, but your engineers have been constructing massive siege ramps against its foundations.",
+    "ja": "包囲開始から二ヶ月が経ち、防衛者たちを内側の要塞の背後に追い込んだ。第三城壁と第二城壁はともに陥落した。新市街と下の町の大部分を占領したが、防衛者は二つの拠点に集結している：ギスカラのヨハネスが熱心党とともに神殿の丘とアントニア要塞を保持し、シモン・バル・ギオラがより大きな兵力で上の町とヘロデ宮殿を支配している。これらの陣地の間に、古い第一城壁がなお健在である。エルサレム全体を囲む全長五マイルの連続した障壁——包囲壁の建設を命じ、都市を完全に封鎖して防衛者を飢えさせ降伏に追い込む。工兵たちは驚くべきことにわずか三日で完成させ、今や何も都市に出入りできない。その効果はすでに壊滅的である。飢饉が恐ろしい速さで民間人を捉えた。ヨセフスは言い表せないほどの恐怖の光景を伝える——食べ物の切れ端をめぐって争う家族、通りに積み重なる死体、脱出を試みてあなたのパトロールと降伏者を殺す熱心党の間に捕まる絶望的な人々。兵士たちは捕らえた逃亡者を城壁沿いに数百人十字架に架けて見せしめにした。今、神殿の丘への鍵であるアントニア要塞をどう攻略するか決断しなければならない。急峻な壁を直接攻撃すれば大きな犠牲を伴うが、工兵たちはその基礎に対して巨大な攻城斜路を建設している。",
+    "zh-CN": "围城开始已过两月，你已将守军逼退到内部防御工事之后。第三城墙和第二城墙均已陷落。你现在控制着新城和大部分下城，但守军在两个据点集结：吉斯卡拉的约翰率领狂热分子据守圣殿山和安东尼亚要塞，而西蒙·巴尔·吉奥拉以更大的兵力控制着上城和希律王宫。在这些阵地之间，古老的第一城墙仍然屹立不倒。你下令修建环城围墙——一道全长五英里的连续屏障包围整个耶路撒冷——彻底封锁城市，以饥饿迫使守军屈服。工兵们在令人惊叹的三天内完工，如今什么都无法进出城市。效果已经是毁灭性的。饥荒以可怕的速度席卷了平民。约瑟夫斯报告了难以言表的恐怖景象——家庭为残羹争斗、死者堆积在街道上、绝望的人试图逃跑却被你的巡逻队和杀死任何试图投降者的狂热分子夹在中间。你的士兵已将数百名被捕的逃亡者钉在城墙沿线的十字架上以儆效尤。现在你必须决定如何攻克安东尼亚要塞——打开圣殿山的关键。沿其陡峭的城墙直接强攻代价高昂，但你的工兵一直在其地基处修建巨大的攻城坡道。"
+  },
+  "situationReport": [
+    {
+      "en": "The circumvallation wall is complete — Jerusalem is totally sealed and famine is ravaging the trapped population",
+      "ja": "包囲壁が完成——エルサレムは完全に封鎖され、閉じ込められた住民を飢饉が襲っている",
+      "zh-CN": "环城围墙已完工——耶路撒冷被彻底封锁，饥荒正在肆虐被困人口"
+    },
+    {
+      "en": "John of Gischala holds the Fortress of Antonia and the Temple Mount with approximately 6,000 zealot fighters",
+      "ja": "ギスカラのヨハネスが約六千人の熱心党兵士とともにアントニア要塞と神殿の丘を保持している",
+      "zh-CN": "吉斯卡拉的约翰率约六千名奋锐党战士据守安东尼亚要塞和圣殿山"
+    },
+    {
+      "en": "Simon bar Giora controls the Upper City and Herod's Palace with roughly 15,000 fighters",
+      "ja": "シモン・バル・ギオラが約一万五千人の戦闘員を率いて上の町とヘロデ宮殿を支配している",
+      "zh-CN": "西蒙·巴尔·吉奥拉率约一万五千名战士控制着上城和希律王宫"
+    },
+    {
+      "en": "Roman siege ramps are nearing completion against the Fortress of Antonia, but the defenders have been conducting fierce sorties to burn them",
+      "ja": "アントニア要塞に対するローマの攻城斜路が完成に近づいているが、防衛者たちはそれを焼くために激しい出撃を行っている",
+      "zh-CN": "罗马攻城坡道即将在安东尼亚要塞完工，但守军一直在猛烈出击试图焚毁坡道"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Capture the Fortress of Antonia to gain a commanding position over the Temple Mount",
+      "ja": "アントニア要塞を占領し、神殿の丘を見下ろす制高権を得る",
+      "zh-CN": "攻占安东尼亚要塞，取得俯瞰圣殿山的制高点"
+    },
+    {
+      "en": "Prevent the defenders from destroying the siege ramps that have taken weeks to construct",
+      "ja": "数週間かけて建設した攻城斜路を防衛者に破壊させない",
+      "zh-CN": "防止守军摧毁耗费数周修建的攻城坡道"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Disease is spreading in the Roman camps from the summer heat and the stench of thousands of unburied dead inside the city",
+      "ja": "夏の暑さと都市内の数千の埋葬されない死体の悪臭から、ローマの陣営に疫病が広がっている",
+      "zh-CN": "夏季酷热和城内数千具未掩埋尸体的恶臭导致疾病在罗马营地蔓延"
+    },
+    {
+      "en": "The Temple Mount's massive stone platform creates a natural fortress that could resist assault even after Antonia falls",
+      "ja": "神殿の丘の巨大な石の台座はアントニア陥落後も攻撃に耐えうる天然の要塞を形成している",
+      "zh-CN": "圣殿山的巨大石砌平台构成天然堡垒，即使安东尼亚陷落后仍能抵御进攻"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Launch a nighttime commando assault on the Fortress of Antonia. Send a picked force of your best soldiers to scale the walls under cover of darkness and seize the fortress before the defenders can react.",
+        "ja": "アントニア要塞に夜間の奇襲攻撃を実行する。暗闇に紛れて精鋭部隊を城壁に登らせ、防衛者が反応する前に要塞を制圧する。",
+        "zh-CN": "对安东尼亚要塞发动夜间突击。派遣精锐士兵趁夜色攀登城墙，在守军反应过来之前夺取要塞。"
+      },
+      "historicalContext": "The historical approach — a small Roman force of twenty-four soldiers scaled the Antonia at night, catching the exhausted and starving garrison off guard. The fortress fell after fierce hand-to-hand combat in its corridors.",
+      "outcomePrompt": {
+        "en": "Under a moonless sky, twenty-four of your bravest legionaries scale the Antonia's walls with grappling hooks while the garrison sleeps. They kill the sentries silently and open a postern gate. A century of soldiers pours in before the alarm is raised. The fighting inside is brutal — room by room, corridor by corridor, in near-total darkness. John of Gischala's zealots fight with the desperation of men who know retreat means death, but the surprise is total. By dawn, the Roman eagle stands atop the Antonia. The fortress is yours, and with it a commanding view down onto the Temple Mount. Your men begin demolishing the Antonia's walls to create a broad ramp down to the Temple courts. Below you, the golden Temple gleams in the morning sun, and thousands of defenders prepare for a last stand around the holiest site in Judaism. Roman losses in the night assault were light — fewer than a hundred dead — and the success electrifies your army. But the hardest decision of the siege now looms: what to do about the Temple itself.",
+        "ja": "月のない夜空の下、二十四人の勇敢な軍団兵が鉤縄を使ってアントニアの城壁を登り、守備隊が眠っている間に侵入する。歩哨を静かに殺し、裏門を開ける。警報が鳴る前に百人隊が殺到する。内部での戦闘は凄惨を極める——部屋から部屋へ、廊下から廊下へ、ほぼ完全な暗闇の中で。ギスカラのヨハネスの熱心党は退却が死を意味することを知る者の絶望で戦うが、奇襲は完全に成功した。夜明けまでにローマの鷲がアントニアの頂上に立つ。要塞は手中にあり、そこから神殿の丘を見下ろす支配的な視界を得た。兵士たちはアントニアの壁を解体し、神殿の中庭へ降りる広い斜路を作り始める。眼下に朝日に輝く黄金の神殿が見え、数千人の防衛者がユダヤ教最聖の地の周囲で最後の抵抗に備えている。夜間攻撃でのローマ側の損害は軽微——百人以下の戦死——であり、この成功が軍全体を奮い立たせる。だが包囲戦で最も難しい決断が迫っている：神殿そのものをどうするかだ。",
+        "zh-CN": "在没有月光的夜空下，二十四名最勇敢的军团士兵用抓钩攀上安东尼亚的城墙，趁守军熟睡之际潜入。他们无声地杀死哨兵并打开了一道暗门。警报响起之前，一个百人队已涌入要塞。里面的战斗异常残酷——逐屋逐廊，在近乎完全的黑暗中进行。吉斯卡拉的约翰的狂热分子以绝望的勇气战斗，深知后退即死亡，但突袭完全出其不意。黎明时分，罗马鹰旗已插上安东尼亚之巅。要塞已在你手中，从此可以俯瞰整个圣殿山。你的士兵开始拆除安东尼亚的城墙，修建通往圣殿庭院的宽阔坡道。脚下，金色圣殿在晨光中熠熠生辉，数千名守军准备在犹太教最神圣的场所做最后的抵抗。夜间突击中罗马的损失很轻——不到一百人阵亡——这一胜利令全军振奋。但围城中最艰难的决定即将到来：如何处置圣殿本身。"
+      },
+      "nextSceneId": "fall-of-jerusalem-70-scene-003",
+      "stateChanges": [
+        { "variable": "siegeProgress", "operation": "add", "value": 25 },
+        { "variable": "romanMorale", "operation": "add", "value": 15 },
+        { "variable": "civilianCasualties", "operation": "add", "value": 10 },
+        { "variable": "templeIntegrity", "operation": "add", "value": -10 },
+        { "variable": "politicalStanding", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Use the completed siege ramps to bring battering rams against the Antonia's foundations. Methodically demolish the fortress with overwhelming force while keeping your main army safely behind the rams' protective screens.",
+        "ja": "完成した攻城斜路を使って破城槌をアントニアの基礎に据える。攻城槌の防護壁の背後に主力を安全に保ちながら、圧倒的な力で要塞を計画的に破壊する。",
+        "zh-CN": "利用已完工的攻城坡道将攻城锤推至安东尼亚的地基处。在攻城锤的防护屏障后方保持主力安全的同时，以压倒性力量有条不紊地摧毁要塞。"
+      },
+      "historicalContext": "An alternative approach — using conventional siege tactics against the Antonia would have been safer but slower, giving the defenders more time to prepare the Temple Mount's defenses and potentially allowing relief or negotiation.",
+      "outcomePrompt": {
+        "en": "You order the rams forward along the completed siege ramps. For days, the great machines pound the Antonia's walls while John of Gischala's men hurl fire, stones, and boiling oil down on the siege engines. Your legionaries protect the rams with wicker screens and water-soaked hides, but casualties mount steadily from the desperate sorties the defenders launch. After ten days, a section of the Antonia's wall gives way with a tremendous crash, but the defenders have built a second wall behind it. It takes another week of grinding combat to clear the fortress entirely. The prolonged battle gives Simon bar Giora time to coordinate with John for the first time, and together they have fortified the Temple courts into a formidable killing ground. The defenders have stockpiled every weapon and stone they can find behind the Temple's massive walls. Your soldiers are frustrated by the slow progress and the mounting casualties. The Temple awaits, bristling with defenders who have had weeks to prepare.",
+        "ja": "完成した攻城斜路に沿って破城槌を前進させる。何日にもわたり巨大な攻城機がアントニアの壁を打ちのめし、ギスカラのヨハネスの配下が火、石、煮えたぎった油を攻城兵器に浴びせる。軍団兵が柳の盾と水に浸した皮革で破城槌を守るが、防衛者が仕掛ける必死の出撃により死傷者は着実に増加する。十日後、アントニアの壁の一部が轟音とともに崩壊するが、防衛者たちはその背後に第二の壁を築いていた。要塞を完全に制圧するのにさらに一週間の消耗戦を要する。長引く戦闘はシモン・バル・ギオラがヨハネスと初めて連携する時間を与え、両者は共同で神殿の中庭を恐ろしい殺戮の場に要塞化した。防衛者たちは神殿の巨大な壁の背後にあらゆる武器と石を備蓄した。兵士たちは遅い進展と増大する死傷者に苛立っている。数週間の準備を経た防衛者で溢れる神殿が待ち構えている。",
+        "zh-CN": "你下令沿已完工的攻城坡道推进攻城锤。连日来，巨型攻城器械猛击安东尼亚的城墙，吉斯卡拉的约翰的手下向攻城器械倾倒火焰、石块和沸油。你的军团士兵用柳条屏障和浸水兽皮保护攻城锤，但守军发动的拼死出击使伤亡持续攀升。十天后，安东尼亚城墙的一段轰然坍塌，但守军已在其后修建了第二道墙。又经过一周的残酷消耗战才彻底清除要塞。漫长的战斗给了西蒙·巴尔·吉奥拉与约翰首次协调的时间，他们合力将圣殿庭院加固为可怕的杀伤地带。守军在圣殿厚重的城墙后囤积了一切能找到的武器和石块。你的士兵对缓慢的进展和不断增加的伤亡感到沮丧。圣殿在前方等候，守军经过数周准备严阵以待。"
+      },
+      "nextSceneId": "fall-of-jerusalem-70-scene-003",
+      "stateChanges": [
+        { "variable": "siegeProgress", "operation": "add", "value": 15 },
+        { "variable": "romanMorale", "operation": "add", "value": -5 },
+        { "variable": "civilianCasualties", "operation": "add", "value": 15 },
+        { "variable": "templeIntegrity", "operation": "add", "value": -5 },
+        { "variable": "politicalStanding", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

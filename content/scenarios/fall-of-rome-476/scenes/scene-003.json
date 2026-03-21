@@ -1,0 +1,123 @@
+{
+  "id": "fall-of-rome-476-scene-003",
+  "scenarioId": "fall-of-rome-476",
+  "date": {
+    "en": "September 476 AD",
+    "ja": "西暦476年9月",
+    "zh-CN": "公元476年9月"
+  },
+  "location": {
+    "en": "Ravenna, Italy",
+    "ja": "イタリア、ラヴェンナ",
+    "zh-CN": "意大利，拉文纳"
+  },
+  "isTerminal": true,
+  "title": {
+    "en": "The Imperial Regalia",
+    "ja": "帝国の証",
+    "zh-CN": "帝国徽章"
+  },
+  "narrativePrompt": {
+    "en": "Ravenna, one week after the deposition of Romulus Augustulus. You have established control over Italy's major cities. The Roman Senate has sent a delegation — elderly men in formal togas, adjusting carefully to the new reality — to negotiate the terms of coexistence. They are not your enemies; they are survivors.\n\nYou are Odoacer, King of Italy. Now comes the most symbolically charged decision of your new rule: what to do with the imperial regalia of the Western Roman Empire. The purple robes, the imperial diadem, the orb, the other ceremonial objects that have passed from emperor to emperor since Augustus — they are here in Ravenna, packed in their chests, waiting.\n\nYour advisors are divided. Some say send the regalia to Constantinople with a formal letter acknowledging Zeno as the sole emperor — a diplomatic gesture that legitimizes your rule under Eastern sovereignty while dissolving the pretense of a separate Western empire. Others argue for keeping the regalia in Ravenna as symbols of Italian sovereignty, to be used or displayed as the political situation demands.\n\nThe regalia are more than objects. They are the material claim to continuity with Rome itself — with eight centuries of the republic and empire, with Julius Caesar and Augustus, with the concept of Roman order and civilization. What you do with them tells the world what you think the Western Roman Empire was, and what you think Italy should be going forward.",
+    "ja": "ロムルス・アウグストゥルスの廃位から一週間後のラヴェンナ。あなたはイタリアの主要都市の制御を確立した。ローマ元老院は代表団を送った――新しい現実に慎重に適応している、正式なトーガをまとった老人たち――共存の条件を交渉するために。彼らはあなたの敵ではない。彼らは生存者だ。\n\nあなたはイタリアの王オドアケルだ。今、あなたの新しい統治の中で最も象徴的に重大な決断が来る：西ローマ帝国の帝国の証をどうするか。紫の衣服、帝国の冠、玉、アウグストゥス以来皇帝から皇帝へと受け継がれてきた他の儀式的な物品――それらはラヴェンナに、箱に収められ、待っている。\n\nあなたの顧問たちは分かれている。一部は、ゼノンを唯一の皇帝として認める正式な書簡とともに聖具をコンスタンティノープルに送るよう言う――東ローマ主権のもとであなたの統治を正当化しながら別個の西ローマ帝国の見せかけを解消する外交的ジェスチャー。他の人々はラヴェンナに聖具を保持するよう主張する。イタリアの主権のシンボルとして、政治状況の要求に応じて使用または展示されるために。\n\n聖具は単なる物品以上のものだ。それらはローマ自体との継続性への物質的主張だ――共和国と帝国の8世紀と、ユリウス・カエサルとアウグストゥスと、ローマの秩序と文明という概念との。あなたがそれらをどうするかは、世界にあなたが西ローマ帝国とは何であったと思うか、そしてイタリアが今後どうあるべきかと思うかを告げる。",
+    "zh-CN": "废黜罗慕路斯·奥古斯图鲁斯一周后的拉文纳。你已经建立了对意大利主要城市的控制。罗马元老院派出了一个代表团——穿着正式托加袍、小心翼翼地适应新现实的老人们——来谈判共存条件。他们不是你的敌人；他们是幸存者。\n\n你是意大利国王奥多亚克。现在来到了你新统治中象征性最为重大的决定：如何处理西罗马帝国的帝国徽章。紫袍、帝国皇冠、权杖球、自奥古斯都以来从一位皇帝传递到另一位皇帝的其他礼仪物品——它们在拉文纳，装在箱子里，等待着。\n\n你的顾问们意见分歧。一些人说将徽章连同一封正式承认芝诺为唯一皇帝的信件一起送往君士坦丁堡——这是一个外交姿态，在东罗马主权下使你的统治合法化，同时消除独立西罗马帝国的假象。其他人主张将徽章保留在拉文纳，作为意大利主权的象征，根据政治形势的需要使用或展示。\n\n这些徽章不仅仅是物品。它们是与罗马本身的连续性的物质主张——与共和国和帝国八个世纪，与尤利乌斯·凯撒和奥古斯都，与罗马秩序和文明概念的连续性。你如何处理它们向世界表明你认为西罗马帝国是什么，以及你认为意大利未来应该是什么。"
+  },
+  "situationReport": [
+    {
+      "en": "Emperor Zeno of Constantinople is watching carefully. He does not want a powerful independent Italy on his western border, but he needs stability in the West to focus on his own problems with the Persians and the Danube frontier.",
+      "ja": "コンスタンティノープルのゼノン皇帝は注意深く見守っている。彼は西の国境に強力な独立したイタリアを望まないが、ペルシャやドナウ国境との自らの問題に集中するために西での安定を必要としている。",
+      "zh-CN": "君士坦丁堡皇帝芝诺正在仔细观察。他不想在他的西部边境上有一个强大的独立意大利，但他需要西方的稳定，以专注于他自己与波斯人和多瑙河边境的问题。"
+    },
+    {
+      "en": "The Roman Senate is functional and expects to continue its traditional advisory role. These men are survivors of centuries of institutional adaptation — they will work with whoever holds power, but they need to understand what that power represents.",
+      "ja": "ローマ元老院は機能しており、伝統的な諮問役割を継続することを期待している。これらの人々は数世紀にわたる制度的適応の生存者だ――彼らは権力を持つ人と協力するが、その権力が何を表すかを理解する必要がある。",
+      "zh-CN": "罗马元老院运作正常，期望继续其传统的顾问角色。这些人是数世纪制度适应的幸存者——他们将与掌权者合作，但他们需要了解这种权力代表什么。"
+    },
+    {
+      "en": "The population of Rome and Italy is divided between those who identify primarily as Roman and those who are Germanic foederati or their descendants. The regalia decision signals which group you are building your legitimacy around.",
+      "ja": "ローマとイタリアの人口は、主にローマ人と自認する人々とゲルマン系フォイデラーティやその子孫の間で分かれている。帝国の証の決断は、あなたがどのグループを中心に正統性を構築しているかを示す。",
+      "zh-CN": "罗马和意大利的人口分为主要认同为罗马人的人和日耳曼联合军或其后代的人。徽章决定表明了你在哪个群体周围建立合法性。"
+    },
+    {
+      "en": "The Western imperial title itself — there has been no emperor of the West since Romulus was deposed. Whoever formally controls the regalia controls the symbolism of whether the Western Empire continues, in theory, or is dissolved.",
+      "ja": "西ローマ皇帝の称号自体――ロムルスが廃位されて以来、西の皇帝はいない。帝国の証を正式に支配する者が、西ローマ帝国が理論上継続するかどうか、あるいは解体されるかの象徴を支配する。",
+      "zh-CN": "西罗马皇帝头衔本身——自罗慕路斯被废黜以来，西方没有皇帝。正式控制徽章的人控制着西罗马帝国是否在理论上继续存在还是被解散的象征意义。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Resolve the symbolic and diplomatic question of the Western imperial regalia in a way that strengthens your rule over Italy.",
+      "ja": "西ローマ帝国の帝国の証という象徴的・外交的問題を、イタリアに対するあなたの統治を強化する方法で解決する。",
+      "zh-CN": "以加强你对意大利统治的方式解决西罗马帝国徽章的象征性和外交性问题。"
+    },
+    {
+      "en": "Establish the political and cultural foundation for your kingship in a way that is stable enough to survive the long-term pressures from Constantinople and other Germanic kingdoms.",
+      "ja": "コンスタンティノープルや他のゲルマン王国からの長期的な圧力に耐えるほど安定した形であなたの王権のための政治的・文化的基盤を確立する。",
+      "zh-CN": "以足够稳定的方式建立你王权的政治和文化基础，以承受来自君士坦丁堡和其他日耳曼王国的长期压力。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You cannot claim to be Roman Emperor yourself — you have already communicated that you will rule as King, and any attempt to take the imperial title would immediately provoke Constantinople.",
+      "ja": "あなた自身がローマ皇帝を名乗ることはできない――あなたはすでに王として統治することを伝えており、帝国の称号を取ろうとするいかなる試みもすぐにコンスタンティノープルを挑発する。",
+      "zh-CN": "你不能自称罗马皇帝——你已经表明你将以国王身份统治，任何夺取帝国头衔的尝试都会立即激怒君士坦丁堡。"
+    },
+    {
+      "en": "Your legitimacy rests on a combination of military fact and political acceptance. The Roman senatorial class can make your administration function smoothly or they can obstruct you at every turn. Their cooperation requires some respect for Roman institutional identity.",
+      "ja": "あなたの正統性は軍事的現実と政治的受け入れの組み合わせに基づいている。ローマの元老院階級はあなたの行政をスムーズに機能させることもできるし、あらゆる場面であなたを妨害することもできる。彼らの協力にはローマの制度的アイデンティティへの何らかの尊重が必要だ。",
+      "zh-CN": "你的合法性依赖于军事事实和政治接受的结合。罗马元老院阶级可以使你的行政顺利运作，也可以在每一步都阻碍你。他们的合作需要对罗马制度认同的某种尊重。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Send the regalia to Constantinople — formally dissolve the Western Empire",
+        "ja": "帝国の証をコンスタンティノープルへ送る――西ローマ帝国を正式に解体する",
+        "zh-CN": "将徽章送往君士坦丁堡——正式解体西罗马帝国"
+      },
+      "description": {
+        "en": "Send a formal embassy to Constantinople bearing the imperial regalia, along with a letter acknowledging Zeno as the sole Roman emperor and requesting the title of Patrician and the right to rule Italy as his representative. Formally end the Western Empire. Obtain Roman legitimacy from the Eastern source of it.",
+        "ja": "西ローマ皇帝の帝国の証を持つ正式な使節団をコンスタンティノープルに送り、ゼノンを唯一のローマ皇帝として認める書簡とともに、パトリキウスの称号と彼の代理としてイタリアを統治する権利を要請する。西ローマ帝国を正式に終了する。東の源泉からローマの正統性を得る。",
+        "zh-CN": "派遣正式使节团前往君士坦丁堡，携带帝国徽章，并附上一封承认芝诺为唯一罗马皇帝并请求patrician头衔及作为其代表统治意大利权利的信件。正式结束西罗马帝国。从东方的源头获得罗马合法性。"
+      },
+      "historicalContext": "This is the historical choice Odoacer made. He sent the Western imperial regalia to Emperor Zeno in Constantinople, along with a formal letter from the Roman Senate acknowledging that the world needed only one emperor. Zeno eventually responded by granting Odoacer the title of Patrician and recognizing his rule — though Zeno also never formally abolished the Western imperial office, leaving its status ambiguous. This ambiguity later allowed Theodoric to claim he was restoring Roman order when he invaded Italy.",
+      "outcomePrompt": {
+        "en": "The embassy departs for Constantinople. The regalia — diadem, robes, orb — travel east in their chests, returning to the source of Roman imperial legitimacy. With them goes a letter from the Roman Senate, your greatest diplomatic achievement: the Senate itself asks Zeno to recognize one empire, one emperor.\n\nZeno's response takes months. When it comes, it is characteristically Byzantine — ambiguous, layered, useful to multiple parties. He grants you the title of Patrician, the highest rank a non-emperor could hold. He does not formally abolish the Western imperial office. He recognizes your rule as his representative.\n\nThis ambiguity is a gift and a problem. It gives you Roman legitimacy — the Senate cooperates, the cities adapt, the church continues its work. It allows you to govern effectively, preserving Roman law and administration while integrating your Herulian and foederati allies into positions of power.\n\nBut the ambiguity also gives Zeno, and after him Anastasius, the option of inviting a challenger whenever you become inconvenient. In 488, Zeno does exactly that — sending Theodoric the Ostrogoth with the promise of Italy as his reward. Theodoric defeats and kills you in 493.\n\nYou ruled Italy well for seventeen years. The transition you managed was, by the standards of the age, remarkably humane and stable. Rome did not end in a day.",
+        "ja": "使節団はコンスタンティノープルへ向かう。帝国の証――冠、衣服、玉――は箱に入って東へ旅し、ローマ皇帝の正統性の源泉に戻る。一緒に行くのはローマ元老院からの書簡で、あなたの最大の外交的成果だ：元老院自身がゼノンに一つの帝国、一人の皇帝を認めるよう求める。\n\nゼノンの返答には数ヶ月かかる。それが来る時、それは典型的にビザンチン的だ――曖昧で、複層的で、複数の当事者に有益。彼はあなたにパトリキウスの称号を与える。皇帝以外の者が持てる最高位。彼は西ローマ皇帝の職を正式に廃止しない。彼はあなたの統治を彼の代理として認める。\n\nこの曖昧さは贈り物であり問題でもある。それはあなたにローマの正統性を与える――元老院は協力し、都市は適応し、教会はその仕事を続ける。ローマの法律と行政を維持しながら、ヘルリ族とフォイデラーティの同盟者を権力の地位に統合することで効果的に統治することができる。\n\nしかしこの曖昧さはまた、ゼノンと彼の後継者アナスタシウスに、あなたが不都合になった時にいつでも挑戦者を招く選択肢を与える。488年、ゼノンはまさにそれをする――テオドリックに報酬としてイタリアを約束して東ゴート族を送る。テオドリックは493年にあなたを打ち負かし殺す。\n\nあなたは17年間イタリアをよく統治した。あなたが管理した移行は、その時代の基準からすると、著しく人道的で安定していた。ローマは一日で終わらなかった。",
+        "zh-CN": "使节团出发前往君士坦丁堡。徽章——皇冠、袍服、权杖球——装在箱子里向东旅行，返回罗马帝国合法性的源头。随行的是罗马元老院的一封信，你最大的外交成就：元老院本身请求芝诺承认一个帝国，一位皇帝。\n\n芝诺的回复需要几个月。当它来临时，它是典型的拜占庭式的——模糊、多层、对多方有用。他给你patrician头衔，非皇帝所能拥有的最高级别。他没有正式废除西罗马皇帝职务。他承认你的统治是他的代表。\n\n这种模糊性是礼物也是问题。它给了你罗马合法性——元老院合作，城市适应，教会继续工作。它使你能够有效治理，保留罗马法律和行政，同时将赫鲁利族和联合军盟友整合进权力职位。\n\n但这种模糊性也给了芝诺，以及之后的阿纳斯塔修斯，当你变得不方便时随时邀请挑战者的选择。488年，芝诺就是这样做的——承诺以意大利为奖励，派遣东哥特人狄奥多里克。狄奥多里克在493年击败并杀死了你。\n\n你很好地统治了意大利十七年。你管理的过渡，以那个时代的标准来看，是非常人道且稳定的。罗马没有在一天内结束。"
+      },
+      "stateChanges": [
+        { "variable": "easternRelations", "operation": "set", "value": "legitimized" },
+        { "variable": "romanContinuity", "operation": "set", "value": "dissolved" },
+        { "variable": "odoacerLegitimacy", "operation": "add", "value": 25 }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Keep the regalia in Italy — maintain the symbolic option of Western continuity",
+        "ja": "帝国の証をイタリアに保持する――西ローマの継続性の象徴的選択肢を維持する",
+        "zh-CN": "将徽章留在意大利——维持西方连续性的象征性选择"
+      },
+      "description": {
+        "en": "Retain the imperial regalia in Ravenna. Send a respectful but firm message to Constantinople that Italy will remain in good order, that Roman institutions will be respected, but that the objects of imperial authority are an Italian matter. Position yourself as a guardian of Roman tradition, not a supplicant seeking Byzantine permission.",
+        "ja": "帝国の証をラヴェンナに保持する。コンスタンティノープルに、イタリアは秩序正しく維持されること、ローマの制度は尊重されること、しかし皇帝権威の物品はイタリアの問題であるという敬意を持ちながらも断固としたメッセージを送る。ビザンツの許可を求める嘆願者ではなく、ローマの伝統の守護者として自分を位置づける。",
+        "zh-CN": "将帝国徽章保留在拉文纳。向君士坦丁堡发送一条尊重但坚定的信息：意大利将保持良好秩序，罗马制度将受到尊重，但皇帝权威的物品是意大利的事务。将自己定位为罗马传统的守护者，而不是寻求拜占庭许可的请愿者。"
+      },
+      "historicalContext": "This is the counterfactual. Odoacer chose to send the regalia to Constantinople, which was widely seen as a masterful diplomatic stroke — it acknowledged Eastern supremacy while securing recognition for his own rule. Keeping the regalia would have been a more assertive declaration of Italian independence but might have provoked a stronger response from Constantinople and complicated relations with the Roman senatorial class, who expected Italy to remain within the Roman legal and symbolic framework.",
+      "outcomePrompt": {
+        "en": "You keep the regalia. The message to Constantinople is polite but clear: Italy is in capable hands, the regalia remain where they belong, and Odoacer governs not as anyone's representative but as the legitimate king of a peaceful and well-ordered land.\n\nZeno's reaction is cold. He does not formally oppose you — he has enough problems already — but he also does not grant you the recognition you might have hoped for. The title of Patrician goes unreceived. You rule Italy without formal Eastern legitimacy, relying entirely on military fact and the cooperation of local Roman institutions.\n\nThe Roman Senate is ambivalent. Some senators appreciate your assertion of Italian independence; others worry that without Eastern recognition, your rule lacks the legal foundation that Roman law requires. The administration functions, but with less senatorial enthusiasm than it might have had.\n\nFor years the arrangement works. But without the diplomatic signal that sending the regalia would have provided, Zeno remains hostile in ways that have consequences. When Theodoric approaches Constantinople in 488 seeking a kingdom, Zeno has fewer reasons to restrain him. Italy, with its ambiguous status and its king who kept the imperial objects, looks like a problem to be solved.\n\nThree years of difficult war follow Theodoric's invasion. You fight brilliantly but are finally betrayed and killed at a banquet in 493. The regalia pass to Theodoric.",
+        "ja": "あなたは帝国の証を保持する。コンスタンティノープルへのメッセージは丁寧だが明確だ：イタリアは有能な手に委ねられており、帝国の証は属すべき場所に残り、オドアケルは誰かの代理としてではなく、平和で秩序ある土地の正当な王として統治する。\n\nゼノンの反応は冷淡だ。彼はあなたに正式に反対しない――彼にはすでに十分な問題がある――しかし彼はあなたが望んでいたであろう承認も与えない。パトリキウスの称号は受け取られない。あなたは正式な東ローマの正統性なしにイタリアを統治し、軍事的現実と地元のローマの制度の協力に完全に依存する。\n\nローマ元老院は複雑な気持ちだ。一部の元老院議員はあなたのイタリアの独立の主張を評価するが、他の人々は東ローマの承認なしにあなたの統治がローマ法が要求する法的基盤を欠くことを心配する。行政は機能するが、あり得た元老院の熱意より少ない。\n\n何年もの間この取り決めは機能する。しかし帝国の証を送ることが提供したであろう外交的シグナルなしに、ゼノンは結果をもたらす形で敵対的なままだ。488年にテオドリックが王国を求めてコンスタンティノープルに近づく時、ゼノンは彼を抑制する理由が少ない。曖昧な地位を持ち、帝国の物品を保持した王のいるイタリアは、解決すべき問題のように見える。\n\nテオドリックの侵攻に続く3年間の困難な戦争が起こる。あなたは見事に戦うが、最終的に493年の宴会で裏切られ殺される。帝国の証はテオドリックに渡る。",
+        "zh-CN": "你保留了徽章。给君士坦丁堡的信息彬彬有礼但清晰：意大利在能干的手中，徽章留在它们所属的地方，奥多亚克不是作为任何人的代表而是作为和平有序土地的合法国王进行统治。\n\n芝诺的反应是冷淡的。他没有正式反对你——他已经有足够多的问题——但他也没有给予你可能希望的承认。Patrician头衔未被授予。你在没有正式东罗马合法性的情况下统治意大利，完全依赖军事事实和当地罗马制度的合作。\n\n罗马元老院态度矛盾。一些元老院议员欣赏你对意大利独立的主张；其他人担心没有东罗马的承认，你的统治缺乏罗马法所要求的法律基础。行政运作，但元老院热情不如本可以有的高。\n\n多年来这种安排运作。但没有送出徽章本可提供的外交信号，芝诺以有后果的方式保持敌意。当狄奥多里克在488年寻求王国接近君士坦丁堡时，芝诺约束他的理由更少。意大利，以其模糊的地位和保留帝国物品的国王，看起来像是一个需要解决的问题。\n\n狄奥多里克入侵后是三年艰难的战争。你英勇作战，但最终在493年的一场宴会上被背叛杀死。徽章传给了狄奥多里克。"
+      },
+      "stateChanges": [
+        { "variable": "easternRelations", "operation": "set", "value": "strained" },
+        { "variable": "romanContinuity", "operation": "set", "value": "ambiguous" },
+        { "variable": "odoacerLegitimacy", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

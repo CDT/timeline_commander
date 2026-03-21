@@ -1,0 +1,123 @@
+{
+  "id": "spartacus-revolt-73bc-scene-001",
+  "scenarioId": "spartacus-revolt-73bc",
+  "isTerminal": false,
+  "date": {
+    "en": "72 BC — The Alps in Sight",
+    "ja": "紀元前72年 — アルプスが見える",
+    "zh-CN": "公元前72年——阿尔卑斯山在望"
+  },
+  "location": {
+    "en": "Po Valley, Northern Italy",
+    "ja": "イタリア北部、ポー川流域",
+    "zh-CN": "意大利北部，波河流域"
+  },
+  "title": {
+    "en": "The Decision at the Alps",
+    "ja": "アルプスでの決断",
+    "zh-CN": "阿尔卑斯山前的抉择"
+  },
+  "narrativePrompt": {
+    "en": "The Alps rise before you. Beyond them: Gaul, Thrace, freedom. Your army of 70,000 freed slaves has defeated every Roman force sent against it. Two consular armies broken. The Senate is in panic. You have done the impossible. But your men are divided. The Gauls — Crixus's faction — want to stay in Italy and continue raiding. They have families who cannot make an alpine crossing. Your own Thracians want to go home. And a third faction simply wants to sack Rome itself. You must choose: lead north through the mountains, or turn south toward Rome.",
+    "ja": "アルプスがあなたの前にそびえる。その先：ガリア、トラキア、自由。70,000人の解放された奴隷のあなたの軍は、ローマが送ってきたすべての軍を打ち負かした。二つの執政官軍が壊滅した。元老院はパニックに陥っている。あなたは不可能を成し遂げた。しかし部下たちは分断されている。ガリア人——クリクスス派——はイタリアに留まって略奪を続けたがっている。彼らにはアルプス越えができない家族がいる。あなた自身のトラキア人は故郷に帰りたがっている。そして第三派はローマ自体を略奪したがっているだけだ。選択しなければならない：山を越えて北へ率いるか、ローマに向けて南へ向かうか。",
+    "zh-CN": "阿尔卑斯山在你面前耸立。其后：高卢、色雷斯、自由。你的70,000名自由奴隶军队已击败所有派来对抗它的罗马军队。两支执政官军队溃败。元老院陷入恐慌。你做到了不可能的事。但你的手下分裂了。高卢人——克里克苏斯派系——想留在意大利继续掠夺。他们有无法翻越阿尔卑斯山的家人。你自己的色雷斯人想回家。第三派只是想劫掠罗马本身。你必须选择：率军越山向北，还是转向南方朝罗马进军。"
+  },
+  "situationReport": [
+    {
+      "en": "Your army of 70,000 is the largest rebel force in Roman history. But it is not an army — it is a coalition of freed slaves with different languages, homelands, and goals.",
+      "ja": "70,000人のあなたの軍はローマ史上最大の反乱軍だ。しかしそれは軍隊ではない——異なる言語、故郷、目標を持つ解放された奴隷の連合だ。",
+      "zh-CN": "你的70,000人军队是罗马历史上最大的叛军。但它不是一支军队——而是拥有不同语言、家乡和目标的自由奴隶联盟。"
+    },
+    {
+      "en": "Crixus commands approximately 30,000 Gauls and Germans who refuse to cross the Alps. Forcing them risks splitting the army.",
+      "ja": "クリクススはアルプスを越えることを拒否する約30,000人のガリア人とゲルマン人を指揮している。彼らに強制することは軍を分裂させるリスクがある。",
+      "zh-CN": "克里克苏斯指挥着约30,000名拒绝越过阿尔卑斯山的高卢人和日耳曼人。强迫他们有分裂军队的风险。"
+    },
+    {
+      "en": "Rome has not yet committed its best generals. Crassus and Pompey are occupied elsewhere. The consular armies you destroyed were not Rome's finest.",
+      "ja": "ローマはまだ最高の将軍を投入していない。クラッサスとポンペイウスは他の場所で忙しい。あなたが壊滅させた執政官軍はローマの最精鋭ではなかった。",
+      "zh-CN": "罗马尚未投入其最精锐的将领。克拉苏和庞培正在别处忙碌。你所摧毁的执政官军队并非罗马最精锐的。"
+    },
+    {
+      "en": "The alpine passes are open now — autumn will close them. If you do not cross this season, you wait until spring — giving Rome six months to rebuild.",
+      "ja": "アルプスの峠は今開いている——秋になると閉じる。今季越えないなら、春まで待つ——ローマに再建のための六ヶ月を与えることになる。",
+      "zh-CN": "阿尔卑斯山的山口现在是开放的——秋天会关闭它们。如果你这个季节不越山，就要等到春天——给罗马六个月的时间重建。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Lead your people to freedom — whatever that means to each faction",
+      "ja": "あなたの民を自由へと導く——それが各派にとって何を意味していても",
+      "zh-CN": "引领你的人民走向自由——无论那对每个派系意味着什么"
+    },
+    {
+      "en": "Keep the army united long enough to survive Rome's eventual response",
+      "ja": "ローマの最終的な反応を生き延びるために十分に長く軍の統一を維持する",
+      "zh-CN": "保持军队团结足够长的时间，以应对罗马最终的回应"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You cannot force Crixus — he commands 30,000 men with weapons, and his loyalty is not guaranteed",
+      "ja": "クリクススに強制することはできない——彼は武器を持つ30,000人の兵士を指揮しており、彼の忠誠心は保証されていない",
+      "zh-CN": "你不能强迫克里克苏斯——他指挥着3万名持有武器的士兵，他的忠诚无法保证"
+    },
+    {
+      "en": "Rome lies south — going north removes your army from the only place it has leverage over Roman decision-making",
+      "ja": "ローマは南にある——北に向かうことは、あなたの軍をローマの意思決定に影響力を持つ唯一の場所から遠ざける",
+      "zh-CN": "罗马在南方——向北走使你的军队远离它对罗马决策唯一有影响力的地方"
+    }
+  ],
+  "choices": [
+    {
+      "id": "cross-the-alps",
+      "label": {
+        "en": "Lead north: cross the Alps and freedom is within reach",
+        "ja": "北へ率いる：アルプスを越えれば自由が手の届くところにある",
+        "zh-CN": "率军北上：越过阿尔卑斯山，自由触手可及"
+      },
+      "description": {
+        "en": "The goal was always freedom, not vengeance. Cross now with whoever will follow. Crixus can come or stay — his choice. The Thracians, Germans, and others who want to go home will follow you through the passes. Once out of Italy, Rome has no legal claim on you.",
+        "ja": "目標は常に自由であって、復讐ではなかった。ついてくる者と共に今すぐ越える。クリクススは来るか留まるか——彼の選択だ。故郷に帰りたいトラキア人、ゲルマン人、その他の者たちは峠を越えてついてくるだろう。イタリアを出れば、ローマにはあなたへの法的主張がない。",
+        "zh-CN": "目标一直是自由，而非复仇。现在就带着愿意跟随的人越山。克里克苏斯可以来或留下——是他的选择。想要回家的色雷斯人、日耳曼人和其他人将跟随你穿越山口。一旦出了意大利，罗马对你就没有法律主张。"
+      },
+      "historicalContext": "This is the historically contested counterfactual. Ancient sources disagree on what Spartacus intended. Some (Plutarch) say he did try to lead north but his men refused; others suggest he chose to turn south. Modern historians debate whether crossing the Alps was ever his plan. Had his army successfully crossed, the rebellion would likely have ended — the slaves would have dispersed to their various homelands — which might have been the best outcome for the people involved, if not for historical drama.",
+      "outcomePrompt": {
+        "en": "You lead north. Approximately 40,000 men follow — your Thracians and many others who want to go home. Crixus takes his Gauls and turns south to continue raiding. You reach the alpine passes as the first snow falls. The crossing is brutal — men die of cold and altitude. But you emerge into Gaul. Rome does not pursue beyond the mountains. Your army disperses into the native populations, men filtering home to Thrace, Syria, Gaul. You yourself disappear from Roman records — perhaps the best ending a slave rebel could hope for.",
+        "ja": "あなたは北に率いる。約40,000人の男性が続く——あなたのトラキア人と故郷に帰りたい多くの者たち。クリクススはガリア人を連れて南に向かって略奪を続ける。最初の雪が降る中でアルプスの峠に到達する。越山は過酷だ——寒さと高度で人が死ぬ。しかしガリアに出てくる。ローマは山を越えて追撃しない。あなたの軍は現地の人々に散っていく。トラキア、シリア、ガリアに帰郷する者たちがこっそりと去る。あなた自身はローマの記録から消える——奴隷の反乱者が望める最良の結末かもしれない。",
+        "zh-CN": "你率军北上。大约40,000人跟随——你的色雷斯人和许多想回家的人。克里克苏斯带着他的高卢人转向南方继续劫掠。第一场雪落下时你到达阿尔卑斯山口。越山是残酷的——人们死于寒冷和高海拔。但你走出高卢。罗马不追到山外。你的军队散入当地人群中，人们悄悄回到色雷斯、叙利亚、高卢。你自己从罗马记录中消失——也许这是奴隶叛乱者所能期望的最好结局。"
+      },
+      "stateChanges": [
+        { "key": "escapeRouteOpen", "operation": "set", "value": 100 },
+        { "key": "armyUnity", "operation": "add", "value": -20 },
+        { "key": "rebelMorale", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": "spartacus-revolt-73bc-scene-002"
+    },
+    {
+      "id": "turn-south",
+      "label": {
+        "en": "Turn south: the army won't cross — keep them united by marching toward Rome",
+        "ja": "南に向かう：軍はアルプスを越えない——ローマに向けて行軍することで軍を統一する",
+        "zh-CN": "转向南方：军队不会越山——通过向罗马进军保持团结"
+      },
+      "description": {
+        "en": "The Gauls won't cross. The Germans want to fight. Even your Thracians are drunk on victory — they want vengeance, not retreat. Leadership means following where your people can actually go. Turn south. March on Rome. Even if you cannot take the city, the threat will force Rome to negotiate.",
+        "ja": "ガリア人は越えない。ゲルマン人は戦いたがっている。あなたのトラキア人でさえ勝利に酔っている——彼らは復讐を求め、撤退を求めていない。指導力とは民が実際に行ける場所に従うことを意味する。南に向かう。ローマに向けて進軍する。たとえ都市を攻略できなくても、脅威はローマに交渉を強いるだろう。",
+        "zh-CN": "高卢人不会越山。日耳曼人想要战斗。就连你的色雷斯人也沉醉于胜利——他们想要复仇，而非撤退。领导力意味着跟随你的人民实际能去的地方。转向南方。向罗马进军。即使你无法攻取城市，这一威胁也会迫使罗马谈判。"
+      },
+      "historicalContext": "This is what actually happened, though historians debate whether Spartacus chose to turn south or was forced to by his troops. The army turned south, won more battles, and eventually reached the toe of Italy — where it was trapped by Crassus's wall. The decision to turn south, whether or not it was Spartacus's choice, ultimately led to the revolt's defeat.",
+      "outcomePrompt": {
+        "en": "You march south. Your army is 70,000 strong and unstoppable — for now. You defeat two more Roman forces. You march past Rome at a distance; you cannot take the walls but the Senate is barricaded inside, trembling. You continue south into Bruttium, toward Sicily. Your advisors say: there is a sea crossing ahead, and Sicilian slaves who will rise. You have kept your army together. But Rome is already rebuilding. Crassus is coming.",
+        "ja": "あなたは南に進軍する。軍は70,000人の兵力で——今のところ——止められない。さらに二つのローマ軍を打ち負かす。ローマを距離を置いて通り過ぎる。壁は攻略できないが元老院は中に立てこもり、震えている。南のブルッティウムに向けて、シチリア島に向けて進む。側近たちは言う：前方に海の渡りがあり、シチリアの奴隷が蜂起するだろうと。軍を統一した状態を維持した。しかしローマはすでに再建している。クラッサスが来ている。",
+        "zh-CN": "你向南进军。你的军队有70,000人，势不可挡——目前如此。你又击败了两支罗马军队。你从远处经过罗马；你无法攻取城墙，但元老院在里面筑垒，颤抖着。你继续向南进入布鲁提乌姆，朝西西里方向。你的顾问们说：前方有海上通道，西西里的奴隶将会起义。你保持了军队的团结。但罗马已经在重建了。克拉苏来了。"
+      },
+      "stateChanges": [
+        { "key": "armyUnity", "operation": "add", "value": 15 },
+        { "key": "romanPressure", "operation": "add", "value": 20 },
+        { "key": "escapeRouteOpen", "operation": "add", "value": -30 }
+      ],
+      "nextSceneId": "spartacus-revolt-73bc-scene-002"
+    }
+  ]
+}

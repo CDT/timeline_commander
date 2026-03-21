@@ -1,0 +1,91 @@
+{
+  "scenarioId": "salamis-480bc",
+  "timeline": [
+    {
+      "date": "-480-04-01",
+      "description": {
+        "en": "Xerxes' massive invasion force crosses the Hellespont on two pontoon bridges, beginning the march into Europe with an army estimated at over 100,000 troops and a fleet of 800+ warships.",
+        "ja": "クセルクセスの大規模侵攻軍が二つの舟橋でヘレスポントスを渡り、推定10万人以上の軍と800隻以上の軍船でヨーロッパへの進軍を開始する。",
+        "zh-CN": "薛西斯的庞大入侵军通过两座浮桥横渡赫勒斯滂海峡，以超过十万大军和八百多艘战舰开始向欧洲进军。"
+      }
+    },
+    {
+      "date": "-480-08-01",
+      "description": {
+        "en": "The Battle of Thermopylae: King Leonidas and 300 Spartans, along with several thousand allied Greeks, hold the narrow pass for three days before being outflanked and destroyed. The Persian army advances into central Greece.",
+        "ja": "テルモピュライの戦い：レオニダス王と300人のスパルタ兵、および数千人のギリシャ同盟軍が三日間狭い峠を守るが、迂回されて壊滅する。ペルシア軍は中央ギリシャへ進軍する。",
+        "zh-CN": "温泉关之战：列奥尼达斯王和三百斯巴达勇士及数千希腊盟军在狭窄的关口坚守三天后被包抄歼灭。波斯军队进入希腊中部。"
+      }
+    },
+    {
+      "date": "-480-08-15",
+      "description": {
+        "en": "The naval Battle of Artemisium ends inconclusively. The Greek fleet withdraws south after learning of the fall of Thermopylae, having inflicted significant losses on the Persian navy in three days of fighting.",
+        "ja": "アルテミシオンの海戦が決着なく終わる。テルモピュライの陥落を知ったギリシャ艦隊は、三日間の戦闘でペルシア海軍に大きな損害を与えた後、南に撤退する。",
+        "zh-CN": "阿提米松海战无果而终。希腊舰队在得知温泉关失守后南撤，此前三天的战斗中已给波斯海军造成了重大损失。"
+      }
+    },
+    {
+      "date": "-480-09-01",
+      "description": {
+        "en": "Athens is evacuated on Themistocles' orders. The entire civilian population is transported to Salamis, Troezen, and Aegina. The Persians occupy and burn the Acropolis and the city.",
+        "ja": "テミストクレスの命令でアテナイが避難する。全市民がサラミス、トロイゼン、アイギナに輸送される。ペルシア軍がアクロポリスと市街を占領し焼き払う。",
+        "zh-CN": "在地米斯托克利的命令下雅典进行疏散。全部平民被转移到萨拉米斯、特罗曾和埃吉纳。波斯人占领并焚毁了卫城和城市。"
+      }
+    },
+    {
+      "date": "-480-09-20",
+      "description": {
+        "en": "The Greek allied fleet assembles at Salamis with approximately 370 triremes. A heated debate erupts among the commanders over whether to stay and fight or retreat to the Isthmus of Corinth.",
+        "ja": "約370隻の三段櫂船からなるギリシャ同盟艦隊がサラミスに集結する。留まって戦うかコリントス地峡に撤退するかをめぐり、指揮官たちの間で激しい議論が起こる。",
+        "zh-CN": "希腊联合舰队约370艘三列桨战船在萨拉米斯集结。指挥官们就是留下作战还是撤退到科林斯地峡展开激烈辩论。"
+      }
+    },
+    {
+      "date": "-480-09-24",
+      "description": {
+        "en": "Themistocles sends his slave Sicinnus to Xerxes with a secret message claiming the Greek fleet plans to flee, urging the Persians to block both exits of the strait. Xerxes takes the bait and orders his fleet into the narrows overnight.",
+        "ja": "テミストクレスが奴隷シキンノスをクセルクセスに密かに送り、ギリシャ艦隊が逃走を計画していると偽りの伝言を伝え、海峡の両出口を封鎖するよう促す。クセルクセスは罠にかかり、夜の間に艦隊を狭い水路に投入するよう命じる。",
+        "zh-CN": "地米斯托克利派遣奴隶西金努斯秘密向薛西斯传信，谎称希腊舰队计划逃跑，敦促波斯人封锁海峡两端出口。薛西斯上当，命令舰队连夜驶入狭窄水道。"
+      }
+    },
+    {
+      "date": "-480-09-25",
+      "description": {
+        "en": "The Battle of Salamis: at dawn, the Greek fleet emerges from concealment and attacks the Persian fleet trapped in the narrow straits. The larger Persian ships cannot maneuver effectively and collide with each other.",
+        "ja": "サラミスの海戦：夜明けに、ギリシャ艦隊が隠蔽位置から現れ、狭い海峡に閉じ込められたペルシア艦隊を攻撃する。大型のペルシア船は効果的に操船できず互いに衝突する。",
+        "zh-CN": "萨拉米斯海战：黎明时分，希腊舰队从隐蔽处出击，攻击被困在狭窄海峡中的波斯舰队。体型更大的波斯船无法有效机动，相互碰撞。"
+      }
+    },
+    {
+      "date": "-480-10-01",
+      "description": {
+        "en": "Xerxes, shaken by the naval disaster, withdraws the bulk of his army to Asia via the Hellespont, leaving General Mardonius with approximately 30,000 troops to continue the campaign. The threat of total conquest is broken.",
+        "ja": "海戦の惨敗に動揺したクセルクセスは、軍の大部分をヘレスポントスを経由してアジアに撤退させ、マルドニオス将軍に約3万人の軍を残して戦役を継続させる。完全征服の脅威は打ち砕かれた。",
+        "zh-CN": "海战惨败令薛西斯震惊，他将大部分军队经赫勒斯滂海峡撤回亚洲，留下马多尼乌斯将军率约三万部队继续作战。全面征服的威胁被打破。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Battle of Salamis was one of the most decisive naval engagements in history. The Greek fleet destroyed or captured approximately 200-300 Persian warships while losing only about 40 of their own. The Persian fleet, which had been the instrument of Xerxes' power projection across the Aegean, was shattered as a fighting force. Xerxes was forced to retreat with most of his army, fundamentally altering the course of the war.",
+    "ja": "サラミスの海戦は歴史上最も決定的な海戦の一つであった。ギリシャ艦隊は約200～300隻のペルシア軍船を撃破または鹵獲し、自軍の損失はわずか約40隻であった。エーゲ海を越えてクセルクセスの力を投射する手段であったペルシア艦隊は、戦闘力として壊滅した。クセルクセスは軍の大部分と共に撤退を余儀なくされ、戦争の行方を根本的に変えた。",
+    "zh-CN": "萨拉米斯海战是历史上最具决定性的海战之一。希腊舰队击毁或俘获约200至300艘波斯战舰，自身仅损失约40艘。波斯舰队曾是薛西斯跨爱琴海投射力量的工具，作为战斗力量已被彻底摧毁。薛西斯被迫率大部分军队撤退，从根本上改变了战争的进程。"
+  },
+  "casualties": {
+    "en": "Greek losses: approximately 40 triremes sunk. Persian losses: approximately 200-300 triremes sunk or captured, with tens of thousands of sailors and marines killed or drowned. Many Persian crews could not swim and drowned when their ships were rammed and sunk in the confined waters.",
+    "ja": "ギリシャの損失：約40隻の三段櫂船が沈没。ペルシアの損失：約200～300隻の三段櫂船が沈没または鹵獲され、数万人の水兵と海兵が戦死または溺死。多くのペルシアの乗組員は泳げず、狭い海域で船が衝角で撃沈された際に溺死した。",
+    "zh-CN": "希腊损失：约40艘三列桨战船沉没。波斯损失：约200至300艘三列桨战船沉没或被俘，数万名水手和海军陆战队员阵亡或溺亡。许多波斯船员不会游泳，当他们的船在狭窄水域被撞沉时溺水身亡。"
+  },
+  "significance": {
+    "en": "Salamis is widely regarded as one of the most significant battles in human history. By destroying Persian naval supremacy, the Greeks ensured that the invasion could not be sustained logistically. The battle preserved Greek independence, protected the developing democratic institutions of Athens, and set the stage for the classical Greek golden age—the era of Socrates, Plato, Aristotle, Pericles, and the Parthenon. Many historians argue that Western civilization as we know it would not have developed without the Greek victory at Salamis.",
+    "ja": "サラミスは人類の歴史上最も重要な戦いの一つとして広く認められている。ペルシアの海上支配を打ち破ることで、ギリシャ人は侵攻を兵站的に維持できなくした。この海戦はギリシャの独立を守り、発展しつつあったアテナイの民主制度を守り、古典ギリシャの黄金時代——ソクラテス、プラトン、アリストテレス、ペリクレス、パルテノンの時代——への道を開いた。多くの歴史家は、サラミスでのギリシャの勝利がなければ、今日知られる西洋文明は発展しなかっただろうと論じている。",
+    "zh-CN": "萨拉米斯被广泛认为是人类历史上最重要的战役之一。通过摧毁波斯的海上霸权，希腊人确保了入侵在后勤上无法持续。这场海战保全了希腊的独立，保护了雅典正在发展的民主制度，并为古希腊黄金时代——苏格拉底、柏拉图、亚里士多德、伯里克利和帕特农神庙的时代——奠定了基础。许多历史学家认为，没有希腊人在萨拉米斯的胜利，我们所知的西方文明就不会发展起来。"
+  },
+  "furtherReading": [
+    "Herodotus, The Histories (Book VIII)",
+    "Aeschylus, The Persians (472 BC, the earliest surviving Greek play)",
+    "Barry Strauss, The Battle of Salamis (2004)",
+    "Peter Green, The Greco-Persian Wars (1996)",
+    "John R. Hale, Lords of the Sea: The Epic Story of the Athenian Navy (2009)"
+  ]
+}

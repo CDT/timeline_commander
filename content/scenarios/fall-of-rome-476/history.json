@@ -1,0 +1,90 @@
+{
+  "scenarioId": "fall-of-rome-476",
+  "timeline": [
+    {
+      "date": "475-08-28",
+      "description": {
+        "en": "Orestes, the magister militum, deposes Emperor Julius Nepos and forces him to flee to Dalmatia. Orestes installs his teenage son Romulus on the Western throne, but the boy is widely seen as a puppet.",
+        "ja": "軍務長官オレステスが皇帝ユリウス・ネポスを廃位し、ダルマチアに逃亡させる。オレステスは十代の息子ロムルスを西方の帝位に就けるが、少年は広く傀儡と見なされる。",
+        "zh-CN": "军事长官奥瑞斯特斯废黜皇帝尤利乌斯·尼波斯，迫使其逃往达尔马提亚。奥瑞斯特斯将其少年儿子罗慕路斯推上西方皇位，但这个男孩被普遍视为傀儡。"
+      }
+    },
+    {
+      "date": "475-10-31",
+      "description": {
+        "en": "Romulus Augustulus is formally proclaimed Emperor of the Western Roman Empire in Ravenna. Eastern Emperor Zeno refuses to recognize his legitimacy, still considering Julius Nepos the rightful emperor.",
+        "ja": "ロムルス・アウグストゥルスがラヴェンナで西ローマ帝国皇帝として正式に宣言される。東ローマ皇帝ゼノンは彼の正統性を認めず、ユリウス・ネポスを正統な皇帝と見なし続ける。",
+        "zh-CN": "罗慕路斯·奥古斯图卢斯在拉文纳被正式宣布为西罗马帝国皇帝。东罗马皇帝芝诺拒绝承认其合法性，仍然认为尤利乌斯·尼波斯才是合法皇帝。"
+      }
+    },
+    {
+      "date": "476-01-15",
+      "description": {
+        "en": "The barbarian foederati — Heruli, Scirians, and Torcilingi who serve as the core of Rome's Italian army — formally demand one-third of Italian land as permanent settlement. Orestes refuses, believing he can maintain control through political maneuvering.",
+        "ja": "蛮族同盟軍——ローマのイタリア軍の中核を成すヘルリ族、スキリ族、トルキリンギ族——がイタリアの土地の三分の一を永住地として正式に要求する。オレステスは政治的駆け引きで支配を維持できると信じ、拒否する。",
+        "zh-CN": "蛮族联盟军——作为罗马意大利军队核心的赫鲁利人、斯基里人和托尔奇林吉人——正式要求意大利三分之一的土地作为永久定居地。奥瑞斯特斯拒绝了，相信自己能通过政治手腕维持控制。"
+      }
+    },
+    {
+      "date": "476-08-01",
+      "description": {
+        "en": "The foederati revolt under Odoacer, a Germanic chieftain of Scirian or Herulian origin. Odoacer unites the discontented barbarian troops and marches against Orestes. The revolt spreads rapidly through northern Italy.",
+        "ja": "同盟軍がスキリ族またはヘルリ族出身のゲルマン族首長オドアケルの下で反乱を起こす。オドアケルは不満を抱く蛮族兵士を統合し、オレステスに対して進軍する。反乱は北イタリア全域に急速に拡大する。",
+        "zh-CN": "联盟军在斯基里或赫鲁利出身的日耳曼首领奥多亚克领导下起义。奥多亚克联合了不满的蛮族部队，向奥瑞斯特斯进军。叛乱迅速蔓延至整个意大利北部。"
+      }
+    },
+    {
+      "date": "476-08-28",
+      "description": {
+        "en": "Orestes is captured by Odoacer's forces at Placentia (modern Piacenza) and executed. His brother Paulus is killed in battle near Ravenna. The last military defenders of the Western throne are eliminated.",
+        "ja": "オレステスがプラケンティア（現代のピアチェンツァ）でオドアケルの軍に捕らえられ処刑される。弟のパウルスはラヴェンナ近郊の戦闘で戦死する。西方帝位の最後の軍事的防衛者が排除される。",
+        "zh-CN": "奥瑞斯特斯在普拉琴提亚（今皮亚琴察）被奥多亚克的军队俘虏并处决。他的弟弟保卢斯在拉文纳附近的战斗中阵亡。西方皇位最后的军事捍卫者被消灭。"
+      }
+    },
+    {
+      "date": "476-09-04",
+      "description": {
+        "en": "Odoacer enters Ravenna and deposes Romulus Augustulus, stripping him of the imperial title. In an act of unexpected mercy, Odoacer spares the boy's life, grants him a pension of 6,000 solidi per year, and sends him to live in the Castellum Lucullanum near Naples.",
+        "ja": "オドアケルがラヴェンナに入城し、ロムルス・アウグストゥルスを廃位して帝位を剥奪する。予想外の寛大さで、オドアケルは少年の命を助け、年間6,000ソリドゥスの年金を与え、ナポリ近郊のカステッルム・ルクッラヌムに住まわせる。",
+        "zh-CN": "奥多亚克进入拉文纳，废黜罗慕路斯·奥古斯图卢斯，剥夺其帝号。出人意料地，奥多亚克饶了这个男孩的性命，给予他每年6000索里迪的年金，将他送往那不勒斯附近的卢库拉努姆城堡居住。"
+      }
+    },
+    {
+      "date": "476-09-05",
+      "description": {
+        "en": "Odoacer sends the imperial regalia — the diadem and purple robes — to Constantinople, informing Eastern Emperor Zeno that the West no longer needs a separate emperor. Odoacer requests recognition as patrician and governor of Italy under Zeno's nominal authority.",
+        "ja": "オドアケルは帝冠と紫衣の帝国の象徴をコンスタンティノープルに送り、東ローマ皇帝ゼノンに西方はもはや独自の皇帝を必要としないと伝える。オドアケルはゼノンの名目上の権威の下でパトリキウスおよびイタリア統治者としての承認を求める。",
+        "zh-CN": "奥多亚克将帝国徽章——皇冠和紫袍——送往君士坦丁堡，告知东罗马皇帝芝诺西方不再需要单独的皇帝。奥多亚克请求在芝诺名义权威下获得贵族和意大利总督的认可。"
+      }
+    },
+    {
+      "date": "476-09-15",
+      "description": {
+        "en": "Odoacer begins distributing Italian land to his barbarian followers, fulfilling the promise that Orestes had refused. He establishes his capital at Ravenna and begins consolidating his rule as King of Italy, maintaining much of the Roman administrative apparatus.",
+        "ja": "オドアケルは蛮族の従者にイタリアの土地を分配し始め、オレステスが拒否した約束を果たす。ラヴェンナを首都とし、ローマの行政機構の多くを維持しながらイタリア王としての支配を確立し始める。",
+        "zh-CN": "奥多亚克开始向蛮族追随者分配意大利土地，兑现了奥瑞斯特斯所拒绝的承诺。他以拉文纳为首都，在保留大部分罗马行政体系的同时，开始巩固自己作为意大利国王的统治。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Western Roman Empire ended not with a cataclysmic battle but with a quiet deposition. Odoacer's mercy toward Romulus — sparing the boy and granting him a comfortable retirement — reflected how meaningless the Western imperial title had become. The real significance lay in Odoacer's decision to send the regalia to Constantinople rather than installing another puppet emperor, effectively declaring that the Western Empire was no longer a going concern. The Eastern Empire would endure for nearly another thousand years as the Byzantine Empire, but the political unity of the Mediterranean world under Rome was finished forever.",
+    "ja": "西ローマ帝国は大規模な戦闘ではなく、静かな廃位で終わった。ロムルスに対するオドアケルの慈悲——少年を助命し快適な引退生活を与えたこと——は、西方の帝位がいかに無意味になっていたかを反映していた。真の意義は、別の傀儡皇帝を立てるのではなく帝国の象徴をコンスタンティノープルに送るというオドアケルの決断にあった。これは事実上、西方帝国がもはや存続する価値がないと宣言したことになる。東ローマ帝国はビザンツ帝国としてさらに約千年存続するが、ローマの下での地中海世界の政治的統一は永遠に終わった。",
+    "zh-CN": "西罗马帝国的终结不是以一场天崩地裂的战役，而是以一次安静的废黜收场。奥多亚克对罗慕路斯的仁慈——饶了这个男孩的命并给予他舒适的退休生活——反映了西方帝号已变得多么没有意义。真正的重大意义在于奥多亚克决定将帝国徽章送往君士坦丁堡而非另立傀儡皇帝，实际上宣布西罗马帝国不再是一个运转中的实体。东罗马帝国作为拜占庭帝国又延续了近千年，但罗马治下地中海世界的政治统一永远结束了。"
+  },
+  "casualties": {
+    "en": "Casualties were remarkably light for such a world-historical event. Orestes was executed at Placentia and his brother Paulus was killed in a skirmish near Ravenna. A small number of soldiers on both sides perished in minor engagements. Romulus Augustulus was spared entirely. The transition was more of a political coup than a military conquest.",
+    "ja": "このような世界史的事件にしては、犠牲者は驚くほど少なかった。オレステスはプラケンティアで処刑され、弟のパウルスはラヴェンナ近郊の小競り合いで戦死した。両軍のわずかな兵士が小規模な戦闘で命を落とした。ロムルス・アウグストゥルスは完全に助命された。この移行は軍事征服というよりも政治的クーデターであった。",
+    "zh-CN": "对于这样一个具有世界历史意义的事件来说，伤亡人数少得惊人。奥瑞斯特斯在普拉琴提亚被处决，他的弟弟保卢斯在拉文纳附近的小冲突中阵亡。双方少量士兵在小规模交战中丧生。罗慕路斯·奥古斯图卢斯完全被赦免。这次过渡更像是一次政治政变而非军事征服。"
+  },
+  "significance": {
+    "en": "The deposition of Romulus Augustulus in 476 AD is traditionally regarded as the end of the Western Roman Empire and one of the most important dates in world history, conventionally marking the transition from antiquity to the medieval period. While modern historians debate whether this date is more symbolic than substantive — the Western Empire had been declining for decades and the Eastern Empire continued — the event remains a powerful marker of civilizational change. It demonstrated that the Roman political framework in the West had become so hollow that it could be swept away by a minor military revolt with barely any resistance.",
+    "ja": "西暦476年のロムルス・アウグストゥルスの廃位は、伝統的に西ローマ帝国の終焉とされ、世界史上最も重要な日付の一つで、慣例的に古代から中世への移行を示す。現代の歴史家はこの日付が実質よりも象徴的かどうかを議論しているが——西方帝国は数十年衰退しており東方帝国は存続した——この事件は文明の変化の強力な標識であり続けている。西方におけるローマの政治的枠組みがいかに空洞化し、小規模な軍事反乱でほとんど抵抗なく一掃されたかを示した。",
+    "zh-CN": "公元476年罗慕路斯·奥古斯图卢斯的被废传统上被视为西罗马帝国的终结和世界历史上最重要的日期之一，通常标志着从古代到中世纪的过渡。虽然现代历史学家对这一日期是否更具象征意义而非实质意义存有争议——西罗马帝国已衰落数十年，东罗马帝国仍然存续——但这一事件仍然是文明变迁的有力标志。它表明西方的罗马政治框架已经空洞到只需一次小规模军事叛乱就能几乎毫无抵抗地将其扫除。"
+  },
+  "furtherReading": [
+    "Peter Heather — The Fall of the Roman Empire: A New History of Rome and the Barbarians",
+    "Bryan Ward-Perkins — The Fall of Rome and the End of Civilization",
+    "Edward Gibbon — The History of the Decline and Fall of the Roman Empire",
+    "Guy Halsall — Barbarian Migrations and the Roman West, 376-568"
+  ]
+}

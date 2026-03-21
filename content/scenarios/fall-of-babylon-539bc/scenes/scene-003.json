@@ -1,0 +1,115 @@
+{
+  "id": "fall-of-babylon-539bc-scene-003",
+  "scenarioId": "fall-of-babylon-539bc",
+  "title": {
+    "en": "The Conqueror's Proclamation",
+    "ja": "征服者の布告",
+    "zh-CN": "征服者的宣言"
+  },
+  "date": {
+    "en": "October 29, 539 BC",
+    "ja": "紀元前539年10月29日",
+    "zh-CN": "公元前539年10月29日"
+  },
+  "location": {
+    "en": "The Royal Palace of Babylon, Throne Room of Nebuchadnezzar",
+    "ja": "バビロン王宮、ネブカドネザルの玉座の間",
+    "zh-CN": "巴比伦王宫，尼布甲尼撒的王座大厅"
+  },
+  "narrativePrompt": {
+    "en": "Babylon is yours. The greatest city in the world has fallen to your forces, and now you sit in the throne room where Nebuchadnezzar once held court over all of Mesopotamia. Nabonidus has been captured attempting to flee the city in disguise and is held under guard. Belshazzar's fate has already been sealed. The Marduk priesthood has formally invited you to take the hands of Marduk at the Esagila temple — the sacred ritual that would legitimize you as the rightful king of Babylon in the eyes of gods and men alike. But the manner in which you consolidate power will determine whether Babylon becomes a jewel in your empire's crown or a smoldering ruin that breeds rebellion for generations. Your generals urge you to impose direct Persian rule and install a military governor. The Marduk priests want you to present yourself as a traditional Babylonian king who will restore the old ways. The Jewish exiles — tens of thousands of them, brought here by Nebuchadnezzar decades ago — beg for permission to return to Jerusalem and rebuild their temple. Merchants from across the empire want to know what your conquest means for trade. Every decision you make in these first days will shape the character of the greatest empire the world has ever seen and determine whether you are remembered as a conqueror or a liberator.",
+    "ja": "バビロンはあなたのものだ。世界最大の都市があなたの軍の手に落ち、今あなたはかつてネブカドネザルが全メソポタミアに君臨した玉座の間に座っている。ナボニドゥスは変装して都市から逃亡しようとしたところを捕らえられ、監視下に置かれている。ベルシャザルの運命はすでに決した。マルドゥク神官団は正式にエサギラ神殿でマルドゥクの手を取る儀式への参列を招請している——神と人の目にバビロンの正当な王として正統化する神聖な儀式である。しかし権力をどのように固めるかが、バビロンが帝国の冠の宝石となるか、何世代にもわたって反乱を生む燻る廃墟となるかを決定する。将軍たちはペルシアの直接統治を課し、軍事総督を任命するよう促す。マルドゥクの神官たちは、あなたが古い慣習を復興する伝統的なバビロニア王として自らを示すことを望んでいる。ユダヤ人の追放民——数十年前にネブカドネザルによって連れてこられた数万人——がエルサレムへの帰還と神殿の再建の許可を懇願している。帝国中の商人たちがあなたの征服が交易にとって何を意味するかを知りたがっている。この最初の数日間のあなたの決断一つ一つが、世界がかつて見た最大の帝国の性格を形作り、あなたが征服者として記憶されるか解放者として記憶されるかを決定する。",
+    "zh-CN": "巴比伦是你的了。世界上最伟大的城市已被你的军队攻占，现在你坐在尼布甲尼撒曾在此统治整个美索不达米亚的王座大厅中。拿波尼度斯在企图化装逃离城市时被捕，现被看押。伯沙撒的命运已经注定。马尔杜克祭司阶层已正式邀请你到埃萨吉拉神庙参加「握马尔杜克之手」的仪式——这一神圣仪式将在神与人的眼中使你成为巴比伦的合法国王。但你巩固权力的方式将决定巴比伦是成为你帝国皇冠上的明珠，还是成为世代滋生叛乱的废墟。你的将军们敦促你实行波斯直接统治并任命军事总督。马尔杜克祭司希望你以恢复旧制的传统巴比伦国王身份示人。犹太流亡者——数十年前被尼布甲尼撒掳来的数万人——恳请允许他们返回耶路撒冷重建圣殿。帝国各地的商人想知道你的征服对贸易意味着什么。你在最初几天做出的每一个决定都将塑造世界有史以来最伟大帝国的性格，并决定你将被铭记为征服者还是解放者。"
+  },
+  "situationReport": [
+    {
+      "en": "Babylon has fallen with minimal destruction — the city's infrastructure, temples, and palaces are largely intact",
+      "ja": "バビロンは最小限の破壊で陥落した——都市のインフラ、神殿、宮殿はほぼ無傷である",
+      "zh-CN": "巴比伦以最小破坏陷落——城市的基础设施、神庙和宫殿基本完好"
+    },
+    {
+      "en": "The Marduk priesthood awaits your participation in the sacred investiture ritual at the Esagila temple",
+      "ja": "マルドゥク神官団がエサギラ神殿での神聖な即位の儀式へのあなたの参加を待っている",
+      "zh-CN": "马尔杜克祭司阶层等待你参加埃萨吉拉神庙的神圣授权仪式"
+    },
+    {
+      "en": "Tens of thousands of Jewish exiles petition for permission to return to Jerusalem and rebuild their temple",
+      "ja": "数万のユダヤ人追放民がエルサレムへの帰還と神殿再建の許可を請願している",
+      "zh-CN": "数万犹太流亡者请愿获准返回耶路撒冷重建圣殿"
+    },
+    {
+      "en": "Persian generals advocate for direct military governance, while local elites prefer autonomous administration",
+      "ja": "ペルシアの将軍たちは直接的な軍事統治を主張し、地元のエリートは自治的な行政を望んでいる",
+      "zh-CN": "波斯将领主张直接军事管辖，而当地精英倾向于自治行政"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Establish legitimate and stable Persian rule over Babylon and the former Neo-Babylonian territories",
+      "ja": "バビロンと旧新バビロニア帝国領に対する正統かつ安定したペルシア統治を確立する",
+      "zh-CN": "在巴比伦和前新巴比伦帝国领土上建立合法稳定的波斯统治"
+    },
+    {
+      "en": "Set the tone for how the Persian Empire will govern its diverse conquered peoples",
+      "ja": "ペルシア帝国が多様な被征服民族をどのように統治するかの基調を定める",
+      "zh-CN": "为波斯帝国如何治理其多元的被征服民族定下基调"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Alienating the Marduk priesthood risks delegitimizing your rule and sparking future revolts",
+      "ja": "マルドゥク神官団の疎外はあなたの統治の正統性を損ない、将来の反乱を引き起こすリスクがある",
+      "zh-CN": "疏远马尔杜克祭司阶层可能使你的统治失去合法性并引发未来的叛乱"
+    },
+    {
+      "en": "Persian military commanders expect to be rewarded with positions of power and may resent accommodation of local elites",
+      "ja": "ペルシアの軍司令官たちは権力の地位による報酬を期待しており、地元エリートへの配慮に不満を抱くかもしれない",
+      "zh-CN": "波斯军事指挥官期望获得权力职位作为奖赏，可能不满对当地精英的迁就"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Take the hands of Marduk in the sacred ritual, issue a proclamation of religious tolerance and cultural respect, and free the Jewish exiles to return to Jerusalem. Rule as a liberator, not a conqueror.",
+        "ja": "神聖な儀式でマルドゥクの手を取り、宗教的寛容と文化的尊重の布告を発し、ユダヤ人追放民をエルサレムに帰還させる。征服者ではなく解放者として統治する。",
+        "zh-CN": "在神圣仪式中握马尔杜克之手，发布宗教宽容和文化尊重的宣言，释放犹太流亡者返回耶路撒冷。以解放者而非征服者的身份统治。"
+      },
+      "historicalContext": "The historical approach — Cyrus participated in the Marduk ritual, issued the Cyrus Cylinder proclaiming religious freedom, and freed the Jewish exiles, establishing a model of tolerant imperial governance that endured for over two centuries.",
+      "outcomePrompt": {
+        "en": "You enter the Esagila temple in the traditional robes of a Babylonian king and take the hands of the golden statue of Marduk, completing the ancient ritual that makes you, in the eyes of Babylonian religion and law, the legitimate successor to Nebuchadnezzar. The priesthood proclaims that Marduk himself chose you to overthrow the impious Nabonidus. You then issue a proclamation — inscribed on a clay cylinder for all the world to read — declaring that you will respect the gods of every people, restore temples that Nabonidus neglected, and return deported peoples to their homelands. The Jewish elders weep when you grant them permission to return to Jerusalem and rebuild their temple, funding the expedition from the royal treasury. Babylonian nobles retain their estates. Trade continues uninterrupted. Your Persian generals grumble at the accommodation, but they cannot argue with the result: Babylon is peaceful, prosperous, and loyal. You have not merely conquered a city — you have invented a new model of empire, one built on tolerance rather than terror. Historians will debate your motives for millennia, but the result is undeniable: the Persian Empire, governed by the principles proclaimed this day, will endure as the greatest power on earth for over two hundred years.",
+        "ja": "バビロニア王の伝統的な衣をまとってエサギラ神殿に入り、マルドゥクの黄金の像の手を取る。バビロニアの宗教と法の目において、あなたをネブカドネザルの正統な後継者とする古代の儀式を完遂する。神官団はマルドゥク自身が不敬虔なナボニドゥスを打倒するためにあなたを選んだと宣言する。次に布告を発する——全世界が読めるよう粘土の円筒に刻む——すべての民の神を尊重し、ナボニドゥスが放置した神殿を修復し、追放された民を故郷に帰還させると宣言する。エルサレムへの帰還と神殿の再建の許可を与え、王室の財宝から遠征費用を拠出すると告げた時、ユダヤの長老たちは涙を流す。バビロニアの貴族は領地を保持する。交易は途切れることなく続く。ペルシアの将軍たちは配慮に不満を漏らすが、結果に異議を唱えることはできない。バビロンは平和で繁栄し、忠実である。あなたは単に都市を征服したのではない——恐怖ではなく寛容に基づく帝国の新たなモデルを発明したのだ。歴史家たちは千年にわたってあなたの動機を議論するだろうが、結果は否定しようがない。この日宣言された原則によって統治されるペルシア帝国は、二百年以上にわたり地上最大の大国として存続する。",
+        "zh-CN": "你身穿巴比伦国王的传统长袍进入埃萨吉拉神庙，握住马尔杜克金像的双手，完成了这一古老仪式——在巴比伦宗教和法律看来，你由此成为尼布甲尼撒的合法继承人。祭司阶层宣告马尔杜克亲自选定了你来推翻不虔诚的拿波尼度斯。随后你发布了一份宣言——刻在泥柱上供全世界阅读——宣布你将尊重每个民族的神灵，修复拿波尼度斯荒废的神庙，让被驱逐的民族重返家园。当你批准犹太长老们返回耶路撒冷重建圣殿并从王室国库拨款资助远征时，他们感动落泪。巴比伦贵族保留了他们的庄园。贸易不受中断地继续进行。你的波斯将领们对这种迁就颇有微词，但他们无法否认结果：巴比伦和平、繁荣且忠诚。你不仅仅征服了一座城市——你发明了一种新的帝国模式，建立在宽容而非恐怖之上。历史学家将在数千年里争论你的动机，但结果不可否认：以这一天宣布的原则治理的波斯帝国将作为地球上最伟大的强国存续两百余年。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "civilianSupport", "operation": "set", "value": 95 },
+        { "variable": "diplomaticLeverage", "operation": "set", "value": 100 },
+        { "variable": "cityIntegrity", "operation": "add", "value": 0 },
+        { "variable": "babylonianMorale", "operation": "set", "value": 10 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Install a Persian military governor, impose tribute, and incorporate Babylon as a province under direct Persian administration. Acknowledge Marduk but make clear that Persian authority is supreme.",
+        "ja": "ペルシアの軍事総督を任命し、貢納を課し、バビロンをペルシア直轄の属州として組み込む。マルドゥクを認めるが、ペルシアの権威が至上であることを明確にする。",
+        "zh-CN": "任命波斯军事总督，征收贡赋，将巴比伦作为直辖行省纳入波斯管理。承认马尔杜克但明确波斯权威至上。"
+      },
+      "historicalContext": "A counterfactual — imposing harsh direct rule would have been more typical of ancient conquerors, but Cyrus's tolerant approach proved far more effective for long-term imperial stability.",
+      "outcomePrompt": {
+        "en": "You attend the Marduk ritual but make clear modifications that emphasize your status as the supreme King of Persia rather than a Babylonian monarch. A Persian military governor is installed in the palace, and tribute demands are issued to every district of the former Neo-Babylonian Empire. Babylonian nobles are permitted to retain their personal property but are excluded from positions of real power. The Jewish exiles receive permission to practice their religion freely but not to leave — their labor is too valuable. The Marduk priesthood performs the rituals with barely concealed resentment. Trade is disrupted as new Persian tariffs are imposed. Within months, Babylon grows restive. The priesthood whispers about prophecies of liberation. Former military officers meet in secret. Your governor reports increasing incidents of civil disobedience and tax evasion. The city that fell without a fight may yet prove more difficult to hold than to conquer. You have won a province, but you may have lost the chance to win an empire built on consent rather than compulsion. The seed of future revolts against Persian rule — revolts that will plague your successors — has been planted in the resentment of this ancient and proud people.",
+        "ja": "マルドゥクの儀式に出席するが、バビロニアの君主ではなくペルシアの最高王としての地位を強調する明確な変更を加える。宮殿にペルシアの軍事総督が任命され、旧新バビロニア帝国の全地区に貢納要求が発せられる。バビロニアの貴族は個人財産の保持を許されるが、実質的な権力の座からは排除される。ユダヤ人追放民は宗教の自由な実践を許されるが、出国は認められない——彼らの労働力は貴重すぎる。マルドゥク神官団は辛うじて隠された恨みをもって儀式を執り行う。新たなペルシアの関税が課され、交易が混乱する。数ヶ月以内にバビロンは不穏になる。神官団は解放の予言について囁き始める。元軍将校が密かに会合する。総督は市民の不服従と脱税の事件の増加を報告する。戦わずして陥落した都市は、征服するよりも保持する方が困難であるかもしれない。属州を獲得したが、強制ではなく同意に基づく帝国を築く機会を失ったかもしれない。ペルシア統治に対する将来の反乱の種——後継者たちを悩ませる反乱——が、この古く誇り高い民の恨みの中に蒔かれた。",
+        "zh-CN": "你出席了马尔杜克仪式，但做了明显的修改以强调你作为波斯最高国王而非巴比伦君主的地位。一名波斯军事总督入驻王宫，向前新巴比伦帝国的每个地区发出了贡赋要求。巴比伦贵族被允许保留个人财产，但被排斥在实权职位之外。犹太流亡者获准自由信仰，但不准离开——他们的劳动力太有价值了。马尔杜克祭司阶层带着难以掩饰的怨恨执行仪式。新的波斯关税扰乱了贸易。几个月内巴比伦开始躁动不安。祭司阶层低声议论着解放的预言。前军官们秘密聚会。你的总督报告市民不服从和逃税事件日益增多。这座不战而降的城市可能比征服它更难以守住。你赢得了一个行省，但可能错失了建立一个基于认同而非强制的帝国的机会。反抗波斯统治的未来叛乱的种子——将困扰你的继承者们的叛乱——已在这个古老而骄傲的民族的怨恨中种下。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "civilianSupport", "operation": "set", "value": 30 },
+        { "variable": "diplomaticLeverage", "operation": "set", "value": 40 },
+        { "variable": "persianStrength", "operation": "add", "value": 10 },
+        { "variable": "babylonianMorale", "operation": "set", "value": 50 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

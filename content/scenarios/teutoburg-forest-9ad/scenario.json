@@ -1,0 +1,179 @@
+{
+  "id": "teutoburg-forest-9ad",
+  "title": {
+    "en": "Battle of Teutoburg Forest",
+    "ja": "トイトブルク森の戦い",
+    "zh-CN": "条顿堡森林战役"
+  },
+  "period": {
+    "en": "Early Roman Empire",
+    "ja": "ローマ帝国初期",
+    "zh-CN": "罗马帝国早期"
+  },
+  "dates": {
+    "start": "0009-09-01",
+    "end": "0009-09-03"
+  },
+  "location": {
+    "en": "Teutoburg Forest, Germania (modern-day Lower Saxony, Germany)",
+    "ja": "ゲルマニア・トイトブルク森（現在のドイツ・ニーダーザクセン州）",
+    "zh-CN": "日耳曼尼亚条顿堡森林（今德国下萨克森州）"
+  },
+  "historicalOverview": {
+    "en": "In September of 9 AD, three Roman legions under the command of Publius Quinctilius Varus marched deep into the forests of Germania, responding to reports of a local uprising. Varus, a capable administrator but inexperienced in the guerrilla warfare of the Germanic frontier, trusted his Germanic auxiliary commander Arminius to guide his forces safely through the treacherous terrain. Unknown to Varus, Arminius had secretly united several Germanic tribes into a confederation with one purpose: the total destruction of the Roman column.\n\nThe Roman force—comprising Legions XVII, XVIII, and XIX along with auxiliaries, camp followers, and a long baggage train—stretched for miles through narrow forest paths and boggy ground. The terrain negated Rome's greatest tactical advantages: disciplined formation fighting and superior logistics. As rain turned the forest floor to mud, the Germanic warriors launched a devastating series of ambushes from behind earthen ramparts and fallen trees, striking the strung-out Roman column at its most vulnerable points.\n\nThe battle lasted three days as the Romans desperately tried to fight their way out of the forest. By the end, nearly 20,000 Roman soldiers lay dead, and Varus had fallen on his own sword. The disaster sent shockwaves through Rome—Emperor Augustus reportedly beat his head against the walls of his palace, crying 'Quintilius Varus, give me back my legions!' The defeat permanently halted Roman expansion east of the Rhine and shaped the cultural and political boundary of Europe for centuries to come.",
+    "ja": "西暦9年9月、プブリウス・クィンクティリウス・ウァルス率いるローマの三個軍団が、現地の反乱の報告を受けてゲルマニアの森深くに進軍した。有能な行政官でありながらゲルマニア辺境のゲリラ戦には不慣れだったウァルスは、ゲルマン人補助部隊の指揮官アルミニウスを信頼し、危険な地形を安全に案内させていた。しかしウァルスの知らないところで、アルミニウスはひそかに複数のゲルマン部族を結集し、ローマ軍縦隊の完全殲滅という一つの目的のために同盟を築いていた。\n\n第17、第18、第19軍団に加え、補助兵、従軍者、長大な輜重隊からなるローマ軍は、狭い森の小道や湿地帯に何マイルにもわたって伸びきっていた。この地形はローマ最大の戦術的優位——規律ある隊形戦闘と優れた兵站——を無効化した。雨が森の地面を泥濘に変える中、ゲルマン戦士たちは土塁や倒木の背後から壊滅的な連続奇襲を仕掛け、伸びきったローマ軍縦隊の最も脆弱な箇所を攻撃した。\n\n戦闘はローマ軍が必死に森からの脱出を試みる中、三日間続いた。終わりには約二万人のローマ兵が戦死し、ウァルスは自らの剣に身を投げた。この大敗はローマに衝撃を与え、アウグストゥス帝は宮殿の壁に頭を打ち付けながら「クィンクティリウス・ウァルスよ、我が軍団を返せ！」と叫んだと伝えられている。この敗北はライン川以東へのローマの膨張を永久に阻止し、何世紀にもわたってヨーロッパの文化的・政治的境界を形作った。",
+    "zh-CN": "公元9年9月，普布利乌斯·昆克蒂利乌斯·瓦鲁斯率领三个罗马军团深入日耳曼尼亚的森林，以应对当地叛乱的报告。瓦鲁斯虽然是一位能干的行政官，但对日耳曼边境的游击战缺乏经验，他信任日耳曼辅助部队指挥官阿米尼乌斯来引导他的部队安全穿越险恶的地形。然而，瓦鲁斯并不知道，阿米尼乌斯已经秘密联合了多个日耳曼部落，组成了一个同盟，其唯一目的就是彻底消灭罗马纵队。\n\n罗马军队由第十七、第十八和第十九军团以及辅助部队、随军人员和绵长的辎重队组成，在狭窄的森林小道和沼泽地带绵延数英里。这种地形使罗马最大的战术优势——有纪律的阵型作战和优越的后勤保障——完全失效。当大雨将森林地面变成泥沼时，日耳曼战士从土墙和倒木后方发动了毁灭性的连续伏击，打击了拉长的罗马纵队最脆弱的部位。\n\n战斗持续了三天，罗马军队拼命试图突出森林。最终，近两万名罗马士兵阵亡，瓦鲁斯伏剑自尽。这场灾难震动了整个罗马——据传奥古斯都皇帝以头撞墙，高呼'昆克蒂利乌斯·瓦鲁斯，还我军团！'这次惨败永久性地阻止了罗马向莱茵河以东的扩张，并在此后数个世纪中塑造了欧洲的文化和政治边界。"
+  },
+  "realWorldOutcome": {
+    "en": "The Battle of Teutoburg Forest resulted in the near-total annihilation of three Roman legions—approximately 15,000 to 20,000 soldiers killed along with thousands of camp followers. Varus committed suicide on the battlefield, and many officers followed suit. Some soldiers were captured and enslaved or sacrificed to Germanic gods. The legion standards, the sacred eagles, were lost—a catastrophic symbolic blow to Roman prestige. Emperor Augustus never fully recovered from the shock and Rome abandoned its ambitions to conquer Germania east of the Rhine. The legionary numbers XVII, XVIII, and XIX were permanently retired and never used again. Six years later, Germanicus led punitive expeditions into the region and recovered two of the three lost eagles, but Rome never again attempted permanent conquest of the territory. Arminius became a symbol of Germanic independence, though he was eventually assassinated by rival chieftains in 21 AD.",
+    "ja": "トイトブルク森の戦いの結果、ローマの三個軍団はほぼ全滅し、約一万五千人から二万人の兵士が数千人の従軍者とともに殺害された。ウァルスは戦場で自決し、多くの将校も後に続いた。一部の兵士は捕虜となり奴隷にされるか、ゲルマンの神々への生贄にされた。軍団旗である神聖な鷲の軍旗が失われ、ローマの威信に壊滅的な象徴的打撃を与えた。アウグストゥス帝はこの衝撃から完全に立ち直ることはなく、ローマはライン川以東のゲルマニア征服の野望を放棄した。第17、第18、第19の軍団番号は永久に退役し、二度と使用されなかった。六年後、ゲルマニクスがこの地域に懲罰遠征を行い、失われた三つの鷲の軍旗のうち二つを回収したが、ローマはこの領土の恒久的征服を再び試みることはなかった。アルミニウスはゲルマン独立の象徴となったが、最終的に西暦21年に対立する族長たちによって暗殺された。",
+    "zh-CN": "条顿堡森林战役导致三个罗马军团几乎全军覆没——约一万五千至两万名士兵阵亡，还有数千随军人员遇难。瓦鲁斯在战场上自杀，许多军官也随之殉死。部分士兵被俘后沦为奴隶或被献祭给日耳曼神灵。军团旗帜——神圣的鹰旗——丢失了，这对罗马的威望造成了灾难性的象征性打击。奥古斯都皇帝从未完全从这一打击中恢复，罗马放弃了征服莱茵河以东日耳曼尼亚的野心。第十七、第十八和第十九军团的番号被永久废除，再未使用。六年后，日耳曼尼库斯率军对该地区进行了惩罚性远征，收回了三面失落鹰旗中的两面，但罗马再也没有尝试永久征服该地区。阿米尼乌斯成为日耳曼独立的象征，但最终于公元21年被敌对的部落首领暗杀。"
+  },
+  "keyFigures": [
+    {
+      "id": "varus",
+      "name": "Publius Quinctilius Varus",
+      "role": {
+        "en": "Roman Governor of Germania and Commander of Legions XVII, XVIII, XIX",
+        "ja": "ローマのゲルマニア総督、第17・第18・第19軍団指揮官",
+        "zh-CN": "罗马日耳曼尼亚总督，第十七、十八、十九军团指挥官"
+      },
+      "faction": "Roman Empire",
+      "description": {
+        "en": "A Roman nobleman and senator, Varus had previously governed Syria where he brutally suppressed revolts. He was appointed governor of the newly established province of Germania, tasked with integrating the Germanic tribes into the Roman administrative system. His background as a legal administrator left him poorly prepared for the military challenges of the Germanic frontier, and his trust in Arminius proved to be his fatal mistake.",
+        "ja": "ローマの貴族で元老院議員であったウァルスは、以前シリア総督として反乱を容赦なく鎮圧した経験があった。新設されたゲルマニア属州の総督に任命され、ゲルマン諸部族をローマの行政体制に組み込む任務を担った。法律行政官としての経歴はゲルマニア辺境の軍事的課題への備えとしては不十分であり、アルミニウスへの信頼が彼の致命的な過ちとなった。",
+        "zh-CN": "瓦鲁斯是一位罗马贵族和元老院议员，此前曾担任叙利亚总督，残酷镇压了叛乱。他被任命为新设立的日耳曼尼亚行省总督，负责将日耳曼部落纳入罗马行政体系。作为法律行政官的背景使他对日耳曼边境的军事挑战准备不足，而他对阿米尼乌斯的信任被证明是他致命的错误。"
+      }
+    },
+    {
+      "id": "arminius",
+      "name": "Arminius (Hermann)",
+      "role": {
+        "en": "Chieftain of the Cherusci and Commander of the Germanic Alliance",
+        "ja": "ケルスキ族の族長、ゲルマン同盟の指揮官",
+        "zh-CN": "切鲁西族首领，日耳曼联盟指挥官"
+      },
+      "faction": "Germanic Tribes",
+      "description": {
+        "en": "Born into the Cherusci nobility, Arminius was sent to Rome as a hostage in his youth, where he received military training and even gained Roman citizenship and equestrian rank. He served as a commander of Germanic auxiliary forces under Roman command, learning Roman tactics and strategy from the inside. Secretly, he harbored deep resentment toward Roman imperialism and meticulously planned the ambush that would destroy Varus's legions, uniting traditionally feuding Germanic tribes under a common cause.",
+        "ja": "ケルスキ族の貴族の家に生まれたアルミニウスは、若い頃に人質としてローマに送られ、そこで軍事訓練を受け、ローマ市民権と騎士階級すら獲得した。ローマの指揮下でゲルマン補助部隊の指揮官を務め、内部からローマの戦術と戦略を学んだ。密かにローマ帝国主義に対する深い怨恨を抱き、伝統的に争い合ってきたゲルマン諸部族を共通の大義のもとに結集させ、ウァルスの軍団を壊滅させる伏撃を入念に計画した。",
+        "zh-CN": "阿米尼乌斯出生于切鲁西族贵族家庭，年轻时被作为人质送往罗马，在那里接受了军事训练，甚至获得了罗马公民权和骑士等级。他曾在罗马指挥下担任日耳曼辅助部队的指挥官，从内部学习了罗马的战术和战略。他暗中对罗马帝国主义怀有深深的怨恨，精心策划了消灭瓦鲁斯军团的伏击战，将传统上相互争斗的日耳曼部落团结在共同的事业之下。"
+      }
+    },
+    {
+      "id": "segestes",
+      "name": "Segestes",
+      "role": {
+        "en": "Pro-Roman Cherusci Chieftain",
+        "ja": "親ローマ派ケルスキ族の族長",
+        "zh-CN": "亲罗马的切鲁西族首领"
+      },
+      "faction": "Roman Empire (aligned)",
+      "description": {
+        "en": "A rival Cherusci chieftain who opposed Arminius and remained loyal to Rome. Segestes repeatedly warned Varus about Arminius's treachery, even urging him to arrest all the Germanic chieftains on the eve of the march, but Varus dismissed his warnings as the product of a personal feud. Segestes's daughter Thusnelda had been betrothed to him but eloped with Arminius, adding a personal dimension to their rivalry.",
+        "ja": "アルミニウスに対抗し、ローマへの忠誠を保ったケルスキ族の対立族長。セゲステスは何度もウァルスにアルミニウスの裏切りについて警告し、行軍前夜にはすべてのゲルマン族長を逮捕するよう促したが、ウァルスは個人的な確執の産物としてその警告を退けた。セゲステスの娘トゥスネルダは彼と婚約していたがアルミニウスと駆け落ちし、両者の対立に個人的な側面を加えていた。",
+        "zh-CN": "塞盖斯特斯是一位反对阿米尼乌斯并忠于罗马的切鲁西族首领。他多次警告瓦鲁斯阿米尼乌斯的背叛，甚至在出发前夜敦促瓦鲁斯逮捕所有日耳曼首领，但瓦鲁斯将他的警告视为私人恩怨而不予理会。塞盖斯特斯的女儿图斯内尔达原本与他订婚，却与阿米尼乌斯私奔，为二人的对立增添了个人恩怨的色彩。"
+      }
+    },
+    {
+      "id": "ceionius",
+      "name": "Lucius Eggius",
+      "role": {
+        "en": "Senior Centurion and Camp Prefect",
+        "ja": "上級百人隊長・陣営長官",
+        "zh-CN": "高级百夫长和营地长官"
+      },
+      "faction": "Roman Empire",
+      "description": {
+        "en": "A veteran Roman officer who commanded part of the rearguard during the retreat through the forest. Eggius fought heroically to maintain order as the column disintegrated under the relentless Germanic attacks. Ancient sources praise his courage in organizing pockets of resistance even as the situation became hopeless, and he died fighting alongside his men in the final collapse of the Roman formation.",
+        "ja": "森林を通る撤退中に後衛の一部を指揮した歴戦のローマ将校。エッギウスは絶え間ないゲルマン軍の攻撃で縦隊が崩壊する中、秩序を維持するために英雄的に戦った。古代の史料は、状況が絶望的になってもなお抵抗拠点を組織した彼の勇気を称えており、ローマ軍隊形の最終的な崩壊の中で兵士たちと共に戦死した。",
+        "zh-CN": "一位资深罗马军官，在穿越森林撤退期间指挥了部分后卫部队。在日耳曼人不断的攻击下纵队瓦解时，埃吉乌斯英勇战斗以维持秩序。古代史料赞扬了他在局势变得绝望时仍然组织抵抗据点的勇气，他最终在罗马阵型的最后崩溃中与士兵们一起战死。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "varus-commander",
+      "scenarioId": "teutoburg-forest-9ad",
+      "name": "Publius Quinctilius Varus",
+      "title": {
+        "en": "Governor of Germania and Commander of the Rhine Legions",
+        "ja": "ゲルマニア総督・ライン軍団指揮官",
+        "zh-CN": "日耳曼尼亚总督兼莱茵军团指挥官"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Publius Quinctilius Varus, Governor of the province of Germania and commander of three of Rome's finest legions. It is September of the ninth year of the common era, and you have spent the summer administering justice and collecting taxes among the Germanic tribes east of the Rhine, working to transform these barbarian lands into a proper Roman province. Your trusted auxiliary commander, Arminius of the Cherusci—a Roman citizen and decorated officer—has just brought word of a minor tribal uprising to the north that requires your personal attention. You have decided to march your three legions through the Teutoburg Forest to suppress this rebellion before returning to winter quarters on the Rhine. Your column stretches for miles: 15,000 legionaries, thousands of auxiliaries, camp followers, women, children, and a massive baggage train. The weather has turned foul, with heavy rain turning the forest tracks to mud. One of your Germanic allies, Segestes, has privately warned you that Arminius is planning treachery, but you dismissed this as a personal grudge—after all, Arminius has served Rome faithfully for years. Now, deep in unfamiliar forest terrain, you must lead your forces safely through to open ground while maintaining the discipline and morale that make Roman legions the finest fighting force in the world.",
+        "ja": "あなたはゲルマニア属州の総督であり、ローマ最精鋭の三個軍団の指揮官、プブリウス・クィンクティリウス・ウァルスである。西暦9年の9月、あなたはこの夏をライン川東方のゲルマン諸部族の間で裁判を行い税を徴収することに費やし、この蛮族の地を正式なローマの属州に変えるべく努めてきた。信頼するケルスキ族出身の補助部隊指揮官アルミニウス——ローマ市民権を持つ勲功ある将校——が、あなたの直接対応を要する北方での小規模な部族反乱の知らせを持ってきたところだ。あなたは冬営地であるライン川に帰還する前にこの反乱を鎮圧すべく、三個軍団をトイトブルク森を通って進軍させることを決定した。あなたの縦隊は何マイルにもわたって伸びている：一万五千人の軍団兵、数千人の補助兵、従軍者、女性、子供、そして巨大な輜重隊。天候は悪化し、大雨が森の道を泥沼に変えている。ゲルマン人の同盟者の一人セゲステスが、アルミニウスが裏切りを企てていると内密に警告してきたが、あなたはこれを個人的な恨みとして退けた——結局のところ、アルミニウスは何年もローマに忠実に仕えてきたのだから。今、不慣れな森林の地形の奥深くで、ローマ軍団を世界最強の戦闘力たらしめている規律と士気を維持しながら、部隊を安全に開けた地形まで導かなければならない。",
+        "zh-CN": "你是日耳曼尼亚行省总督、罗马三个精锐军团的指挥官普布利乌斯·昆克蒂利乌斯·瓦鲁斯。公元9年9月，你整个夏天都在莱茵河以东的日耳曼部落中主持司法和征收税赋，致力于将这片蛮荒之地转变为正式的罗马行省。你信任的切鲁西族辅助部队指挥官阿米尼乌斯——一位罗马公民和屡获殊荣的军官——刚刚带来了北方一场小规模部落起义的消息，需要你亲自处理。你决定率领三个军团穿越条顿堡森林去镇压这次叛乱，然后再返回莱茵河的冬季营地。你的纵队绵延数英里：一万五千名军团士兵、数千名辅助兵、随军人员、妇女、儿童和庞大的辎重队。天气已经转坏，大雨将森林小道变成了泥沼。你的一位日耳曼盟友塞盖斯特斯私下警告你阿米尼乌斯正在策划背叛，但你认为这只是私人恩怨而不予理会——毕竟阿米尼乌斯已经忠诚地为罗马服务多年。现在，深入陌生的森林地形，你必须在维持使罗马军团成为世界上最强战斗力的纪律和士气的同时，带领部队安全到达开阔地带。"
+      },
+      "objectives": [
+        {
+          "en": "Lead your legions safely through the Teutoburg Forest to open terrain",
+          "ja": "軍団をトイトブルク森を通り抜け、安全に開けた地形まで導く",
+          "zh-CN": "带领你的军团安全穿越条顿堡森林到达开阔地带"
+        },
+        {
+          "en": "Maintain legionary discipline and cohesion under adverse conditions",
+          "ja": "不利な状況下でも軍団の規律と結束を維持する",
+          "zh-CN": "在不利条件下维持军团的纪律和凝聚力"
+        },
+        {
+          "en": "Identify and respond appropriately to the threat posed by Arminius",
+          "ja": "アルミニウスがもたらす脅威を察知し、適切に対応する",
+          "zh-CN": "识别并适当应对阿米尼乌斯构成的威胁"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Your column is stretched over miles of narrow forest track with limited maneuverability",
+          "ja": "あなたの縦隊は狭い森の道に何マイルにもわたって伸びており、機動性が限られている",
+          "zh-CN": "你的纵队在狭窄的森林小道上绵延数英里，机动性有限"
+        },
+        {
+          "en": "Heavy rain and muddy terrain severely hamper movement and formation fighting",
+          "ja": "大雨と泥濘の地形が移動と隊形戦闘を著しく妨げている",
+          "zh-CN": "大雨和泥泞的地形严重妨碍了行军和阵型作战"
+        },
+        {
+          "en": "Many of your auxiliary troops are Germanic and their loyalty may be uncertain",
+          "ja": "あなたの補助兵の多くはゲルマン人であり、その忠誠心は不確かかもしれない",
+          "zh-CN": "你的许多辅助部队是日耳曼人，他们的忠诚度可能不确定"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Emperor Augustus expects you to pacify Germania before winter—failure will end your career",
+          "ja": "アウグストゥス帝は冬までにゲルマニアを平定することを期待している——失敗はあなたの経歴を終わらせる",
+          "zh-CN": "奥古斯都皇帝期望你在冬季前平定日耳曼尼亚——失败将终结你的仕途"
+        },
+        {
+          "en": "Morale is dropping as soldiers struggle through mud and rain with no end in sight",
+          "ja": "終わりの見えない泥と雨の中を苦闘する兵士たちの士気が低下している",
+          "zh-CN": "士兵们在看不到尽头的泥泞和雨中艰难前行，士气正在下降"
+        },
+        {
+          "en": "Conflicting intelligence from Germanic allies makes it impossible to know who to trust",
+          "ja": "ゲルマン人の同盟者からの矛盾する情報により、誰を信頼すべきか判断できない",
+          "zh-CN": "日耳曼盟友提供的矛盾情报使你无法判断该信任谁"
+        }
+      ],
+      "startingSceneId": "teutoburg-forest-9ad-scene-001",
+      "initialState": {
+        "legionMorale": 60,
+        "formationIntegrity": 55,
+        "intelligenceAwareness": 30,
+        "supplyStatus": 50,
+        "casualtyRate": 10
+      }
+    }
+  ],
+  "sceneIds": [
+    "teutoburg-forest-9ad-scene-001",
+    "teutoburg-forest-9ad-scene-002",
+    "teutoburg-forest-9ad-scene-003"
+  ],
+  "tags": ["ancient-rome", "ambush", "guerrilla-warfare", "germania", "military-disaster"],
+  "difficulty": "intermediate"
+}

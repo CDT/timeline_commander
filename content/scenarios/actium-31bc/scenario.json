@@ -1,0 +1,179 @@
+{
+  "id": "actium-31bc",
+  "title": {
+    "en": "Battle of Actium",
+    "ja": "アクティウムの海戦",
+    "zh-CN": "亚克兴海战"
+  },
+  "period": {
+    "en": "31 BC — Final War of the Roman Republic",
+    "ja": "紀元前31年 — ローマ共和国最後の戦争",
+    "zh-CN": "公元前31年 — 罗马共和国最后的战争"
+  },
+  "dates": {
+    "start": "-031-09-01",
+    "end": "-031-09-02"
+  },
+  "location": {
+    "en": "Actium, western Greece",
+    "ja": "ギリシャ西部、アクティウム",
+    "zh-CN": "希腊西部亚克兴"
+  },
+  "historicalOverview": {
+    "en": "By 31 BC, the Roman world had fractured into two rival power blocs. In the west, Gaius Octavian — adopted son and heir of Julius Caesar — controlled Rome, Italy, and the western provinces. In the east, Marcus Antonius (Mark Antony) ruled a vast domain stretching from Greece to Egypt, bound in political and romantic alliance with Cleopatra VII, the last Ptolemaic queen of Egypt. The uneasy partnership of the Second Triumvirate had collapsed years earlier, and open war was now inevitable.\n\nOctavian had waged a brilliant propaganda campaign, portraying Antony as a debauched Roman who had abandoned his duty to Rome in favor of an eastern queen. He secured a declaration of war — not against Antony, but against Cleopatra, allowing him to frame the conflict as a defense of Roman values against foreign corruption. Antony and Cleopatra had assembled a massive combined force: approximately 500 warships and 70,000 legionaries, supported by Cleopatra's Egyptian treasury. They positioned this army and fleet at Actium, on the western coast of Greece, intending to invade Italy.\n\nHowever, Octavian's admiral Marcus Vipsanius Agrippa — one of the finest naval commanders in Roman history — had seized the initiative. Through a series of daring raids, Agrippa captured key supply ports along the Greek coast, cutting Antony's supply lines and trapping his fleet in the Ambracian Gulf. By September, Antony's forces were ravaged by disease, desertion, and starvation. His army had shrunk, his rowers were dying, and several client kings had defected to Octavian. The great fleet that was to conquer Italy now struggled simply to escape.",
+    "ja": "紀元前31年までに、ローマ世界は二つの対立する勢力圏に分裂していた。西方では、ユリウス・カエサルの養子にして後継者であるガイウス・オクタウィアヌスがローマ、イタリア、西方属州を支配していた。東方では、マルクス・アントニウスがギリシャからエジプトに至る広大な領域を統治し、プトレマイオス朝最後の女王クレオパトラ7世と政治的・恋愛的同盟を結んでいた。第二回三頭政治の不安定な協力関係は数年前に崩壊し、公然たる戦争は今や不可避であった。\n\nオクタウィアヌスは巧みな宣伝工作を展開し、アントニウスをローマへの義務を捨てて東方の女王に走った放蕩なローマ人として描いた。彼はアントニウスに対してではなくクレオパトラに対する宣戦布告を確保し、この紛争を外国の腐敗に対するローマの価値観の防衛として位置づけた。アントニウスとクレオパトラは大規模な連合軍を編成した。約500隻の軍艦と7万人の軍団兵、そしてクレオパトラのエジプトの国庫による支援。彼らはイタリア侵攻を意図し、ギリシャ西岸のアクティウムにこの軍と艦隊を配置した。\n\nしかし、オクタウィアヌスの提督マルクス・ウィプサニウス・アグリッパ——ローマ史上最も優れた海軍司令官の一人——が主導権を奪っていた。一連の大胆な急襲により、アグリッパはギリシャ沿岸の主要補給港を占領し、アントニウスの補給線を断ち、彼の艦隊をアンブラキア湾に閉じ込めた。9月までにアントニウスの軍は疫病、脱走、飢餓に蝕まれていた。軍は縮小し、漕ぎ手は死に、複数の属国王がオクタウィアヌスに寝返った。イタリアを征服するはずの大艦隊は、今や脱出するだけで精一杯であった。",
+    "zh-CN": "到公元前31年，罗马世界已分裂为两大对立的权力集团。在西方，盖乌斯·屋大维——尤利乌斯·凯撒的养子兼继承人——控制着罗马、意大利和西方行省。在东方，马库斯·安东尼乌斯（马克·安东尼）统治着从希腊延伸到埃及的广大领域，与托勒密王朝最后的女王克利奥帕特拉七世结成政治和爱情联盟。后三头同盟的脆弱合作关系早在数年前已经瓦解，公开战争如今已不可避免。\n\n屋大维发动了一场精妙的宣传攻势，将安东尼描绘成一个抛弃对罗马的责任、投靠东方女王的堕落罗马人。他获得了宣战声明——不是针对安东尼，而是针对克利奥帕特拉，使他能够将冲突定性为捍卫罗马价值观、抵御外国腐蚀的正义之战。安东尼和克利奥帕特拉集结了一支庞大的联合力量：约五百艘战舰和七万名军团士兵，由克利奥帕特拉的埃及国库提供支持。他们将这支军队和舰队部署在希腊西海岸的亚克兴，意图入侵意大利。\n\n然而，屋大维的海军将领马库斯·维普萨尼乌斯·阿格里帕——罗马历史上最杰出的海军指挥官之一——已经夺取了主动权。通过一系列大胆的突袭，阿格里帕占领了希腊沿岸的关键补给港口，切断了安东尼的补给线，将其舰队困在安布拉基亚湾中。到九月，安东尼的部队已被疫病、逃亡和饥饿严重削弱。他的军队萎缩，桨手大量死亡，数位附庸国王已投靠屋大维。那支本要征服意大利的庞大舰队，如今只能勉强求得脱身。"
+  },
+  "realWorldOutcome": {
+    "en": "On September 2, 31 BC, Antony attempted to break out of the Ambracian Gulf with roughly 230 warships against Octavian's 400 lighter, more maneuverable vessels commanded by Agrippa. The battle was indecisive for hours until Cleopatra's squadron of 60 Egyptian ships suddenly broke through the center and fled south with the war treasury. Antony abandoned his flagship and followed her with a handful of ships, leaving his fleet leaderless. The remaining Antonine ships surrendered or were destroyed. A week later, Antony's abandoned army of 19 legions surrendered to Octavian without a fight. Antony and Cleopatra fled to Egypt, where both would die the following year. The Battle of Actium effectively ended the Roman Republic and made Octavian the sole ruler of the Roman world. He would take the name Augustus and become the first Roman Emperor.",
+    "ja": "紀元前31年9月2日、アントニウスはアグリッパ指揮下のオクタウィアヌスの400隻のより軽量で機動力のある艦船に対し、約230隻の軍艦でアンブラキア湾からの突破を試みた。戦闘は数時間膠着したが、クレオパトラの60隻のエジプト船隊が突然中央を突破し、戦争資金と共に南へ逃走した。アントニウスは旗艦を捨ててわずかな船で彼女を追い、艦隊を指揮官なしに残した。残りのアントニウス艦隊は降伏するか撃沈された。一週間後、アントニウスに見捨てられた19個軍団の軍は戦わずしてオクタウィアヌスに降伏した。アントニウスとクレオパトラはエジプトに逃れ、翌年二人とも命を落とすことになる。アクティウムの海戦は事実上ローマ共和国を終わらせ、オクタウィアヌスをローマ世界の唯一の支配者とした。彼はアウグストゥスの名を取り、初代ローマ皇帝となった。",
+    "zh-CN": "公元前31年9月2日，安东尼试图以约230艘战舰从安布拉基亚湾突围，对抗由阿格里帕指挥的屋大维400艘更轻便、更灵活的战船。战斗在数小时内僵持不下，直到克利奥帕特拉率领的60艘埃及战船突然从中央突破，携带战争财宝向南逃去。安东尼抛下旗舰，仅带少数船只追随她而去，留下舰队群龙无首。剩余的安东尼舰船或投降或被摧毁。一周后，被安东尼遗弃的19个军团不战而降。安东尼和克利奥帕特拉逃往埃及，两人于次年先后身亡。亚克兴海战实际上终结了罗马共和国，使屋大维成为罗马世界的唯一统治者。他取名奥古斯都，成为第一位罗马皇帝。"
+  },
+  "keyFigures": [
+    {
+      "id": "octavian",
+      "name": "Gaius Octavian (later Augustus)",
+      "role": {
+        "en": "Triumvir and Ruler of the Western Roman Provinces",
+        "ja": "三頭政治官およびローマ西方属州の支配者",
+        "zh-CN": "三头同盟成员及罗马西方行省统治者"
+      },
+      "faction": "Octavian",
+      "description": {
+        "en": "The adopted son of Julius Caesar, Octavian was only 32 years old at Actium but had spent thirteen years in the cutthroat arena of Roman power politics. Not a gifted military commander himself, he compensated with political genius, ruthless pragmatism, and the wisdom to delegate military matters to his brilliant friend Agrippa. His propaganda campaign against Antony and Cleopatra had united Italy behind him and given the war a moral dimension beyond mere rivalry.",
+        "ja": "ユリウス・カエサルの養子であるオクタウィアヌスはアクティウム時わずか32歳であったが、ローマの熾烈な権力政治の世界で13年を過ごしていた。自ら優れた軍事指揮官ではなかったが、政治的天才、冷酷な実用主義、そして軍事問題を優秀な友人アグリッパに委ねる賢明さで補った。アントニウスとクレオパトラに対する宣伝工作はイタリアを結束させ、単なる対立を超えた道義的な次元を戦争に与えた。",
+        "zh-CN": "作为尤利乌斯·凯撒的养子，屋大维在亚克兴时年仅32岁，但已在罗马残酷的权力政治舞台上历练了十三年。他本人并非出色的军事指挥官，但以政治天赋、冷酷的务实主义以及将军事事务委托给杰出好友阿格里帕的智慧来弥补。他对安东尼和克利奥帕特拉的宣传攻势将意大利团结在他身后，赋予了这场战争超越单纯权力竞争的道德维度。"
+      }
+    },
+    {
+      "id": "agrippa",
+      "name": "Marcus Vipsanius Agrippa",
+      "role": {
+        "en": "Admiral and Supreme Naval Commander of Octavian's Fleet",
+        "ja": "提督およびオクタウィアヌス艦隊の最高海軍司令官",
+        "zh-CN": "屋大维舰队海军统帅"
+      },
+      "faction": "Octavian",
+      "description": {
+        "en": "Octavian's closest friend and the finest military mind on either side of the conflict. Agrippa had already won the naval war before Actium through his brilliant campaign of interdiction, seizing Methone, Patras, and Corinth to strangle Antony's supply lines. At 32, he was arguably the best admiral Rome had ever produced, combining tactical brilliance with strategic vision and relentless energy.",
+        "ja": "オクタウィアヌスの最も親しい友人であり、この紛争の両陣営を通じて最も優れた軍事的頭脳。アグリッパはアクティウム以前にすでにメトネ、パトラス、コリントスを占領してアントニウスの補給線を絞め上げる見事な阻止作戦で海戦の勝利を収めていた。32歳にしてローマ史上最高の提督と言えるほどで、戦術的天才に戦略的視野と絶え間ないエネルギーを兼ね備えていた。",
+        "zh-CN": "屋大维最亲密的朋友，也是冲突双方中最杰出的军事头脑。阿格里帕在亚克兴之前就已经通过出色的封锁战役赢得了制海权，攻占了梅索尼、帕特雷和科林斯，扼杀了安东尼的补给线。32岁的他堪称罗马有史以来最优秀的海军将领，将战术才华与战略眼光和不懈的精力融为一体。"
+      }
+    },
+    {
+      "id": "mark-antony",
+      "name": "Marcus Antonius (Mark Antony)",
+      "role": {
+        "en": "Triumvir and Ruler of the Eastern Roman Provinces",
+        "ja": "三頭政治官およびローマ東方属州の支配者",
+        "zh-CN": "三头同盟成员及罗马东方行省统治者"
+      },
+      "faction": "Antony-Cleopatra",
+      "description": {
+        "en": "Once Caesar's greatest lieutenant and a formidable military commander, Antony had spent the past decade building a power base in the east. His alliance with Cleopatra gave him access to Egypt's immense wealth but had cost him political support in Rome. By Actium, his strategic position had deteriorated badly — his fleet was trapped, his army was starving, and his allies were deserting. The bold commander of Philippi had become an increasingly indecisive leader.",
+        "ja": "かつてカエサルの最も偉大な副官であり恐るべき軍事司令官であったアントニウスは、過去10年間東方に権力基盤を築いてきた。クレオパトラとの同盟はエジプトの莫大な富へのアクセスを与えたが、ローマでの政治的支持を犠牲にした。アクティウムまでに彼の戦略的立場は著しく悪化していた——艦隊は閉じ込められ、軍は飢え、同盟者は離反していた。フィリッピの大胆な指揮官は、ますます優柔不断な指導者となっていた。",
+        "zh-CN": "安东尼曾是凯撒最伟大的副将和令人敬畏的军事指挥官，在过去十年中在东方建立了自己的权力基础。与克利奥帕特拉的联盟让他获得了埃及的巨大财富，却也使他失去了罗马的政治支持。到亚克兴时，他的战略形势已严重恶化——舰队被困，军队挨饿，盟友纷纷叛逃。腓立比战役中那位大胆的指挥官已变成一个日益犹豫不决的领导者。"
+      }
+    },
+    {
+      "id": "cleopatra",
+      "name": "Cleopatra VII Philopator",
+      "role": {
+        "en": "Queen of Egypt and Antony's Co-Commander",
+        "ja": "エジプト女王およびアントニウスの共同司令官",
+        "zh-CN": "埃及女王及安东尼的联合指挥官"
+      },
+      "faction": "Antony-Cleopatra",
+      "description": {
+        "en": "The last active ruler of the Ptolemaic Kingdom, Cleopatra was far more than Antony's consort — she was an independent sovereign who had staked her kingdom's survival on the alliance. She personally commanded a squadron of 60 warships and controlled the war treasury. Her presence at Actium was both a strategic asset and a political liability, as it fueled Octavian's propaganda that Antony was a puppet of a foreign queen.",
+        "ja": "プトレマイオス朝最後の実質的支配者であるクレオパトラは、アントニウスの配偶者以上の存在であった——この同盟に王国の存亡を賭けた独立した主権者であった。60隻の軍艦の部隊を自ら指揮し、戦争資金を管理していた。彼女のアクティウムでの存在は戦略的資産であると同時に政治的負債でもあった。アントニウスが外国の女王の傀儡であるというオクタウィアヌスの宣伝を助長したからである。",
+        "zh-CN": "作为托勒密王朝最后一位实际统治者，克利奥帕特拉远不仅是安东尼的伴侣——她是一位独立的君主，将自己王国的存亡押在了这场联盟上。她亲自指挥一支60艘战舰的分队，掌控着战争国库。她在亚克兴的出现既是战略资产也是政治负担，因为这为屋大维关于安东尼是外国女王傀儡的宣传提供了口实。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "octavian-commander",
+      "scenarioId": "actium-31bc",
+      "name": "Gaius Octavian",
+      "title": {
+        "en": "Triumvir and Champion of Rome",
+        "ja": "三頭政治官およびローマの守護者",
+        "zh-CN": "三头同盟成员及罗马的捍卫者"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Gaius Octavian, adopted son of the divine Julius Caesar, triumvir of Rome, and master of the western world. For thirteen years you have clawed your way through the treacherous landscape of Roman politics — surviving proscriptions, betrayals, and civil wars to reach this moment. Your rival Mark Antony sits trapped on the coast of western Greece with a starving army and a rotting fleet, and you have your brilliant admiral Agrippa to thank for it.\n\nThe strategic situation is overwhelmingly in your favor. Agrippa's naval campaign has been a masterpiece: by seizing Methone, Patras, and Corinth, he has cut Antony's supply lines from Egypt and the east. Antony's fleet of massive quinqueremes is penned inside the Ambracian Gulf, his rowers are dying of malaria and starvation, and his army — once 70,000 strong — has been bled by disease and desertion. Several of his allied kings have already crossed over to your camp. Your own fleet of 400 lighter Liburnian warships controls the sea, and your army of 80,000 holds the high ground north of Actium.\n\nBut the war is not yet won. Antony is still a dangerous opponent — the victor of Philippi, the conqueror of Armenia. If he breaks out of the gulf with his fleet and the Egyptian war treasury intact, he can retreat to Egypt, regroup, and prolong the war for years. Cleopatra's gold is the real prize: whoever controls it controls the ability to raise and pay armies. Your task is not merely to defeat Antony but to destroy him — to end this war here and now, on the waters of Actium, so that Rome may have peace at last.",
+        "ja": "あなたはガイウス・オクタウィアヌス、神君ユリウス・カエサルの養子、ローマの三頭政治官、西方世界の支配者である。13年間、あなたはローマ政治の裏切りに満ちた世界を戦い抜いてきた。追放令、裏切り、内戦を生き延びてこの瞬間に至った。ライバルのマルクス・アントニウスは飢えた軍と朽ちゆく艦隊と共にギリシャ西岸に閉じ込められている。それは優秀な提督アグリッパのおかげだ。\n\n戦略的状況はあなたに圧倒的に有利だ。アグリッパの海軍作戦は傑作であった。メトネ、パトラス、コリントスを占領し、アントニウスのエジプトおよび東方からの補給線を断った。アントニウスの巨大な五段櫂船の艦隊はアンブラキア湾内に封じ込められ、漕ぎ手はマラリアと飢餓で死に、かつて7万人を数えた軍は疫病と脱走で削られている。同盟していた王たちのうち数人はすでにあなたの陣営に移った。あなたの400隻のリブルナ型軽戦艦が制海権を握り、8万人の軍がアクティウム北方の高地を占めている。\n\nしかし戦争はまだ勝利していない。アントニウスは依然として危険な敵だ。フィリッピの勝者、アルメニアの征服者である。もし彼が艦隊とエジプトの戦争資金を無傷のまま湾から脱出すれば、エジプトに撤退し、再編成し、戦争を何年も長引かせることができる。クレオパトラの黄金こそ真の獲物だ。それを制する者が軍を集め養う力を制する。あなたの任務は単にアントニウスを打ち負かすことではなく、彼を滅ぼすこと——アクティウムの海上でこの戦争を今ここで終わらせ、ローマについに平和をもたらすことだ。",
+        "zh-CN": "你是盖乌斯·屋大维，神君尤利乌斯·凯撒的养子，罗马三头同盟成员，西方世界的主宰者。十三年来，你在罗马政治的险恶丛林中披荆斩棘——在公敌宣告、背叛和内战中幸存下来，走到了这一刻。你的对手马克·安东尼带着一支挨饿的军队和一支腐烂的舰队被困在希腊西海岸，这一切要归功于你杰出的海军将领阿格里帕。\n\n战略形势对你压倒性地有利。阿格里帕的海军战役堪称杰作：通过夺取梅索尼、帕特雷和科林斯，他切断了安东尼来自埃及和东方的补给线。安东尼那支由巨型五列桨战船组成的舰队被困在安布拉基亚湾内，桨手正死于疟疾和饥饿，他曾经七万人的大军已被疾病和逃亡消耗殆尽。他的数位附庸国王已经投奔你的阵营。你的四百艘更轻便的利布尔纳型战船控制着海面，八万大军占据着亚克兴北面的高地。\n\n但战争尚未获胜。安东尼仍然是一个危险的对手——腓立比的胜者，亚美尼亚的征服者。如果他带着舰队和完好的埃及战争国库突围而出，他可以撤退到埃及，重新集结，将战争拖延数年。克利奥帕特拉的黄金才是真正的战利品：谁控制了它，谁就控制了募集和供养军队的能力。你的任务不仅是打败安东尼，而是摧毁他——在亚克兴的海面上此时此地终结这场战争，让罗马终于迎来和平。"
+      },
+      "objectives": [
+        {
+          "en": "Destroy or capture Antony's fleet as it attempts to break out of the Ambracian Gulf",
+          "ja": "アンブラキア湾からの突破を試みるアントニウスの艦隊を撃滅または捕獲する",
+          "zh-CN": "在安东尼的舰队试图突围安布拉基亚湾时将其摧毁或俘获"
+        },
+        {
+          "en": "Secure the Egyptian war treasury carried aboard Cleopatra's squadron",
+          "ja": "クレオパトラの艦隊に積まれたエジプトの戦争資金を確保する",
+          "zh-CN": "夺取克利奥帕特拉分队上装载的埃及战争国库"
+        },
+        {
+          "en": "Force the surrender of Antony's remaining land forces to end the civil war decisively",
+          "ja": "アントニウスの残存陸上兵力の降伏を強い、内戦を決定的に終わらせる",
+          "zh-CN": "迫使安东尼的残余陆军投降以决定性地终结内战"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Antony's heavy quinqueremes are individually more powerful than your lighter Liburnian ships — you must avoid broadside engagements against massed heavy ships",
+          "ja": "アントニウスの重い五段櫂船は個々にはあなたの軽いリブルナ船より強力——重装船の密集した舷側戦闘を避けなければならない",
+          "zh-CN": "安东尼的重型五列桨战船单船实力强于你较轻的利布尔纳战船——必须避免与密集的重型战船进行舷侧交战"
+        },
+        {
+          "en": "If Cleopatra's treasure ships escape south, the war could continue indefinitely from Egypt",
+          "ja": "クレオパトラの財宝船が南へ逃れれば、戦争はエジプトから無期限に続く可能性がある",
+          "zh-CN": "如果克利奥帕特拉的财宝船南逃成功，战争可能从埃及无限期延续"
+        },
+        {
+          "en": "You are not a skilled naval tactician — you must rely on Agrippa's judgment in the heat of battle",
+          "ja": "あなたは熟練した海戦戦術家ではない——戦闘の最中はアグリッパの判断に頼らなければならない",
+          "zh-CN": "你不是一个熟练的海战战术家——在激战中必须依赖阿格里帕的判断"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Antony's forces are weakening daily from disease and desertion — but a cornered animal is most dangerous",
+          "ja": "アントニウスの軍は疫病と脱走で日々弱体化している——しかし追い詰められた獣が最も危険である",
+          "zh-CN": "安东尼的部队每天都因疾病和逃亡而削弱——但困兽犹斗最为危险"
+        },
+        {
+          "en": "Political pressure in Rome demands a swift, decisive victory — a prolonged stalemate could erode your support",
+          "ja": "ローマの政治的圧力が迅速かつ決定的な勝利を求めている——長期の膠着はあなたの支持を蝕む可能性がある",
+          "zh-CN": "罗马的政治压力要求迅速决定性的胜利——长期僵持可能侵蚀你的支持基础"
+        },
+        {
+          "en": "Antony may attempt a breakout at any moment, and the timing of his sortie is his to choose, not yours",
+          "ja": "アントニウスはいつでも突破を試みる可能性があり、出撃のタイミングは彼が選ぶもので、あなたではない",
+          "zh-CN": "安东尼随时可能尝试突围，出击时机由他选择而非你"
+        }
+      ],
+      "startingSceneId": "actium-31bc-scene-001",
+      "initialState": {
+        "navalSuperiority": 65,
+        "fleetReadiness": 75,
+        "enemyMorale": 30,
+        "treasureSecurity": 50,
+        "politicalLegitimacy": 70
+      }
+    }
+  ],
+  "sceneIds": [
+    "actium-31bc-scene-001",
+    "actium-31bc-scene-002",
+    "actium-31bc-scene-003"
+  ],
+  "tags": ["ancient", "naval", "political", "europe", "roman-republic", "civil-war"],
+  "difficulty": "intermediate"
+}

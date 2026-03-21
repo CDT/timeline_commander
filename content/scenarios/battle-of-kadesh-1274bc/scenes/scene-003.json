@@ -1,0 +1,123 @@
+{
+  "id": "battle-of-kadesh-1274bc-scene-003",
+  "scenarioId": "battle-of-kadesh-1274bc",
+  "isTerminal": true,
+  "date": {
+    "en": "Evening After the Battle, 1274 BC",
+    "ja": "紀元前1274年、戦闘後の夕暮れ",
+    "zh-CN": "公元前1274年战后傍晚"
+  },
+  "location": {
+    "en": "Egyptian Camp, West of Kadesh, Syria",
+    "ja": "シリア、カデシュ西のエジプト野営地",
+    "zh-CN": "叙利亚，卡叠什以西埃及营地"
+  },
+  "title": {
+    "en": "What Victory Looks Like",
+    "ja": "勝利の形",
+    "zh-CN": "胜利的样子"
+  },
+  "narrativePrompt": {
+    "en": "The Hittite chariots have withdrawn. Your four divisions are finally united. Kadesh still stands — you did not take it. Muwatalli's army is battered but intact behind the city walls. You have survived what should have destroyed you. Tonight your generals will ask: do you storm Kadesh in the morning, before the Hittites can recover? Or do you declare this a victory, accept the propaganda potential, and withdraw to Egypt to fight another day — knowing that if you assault Kadesh tomorrow and fail, you will have traded a survival story for a disaster?",
+    "ja": "ヒッタイット戦車が撤退した。四個師団がついに統一された。カデシュはまだ立っている——あなたは攻略しなかった。ムワタリの軍は疲弊しているが城壁の後ろで無傷だ。あなたを壊滅させるはずだったものを生き延びた。今夜、将軍たちは問うだろう：ヒッタイットが回復する前に、朝カデシュを攻撃するか？それとも、これを勝利と宣言し、プロパガンダの可能性を受け入れ、またの日のためにエジプトに撤退するか——明日カデシュを攻撃して失敗すれば、生存の物語を災難と引き換えにすることになると知りながら？",
+    "zh-CN": "赫梯战车已撤退。你的四个师终于合并。卡叠什依然屹立——你没有攻取它。穆瓦塔利的军队在城墙后面虽伤痕累累但完好无损。你在本应摧毁你的情况下生存下来。今晚你的将领们会问：是否趁赫梯人尚未恢复，明早突袭卡叠什？还是宣布这是一场胜利，接受其宣传潜力，撤回埃及等待时机——知道如果明天攻打卡叠什并失败，你将用一个生存故事换来一场灾难？"
+  },
+  "situationReport": [
+    {
+      "en": "Your army has suffered significant casualties, particularly in the Ra Division which was largely destroyed. The Ptah and Set divisions are fresh but were not tested today.",
+      "ja": "あなたの軍は大きな損失を被った。特にほぼ壊滅したラー師団において。プタハ師団とセト師団は新鮮だが、今日は試されなかった。",
+      "zh-CN": "你的军队遭受了重大伤亡，特别是基本被摧毁的拉师。普塔赫师和塞特师还生力未损，但今天没有参战。"
+    },
+    {
+      "en": "Kadesh's walls are intact. The Hittite infantry — 47,000 strong — was not committed in today's battle. It remains behind the walls.",
+      "ja": "カデシュの壁は無傷だ。ヒッタイット歩兵——47,000人の兵力——は今日の戦いに投入されなかった。壁の後ろに留まっている。",
+      "zh-CN": "卡叠什的城墙完好无损。赫梯步兵——47,000人的兵力——在今天的战斗中没有参与。它仍在城墙后面。"
+    },
+    {
+      "en": "Muwatalli has sent a herald requesting an end to hostilities. He calls it a peace offer; your generals call it an admission of weakness.",
+      "ja": "ムワタリは敵対行為の終結を求める使者を送ってきた。彼はそれを和平提案と呼ぶ。あなたの将軍たちはそれを弱さの告白と呼ぶ。",
+      "zh-CN": "穆瓦塔利派出传令官请求停止敌对行动。他称之为和平提议；你的将领们称之为示弱。"
+    },
+    {
+      "en": "Your supply lines stretch back to Egypt. Your army needs food and rest. An assault on Kadesh's walls tomorrow risks everything you survived today.",
+      "ja": "あなたの補給線はエジプトまで伸びている。軍は食料と休息が必要だ。明日カデシュの壁への突撃は、今日生き延びたすべてを危険にさらす。",
+      "zh-CN": "你的补给线延伸回埃及。军队需要食物和休整。明天突袭卡叠什城墙的风险是赌上你今天生存下来的一切。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure something from this campaign that can be presented as victory in Egypt",
+      "ja": "この遠征から、エジプトで勝利として提示できる何かを確保する",
+      "zh-CN": "从这次战役中获取某些可以在埃及呈现为胜利的东西"
+    },
+    {
+      "en": "Preserve the army for future campaigns — Egypt's strength is its trained soldiers, not this Syrian city",
+      "ja": "将来の遠征のために軍を保全する——エジプトの強みはこのシリアの都市ではなく訓練された兵士だ",
+      "zh-CN": "为未来的战役保存军队——埃及的力量在于训练有素的士兵，而非这座叙利亚城市"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Returning without Kadesh will require explanation in Egypt — Pharaoh does not fail",
+      "ja": "カデシュなしで帰還することはエジプトでの説明が必要になる——ファラオは失敗しない",
+      "zh-CN": "没有卡叠什就返回需要在埃及作出解释——法老不会失败"
+    },
+    {
+      "en": "The Hittite army in the city is larger than yours and fresh — a siege without supplies will fail",
+      "ja": "都市内のヒッタイット軍はあなたより大きく新鮮だ——補給なしの包囲は失敗するだろう",
+      "zh-CN": "城市中的赫梯军队比你更多且生力未损——没有补给的围城将会失败"
+    }
+  ],
+  "choices": [
+    {
+      "id": "withdraw-and-propagandize",
+      "label": {
+        "en": "Accept Muwatalli's offer, withdraw with honors, and make Egypt believe you won",
+        "ja": "ムワタリの申し出を受け入れ、名誉を持って撤退し、エジプトに勝利したと信じさせる",
+        "zh-CN": "接受穆瓦塔利的提议，荣誉撤军，让埃及相信你赢了"
+      },
+      "description": {
+        "en": "You survived the impossible. The Hittite king offered terms. Declare it victory. Have your scribes compose the greatest battle poem in Egyptian history. Cover every temple wall in Egypt with the tale of Ramesses the Great charging alone into ten thousand Hittites — and surviving. Let the story be the victory.",
+        "ja": "あなたは不可能を生き延びた。ヒッタイットの王が条件を申し出た。これを勝利と宣言する。書記官たちにエジプト史上最も偉大な戦闘詩を作曲させる。エジプト中のすべての神殿の壁を、ラメセス大王が一人で一万人のヒッタイットに突撃して——生き延びた——物語で覆う。物語を勝利にする。",
+        "zh-CN": "你在不可能中生存下来。赫梯国王提出了条件。宣布胜利。让你的书吏创作埃及历史上最伟大的战歌。用拉美西斯大帝只身冲入一万赫梯人——并生存下来的故事覆盖埃及所有神庙的墙壁。让故事成为胜利。"
+      },
+      "historicalContext": "This is what Ramesses actually did. He withdrew from Kadesh without capturing it, returned to Egypt, and launched one of history's greatest propaganda campaigns. The Poem of Pentaur — inscribed on temple walls from Abu Simbel to Karnak — made Kadesh synonymous with Ramesses's divine heroism. Both sides eventually signed the Treaty of Kadesh (~1258 BC), the world's oldest surviving peace treaty, recognizing a status quo boundary. Ramesses ruled for 66 years and became one of Egypt's most celebrated pharaohs partly because of this battle he did not quite win.",
+      "outcomePrompt": {
+        "en": "You send word to Muwatalli: Egypt is satisfied. You withdraw south. Your scribes begin writing before you reach the Nile. By the time you return to Thebes, the story of Ramesses at Kadesh has already spread through Egypt: the Pharaoh who stood alone against fifty thousand Hittites, who prayed to Amun and was answered by the gods themselves. The temples will be covered in the story. The story will outlast the empire. Fifteen years later, Muwatalli's successor signs a peace treaty with you — equal terms, equal glory. The world's first international peace agreement is carved in silver. Ramesses reigns for 66 years. His fame outlasts his empire by three thousand years.",
+        "ja": "あなたはムワタリに言葉を送る：エジプトは満足している。南に撤退する。書記官たちはあなたがナイルに到達する前に書き始める。テーベに戻る頃には、カデシュのラメセスの物語はすでにエジプト中に広まっている：五万人のヒッタイットに対して一人で立ちはだかり、アメンに祈り、神々自身に答えられたファラオ。神殿はこの物語で覆われるだろう。物語は帝国より長く続く。十五年後、ムワタリの後継者があなたと平和条約に署名する——平等な条件、平等な栄光。世界初の国際平和協定が銀に刻まれる。ラメセスは66年間統治する。彼の名声は帝国より三千年長く続く。",
+        "zh-CN": "你向穆瓦塔利传话：埃及满意了。你向南撤退。你的书吏在你到达尼罗河之前就开始写作。当你回到底比斯时，卡叠什的拉美西斯的故事已经传遍埃及：那位单独对抗五万赫梯人的法老，祈求阿蒙神，得到诸神亲自回应。神庙将被这个故事覆盖。这个故事将比帝国更长久。十五年后，穆瓦塔利的继承者与你签署和平条约——平等条款，共同荣耀。世界上第一份国际和平协议刻在白银上。拉美西斯统治了66年。他的声名比他的帝国多延续三千年。"
+      },
+      "stateChanges": [
+        { "key": "pharaohPrestige", "operation": "set", "value": 100 },
+        { "key": "egyptianMorale", "operation": "set", "value": 90 },
+        { "key": "diplomacyPath", "operation": "set", "value": 1 }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "id": "storm-kadesh",
+      "label": {
+        "en": "Storm Kadesh at dawn: the Ptah and Set divisions are fresh, finish what we came here for",
+        "ja": "夜明けにカデシュを攻める：プタハ師団とセト師団は新鮮だ、来た目的を果たせ",
+        "zh-CN": "黎明时突袭卡叠什：普塔赫和塞特师生力未损，完成我们来此的任务"
+      },
+      "description": {
+        "en": "Muwatalli offered terms because he is weak. Push the advantage. Dawn attack with fresh divisions while the Hittites are demoralized. Kadesh is the objective — return without it and explain failure to Egypt.",
+        "ja": "ムワタリが条件を申し出たのは彼が弱いからだ。優位を押し進める。ヒッタイットが士気を失っている間に、新鮮な師団と共に夜明けに攻撃する。カデシュが目標だ——攻略せずに帰還してエジプトに失敗を説明せよ。",
+        "zh-CN": "穆瓦塔利提出条件是因为他很弱。推进优势。趁赫梯人士气低落时用生力师在黎明发动攻击。卡叠什是目标——未能攻取就返回，向埃及解释失败。"
+      },
+      "historicalContext": "This is the counterfactual. Ramesses did not attempt to storm Kadesh on the following day. The Hittite infantry — far larger than the chariot force he had faced — remained intact inside the walls. An assault on prepared Hittite defenses with a weakened Egyptian army would likely have resulted in catastrophic defeat and potentially Ramesses's capture, ending the New Kingdom Pharaonic period in disaster.",
+      "outcomePrompt": {
+        "en": "You attack at dawn. The Ptah and Set divisions advance against the walls. But inside Kadesh, 47,000 Hittite infantry have had all night to prepare. The walls hold. Your assault troops are cut down at the gates. By midday, the attack has failed. Muwatalli now has no reason to offer terms. You withdraw — not as a survivor of impossible odds, but as a general who turned a miraculous escape into a defeat by overreaching. The story that reaches Egypt is not the one your scribes could have made.",
+        "ja": "あなたは夜明けに攻撃する。プタハ師団とセト師団が壁に向けて前進する。しかしカデシュの中では、47,000人のヒッタイット歩兵が一晩中準備する時間があった。壁は持ちこたえる。攻撃部隊は門前で討ち取られる。正午までに攻撃は失敗した。ムワタリには今や条件を申し出る理由がない。あなたは撤退する——不可能な状況の生存者としてではなく、奇跡的な脱出を無謀にも敗北に変えた将軍として。エジプトに届く物語は、書記官たちが作れたはずのものではない。",
+        "zh-CN": "你在黎明发动攻击。普塔赫和塞特师向城墙推进。但卡叠什内部，47,000名赫梯步兵有整整一夜的时间准备。城墙守住了。你的突击部队在城门前被击倒。到正午，攻击已经失败。穆瓦塔利现在没有理由再提条件了。你撤退——不是作为化解不可能险境的幸存者，而是作为一个因过度冒险而将奇迹般的逃脱变成失败的将军。传到埃及的故事不是你的书吏本可以创作的那个。"
+      },
+      "stateChanges": [
+        { "key": "egyptianMorale", "operation": "add", "value": -25 },
+        { "key": "pharaohPrestige", "operation": "add", "value": -30 },
+        { "key": "hittitePressure", "operation": "set", "value": 100 }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

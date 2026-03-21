@@ -1,0 +1,114 @@
+{
+  "id": "trojan-war-1184bc-scene-003",
+  "scenarioId": "trojan-war-1184bc",
+  "title": {
+    "en": "The Fall of Troy",
+    "ja": "トロイの陥落",
+    "zh-CN": "特洛伊的陷落"
+  },
+  "date": {
+    "en": "Night of the Fall, circa 1184 BC",
+    "ja": "紀元前1184年頃 陥落の夜",
+    "zh-CN": "约公元前1184年 陷落之夜"
+  },
+  "location": {
+    "en": "Inside the Walls of Troy",
+    "ja": "トロイの城壁内部",
+    "zh-CN": "特洛伊城墙之内"
+  },
+  "narrativePrompt": {
+    "en": "Silence has finally settled over Troy. The last strains of celebration have faded, replaced by the deep, heavy breathing of a city drunk on its own relief. Through the peephole, the streets of Troy lie still under a canopy of stars, lit only by the dying embers of celebratory bonfires. The guards who should be manning the walls lie slumped at their posts, amphoras of wine clutched in slack hands. This is the moment you have engineered through ten years of patient warfare and weeks of meticulous deception.\n\nYou ease open the hidden hatch in the horse's belly. The night air hits your face like a blessing after hours of suffocating confinement. One by one, your warriors drop silently to the ground, stretching cramped limbs and drawing weapons with practiced efficiency. Neoptolemus's eyes gleam with a predatory light. Menelaus scans the darkened streets, searching for the palace where Helen waits. Diomedes has already oriented himself toward the nearest gate tower.\n\nThe city of Troy spreads before you in the moonlight — a labyrinth of narrow streets, grand temples, and the towering palace of Priam on the acropolis above. Somewhere in the darkness, the Trojan army sleeps, their weapons stacked carelessly against walls, their armor set aside. You have perhaps two hours before dawn begins to lighten the eastern sky, and in those two hours, you must open the gates for the returning Greek army, secure key positions within the city, and ensure that Troy cannot organize an effective defense.\n\nBut a decision faces you now. The city gate is heavily barred from within, requiring significant effort and time to open — time during which an alert sentry could raise the alarm. Alternatively, you could split your small force, sending one team to the gates while you lead another to the palace to capture King Priam, decapitating the Trojan leadership before the main assault begins. Every minute counts, and the wrong choice could see your small band of warriors overwhelmed before reinforcements arrive.",
+    "ja": "ついにトロイに静寂が訪れた。祝宴の最後の余韻は消え去り、自らの安堵に酔いしれた都市の深く重い寝息に取って代わられた。覗き穴を通して、トロイの通りは星空の天蓋の下に静まり返り、祝いの篝火の消えかけた残り火だけが照らしている。城壁を守るべき衛兵たちは持ち場で崩れ落ちるように眠り、弛んだ手に酒壺を抱えている。これこそ、十年の忍耐強い戦いと数週間の精密な欺瞞を通じてあなたが作り上げた瞬間である。\n\nあなたは木馬の腹の隠し扉をそっと開ける。何時間もの息苦しい閉塞の後、夜気が祝福のように顔に当たる。一人また一人と、戦士たちが静かに地面に降り、こわばった手足を伸ばし、手慣れた効率で武器を抜く。ネオプトレモスの目は捕食者のような光で輝いている。メネラオスは暗い通りを探るように見渡し、ヘレネが待つ宮殿を探している。ディオメデスはすでに最も近い門塔の方角を見定めている。\n\nトロイの都市が月光の中であなたの前に広がる——狭い通り、壮大な神殿、そしてその上のアクロポリスにそびえるプリアモスの宮殿の迷宮。闇のどこかでトロイ軍が眠り、武器は壁に不用意に立てかけられ、鎧は脇に置かれている。東の空が白み始めるまでおそらく二時間。その二時間の間に、帰還するギリシャ軍のために門を開き、市内の要衝を確保し、トロイが効果的な防衛を組織できないようにしなければならない。\n\nしかし今、決断を迫られている。市門は内側から堅固に閉ざされており、開くには相当な労力と時間が必要だ——その間に警戒中の歩哨が警報を鳴らす可能性がある。あるいは、少数の部隊を分割し、一隊を門に向かわせる間にあなたがもう一隊を率いて宮殿に向かい、本格的な攻撃が始まる前にプリアモス王を捕らえてトロイの指導部を無力化することもできる。一分一秒が重要であり、誤った選択をすれば、援軍が到着する前にあなたの小部隊は圧倒されかねない。",
+    "zh-CN": "寂静终于笼罩了特洛伊。最后的庆祝余音已经消散，取而代之的是一座沉醉于自身宽慰中的城市沉重的呼吸声。通过窥视孔，特洛伊的街道在星空穹顶下一片寂静，只有庆祝篝火垂死的余烬提供微弱的光亮。本应驻守城墙的卫兵瘫倒在岗位上，松弛的手中还握着酒壶。这就是你通过十年耐心的战争和数周精心的欺骗所营造的时刻。\n\n你小心地打开木马腹部的暗门。在数小时令人窒息的禁闭之后，夜风扑面而来如同恩赐。战士们一个接一个地悄无声息地落到地面，舒展僵硬的四肢，以娴熟的效率拔出武器。涅俄普托勒摩斯的眼中闪烁着捕食者般的光芒。墨涅拉俄斯搜寻着昏暗的街道，寻找海伦等待的宫殿。狄俄墨得斯已经辨明了最近城门塔楼的方向。\n\n特洛伊城在月光下展现在你面前——由狭窄的街道、宏伟的神殿和高耸于上方卫城的普里阿摩斯宫殿组成的迷宫。在黑暗中的某处，特洛伊军队正在沉睡，武器被随意倚靠在墙壁上，铠甲被搁置一旁。距离黎明照亮东方天际大约还有两个小时，在这两个小时内，你必须为归来的希腊大军打开城门，确保城内的关键位置，并使特洛伊无法组织有效的防御。\n\n但此刻你面临一个抉择。城门从内部被牢牢封锁，需要大量的力气和时间才能打开——在此期间，一个警觉的哨兵就可能发出警报。另一种选择是，你可以将小部队一分为二，派一队前往城门，同时你亲自率领另一队前往宫殿擒获普里阿摩斯国王，在大规模进攻开始前斩断特洛伊的领导层。每一分钟都至关重要，错误的选择可能导致你的小队在援军到达之前就被压倒。"
+  },
+  "situationReport": [
+    {
+      "en": "Thirty Greek warriors have successfully exited the Trojan Horse undetected. The city of Troy is asleep, with most guards incapacitated by wine.",
+      "ja": "三十人のギリシャ戦士がトロイの木馬から発見されることなく脱出に成功した。トロイの都市は眠りについており、ほとんどの衛兵は酒で動けなくなっている。",
+      "zh-CN": "三十名希腊战士已成功从特洛伊木马中出来而未被发现。特洛伊城正在沉睡，大部分守卫因饮酒而丧失战斗力。"
+    },
+    {
+      "en": "The main Greek fleet awaits the fire signal at Tenedos, approximately one hour's sailing distance from the Trojan shore.",
+      "ja": "ギリシャの主力艦隊はテネドス島で合図の火を待っており、トロイの海岸からおよそ一時間の航程にある。",
+      "zh-CN": "希腊主力舰队在特涅多斯岛等待火光信号，距特洛伊海岸约一小时航程。"
+    },
+    {
+      "en": "Troy's main gate is heavily barred with bronze-reinforced timber beams. Opening it will require coordinated effort from multiple warriors and will take approximately fifteen minutes.",
+      "ja": "トロイの正門は青銅で補強された木材の梁で厳重に閉ざされている。開門には複数の戦士の協力が必要で、約十五分かかる。",
+      "zh-CN": "特洛伊主城门由青铜加固的木梁重重封锁。打开城门需要多名战士协同配合，大约需要十五分钟。"
+    },
+    {
+      "en": "King Priam's palace sits atop the acropolis, roughly ten minutes' advance through narrow streets. A small Trojan royal guard still maintains a post at the palace entrance.",
+      "ja": "プリアモス王の宮殿はアクロポリスの頂上に位置し、狭い通りを約十分進んだところにある。少数のトロイ近衛兵が宮殿の入口でまだ警備を続けている。",
+      "zh-CN": "普里阿摩斯国王的宫殿位于卫城之巅，穿过狭窄街道约十分钟可达。一小队特洛伊王室卫兵仍在宫殿入口处驻守。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Open the gates of Troy and signal the Greek fleet to return for the final assault",
+      "ja": "トロイの城門を開き、最終攻撃のためにギリシャ艦隊に帰還の合図を送る",
+      "zh-CN": "打开特洛伊城门并向希腊舰队发出信号以发起最终进攻"
+    },
+    {
+      "en": "Neutralize Trojan leadership and prevent organized resistance before the main Greek army arrives",
+      "ja": "ギリシャ本隊が到着する前にトロイの指導部を無力化し、組織的な抵抗を阻止する",
+      "zh-CN": "在希腊主力部队到达之前瓦解特洛伊领导层并阻止有组织的抵抗"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Dawn is approximately two hours away — if the gates are not opened before sunrise, the returning fleet will be visible to any surviving Trojan lookouts",
+      "ja": "夜明けまで約二時間——日の出前に門が開かれなければ、帰還する艦隊は生き残ったトロイの監視者に発見されてしまう",
+      "zh-CN": "距离黎明约两个小时——如果日出前城门未能打开，返回的舰队将被任何幸存的特洛伊瞭望兵发现"
+    },
+    {
+      "en": "The force of thirty warriors cannot hold against a fully mobilized Trojan army — stealth and speed are essential",
+      "ja": "三十人の戦士では完全に動員されたトロイ軍には対抗できない——隠密と速度が不可欠である",
+      "zh-CN": "三十名战士的兵力无法抵挡全面动员的特洛伊军队——隐蔽和速度至关重要"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Concentrate all thirty warriors on opening the main gate as quickly as possible, then light the signal fire for the fleet. Deal with the Trojan leadership only after the main army arrives.",
+        "ja": "三十人の戦士全員を集中させて可能な限り迅速に正門を開き、その後艦隊への合図の火を灯す。トロイの指導部への対処は本隊到着後に行う。",
+        "zh-CN": "集中全部三十名战士尽快打开主城门，然后点燃信号火召回舰队。待主力部队到达后再处理特洛伊领导层。"
+      },
+      "historicalContext": "In the traditional account, the primary objective of the warriors inside the horse was to open the gates. This they accomplished swiftly, allowing the full Greek army to pour into the sleeping city. The sack of Troy that followed was total and devastating.",
+      "outcomePrompt": {
+        "en": "You make the decisive call — the gate is everything. Thirty warriors move through the moonlit streets like shadows, dispatching the few sentries who stir with swift, silent efficiency. You reach the main gate in minutes. The massive bronze-reinforced bars require the combined strength of a dozen men to lift, and the creaking of ancient timber sounds deafeningly loud in the silent night. But no alarm is raised. The bars fall away one by one, and with a final heave, the great gates of Troy — those legendary walls that held for ten years against the might of all Greece — swing open to the night. Diomedes sprints to the nearest tower and lights the signal fire. Across the dark water, you see answering flames spring to life on Tenedos. The fleet is coming. Within the hour, the first Greek ships beach on the shore, and thousands of warriors pour through the open gates in a tide of bronze and iron. Troy awakens to the nightmare it never imagined. The fighting is fierce but brief — the Trojans, caught unarmed and leaderless in their beds, cannot mount a coordinated defense. Priam is slain at the altar of Zeus in his own palace. Menelaus finds Helen in her chambers. By dawn, the city that withstood ten years of siege has been reduced to ashes and memory. You stand on the burning battlements as the sun rises, watching the smoke of Troy's destruction curl into the morning sky, knowing that your cunning has achieved what the strength of Achilles could not.",
+        "ja": "あなたは決定的な判断を下す——門こそが全てだ。三十人の戦士が月明かりの通りを影のように移動し、動き出す数少ない歩哨を迅速かつ静かに始末する。数分で正門に到達する。巨大な青銅補強の閂は十二人の戦士の合力で持ち上げる必要があり、古い木材の軋みが静寂の夜に耳をつんざくほど大きく響く。しかし警報は上がらない。閂が一本また一本と外れ、最後の力を込めると、トロイの大門——全ギリシャの力に対して十年間持ちこたえたあの伝説の城壁——が夜に向かって開く。ディオメデスが最寄りの塔に駆け上がり、合図の火を灯す。暗い海の向こう、テネドス島で応答の炎が燃え上がるのが見える。艦隊が来る。一時間以内に、最初のギリシャ船が海岸に乗り上げ、何千もの戦士が青銅と鉄の奔流となって開かれた門から流れ込む。トロイは想像もしなかった悪夢のために目覚める。戦闘は激しいが短い——武器もなく指導者もなく寝床で奇襲されたトロイ軍は組織的な防衛を行えない。プリアモスは自らの宮殿のゼウスの祭壇で殺される。メネラオスは寝室でヘレネを見つける。夜明けまでに、十年の包囲に耐えた都市は灰と記憶に還元された。太陽が昇る中、燃える城壁の上に立ち、トロイの破壊の煙が朝の空に立ち昇るのを見つめながら、アキレウスの力でも成し得なかったことをあなたの知略が成し遂げたことを知る。",
+        "zh-CN": "你做出了决定性的判断——城门就是一切。三十名战士如同暗影般穿过月光下的街道，以迅速无声的效率解决了少数有所警觉的哨兵。几分钟内你们到达主城门。巨大的青铜加固门闩需要十二个人的合力才能抬起，古老木材发出的吱嘎声在寂静的夜晚显得震耳欲聋。但没有警报响起。门闩一根接一根地卸下，随着最后的合力一推，特洛伊的大门——那面对全希腊之力坚守了十年的传奇城墙——向黑夜敞开。狄俄墨得斯飞奔至最近的塔楼点燃信号火。在漆黑的海面对岸，你看到特涅多斯岛上回应的火焰燃起。舰队来了。一小时之内，第一批希腊战船在海岸搁浅，数千名战士如青铜与铁的洪流般涌过敞开的城门。特洛伊在它从未想象过的噩梦中惊醒。战斗激烈但短暂——在床上被突袭的特洛伊人手无寸铁、群龙无首，无法组织协调的防御。普里阿摩斯在自己宫殿中宙斯的祭坛前被杀。墨涅拉俄斯在寝宫中找到海伦。黎明时分，抵御了十年围城的城市已化为灰烬和记忆。太阳升起时，你站在燃烧的城垛上，望着特洛伊毁灭的浓烟卷入晨空，深知你的智谋完成了阿喀琉斯的力量所不能及之事。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "greekMorale", "operation": "add", "value": 30 },
+        { "variable": "trojanVigilance", "operation": "add", "value": -30 },
+        { "variable": "deceptionProgress", "operation": "add", "value": 30 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Split the force: send twenty warriors to the gate under Diomedes, while you lead ten to the palace to capture Priam and prevent any organized Trojan response.",
+        "ja": "部隊を分割する：ディオメデスの指揮下で二十人の戦士を門に向かわせ、自らは十人を率いて宮殿に向かい、プリアモスを捕らえてトロイの組織的な反撃を阻止する。",
+        "zh-CN": "分兵行动：派二十名战士在狄俄墨得斯率领下前往城门，同时你亲率十人前往宫殿擒获普里阿摩斯，阻止特洛伊人的任何有组织的抵抗。"
+      },
+      "historicalContext": "Some accounts suggest that the Greek warriors inside the horse pursued multiple objectives simultaneously. The sack of Troy involved both opening the gates and attacking key Trojan positions. The royal palace and its inhabitants were primary targets from the beginning of the assault.",
+      "outcomePrompt": {
+        "en": "You divide your force with surgical precision. Diomedes takes twenty warriors toward the main gate — more than enough hands to lift the massive bars while maintaining a perimeter against any awakened guards. You lead the remaining ten through Troy's winding streets toward the acropolis, moving with the lethal silence of men who know that discovery means death. The palace guards are few and drowsy. Your warriors dispatch them before they can sound a cry. You burst into the throne room to find it empty, then sweep through the royal chambers. Priam is found at prayer in his private shrine, an old man on his knees before the gods who have already abandoned his city. He looks up at you with the weary dignity of a king who knows his fate. Below, the sound of the great gate grinding open echoes through the city, followed moments later by the distant glow of the signal fire on the tower. The fleet is summoned. You secure the palace, taking Priam and the surviving royal family as prisoners, while Trojan nobles stumble from their beds into a city already doomed. When the Greek army floods through the gates, they find a city in chaos, its leadership captured, its defenders scattered and confused. The fall of Troy is swift, thorough, and merciless. By sunrise, nothing remains of Priam's kingdom but smoke, ruins, and the weeping of captives. The war that began with the theft of one woman ends with the destruction of an entire civilization, and your name — Odysseus, sacker of cities — will echo through the ages.",
+        "ja": "あなたは外科手術のような精密さで部隊を分割する。ディオメデスが二十人の戦士を率いて正門に向かう——巨大な閂を持ち上げながら目覚めた衛兵に対する警戒網を維持するのに十分な人数だ。あなたは残りの十人を率いてトロイの曲がりくねった通りをアクロポリスに向かって進む。発見されれば死を意味すると知る者たちの致命的な静けさで。宮殿の衛兵は少数で眠気に襲われている。あなたの戦士たちは叫び声を上げる前に彼らを始末する。玉座の間に突入するが空であり、次に王族の居室を制圧する。プリアモスは私的な祠で祈っているところを発見される——すでに自らの都市を見捨てた神々の前にひざまずく老人。彼は自らの運命を知る王の疲れた威厳をもってあなたを見上げる。下方で、大門が開く軋みが都市に響き渡り、その直後に塔の合図の火の遠い輝きが続く。艦隊が召喚される。あなたは宮殿を確保し、プリアモスと生き残った王族を捕虜とする一方、トロイの貴族たちはすでに運命の定まった都市の中で寝床からよろめき出る。ギリシャ軍が門から溢れ込むと、指導部は捕らえられ、守備兵は散り散りに混乱する混沌の都市を見出す。トロイの陥落は迅速で、徹底的で、容赦がない。日の出までに、プリアモスの王国には煙と廃墟と捕虜の嘆きしか残らない。一人の女性の略奪から始まった戦争は文明全体の破壊で終わり、あなたの名——都市を滅ぼす者オデュッセウス——は永遠にこだまするだろう。",
+        "zh-CN": "你以外科手术般的精准分配兵力。狄俄墨得斯率二十名战士前往主城门——足够在抬起巨大门闩的同时对任何醒来的守卫保持警戒圈。你率领剩余十人穿过特洛伊蜿蜒的街道向卫城进发，以深知被发现即意味着死亡之人的致命沉默移动。宫殿守卫寥寥无几且睡意朦胧。你的战士在他们发出喊声之前便将其解决。你们冲入王座厅发现空无一人，随后搜遍王室寝宫。普里阿摩斯被发现正在他的私人神龛中祈祷——一个跪在已经抛弃他城市的神灵面前的老人。他以一位知晓自己命运的国王疲惫而庄严的目光仰望着你。在下方，大门缓缓开启的声响回荡全城，随后不久塔楼上信号火的远光映入眼帘。舰队被召回。你控制了宫殿，将普里阿摩斯和幸存的王室成员扣为俘虏，而特洛伊贵族们跌跌撞撞地从床上爬起，发现自己置身于一座早已注定毁灭的城市。当希腊大军涌入城门时，他们发现一座陷入混乱的城市——领导层已被擒获，守军溃散而不知所措。特洛伊的陷落迅速、彻底而无情。日出之前，普里阿摩斯的王国只剩下浓烟、废墟和俘虏的哀泣。这场因夺走一个女人而起的战争以一整个文明的毁灭而终结，而你的名字——毁城者奥德修斯——将在千秋万代中回响。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "greekMorale", "operation": "add", "value": 25 },
+        { "variable": "trojanVigilance", "operation": "add", "value": -20 },
+        { "variable": "allianceCohesion", "operation": "add", "value": 10 },
+        { "variable": "deceptionProgress", "operation": "add", "value": 30 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

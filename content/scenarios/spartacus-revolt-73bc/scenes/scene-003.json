@@ -1,0 +1,122 @@
+{
+  "id": "spartacus-revolt-73bc-scene-003",
+  "scenarioId": "spartacus-revolt-73bc",
+  "isTerminal": true,
+  "date": {
+    "en": "71 BC — The Battle of the Siler River",
+    "ja": "紀元前71年 — シラロ川の戦い",
+    "zh-CN": "公元前71年——西拉罗河战役"
+  },
+  "location": {
+    "en": "The Siler River, Lucania, Southern Italy",
+    "ja": "イタリア南部ルカニア、シラロ川",
+    "zh-CN": "意大利南部卢卡尼亚，西拉罗河"
+  },
+  "title": {
+    "en": "The Last Battle",
+    "ja": "最後の戦い",
+    "zh-CN": "最后的战斗"
+  },
+  "narrativePrompt": {
+    "en": "You have escaped Bruttium but Pompey has cut off the north. Crassus is behind you, Lucullus to the east. There is nowhere left to go. Your men know it. Some have already deserted. The remaining 35,000 are still with you because they have no better option — and because, somehow, you have led them across two years and a hundred impossible situations. One last battle remains. You cannot win, but you can choose how this ends — as a cornered animal, or as something Rome will still be talking about in two thousand years.",
+    "ja": "ブルッティウムから脱出したが、ポンペイウスが北を塞いだ。クラッサスが後ろにいて、ルクッルスが東にいる。行く場所が残っていない。部下たちはそれを知っている。既に何人かは逃げた。残りの35,000人はまだあなたと共にいる——より良い選択肢がないから——そしてどういうわけか、あなたが二年間と百の不可能な状況を通じて彼らを率いてきたから。最後の戦いが残っている。勝つことはできないが、これがどのように終わるかを選ぶことができる——追い詰められた獣として、それとも二千年後にもローマが語り続けるものとして。",
+    "zh-CN": "你逃出了布鲁提乌姆，但庞培已封锁北方。克拉苏在你身后，卢库鲁斯在东方。没有地方可去了。你的手下知道。有些人已经逃跑。剩下的35,000人还与你在一起是因为他们没有更好的选择——也因为不知怎的，你带领他们度过了两年和一百个不可能的处境。最后一场战斗还在前方。你无法赢，但你可以选择这如何结束——作为一头被逼入角落的野兽，还是作为罗马两千年后还在谈论的某种东西。"
+  },
+  "situationReport": [
+    {
+      "en": "Crassus's eight legions are closing from the south. Pompey's veterans block the north. Your army is trapped between them.",
+      "ja": "クラッサスの八個軍団が南から迫っている。ポンペイウスのベテランが北を封鎖している。あなたの軍は彼らの間に閉じ込められている。",
+      "zh-CN": "克拉苏的八个军团从南方逼近。庞培的老兵封锁北方。你的军队被困在他们之间。"
+    },
+    {
+      "en": "Your men are exhausted, hungry, and they know the odds. But they have been told you are undefeated in open battle — that remains true.",
+      "ja": "部下たちは疲弊し、飢え、勝ち目を知っている。しかし彼らはあなたが野戦で無敗だと言われてきた——それはまだ真実だ。",
+      "zh-CN": "你的手下已疲惫、饥饿，他们知道胜算。但他们被告知你在野战中从未失败——这仍然是真的。"
+    },
+    {
+      "en": "Crassus is the primary force. If you can defeat him before Pompey arrives, there is a narrow theoretical escape north — though Pompey would close it within hours.",
+      "ja": "クラッサスが主力だ。ポンペイウスが到着する前に彼を打ち負かせれば、北に向けた狭い理論的逃げ道がある——ただしポンペイウスが数時間以内にそれを塞ぐだろう。",
+      "zh-CN": "克拉苏是主要力量。如果你能在庞培到达之前击败他，理论上有一条向北的狭窄逃路——尽管庞培会在数小时内封锁它。"
+    },
+    {
+      "en": "You have been offered terms: surrender yourself, the revolt ends, the surviving rebels are sold back into slavery. You have not answered.",
+      "ja": "条件が提示されている：あなた自身が降伏し、反乱は終わり、生き残った反乱者たちは奴隷として売られる。あなたはまだ答えていない。",
+      "zh-CN": "你被提出了条件：你自己投降，起义结束，幸存的反叛者被卖回奴隶身份。你还没有回答。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "If possible, break through Crassus and open an escape route north",
+      "ja": "可能であれば、クラッサスを突破して北への脱出路を開く",
+      "zh-CN": "如果可能，突破克拉苏，开辟向北的逃跑路线"
+    },
+    {
+      "en": "Die fighting, not in chains — this was always the minimum",
+      "ja": "鎖に繋がれてではなく、戦いながら死ぬ——これは常に最低限のことだった",
+      "zh-CN": "战死，而非死于锁链——这一直是最低限度"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Surrendering returns every man to slavery — it is not truly an option for those who understand what it means",
+      "ja": "降伏すればすべての者が奴隷に戻る——それが何を意味するかを理解している者たちにとって、それは真の選択肢ではない",
+      "zh-CN": "投降意味着每个人都回到奴隶身份——对于理解这意味着什么的人来说，这不是真正的选择"
+    },
+    {
+      "en": "Your cavalry was largely destroyed in earlier battles — this will be primarily an infantry fight",
+      "ja": "騎兵は以前の戦いで大部分が壊滅した——これは主に歩兵の戦いになる",
+      "zh-CN": "你的骑兵在早前的战斗中大部分被摧毁——这将主要是步兵战斗"
+    }
+  ],
+  "choices": [
+    {
+      "id": "charge-at-crassus",
+      "label": {
+        "en": "Charge directly at Crassus: kill him and the battle ends — one man, one throw of the dice",
+        "ja": "クラッサスに直接突撃する：彼を殺せば戦いは終わる——一人の男、一度の賭け",
+        "zh-CN": "直接冲向克拉苏：杀死他战斗就结束了——一个人，孤注一掷"
+      },
+      "description": {
+        "en": "You cannot win this conventionally. But Crassus is on the field. If you can cut through to him personally — if he dies — his army will pause. In that pause, some of your men might escape north. It is not a strategy. It is the only thing left.",
+        "ja": "通常の方法では勝てない。しかしクラッサスは戦場にいる。個人的に彼のところまで切り込めれば——彼が死ねば——彼の軍は一時停止するだろう。その一時停止で、あなたの部下の何人かが北に逃げられるかもしれない。戦略ではない。残っている唯一のことだ。",
+        "zh-CN": "你无法在常规上赢得这场战斗。但克拉苏在战场上。如果你能亲自冲杀到他面前——如果他死了——他的军队会停顿。在那个停顿中，你的一些手下可能向北逃跑。这不是战略。这是唯一剩下的事情。"
+      },
+      "historicalContext": "This is essentially what Spartacus did. According to Plutarch and Appian, he tried to reach Crassus personally, killing two tribunes in the attempt. He was unhorsed and fought on foot, surrounded. He was killed fighting — his body was never definitively identified among the dead. Approximately 6,000 survivors were crucified by Crassus along the Appian Way from Capua to Rome. Spartacus's personal charge at Crassus is one of antiquity's great final stands.",
+      "outcomePrompt": {
+        "en": "You kill your horse so no one can say you ran. You fight on foot, toward the Roman standards, toward Crassus. You kill two tribunes. Your men fight around you until they don't. You are surrounded. You fight until you cannot. They will never find your body among the 36,000 dead — you will become a ghost in Roman memory, a rebel without a corpse. Six thousand of your men will be crucified along the road from Capua to Rome. Crassus will become a byword for wealth and cruelty. And two thousand years from now, your name will still be spoken, while his is remembered mainly because of you.",
+        "ja": "あなたは自分の馬を殺す。誰にも逃げたと言わせない。徒歩で、ローマの軍旗に向かって、クラッサスに向かって戦う。二人の軍事護民官を殺す。部下たちはできる限りあなたの周りで戦う。あなたは包囲される。できる限り戦う。36,000人の死者の中からあなたの遺体は見つからないだろう——あなたはローマの記憶の中で幽霊となる、遺体のない反乱者。6,000人の部下がカプアからローマまでの道沿いに磔にされるだろう。クラッサスは富と残酷さの代名詞となるだろう。そして二千年後、あなたの名はまだ語られ、彼の名はあなたのせいで主に覚えられている。",
+        "zh-CN": "你杀死了自己的马，不让任何人说你逃跑了。你步行，向罗马的旗帜，向克拉苏战斗。你杀死了两名军事护民官。你的手下在你身旁战斗直到他们不再能战斗。你被包围。你战斗直到力竭。他们永远找不到你在36,000名死者中的遗体——你将成为罗马记忆中的幽灵，一个没有尸体的叛乱者。你的6,000名手下将被钉死在从卡普阿到罗马的道路沿线。克拉苏将成为财富与残酷的代名词。两千年后，你的名字仍将被提及，而他的名字主要因你而被记住。"
+      },
+      "stateChanges": [
+        { "key": "rebelMorale", "operation": "set", "value": 100 },
+        { "key": "romanPressure", "operation": "set", "value": 100 }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "id": "break-through-north",
+      "label": {
+        "en": "Mass assault northward: don't fight Crassus, break through toward Pompey's weaker screen",
+        "ja": "北への大規模突撃：クラッサスと戦わず、ポンペイウスの薄い掩護部隊に向けて突破する",
+        "zh-CN": "向北大规模突击：不与克拉苏交战，向庞培较薄弱的阻拦部队突破"
+      },
+      "description": {
+        "en": "Crassus expects you to turn and fight him. Instead, go north at full speed. Pompey's troops screening the north are not his full force — just advance units. Crash through them before his main body can close. Some will die; more will die fighting Crassus. The goal is not victory but escape.",
+        "ja": "クラッサスはあなたが振り返って彼と戦うことを予想している。代わりに、全速で北に向かう。北を遮断しているポンペイウスの部隊は彼の全力ではない——ただの先遣隊だ。主力が閉じる前に突撃して突破する。何人かは死ぬだろう。クラッサスと戦えばもっと死ぬだろう。目標は勝利ではなく脱出だ。",
+        "zh-CN": "克拉苏期待你转身与他战斗。相反，全速向北。庞培封锁北方的部队不是他的全部力量——只是前锋部队。在他的主力合拢之前冲破他们。会有人死；与克拉苏战斗会死更多人。目标不是胜利而是逃脱。"
+      },
+      "historicalContext": "This is the counterfactual — a last-ditch northern breakthrough attempt rather than turning to fight Crassus. Historically, Spartacus turned to fight Crassus directly. A northern breakout attempt might have saved some fraction of the army if executed with extreme speed, but Pompey's legions were veteran forces and the chances of a meaningful escape were slim. The historical choice (fighting) was arguably more dignified even if less strategically sound.",
+      "outcomePrompt": {
+        "en": "You wheel north and run. Some men follow; others, confused, stop and are cut down by Crassus. The advance units of Pompey see you coming — they form up. You crash into them and push through, losing a third of your strength. Perhaps 10,000 men emerge on the other side. But Pompey's main force is hours behind. They are hunted down over the next three days. You are killed in a running skirmish near Petelia. A few hundred escape into the mountains and live as bandits for years. Crassus hunts your stragglers and crucifies 6,000. The revolt ends not with a charge but with a manhunt.",
+        "ja": "あなたは北に転じて走る。何人かが続く。困惑した他の者たちは立ち止まり、クラッサスに打ち倒される。ポンペイウスの先遣隊があなたが来るのを見て隊形を整える。突撃して突破し、兵力の三分の一を失う。おそらく10,000人が反対側に出る。しかしポンペイウスの主力は数時間後ろにいる。次の三日間で追い詰められる。ペテリア付近の逃走中の小競り合いで殺される。数百人が山に逃げ込み、数年間盗賊として生きる。クラッサスは脱落者を追い詰め、6,000人を磔にする。反乱は突撃ではなく人狩りで終わる。",
+        "zh-CN": "你向北转身奔跑。一些人跟随；其他困惑的人停下来被克拉苏击倒。庞培的先锋部队看到你来——他们列阵。你冲入他们并突破，损失了三分之一的兵力。也许10,000人从另一侧出来。但庞培的主力还在数小时之后。在接下来的三天里他们被追猎。你在佩特利亚附近的一场追击中的小冲突中被杀。几百人逃进山中，以强盗身份生存多年。克拉苏追捕你的落伍者，钉死6,000人。起义不是以冲锋而是以围猎结束。"
+      },
+      "stateChanges": [
+        { "key": "rebelMorale", "operation": "add", "value": -10 },
+        { "key": "escapeRouteOpen", "operation": "add", "value": -20 },
+        { "key": "armyUnity", "operation": "add", "value": -25 }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

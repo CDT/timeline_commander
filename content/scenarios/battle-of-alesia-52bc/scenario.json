@@ -1,0 +1,76 @@
+{
+  "id": "battle-of-alesia-52bc",
+  "title": {
+    "en": "The Siege of Alesia",
+    "ja": "アレシアの包囲",
+    "zh-CN": "阿莱西亚围城战"
+  },
+  "subtitle": {
+    "en": "Gaul, 52 BC",
+    "ja": "ガリア、紀元前52年",
+    "zh-CN": "高卢，公元前52年"
+  },
+  "description": {
+    "en": "Julius Caesar has Vercingetorix's army trapped on the plateau of Alesia. Caesar builds a double ring of fortifications — besieging the besieged while holding off a relief army of 250,000. You are Caesar. Your lines are stretched thin. The Gauls attack from inside and outside simultaneously. Everything Rome has built in Gaul hangs on these walls.",
+    "ja": "ユリウス・カエサルはヴェルキンゲトリクスの軍をアレシアの高台に閉じ込めた。カエサルは二重の要塞の輪を建設する——25万人の救援軍を食い止めながら包囲された者を包囲する。あなたはカエサルだ。あなたの防衛線は薄く張り巡らされている。ガリア人が内外から同時に攻撃する。ガリアにおいてローマが築いてきたすべてのものがこの壁にかかっている。",
+    "zh-CN": "尤利乌斯·凯撒将维钦托利的军队困于阿莱西亚高地。凯撒建造双层防御工事——在抵御25万援军的同时围困被围困者。你就是凯撒。你的防线拉得很薄。高卢人从内外同时发起攻击。罗马在高卢建立的一切都悬于这道墙上。"
+  },
+  "era": "ancient",
+  "region": "gaul",
+  "difficulty": "medium",
+  "role": "caesar-commander",
+  "keyFigures": [
+    {
+      "id": "caesar",
+      "name": {
+        "en": "Julius Caesar",
+        "ja": "ユリウス・カエサル",
+        "zh-CN": "尤利乌斯·凯撒"
+      },
+      "role": {
+        "en": "Roman proconsul, commander of the besieging army",
+        "ja": "ローマの地方総督、包囲軍の指揮官",
+        "zh-CN": "罗马行省总督，围城军队指挥官"
+      }
+    },
+    {
+      "id": "vercingetorix",
+      "name": {
+        "en": "Vercingetorix",
+        "ja": "ヴェルキンゲトリクス",
+        "zh-CN": "维钦托利"
+      },
+      "role": {
+        "en": "Gallic chieftain, leader of the unified resistance",
+        "ja": "ガリアの族長、統一抵抗の指導者",
+        "zh-CN": "高卢首领，统一抵抗运动领袖"
+      }
+    },
+    {
+      "id": "vercassivellaunus",
+      "name": {
+        "en": "Vercassivellaunus",
+        "ja": "ヴェルカッシヴェラウヌス",
+        "zh-CN": "韦尔卡西韦拉乌努斯"
+      },
+      "role": {
+        "en": "Gallic relief army commander, Vercingetorix's cousin",
+        "ja": "ガリア救援軍指揮官、ヴェルキンゲトリクスのいとこ",
+        "zh-CN": "高卢援军指挥官，维钦托利的表兄弟"
+      }
+    }
+  ],
+  "sceneIds": [
+    "battle-of-alesia-52bc-scene-001",
+    "battle-of-alesia-52bc-scene-002",
+    "battle-of-alesia-52bc-scene-003"
+  ],
+  "initialState": {
+    "romanMorale": 65,
+    "fortificationIntegrity": 80,
+    "reliefArmyPressure": 70,
+    "innerGarrisonPressure": 60,
+    "cavalryReserve": 50
+  },
+  "tags": ["rome", "gaul", "caesar", "vercingetorix", "siege", "52bc"]
+}

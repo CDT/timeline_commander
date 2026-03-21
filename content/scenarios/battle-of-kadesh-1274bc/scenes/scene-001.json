@@ -1,0 +1,123 @@
+{
+  "id": "battle-of-kadesh-1274bc-scene-001",
+  "scenarioId": "battle-of-kadesh-1274bc",
+  "isTerminal": false,
+  "date": {
+    "en": "May, 1274 BC — The March North",
+    "ja": "紀元前1274年5月 — 北への行軍",
+    "zh-CN": "公元前1274年5月——北进行军"
+  },
+  "location": {
+    "en": "Near Shabtuna, south of Kadesh, Syria",
+    "ja": "シリア、カデシュ南のシャブトゥナ付近",
+    "zh-CN": "叙利亚，卡叠什以南沙布图纳附近"
+  },
+  "title": {
+    "en": "The False Intelligence",
+    "ja": "偽りの情報",
+    "zh-CN": "虚假情报"
+  },
+  "narrativePrompt": {
+    "en": "Your army marches in four divisions — Amun, Ra, Ptah, and Set — each separated by miles of road. Your scouts have captured two Hittite soldiers who claim to be deserters. Under questioning, they tell you what you want to hear: the Hittite army is far to the north, near Aleppo. They say Muwatalli fears you and will not give battle. Your advisors are divided. One urges caution — verify before advancing. Another points out that speed is everything: if Muwatalli truly is far north, you can seize Kadesh before he can return.",
+    "ja": "あなたの軍はアメン、ラー、プタハ、セトの四個師団に分かれて行軍している——それぞれ何マイルもの道で隔てられている。偵察隊が脱走兵を名乗る二人のヒッタイト兵士を捕らえた。尋問の下、彼らはあなたが聞きたいことを告げる：ヒッタイト軍ははるか北、アレッポ近くにいる。ムワタリはあなたを恐れて戦いを挑まないと彼らは言う。あなたの側近たちは分かれている。一人は慎重を促す——前進する前に確認せよ。別の一人は速度こそが全てだと指摘する：ムワタリが本当に遠く北にいるなら、彼が戻る前にカデシュを占領できる。",
+    "zh-CN": "你的军队分为阿蒙、拉、普塔赫和塞特四个师行军——每师相隔数英里道路。你的侦察兵捕获了两名声称是逃兵的赫梯士兵。在审问下，他们告诉你你想听的：赫梯军队在遥远的北方，阿勒颇附近。他们说穆瓦塔利怕你，不会交战。你的顾问们意见分歧。一人力劝谨慎——前进前先核实。另一人指出速度就是一切：如果穆瓦塔利真的在遥远的北方，你可以在他能返回之前夺取卡叠什。"
+  },
+  "situationReport": [
+    {
+      "en": "The four divisions of your army are currently strung out over many miles of road. They cannot support each other effectively without hours of marching.",
+      "ja": "あなたの軍の四個師団は現在、何マイルもの道路に散在している。数時間の行軍なしには互いを効果的に支援できない。",
+      "zh-CN": "你军队的四个师目前分散在数英里的道路上。没有数小时的行军，它们无法有效相互支援。"
+    },
+    {
+      "en": "The captured 'deserters' have been convincing. But they were in suspiciously good health for men who claim to have been starving in enemy camps.",
+      "ja": "捕らえた「脱走兵」は説得力があった。しかし彼らは、敵陣で飢えていたと主張する者たちにしては不審なほど健康的だった。",
+      "zh-CN": "被捕的'逃兵'相当有说服力。但对于声称在敌营挨饿的人来说，他们的健康状况好得可疑。"
+    },
+    {
+      "en": "Kadesh is 10 miles north. If you advance now with the Amun Division alone, you could camp on the high ground west of the city by nightfall.",
+      "ja": "カデシュは北10マイルにある。今すぐアメン師団だけで前進すれば、日没までに街の西の高地にキャンプを張ることができる。",
+      "zh-CN": "卡叠什在北方10英里处。如果你现在只带阿蒙师前进，可以在日落前在城市西边的高地扎营。"
+    },
+    {
+      "en": "The Hittite army — if truly present — would be behind Kadesh, hidden from your scouts by the city itself.",
+      "ja": "ヒッタイト軍が——本当に存在するなら——カデシュの後ろにいて、都市自体によってあなたの偵察から隠されているだろう。",
+      "zh-CN": "赫梯军队——如果真的在那里——将藏在卡叠什后面，被城市本身遮挡，使你的侦察兵无法发现。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Capture Kadesh and reassert Egyptian dominance over Syria",
+      "ja": "カデシュを占領し、シリアにおけるエジプトの支配を再確立する",
+      "zh-CN": "占领卡叠什，重新确立埃及对叙利亚的主导地位"
+    },
+    {
+      "en": "Avoid tactical defeat by a Hittite army that may be larger than yours",
+      "ja": "あなたより大規模かもしれないヒッタイト軍による戦術的敗北を避ける",
+      "zh-CN": "避免被一支可能比你更大的赫梯军队在战术上击败"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You are Pharaoh — appearing to hesitate risks undermining the campaign's morale",
+      "ja": "あなたはファラオだ——躊躇することで遠征の士気を損なうリスクがある",
+      "zh-CN": "你是法老——表现出犹豫会有损战役士气"
+    },
+    {
+      "en": "The four divisions cannot be quickly concentrated — any position you take will be held by one division initially",
+      "ja": "四個師団は素早く集結できない——どんな陣地を取っても、最初は一個師団だけで守ることになる",
+      "zh-CN": "四个师无法迅速集结——你占取的任何阵地最初都只有一个师守卫"
+    }
+  ],
+  "choices": [
+    {
+      "id": "advance-immediately",
+      "label": {
+        "en": "Advance immediately with the Amun Division: seize the high ground before Kadesh",
+        "ja": "すぐにアメン師団と共に前進する：カデシュ前の高地を占領する",
+        "zh-CN": "立即率阿蒙师前进：占领卡叠什前的高地"
+      },
+      "description": {
+        "en": "The deserters' intelligence confirms what you hoped. Speed is advantage. Move now with Amun and set camp; the other divisions will close up by morning. Hesitation gives Muwatalli time to maneuver.",
+        "ja": "脱走兵の情報はあなたが望んでいたことを確認する。速度が優位だ。今すぐアメンと共に動いてキャンプを設置する。他の師団は朝までに合流するだろう。躊躇することはムワタリに動く時間を与える。",
+        "zh-CN": "逃兵的情报证实了你所希望的。速度就是优势。现在就率阿蒙师行动扎营；其他师团到早晨就会跟上。犹豫会给穆瓦塔利留下机动的时间。"
+      },
+      "historicalContext": "This is what Ramesses actually did — and it was a catastrophic error. The 'deserters' were planted by Muwatalli as spies to feed false intelligence. The Hittite army was hidden behind Kadesh in full strength, approximately 3,700 chariots and 47,000 infantry. When the Ra Division marched north, the Hittite chariot corps erupted and nearly destroyed it. Ramesses found himself nearly surrounded with only his personal guard.",
+      "outcomePrompt": {
+        "en": "You advance with the Amun Division and set camp on high ground west of Kadesh. The city sits quiet. Your confidence grows. Then a rider screams into camp: the Ra Division has been attacked. Hittite chariots — 3,700 of them — erupted from behind Kadesh and smashed into the Ra Division on the march. The division is destroyed. The Hittites are wheeling toward your camp. You are alone with your personal guard and whatever Amun soldiers can form a perimeter. This is the moment they will write poems about.",
+        "ja": "あなたはアメン師団と共に前進し、カデシュ西の高地にキャンプを設営する。都市は静まり返っている。自信が高まる。そして騎馬伝令がキャンプに叫びながら飛び込んでくる：ラー師団が攻撃された。ヒッタイトの戦車隊——3700台——がカデシュの後ろから飛び出し、行軍中のラー師団に激突した。師団は壊滅した。ヒッタイトはあなたのキャンプに向けて転進している。あなたは個人の護衛と周囲に防衛線を張れるわずかなアメン兵士だけを連れている。これが彼らが詩を書く瞬間だ。",
+        "zh-CN": "你率阿蒙师前进，在卡叠什西边的高地扎营。城市一片寂静。你的信心增长。然后一名骑手大喊着冲进营地：拉师遭到攻击。赫梯战车——3700辆——从卡叠什后方涌出，猛击正在行军的拉师。该师被摧毁。赫梯人正转向你的营地。你只有个人护卫和能形成防线的少量阿蒙士兵。这就是他们将写诗歌颂的时刻。"
+      },
+      "stateChanges": [
+        { "key": "hittitePressure", "operation": "set", "value": 100 },
+        { "key": "divisionCohesion", "operation": "set", "value": 10 },
+        { "key": "egyptianMorale", "operation": "add", "value": -20 }
+      ],
+      "nextSceneId": "battle-of-kadesh-1274bc-scene-002"
+    },
+    {
+      "id": "verify-intelligence",
+      "label": {
+        "en": "Halt and verify: send cavalry scouts around Kadesh before the full army advances",
+        "ja": "停止して確認する：全軍が前進する前に騎馬偵察隊をカデシュ周辺に送る",
+        "zh-CN": "停止并核实：在全军前进之前派骑兵侦察兵绕过卡叠什"
+      },
+      "description": {
+        "en": "Something about these 'deserters' feels wrong. They are too well-fed, too cooperative, their story too perfectly aligned with your hopes. Halt the advance, consolidate the four divisions, and send fast scouts around both sides of Kadesh to confirm what lies behind it.",
+        "ja": "これらの「脱走兵」について何かがおかしい感じがする。彼らはあまりにも栄養状態が良く、あまりにも協力的で、話はあなたの希望と完璧すぎるほど一致している。前進を止め、四個師団を集結させ、カデシュの両側に素早い偵察隊を送って後ろに何があるか確認する。",
+        "zh-CN": "这些'逃兵'有什么感觉不对。他们吃得太好，配合得太顺畅，他们的故事与你的希望吻合得太过完美。停止前进，集结四个师，向卡叠什两侧派出快速侦察兵，确认后面有什么。"
+      },
+      "historicalContext": "This is the counterfactual — the cautious choice Ramesses did not make. Had he halted to verify and consolidated his divisions before approaching Kadesh, the Hittite ambush would have been revealed by cavalry scouts, and the battle would have been fought on Egyptian terms with full force rather than as a desperate defense with one division.",
+      "outcomePrompt": {
+        "en": "You halt the army. Your advisors protest — hesitation shows fear. You ignore them. The cavalry scouts return within hours: behind Kadesh, the entire Hittite army is encamped. Three thousand chariots. Tens of thousands of infantry. The 'deserters' were spies. You consolidate your four divisions over two days. The battle, when it comes, is fought with your full army on ground of your choosing. It remains inconclusive — but your army is not destroyed.",
+        "ja": "あなたは軍を停止させる。側近たちは抗議する——躊躇することは恐怖を示す。あなたは無視する。騎馬偵察隊は数時間以内に戻る：カデシュの後ろに、ヒッタイト軍全体が野営している。三千台の戦車。数万の歩兵。「脱走兵」はスパイだった。あなたは二日かけて四個師団を集結させる。戦いが来ると、あなたが選んだ地形で全軍を率いて戦う。依然として決着はつかない——しかしあなたの軍は壊滅しない。",
+        "zh-CN": "你停止了军队。你的顾问们抗议——犹豫显示恐惧。你无视他们。骑兵侦察兵在几小时内返回：卡叠什后面，整个赫梯军队正在扎营。三千辆战车。数万步兵。'逃兵'是间谍。你花两天时间集结了四个师。战斗到来时，以你全军在你选择的地形上战斗。结果仍是不分胜负——但你的军队没有被摧毁。"
+      },
+      "stateChanges": [
+        { "key": "hittitePressure", "operation": "add", "value": -20 },
+        { "key": "divisionCohesion", "operation": "set", "value": 75 },
+        { "key": "egyptianMorale", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": "battle-of-kadesh-1274bc-scene-002"
+    }
+  ]
+}

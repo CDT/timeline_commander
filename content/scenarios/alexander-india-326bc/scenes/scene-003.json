@@ -1,0 +1,113 @@
+{
+  "id": "alexander-india-326bc-scene-003",
+  "scenarioId": "alexander-india-326bc",
+  "title": {
+    "en": "The Fate of a King",
+    "ja": "王の運命",
+    "zh-CN": "一位国王的命运"
+  },
+  "date": {
+    "en": "Late May, 326 BC",
+    "ja": "紀元前326年5月下旬",
+    "zh-CN": "公元前326年5月下旬"
+  },
+  "location": {
+    "en": "Battlefield of the Hydaspes, Punjab",
+    "ja": "ヒュダスペスの戦場、パンジャーブ",
+    "zh-CN": "希达斯佩斯战场，旁遮普"
+  },
+  "narrativePrompt": {
+    "en": "The battle is over. The field is a scene of carnage — dead elephants lie like grey boulders across the muddy plain, surrounded by the broken bodies of Indian and Macedonian soldiers alike. The monsoon rain washes blood into the swollen river, turning the shallows a dull crimson. Your men stand exhausted among the wreckage, too tired to celebrate even as the scale of their victory becomes apparent.\n\nKing Porus has been brought before you. The Indian king is a magnificent figure even in defeat — ancient sources describe him as nearly seven feet tall, and despite multiple arrow and javelin wounds, he walks with the bearing of a man who has never known submission. His armor is battered, his elephant lies dying on the field, and his son was killed in the preliminary cavalry engagement. Yet there is no trace of fear or servility in his eyes as he faces you.\n\nYour generals await your decision. Some counsel execution — Porus defied you and forced a battle that cost Macedonian lives. Others suggest imprisonment, to be paraded through the streets of Babylon or Pella as a trophy of your Indian conquests. But you see something else in this defeated king. You see a leader whose courage and military ability command respect, a man whose knowledge of this land could be invaluable, and a potential ally who could govern these territories on your behalf far more effectively than any Macedonian satrap.\n\nBeyond the immediate question of Porus's fate, you must also decide your next move. Your officers bring reports that even larger kingdoms lie to the east — the Nanda Empire controls the Ganges plain with an army rumored to number 200,000 infantry, 20,000 cavalry, 2,000 chariots, and 3,000 war elephants. Your men have heard these reports too, and fear is spreading through the ranks. The Hyphasis River lies ahead, and beyond it, the vast unknown interior of India. Do you show mercy to Porus and plan your next campaign, or does this battle mark the end of your eastern ambitions?",
+    "ja": "戦いは終わった。戦場は惨状だ——死んだ象が灰色の岩のように泥の平原に横たわり、その周りにインドとマケドニア双方の兵士の亡骸が散らばっている。モンスーンの雨が血を増水した川に洗い流し、浅瀬を鈍い深紅に染めている。あなたの兵士たちは残骸の中に疲れ果てて立ち、勝利の規模が明らかになっても祝う気力さえない。\n\nポロス王があなたの前に連行された。このインドの王は敗北してもなお堂々たる人物だ——古代の史料によれば身長はほぼ7フィートに達し、矢と投槍による複数の傷を負いながらも、屈服を知らぬ者の態度で歩いている。鎧は打ちのめされ、象は戦場で息絶えようとしており、息子は先の騎兵戦で戦死した。しかし、あなたに向き合うその目に恐れやへつらいの痕跡は微塵もない。\n\nあなたの将軍たちは決定を待っている。処刑を勧める者もいる——ポロスはあなたに背き、マケドニア人の命を奪った戦いを強いた。投獄してバビロンやペラの通りでインド征服の戦利品として引き回すことを提案する者もいる。しかし、あなたはこの敗れた王に別のものを見出す。尊敬に値する勇気と軍事的能力を持つ指導者、この地の知識が計り知れない価値を持つ人物、そしてどんなマケドニアのサトラップよりもはるかに効果的にこれらの領土を統治できる潜在的な同盟者を。\n\nポロスの運命という直接的な問題の先に、次の行動も決断しなければならない。将校たちはさらに東に大きな王国があるとの報告を持ってくる。ナンダ帝国がガンジス平原を支配しており、その軍勢は歩兵20万、騎兵2万、戦車2,000、戦象3,000と噂されている。あなたの兵士たちもこの報告を耳にしており、恐怖が隊列に広がっている。ヒュパシス川が行く手に横たわり、その先にはインドの広大な未知の内陸部がある。ポロスに慈悲を示して次の遠征を計画するか、それともこの戦いが東方への野望の終わりとなるのか？",
+    "zh-CN": "战斗结束了。战场一片惨状——死去的战象如灰色巨石般横卧在泥泞的平原上，周围散落着印度和马其顿双方士兵的遗体。季风暴雨将鲜血冲入暴涨的河水，浅滩被染成暗红色。你的士兵们精疲力竭地站在残骸之间，即使胜利的规模已经显而易见，他们也无力庆祝。\n\n波鲁斯王被带到你面前。这位印度国王即使在战败中也是一个雄伟的身影——古代史料记载他身高近七英尺，尽管身中多处箭伤和标枪伤，却依然以从未屈服之人的姿态行走。他的铠甲伤痕累累，他的战象正在战场上奄奄一息，他的儿子在先前的骑兵交锋中阵亡。然而面对你时，他的眼中没有丝毫恐惧或卑怯。\n\n你的将领们等待着你的决定。有人建议处死——波鲁斯违抗了你，迫使你进行了一场耗费马其顿人生命的战斗。也有人建议将其囚禁，押解到巴比伦或佩拉的街头游行示众，作为你印度征服的战利品。但你在这位战败的国王身上看到了别的东西。你看到一位勇气和军事才能令人敬佩的领袖，一位对这片土地的了解具有无可估量价值的人，一位能比任何马其顿总督都更有效地替你治理这些领土的潜在盟友。\n\n除了波鲁斯命运这个直接问题之外，你还必须决定下一步行动。你的军官们带来报告，说更东方有更强大的王国——难陀帝国控制着恒河平原，据说拥有二十万步兵、两万骑兵、两千辆战车和三千头战象。你的士兵们也听到了这些消息，恐惧正在军中蔓延。希法西斯河横亘在前方，再往前是印度广袤未知的内陆。你是向波鲁斯展现仁慈并计划下一场战役，还是让这场战斗成为你东征野心的终点？"
+  },
+  "situationReport": [
+    {
+      "en": "King Porus has been captured alive but remains defiant, bearing multiple wounds with the dignity of a warrior king.",
+      "ja": "ポロス王は生け捕りにされたが依然として反抗的で、戦士の王の威厳をもって複数の傷を負っている。",
+      "zh-CN": "波鲁斯王被生擒但仍不屈服，以战士国王的尊严承受着多处伤痕。"
+    },
+    {
+      "en": "Your army has won the battle but suffered significant casualties, and the troops are exhausted both physically and psychologically.",
+      "ja": "あなたの軍は戦いに勝利したが相当な損害を被り、兵士たちは肉体的にも精神的にも疲弊している。",
+      "zh-CN": "你的军队赢得了战斗，但遭受了重大伤亡，部队在身体和心理上都已精疲力竭。"
+    },
+    {
+      "en": "Intelligence reports indicate the Nanda Empire to the east commands an army many times larger than Porus's, including thousands of war elephants.",
+      "ja": "情報によれば、東のナンダ帝国はポロスの軍の何倍もの軍勢を擁しており、数千頭の戦象を含む。",
+      "zh-CN": "情报显示，东方的难陀帝国拥有比波鲁斯大数倍的军队，包括数千头战象。"
+    },
+    {
+      "en": "Murmurs of discontent are growing among the ranks — the men want to go home, and senior officers are privately sympathetic.",
+      "ja": "隊列の中で不満の声が高まっている——兵士たちは帰郷を望んでおり、上級将校たちも密かに同情している。",
+      "zh-CN": "军中不满的低语越来越响——士兵们想回家，高级军官们私下也表示同情。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide the fate of King Porus in a way that serves your strategic interests in the region",
+      "ja": "地域における戦略的利益に資する形でポロス王の運命を決定する",
+      "zh-CN": "以符合你在该地区战略利益的方式决定波鲁斯王的命运"
+    },
+    {
+      "en": "Determine the future direction of your campaign — press east toward the Ganges or consolidate your conquests",
+      "ja": "遠征の今後の方向性を決定する——東方のガンジスへ進むか、征服地を固めるか",
+      "zh-CN": "确定你下一步的战略方向——继续东进恒河还是巩固已有的征服"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your army's willingness to continue the campaign is at a breaking point regardless of your personal ambitions",
+      "ja": "あなた個人の野望に関係なく、軍の遠征継続の意思は限界に達している",
+      "zh-CN": "无论你个人的雄心如何，军队继续远征的意愿已到达临界点"
+    },
+    {
+      "en": "Any decision about Porus will set a precedent for how conquered Indian rulers are treated, affecting future diplomacy",
+      "ja": "ポロスに対するいかなる決定も、征服されたインドの支配者の扱い方の先例となり、将来の外交に影響する",
+      "zh-CN": "对波鲁斯的任何决定都将为被征服的印度统治者的待遇树立先例，影响未来的外交"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Restore Porus to his throne as a vassal king and ally, expand his territories as a reward for his bravery, then announce plans to press eastward toward the Ganges and the Nanda Empire after a period of rest and reorganization.",
+        "ja": "ポロスを臣従王兼同盟者として王位に復帰させ、その勇敢さへの報いとして領土を拡大し、休息と再編の後にガンジスとナンダ帝国に向けて東進する計画を発表する。",
+        "zh-CN": "恢复波鲁斯为附庸国王和盟友，扩大其领土作为对其勇敢的奖赏，然后宣布在休整和重组后继续东进恒河和难陀帝国的计划。"
+      },
+      "historicalContext": "Alexander did restore Porus as a vassal king and expanded his territory, which proved to be a shrewd political move. He also announced his intention to continue east, but his army would soon mutiny at the Hyphasis River, forcing him to turn back.",
+      "outcomePrompt": {
+        "en": "You approach the captured king and ask him how he wishes to be treated. Porus, bloodied but unbowed, replies simply: 'As a king.' The answer impresses you deeply, and in it you see the foundation of a lasting arrangement. Before your assembled army, you make a dramatic announcement: not only will Porus retain his kingdom, but you will expand his domains as a reward for his valor. He will rule as your ally and representative in India, governing these lands with the authority you grant him.\n\nThe decision electrifies the army and sends a powerful message to other Indian kings — submission to Alexander brings not destruction but partnership. Porus, for his part, proves to be a loyal and effective vassal. Your generals nod in approval at the political wisdom of the move, even as some privately wish you had simply annexed the territory.\n\nBut when you announce your intention to continue eastward after a rest period, the mood shifts. The men listen in stony silence. They have heard the rumors about the Nanda Empire — an army that dwarfs anything you have faced. The monsoon shows no sign of relenting, disease continues to spread, and the memory of those terrifying elephants is fresh in every soldier's mind. You sense that the loyalty that has carried you from Macedon to India is finally reaching its limit. The march east will test not just your military genius, but the very bonds that hold your army together.",
+        "ja": "あなたは捕らえられた王に近づき、どのように扱ってほしいか尋ねる。ポロスは血まみれだが屈せず、ただこう答える。「王として」と。その答えはあなたに深い感銘を与え、そこに永続的な取り決めの基盤を見出す。集められた軍の前で、あなたは劇的な発表をする。ポロスは王国を保持するだけでなく、その武勇への報いとして領土が拡大されると。彼はあなたの同盟者兼インドにおける代理人として、あなたが与える権限でこれらの土地を統治する。\n\nこの決定は軍を活気づけ、他のインドの王たちに強力なメッセージを送る——アレクサンドロスへの服従は破壊ではなく協力関係をもたらすと。ポロスは忠実で有能な臣従者であることを証明する。将軍たちはこの政治的英知に頷くが、単に領土を併合すればよかったと密かに思う者もいる。\n\nしかし、休息の後に東方への進軍を続ける意向を発表すると、雰囲気が一変する。兵士たちは石のような沈黙で聞く。彼らはナンダ帝国の噂を聞いている——これまで直面したどんな軍をも矮小化する軍勢だ。モンスーンは衰える気配がなく、病は広がり続け、あの恐ろしい象の記憶は全ての兵士の心に鮮明である。あなたはマケドニアからインドまで運んできた忠誠がついに限界に達しつつあることを感じ取る。東への行軍はあなたの軍事的天才だけでなく、軍を一つにまとめてきた絆そのものを試すことになる。",
+        "zh-CN": "你走近被俘的国王，问他希望得到怎样的对待。波鲁斯浑身是血却不屈不挠，简单地回答：'像个国王一样。'这个回答深深打动了你，你从中看到了一种持久安排的基础。在集结的全军面前，你做出了一个戏剧性的宣布：波鲁斯不仅将保留他的王国，你还将扩大他的领地作为对其英勇的奖赏。他将作为你在印度的盟友和代理人，以你授予的权力治理这些土地。\n\n这一决定振奋了全军，并向其他印度国王发出了强有力的信号——臣服于亚历山大带来的不是毁灭而是合作。波鲁斯也证明了自己是一位忠诚而高效的附庸。将领们对这一举措的政治智慧表示赞许，尽管有些人私下希望你直接吞并那片领土。\n\n但当你宣布休整后继续东进的意图时，气氛骤变。士兵们以冰冷的沉默倾听。他们已经听说了难陀帝国的传闻——一支远超你所面对过的任何军队。季风没有减弱的迹象，疾病继续蔓延，那些可怕战象的记忆在每个士兵心中依然鲜明。你感觉到，从马其顿一路支撑你到印度的忠诚终于接近了极限。东进不仅将考验你的军事天才，更将考验维系你军队的纽带本身。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "alexanderPrestige", "operation": "add", "value": 15 },
+        { "variable": "armyMorale", "operation": "add", "value": -5 },
+        { "variable": "pauravaThreat", "operation": "add", "value": -20 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Execute Porus as a warning to other Indian kings who would resist Macedonian rule, install a Macedonian satrap over his territory, and consolidate your conquests before deciding whether to continue east or return west.",
+        "ja": "マケドニアの支配に抵抗する他のインドの王への見せしめとしてポロスを処刑し、その領土にマケドニアのサトラップを設置し、東へ進むか西へ帰るかを決める前に征服地を固める。",
+        "zh-CN": "处死波鲁斯以警示其他敢于抵抗马其顿统治的印度国王，在其领土上任命马其顿总督，在决定继续东进还是西返之前巩固你的征服。"
+      },
+      "historicalContext": "Alexander did not execute Porus — this is a counterfactual choice. Executing a captured king who had fought bravely was contrary to Alexander's established practice of co-opting defeated rulers. Such a move would have likely alienated other Indian rulers and made future conquests far more difficult.",
+      "outcomePrompt": {
+        "en": "You order the execution carried out at dawn. Porus faces his end with the same courage he showed in battle, refusing a blindfold and standing straight as the sword falls. The act sends a chill through the assembled armies — both Indian and Macedonian. Your own men exchange uneasy glances. They have seen you show mercy to Darius's family, to the women of Persepolis, even to rebellious satraps. The killing of a king who fought bravely feels different, and a murmur of discomfort ripples through the ranks.\n\nThe strategic consequences are immediate and severe. Word of Porus's execution spreads through India like wildfire, and rather than inspiring submission, it hardens resistance. The Indian kingdoms beyond the Hydaspes begin forming alliances against you, knowing that surrender means death rather than accommodation. Your newly appointed Macedonian satrap struggles to control the Paurava territory — the population is hostile, guerrilla attacks begin within weeks, and the garrison you leave behind will be under constant threat.\n\nYou consolidate your position and fortify the Hydaspes crossing, but the broader situation has deteriorated. Your army is exhausted and demoralized, the Indian hinterland has become actively hostile rather than potentially compliant, and your generals privately question the wisdom of the execution. When you finally address the question of continuing east, you find your options have narrowed. The men are unwilling, the enemy is forewarned, and the diplomatic goodwill that might have eased your path has been squandered. The Hydaspes may prove to be the high-water mark of your empire — not because you could not conquer further, but because the cost of holding what you have already taken may prove too great.",
+        "ja": "あなたは夜明けに処刑を行うよう命じる。ポロスは戦場で見せたのと同じ勇気をもって最期に臨み、目隠しを拒否し、剣が振り下ろされる中まっすぐに立っている。この行為はインドとマケドニア双方の集められた軍に戦慄を走らせる。あなた自身の兵士たちは不安げに目を交わす。彼らはあなたがダレイオスの家族に、ペルセポリスの女性たちに、反乱するサトラップにさえ慈悲を見せるのを見てきた。勇敢に戦った王の殺害は違う感じがし、不快感のざわめきが隊列を走る。\n\n戦略的結果は即座に、かつ深刻だ。ポロスの処刑の知らせは山火事のようにインド中に広がり、服従を促すどころか抵抗を硬化させる。ヒュダスペスの向こうのインドの王国は、降伏が順応ではなく死を意味すると知り、あなたに対する同盟を結び始める。新たに任命されたマケドニアのサトラップはパウラヴァ領の支配に苦闘する。住民は敵意を持ち、数週間以内にゲリラ攻撃が始まり、残した守備隊は絶えず脅威にさらされる。\n\nあなたは陣地を固めヒュダスペスの渡河地点を要塞化するが、全体的な状況は悪化している。軍は疲弊し意気消沈し、インドの内陸部は潜在的に従順どころか積極的に敵対し、将軍たちは処刑の賢明さを密かに疑問視している。東への進軍の問題にようやく取り組むと、選択肢が狭まっていることに気づく。兵士たちは消極的で、敵は警戒しており、道を開く可能性のあった外交的善意は浪費されてしまった。ヒュダスペスがあなたの帝国の最高潮であったと証明されるかもしれない——さらなる征服ができなかったからではなく、すでに手にしたものを維持するコストが大きすぎることが判明するかもしれないからだ。",
+        "zh-CN": "你下令在黎明执行处决。波鲁斯以他在战场上展现的同样勇气面对死亡，拒绝蒙眼，挺直身躯迎接落下的刀锋。这一行为让在场的两支军队——印度人和马其顿人——都不寒而栗。你自己的士兵们不安地交换着眼神。他们曾见你对大流士的家人、对波斯波利斯的妇女、甚至对反叛的总督都表现过仁慈。杀害一位英勇作战的国王感觉不同，一阵不安的低语在队列中蔓延。\n\n战略后果是即时而严重的。波鲁斯被处决的消息如野火般在印度传播，非但没有激发臣服，反而使抵抗更加坚决。希达斯佩斯河以东的印度王国开始结盟对抗你，因为他们知道投降意味着死亡而非妥协。你新任命的马其顿总督难以控制保拉瓦领地——民众充满敌意，游击袭击在数周内开始，你留下的驻军将持续面临威胁。\n\n你巩固了阵地并加固了希达斯佩斯渡口，但整体局势已经恶化。你的军队疲惫而士气低落，印度腹地已从潜在的顺从变为积极的敌对，将领们私下质疑处决的明智性。当你最终面对是否继续东进的问题时，你发现选择已经缩小。士兵们不愿前进，敌人已有防备，而本可为你铺路的外交善意已被挥霍殆尽。希达斯佩斯可能被证明是你帝国的最高潮——不是因为你无法继续征服，而是因为维持你已经夺取的一切的代价可能太过巨大。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "alexanderPrestige", "operation": "add", "value": -15 },
+        { "variable": "armyMorale", "operation": "add", "value": -15 },
+        { "variable": "pauravaThreat", "operation": "add", "value": 20 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

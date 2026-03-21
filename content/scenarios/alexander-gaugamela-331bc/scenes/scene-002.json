@@ -1,0 +1,113 @@
+{
+  "id": "alexander-gaugamela-331bc-scene-002",
+  "scenarioId": "alexander-gaugamela-331bc",
+  "date": {
+    "en": "October 1, 331 BC — The Battle",
+    "ja": "紀元前331年10月1日、戦闘",
+    "zh-CN": "公元前331年10月1日，战斗"
+  },
+  "location": {
+    "en": "Plain of Gaugamela — The Critical Moment",
+    "ja": "ガウガメラの平原、決定的瞬間",
+    "zh-CN": "高加米拉平原，关键时刻"
+  },
+  "isTerminal": false,
+  "title": {
+    "en": "The Charge",
+    "ja": "突撃",
+    "zh-CN": "冲锋"
+  },
+  "narrativePrompt": {
+    "en": "You are in the battle. The oblique march has worked — the Persian left cavalry has been drawn out of position, and a gap has opened between the Persian left-center and right-center. This is the moment everything was planned for.\n\nYou are Alexander at the head of the Companion Cavalry — approximately 2,000 heavy horsemen in a wedge formation, the finest shock cavalry the ancient world has ever produced. You can see Darius ahead of you in his chariot, surrounded by his best guards. You are perhaps 200 yards from the Persian king.\n\nBut two things are complicating the moment. Behind you, a desperate message has arrived from Parmenion: his left wing is being overwhelmed by Persian cavalry. The Thessalians are fighting heroically but they cannot hold much longer. If you ride to relieve him now, you abandon the gap — it will close, and the opportunity to reach Darius disappears. If you continue charging at Darius, Parmenion may be destroyed.\n\nAt the same moment, your infantry phalanx in the center has followed your cavalry movement and opened a gap of its own — Persian heavy infantry is flooding through it into your rear. Turning to deal with them would take the Companions away from the central charge.\n\nThree things need your attention simultaneously. You can only do one of them personally.",
+    "ja": "あなたは戦闘の中にいる。斜め行軍は成功した——ペルシア左翼騎兵は位置から引き出され、ペルシア左中央と右中央の間に隙間が開いた。これがすべてが計画された瞬間だ。\n\nあなたはコンパニオン・カヴァルリーの先頭にいるアレクサンドロスだ——くさび形陣形の約2000人の重騎兵、古代世界が生み出した最高の衝撃騎兵。前方に、最良の護衛に囲まれた戦車に乗ったダレイオスが見える。おそらくペルシア王から約180メートルのところにいる。\n\nしかし二つのことが瞬間を複雑にしている。後方から、パルメニオンからの絶望的なメッセージが届いた：彼の左翼がペルシア騎兵に圧倒されている。テッサリア騎兵は英雄的に戦っているが、これ以上持ちこたえることができない。今彼を救援するために馬を向ければ、隙間を放棄する——それは閉じ、ダレイオスに到達する機会は消える。ダレイオスへの突撃を続ければ、パルメニオンは壊滅するかもしれない。\n\n同時に、中央の歩兵ファランクスはあなたの騎兵の動きに従って独自の隙間を開けた——ペルシアの重歩兵がそこを通ってあなたの後方に流れ込んでいる。彼らに対処するためにコンパニオンを向ければ、中央突撃から離れることになる。\n\n三つのことが同時にあなたの注意を必要としている。個人的にできることは一つだけだ。",
+    "zh-CN": "你在战斗中。斜向行军成功了——波斯左翼骑兵被引离阵地，波斯左中央和右中央之间出现了缺口。这是一切都计划好的时刻。\n\n你是率领伴侣骑兵的亚历山大——大约2,000名重装骑兵排成楔形阵，古代世界所产生的最优秀的冲击骑兵。你能看到前方大流士坐在他的战车里，被他最好的护卫包围。距离波斯国王大约180米。\n\n但两件事使这个时刻变得复杂。在你身后，来自帕曼纽的绝望消息到达：他的左翼正被波斯骑兵压倒。色萨利骑兵英勇作战，但他们坚持不了多久了。如果你现在骑马去救援他，你就放弃了缺口——它会关闭，到达大流士的机会消失。如果你继续向大流士冲锋，帕曼纽可能被摧毁。\n\n与此同时，中央的步兵方阵跟随你的骑兵移动，自己也开出了一个缺口——波斯重步兵正通过它涌入你的后方。转向处理他们将使伴侣骑兵离开中央冲锋。\n\n三件事同时需要你的注意。你个人只能做其中一件。"
+  },
+  "situationReport": [
+    {
+      "en": "Darius is 200 yards ahead, visible in his royal chariot. The gap in the Persian center is open. This is the moment you planned for — but it won't last long. Persian officers are already trying to close the gap.",
+      "ja": "ダレイオスは180メートル先に、王室の戦車に乗って見える。ペルシア中央の隙間は開いている。これはあなたが計画した瞬間だ——しかし長くは続かない。ペルシアの将校たちはすでに隙間を閉じようとしている。",
+      "zh-CN": "大流士在180米外，在他的王室战车中清晰可见。波斯中央的缺口是开着的。这就是你计划的时刻——但不会持续太久。波斯军官已经在试图关闭缺口了。"
+    },
+    {
+      "en": "Parmenion's left flank is under extreme pressure. The Thessalian cavalry, though brave, are being pushed back by Persian cavalry that outnumber them 3:1. Parmenion's message reads: 'We cannot hold much longer. Send help.'",
+      "ja": "パルメニオンの左翼は極度の圧力下にある。テッサリア騎兵は勇敢だが、3対1の割合で彼らを上回るペルシア騎兵に押し戻されている。パルメニオンのメッセージには「これ以上持ちこたえられない。助けを送れ」とある。",
+      "zh-CN": "帕曼纽的左翼承受着极大压力。色萨利骑兵虽然勇敢，但正被数量上3比1超过他们的波斯骑兵击退。帕曼纽的消息写道：'我们坚持不了多久了。派援军来。'"
+    },
+    {
+      "en": "Persian infantry has broken through a gap in the Macedonian phalanx and is now attacking your baggage train and camp. Reports indicate they have reached the area where Darius's captured mother and family are being held.",
+      "ja": "ペルシアの歩兵がマケドニアのファランクスの隙間を突破し、荷物列と陣営を攻撃している。ダレイオスの捕らえられた母と家族が収容されている地域に到達したという報告がある。",
+      "zh-CN": "波斯步兵突破了马其顿方阵的缺口，现在正在攻击你的辎重队和营地。报告显示他们已经到达关押大流士被俘母亲和家人的区域。"
+    },
+    {
+      "en": "Your Companions and the hypaspists can execute one coordinated action at maximum effectiveness. A three-way split of your forces would reduce the impact of each.",
+      "ja": "あなたのコンパニオンとヒパスピストは最大の効果で一つの協調行動を実行できる。部隊の三分割はそれぞれの影響を減少させる。",
+      "zh-CN": "你的伴侣骑兵和盾卫可以以最大效率执行一个协调行动。将你的力量三分将降低每个的影响。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Make the critical battlefield decision — Darius, Parmenion, or the Persian infantry breakthrough — in the next few minutes before any of the three crises becomes irreversible.",
+      "ja": "次の数分以内に、三つの危機のいずれかが取り返しのつかないことになる前に、決定的な戦場の決断を下す——ダレイオス、パルメニオン、またはペルシア歩兵の突破口か。",
+      "zh-CN": "在接下来的几分钟内，在三个危机中的任何一个变得不可逆转之前，做出关键的战场决定——大流士、帕曼纽，或波斯步兵的突破口。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The moment is now. Every second you deliberate, the gap in the Persian center narrows. Darius is already looking to see whether Alexander hesitates.",
+      "ja": "時は今だ。あなたが熟考するすべての秒、ペルシア中央の隙間は狭くなる。ダレイオスはすでにアレクサンドロスが躊躇するかどうかを見ている。",
+      "zh-CN": "时机就是现在。你每迟疑一秒，波斯中央的缺口就缩小一点。大流士已经在观察亚历山大是否犹豫。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Continue the charge — ride for Darius, trust others to handle the flanks",
+        "ja": "突撃を続ける――ダレイオスに向けて馳せる、側面は他者に任せる",
+        "zh-CN": "继续冲锋——骑向大流士，相信他人处理侧翼"
+      },
+      "description": {
+        "en": "Drive through the gap at maximum speed. Parmenion's message came late — he will hold a little longer. The Persian infantry in the rear will be dealt with by the infantry reserves. You have one chance to end this war in the next 90 seconds. Ride for Darius. Everything else is secondary.",
+        "ja": "最大速度で隙間を突破する。パルメニオンのメッセージは遅れて届いた——彼はもう少し持ちこたえる。後方のペルシア歩兵は歩兵予備隊が対処する。次の90秒でこの戦争を終わらせる一度だけのチャンスがある。ダレイオスに向けて馳せる。他のすべては副次的だ。",
+        "zh-CN": "以最大速度冲过缺口。帕曼纽的消息来得晚——他会再坚持一会儿。后方的波斯步兵将由步兵预备队处理。你有一次机会在接下来的90秒内结束这场战争。骑向大流士。其他一切都是次要的。"
+      },
+      "historicalContext": "This is the historical choice — Alexander continued the charge at Darius rather than diverting to relieve Parmenion, a decision that paid off completely. Darius fled, the Persian army collapsed, and Alexander then rode to relieve Parmenion's beleaguered left flank. The decision to trust Parmenion to hold and press the decisive advantage was the correct one. The Persian infantry that had broken through the phalanx began looting the baggage train instead of fighting, which is why the breakthrough did not develop into a serious threat.",
+      "outcomePrompt": {
+        "en": "You ride. The gap is ahead, and you drive the Companions through it with everything you have. The crash of armored horsemen into the Persian guard is devastating — men and horses fall in every direction. Your lance breaks. You draw your sword.\n\nAnd there is Darius. He is standing in his chariot, his guard falling around him, watching the Macedonian cavalry crash through. For a moment — perhaps the most important moment of your life — your eyes meet across the chaos.\n\nAnd he turns. Darius III, Great King of Persia, abandons his chariot and flees on horseback for the second time.\n\nThe Persian army sees it. Their king is running. And they break. Not all at once — the flanks continue fighting — but the center collapses, and the collapse spreads outward like a wave. The Persian officers cannot stop what is already breaking apart.\n\nYou turn the Companions and ride hard to relieve Parmenion. By the time you arrive, his Thessalians have bent nearly to breaking but held. The Persian cavalry that had enveloped him, learning that Darius has fled, begins to withdraw. The battle is over.\n\nGaugamela is yours. More than that — the Persian Empire is yours.",
+        "ja": "あなたは馳せる。隙間が前方にあり、あなたはすべてをもってコンパニオンをその中に突撃させる。装甲騎兵がペルシアの護衛に衝突する轟音は壊滅的だ——人と馬があらゆる方向に倒れる。槍が折れる。剣を抜く。\n\nそしてダレイオスがいる。彼は戦車に立っており、護衛が周りに倒れ、マケドニア騎兵が突破するのを見ている。一瞬——おそらくあなたの人生で最も重要な瞬間——混乱の中で目が合う。\n\nそして彼は向きを変える。ダレイオス3世、ペルシアの大王が戦車を捨てて二度目の馬での逃走をする。\n\nペルシア軍はそれを見る。彼らの王が逃げている。そして彼らは崩れる。一度にではない——側面は戦い続ける——しかし中央が崩壊し、崩壊が波のように外側に広がる。ペルシアの将校たちはすでに崩れつつあるものを止めることができない。\n\nあなたはコンパニオンを向けてパルメニオンを救援するために強く馳せる。到着した時、彼のテッサリア騎兵は崩壊寸前まで曲がっていたが持ちこたえた。ダレイオスが逃げたことを知った彼を包囲していたペルシア騎兵が撤退し始める。戦闘は終わった。\n\nガウガメラはあなたのものだ。それ以上に——ペルシア帝国はあなたのものだ。",
+        "zh-CN": "你策马而去。缺口就在前方，你用尽全力将伴侣骑兵冲入其中。装甲骑兵冲入波斯护卫的碰撞声令人窒息——人和马朝各个方向倒下。你的长矛折断了。你拔出剑。\n\n然后就是大流士。他站在战车上，护卫在他周围倒下，看着马其顿骑兵冲破防线。片刻间——也许是你生命中最重要的时刻——你们的目光在混乱中相遇。\n\n然后他转身。大流士三世，波斯大王，抛弃战车，第二次骑马逃跑。\n\n波斯军队看到了这一幕。他们的国王在逃跑。然后他们崩溃了。不是一次——侧翼继续战斗——但中央崩溃了，崩溃如波浪般向外蔓延。波斯军官无法阻止已经瓦解的一切。\n\n你调转伴侣骑兵，急速骑往救援帕曼纽。当你到达时，他的色萨利骑兵几乎弯曲到崩溃点但仍然坚守。包围了他的波斯骑兵，得知大流士已逃，开始撤退。战斗结束了。\n\n高加米拉是你的。更重要的是——波斯帝国是你的。"
+      },
+      "stateChanges": [
+        { "variable": "dariusProximity", "operation": "set", "value": 100 },
+        { "variable": "persianMorale", "operation": "add", "value": -40 },
+        { "variable": "macedonianMorale", "operation": "add", "value": 20 }
+      ],
+      "nextSceneId": "alexander-gaugamela-331bc-scene-003"
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Wheel to save Parmenion — relieve the left flank before it collapses",
+        "ja": "パルメニオンを救うために旋回する――崩壊する前に左翼を救援する",
+        "zh-CN": "转向拯救帕曼纽——在左翼崩溃之前救援它"
+      },
+      "description": {
+        "en": "Parmenion has been your father's best general and your most trusted subordinate. If his wing breaks, the battle becomes a disaster regardless of what happens in the center. Break off the charge, wheel the Companions leftward, and ride to relieve the Thessalians. Darius can be dealt with later — if the battle holds.",
+        "ja": "パルメニオンはあなたの父の最も優れた将軍で、あなたの最も信頼できる部下だ。彼の翼が崩れれば、中央で何が起きるかにかかわらず戦闘は惨事になる。突撃を断ち切り、コンパニオンを左に向けてテッサリア騎兵を救援するために馳せる。ダレイオスは後で対処できる——戦闘が持ちこたえれば。",
+        "zh-CN": "帕曼纽一直是你父亲最优秀的将领，也是你最信任的下属。如果他的翼崩溃，无论中央发生什么，战役都会变成灾难。中止冲锋，将伴侣骑兵向左转向，骑往救援色萨利骑兵。大流士以后可以处理——如果战役能坚持下去的话。"
+      },
+      "historicalContext": "This is the counterfactual — Alexander historically did not wheel to help Parmenion until after Darius had fled and the Persian army was collapsing. Alexander trusted that Parmenion would hold because there was no alternative — and he was right. The historical Parmenion held his position despite enormous pressure. Diverting the Companions to relieve him before the decisive moment would have closed the window to reach Darius and potentially extended the battle indefinitely.",
+      "outcomePrompt": {
+        "en": "You wheel left. The gap is still open as you ride away from it — you can see Darius in his chariot watching your movement with visible relief. His officers are already moving troops to close the gap.\n\nYou reach Parmenion. The relief of the Companions turns the tide on the left — the Thessalians reform behind your arrival, and the Persian cavalry begins to withdraw. The left flank is saved.\n\nBut when you turn back to the center, the gap in the Persian line is closed. Darius is pulling his chariot back into the Persian formation, reorganizing his guard. The moment is gone.\n\nThe battle grinds on for another two hours. Without the gap to exploit, the engagement becomes a test of endurance. Your phalanx is superior to Persian infantry everywhere it makes contact, and the Persian cavalry that had broken through your rear has spent itself looting your baggage train. Gradually, the Persian line crumbles under sustained pressure.\n\nDarius flees eventually — not from a direct threat, but from the general collapse of his army. The victory is yours, but it is costly and slow. Darius escapes with a significant portion of his guard and reaches Bactria.\n\nYou will have to fight him again. Or rather, you will have to pursue him — which you will. But it will take longer, and Darius will have time to try to rebuild something in the east. The clean decisive end you had in your hands on the plain of Gaugamela slipped away.",
+        "ja": "左に旋回する。あなたが立ち去る時、隙間はまだ開いている——ダレイオスが戦車であなたの動きを明らかな安堵とともに見ているのが見える。彼の将校たちはすでに隙間を閉じるために部隊を動かしている。\n\nパルメニオンに到達する。コンパニオンの救援が左翼の流れを変える——テッサリア騎兵はあなたの到着の後に再編成し、ペルシア騎兵は撤退し始める。左翼は救われた。\n\nしかし中央に引き返すと、ペルシアの戦列の隙間は閉じている。ダレイオスは戦車をペルシアの陣形に引き戻し、護衛を再組織している。その瞬間は過ぎた。\n\n戦闘はさらに2時間続く。利用する隙間なしに、交戦は耐久力の試練になる。あなたのファランクスは接触するどこでもペルシア歩兵より優れており、あなたの後方に突破したペルシア騎兵は荷物列の略奪に力を使い果たした。徐々に、持続的な圧力のもとでペルシアの戦列は崩れる。\n\nダレイオスは最終的に逃走する——直接的な脅威からではなく、軍の一般的な崩壊から。勝利はあなたのものだが、コストがかかり遅い。ダレイオスは護衛のかなりの部分とともに逃れてバクトリアに到達する。\n\nあなたは再び彼と戦わなければならないだろう。より正確には、追跡しなければならない——そしてあなたはそうする。しかしより長くかかり、ダレイオスは東で何かを再建しようとする時間を持つ。ガウガメラの平原で手の中にあった明確で決定的な終わりは逃げ去った。",
+        "zh-CN": "你向左转向。当你离开时缺口仍然开着——你能看到大流士在他的战车上以明显的释然观察你的动作。他的军官已经在调动部队关闭缺口。\n\n你到达帕曼纽。伴侣骑兵的救援扭转了左翼的局势——色萨利骑兵在你到来后重新整队，波斯骑兵开始撤退。左翼得救了。\n\n但当你转回中央时，波斯战线的缺口已经关闭。大流士正在将他的战车拉回波斯阵型，重新组织他的护卫。那个时刻已经过去了。\n\n战斗又持续了两个小时。没有缺口可以利用，交战变成了耐力的考验。你的方阵在它接触的每个地方都优于波斯步兵，而突破你后方的波斯骑兵已经在掠夺你的辎重队时耗尽了自己。渐渐地，在持续的压力下，波斯战线崩溃了。\n\n大流士最终逃走了——不是因为直接威胁，而是因为他军队的全面崩溃。胜利是你的，但代价高昂且进展缓慢。大流士带着相当一部分护卫逃脱并到达巴克特里亚。\n\n你将不得不再次与他战斗。或者更准确地说，你将不得不追击他——你会的。但需要更长时间，而大流士将有时间尝试在东方重建什么。你在高加米拉平原上曾握在手中的那个干净决定性的终结溜走了。"
+      },
+      "stateChanges": [
+        { "variable": "leftWingStability", "operation": "add", "value": 25 },
+        { "variable": "dariusProximity", "operation": "add", "value": -50 },
+        { "variable": "persianMorale", "operation": "add", "value": -15 }
+      ],
+      "nextSceneId": "alexander-gaugamela-331bc-scene-003"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "cleopatra-egypt-30bc-scene-002",
+  "scenarioId": "cleopatra-egypt-30bc",
+  "isTerminal": false,
+  "date": {
+    "en": "August 9, 30 BC — Four Days Later",
+    "ja": "紀元前30年8月9日 — 四日後",
+    "zh-CN": "公元前30年8月9日——四天后"
+  },
+  "location": {
+    "en": "The Royal Mausoleum, Alexandria",
+    "ja": "アレクサンドリア、王室霊廟",
+    "zh-CN": "亚历山大，王室陵墓"
+  },
+  "title": {
+    "en": "The Messenger",
+    "ja": "使者",
+    "zh-CN": "使者"
+  },
+  "narrativePrompt": {
+    "en": "A trusted servant brings you word: Octavian plans to begin his march to Rome in three days. Your window is closing. But the servant also brings darker news — Caesarion's escort has been betrayed. A man named Rhodon, whom you trusted, has told Octavian where your son is traveling. Octavian's cavalry is already moving south. Caesarion may have hours, perhaps a day. Do you send the servant south with a desperate message warning Caesarion to abandon the road and take to the desert — or do you use these final hours to compose yourself for death in the manner a pharaoh of Egypt should die?",
+    "ja": "信頼できる使用人が知らせを持ってきた：オクタウィアヌスは三日後にローマへの行軍を開始する計画だ。好機が失われつつある。しかし使用人はさらに暗い知らせも持ってきた——カエサリオンの護衛が裏切られた。あなたが信頼したロドンという男が、あなたの息子がどこに旅しているかをオクタウィアヌスに告げた。オクタウィアヌスの騎兵はすでに南に向かっている。カエサリオンには数時間、おそらく一日あるかもしれない。使用人を南に向かわせ、道を捨てて砂漠に逃げるよう警告する絶望的なメッセージをカエサリオンに送るか——それとも、この最後の時間を使って、エジプトのファラオがそうあるべき形で死の準備を整えるか？",
+    "zh-CN": "一位可信赖的仆人带来消息：屋大维计划三天后开始向罗马进军。你的时机正在流逝。但仆人也带来了更黑暗的消息——凯撒里昂的护卫已被出卖。一个名叫罗东的人——你曾信任他——告诉了屋大维你的儿子在哪里旅行。屋大维的骑兵已经向南移动。凯撒里昂可能还有几小时，也许一天。你是派仆人南下，带着绝望的警告消息让凯撒里昂抛弃道路进入沙漠——还是用这最后几小时准备自己，以埃及法老应有的方式赴死？"
+  },
+  "situationReport": [
+    {
+      "en": "Octavian departs for Rome in 3 days. After that, you will be transported as cargo.",
+      "ja": "オクタウィアヌスは3日後にローマを発つ。その後、あなたは荷物として輸送される。",
+      "zh-CN": "屋大维3天后出发前往罗马。那之后，你将作为货物被运走。"
+    },
+    {
+      "en": "Caesarion has been betrayed by Rhodon. Octavian's cavalry is moving south. Your son is on the trade road toward Berenice.",
+      "ja": "カエサリオンはロドンに裏切られた。オクタウィアヌスの騎兵が南に向かっている。あなたの息子はベレニケに向かう交易路にいる。",
+      "zh-CN": "凯撒里昂已被罗东出卖。屋大维的骑兵正向南移动。你的儿子在通往贝勒尼基的贸易路上。"
+    },
+    {
+      "en": "Your other children — Alexander Helios, Cleopatra Selene, Ptolemy Philadelphus — are small and pose no dynastic threat. Octavian may spare them.",
+      "ja": "あなたの他の子供たち——アレクサンドロス・ヘリオス、クレオパトラ・セレネ、プトレマイオス・フィラデルフォス——は小さく、王朝上の脅威をもたらさない。オクタウィアヌスは彼らを赦すかもしれない。",
+      "zh-CN": "你的其他孩子——亚历山大·赫利俄斯、克利奥帕特拉·塞勒涅、托勒密·菲拉德尔菲斯——还小，不构成王朝威胁。屋大维可能会放过他们。"
+    },
+    {
+      "en": "The asp is ready. A basket of figs has been prepared. The method will be quick and certain — and will look, perhaps, like natural causes.",
+      "ja": "コブラの準備ができている。無花果の籠が用意されている。方法は迅速で確実だ——そしておそらく自然死のように見えるだろう。",
+      "zh-CN": "眼镜蛇已准备好。无花果篮已备好。方法将快速而确定——并且看起来，或许，像是自然原因。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Die with dignity, as Pharaoh of Egypt — not as a prisoner in a Roman triumph",
+      "ja": "エジプトのファラオとして尊厳を持って死ぬ——ローマの凱旋式での囚人としてではなく",
+      "zh-CN": "有尊严地死去，作为埃及法老——而非作为罗马凯旋游行中的囚犯"
+    },
+    {
+      "en": "Give Caesarion every chance, however slim, to survive",
+      "ja": "カエサリオンに、どれほど薄くても、生き残るすべての機会を与える",
+      "zh-CN": "给凯撒里昂每一个机会，无论多么渺茫，来生存"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Octavian's cavalry is faster than any messenger — warning Caesarion may be futile",
+      "ja": "オクタウィアヌスの騎兵はどの使者よりも速い——カエサリオンへの警告は無駄かもしれない",
+      "zh-CN": "屋大维的骑兵比任何信使都快——警告凯撒里昂可能徒劳"
+    },
+    {
+      "en": "Every hour spent on Caesarion's escape is an hour Octavian's guards watch you more closely",
+      "ja": "カエサリオンの脱出に費やすすべての時間は、オクタウィアヌスの護衛があなたをより厳重に監視する時間だ",
+      "zh-CN": "每花在凯撒里昂逃脱上的每一小时，都是屋大维的卫兵更严密监视你的一小时"
+    }
+  ],
+  "choices": [
+    {
+      "id": "warn-caesarion",
+      "label": {
+        "en": "Send the servant: warn Caesarion to abandon the road and hide in the desert villages",
+        "ja": "使用人を送る：道を捨てて砂漠の村に隠れるよう警告する",
+        "zh-CN": "派出仆人：警告凯撒里昂抛弃道路躲入沙漠村庄"
+      },
+      "description": {
+        "en": "Send everything you have left — your last loyal servant, your last hope — south with a warning. Caesarion is clever. Perhaps he can disappear into the Eastern Desert, reach the Red Sea ports, sail to India. Use your remaining hours to die properly, knowing you tried.",
+        "ja": "残っているすべてのもの——最後の忠実な使用人、最後の希望——を警告と共に南に送る。カエサリオンは利口だ。おそらく東の砂漠に消え、紅海の港に到達し、インドに航海できるかもしれない。残りの時間を使って正しく死ぬ。試みたと知りながら。",
+        "zh-CN": "派出你所剩的一切——你最后忠诚的仆人，你最后的希望——带着警告南下。凯撒里昂聪明。也许他能消失进东部沙漠，到达红海港口，扬帆前往印度。用你剩余的时间妥善死去，知道你曾经尝试过。"
+      },
+      "historicalContext": "This is the more humane choice but the historically futile one. Caesarion was in fact betrayed by his tutor Rhodon and captured and executed shortly after Cleopatra's death. The speed of Octavian's cavalry made any warning likely useless. Cleopatra had no means to save him once he was betrayed.",
+      "outcomePrompt": {
+        "en": "The servant departs south before dawn. You do not know if the warning arrives in time. You spend your last day in prayer, in writing, in the rituals your mother taught you. On August 12, the basket arrives. The asp strikes once. When Octavian's men find you, you are dressed as Isis — goddess, queen, pharaoh — seated on your throne. Caesarion is captured three days later. But you did not know that. You died trying.",
+        "ja": "使用人は夜明け前に南に出発する。警告が間に合うかどうか分からない。最後の一日を祈り、執筆し、母が教えてくれた儀式の中で過ごす。8月12日、籠が届く。コブラが一度噛む。オクタウィアヌスの部下があなたを見つけると、イシス——女神、女王、ファラオ——として着飾り、玉座に座っている。カエサリオンは三日後に捕らえられる。しかしあなたはそれを知らなかった。あなたは試みながら死んだ。",
+        "zh-CN": "仆人在黎明前向南出发。你不知道警告是否及时到达。你在最后一天祈祷、写作，进行母亲教给你的仪式。8月12日，篮子送来。眼镜蛇咬了一次。当屋大维的手下找到你时，你身着伊西斯——女神、女王、法老——的装束，坐在你的宝座上。凯撒里昂三天后被捕。但你不知道这些。你在尝试中死去。"
+      },
+      "stateChanges": [
+        { "key": "caesarionSafety", "operation": "add", "value": 10 },
+        { "key": "cleopatraDignity", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": "cleopatra-egypt-30bc-scene-003"
+    },
+    {
+      "id": "die-with-ceremony",
+      "label": {
+        "en": "Prepare yourself for death as Pharaoh: ritual, dignity, the manner of a queen",
+        "ja": "ファラオとして死の準備をする：儀式、品位、女王の作法",
+        "zh-CN": "以法老身份为死亡做准备：仪式、尊严、女王的风范"
+      },
+      "description": {
+        "en": "Caesarion is beyond saving now. Use what remains to die as Egypt's last pharaoh should die — not in Roman chains but on your own terms, as your dynasty has lived for three centuries.",
+        "ja": "カエサリオンはもう救えない。残っているものを使って、エジプトの最後のファラオが死ぬべき方法で死ぬ——ローマの鎖ではなく、自分の意志で、王朝が三世紀にわたって生きてきたように。",
+        "zh-CN": "凯撒里昂现在已无法拯救。用所剩的一切以埃及最后法老应有的方式死去——不是戴着罗马锁链，而是按自己的意愿，如同你的王朝三个世纪以来的生活方式。"
+      },
+      "historicalContext": "This is the counterfactual choice — accepting that Caesarion cannot be saved and focusing entirely on the manner of death. Cleopatra in reality did send messages and attempt to manage her situation, though the historical record is unclear on what exactly she did in her final days. The idea that she accepted the inevitable with full ceremony is partly mythologized.",
+      "outcomePrompt": {
+        "en": "You spend your final hours in ritual purification. You write letters to your children that will likely never reach them. You dress as Isis. The basket of figs arrives with the asp coiled within. You do not hesitate. Octavian finds you as he would have found any pharaoh who chose dignity over captivity — complete, composed, and entirely beyond his reach. Caesarion is found and executed regardless. But Egypt ends on Egypt's terms.",
+        "ja": "最後の数時間を儀式的な浄化に費やす。おそらく届かないであろう子供たちへの手紙を書く。イシスとして着飾る。コブラが中に巻かれた無花果の籠が届く。躊躇しない。オクタウィアヌスは、捕囚よりも尊厳を選んだいかなるファラオも見つけるように、あなたを見つける——完璧で、落ち着いており、彼の手の届かないところにある。カエサリオンはいずれにせよ発見されて処刑される。しかしエジプトはエジプトの意志で終わる。",
+        "zh-CN": "你在最后几小时进行仪式性净化。你给孩子们写信，那些信可能永远到不了他们手中。你装扮成伊西斯。装有盘曲眼镜蛇的无花果篮送来。你没有迟疑。屋大维发现你的方式，就如同他发现任何选择了尊严而非被俘的法老——完整、从容，完全超出他的掌控。凯撒里昂还是被找到并处决了。但埃及以埃及的方式结束。"
+      },
+      "stateChanges": [
+        { "key": "cleopatraDignity", "operation": "add", "value": 20 },
+        { "key": "caesarionSafety", "operation": "add", "value": -10 }
+      ],
+      "nextSceneId": "cleopatra-egypt-30bc-scene-003"
+    }
+  ]
+}

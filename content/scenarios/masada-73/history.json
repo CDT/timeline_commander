@@ -1,0 +1,90 @@
+{
+  "scenarioId": "masada-73",
+  "timeline": [
+    {
+      "date": "0066-01-01",
+      "description": {
+        "en": "The Great Jewish Revolt begins against Roman rule in Judaea. Sicarii rebels under Menahem ben Judah seize Masada from its Roman garrison, capturing a large stockpile of weapons left by Herod the Great.",
+        "ja": "ユダヤ属州でローマ支配に対する大ユダヤ反乱が始まる。メナヘム・ベン・ユダ率いるシカリイ派の反乱軍がローマ駐屯軍からマサダを奪取し、ヘロデ大王が残した大量の武器を鹵獲する。",
+        "zh-CN": "犹太大起义爆发，反抗罗马在犹太行省的统治。梅纳赫姆·本·犹大领导的西卡里伊派叛军从罗马驻军手中夺取马萨达，缴获了希律大帝留下的大量武器。"
+      }
+    },
+    {
+      "date": "0070-09-01",
+      "description": {
+        "en": "Jerusalem falls to the Roman legions under Titus. The Second Temple is destroyed. Survivors scatter across Judaea. Eleazar ben Ya'ir leads Sicarii refugees to Masada, swelling its population to nearly a thousand.",
+        "ja": "ティトゥス率いるローマ軍団がエルサレムを陥落させる。第二神殿が破壊される。生存者はユダヤ各地に散る。エレアザル・ベン・ヤイルがシカリイ派の難民をマサダに導き、人口は約千人に膨れ上がる。",
+        "zh-CN": "耶路撒冷在提图斯率领的罗马军团攻击下陷落。第二圣殿被摧毁。幸存者散落犹太各地。埃莱亚扎尔·本·亚伊尔带领西卡里伊派难民前往马萨达，使其人口增至近千人。"
+      }
+    },
+    {
+      "date": "0071-01-01",
+      "description": {
+        "en": "The Romans systematically reduce the remaining Jewish strongholds. Herodium and Machaerus fall. Masada becomes the last holdout of the Jewish revolt.",
+        "ja": "ローマ軍が残りのユダヤ人拠点を組織的に攻略する。ヘロディウムとマケルスが陥落。マサダがユダヤ人の反乱の最後の拠点となる。",
+        "zh-CN": "罗马人系统性地攻克犹太人剩余的据点。希律堡和马凯鲁斯陷落。马萨达成为犹太起义的最后据点。"
+      }
+    },
+    {
+      "date": "0072-01-01",
+      "description": {
+        "en": "Flavius Silva arrives with the Tenth Legion Fretensis, approximately 8,000 legionaries, and thousands of Jewish slaves. He establishes eight camps around the base of the mountain and builds a circumvallation wall to prevent any escape.",
+        "ja": "フラウィウス・シルウァが第十軍団フレテンシス約8,000人の軍団兵と数千人のユダヤ人奴隷を率いて到着する。山の麓に八つの陣地を設営し、脱出を防ぐ包囲壁を建設する。",
+        "zh-CN": "弗拉维乌斯·席尔瓦率第十弗雷特西斯军团约8000名军团士兵和数千名犹太奴隶到达。他在山脚建立八座营地，并修建环形围墙防止任何逃脱。"
+      }
+    },
+    {
+      "date": "0072-06-01",
+      "description": {
+        "en": "After initial attempts to assault the mountain paths fail with heavy losses, Silva orders the construction of a massive siege ramp against the western face of the plateau, using earth, timber, and stone carried by enslaved Jewish prisoners.",
+        "ja": "山道への最初の攻撃が大きな損害を出して失敗した後、シルウァは奴隷にされたユダヤ人捕虜に土、木材、石を運ばせ、台地の西面に巨大な攻城傾斜路の建設を命じる。",
+        "zh-CN": "在最初的山路强攻因重大伤亡失败后，席尔瓦下令在高原西面修建巨大的攻城坡道，使用被奴役的犹太俘虏搬运泥土、木材和石块。"
+      }
+    },
+    {
+      "date": "0073-03-01",
+      "description": {
+        "en": "The siege ramp nears completion after months of construction. It reaches a height of over 100 meters. The Romans begin moving a siege tower and battering ram up the ramp to breach Masada's casemate wall.",
+        "ja": "数ヶ月の建設を経て攻城傾斜路が完成に近づく。高さは100メートル以上に達する。ローマ軍はマサダの二重壁を突破するため、攻城塔と破城槌を傾斜路の上に移動し始める。",
+        "zh-CN": "经过数月施工，攻城坡道接近完工。坡道高度超过100米。罗马人开始将攻城塔和攻城槌运上坡道，准备突破马萨达的双层城墙。"
+      }
+    },
+    {
+      "date": "0073-04-15",
+      "description": {
+        "en": "The Roman battering ram breaches the outer stone wall. The defenders hastily construct an inner wall of earth and timber. The Romans set fire to it, but a change in wind blows the flames back toward the siege tower. When the wind shifts again, the inner wall catches fire and burns through the night.",
+        "ja": "ローマの破城槌が外側の石壁を突破する。守備側は急いで土と木材の内壁を築く。ローマ軍はそれに火を放つが、風向きが変わり炎が攻城塔に向かって吹き返す。再び風向きが変わると内壁に火がつき、夜通し燃え続ける。",
+        "zh-CN": "罗马攻城槌攻破外层石墙。守军仓促用泥土和木材筑起内墙。罗马人放火焚烧，但风向变化将火焰吹向攻城塔。当风向再次改变时，内墙着火，整夜燃烧。"
+      }
+    },
+    {
+      "date": "0073-04-16",
+      "description": {
+        "en": "The Romans storm through the breach at dawn, expecting fierce resistance. Instead they find silence. According to Josephus, 960 defenders had chosen death over capture the previous night. Only two women and five children, hidden in a cistern, survive to tell what happened.",
+        "ja": "ローマ軍が夜明けに突破口を突入し、激しい抵抗を予想する。しかし見つけたのは静寂だけだった。ヨセフスによれば、960人の守備者が前夜、捕虜になるより死を選んでいた。貯水槽に隠れていた女性2人と子供5人だけが生き残り、何が起こったかを語った。",
+        "zh-CN": "罗马人在黎明时从缺口冲入，预期会遇到激烈抵抗。然而他们只发现了一片寂静。据约瑟夫斯记载，960名守军在前一夜选择了宁死不俘。只有藏在蓄水池中的两名妇女和五个孩子幸存，讲述了所发生的一切。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The fortress fell to the Romans, but the mass death of the defenders denied Rome its triumph. Masada became a powerful symbol of Jewish resistance and the determination to live free or not at all. The site's significance grew over centuries, and in modern Israel it became a national symbol — Israeli soldiers once took their oath of service there with the words 'Masada shall not fall again.'",
+    "ja": "要塞はローマ軍の手に落ちたが、守備者の集団死はローマから勝利を奪った。マサダはユダヤ人の抵抗と、自由に生きるか死ぬかという決意の強力な象徴となった。この地の重要性は何世紀にもわたって増し、現代イスラエルでは国家の象徴となった——イスラエル兵はかつてここで「マサダは二度と陥落しない」という言葉と共に服務の宣誓を行った。",
+    "zh-CN": "要塞落入罗马人之手，但守军的集体赴死使罗马无法获得真正的胜利。马萨达成为犹太人抵抗精神和不自由毋宁死信念的强大象征。这一遗址的重要性在数世纪中不断增长，在现代以色列成为国家象征——以色列士兵曾在此宣誓'马萨达永不再陷落'。"
+  },
+  "casualties": {
+    "en": "Jewish defenders: 960 dead (according to Josephus, by their own hands), 7 survivors. Roman: minimal casualties during the siege itself, with most losses occurring during early assault attempts on the mountain paths.",
+    "ja": "ユダヤ守備側：960人死亡（ヨセフスによれば自らの手で）、7人生存。ローマ側：包囲戦自体での死傷者は最小限で、損害の大半は山道への初期の強襲試行時に発生。",
+    "zh-CN": "犹太守军：960人死亡（据约瑟夫斯记载，死于自己之手），7人幸存。罗马方面：围城战本身伤亡甚微，大部分损失发生在早期强攻山路的尝试中。"
+  },
+  "significance": {
+    "en": "Masada marked the final end of the First Jewish-Roman War and the last organized Jewish armed resistance to Rome for over sixty years. Its archaeological remains — including the Roman siege camps and ramp, remarkably preserved in the dry desert climate — provide one of the most complete pictures of Roman siege warfare ever discovered. The ethical questions raised by the mass suicide have been debated for nearly two thousand years, touching on themes of freedom, resistance, martyrdom, and the moral limits of defiance.",
+    "ja": "マサダは第一次ユダヤ・ローマ戦争の最終的な終結と、60年以上にわたるローマに対する最後の組織的なユダヤ人武装抵抗を示した。乾燥した砂漠の気候で驚くほど保存状態の良いローマの包囲陣地と傾斜路を含む考古学的遺跡は、これまで発見されたローマの攻城戦の最も完全な姿の一つを提供している。集団自決が提起した倫理的問題は約2,000年にわたって議論されており、自由、抵抗、殉教、反抗の道徳的限界というテーマに触れている。",
+    "zh-CN": "马萨达标志着第一次犹太-罗马战争的最终结束，以及六十多年来犹太人对罗马最后的有组织武装抵抗的终结。其考古遗迹——包括在干燥沙漠气候中保存完好的罗马围城营地和坡道——提供了迄今发现的最完整的罗马围城战图景之一。集体自杀所引发的伦理问题已被讨论了近两千年，涉及自由、抵抗、殉道以及反抗的道德限度等主题。"
+  },
+  "furtherReading": [
+    "Flavius Josephus — The Jewish War (Book VII)",
+    "Yigael Yadin — Masada: Herod's Fortress and the Zealots' Last Stand",
+    "Nachman Ben-Yehuda — The Masada Myth: Collective Memory and Mythmaking in Israel",
+    "Shaye J.D. Cohen — Masada: Literary Tradition, Archaeological Remains, and the Credibility of Josephus"
+  ]
+}

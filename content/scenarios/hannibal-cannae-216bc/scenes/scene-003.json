@@ -1,0 +1,123 @@
+{
+  "id": "hannibal-cannae-216bc-scene-003",
+  "scenarioId": "hannibal-cannae-216bc",
+  "date": {
+    "en": "Evening, August 2, 216 BC",
+    "ja": "紀元前216年8月2日夕方",
+    "zh-CN": "公元前216年8月2日傍晚"
+  },
+  "location": {
+    "en": "Carthaginian Camp, Cannae",
+    "ja": "カンナエ、カルタゴ軍の野営地",
+    "zh-CN": "坎尼，迦太基军营"
+  },
+  "isTerminal": true,
+  "title": {
+    "en": "The Road to Rome",
+    "ja": "ローマへの道",
+    "zh-CN": "通往罗马之路"
+  },
+  "narrativePrompt": {
+    "en": "The sun sets over the plain of Cannae. Between 47,000 and 70,000 Romans lie dead — the greatest single-day military disaster in Roman history. The surviving Roman forces have scattered; the two consuls are dead or fled. In the Carthaginian camp, your officers are euphoric. The men are exhausted but triumphant, moving through the carnage collecting the signet rings of fallen Roman senators, filling a bushel-basket with gold.\n\nYou are Hannibal Barca, at the pinnacle of your career, the most feared commander in the Mediterranean world. And your cavalry commander Maharbal rides up and makes a proposition that will echo through history: 'Give me the cavalry alone, and I will take you to Rome in five days. Send me ahead; then come and feast where I shall prepare for you.'\n\nThe logic is brutal and clear. Rome is undefended. The Latin allies who form the backbone of Rome's recruiting base are wavering — Capua, Samnium, and other cities are about to defect to Carthage. If you appear before Rome's gates within the week, the city may fall. You could end this war in a single week.\n\nBut you are deep in enemy territory, at the end of long supply lines, with no siege equipment, commanding an exhausted army. Carthage has not sent the reinforcements you requested. And you have a strategic calculation to make — one that historians will debate for more than two thousand years.",
+    "ja": "太陽がカンナエの平原に沈む。4万7千から7万のローマ兵が横たわっている――ローマ史上最大の単日の軍事的惨事だ。生き残ったローマ軍は散り散りになった。二人の執政官は死ぬか逃げた。カルタゴの陣営では、あなたの将校たちが陶酔している。兵士たちは疲弊しているが意気揚々とし、虐殺の場を移動して倒れたローマ元老院議員の印章指輪を集め、金でバスケットを満たしている。\n\nあなたはハンニバル・バルカであり、キャリアの頂点にあり、地中海世界で最も恐れられた指揮官だ。そしてあなたの騎兵司令官マハルバルが馬を駆けて来て、歴史に反響し続ける提案をする：「騎兵だけをください、五日でローマに連れて行きましょう。私を先に行かせてください、それからあなたが宴会をするところに来てください。私がそのために準備しますから。」\n\n論理は残酷で明確だ。ローマは無防備だ。ローマの兵員基盤の根幹をなすラテン系の同盟国が揺らいでいる――カプア、サムニウム、その他の都市がカルタゴに離反しようとしている。一週間以内にローマの城門の前に現れれば、街が陥落するかもしれない。一週間でこの戦争を終わらせることができるだろう。\n\nしかしあなたは敵地の奥深くに、長い補給線の末端に、包囲装備なしに、疲弊した軍隊を率いている。カルタゴは要請した増援を送ってきていない。そして戦略的な計算をする必要がある――歴史家たちが2000年以上議論し続けるであろう計算を。",
+    "zh-CN": "太阳落在坎尼平原上。47,000至70,000名罗马人倒地——罗马历史上最大的单日军事灾难。幸存的罗马军队四散；两位执政官阵亡或逃跑。在迦太基营地，你的军官们欣喜若狂。士兵们精疲力竭但充满胜利的喜悦，在屠杀现场穿行，收集倒下的罗马元老院议员的印章戒指，用金子装满一个蒲式耳篮子。\n\n你是汉尼拔·巴卡，在你事业的顶峰，地中海世界最令人畏惧的指挥官。你的骑兵指挥官马哈尔巴尔策马而来，提出了一个将在历史中回响的建议：'只给我骑兵，我五天内就能带你到罗马。先让我去，然后你来享受我为你准备的盛宴。'\n\n逻辑是残酷而清晰的。罗马毫无防守。构成罗马招募基础骨干的拉丁盟友正在动摇——卡普亚、萨姆尼乌姆和其他城市即将倒向迦太基。如果你在一周内出现在罗马城门前，城市可能陷落。你可以在一周内结束这场战争。\n\n但你深入敌境，位于漫长补给线的末端，没有攻城设备，率领一支疲惫的军队。迦太基没有派来你请求的增援。你需要做出一个战略计算——历史学家将争论超过两千年的计算。"
+  },
+  "situationReport": [
+    {
+      "en": "Rome is currently undefended. The city's garrison is minimal; most military-age men have been mobilized and are now dead on the plain. Maharbal's cavalry could reach Rome's walls within days.",
+      "ja": "ローマは現在無防備だ。街の守備隊は最小限だ。軍役年齢のほとんどの男性が動員され、今は平原で死んでいる。マハルバルの騎兵は数日以内にローマの城壁に到達できるだろう。",
+      "zh-CN": "罗马目前毫无防守。城市的守备力量微乎其微；大多数服役年龄的男性已被动员，现在死在平原上。马哈尔巴尔的骑兵可以在数天内到达罗马城墙。"
+    },
+    {
+      "en": "Capua, the second city of Italy, is negotiating to defect to Carthage. Other Samnite and Oscan cities are watching. A march on Rome now could trigger a cascade of Italian defections that unravels Rome's entire confederacy.",
+      "ja": "イタリア第二の都市カプアがカルタゴへの離反を交渉している。他のサムニウム人とオスク人の都市が見守っている。今ローマへ進軍すれば、ローマの連邦全体を解体するイタリアの連鎖的離反を引き起こすかもしれない。",
+      "zh-CN": "意大利第二大城市卡普亚正在谈判倒向迦太基。其他萨姆尼乌姆和奥斯坎城市在旁观望。现在向罗马进军可能引发意大利的连锁背叛，瓦解罗马的整个联盟。"
+    },
+    {
+      "en": "Your army has no siege equipment. Without catapults, siege towers, and supporting logistics, even an undefended Rome could hold behind its walls. You could invest the city — but you cannot storm it quickly.",
+      "ja": "あなたの軍隊には包囲装備がない。投石機、攻城塔、補給支援がなければ、無防備なローマでも城壁の後ろで持ちこたえることができる。街を封鎖することはできる――しかし迅速に攻略することはできない。",
+      "zh-CN": "你的军队没有攻城设备。没有投石机、攻城塔和后勤支援，即使是毫无防守的罗马也能凭城墙抵挡。你可以围困这座城市——但无法迅速攻取它。"
+    },
+    {
+      "en": "Carthage has not responded to your requests for reinforcements. You are operating without a firm strategic plan beyond the campaign in Italy. The Senate in Carthage is dominated by your political enemies, the Hannonid faction.",
+      "ja": "カルタゴはあなたの増援要請に応答していない。あなたはイタリアでの戦役を超えた確固たる戦略計画なしに行動している。カルタゴの元老院はあなたの政治的敵であるハンノン派に支配されている。",
+      "zh-CN": "迦太基没有回应你的增援请求。你在没有超越意大利战役的明确战略计划的情况下行动。迦太基元老院被你的政治敌人汉诺派所主导。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Choose the strategic direction that will determine whether Cannae ends the war or merely prolongs it.",
+      "ja": "カンナエが戦争を終わらせるか、単に長引かせるかを決定する戦略的方向性を選択する。",
+      "zh-CN": "选择将决定坎尼是否能结束战争还是仅仅延长战争的战略方向。"
+    },
+    {
+      "en": "Consolidate the victory in Italy in a way that converts battlefield success into political collapse of the Roman confederacy.",
+      "ja": "戦場での成功をローマ連邦の政治的崩壊に転換する方法でイタリアの勝利を強化する。",
+      "zh-CN": "以将战场成功转化为罗马联盟政治崩溃的方式巩固意大利的胜利。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Every day you remain stationary, Rome rebuilds its defenses and its political will. The Roman Senate has already refused to even discuss ransom for the 10,000 prisoners taken at Cannae — a signal of Roman resolve.",
+      "ja": "あなたが静止している日々ごとに、ローマはその防衛と政治的意志を再建する。ローマ元老院はすでにカンナエで取られた1万人の捕虜の身代金を議論することさえ拒否した――ローマの決意のシグナルだ。",
+      "zh-CN": "你停留不动的每一天，罗马都在重建其防御和政治意志。罗马元老院已经拒绝讨论坎尼被俘的10,000名囚犯的赎金——这是罗马决心的信号。"
+    },
+    {
+      "en": "Your army needs rest, resupply, and reinforcement. A march to Rome risks arriving with an exhausted force that cannot storm walls and cannot be supplied by the countryside, which is now hostile.",
+      "ja": "あなたの軍隊は休息、補給、増援が必要だ。ローマへの進軍は城壁を攻略できず、今は敵対的な農村地帯から補給を受けられない疲弊した部隊で到着するリスクがある。",
+      "zh-CN": "你的军队需要休息、补给和增援。向罗马进军的风险是以一支无法攻城、无法从现在已经敌对的乡村地区获得补给的疲惫部队抵达。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "March on Rome immediately — press the advantage before the city recovers",
+        "ja": "直ちにローマに進軍する――街が回復する前に優位を追う",
+        "zh-CN": "立即向罗马进军——趁城市恢复之前保持优势"
+      },
+      "description": {
+        "en": "Send Maharbal's cavalry ahead as a flying column. Follow with the main army at maximum speed. Accept the logistical risks. Appear before Rome's walls within the week and see if the city's nerve breaks. Even if you cannot storm the walls, the psychological shock of Hannibal at the gates may trigger political collapse or mass defections.",
+        "ja": "マハルバルの騎兵を先鋒として遊撃縦隊として送る。最高速度で主力軍が続く。補給上のリスクを受け入れる。一週間以内にローマの城壁の前に現れ、街の意志が崩れるかどうかを見る。壁を攻略できなくても、城門のハンニバルという心理的衝撃が政治的崩壊や集団的離反を引き起こすかもしれない。",
+        "zh-CN": "将马哈尔巴尔的骑兵作为飞行纵队派出。主力军以最快速度跟进。接受后勤风险。在一周内出现在罗马城墙前，看看城市的意志是否崩溃。即使无法攻城，汉尼拔出现在城门前的心理冲击可能引发政治崩溃或大规模背叛。"
+      },
+      "historicalContext": "This is the counterfactual that Maharbal proposed and Hannibal rejected. The debate over whether Hannibal should have marched on Rome after Cannae is one of history's great 'what-ifs.' Many historians argue that Roman resilience — demonstrated by their refusal to negotiate even with 10,000 prisoners in Carthaginian hands — suggests Rome would not have surrendered even with Hannibal at the gates. Others argue the city was genuinely defenseless and that a rapid march was the only way to win the war outright.",
+      "outcomePrompt": {
+        "en": "You send Maharbal ahead. The main army follows, exhausted men force-marching north through Apulia. Word of Cannae races ahead of you and the effects are immediate: Capua throws open its gates to Carthage. Samnite and Lucanian cities declare for you. The whole south of Italy erupts.\n\nBut Rome does not collapse. The Senate meets in continuous session and makes emergency decisions with breathtaking ruthlessness: slaves are freed and armed, boys of 14 are conscripted, temple treasure is melted for pay. Dictator after dictator is appointed. When your cavalry appear on the Campanian plain, the gates of Rome are shut and the walls are manned by old men, women, and boys.\n\nYou invest the city. You cannot storm it. Days become weeks. Your army, campaigning without supply lines across hostile countryside, begins to suffer. The cities that defected need protection you cannot give. Roman Fabius Maximus harasses your supply routes. The siege of Rome becomes a slow drain.\n\nYou have changed the strategic situation dramatically. But Maharbal's prophecy goes unfulfilled: 'You know how to win a victory, Hannibal. You do not know how to use one.' The war will last another fifteen years.",
+        "ja": "あなたはマハルバルを先に送る。主力軍が続き、疲弊した兵士がアプリアを北に強行軍する。カンナエの知らせがあなたより先に走り、影響はすぐに現れる：カプアがカルタゴに門を開く。サムニウム人とルカニア人の都市があなたを支持すると宣言する。イタリア南部全体が噴き出す。\n\nしかしローマは崩壊しない。元老院は継続的な会合を開き、息を呑むような冷酷さで緊急決定を下す：奴隷が解放されて武装し、14歳の少年が徴兵され、神殿の財宝が給与のために溶かされる。独裁官が次々と任命される。あなたの騎兵がカンパニア平原に現れると、ローマの城門は閉じられ、城壁には老人、女性、少年が配置される。\n\nあなたは街を封鎖する。しかし攻略することはできない。日々が週になる。敵対的な農村地帯を補給線なしで転戦するあなたの軍隊は苦しみ始める。離反した都市は、あなたが与えることができない保護を必要としている。ローマのファビウス・マクシムスがあなたの補給路を嫌がらせする。ローマの包囲はゆっくりとした消耗になる。\n\nあなたは戦略状況を劇的に変えた。しかしマハルバルの予言は達成されない：「あなたは勝利の仕方を知っている、ハンニバル。しかし使い方を知らない。」戦争はさらに15年続く。",
+        "zh-CN": "你派马哈尔巴尔先行。主力军跟进，疲惫的士兵强行穿越阿普利亚向北行军。坎尼的消息跑在你前面，影响立竿见影：卡普亚向迦太基开门。萨姆尼乌姆和卢卡尼亚城市宣布支持你。整个意大利南部爆发了。\n\n但罗马没有崩溃。元老院持续开会，以令人窒息的冷酷做出紧急决定：释放并武装奴隶，征召14岁的男孩，熔化神庙财宝作为军饷。接连任命独裁官。当你的骑兵出现在坎帕尼亚平原上时，罗马城门关闭，城墙上站满了老人、妇女和男孩。\n\n你围困这座城市。你无法强攻。日复一日变成周复一周。你的军队在没有补给线的情况下穿越敌对乡村作战，开始遭受苦难。背叛的城市需要你无法提供的保护。罗马的法比乌斯·马克西姆斯骚扰你的补给路线。罗马的围城变成了缓慢的消耗。\n\n你从根本上改变了战略形势。但马哈尔巴尔的预言未能实现：'你知道如何赢得胜利，汉尼拔。但你不知道如何利用它。'战争将再持续十五年。"
+      },
+      "stateChanges": [
+        { "variable": "italianAlliances", "operation": "add", "value": 30 },
+        { "variable": "warDuration", "operation": "set", "value": "prolonged" },
+        { "variable": "carthaginianPosition", "operation": "set", "value": "overstretched" }
+      ],
+      "nextSceneId": null
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Consolidate in the south — accept the Italian defections and await Carthage's support",
+        "ja": "南部を固める――イタリアの離反を受け入れ、カルタゴの支援を待つ",
+        "zh-CN": "在南部巩固——接受意大利的背叛并等待迦太基的支持"
+      },
+      "description": {
+        "en": "Tell Maharbal that you will not march on Rome. Instead, consolidate the Italian defections that Cannae triggers — accept Capua and the southern cities, build a new base of supply, and send urgent word to Carthage demanding reinforcements and a naval presence. Fight a political war of attrition on Roman power across Italy.",
+        "ja": "マハルバルにローマに進軍しないと告げる。代わりに、カンナエが引き起こすイタリアの離反を固める――カプアと南部の都市を受け入れ、新しい補給基地を築き、カルタゴに増援と海軍の存在を要求する緊急連絡を送る。イタリア全土でローマの勢力に対する政治的な消耗戦を戦う。",
+        "zh-CN": "告诉马哈尔巴尔你不会进军罗马。相反，巩固坎尼引发的意大利背叛——接受卡普亚和南部城市，建立新的补给基地，并向迦太基发出紧急消息要求增援和海军存在。在整个意大利对罗马权力进行政治消耗战。"
+      },
+      "historicalContext": "This is the historical choice Hannibal made. He did not march on Rome after Cannae. The Roman general Maharbal reportedly said: 'You know how to gain a victory, Hannibal; you know not how to use one.' Hannibal instead spent the winter in Capua, which later became cited as an example of an army going 'soft' ('Capuan delights'), though modern historians dispute this narrative. He continued to campaign in Italy for another 13 years without destroying Rome, ultimately being recalled to Carthage where he was defeated by Scipio at Zama in 202 BCE.",
+      "outcomePrompt": {
+        "en": "You refuse Maharbal. 'You know how to gain a victory, Hannibal,' he says bitterly. 'You know not how to use one.' You ignore him and begin the march south to consolidate the Italian defections.\n\nCapua opens its gates. The Samnites, the Lucanians, and other peoples of southern Italy throw off Roman hegemony and ally with Carthage. You have a strategic base, supply lines, and the political structure of an Italian confederation under Carthaginian leadership.\n\nBut Carthage does not send the reinforcements you need. The Senate votes them down at the urging of your enemy Hanno. Rome, denied its quick defeat, applies its extraordinary institutional resilience — raising army after army, replacing losses with losses, refusing to admit that the war is lost.\n\nYou campaign brilliantly across Italy for thirteen more years. But you never have quite enough troops to deliver the killing blow. In 203 BCE, Carthage recalls you to defend against Scipio's invasion of Africa. At Zama in 202 BCE, Scipio turns your own double envelopment against you. Carthage sues for peace. You spend your final years as a fugitive.\n\nHistory will name Cannae as the greatest tactical victory of the ancient world. But the war was not won on the day it should have been.",
+        "ja": "あなたはマハルバルを断る。「あなたは勝利の仕方を知っている、ハンニバル」と彼は苦々しく言う。「しかし使い方を知らない。」あなたは彼を無視し、イタリアの離反を固めるために南への進軍を始める。\n\nカプアが門を開く。サムニウム人、ルカニア人、南イタリアの他の民族がローマの覇権を打ち払い、カルタゴと同盟する。あなたには戦略的基盤、補給線、カルタゴの指導のもとでのイタリア連邦の政治的構造がある。\n\nしかしカルタゴはあなたが必要とする増援を送らない。元老院はあなたの敵ハンノの主張で否決する。速やかな敗北を否定されたローマは驚異的な制度的回復力を発揮する――軍隊に次ぐ軍隊を集め、損失を損失で補い、戦争が失われたことを認めることを拒否する。\n\nあなたはさらに13年間、イタリア全土で見事な戦役を展開する。しかし致命的な打撃を与えるのに十分な兵力はなかなか得られない。紀元前203年、カルタゴはスキピオのアフリカ侵攻から守るためにあなたを呼び戻す。紀元前202年のザマで、スキピオはあなた自身の二重包囲をあなたに向けて使う。カルタゴは和平を求める。あなたは最後の年々を逃亡者として過ごす。\n\n歴史はカンナエを古代世界最大の戦術的勝利と名付けるだろう。しかし戦争は勝つべき日に勝たれなかった。",
+        "zh-CN": "你拒绝了马哈尔巴尔。'你知道如何赢得胜利，汉尼拔，'他苦涩地说。'但你不知道如何利用它。'你无视他，开始向南进军巩固意大利的背叛。\n\n卡普亚开门。萨姆尼乌姆人、卢卡尼亚人和意大利南部其他民族摆脱罗马霸权，与迦太基结盟。你有了战略基地、补给线和迦太基领导下意大利联盟的政治架构。\n\n但迦太基没有派来你需要的增援。元老院在你的敌人汉诺的催促下否决了它。罗马在被拒绝快速失败之后，展现了其非凡的制度韧性——一支又一支军队，以损失补损失，拒绝承认战争已经失败。\n\n你在意大利又辉煌地征战了十三年。但你从未有足够的兵力来给予致命一击。公元前203年，迦太基召你回国抵御西庇阿对非洲的入侵。公元前202年在扎马，西庇阿将你自己的双重包围用到了你身上。迦太基求和。你在最后的岁月里以逃亡者的身份度过。\n\n历史将称坎尼为古代世界最伟大的战术胜利。但战争没有在应该胜利的那天胜利。"
+      },
+      "stateChanges": [
+        { "variable": "italianAlliances", "operation": "add", "value": 40 },
+        { "variable": "warDuration", "operation": "set", "value": "prolonged" },
+        { "variable": "carthaginianPosition", "operation": "set", "value": "strategic_stalemate" }
+      ],
+      "nextSceneId": null
+    }
+  ]
+}

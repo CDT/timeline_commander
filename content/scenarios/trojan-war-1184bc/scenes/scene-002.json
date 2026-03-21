@@ -1,0 +1,113 @@
+{
+  "id": "trojan-war-1184bc-scene-002",
+  "scenarioId": "trojan-war-1184bc",
+  "title": {
+    "en": "The Gift of the Gods",
+    "ja": "神々の贈り物",
+    "zh-CN": "神灵的献礼"
+  },
+  "date": {
+    "en": "Early Autumn, circa 1184 BC",
+    "ja": "紀元前1184年頃 初秋",
+    "zh-CN": "约公元前1184年 初秋"
+  },
+  "location": {
+    "en": "The Plain before Troy's Walls",
+    "ja": "トロイの城壁の前の平原",
+    "zh-CN": "特洛伊城墙前的平原"
+  },
+  "narrativePrompt": {
+    "en": "The great wooden horse stands completed on the plain before Troy, a masterpiece of Epeius's craft. It towers over the surrounding landscape, its polished flanks gleaming in the autumn sun, its hollow belly concealing the fate of a civilization. Inside the horse, cramped in stifling darkness, you wait with your handpicked warriors — Neoptolemus gripping his father's spear, Menelaus with murder in his eyes, Diomedes steady as stone. The air is thick with the smell of fresh-cut cedar and the sweat of nervous men.\n\nOutside, the rest of the Greek army has enacted the most crucial part of the deception. The camp fires have been extinguished, the tents struck, and the fleet has sailed to the far side of the nearby island of Tenedos, hidden from Trojan lookouts. To anyone watching from Troy's towers, it appears that the Greeks have finally abandoned their decade-long siege, leaving behind only this mysterious offering. But the deception is not yet complete, and its success hangs by the thinnest of threads.\n\nFrom your cramped position, you can hear distant sounds carrying across the plain — the creak of Troy's great gates opening, voices raised in excited debate. The Trojans have spotted the horse. Through a tiny peephole carefully drilled in the horse's side, you catch glimpses of figures approaching across the plain. Among them, you recognize the tall figure of King Priam himself, surrounded by priests and advisors. You can also see Cassandra, the king's prophetic daughter, gesturing wildly and shouting warnings that no one heeds. More troubling is the figure of Laocoon, the priest of Poseidon, who approaches with a spear in hand, suspicion burning in his eyes. The next few hours will determine whether the Trojans take the bait or discover the ruse. You signal your men for absolute silence and grip your sword beneath your cloak, preparing for any eventuality.",
+    "ja": "巨大な木馬がトロイの前の平原に完成して立っている。エペイオスの技の傑作である。周囲の景色を見下ろすようにそびえ立ち、磨かれた側面が秋の太陽に輝き、空洞の腹の中に一つの文明の運命を隠している。木馬の内部、息苦しい闇の中で、あなたは選りすぐりの戦士たちと共に待つ——父の槍を握りしめるネオプトレモス、殺意を宿した目のメネラオス、石のように沈着なディオメデス。空気は切りたての杉の香りと緊張した男たちの汗の匂いで満ちている。\n\n外では、ギリシャ軍の残りが欺瞞の最も重要な部分を演じている。陣営の火は消され、テントは撤収され、艦隊は近くのテネドス島の裏側に回り、トロイの監視者から隠れている。トロイの塔から見守る者にとっては、ギリシャ軍がついに十年に及ぶ包囲を放棄し、この謎めいた奉納物だけを残して去ったように見える。しかし欺瞞はまだ完成しておらず、その成功は最も細い糸にかかっている。\n\n窮屈な姿勢のまま、平原の向こうから届く遠い音が聞こえる——トロイの大門が開く軋み、興奮した議論の声。トロイの人々が木馬を発見したのだ。木馬の側面に注意深く開けられた小さな覗き穴から、平原を横切って近づいてくる人影がちらりと見える。その中に、神官と顧問に囲まれたプリアモス王自身の長身の姿を認める。誰も耳を貸さない警告を叫びながら激しく身振りするカッサンドラ、王の予言者の娘の姿も見える。さらに気がかりなのは、手に槍を持ち、疑いの炎を目に宿して近づくポセイドンの神官ラオコーンの姿である。次の数時間が、トロイの人々が餌に食いつくか策略を見破るかを決定する。あなたは部下に絶対の沈黙を合図し、外套の下で剣を握りしめ、あらゆる事態に備える。",
+    "zh-CN": "巨大的木马矗立在特洛伊城前的平原上，这是厄珀俄斯的杰作。它高耸于周围的景观之上，抛光的侧面在秋日阳光下闪闪发光，中空的腹腔隐藏着一个文明的命运。在木马内部，在令人窒息的黑暗中，你与精心挑选的战士们一起等待——涅俄普托勒摩斯紧握着父亲的长矛，墨涅拉俄斯目露杀机，狄俄墨得斯稳如磐石。空气中弥漫着新伐雪松的气味和紧张男人的汗水味。\n\n在外面，希腊军队的其余部分正在执行欺骗计划中最关键的环节。营火已经熄灭，帐篷已经拆除，舰队已经驶向附近特涅多斯岛的另一侧，隐藏在特洛伊瞭望者的视线之外。对于从特洛伊塔楼上观望的任何人来说，希腊人似乎终于放弃了长达十年的围城，只留下这件神秘的祭品。但欺骗计划尚未完成，其成败系于一线。\n\n从你狭窄的位置上，你能听到从平原远处传来的声音——特洛伊大门开启的吱嘎声，兴奋辩论的人声。特洛伊人发现了木马。通过木马侧面精心钻出的一个小窥视孔，你瞥见人影穿过平原走来。其中，你辨认出普里阿摩斯国王本人高大的身影，被祭司和顾问们簇拥着。你还看到卡桑德拉——国王的预言家女儿，疯狂地挥舞手臂，大声喊出无人理会的警告。更令人不安的是拉奥孔的身影——海神波塞冬的祭司，手持长矛走来，眼中燃烧着怀疑之火。接下来的几个小时将决定特洛伊人是上钩还是识破诡计。你向部下示意保持绝对安静，在斗篷下紧握宝剑，准备应对任何局面。"
+  },
+  "situationReport": [
+    {
+      "en": "The Trojan Horse is complete with thirty elite Greek warriors concealed inside, including Odysseus, Neoptolemus, Menelaus, and Diomedes.",
+      "ja": "トロイの木馬は完成し、オデュッセウス、ネオプトレモス、メネラオス、ディオメデスを含む三十人の精鋭ギリシャ戦士が内部に隠れている。",
+      "zh-CN": "特洛伊木马已完工，内藏三十名希腊精锐战士，包括奥德修斯、涅俄普托勒摩斯、墨涅拉俄斯和狄俄墨得斯。"
+    },
+    {
+      "en": "The main Greek fleet has withdrawn to Tenedos island, awaiting a fire signal to return. The Greek camp appears abandoned to Trojan observers.",
+      "ja": "ギリシャの主力艦隊はテネドス島に撤退し、帰還の合図の火を待っている。ギリシャ軍の陣営はトロイの監視者には放棄されたように見える。",
+      "zh-CN": "希腊主力舰队已撤至特涅多斯岛，等待返回的火光信号。希腊营地在特洛伊观察者看来已被遗弃。"
+    },
+    {
+      "en": "Trojan citizens and leaders are debating what to do with the horse. Cassandra warns it is a trap, but she is dismissed as mad. Laocoon is actively suspicious and urges destruction of the horse.",
+      "ja": "トロイの市民と指導者たちが木馬の処置について議論している。カッサンドラは罠だと警告するが、狂人として退けられている。ラオコーンは積極的に疑い、木馬の破壊を主張している。",
+      "zh-CN": "特洛伊市民和领袖们正在争论如何处置木马。卡桑德拉警告这是陷阱，但被视为疯言而不予理会。拉奥孔积极怀疑，力主销毁木马。"
+    },
+    {
+      "en": "Sinon, a Greek soldier deliberately left behind, is prepared to play his role as a false deserter who will convince the Trojans the horse is a sacred offering to Athena.",
+      "ja": "意図的に残されたギリシャ兵シノンは、木馬がアテナへの聖なる奉納物であるとトロイの人々を説得する偽の脱走兵の役を演じる準備ができている。",
+      "zh-CN": "故意留下的希腊士兵西农已准备好扮演假逃兵的角色，他将说服特洛伊人木马是献给雅典娜的圣物。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Ensure the Trojans bring the wooden horse inside the city walls without discovering the hidden warriors",
+      "ja": "トロイの人々が隠された戦士を発見することなく木馬を城壁の内側に運び入れるようにする",
+      "zh-CN": "确保特洛伊人将木马运入城墙内而不发现隐藏的战士"
+    },
+    {
+      "en": "Maintain discipline and silence among the warriors concealed within the horse during the critical waiting period",
+      "ja": "危機的な待機期間中、木馬内に隠された戦士たちの規律と沈黙を維持する",
+      "zh-CN": "在关键的等待期间维持木马内隐藏战士的纪律和安静"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Any sound or movement from inside the horse could alert the Trojans and doom the entire plan",
+      "ja": "木馬の内部からのいかなる音や動きもトロイの人々を警戒させ、計画全体を破滅させかねない",
+      "zh-CN": "木马内部的任何声响或动静都可能惊动特洛伊人，导致整个计划功亏一篑"
+    },
+    {
+      "en": "The warriors cannot exit the horse until nightfall, when the Trojan celebrations have lulled the city into a false sense of security",
+      "ja": "戦士たちは、トロイの祝宴が都市を偽りの安心感に陥れる夜まで木馬から出ることができない",
+      "zh-CN": "战士们在夜幕降临、特洛伊人的庆祝活动使城市陷入虚假安全感之前不能离开木马"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Trust in Sinon's performance and the carefully prepared deception. Maintain absolute discipline inside the horse and let events unfold according to plan.",
+        "ja": "シノンの演技と入念に準備された欺瞞を信じる。木馬内部で絶対的な規律を維持し、計画通りに事態が展開するのを待つ。",
+        "zh-CN": "相信西农的表演和精心准备的欺骗计划。在木马内部保持绝对纪律，让事态按计划发展。"
+      },
+      "historicalContext": "In the traditional account, Sinon successfully convinced the Trojans that the horse was sacred to Athena and that bringing it within the walls would grant Troy divine protection. When Laocoon protested, sea serpents sent by the gods killed him — an omen that silenced further opposition.",
+      "outcomePrompt": {
+        "en": "The hours crawl by in suffocating silence. Through the peephole, you watch the drama unfold. Sinon plays his part magnificently, weeping and groveling before Priam, spinning a tale of Greek cruelty and divine offerings that would move a stone to pity. He explains that the horse is a sacred gift to Athena, built to atone for the theft of the Palladium, and that if the Trojans bring it within their walls, Troy will become forever invincible. Laocoon hurls his spear at the horse's flank — it strikes the wood with a hollow boom that sends your heart into your throat, and your men freeze in terror. But then, as if the gods themselves intervene, two enormous sea serpents surge from the waves and coil around Laocoon and his two sons, crushing them before the horrified eyes of the Trojan assembly. The omen is unmistakable. The crowd falls to its knees. Priam declares the horse sacred and orders it brought into the city. Massive rollers are placed beneath it, ropes are attached, and with great ceremony and singing, the Trojans haul the instrument of their own destruction through their gates. That night, Troy erupts in celebration. Wine flows freely, songs fill the air, and the guards abandon their posts to join the revelry. From inside the horse, you listen to the city drink itself into oblivion, waiting for the deepest hour of night.",
+        "ja": "息の詰まるような沈黙の中で時間が這うように過ぎる。覗き穴から、ドラマが展開するのを見守る。シノンは見事に役を演じ、プリアモスの前で泣きながらひれ伏し、石すら憐れむようなギリシャの残酷さと神への奉納の物語を紡ぐ。彼は木馬がパラディオンの窃盗を償うためにアテナに捧げられた神聖な贈り物であり、トロイの人々がこれを城壁の中に運び入れれば、トロイは永遠に無敵になると説明する。ラオコーンが木馬の側面に槍を投げつける——それは中空の轟音と共に木に突き刺さり、あなたの心臓は喉まで飛び上がり、部下たちは恐怖で凍りつく。しかしその時、神々自身が介入したかのように、二匹の巨大な海蛇が波間から現れ、ラオコーンとその二人の息子に巻き付き、トロイの群衆の恐怖に満ちた目の前で彼らを押し潰す。前兆は紛れもない。群衆は膝をつく。プリアモスは木馬を神聖なものと宣言し、市内に運び入れるよう命じる。巨大な轆轤が下に置かれ、綱が結ばれ、盛大な儀式と歌声の中、トロイの人々は自らの破滅の道具を門から引き入れる。その夜、トロイは祝宴に沸く。酒が自由に流れ、歌が空気を満たし、衛兵は持ち場を離れて宴に加わる。木馬の中から、都市が忘我の中に沈んでいくのを聞きながら、夜の最も深い時刻を待つ。",
+        "zh-CN": "时间在令人窒息的沉默中缓慢流逝。通过窥视孔，你观看着戏剧性的场面展开。西农出色地扮演着他的角色，在普里阿摩斯面前哭泣哀求，编织着希腊人的残忍和神圣祭品的故事，足以让铁石心肠之人也为之动容。他解释说木马是献给雅典娜的圣物，为弥补窃取帕拉狄翁之罪而建造，如果特洛伊人将它带入城墙之内，特洛伊将永远立于不败之地。拉奥孔将长矛掷向木马侧面——矛击中木头发出空洞的轰响，你的心提到嗓子眼，你的部下们惊恐地僵住。但接着，仿佛是众神亲自干预，两条巨大的海蛇从波涛中涌出，缠绕住拉奥孔和他的两个儿子，在特洛伊人惊恐的注视下将他们碾碎。这一征兆不容置疑。人群跪倒在地。普里阿摩斯宣布木马为圣物，下令将其运入城内。巨大的滚轮被放置在木马下方，绳索被系上，伴随着盛大的仪式和歌声，特洛伊人将自己毁灭的工具拉过城门。当夜，特洛伊陷入狂欢。美酒尽情流淌，歌声响彻云霄，守卫离开岗位加入欢宴。在木马内部，你听着这座城市在狂饮中渐渐沉入遗忘，等待着夜最深沉的时刻。"
+      },
+      "nextSceneId": "trojan-war-1184bc-scene-003",
+      "stateChanges": [
+        { "variable": "trojanVigilance", "operation": "add", "value": -40 },
+        { "variable": "deceptionProgress", "operation": "add", "value": 40 },
+        { "variable": "greekMorale", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Prepare a contingency: if the Trojans seem about to discover the ruse, have the warriors burst out of the horse immediately and fight their way to the gates to open them for a quick signal to the fleet.",
+        "ja": "不測の事態に備える：トロイの人々が策略を見破りそうな場合、戦士たちに直ちに木馬から飛び出させ、門まで戦い抜いて艦隊に素早く合図を送る準備をする。",
+        "zh-CN": "准备应急方案：如果特洛伊人似乎即将识破诡计，就让战士们立即从木马中冲出，战斗着杀向城门打开它，然后迅速向舰队发出信号。"
+      },
+      "historicalContext": "A premature revelation of the warriors inside the horse would have been catastrophic. The small force would have been vastly outnumbered and surrounded within the Trojan plain. However, some Greek commanders may have prepared contingency plans in case the deception failed.",
+      "outcomePrompt": {
+        "en": "You brief your warriors on the contingency plan in hushed whispers, assigning each man a specific task should you give the emergency signal. Neoptolemus will lead the charge toward the nearest gate. Diomedes will light the signal fire. You will hold the rear guard. The tension inside the horse becomes unbearable as the sounds of Trojan debate grow louder. Sinon performs admirably, but you notice your men growing restless, hands twitching toward weapons at every raised Trojan voice. When Laocoon strikes the horse with his spear, one of your warriors nearly cries out in alarm before you clamp your hand over his mouth. The situation teeters on a knife's edge. Mercifully, the omen of the sea serpents destroys Laocoon's opposition, and the Trojans eventually haul the horse inside. But the near-discovery has rattled your men badly. Several warriors are trembling with suppressed anxiety, and the forced preparation for premature combat has left everyone on edge. As Troy celebrates that night, your force is functional but shaken, and you worry about whether they will perform at their best when the critical moment arrives. Nevertheless, the horse is inside the walls, and the trap is set. You wait in the darkness, listening to the sounds of celebration gradually fading as wine takes its toll on Troy's defenders.",
+        "ja": "あなたはひそひそ声で戦士たちに緊急時の計画を説明し、緊急合図を出した場合の各人の具体的な任務を割り当てる。ネオプトレモスが最も近い門への突撃を率い、ディオメデスが合図の火を灯し、あなたが殿を務める。トロイの議論の声が大きくなるにつれ、木馬内部の緊張は耐えがたいものとなる。シノンは見事に演じるが、トロイ人の声が上がるたびに武器に手を伸ばしかける部下たちの落ち着きのなさに気づく。ラオコーンが槍で木馬を突いたとき、戦士の一人が驚きの声を上げそうになり、あなたは咄嗟にその口を手で塞ぐ。状況は紙一重である。幸いにも、海蛇の前兆がラオコーンの反対を打ち砕き、トロイの人々は最終的に木馬を内部に引き入れる。しかし、発見されかけた経験は部下たちをひどく動揺させた。何人かの戦士は抑え込んだ不安で震えており、早期戦闘への強制的な準備は全員を緊張の限界に追いやった。その夜トロイが祝宴を開く中、あなたの部隊は機能しているものの動揺しており、決定的な瞬間が来たときに最善を尽くせるかどうか心配になる。それでも木馬は城壁の中にあり、罠は仕掛けられた。暗闇の中で待ちながら、酒がトロイの守備兵に効果を発揮するにつれて徐々に薄れていく祝宴の音に耳を澄ます。",
+        "zh-CN": "你用压低的耳语向战士们说明应急计划，为每个人分配了一旦你发出紧急信号就要执行的具体任务。涅俄普托勒摩斯将率领突击队冲向最近的城门，狄俄墨得斯将点燃信号火，你将担任后卫掩护。随着特洛伊人辩论声越来越大，木马内部的紧张气氛令人难以承受。西农表现出色，但你注意到部下们越来越焦躁不安，每当特洛伊人提高嗓门时他们的手就不由自主地摸向武器。当拉奥孔用长矛击打木马时，一名战士差点惊叫出声，幸好你及时用手捂住了他的嘴。局势千钧一发。幸运的是，海蛇的神迹摧毁了拉奥孔的反对意见，特洛伊人最终将木马拉入城中。但险些被发现的经历严重动摇了你的部下。几名战士因压抑的焦虑而颤抖，被迫为提前战斗做准备使每个人都处于高度紧张状态。当夜特洛伊欢庆之时，你的队伍虽仍可作战但已受到惊吓，你担心关键时刻到来时他们能否发挥最佳水平。尽管如此，木马已在城墙之内，陷阱已经布下。你在黑暗中等待，倾听着庆祝的声音随着酒精对特洛伊守军发挥作用而渐渐消退。"
+      },
+      "nextSceneId": "trojan-war-1184bc-scene-003",
+      "stateChanges": [
+        { "variable": "trojanVigilance", "operation": "add", "value": -25 },
+        { "variable": "deceptionProgress", "operation": "add", "value": 25 },
+        { "variable": "greekMorale", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

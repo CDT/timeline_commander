@@ -1,0 +1,123 @@
+{
+  "id": "fall-of-rome-476-scene-002",
+  "scenarioId": "fall-of-rome-476",
+  "date": {
+    "en": "September 4, 476 AD",
+    "ja": "西暦476年9月4日",
+    "zh-CN": "公元476年9月4日"
+  },
+  "location": {
+    "en": "Imperial Palace, Ravenna",
+    "ja": "ラヴェンナ、帝国宮殿",
+    "zh-CN": "拉文纳，帝国宫殿"
+  },
+  "isTerminal": false,
+  "title": {
+    "en": "The Deposition",
+    "ja": "退位",
+    "zh-CN": "废黜"
+  },
+  "narrativePrompt": {
+    "en": "Ravenna, September 4, 476 CE. The palace of the Western Roman Emperor, such as it is — a court in exile, power long since hollowed from the title. Before you stands Romulus Augustulus, the last emperor of the West. He is a boy, perhaps sixteen years old, slight and pale, wearing the purple that his father Orestes dressed him in less than a year ago when he made him a puppet ruler. Orestes is already dead — executed by your men three days ago at Piacenza.\n\nYou are Odoacer, chieftain of the Heruli and other Germanic foederati, the man who has just deposed the last Roman emperor in the West. You hold every real card: the army, the treasury, the gates of Ravenna. Romulus Augustulus has no power, no supporters capable of resistance, no empire left to rule — the Eastern Emperor Zeno does not even recognize him as legitimate.\n\nYour lieutenants expect you to execute him. That is what conquerors do. But as you look at the boy in his purple robes, something gives you pause. He is young. He is terrified. And his name — Romulus Augustulus, little Romulus, little Augustus — carries the whole weight of Rome in its syllables, from the city's legendary founder to its first emperor, compressed into this frightened child.\n\nWhat you do with Romulus Augustulus in the next few minutes will determine what kind of ruler you intend to be — and will be the act most associated with your name across history.",
+    "ja": "476年9月4日、ラヴェンナ。西ローマ皇帝の宮殿――この時点では亡命宮廷であり、称号から実権はとうの昔に失われていた。あなたの前に立つのはロムルス・アウグストゥルスだ。西の最後の皇帝。彼は少年で、おそらく16歳、細身で青白く、一年も経たない前に彼の父オレステスが彼を傀儡の支配者にした際に着せた紫衣をまとっている。オレステスはすでに死んでいる――3日前にあなたの部下によってピアチェンツァで処刑された。\n\nあなたはオドアケル、ヘルリ族とその他のゲルマン系フォイデラーティの首長であり、西の最後のローマ皇帝を今まさに廃位した人物だ。あなたはすべての切り札を持っている：軍隊、国庫、ラヴェンナの城門。ロムルス・アウグストゥルスには権力もなく、抵抗できる支持者もなく、統治すべき帝国もない――東ローマ皇帝ゼノンは彼を正当と認めさえしない。\n\nあなたの部下は処刑を期待している。それが征服者のすることだ。しかし紫衣を着た少年を見ると、何かがあなたを躊躇わせる。彼は若い。彼は恐怖している。そして彼の名前――ロムルス・アウグストゥルス、小さなロムルス、小さなアウグストゥス――その音節に都市の伝説的創設者から最初の皇帝まで、ローマの全重みを担っており、この怯えた子供に圧縮されている。\n\nあなたが今後数分でロムルス・アウグストゥルスに何をするかが、あなたがどのような支配者になるつもりかを決め、歴史においてあなたの名前と最も結びつく行為となる。",
+    "zh-CN": "公元476年9月4日，拉文纳。西罗马皇帝的宫殿——此时不过是流亡宫廷，头衔已久失实权。站在你面前的是罗慕路斯·奥古斯图鲁斯，西方的最后一位皇帝。他是个男孩，大约十六岁，纤细苍白，穿着他的父亲奥雷斯特斯不到一年前让他做傀儡统治者时为他穿上的紫袍。奥雷斯特斯已经死了——三天前被你的人在皮亚琴察处决。\n\n你是奥多亚克，赫鲁利族和其他日耳曼联合军的首领，刚刚废黜西方最后一位罗马皇帝的人。你手握所有真实的筹码：军队、国库、拉文纳的城门。罗慕路斯·奥古斯图鲁斯没有权力，没有能够抵抗的支持者，没有帝国可以统治——东罗马皇帝芝诺甚至不承认他的合法性。\n\n你的部下期待你处决他。那是征服者所做的事。但当你看着穿着紫袍的男孩，某种东西让你迟疑。他很年轻。他很恐惧。他的名字——罗慕路斯·奥古斯图鲁斯，小罗慕路斯，小奥古斯都——在其音节中承载着整个罗马的重量，从城市的传说创建者到第一位皇帝，压缩在这个惊恐的孩子身上。\n\n你在接下来几分钟对罗慕路斯·奥古斯图鲁斯所做的事将决定你打算成为什么样的统治者——并将成为历史上与你名字关联最多的行为。"
+  },
+  "situationReport": [
+    {
+      "en": "Romulus Augustulus has no political allies or military resources. He was a puppet emperor appointed by his father Orestes, who wielded the real power. With Orestes dead, Romulus is entirely at your mercy.",
+      "ja": "ロムルス・アウグストゥルスには政治的同盟者も軍事資源もない。彼は実権を握っていた父オレステスによって任命された傀儡皇帝だった。オレステスの死により、ロムルスは完全にあなたの慈悲に委ねられている。",
+      "zh-CN": "罗慕路斯·奥古斯图鲁斯没有政治盟友或军事资源。他是由掌握实权的父亲奥雷斯特斯任命的傀儡皇帝。奥雷斯特斯死后，罗慕路斯完全处于你的摆布之下。"
+    },
+    {
+      "en": "Emperor Zeno in Constantinople has not recognized Romulus as a legitimate emperor — he still nominally recognizes the Westerner Julius Nepos as the rightful emperor. This gives you political cover to treat Romulus as merely a usurper.",
+      "ja": "コンスタンティノープルのゼノン皇帝はロムルスを正当な皇帝として認めていない――彼はまだ名目上はウェストのユリウス・ネポスを正当な皇帝として認めている。これによりあなたはロムルスを単なる簒奪者として扱う政治的口実を得る。",
+      "zh-CN": "君士坦丁堡的皇帝芝诺没有承认罗慕路斯为合法皇帝——他名义上仍然承认西方人尤利乌斯·奈波斯为合法皇帝。这给了你政治掩护，将罗慕路斯仅仅视为篡位者。"
+    },
+    {
+      "en": "Your Herulian troops and allies expect spoils and reward. The Western empire's remaining treasury is in Ravenna. How you distribute these resources will determine your ability to maintain loyalty among your forces.",
+      "ja": "あなたのヘルリ族の軍隊と同盟者は戦利品と報酬を期待している。西ローマ帝国の残余の財宝はラヴェンナにある。これらの資源をどのように分配するかが、あなたの部隊の忠誠を維持する能力を決定する。",
+      "zh-CN": "你的赫鲁利族军队和盟友期待战利品和奖赏。西罗马帝国剩余的国库在拉文纳。你如何分配这些资源将决定你维持部队忠诚的能力。"
+    },
+    {
+      "en": "You are not planning to become emperor yourself. You intend to rule Italy as King under nominal Eastern Roman sovereignty — a practical, pragmatic arrangement. How you handle the transition sets the precedent for your reign.",
+      "ja": "あなたは自分で皇帝になるつもりはない。あなたは名目上の東ローマ帝国の主権のもとでイタリアの王として統治するつもりだ――実践的で現実的な取り決め。移行期間をどのように処理するかがあなたの治世の先例を設定する。",
+      "zh-CN": "你不打算自己成为皇帝。你打算在名义上的东罗马主权下作为意大利国王进行统治——一种实际、务实的安排。你如何处理过渡期将为你的统治设立先例。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Resolve the question of Romulus Augustulus in a way that stabilizes your new rule over Italy without creating unnecessary martyrs or enemies.",
+      "ja": "ロムルス・アウグストゥルスの問題を、不必要な殉教者や敵を作ることなくイタリアに対するあなたの新しい支配を安定させる方法で解決する。",
+      "zh-CN": "以不制造不必要的殉道者或敌人、稳定你对意大利新统治的方式解决罗慕路斯·奥古斯图鲁斯的问题。"
+    },
+    {
+      "en": "Signal to Constantinople and the Roman population what kind of ruler you intend to be — conqueror or inheritor of Roman order.",
+      "ja": "コンスタンティノープルとローマの住民に、あなたがどのような支配者になるつもりかを示す――征服者かローマの秩序の継承者か。",
+      "zh-CN": "向君士坦丁堡和罗马人口表明你打算成为什么样的统治者——征服者还是罗马秩序的继承者。"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "If you kill Romulus Augustulus, you make him a martyr. Roman-identifying populations throughout Italy may resist you more fiercely for murdering the last emperor, even one as ineffectual as this boy.",
+      "ja": "ロムルス・アウグストゥルスを殺せば、彼を殉教者にする。イタリア全土のローマのアイデンティティを持つ人々は、たとえこの少年のように無力であっても最後の皇帝を殺したことであなたをより激しく抵抗するかもしれない。",
+      "zh-CN": "如果你杀死罗慕路斯·奥古斯图鲁斯，你就让他成为殉道者。意大利各地有罗马认同的人口可能会因为你谋杀最后的皇帝而更激烈地抵抗你，即使是像这个男孩这样无能为力的皇帝。"
+    },
+    {
+      "en": "If you keep him alive and treat him too well, you create a rallying point. Anyone who wants to restore the Western Empire has a legitimate figurehead to build around.",
+      "ja": "彼を生かして厚遇すると、結集点を作ることになる。西ローマ帝国を復活させたい人は誰でも、その周りに構築できる正当な旗頭を持つことになる。",
+      "zh-CN": "如果你让他活着并对他太好，你就制造了一个集结点。任何想要恢复西罗马帝国的人都有一个可以围绕其建立的合法旗帜人物。"
+    }
+  ],
+  "choices": [
+    {
+      "choiceId": "choice-A",
+      "label": {
+        "en": "Exile Romulus to a comfortable villa — spare the boy and neutralize the symbol",
+        "ja": "ロムルスを快適な別荘に追放する――少年を助け、シンボルを無力化する",
+        "zh-CN": "将罗慕路斯流放到舒适的别墅——放过男孩并中和这个象征"
+      },
+      "description": {
+        "en": "Grant Romulus Augustulus his life. Send him under guard to Castellum Lucullanum in Campania — a former villa of Lucullus, now a fortress, comfortable but inescapable. Give him a pension from the treasury. Let him live in obscurity. Strip the title of emperor but preserve the person. Show Italy that you can afford to be merciful.",
+        "ja": "ロムルス・アウグストゥルスに命を与える。彼を護衛付きでカンパニアのカステッルム・ルクッラヌムへ送る――ルクッルスの元別荘で、今は要塞、快適だが逃れられない。国庫から彼に年金を与える。無名の中で生きさせる。皇帝の称号は剥奪するが人物は保護する。イタリアに、あなたが慈悲を持てる余裕があることを示す。",
+        "zh-CN": "给予罗慕路斯·奥古斯图鲁斯他的生命。在护卫下将他送往坎帕尼亚的卢库拉努姆堡——卢库卢斯的前别墅，现为要塞，舒适但无法逃脱。给他国库中的养老金。让他在默默无闻中生活。剥去皇帝头衔但保护本人。向意大利表明你有能力表现出仁慈。"
+      },
+      "historicalContext": "This is the historical choice Odoacer made. He exiled Romulus Augustulus to Castellum Lucullanum (modern Pizzofalcone in Naples) and granted him a pension. The decision showed remarkable political wisdom — by sparing Romulus, Odoacer avoided creating a martyr while also signaling to Roman elites that he intended to rule within the framework of existing Roman institutions rather than simply destroying them. Romulus's subsequent fate is unknown; he may have lived into the early 6th century.",
+      "outcomePrompt": {
+        "en": "You look at the boy and make your decision. 'Take him to Lucullanum,' you say. 'See that he is comfortable. He will receive six thousand solidi annually from the treasury. He is no longer emperor. He is simply a young man who will live quietly in Campania.'\n\nThe guards lead Romulus Augustulus away. He goes without protest — he never had the character for resistance. As he passes through the palace doors for the last time, the Western Roman Empire effectively ends. There is no dramatic proclamation, no burning of the palace. Just a boy walking out of history into comfortable obscurity.\n\nYour decision reverberates through Italy. The Roman senatorial class, which had feared massacre, finds instead that Odoacer is a ruler who respects property, honors legal processes, and even retains Roman administrative systems. You are not an emperor. You are Rex — King of Italy — under nominal Eastern sovereignty.\n\nThe transition is smoother than anyone expected. The lights of Rome do not go out in a single catastrophic moment. They dim gradually, over years, as institutions shift and adapt. But the line has been crossed. The Western Empire is over.",
+        "ja": "あなたは少年を見て決断する。「彼をルクッラヌムに連れて行け」とあなたは言う。「快適にしてやれ。彼は毎年国庫から6000ソリドゥスを受け取る。彼はもう皇帝ではない。ただカンパニアで静かに暮らすことになる若者だ。」\n\n護衛がロムルス・アウグストゥルスを連れて行く。彼は抵抗もなく去る――彼には抵抗するための気概がなかった。最後に宮殿の扉を通り抜ける際、西ローマ帝国は事実上終わる。劇的な宣言もなく、宮殿が燃えることもない。ただ一人の少年が歴史から快適な無名へと歩み出るだけだ。\n\nあなたの決断はイタリア全土に響き渡る。虐殺を恐れていたローマの元老院階級は、代わりにオドアケルが財産を尊重し、法的手続きを守り、さらにはローマの行政システムを維持する支配者であることを発見する。あなたは皇帝ではない。あなたは名目上の東ローマ主権のもとでの rex――イタリアの王――だ。\n\n移行は誰もが予想していたよりも円滑だ。ローマの灯は単一の壊滅的な瞬間に消えない。制度が変化し適応するにつれて、年月をかけてゆっくりと暗くなる。しかし一線は越えられた。西ローマ帝国は終わった。",
+        "zh-CN": "你看着那个男孩做出决定。'把他送去卢库拉努姆，'你说。'确保他舒适。他每年将从国库收到六千索利达。他不再是皇帝了。他只是一个将在坎帕尼亚安静生活的年轻人。'\n\n护卫带走罗慕路斯·奥古斯图鲁斯。他没有抗议就离开了——他从来没有抵抗的气魄。当他最后一次穿过宫殿大门时，西罗马帝国实际上结束了。没有戏剧性的宣言，没有宫殿被焚烧。只是一个男孩走出历史，走向舒适的默默无闻。\n\n你的决定在意大利各地引起回响。曾经担心大屠杀的罗马元老院阶级，却发现奥多亚克是一个尊重财产、遵守法律程序，甚至保留罗马行政体系的统治者。你不是皇帝。你是rex——在名义上的东罗马主权下的意大利国王。\n\n过渡比任何人预期的都要顺利。罗马之光不会在一个灾难性的瞬间熄灭。随着制度的转变和适应，它在数年间逐渐变暗。但界线已经越过。西罗马帝国结束了。"
+      },
+      "stateChanges": [
+        { "variable": "romanEliteLoyalty", "operation": "add", "value": 30 },
+        { "variable": "transitionStability", "operation": "set", "value": "smooth" },
+        { "variable": "odoacerLegitimacy", "operation": "add", "value": 20 }
+      ],
+      "nextSceneId": "fall-of-rome-476-scene-003"
+    },
+    {
+      "choiceId": "choice-B",
+      "label": {
+        "en": "Execute Romulus Augustulus — eliminate the symbolic threat entirely",
+        "ja": "ロムルス・アウグストゥルスを処刑する――象徴的脅威を完全に排除する",
+        "zh-CN": "处决罗慕路斯·奥古斯图鲁斯——完全消除象征性威胁"
+      },
+      "description": {
+        "en": "You cannot afford the luxury of a living rival, however ineffectual. Eliminate Romulus Augustulus. Make the break with the Roman past clean and complete. Send a message to the Roman elite and to Constantinople that the Western Empire is definitively over and that sentiment for its restoration will not be tolerated.",
+        "ja": "たとえ無力であっても、生きた対抗者の余裕は持てない。ロムルス・アウグストゥルスを排除する。ローマの過去との断絶を明確で完全なものにする。ローマのエリートとコンスタンティノープルに、西ローマ帝国は決定的に終わったこと、そしてその復活への感情は容認されないというメッセージを送る。",
+        "zh-CN": "你无法承受拥有一个活着的对手的奢侈，无论多么无能。消灭罗慕路斯·奥古斯图鲁斯。让与罗马过去的决裂彻底而完整。向罗马精英和君士坦丁堡传达信息：西罗马帝国已经决定性地结束了，对其复辟的情感将不被容忍。"
+      },
+      "historicalContext": "This is the counterfactual. Odoacer chose not to execute Romulus, which was historically notable. The actual execution of a Roman emperor by a 'barbarian' conqueror — particularly one as young and harmless as Romulus — would likely have created exactly the martyr-effect that Odoacer avoided. The historical contrast with Romulus's treatment is one reason Odoacer's reign was relatively stable until Theodoric the Ostrogoth invaded in 488 CE.",
+      "outcomePrompt": {
+        "en": "You give the order. Romulus Augustulus is executed in the palace courtyard before nightfall. The last Western Roman Emperor dies without ceremony, a footnote whose footnote is only his youth and the poignancy of his name.\n\nThe reaction is immediate and more complex than you anticipated. The Roman senatorial class — already terrified — interprets your action as a declaration that Roman institutions mean nothing to you. Resistance in the north stiffens. Two cities that had been prepared to negotiate now fortify their gates.\n\nIn Constantinople, Emperor Zeno receives word with diplomatic formality, but the message between the lines is clear: you are a conqueror, not an inheritor. The fiction of Roman continuity that might have eased your rule is gone. You will need to maintain your position by force far more than by legitimacy.\n\nYou do rule Italy for thirteen years. Your administration is competent. But when Theodoric the Ostrogoth invades in 488, you have fewer Roman allies than you might otherwise have had. History remembers Odoacer as the man who deposed and killed Rome's last emperor — not the more subtle administrator who might have been. The shadow of Romulus's death colors your legacy.",
+        "ja": "あなたは命令を下す。ロムルス・アウグストゥルスは日没前に宮殿の中庭で処刑される。西ローマ最後の皇帝は儀式もなく死ぬ。注釈の注釈は彼の若さと名前の哀愁だけだ。\n\n反応は即座で、あなたが予想していたよりも複雑だ。すでに恐怖していたローマの元老院階級――あなたの行動をローマの制度があなたにとって何の意味もないという宣言と解釈する。北部での抵抗が硬化する。交渉の準備ができていた二つの都市が今や城門を要塞化する。\n\nコンスタンティノープルでは、ゼノン皇帝が外交的な形式で知らせを受け取るが、行間のメッセージは明確だ：あなたは継承者ではなく征服者だ。あなたの統治を容易にしたかもしれないローマの継続性というフィクションは消えた。あなたは正統性よりもはるかに武力で立場を維持する必要がある。\n\nあなたは確かに13年間イタリアを統治する。あなたの行政は有能だ。しかし488年に東ゴート族のテオドリックが侵入する際、あなたは本来持てたはずのローマの同盟者が少ない。歴史はオドアケルをローマの最後の皇帝を廃位し殺した人物として記憶する――より微妙な行政官としての姿ではなく。ロムルスの死の影があなたの遺産を染める。",
+        "zh-CN": "你下达命令。罗慕路斯·奥古斯图鲁斯在日落前在宫殿庭院被处决。西罗马最后一位皇帝没有仪式地死去，一个脚注的脚注只有他的年轻和名字的悲凉。\n\n反应是立即的，比你预期的更为复杂。罗马元老院阶级——已经恐惧——将你的行动解读为罗马制度对你毫无意义的宣言。北方的抵抗加强。两个准备好谈判的城市现在加固了城门。\n\n在君士坦丁堡，皇帝芝诺以外交礼仪接到消息，但字里行间的含义是清楚的：你是征服者，不是继承者。本可能缓和你统治的罗马延续的虚构消失了。你需要更多地通过武力而不是合法性来维持你的地位。\n\n你确实统治了意大利十三年。你的行政是称职的。但当东哥特人狄奥多里克在488年入侵时，你拥有的罗马盟友比本来可能拥有的要少。历史记住奥多亚克是废黜并杀死罗马最后一位皇帝的人——而不是可能是的更为精明的行政者。罗慕路斯之死的阴影笼罩着你的历史遗产。"
+      },
+      "stateChanges": [
+        { "variable": "romanEliteLoyalty", "operation": "add", "value": -20 },
+        { "variable": "transitionStability", "operation": "set", "value": "turbulent" },
+        { "variable": "odoacerLegitimacy", "operation": "add", "value": -10 }
+      ],
+      "nextSceneId": "fall-of-rome-476-scene-003"
+    }
+  ]
+}

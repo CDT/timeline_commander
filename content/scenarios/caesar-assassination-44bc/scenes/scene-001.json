@@ -1,0 +1,113 @@
+{
+  "id": "caesar-assassination-44bc-scene-001",
+  "scenarioId": "caesar-assassination-44bc",
+  "title": {
+    "en": "The Conspiracy Takes Shape",
+    "ja": "陰謀の成立",
+    "zh-CN": "阴谋成形"
+  },
+  "date": {
+    "en": "March 1, 44 BC",
+    "ja": "紀元前44年3月1日",
+    "zh-CN": "公元前44年3月1日"
+  },
+  "location": {
+    "en": "Private garden of Brutus's villa, Rome",
+    "ja": "ローマ、ブルトゥス邸の私庭園",
+    "zh-CN": "罗马，布鲁图斯宅邸的私人花园"
+  },
+  "narrativePrompt": {
+    "en": "The night air is cold as over a dozen senators gather in the garden of your villa on the Palatine Hill. Torchlight flickers across tense faces. Cassius stands beside you, his expression hard and resolute; he has been the architect of this conspiracy from the beginning, but it is your name — the name of Brutus — that has drawn wavering senators to the cause. Without you, this is merely a murder plot. With you, it becomes a legitimate act of tyrannicide in the tradition of your ancestor who founded the Republic.\n\nThe conspiracy now numbers over sixty senators, but tonight's meeting concerns the inner circle: the men who will wield the daggers. Cassius has laid out the plan. Caesar will attend a meeting of the Senate at the Theatre of Pompey on the Ides of March — fifteen days from now. The conspirators will surround him under the pretense of presenting a petition, and then strike simultaneously. Each man must draw blood so that all share equally in the responsibility.\n\nBut two critical questions remain unresolved, and the group is bitterly divided. First: what to do about Mark Antony. Cassius argues forcefully that Antony must die alongside Caesar. He is Caesar's co-consul, commands military forces, and possesses both the ambition and the popular support to become a new tyrant. Leaving him alive, Cassius warns, is leaving a lit torch beside a powder keg. Others counter that killing Antony will make the act look like a power grab rather than a principled defense of the Republic. Second: what happens after the assassination? Should you march immediately to the Forum and address the people? Should you seize the treasury? Should you attempt to have the Senate convene and ratify your actions? The aftermath may matter more than the act itself.",
+    "ja": "十数人の元老院議員があなたのパラティーノの丘の邸宅の庭園に集まる中、夜気は冷たい。松明の光が緊張した顔々の上でちらつく。カッシウスがあなたの傍らに立ち、その表情は厳しく断固としている。彼は最初からこの陰謀の設計者であったが、迷う元老院議員たちをこの大義に引き寄せたのはあなたの名前——ブルトゥスの名——である。あなたがいなければ、これは単なる殺人計画に過ぎない。あなたがいることで、共和制を創設したあなたの祖先の伝統に則った正当な暴君殺害となる。\n\n陰謀には今や60人以上の元老院議員が加わっているが、今夜の会合は内部の中核——短剣を握る者たち——に関わるものだ。カッシウスが計画を説明した。カエサルは三月のイデス——今から15日後——にポンペイウス劇場での元老院の会議に出席する。陰謀者たちは請願を提出する振りをしてカエサルを取り囲み、一斉に刺す。全員が均等に責任を分かち合うために、各人が血を流さなければならない。\n\nしかし二つの重大な問題が未解決のままであり、一同は激しく意見が分かれている。第一に、マルクス・アントニウスをどうするか。カッシウスはアントニウスもカエサルと共に死ぬべきだと力強く主張する。彼はカエサルの共同執政官であり、軍事力を指揮し、野心と民衆の支持を兼ね備えて新たな暴君になり得る。彼を生かしておくことは火薬庫の横に火のついた松明を置くようなものだとカッシウスは警告する。反対派はアントニウスの殺害が行為を共和国の原則的防衛ではなく権力奪取に見せてしまうと反論する。第二に、暗殺後に何をすべきか。直ちにフォルムに向かって民衆に演説すべきか。財務府を押さえるべきか。元老院を招集して行動を追認させるべきか。その後の対応が行為そのものよりも重要かもしれない。",
+    "zh-CN": "十几位元老院议员聚集在你帕拉蒂尼山宅邸的花园中，夜风寒冷。火光在紧张的面孔上跳动。卡西乌斯站在你身旁，神情严峻而坚决。他从一开始就是这场阴谋的策划者，但吸引犹豫不决的元老院议员加入的是你的名字——布鲁图斯的名字。没有你，这不过是一场谋杀阴谋。有了你，它就成为你那创建共和国的祖先传统中一次正当的诛暴之举。\n\n阴谋现已有六十多名元老院议员参与，但今晚的会议关乎核心圈子——那些将手持匕首的人。卡西乌斯已经布置了计划。凯撒将在三月望日——从现在起十五天后——出席庞培剧院的元老院会议。密谋者们将以呈递请愿书为借口围住凯撒，然后同时动手。每个人都必须沾上鲜血，这样所有人才能平等地分担责任。\n\n但两个关键问题悬而未决，众人争执不下。第一：如何处置马克·安东尼。卡西乌斯强烈主张安东尼必须与凯撒同死。他是凯撒的共同执政官，掌握军事力量，兼具成为新暴君的野心和民众支持。卡西乌斯警告说，留他活命就像在火药桶旁放一支点燃的火把。反对者则认为杀死安东尼会让这一行为看起来像夺权而非对共和国的原则性捍卫。第二：暗杀之后怎么办？是否应该立即前往广场向人民发表演说？是否应该夺取国库？是否应该试图召集元老院批准你们的行动？事后的应对可能比行动本身更加重要。"
+  },
+  "situationReport": [
+    {
+      "en": "Over sixty senators have joined the conspiracy; the inner circle of dagger-wielders must finalize their plan tonight",
+      "ja": "60人以上の元老院議員が陰謀に加わっている。短剣を握る中核メンバーが今夜計画を最終決定しなければならない",
+      "zh-CN": "六十多名元老院议员已加入阴谋；持刃核心圈必须在今夜敲定计划"
+    },
+    {
+      "en": "Caesar plans to attend the Senate at the Theatre of Pompey on the Ides of March (March 15) before departing for Parthia on March 18",
+      "ja": "カエサルはパルティア出発（3月18日）前に三月のイデス（3月15日）にポンペイウス劇場での元老院に出席する予定",
+      "zh-CN": "凯撒计划在三月望日（3月15日）出席庞培剧院的元老院会议，随后于3月18日出发前往帕提亚"
+    },
+    {
+      "en": "Mark Antony, Caesar's co-consul and most powerful ally, remains alive and active in Roman politics",
+      "ja": "カエサルの共同執政官で最も強力な味方であるマルクス・アントニウスは健在でローマ政治に活動的",
+      "zh-CN": "凯撒的共同执政官和最有权势的盟友马克·安东尼依然活跃于罗马政坛"
+    },
+    {
+      "en": "Caesar has dismissed his Spanish bodyguard, declaring that constant protection is no way to live",
+      "ja": "カエサルはスペイン人護衛隊を解散させ、常に護衛されて生きるのは生き方ではないと宣言した",
+      "zh-CN": "凯撒已解散他的西班牙卫队，声称时刻被保护不是生活之道"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide whether Mark Antony should be killed alongside Caesar or spared",
+      "ja": "マルクス・アントニウスをカエサルと共に殺すか生かすかを決断する",
+      "zh-CN": "决定是否与凯撒一同杀死马克·安东尼"
+    },
+    {
+      "en": "Establish a plan for the political aftermath of the assassination",
+      "ja": "暗殺後の政治的対応計画を策定する",
+      "zh-CN": "制定暗杀后的政治善后计划"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The assassination must appear as tyrannicide for the Republic, not a personal vendetta or power grab",
+      "ja": "暗殺は個人的復讐や権力奪取ではなく、共和国のための暴君殺害として映らなければならない",
+      "zh-CN": "暗杀必须表现为为共和国诛暴，而非个人仇杀或夺权"
+    },
+    {
+      "en": "Expanding the kill list risks leaks in a conspiracy already numbering over sixty members",
+      "ja": "殺害対象を増やすことは、すでに60人以上の陰謀における漏洩のリスクを高める",
+      "zh-CN": "扩大刺杀名单会增加已有六十多人的阴谋泄露的风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Spare Antony. Overrule Cassius and insist that only Caesar dies. The assassination must be a sacred act of liberation, not a bloodbath. After the deed, march to the Forum and address the people directly.",
+        "ja": "アントニウスを生かす。カッシウスの意見を退け、カエサルだけを殺すと主張する。暗殺は血の惨劇ではなく、解放の神聖な行為でなければならない。事後、フォルムに行進し、民衆に直接語りかける。",
+        "zh-CN": "放过安东尼。否决卡西乌斯的意见，坚持只杀凯撒。暗杀必须是神圣的解放之举，而非屠戮。事成之后，立即前往广场直接向人民发表演说。"
+      },
+      "historicalContext": "The historical choice — Brutus overruled Cassius and insisted that only Caesar should die, arguing that killing Antony would taint the act. This decision proved catastrophic, as Antony subsequently turned public opinion against the conspirators.",
+      "outcomePrompt": {
+        "en": "Your authority prevails. Cassius yields, though the bitter set of his jaw tells you he considers this a grave error. The inner circle agrees: only Caesar dies. The act must be pure — a surgical removal of a tyrant, not a massacre. You also outline the plan for the aftermath: immediately after the assassination, the conspirators will process through the streets to the Capitol, bearing their bloodied daggers aloft as symbols of liberation. You will address the Roman people from the rostra in the Forum, explaining that you have acted to save the Republic. You will call for an emergency session of the Senate to ratify the act and begin the restoration of constitutional government. Cassius privately warns you that your plan assumes the Roman people will react with gratitude rather than grief — and that you are gambling everything on the power of republican ideals over the raw emotion of a murdered leader. Nevertheless, the conspiracy is now set. The Ides of March will be the day. Each conspirator knows his role. There is no turning back.",
+        "ja": "あなたの権威が勝る。カッシウスは譲歩するが、その顎の苦い引き締めは彼がこれを重大な過ちと見なしていることを物語る。中核メンバーは合意する：カエサルだけが死ぬ。行為は純粋でなければならない——暴君の外科的除去であり、虐殺ではない。あなたはまた事後の計画を説明する：暗殺直後、陰謀者たちは血に染まった短剣を解放の象徴として高く掲げながら、街路を通ってカピトリヌスの丘まで行進する。あなたはフォルムの演壇からローマ市民に向けて、共和国を救うために行動したと説明する。行為を追認し憲政の回復を開始するために元老院の緊急会議を招集する。カッシウスは密かに、あなたの計画はローマの民衆が殺された指導者への生々しい感情よりも共和主義の理想の力に感謝で応じると仮定していると警告する——そしてすべてを賭けていると。それにもかかわらず、陰謀は決定された。三月のイデスがその日となる。各陰謀者は自分の役割を知っている。もう後戻りはできない。",
+        "zh-CN": "你的权威占了上风。卡西乌斯让步了，但他紧咬的下颌告诉你他认为这是一个严重的错误。核心圈达成一致：只杀凯撒。行动必须纯粹——是对暴君的外科式清除，而非屠杀。你还勾勒了善后计划：暗杀后，密谋者们将高举沾血的匕首作为解放的象征，列队穿过街道前往卡皮托利山。你将在广场的演讲台上向罗马人民发表演说，解释你们是为拯救共和国而行动。你将召集元老院紧急会议来批准此行动并启动恢复宪政。卡西乌斯私下警告你，你的计划假定罗马人民会以感激而非悲愤作为回应——你将一切押注在共和理想的力量能压过对一位遇害领袖的原始情感之上。尽管如此，阴谋已成定局。三月望日就是行动之日。每位密谋者都清楚自己的角色。已无退路。"
+      },
+      "nextSceneId": "caesar-assassination-44bc-scene-002",
+      "stateChanges": [
+        { "variable": "conspiracySecrecy", "operation": "add", "value": 5 },
+        { "variable": "republicanLegitimacy", "operation": "add", "value": 15 },
+        { "variable": "caesarianThreat", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Kill Antony too. Side with Cassius — Antony is too dangerous to leave alive. Assign Gaius Trebonius to detain or eliminate him simultaneously. After the deed, seize the treasury and secure the city gates.",
+        "ja": "アントニウスも殺す。カッシウスに賛同する。アントニウスは生かしておくには危険すぎる。ガイウス・トレボニウスに同時にアントニウスを拘束または排除するよう命じる。事後、財務府を押さえ、市門を確保する。",
+        "zh-CN": "同时杀掉安东尼。站在卡西乌斯一边——安东尼太危险，不能留他活命。指派盖乌斯·特雷博尼乌斯同时拘押或除掉安东尼。事成之后，夺取国库并控制城门。"
+      },
+      "historicalContext": "A counterfactual — historically Brutus refused to sanction Antony's death. Trebonius was assigned only to delay Antony outside the Senate chamber. Had Antony been killed, the aftermath might have unfolded very differently.",
+      "outcomePrompt": {
+        "en": "You swallow your philosophical reservations and nod to Cassius. He is right — leaving Antony alive is an unacceptable risk. The plan expands. Gaius Trebonius will intercept Antony outside the Theatre of Pompey on the morning of the Ides, engaging him in conversation. If Antony senses danger and tries to enter the chamber, Trebonius and two others will kill him in the portico. Inside, the rest of the conspirators will deal with Caesar. After both men are dead, a second team will seize the state treasury at the Temple of Saturn, securing the funds needed to pay the city garrison and prevent chaos. Others will move to control the city gates, preventing any Caesarian loyalists from bringing reinforcements. Cassius is visibly relieved by your decision and clasps your arm. The plan is more pragmatic now, but also more dangerous — more men must act in coordinated strikes across the city, and the margin for error has narrowed. The Ides of March approaches. The conspiracy is set. Every man knows his part in what will be either the salvation or the damnation of Rome.",
+        "ja": "あなたは哲学的な躊躇を飲み込み、カッシウスに頷く。彼は正しい——アントニウスを生かしておくことは受け入れられないリスクだ。計画は拡大する。ガイウス・トレボニウスがイデスの朝、ポンペイウス劇場の外でアントニウスを捕まえ、会話に引き込む。アントニウスが危険を察知して議場に入ろうとすれば、トレボニウスと他の二人が柱廊で彼を殺す。内部では、残りの陰謀者たちがカエサルを始末する。両者の死後、第二チームがサトゥルヌス神殿の国庫を押さえ、都市守備隊への支払いと混乱防止に必要な資金を確保する。他の者たちは市門を制圧し、カエサル派の忠臣が援軍を連れてくるのを防ぐ。カッシウスはあなたの決断に明らかに安堵し、腕を握る。計画はより実践的になったが、より危険でもある。より多くの者が市内各所で連携した攻撃を実行しなければならず、誤りの余地は狭まった。三月のイデスが近づく。陰謀は決まった。各人がローマの救済か断罪かのいずれかとなるものにおける自分の役割を知っている。",
+        "zh-CN": "你压下哲学上的顾虑，向卡西乌斯点了点头。他说得对——留安东尼活命是不可接受的风险。计划随之扩大。盖乌斯·特雷博尼乌斯将在望日清晨于庞培剧院外截住安东尼，与他攀谈。如果安东尼察觉危险试图进入会场，特雷博尼乌斯和另外两人将在柱廊中杀死他。在里面，其余密谋者对付凯撒。两人死后，第二小组将夺取萨图尔努斯神殿的国库，确保支付城市卫戍部队和防止混乱所需的资金。其他人将控制城门，阻止凯撒派忠臣带来援军。卡西乌斯对你的决定明显松了口气，紧握你的手臂。计划现在更加务实，但也更加危险——更多人必须在全城各处执行协调打击，容错空间已经收窄。三月望日临近。阴谋已定。每个人都清楚自己在这场决定罗马救赎或毁灭之举中的角色。"
+      },
+      "nextSceneId": "caesar-assassination-44bc-scene-002",
+      "stateChanges": [
+        { "variable": "conspiracySecrecy", "operation": "add", "value": -10 },
+        { "variable": "republicanLegitimacy", "operation": "add", "value": -5 },
+        { "variable": "caesarianThreat", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,6 +1,193 @@
 {
   "regions": [
     {
+      "id": "ancient-mediterranean",
+      "name": { "en": "Ancient Mediterranean & Near East", "ja": "古代地中海・近東", "zh-CN": "古代地中海与近东" },
+      "eras": [
+        {
+          "id": "bronze-age",
+          "name": { "en": "Bronze Age", "ja": "青銅器時代", "zh-CN": "青铜时代" },
+          "dateRange": "1274 BC – 1184 BC",
+          "scenarios": [
+            {
+              "id": "battle-of-kadesh-1274bc",
+              "title": { "en": "The Battle of Kadesh", "ja": "カデシュの戦い", "zh-CN": "卡叠什战役" },
+              "brief": { "en": "Ramesses II vs the Hittites — ambushed, nearly destroyed, then charges alone", "ja": "ラメセス2世対ヒッタイット——待ち伏せ、壊滅寸前、そして単独突撃", "zh-CN": "拉美西斯二世对赫梯——被伏击、几乎覆灭，然后独自冲锋" },
+              "dates": { "start": "1274-05-01-BC", "end": "1274-05-01-BC" },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "trojan-war-1184bc",
+              "title": { "en": "The Trojan War", "ja": "トロイア戦争", "zh-CN": "特洛伊战争" },
+              "brief": { "en": "The siege that launched a thousand myths — and one wooden horse", "ja": "千の神話を生み出した包囲戦——そして一頭の木馬", "zh-CN": "引发千古神话的围城——和一匹木马" },
+              "dates": { "start": "1184-01-01-BC", "end": "1184-01-01-BC" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "classical",
+          "name": { "en": "Classical Antiquity", "ja": "古典古代", "zh-CN": "古典时代" },
+          "dateRange": "539 BC – 30 BC",
+          "scenarios": [
+            {
+              "id": "fall-of-babylon-539bc",
+              "title": { "en": "The Fall of Babylon", "ja": "バビロンの陥落", "zh-CN": "巴比伦的陷落" },
+              "brief": { "en": "Cyrus the Great opens the gates of the greatest city in the world", "ja": "キュロス大王が世界最大の都市の門を開く", "zh-CN": "居鲁士大帝打开世界最伟大城市的城门" },
+              "dates": { "start": "0539-10-12-BC", "end": "0539-10-12-BC" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "marathon-490bc",
+              "title": { "en": "The Battle of Marathon", "ja": "マラトンの戦い", "zh-CN": "马拉松战役" },
+              "brief": { "en": "Ten thousand Athenians hold the line against the Persian Empire", "ja": "一万人のアテナイ人がペルシア帝国に対して防衛線を維持する", "zh-CN": "一万雅典人对抗波斯帝国" },
+              "dates": { "start": "0490-09-12-BC", "end": "0490-09-12-BC" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "salamis-480bc",
+              "title": { "en": "The Battle of Salamis", "ja": "サラミスの海戦", "zh-CN": "萨拉米斯海战" },
+              "brief": { "en": "Themistocles lures the Persian fleet into a trap that saves Greece", "ja": "テミストクレスがギリシアを救うためにペルシア艦隊を罠に誘い込む", "zh-CN": "地米斯托克利诱骗波斯舰队落入陷阱，拯救希腊" },
+              "dates": { "start": "0480-09-22-BC", "end": "0480-09-22-BC" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "peloponnesian-war-404bc",
+              "title": { "en": "The Peloponnesian War", "ja": "ペロポネソス戦争", "zh-CN": "伯罗奔尼撒战争" },
+              "brief": { "en": "Athens vs Sparta — the war that tore Greece apart", "ja": "アテナイ対スパルタ——ギリシアを引き裂いた戦争", "zh-CN": "雅典对斯巴达——撕裂希腊的战争" },
+              "dates": { "start": "0431-01-01-BC", "end": "0404-01-01-BC" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            },
+            {
+              "id": "alexander-gaugamela-331bc",
+              "title": { "en": "The Battle of Gaugamela", "ja": "ガウガメラの戦い", "zh-CN": "高加米拉战役" },
+              "brief": { "en": "Alexander vs Darius — the charge that ended the Persian Empire", "ja": "アレクサンドロス対ダレイオス——ペルシア帝国を終わらせた突撃", "zh-CN": "亚历山大对大流士——终结波斯帝国的冲锋" },
+              "dates": { "start": "0331-10-01-BC", "end": "0331-10-01-BC" },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "alexander-india-326bc",
+              "title": { "en": "Alexander in India", "ja": "インドのアレクサンドロス", "zh-CN": "亚历山大在印度" },
+              "brief": { "en": "The edge of the known world — and the moment Alexander's army refused to go further", "ja": "既知の世界の果て——そしてアレクサンドロスの軍がこれ以上進むことを拒否した瞬間", "zh-CN": "已知世界的边缘——亚历山大军队拒绝前进的时刻" },
+              "dates": { "start": "0326-05-01-BC", "end": "0326-08-01-BC" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            },
+            {
+              "id": "hannibal-cannae-216bc",
+              "title": { "en": "The Battle of Cannae", "ja": "カンナエの戦い", "zh-CN": "坎尼战役" },
+              "brief": { "en": "Hannibal's double envelopment — the most studied battle in military history", "ja": "ハンニバルの二重包囲——軍事史上最も研究された戦い", "zh-CN": "汉尼拔的双重包围——军事史上研究最多的战役" },
+              "dates": { "start": "0216-08-02-BC", "end": "0216-08-02-BC" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "fall-of-carthage-146bc",
+              "title": { "en": "The Fall of Carthage", "ja": "カルタゴの滅亡", "zh-CN": "迦太基的陷落" },
+              "brief": { "en": "Rome's destruction of its greatest rival — and the question of mercy", "ja": "ローマによる最大のライバルの壊滅——そして慈悲の問い", "zh-CN": "罗马对最大对手的毁灭——以及关于仁慈的问题" },
+              "dates": { "start": "0146-01-01-BC", "end": "0146-04-01-BC" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "spartacus-revolt-73bc",
+              "title": { "en": "The Spartacus Revolt", "ja": "スパルタクスの反乱", "zh-CN": "斯巴达克斯起义" },
+              "brief": { "en": "The slave rebellion that brought Rome to its knees — and the Alps that stopped it", "ja": "ローマを膝まずかせた奴隷反乱——そしてそれを止めたアルプス", "zh-CN": "让罗马屈膝的奴隶起义——以及阻止它的阿尔卑斯山" },
+              "dates": { "start": "0073-01-01-BC", "end": "0071-06-01-BC" },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "battle-of-alesia-52bc",
+              "title": { "en": "The Siege of Alesia", "ja": "アレシアの包囲", "zh-CN": "阿莱西亚围城战" },
+              "brief": { "en": "Caesar's double wall besieges the besieged — 50,000 Romans vs 330,000 Gauls", "ja": "カエサルの二重の壁が包囲された者を包囲する——5万ローマ人対33万ガリア人", "zh-CN": "凯撒双层城墙围困被围困者——50,000罗马人对抗330,000高卢人" },
+              "dates": { "start": "0052-07-01-BC", "end": "0052-10-01-BC" },
+              "difficulty": "medium",
+              "roleCount": 1
+            },
+            {
+              "id": "caesar-assassination-44bc",
+              "title": { "en": "The Assassination of Caesar", "ja": "カエサルの暗殺", "zh-CN": "凯撒遇刺" },
+              "brief": { "en": "The Ides of March — conspirators who saved the Republic and destroyed it", "ja": "3月のイデス——共和国を救おうとして壊滅させた陰謀者たち", "zh-CN": "三月望日——那些以为拯救共和国却毁灭它的阴谋者" },
+              "dates": { "start": "0044-03-15-BC", "end": "0044-03-15-BC" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "actium-31bc",
+              "title": { "en": "The Battle of Actium", "ja": "アクティウムの戦い", "zh-CN": "亚克兴战役" },
+              "brief": { "en": "Antony and Cleopatra vs Octavian — the sea battle that decided the Roman Empire", "ja": "アントニウスとクレオパトラ対オクタウィアヌス——ローマ帝国の命運を決めた海戦", "zh-CN": "安东尼和克利奥帕特拉对抗屋大维——决定罗马帝国命运的海战" },
+              "dates": { "start": "0031-09-02-BC", "end": "0031-09-02-BC" },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "cleopatra-egypt-30bc",
+              "title": { "en": "Cleopatra's Last Stand", "ja": "クレオパトラの最後の抵抗", "zh-CN": "克利奥帕特拉的最后抵抗" },
+              "brief": { "en": "The last pharaoh faces Octavian — and chooses how her story ends", "ja": "最後のファラオがオクタウィアヌスに向き合う——そして自分の物語がどのように終わるかを選ぶ", "zh-CN": "最后的法老面对屋大维——选择她的故事如何结束" },
+              "dates": { "start": "0030-08-01-BC", "end": "0030-08-12-BC" },
+              "difficulty": "hard",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "roman-imperial",
+          "name": { "en": "Roman Imperial Era", "ja": "ローマ帝政時代", "zh-CN": "罗马帝国时代" },
+          "dateRange": "9 AD – 476 AD",
+          "scenarios": [
+            {
+              "id": "teutoburg-forest-9ad",
+              "title": { "en": "The Teutoburg Forest", "ja": "トイトブルク森の戦い", "zh-CN": "条顿堡林山战役" },
+              "brief": { "en": "Three Roman legions walk into the forest. None come out.", "ja": "三個のローマ軍団が森に入る。誰も出てこない。", "zh-CN": "三个罗马军团走进了森林，一个都没有走出来。" },
+              "dates": { "start": "0009-09-01", "end": "0009-09-03" },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "boudicca-revolt-60",
+              "title": { "en": "The Boudicca Revolt", "ja": "ブーディカの反乱", "zh-CN": "布狄卡起义" },
+              "brief": { "en": "The queen of the Iceni leads Britain's last great revolt against Rome", "ja": "イケニ族の女王がブリテン島最後のローマへの大反乱を率いる", "zh-CN": "伊西尼族女王领导不列颠最后一次对罗马的大起义" },
+              "dates": { "start": "0060-04-01", "end": "0061-09-01" },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "fall-of-jerusalem-70",
+              "title": { "en": "The Fall of Jerusalem", "ja": "エルサレムの陥落", "zh-CN": "耶路撒冷的陷落" },
+              "brief": { "en": "Titus lays siege to the Holy City — a catastrophe that shaped three religions", "ja": "ティトゥスが聖都を包囲する——三つの宗教を形作った大惨事", "zh-CN": "提图斯围攻圣城——塑造三大宗教的灾难" },
+              "dates": { "start": "0070-04-01", "end": "0070-09-07" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            },
+            {
+              "id": "masada-73",
+              "title": { "en": "The Siege of Masada", "ja": "マサダ包囲", "zh-CN": "马萨达围城" },
+              "brief": { "en": "960 Jewish rebels on a cliff — and the choice between surrender and death", "ja": "断崖の960人のユダヤ人反乱者——降伏と死の間の選択", "zh-CN": "960名犹太叛军守卫悬崖——在投降与死亡之间抉择" },
+              "dates": { "start": "0072-10-01", "end": "0073-04-16" },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "fall-of-rome-476",
+              "title": { "en": "The Fall of Rome", "ja": "ローマの滅亡", "zh-CN": "罗马的陷落" },
+              "brief": { "en": "Odoacer deposes the last emperor — and the Western Roman Empire ends", "ja": "オドアケルが最後の皇帝を廃位する——そして西ローマ帝国が終わる", "zh-CN": "奥多亚塞废黜最后一位皇帝——西罗马帝国终结" },
+              "dates": { "start": "0476-09-04", "end": "0476-09-04" },
+              "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "europe",
       "name": { "en": "Europe", "ja": "ヨーロッパ", "zh-CN": "欧洲" },
       "eras": [

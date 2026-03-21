@@ -1,0 +1,83 @@
+{
+  "scenarioId": "cleopatra-egypt-30bc",
+  "timeline": [
+    {
+      "date": "51 BC",
+      "event": {
+        "en": "Cleopatra VII and her brother Ptolemy XIII become co-rulers of Egypt. She is 18 years old. A power struggle forces her into exile within two years.",
+        "ja": "クレオパトラ7世と兄プトレマイオス13世がエジプトの共同支配者となる。彼女は18歳だ。権力闘争により、2年以内に亡命を余儀なくされる。",
+        "zh-CN": "克利奥帕特拉七世与弟弟托勒密十三世成为埃及共同统治者。她18岁。权力斗争迫使她在两年内流亡。"
+      }
+    },
+    {
+      "date": "48 BC",
+      "event": {
+        "en": "Julius Caesar arrives in Alexandria pursuing Pompey. Cleopatra famously has herself smuggled to Caesar rolled in a carpet. Caesar sides with her, defeats Ptolemy XIII, and becomes her lover. She bears him a son, Caesarion.",
+        "ja": "ユリウス・カエサルがポンペイウスを追いアレクサンドリアに到着する。クレオパトラは有名な話として絨毯に包まれてカエサルのもとに密かに運ばれる。カエサルは彼女を支持し、プトレマイオス13世を打ち負かし、彼女の愛人となる。彼女はカエサリオンという息子を産む。",
+        "zh-CN": "尤利乌斯·凯撒追击庞培来到亚历山大。克利奥帕特拉著名地被包裹在地毯中秘密送到凯撒面前。凯撒支持她，击败托勒密十三世，成为她的情人。她为他生了一个儿子凯撒里昂。"
+      }
+    },
+    {
+      "date": "44 BC",
+      "event": {
+        "en": "Caesar is assassinated in Rome. Cleopatra returns to Egypt with Caesarion, eliminating her remaining siblings to become sole ruler. She begins rebuilding Egypt's strength.",
+        "ja": "カエサルがローマで暗殺される。クレオパトラはカエサリオンと共にエジプトに戻り、残りの兄弟姉妹を排除して唯一の支配者となる。エジプトの力の再建を始める。",
+        "zh-CN": "凯撒在罗马被暗殺。克利奥帕特拉带着凯撒里昂回到埃及，消灭了剩余的兄弟姐妹，成为唯一统治者。她开始重建埃及的实力。"
+      }
+    },
+    {
+      "date": "41 BC",
+      "event": {
+        "en": "Mark Antony summons Cleopatra to Tarsus to answer for Egypt's ambiguous role in the civil war. She arrives on a gilded barge in theatrical splendor. Antony is captivated. Their alliance — political and romantic — shapes the next decade.",
+        "ja": "マルクス・アントニウスはクレオパトラを内戦におけるエジプトの曖昧な役割について説明するためタルソスに召喚する。彼女は劇的な壮麗さの中、黄金の船で到着する。アントニウスは魅了される。彼らの同盟——政治的かつロマンティックな——は次の十年を形作る。",
+        "zh-CN": "马克·安东尼召唤克利奥帕特拉到塔尔苏斯，就埃及在内战中的模糊立场作出解释。她乘着镀金驳船以戏剧性的壮观姿态抵达。安东尼被迷住了。他们的同盟——政治和浪漫的——塑造了此后十年。"
+      }
+    },
+    {
+      "date": "31 BC — September",
+      "event": {
+        "en": "The Battle of Actium. Octavian defeats the combined fleets of Antony and Cleopatra. Cleopatra withdraws her squadron; Antony follows. The land army surrenders. Their cause is lost.",
+        "ja": "アクティウムの戦い。オクタウィアヌスはアントニウスとクレオパトラの連合艦隊を打ち負かす。クレオパトラは艦隊を撤退させ、アントニウスが続く。陸軍は降伏する。彼らの大義は失われた。",
+        "zh-CN": "亚克兴战役。屋大维击败安东尼和克利奥帕特拉的联合舰队。克利奥帕特拉撤退她的分队；安东尼跟随。陆军投降。他们的事业已经失败。"
+      }
+    },
+    {
+      "date": "August 1, 30 BC",
+      "event": {
+        "en": "Octavian enters Alexandria. Antony, deceived into thinking Cleopatra is dead, falls on his sword. He is brought to Cleopatra and dies in her arms. Cleopatra is taken prisoner but treated carefully — Octavian needs her alive for his triumph.",
+        "ja": "オクタウィアヌスがアレクサンドリアに入城する。クレオパトラが死んだと思い込まされたアントニウスは剣に倒れる。彼はクレオパトラのもとに運ばれ、彼女の腕の中で死ぬ。クレオパトラは捕虜となるが丁重に扱われる——オクタウィアヌスは凱旋式のために彼女を生かして必要としている。",
+        "zh-CN": "屋大维进入亚历山大。安东尼被欺骗以为克利奥帕特拉已死，自刎于剑上。他被带到克利奥帕特拉身边，在她怀中死去。克利奥帕特拉被俘但受到谨慎对待——屋大维需要她活着用于凯旋游行。"
+      }
+    },
+    {
+      "date": "August 12, 30 BC",
+      "event": {
+        "en": "Cleopatra dies in her mausoleum, reportedly from the bite of an asp smuggled to her in a basket of figs. She is 39 years old. Caesarion is executed days later. Egypt becomes a Roman province — the personal property of Octavian.",
+        "ja": "クレオパトラは自分の霊廟で死ぬ。無花果の籠に密かに持ち込まれたコブラの噛みつきによるとされる。彼女は39歳だ。カエサリオンは数日後に処刑される。エジプトはローマの属州となる——オクタウィアヌスの個人財産として。",
+        "zh-CN": "克利奥帕特拉在她的陵墓中死去，据说是被秘密藏在无花果篮中的眼镜蛇咬死的。她39岁。凯撒里昂几天后被处决。埃及成为罗马行省——屋大维的私人财产。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Cleopatra's death ended the Ptolemaic dynasty and Egypt's independence. Egypt became the most valuable province in the Roman Empire, its grain feeding Rome's population. Cleopatra became one of history's most enduring figures — queen, diplomat, scholar, and strategist — whose legend has outlasted the empire that conquered her.",
+    "ja": "クレオパトラの死はプトレマイオス朝とエジプトの独立を終わらせた。エジプトはローマ帝国で最も価値ある属州となり、その穀物がローマの人口を養った。クレオパトラは歴史上最も永続的な人物の一人となった——女王、外交官、学者、戦略家——彼女を征服した帝国よりも長く伝説として生き続けた。",
+    "zh-CN": "克利奥帕特拉的死终结了托勒密王朝和埃及的独立。埃及成为罗马帝国最有价值的行省，其粮食养活了罗马的人口。克利奥帕特拉成为历史上最持久的人物之一——女王、外交家、学者和战略家——她的传奇比征服她的帝国延续得更久。"
+  },
+  "casualties": {
+    "en": "Antony's suicide, Cleopatra's death, and Caesarion's execution ended the Ptolemaic line. Egypt lost its independence as a state but remained the most prosperous region in the Mediterranean world under Roman rule.",
+    "ja": "アントニウスの自殺、クレオパトラの死、カエサリオンの処刑がプトレマイオス朝の血統を終わらせた。エジプトは国家としての独立を失ったが、ローマ支配下でも地中海世界で最も繁栄する地域であり続けた。",
+    "zh-CN": "安东尼的自杀、克利奥帕特拉的死亡和凯撒里昂的处决终结了托勒密血脉。埃及失去了作为国家的独立，但在罗马统治下仍然是地中海世界最繁荣的地区。"
+  },
+  "significance": {
+    "en": "The fall of Ptolemaic Egypt completed the Roman conquest of the Hellenistic world. It made Octavian — soon to be Augustus — the unquestioned master of the Mediterranean. Cleopatra was the last active pharaoh of ancient Egypt; after her, Egypt would not be independent for nearly two thousand years. Her story has shaped how the Western world imagines female power, Egypt, and the relationship between Rome and the East.",
+    "ja": "プトレマイオス朝エジプトの崩壊は、ローマによるヘレニズム世界の征服を完成させた。それはオクタウィアヌス——まもなくアウグストゥスとなる——を地中海の疑いようのない主人にした。クレオパトラは古代エジプトの最後の現役ファラオだった。彼女の後、エジプトは約二千年にわたって独立しなかった。彼女の物語は西洋世界が女性の権力、エジプト、そしてローマと東方の関係をどのように想像するかを形作ってきた。",
+    "zh-CN": "托勒密埃及的陷落完成了罗马对希腊化世界的征服。它使屋大维——即将成为奥古斯都——成为地中海无可争议的主人。克利奥帕特拉是古埃及最后一位现役法老；在她之后，埃及将近两千年不再独立。她的故事塑造了西方世界对女性权力、埃及以及罗马与东方关系的想象。"
+  },
+  "furtherReading": [
+    "Plutarch, Life of Antony",
+    "Cassius Dio, Roman History (Book LI)",
+    "Stacy Schiff, Cleopatra: A Life",
+    "Adrian Goldsworthy, Caesar, Antony & Cleopatra",
+    "Duane Roller, Cleopatra: A Biography"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "battle-of-alesia-52bc-scene-002",
+  "scenarioId": "battle-of-alesia-52bc",
+  "isTerminal": false,
+  "date": {
+    "en": "September, 52 BC — The Crisis",
+    "ja": "紀元前52年9月 — 危機",
+    "zh-CN": "公元前52年9月——危机时刻"
+  },
+  "location": {
+    "en": "The Northern Wall, Alesia",
+    "ja": "アレシア、北壁",
+    "zh-CN": "阿莱西亚，北墙"
+  },
+  "title": {
+    "en": "Two Battles at Once",
+    "ja": "同時の二つの戦い",
+    "zh-CN": "同时进行的两场战斗"
+  },
+  "narrativePrompt": {
+    "en": "The Gallic relief army has arrived — 250,000 reported, though the number staggers belief. They have found the weak point in your northern wall where mountain terrain forced compromises in construction. Vercassivellaunus leads 60,000 men against that point. Simultaneously, Vercingetorix is launching his largest sortie yet from inside Alesia, attacking your inner wall with siege equipment. Your lines are under simultaneous assault from both sides. Your cavalry reserve is the last uncommitted force. If the northern wall breaks, everything ends.",
+    "ja": "ガリアの救援軍が到着した——25万人と報告されているが、その数は信じがたい。彼らは山岳地形が建設の妥協を強いた北壁の弱点を見つけた。ヴェルカッシヴェラウヌスがその地点に向けて60,000人の兵士を率いる。同時に、ヴェルキンゲトリクスはアレシア内部から最大の出撃を開始し、包囲機材で内壁を攻撃している。あなたの防衛線は両側から同時に突撃を受けている。騎兵予備隊が最後の投入されていない戦力だ。北壁が崩れれば、すべてが終わる。",
+    "zh-CN": "高卢援军已经到来——据报道250,000人，尽管这个数字令人难以置信。他们发现了你北墙上的薄弱点，那里的山地地形迫使建设做出了妥协。韦尔卡西韦拉乌努斯率60,000人进攻那个地点。与此同时，维钦托利从阿莱西亚内部发动了迄今最大规模的出击，用攻城器械攻击你的内墙。你的防线同时遭受来自两侧的攻击。骑兵预备队是最后未投入的力量。如果北墙突破，一切就结束了。"
+  },
+  "situationReport": [
+    {
+      "en": "The northern wall is under assault by 60,000 Gauls. The construction there was weaker — terrain made full depth impossible. It is holding but barely.",
+      "ja": "北壁が60,000人のガリア人による突撃を受けている。そこの建設は弱かった——地形が完全な深度を不可能にした。持ちこたえているがかろうじてだ。",
+      "zh-CN": "北墙正遭受60,000名高卢人的攻击。那里的建筑较弱——地形使完整深度无法实现。它在坚守，但勉强。"
+    },
+    {
+      "en": "The inner wall is under simultaneous assault by Vercingetorix's sortie — estimated 40,000 men with siege ladders and ramps.",
+      "ja": "内壁がヴェルキンゲトリクスの出撃による同時突撃を受けている——推定40,000人の兵士が包囲梯子と斜路を持っている。",
+      "zh-CN": "内墙同时遭受维钦托利出击的攻击——估计40,000人持有攻城梯和坡道。"
+    },
+    {
+      "en": "Your cavalry — Gallic allies fighting for Rome — is outside the encirclement. They can strike either the northern relief force's flank or break through to reinforce the northern wall.",
+      "ja": "あなたの騎兵——ローマのために戦うガリアの同盟軍——は包囲外にいる。彼らは北の救援軍の側面を攻撃するか、北壁を増強するために突破するかができる。",
+      "zh-CN": "你的骑兵——为罗马战斗的高卢盟友——在包围圈外。他们可以打击北方援军的侧翼，或突破增援北墙。"
+    },
+    {
+      "en": "You have one infantry reserve — approximately 4,000 men, your best soldiers. Where you commit them determines everything.",
+      "ja": "歩兵の予備隊が一つある——約4,000人、あなたの最精鋭の兵士たちだ。彼らをどこに投入するかがすべてを決定する。",
+      "zh-CN": "你有一支步兵预备队——约4,000人，你最精锐的士兵。你将他们投入何处决定一切。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Hold both walls simultaneously — losing either means catastrophic defeat",
+      "ja": "両方の壁を同時に守る——どちらかを失うことは壊滅的な敗北を意味する",
+      "zh-CN": "同时守住两道城墙——失去任何一道意味着灾难性的失败"
+    },
+    {
+      "en": "Destroy the northern relief thrust before it can achieve a breakthrough",
+      "ja": "北の救援突撃が突破を達成する前に壊滅させる",
+      "zh-CN": "在北方援军实现突破之前将其消灭"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You cannot be everywhere — you must choose where to commit your personal presence and your reserves",
+      "ja": "あなたはあらゆる場所にいることはできない——個人的な存在と予備隊をどこに投入するかを選択しなければならない",
+      "zh-CN": "你无法无处不在——你必须选择将个人存在和预备队投入何处"
+    },
+    {
+      "en": "Splitting reserves to cover both walls risks defeating neither threat adequately",
+      "ja": "予備隊を両方の壁を守るために分割すると、どちらの脅威にも適切に対処できないリスクがある",
+      "zh-CN": "将预备队分散以覆盖两道城墙有可能使两处威胁都无法得到充分处置的风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "commit-north",
+      "label": {
+        "en": "Commit everything north: ride the perimeter yourself, send reserves to the northern wall",
+        "ja": "すべてを北に集中する：自ら外周を騎馬で巡り、予備隊を北壁に送る",
+        "zh-CN": "将一切投入北方：亲自骑马巡视防线，将预备队派往北墙"
+      },
+      "description": {
+        "en": "The inner wall can hold — your troops there are more numerous and the terrain favors defenders. The northern wall is the crisis. Ride the perimeter visibly — let both sides see Caesar in scarlet — send your reserves north, and order the cavalry to strike the relief army's flank simultaneously.",
+        "ja": "内壁は持ちこたえられる——そこの部隊はより多く、地形が守備側に有利だ。北壁が危機だ。外周を目立って巡馬する——両側にカエサルの緋色を見せる——予備隊を北に送り、同時に救援軍の側面を攻撃するよう騎兵に命じる。",
+        "zh-CN": "内墙可以守住——那里的部队更多，地形有利于防守方。北墙才是危机所在。醒目地骑马巡视防线——让两侧都看到凯撒的红色——将预备队派往北方，同时命令骑兵打击援军侧翼。"
+      },
+      "historicalContext": "This is what Caesar actually did. His account in the Gallic Wars describes riding the perimeter in his scarlet cloak, visible to both sides, to inspire his troops. He committed his reserves to the northern wall, personally led a charge at the critical moment, and ordered his Gallic cavalry outside to strike the relief army's flank. The simultaneous cavalry attack from outside and infantry charge from within broke the relief army's thrust. It remains one of history's most studied combined-arms actions.",
+      "outcomePrompt": {
+        "en": "You ride the entire perimeter in your scarlet cloak — every soldier sees you, every Gaul sees you. Your reserves march north at the double. The cavalry outside crashes into the flank of Vercassivellaunus's 60,000. You personally lead the final charge at the northern wall, arriving with 4,000 fresh soldiers behind you. The Gauls at the northern breach see the reserves coming, see the cavalry in their flank, see Caesar riding toward them. They break. The breach is sealed. Vercingetorix's sortie, seeing the northern assault collapse, withdraws inside Alesia. Tomorrow he will surrender.",
+        "ja": "あなたは緋色のマントで外周全体を巡馬する——すべての兵士があなたを見て、すべてのガリア人があなたを見る。予備隊は倍速で北に行軍する。外の騎兵がヴェルカッシヴェラウヌスの60,000人の側面に突撃する。あなたは個人的に北壁への最後の突撃を率い、後ろに4,000人の新鮮な兵士を率いて到着する。北の突破口のガリア人は予備隊が来るのを見て、側面に騎兵を見て、カエサルが向かってくるのを見る。彼らは崩れる。突破口は封鎖される。北の突撃が崩れるのを見たヴェルキンゲトリクスの出撃はアレシアの中に引き上げる。明日、彼は降伏するだろう。",
+        "zh-CN": "你身着红色斗篷骑马巡视整个防线——每个士兵都看到你，每个高卢人都看到你。预备队快步向北行军。外面的骑兵冲入韦尔卡西韦拉乌努斯60,000人的侧翼。你亲自率领对北墙的最后冲锋，身后带着4,000名生力士兵到达。北方突破口的高卢人看到预备队来临，看到侧翼的骑兵，看到凯撒向他们冲来。他们崩溃了。突破口被封堵。看到北方突击崩溃，维钦托利的出击撤回阿莱西亚内部。明天他将投降。"
+      },
+      "stateChanges": [
+        { "key": "reliefArmyPressure", "operation": "add", "value": -40 },
+        { "key": "fortificationIntegrity", "operation": "add", "value": 10 },
+        { "key": "romanMorale", "operation": "add", "value": 25 }
+      ],
+      "nextSceneId": "battle-of-alesia-52bc-scene-003"
+    },
+    {
+      "id": "split-reserves",
+      "label": {
+        "en": "Split reserves: half north, half to reinforce the inner wall against Vercingetorix",
+        "ja": "予備隊を分割する：半分を北に、半分をヴェルキンゲトリクスに対する内壁の増援に",
+        "zh-CN": "分割预备队：一半向北，一半增援对抗维钦托利的内墙"
+      },
+      "description": {
+        "en": "Two simultaneous crises require simultaneous response. Send 2,000 north and 2,000 to the inner wall. You cannot choose one battle — losing either wall is catastrophic.",
+        "ja": "二つの同時危機には同時対応が必要だ。2,000人を北に、2,000人を内壁に送る。一つの戦いを選ぶことはできない——どちらかの壁を失うことは壊滅的だ。",
+        "zh-CN": "两场同时发生的危机需要同时回应。派2,000人向北，2,000人增援内墙。你不能只选择一场战斗——失去任何一道城墙都是灾难性的。"
+      },
+      "historicalContext": "This is the counterfactual. Caesar did not split his reserves — he committed them decisively to the northern threat. Splitting reserves in ancient warfare was generally considered a mistake because it meant neither force was strong enough to be decisive. A split response at Alesia might have held both walls temporarily but likely would not have broken the relief army's assault, which required the coordinated cavalry strike from outside and infantry reserve from inside simultaneously.",
+      "outcomePrompt": {
+        "en": "You split the reserves. The north gets 2,000, the inner wall 2,000. At the northern wall, 2,000 fresh men help but cannot break the momentum of 60,000. The breach widens. At the inner wall, 2,000 reinforcements hold Vercingetorix's sortie — barely. You ride north personally and throw yourself into the fight. The cavalry outside strikes. It is barely enough. The northern wall holds — by a margin that history will debate for centuries. The relief army withdraws, but not broken. Tomorrow, Vercassivellaunus will try again.",
+        "ja": "あなたは予備隊を分割する。北に2,000、内壁に2,000を送る。北壁では、2,000人の新鮮な兵士が助けになるが60,000人の勢いを止められない。突破口が広がる。内壁では、2,000人の増援がヴェルキンゲトリクスの出撃を——かろうじて——食い止める。あなたは個人的に北に向かい戦闘に身を投じる。外の騎兵が突撃する。かろうじて十分だ。北壁はかろうじて持ちこたえる——歴史が何世紀にもわたって議論するような僅差で。救援軍は撤退するが、壊滅していない。明日、ヴェルカッシヴェラウヌスは再び試みるだろう。",
+        "zh-CN": "你分割了预备队。北方得到2,000，内墙2,000。在北墙，2,000名生力士兵有所帮助但无法阻止60,000人的势头。突破口扩大。在内墙，2,000名增援勉强阻止了维钦托利的出击。你亲自骑马向北，投身战斗。外面的骑兵发动冲锋。这勉强够了。北墙守住了——差距之小让历史争论了数个世纪。援军撤退，但没有被击溃。明天，韦尔卡西韦拉乌努斯将再次尝试。"
+      },
+      "stateChanges": [
+        { "key": "reliefArmyPressure", "operation": "add", "value": -20 },
+        { "key": "fortificationIntegrity", "operation": "add", "value": -5 },
+        { "key": "romanMorale", "operation": "add", "value": 10 }
+      ],
+      "nextSceneId": "battle-of-alesia-52bc-scene-003"
+    }
+  ]
+}
