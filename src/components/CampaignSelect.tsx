@@ -160,6 +160,16 @@ export default function CampaignSelect({ regions, scenarios }: Props) {
   const [selectedRole, setSelectedRole] = useState<string>("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [collapsedEras, setCollapsedEras] = useState<Set<string>>(new Set());
+
+  const toggleEra = useCallback((eraId: string) => {
+    setCollapsedEras((prev) => {
+      const next = new Set(prev);
+      if (next.has(eraId)) next.delete(eraId);
+      else next.add(eraId);
+      return next;
+    });
+  }, []);
 
   const goBack = useCallback(() => {
     switch (nav.step) {
@@ -340,7 +350,9 @@ export default function CampaignSelect({ regions, scenarios }: Props) {
             gap: "0.75rem",
           }}
         >
-          {region.eras.map((era) => (
+          {region.eras.map((era) => {
+            const isCollapsed = collapsedEras.has(era.id);
+            return (
             <div
               key={era.id}
               style={{
@@ -350,33 +362,63 @@ export default function CampaignSelect({ regions, scenarios }: Props) {
                 overflow: "hidden",
               }}
             >
-              {/* Era header */}
-              <div
+              {/* Era header — clickable toggle */}
+              <button
+                onClick={() => toggleEra(era.id)}
                 style={{
-                  padding: "1rem 1.25rem 0.5rem",
-                  borderBottom: "1px solid var(--tc-border)",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                  padding: "1rem 1.25rem 0.75rem",
+                  background: "transparent",
+                  border: "none",
+                  borderBottom: isCollapsed ? "none" : "1px solid var(--tc-border)",
+                  cursor: "pointer",
+                  textAlign: "left",
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.background = "var(--tc-choice-hover)";
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.background = "transparent";
                 }}
               >
-                <div
-                  style={{
-                    color: "var(--tc-accent)",
-                    fontSize: "1rem",
-                    marginBottom: "0.15rem",
-                  }}
-                >
-                  {t(era.name, selectedLocale)}
+                <div>
+                  <div
+                    style={{
+                      color: "var(--tc-accent)",
+                      fontSize: "1rem",
+                      marginBottom: "0.15rem",
+                    }}
+                  >
+                    {t(era.name, selectedLocale)}
+                  </div>
+                  <div
+                    style={{
+                      color: "var(--tc-muted)",
+                      fontSize: "0.75rem",
+                      letterSpacing: "0.1em",
+                    }}
+                  >
+                    {era.dateRange} · {era.scenarios.length} scenario{era.scenarios.length !== 1 ? "s" : ""}
+                  </div>
                 </div>
                 <div
                   style={{
                     color: "var(--tc-muted)",
                     fontSize: "0.75rem",
-                    letterSpacing: "0.1em",
+                    marginLeft: "1rem",
+                    flexShrink: 0,
+                    transition: "transform 0.15s ease",
+                    transform: isCollapsed ? "rotate(-90deg)" : "rotate(0deg)",
                   }}
                 >
-                  {era.dateRange}
+                  ▾
                 </div>
-              </div>
+              </button>
               {/* Scenarios in this era */}
+              {!isCollapsed && (
               <div style={{ display: "flex", flexDirection: "column" }}>
                 {era.scenarios.map((sc, idx) => (
                   <button
@@ -433,8 +475,10 @@ export default function CampaignSelect({ regions, scenarios }: Props) {
                   </button>
                 ))}
               </div>
+              )}
             </div>
-          ))}
+            );
+          })}
         </div>
       </div>
     );

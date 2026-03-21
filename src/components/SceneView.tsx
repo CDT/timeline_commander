@@ -1,10 +1,13 @@
-import type { ResolvedScene } from "@/lib/types";
+import { useEffect } from "react";
+import type { Locale, ResolvedScene } from "@/lib/types";
+import { useTTS } from "@/lib/useTTS";
 
 interface Props {
   scene: ResolvedScene;
   narrative: string;
   submitting: boolean;
   isStreaming: boolean;
+  locale: Locale;
   onChoose: (choiceId: string) => void;
 }
 
@@ -13,8 +16,16 @@ export default function SceneView({
   narrative,
   submitting,
   isStreaming,
+  locale,
   onChoose,
 }: Props) {
+  const { speak, stop, isPlaying, isSupported } = useTTS();
+
+  // Stop speech when the scene changes
+  useEffect(() => { stop(); }, [scene.id, stop]);
+
+  const canPlay = isSupported && !isStreaming && !!narrative;
+
   return (
     <div>
       {/* Narrative */}
@@ -37,6 +48,29 @@ export default function SceneView({
         ) : null}
         {isStreaming && narrative && (
           <span className="tc-cursor" />
+        )}
+        {canPlay && (
+          <button
+            onClick={() => isPlaying ? stop() : speak(narrative, locale)}
+            title={isPlaying ? "Stop reading" : "Read aloud"}
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: "0.35rem",
+              marginTop: "0.75rem",
+              padding: "0.3rem 0.7rem",
+              background: "transparent",
+              border: "1px solid var(--tc-border)",
+              borderRadius: 4,
+              color: "var(--tc-muted)",
+              fontSize: "0.75rem",
+              letterSpacing: "0.08em",
+              cursor: "pointer",
+              fontFamily: "inherit",
+            }}
+          >
+            {isPlaying ? "■ Stop" : "▶ Read aloud"}
+          </button>
         )}
       </div>
 

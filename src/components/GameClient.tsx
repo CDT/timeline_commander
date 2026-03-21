@@ -236,6 +236,7 @@ export default function GameClient({
             narrative={narrativeText}
             submitting={submitting}
             isStreaming={isStreaming}
+            locale={locale}
             onChoose={submitChoice}
           />
         )}
