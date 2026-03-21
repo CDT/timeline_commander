@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-002",
+  "scenarioId": "khmer-empire-angkor-1177",
+  "title": {
+    "en": "The Battle for the Lake",
+    "ja": "湖をめぐる戦い",
+    "zh-CN": "湖上争锋"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-003",
+  "background": {
+    "en": "1181 AD. After three years of grinding resistance campaigns — attacking Cham supply lines, liberating southern provinces, winning over wavering Khmer lords — you have reached the decisive moment. The Cham hold Angkor itself, maintained by their naval dominance of Tonle Sap lake. Their fleet controls the lake and the rivers leading to the capital. To retake Angkor you must first win a naval battle on Tonle Sap — and you must do it before the dry season reduces the lake's depth and negates your larger vessels' advantage.",
+    "ja": "1181年。三年間の徹底的な抵抗作戦の後——チャムの補給線を攻撃し、南部の州を解放し、ためらっているクメールの領主たちを取り込んで——決定的な瞬間に達した。チャムはアンコール自体を保持し、トンレサップ湖での海軍の優位によって維持されている。彼らの艦隊は湖と首都に至る川を支配している。アンコールを奪還するには、まずトンレサップ湖での海戦に勝たなければならない——そして乾季が湖の水深を減少させてより大きな船の優位を打ち消す前にそれをしなければならない。",
+    "zh-CN": "公元1181年。经过三年艰苦卓绝的抵抗战役——袭击占婆人的补给线，解放南部省份，争取动摇中的高棉领主——你已到达决定性时刻。占婆人据守吴哥城，凭借其在洞里萨湖的海上优势维持控制。他们的舰队掌控着湖面和通往都城的水道。要收复吴哥，必须先在洞里萨湖赢得一场水战——而且必须在旱季使湖面水位下降、抵消你较大战船优势之前完成此事。"
+  },
+  "prompt": {
+    "en": "You have assembled a substantial Khmer fleet, but the Cham navy has experience and familiarity with these waters. The Cham know their defeat at Tonle Sap will end the occupation — they will fight with everything they have. Do you rely on your superior numbers and fight a straightforward naval engagement, or do you use your knowledge of the Cham to design a deception that draws their fleet into a disadvantageous position?",
+    "ja": "かなりのクメール艦隊を集結させたが、チャムの海軍はこれらの水域での経験と熟知がある。チャムはトンレサップ湖での敗北が占領を終わらせると知っている——彼らは持てるすべてで戦う。数的優位に依存して直接的な海戦を戦うか、それとも艦隊を不利な位置に引き込む欺瞞を設計するためにチャムへの知識を使うか？",
+    "zh-CN": "你已集结了相当规模的高棉舰队，但占婆水师对这片水域颇为熟悉且经验丰富。占婆人知道在洞里萨湖的失败将终结占领——他们将全力以赴。你是依靠数量优势进行一场直接的水上交战，还是利用你对占婆人的了解设计一场诱敌之计，将其舰队引入不利位置？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Straightforward naval assault",
+        "ja": "正面からの海軍突撃",
+        "zh-CN": "正面水师进攻"
+      },
+      "description": {
+        "en": "Launch the full Khmer fleet in a direct assault on the Cham naval position. Your ships outnumber theirs three to one. The Cham fleet is well-trained but cannot sustain losses at that ratio. Assign your heaviest war vessels to lead the attack, your lighter craft to cut off retreat, and your archers to suppress the Cham fireships. This is the approach of strength over cunning.",
+        "ja": "チャムの海軍陣地への直接攻撃でクメール艦隊全体を展開する。あなたの船は彼らの三倍だ。チャム艦隊は十分に訓練されているが、その比率での損失に耐えられない。最も重い戦闘艦を攻撃の先頭に、軽い船を退路の遮断に、弩兵をチャムの火船を抑制するために配置する。これは策略よりも力の手法だ。",
+        "zh-CN": "以全部高棉舰队对占婆水师阵地发动正面攻击。你的战船在数量上三比一压制对手。占婆舰队训练精良，但无法承受如此比率的损失。以最重型的战船领衔攻击，轻型船只截断退路，弓手压制占婆火船。这是以强力而非谋略制胜的路线。"
+      },
+      "outcome": {
+        "en": "The battle is long and bloody. The Cham fight with ferocious skill and your losses are significant — but your numbers tell. After six hours, the Cham fleet breaks. Some ships escape north toward Vietnam; others are captured or sunk. Tonle Sap lake is yours. The road to Angkor is open. Your troops — and your coalition allies — are exhilarated by a straightforward victory that needed no tricks.",
+        "ja": "戦いは長く血みどろだ。チャムは猛烈な技術で戦い、あなたの損失は相当なものだ——しかし数が物を言う。六時間後、チャム艦隊が崩壊する。いくつかの船がベトナムに向けて北に逃れる；他は捕らえられるか沈められる。トンレサップ湖はあなたのものだ。アンコールへの道が開かれた。あなたの兵士たち——そして連合の同盟国たち——は策略を必要としない正面からの勝利に沸き立っている。",
+        "zh-CN": "战斗漫长而血腥。占婆人以凶猛的技艺作战，你的损失颇为惨重——但数量决定了胜负。六小时后，占婆舰队崩溃。一些战船向北逃往越南，另一些被俘获或击沉。洞里萨湖已属于你。通往吴哥的道路敞开了。你的军队——以及联盟伙伴们——因一场不需要任何计谋的正面胜利而士气高昂。"
+      },
+      "stateChanges": [
+        { "variable": "khmerMorale", "operation": "add", "value": 20 },
+        { "variable": "chamStrength", "operation": "add", "value": -25 },
+        { "variable": "militaryForce", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Draw them into the shallows — use your knowledge of the Cham",
+        "ja": "浅瀬に引き込む——チャムへの知識を使う",
+        "zh-CN": "引入浅水区——利用你对占婆人的了解"
+      },
+      "description": {
+        "en": "You spent years at the Cham court. You know that their admiral is aggressive and tends to overcommit to pursuit when he believes he has an advantage. Stage a feigned retreat with part of your fleet, drawing the Cham navy into the shallower northwestern sector of Tonle Sap, where their deeper-keeled warships will lose maneuverability. Then close the trap from both sides.",
+        "ja": "チャムの宮廷で数年を過ごした。チャムの提督が攻撃的で、優位にあると信じる時は追撃に過度にコミットする傾向があると知っている。艦隊の一部で偽退却を演じ、チャムの海軍をトンレサップの浅い北西区画に引き込む——そこでは喫水の深い戦艦が機動性を失う。そして両側から罠を閉じる。",
+        "zh-CN": "你在占婆宫廷度过了数年。你深知他们的水军统领性情激进，一旦认为占据优势便倾向于过度追击。以部分舰队上演诈败撤退，将占婆水师引入洞里萨湖较浅的西北区域——在那里，吃水较深的战舰将失去机动性。然后从两侧合围收网。"
+      },
+      "outcome": {
+        "en": "The deception works precisely as planned. The Cham admiral takes the bait, pursuing your retreating vessels into the shallows. When your flanking force closes from the western reed beds, the Cham fleet is trapped and unable to maneuver. The battle becomes a rout. Cham losses are catastrophic; your own are modest. You have demonstrated not just force but generalship. The Khmer people will tell this story for generations.",
+        "ja": "欺瞞が計画通り正確に機能する。チャムの提督が餌に食いつき、退却するあなたの船を追って浅瀬に入る。西の葦原から側面を押さえる部隊が閉まる時、チャムの艦隊は囲まれて機動できなくなる。戦いは潰走となる。チャムの損失は壊滅的；あなた自身は軽微だ。力だけでなく将帥としての才能を示した。クメールの人々は何世代にもわたってこの話を語るだろう。",
+        "zh-CN": "诱敌之计按计划精准奏效。占婆水军统领上钩，追着你的退却船只驶入浅水区。当你的侧翼部队从西侧芦苇丛中合围时，占婆舰队被困无法机动，战斗演变成一场溃败。占婆损失惨重，你方伤亡轻微。你展示的不仅是武力，更是统帅之才。高棉人民将世代传颂这段故事。"
+      },
+      "stateChanges": [
+        { "variable": "khmerMorale", "operation": "add", "value": 30 },
+        { "variable": "chamStrength", "operation": "add", "value": -35 },
+        { "variable": "populationLoyalty", "operation": "add", "value": 15 }
+      ]
+    }
+  ]
+}

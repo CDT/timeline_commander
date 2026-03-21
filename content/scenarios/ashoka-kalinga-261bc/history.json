@@ -1,0 +1,91 @@
+{
+  "scenarioId": "ashoka-kalinga-261bc",
+  "timeline": [
+    {
+      "date": "-0269-01-01",
+      "description": {
+        "en": "Ashoka ascends to the Mauryan throne following the death of his father Bindusara, reportedly after a succession struggle among the princes.",
+        "ja": "アショーカ王が父ビンドゥサーラの死後、伝えられるところでは王子たちの後継争いを経て、マウリヤ朝の玉座に就く。",
+        "zh-CN": "阿育王在父亲宾头沙罗去世后继承孔雀王位，据记载此前经历了一场王子间的继位之争。"
+      }
+    },
+    {
+      "date": "-0265-01-01",
+      "description": {
+        "en": "Ashoka consolidates imperial power, conducting campaigns in the northwest and earning a reputation as a fierce and effective military ruler in the tradition of his grandfather Chandragupta.",
+        "ja": "アショーカ王は帝国の権力を固め、北西部で遠征を行い、祖父チャンドラグプタの伝統に倣った精力的で有能な軍事支配者としての名声を獲得する。",
+        "zh-CN": "阿育王巩固帝国权力，在西北部发动战役，以其祖父旃陀罗笈多的方式赢得了凶悍而卓越的军事统治者声誉。"
+      }
+    },
+    {
+      "date": "-0261-01-01",
+      "description": {
+        "en": "The Kalinga War begins. Ashoka's vast army invades the independent kingdom of Kalinga on the eastern coast. The war results in approximately 100,000 killed, 150,000 deported, and untold numbers dead from disease and famine.",
+        "ja": "カリンガ戦争が始まる。アショーカ王の大軍が東海岸の独立王国カリンガへ侵攻。戦争の結果、約10万人が死亡し、15万人が追放され、数え切れないほどの人々が疫病と飢えで命を落とす。",
+        "zh-CN": "羯陵伽战争爆发。阿育王的大军入侵东海岸独立王国羯陵伽。这场战争造成约十万人阵亡，十五万人被驱逐，还有无数人死于疾病和饥荒。"
+      }
+    },
+    {
+      "date": "-0261-06-01",
+      "description": {
+        "en": "Ashoka surveys the Kalinga battlefield and is overcome by grief and moral revulsion. He encounters Buddhist monks who speak to him about the nature of suffering and the possibility of ruling through dharma rather than conquest.",
+        "ja": "アショーカ王はカリンガの戦場を視察し、悲嘆と道徳的嫌悪に圧倒される。彼は仏僧と出会い、苦の本質と征服ではなく法によって統治する可能性について教えを受ける。",
+        "zh-CN": "阿育王巡视羯陵伽战场，深陷悲痛与道德上的厌憎之中。他遇到佛教僧侣，聆听了关于苦的本质以及以法而非征服来统治的可能性的教诲。"
+      }
+    },
+    {
+      "date": "-0260-01-01",
+      "description": {
+        "en": "Ashoka formally converts to Buddhism and begins issuing his Rock Edicts — carved proclamations on natural rock faces across the empire promoting dharma, religious tolerance, and the welfare of all living beings.",
+        "ja": "アショーカ王が正式に仏教に改宗し、磨崖法勅の発布を開始する——帝国各地の自然の岩面に刻まれた宣言は、法・宗教的寛容・あらゆる生き物の福祉を促進するものだった。",
+        "zh-CN": "阿育王正式皈依佛教，开始颁布磨崖法令——刻于帝国各地天然岩面上的布告，内容涉及倡导法、宗教宽容以及所有生灵的福祉。"
+      }
+    },
+    {
+      "date": "-0250-01-01",
+      "description": {
+        "en": "The Third Buddhist Council is held at Pataliputra under Ashoka's patronage, standardizing Buddhist doctrine and organizing the great missionary expeditions that will carry Buddhism to Sri Lanka, Central Asia, and beyond.",
+        "ja": "アショーカ王の後援のもと、パータリプトラで第三回仏典結集が開催される。仏教教義が標準化され、スリランカや中央アジアなどへ仏教を伝える大規模な宣教遠征が組織される。",
+        "zh-CN": "第三次佛教结集在阿育王的赞助下于华氏城召开，对佛教教义进行了整理规范，并组织了将佛教传播至斯里兰卡、中亚及更远地区的大型传教使团。"
+      }
+    },
+    {
+      "date": "-0247-01-01",
+      "description": {
+        "en": "Ashoka sends his son Mahinda and daughter Sanghamitta to Sri Lanka, converting the island's king Devanampiya Tissa and planting the seeds of Theravada Buddhism throughout the island — a tradition that endures to this day.",
+        "ja": "アショーカ王は息子マヒンダと娘サンガミッタをスリランカへ派遣し、島の王デーワーナンピヤ・ティッサを改宗させ、スリランカ全土に上座部仏教の種を蒔く——その伝統は今日まで続いている。",
+        "zh-CN": "阿育王派遣儿子摩哂陀和女儿僧伽密多赴斯里兰卡，使该岛国王天爱帝须皈依佛教，并在全岛播下上座部佛教的种子——这一传统延续至今。"
+      }
+    },
+    {
+      "date": "-0232-01-01",
+      "description": {
+        "en": "Ashoka dies, having reigned for approximately 37 years. His empire will fragment within 50 years, but his legacy — the Wheel of Dharma on India's flag, the spread of Buddhism across Asia, and the ideal of governance through compassion — endures for millennia.",
+        "ja": "アショーカ王が崩御する。約37年間在位した。彼の帝国は50年以内に分裂するが、その遺産——インドの国旗に描かれた法輪、アジア全土への仏教の普及、慈悲による統治という理想——は数千年にわたって受け継がれる。",
+        "zh-CN": "阿育王驾崩，在位约三十七年。他的帝国将在五十年内瓦解，但他的遗产——印度国旗上的法轮、佛教在亚洲的传播以及以慈悲治国的理想——历经数千年而长存。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Ashoka abandoned military conquest after Kalinga and devoted the remainder of his reign to ruling through dharma. His Rock Edicts and Pillar Edicts survive as among the oldest inscriptions in India, proclaiming religious tolerance and the welfare of all living beings. Buddhist missions dispatched under his reign converted Sri Lanka and influenced Central Asia. The Maurya Empire fragmented within 50 years of his death, but Ashoka's moral and spiritual legacy outlasted his political one by millennia.",
+    "ja": "アショーカ王はカリンガの後、軍事征服を放棄し、残りの治世を法による統治に捧げた。磨崖法勅と石柱法勅はインド最古の碑文の一つとして現在も残り、宗教的寛容とあらゆる生き物の福祉を宣言している。彼の治世に派遣された仏教宣教団はスリランカを改宗させ、中央アジアに影響を与えた。マウリヤ帝国は彼の死後50年以内に分裂したが、アショーカ王の道徳的・精神的遺産はその政治的遺産を数千年も超えて存続している。",
+    "zh-CN": "阿育王在羯陵伽战争后放弃了军事征服，将其余统治岁月奉献于以法治国。他的磨崖法令和石柱法令作为印度最古老的铭文之一留存至今，宣扬宗教宽容与一切生灵的福祉。他在位期间派出的佛教传教使团使斯里兰卡皈依佛教，并影响了中亚地区。孔雀帝国在他死后五十年内分崩离析，但阿育王的道德与精神遗产比其政治遗产延续了数千年之久。"
+  },
+  "casualties": {
+    "en": "The Kalinga War resulted in approximately 100,000 dead on the battlefield, 150,000 deported, and an unknown but substantial number who died from disease and famine in the aftermath. These figures come from Ashoka's own Thirteenth Major Rock Edict — a remarkable act of self-documentation of imperial violence.",
+    "ja": "カリンガ戦争では戦場で約10万人が死亡し、15万人が追放され、さらに戦後の疫病と飢えで多数の人々が命を落とした。これらの数字はアショーカ王自身の第十三大磨崖法勅に記録されており、帝国の暴力を自ら記録した注目すべき行為である。",
+    "zh-CN": "羯陵伽战争造成约十万人在战场上阵亡，十五万人被强制迁徙，战后还有数量不明但相当可观的人死于疾病和饥荒。这些数字来自阿育王自己的第十三道大磨崖法令——这是一次对帝国暴力进行自我记录的非凡之举。"
+  },
+  "significance": {
+    "en": "The Kalinga War and Ashoka's subsequent transformation represent one of history's most dramatic reversals: from ruthless conqueror to champion of non-violence and compassion. Ashoka's Wheel of Dharma appears on the Indian national flag. His edicts established principles of religious tolerance and welfare governance that were extraordinary for the ancient world. The Buddhist missions he sponsored transformed Asia's religious landscape, and Theravada Buddhism in Sri Lanka, Myanmar, Thailand, Cambodia, and Laos traces its lineage directly to Ashoka's missionaries.",
+    "ja": "カリンガ戦争とその後のアショーカ王の変貌は、歴史上最も劇的な転換の一つを象徴している——冷酷な征服者から非暴力と慈悲の擁護者へ。アショーカ王の法輪はインドの国旗に刻まれている。彼の法勅は古代世界において画期的な宗教的寛容と福祉統治の原則を確立した。彼が支援した仏教宣教団はアジアの宗教地図を一変させ、スリランカ・ミャンマー・タイ・カンボジア・ラオスの上座部仏教は、そのルーツをアショーカ王の宣教師たちに直接たどることができる。",
+    "zh-CN": "羯陵伽战争及阿育王随后的蜕变，代表了历史上最戏剧性的转变之一：从冷酷的征服者变为非暴力与慈悲的倡导者。阿育王的法轮出现在印度国旗上。他的法令为古代世界确立了宗教宽容和福利治理的原则，意义非凡。他所赞助的佛教传教使团改变了亚洲的宗教版图，斯里兰卡、缅甸、泰国、柬埔寨和老挝的上座部佛教，其传承均可直接追溯至阿育王的传教士。"
+  },
+  "furtherReading": [
+    "The Edicts of King Asoka — translated by N.A. Nikam and Richard McKeon",
+    "Ashoka: The Search for India's Lost Emperor — by Charles Allen",
+    "Asoka and the Decline of the Mauryas — by Romila Thapar",
+    "The Arthashastra — by Kautilya (translated by L.N. Rangarajan)",
+    "A History of India — by Romila Thapar"
+  ]
+}

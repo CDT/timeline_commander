@@ -1,0 +1,34 @@
+{
+  "scenarioId": "silk-road-crisis-100",
+  "title": {
+    "en": "Ban Chao and the Western Regions",
+    "ja": "班超と西域",
+    "zh-CN": "班超与西域"
+  },
+  "description": {
+    "en": "In 73 AD, the Han general Ban Chao was dispatched to the Western Regions (modern Central Asia and Xinjiang) with only 36 soldiers — one of history's most audacious diplomatic and military missions. For thirty years, he navigated the complex world of over fifty Central Asian kingdoms, using persuasion, intimidation, assassination, and alliance to restore Han suzerainty over the Silk Road. Play as Ban Chao as you manage the impossible task of holding together Han China's influence across thousands of kilometers with minimal forces.",
+    "ja": "73年、漢の将軍・班超はわずか36人の兵士と共に西域（現在の中央アジアと新疆）に派遣された——歴史上最も大胆な外交・軍事使命の一つ。三十年間、彼は50以上の中央アジアの王国の複雑な世界を、説得、威圧、暗殺、同盟を駆使してシルクロードに対する漢の宗主権を回復しながら乗り越えた。班超として、最小限の戦力で数千キロにわたる漢の影響力を維持する不可能な任務を管理せよ。",
+    "zh-CN": "公元73年，汉朝将领班超仅率36名士兵被派往西域（今中亚和新疆）——这是历史上最为大胆的外交军事使命之一。三十年间，他周旋于五十余个中亚王国的复杂世界中，运用说服、威慑、暗杀与联盟，重建了汉朝对丝绸之路的宗主权。扮演班超，以最少的兵力完成维持汉朝在数千公里范围内影响力的不可能任务。"
+  },
+  "date": "0073-01-01",
+  "location": {
+    "en": "Western Regions (Tarim Basin, modern Xinjiang, China)",
+    "ja": "西域（タリム盆地、現在の中国新疆）",
+    "zh-CN": "西域（塔里木盆地，今中国新疆）"
+  },
+  "playerRole": {
+    "en": "Ban Chao — Han diplomat and general in the Western Regions",
+    "ja": "班超——西域の漢の外交官および将軍",
+    "zh-CN": "班超——汉朝西域外交官与将军"
+  },
+  "initialState": {
+    "hanPrestige": 50,
+    "xiongnuthreat": 65,
+    "localAlliances": 30,
+    "tradeRouteControl": 35,
+    "militaryForce": 20
+  },
+  "tags": ["china", "han", "silk road", "central asia", "diplomacy", "xiongnu", "classical"],
+  "difficulty": "hard",
+  "historicalOutcome": "han_restored"
+}

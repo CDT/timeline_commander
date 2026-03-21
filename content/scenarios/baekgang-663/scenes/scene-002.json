@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-002",
+  "scenarioId": "baekgang-663",
+  "title": {
+    "en": "Fire on the Water",
+    "ja": "水上の炎",
+    "zh-CN": "水上火攻"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-003",
+  "background": {
+    "en": "August 27, 663 AD. The battle has been joined. The Japanese fleet has attacked in waves, and the results are exactly as your Baekje veterans warned: Tang fire weapons have set hundreds of Japanese ships ablaze. The river is lit with burning vessels. Two of the four attack waves have been broken. Perhaps 400 Japanese ships remain combat-capable. The Tang fleet has lost fewer than 20 ships. Your shore-based Baekje forces at Churyu fortress have not yet engaged — they are your reserve. The surviving Japanese admirals are calling for one final concentrated charge using every remaining ship.",
+    "ja": "663年8月27日。戦いは始まった。倭の艦隊は波状攻撃をしかけてきたが、結果はまさに百済のベテランたちが警告した通りだ：唐の火器が数百隻の倭の船に火をつけた。川は燃える船で照らされている。四波の攻撃のうち二波が崩壊した。おそらく400隻の倭の船が戦闘可能な状態にある。唐の艦隊は20隻未満しか失っていない。周留城の海岸拠点にいるあなたの百済軍はまだ交戦していない——彼らは予備兵力だ。生き残った倭の提督たちが残りすべての船を使った最後の集中突撃を求めている。",
+    "zh-CN": "公元663年8月27日。战斗已经打响。倭国舰队发动波次攻击，结果恰如你的百济老兵所警告的：唐军火器点燃了数百艘倭国战船。江面被燃烧的船只照得通红。四波攻击中已有两波被击溃。或许还有400艘倭国战船保持战斗力。唐军舰队损失不足二十艘。你驻守周留城的岸上百济军队尚未参战——他们是你的预备队。幸存的倭国将领们正要求以所有剩余战船发动最后一次集中突击。"
+  },
+  "prompt": {
+    "en": "The battle is going badly. You have three options now: commit your shore reserve forces to support the Japanese fleet and create a combined land-sea assault that might turn the tide; allow the Japanese to make their final charge while you prepare for the evacuation of the fortress; or take direct command of the surviving fleet and attempt to break off the engagement before total destruction.",
+    "ja": "戦いは不利に進んでいる。今、三つの選択肢がある：陸上予備軍を倭の艦隊を支援するために投入して、潮流を変える可能性のある陸海合同攻撃を作り出す；倭が最後の突撃をする間に要塞からの撤退を準備する；または生き残った艦隊の指揮を直接引き受けて、完全な壊滅の前に戦闘から離脱しようとする。",
+    "zh-CN": "战局正在恶化。你现在有三个选择：调遣岸上预备队支援倭国舰队，形成可能扭转局势的陆海联合攻势；让倭军发动最后突击，同时你着手准备要塞的撤离；或亲自接管幸存舰队的指挥，在遭受全面歼灭前设法脱离战斗。"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Commit the Baekje shore forces — combined assault",
+        "ja": "百済陸上部隊を投入する——合同攻撃",
+        "zh-CN": "投入百济岸上军队——联合攻势"
+      },
+      "description": {
+        "en": "Send your Baekje infantry and archers along both banks simultaneously as the remaining Japanese ships make their final charge. Archers on the riverbanks can threaten Tang ships that come close to shore. The combined pressure of naval attack and bank-side archery might create enough confusion to allow some Japanese ships to close with the Tang fleet.",
+        "ja": "残存する倭の船が最後の突撃をする間に、両岸に沿って百済の歩兵と弓兵を同時に送り出す。川岸の弓兵は海岸に近づく唐の船を脅かすことができる。海軍攻撃と岸辺の弓射の組み合わせた圧力が十分な混乱を生み出して、いくつかの倭の船が唐の艦隊に近づけるかもしれない。",
+        "zh-CN": "在剩余倭国战船发动最后突击的同时，沿两岸同时派出你的百济步兵和弓手。江岸上的弓手可以威胁靠近岸边的唐朝战船。水上攻击与岸边弓射的双重压力，或许能制造足够的混乱，让部分倭国战船得以逼近唐朝舰队。"
+      },
+      "outcome": {
+        "en": "Your shore forces advance and the combined attack creates momentary confusion in the Tang line. Three Japanese ships actually board Tang vessels — a brief, chaotic melee. But Tang reinforcements close in from both sides. The Japanese boarding parties are overwhelmed. The shore attack exposes your Baekje infantry to Tang naval arrows. You have committed your reserves with nothing to show for it.",
+        "ja": "あなたの陸上部隊が前進し、合同攻撃が唐の戦線に一時的な混乱を引き起こす。三隻の倭の船が実際に唐の船に乗り込む——短く混乱した白兵戦。しかし唐の増援が両側から迫る。倭の乗り込み部隊が圧倒される。岸辺からの攻撃が百済の歩兵を唐の海軍の矢にさらす。成果なしに予備軍を投入してしまった。",
+        "zh-CN": "你的岸上部队推进，联合攻击在唐军战线中制造了短暂混乱。三艘倭国战船实际上登上了唐朝战舰——短暂混乱的肉搏战。但唐朝援军从两侧合拢，倭军登舰队伍遭到压制。岸边攻势使你的百济步兵暴露在唐军水师箭矢之下。你已孤注一掷投入预备队，却一无所获。"
+      },
+      "stateChanges": [
+        { "variable": "baekjeMorale", "operation": "add", "value": -15 },
+        { "variable": "yamatoNavy", "operation": "add", "value": -15 },
+        { "variable": "riverPosition", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Prepare the evacuation — save what can be saved",
+        "ja": "撤退を準備する——救えるものを救う",
+        "zh-CN": "准备撤离——能救多少就救多少"
+      },
+      "description": {
+        "en": "The battle is lost. Begin organized withdrawal from the fortress now, before Tang-Silla land forces complete their encirclement. Use the final Japanese naval charge as a distraction. Send Baekje nobles, the royal archive, and critical court personnel by boat upriver while the fighting is still ongoing. Your survival and escape to Goguryeo is the only way Baekje continues to exist in any form.",
+        "ja": "戦いは終わった。唐・新羅の陸上部隊が包囲を完成させる前に、今すぐ要塞からの組織的な撤退を始める。最後の倭の海軍突撃を陽動として使う。戦闘がまだ続いている間に、百済の貴族、王室文書庫、重要な宮廷人員を船で川上に送る。あなたの生存と高句麗への脱出が、百済がいかなる形でも存続できる唯一の方法だ。",
+        "zh-CN": "此战已败。趁唐罗陆上军队完成合围之前，立即开始有序撤离要塞。利用倭军最后的海军突击作为牵制。在战斗仍在进行的同时，派船将百济贵族、王室档案及重要宫廷人员沿江上溯撤走。你的生存与逃往高句丽，是百济以任何形式继续存在的唯一方式。"
+      },
+      "outcome": {
+        "en": "The evacuation begins under cover of the last Japanese charge. Several boats carrying Baekje court personnel escape upriver in the confusion. The Japanese fleet's final attack is destroyed within the hour. Tang-Silla forces close in on Churyu. You escape with a small party, eventually reaching Goguryeo. The fortress surrenders two days later. Baekje as a kingdom is finished — but you survive.",
+        "ja": "最後の倭の突撃の陰で撤退が始まる。百済宮廷人員を乗せたいくつかの船が混乱の中で川上に脱出する。倭の艦隊の最後の攻撃は一時間以内に壊滅する。唐・新羅軍が周留城に迫る。あなたは少人数の一団とともに脱出し、最終的に高句麗に到達する。要塞は二日後に降伏する。王国としての百済は終わった——しかしあなたは生き延びる。",
+        "zh-CN": "撤离在倭军最后突击的掩护下开始。几艘载有百济宫廷人员的船只趁混乱从江上脱逃。倭国舰队的最后攻势在一小时内被摧毁。唐罗军队向周留城合围。你带着一小队人马逃脱，最终抵达高句丽。要塞两天后投降。百济作为王国已然终结——但你活了下来。"
+      },
+      "stateChanges": [
+        { "variable": "baekjeMorale", "operation": "add", "value": 5 },
+        { "variable": "allianceCohesion", "operation": "add", "value": -20 },
+        { "variable": "riverPosition", "operation": "add", "value": 10 }
+      ]
+    }
+  ]
+}

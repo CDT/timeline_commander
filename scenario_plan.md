@@ -1,8 +1,8 @@
 # Scenario Expansion Plan
 
-## Current State: 36 scenarios → Target: ~300
+## Current State: 56 scenarios → Target: ~300
 
-**36 scenarios** (16 original + 20 from Batch 1). Target: comprehensive world history collection across all continents, eras, and event types.
+**56 scenarios** (16 original + 20 from Batch 1 + 20 from Batch 2). Target: comprehensive world history collection across all continents, eras, and event types.
 
 ### Existing Scenarios (16 original)
 thermopylae-480bc, crossing-rubicon-49bc, hastings-1066, constantinople-1453, spanish-armada-1588, french-revolution-1789, waterloo-1815, verdun-1916, d-day-1944, berlin-wall-1989, red-cliffs-208, meiji-restoration-1868, midway-1942, american-revolution-1776, cuban-missile-crisis-1962, zama-202bc
@@ -59,7 +59,8 @@ content/scenarios/{id}/
 | 19 | `fall-of-rome-476` | Fall of Western Rome | 476 AD | Europe | Political/Military |
 | 20 | `battle-of-alesia-52bc` | Battle of Alesia | 52 BC | Europe | Military |
 
-### Batch 2 — Ancient & Classical Asia (20)
+### ✅ Batch 2 — Ancient & Classical Asia (20) — COMPLETE (2026-03-21)
+All 20 scenarios written: scenario.json, history.json, scenes/scene-001–003.json for each.
 
 | # | ID | Title | Date | Region | Type |
 |---|-----|-------|------|--------|------|

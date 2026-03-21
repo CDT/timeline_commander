@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-002",
+  "scenarioId": "srivijaya-trade-700",
+  "title": {
+    "en": "The Chinese Pilgrims",
+    "ja": "中国人巡礼者たち",
+    "zh-CN": "中国朝圣者"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-003",
+  "background": {
+    "en": "690 AD. A fleet of Chinese Buddhist pilgrims has arrived at Palembang — forty monks sailing from Tang China to India in search of original Buddhist scriptures. Their leader is a monk named Yijing. He has been in Srivijaya for several months, studying at your monastery. He plans to write extensively about Srivijaya when he returns to China. His words will be read by the Tang emperor himself, by thousands of Buddhist monks, and by the merchant communities who follow monastic networks. How you treat him will define Srivijaya's reputation across the entire Buddhist world.",
+    "ja": "690年。中国人仏教巡礼者の船団がパレンバンに到着した——唐の中国から仏教の原典を求めてインドに向かって航海する40人の僧侶。彼らの指導者は義浄という名の僧侶だ。彼は数ヶ月間シュリーヴィジャヤに滞在し、あなたの寺院で学んでいる。彼は中国に帰国した時にシュリーヴィジャヤについて広範に書く計画だ。彼の言葉は唐の皇帝自身、数千人の仏教僧、そして修道院ネットワークに従う商人共同体に読まれるだろう。あなたが彼をどう扱うかが、仏教世界全体でのシュリーヴィジャヤの評判を定める。",
+    "zh-CN": "公元690年。一支中国佛教朝圣船队抵达巨港——四十名从唐朝中国出发、赴印度寻求原始佛教典籍的僧人。他们的领袖是一位名叫义净的僧人。他已在室利佛逝停留数月，在你的寺院中研习。他计划回国后大量撰写关于室利佛逝的文字。他的著述将被唐朝皇帝本人、数千名佛教僧侣以及追随寺院网络的商人社群所阅读。你如何对待他，将决定室利佛逝在整个佛教世界的声誉。"
+  },
+  "prompt": {
+    "en": "Yijing has completed his studies and is preparing to continue to India. He has asked you two things: first, permission to copy manuscripts from your monastery library, including rare Sanskrit texts not available in China; second, support in building a new translation center at Palembang that would permanently host Chinese monks studying Sanskrit. How do you respond to these requests?",
+    "ja": "義浄は研究を終え、インドへの旅を続ける準備をしている。彼はあなたに二つのことを求めた：第一に、中国では入手できない希少なサンスクリット写本を含む、あなたの寺院図書館からの写本の写しを取る許可；第二に、サンスクリットを学ぶ中国人僧を常設的に受け入れるパレンバンへの新しい翻訳センターの設立への支援。これらの要望にどう応答するか？",
+    "zh-CN": "义净已完成学业，正准备继续前往印度。他向你提出了两个请求：一是允许他抄录你寺院藏经楼中的典籍，包括中国无从获得的稀有梵文文献；二是支持在巨港建立一个新的翻译中心，长期接收来华学习梵文的中国僧侣。你将如何回应这些请求？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Grant both requests with royal endowment",
+        "ja": "王室の基金で両方の要求を認める",
+        "zh-CN": "以王室资助批准两项请求"
+      },
+      "description": {
+        "en": "Not only grant Yijing's requests but go further: endow the translation center with a permanent royal grant, assign ten of your best monks as permanent teachers, and commission an additional library of Sanskrit texts specifically to serve Chinese students. Write a personal letter to the Tang Emperor recommending Palembang as the ideal stopping point for all Chinese Buddhist pilgrims traveling to India.",
+        "ja": "義浄の要求を認めるだけでなく、さらに進む：翻訳センターに恒久的な王室の助成金を与え、あなたの最優秀な僧侶十人を常設の教師として配置し、中国人学生のために特別にサンスクリット典籍の追加図書館を委託する。唐の皇帝に個人的な手紙を書き、パレンバンをインドへの旅をするすべての中国人仏教巡礼者にとって理想的な立ち寄り場所として勧める。",
+        "zh-CN": "不仅批准义净的请求，更进一步：以永久王室资助支持翻译中心，指派你最优秀的十位僧侣担任常驻教师，并特别为中国学生委托增建一座梵文典籍藏经楼。向唐朝皇帝亲笔写信，将巨港推荐为所有赴印度朝圣的中国佛教僧侣的理想停靠地。"
+      },
+      "outcome": {
+        "en": "Yijing's published account of Srivijaya is glowing — he describes it as the ideal center of Buddhist learning, second only to India itself. Within a decade, Chinese monks arrive at Palembang by the hundred. They bring gifts, patronage, and connections to Tang court culture. The Tang Emperor's court begins viewing Srivijaya as a friendly Buddhist kingdom deserving of diplomatic recognition. Trade and prestige multiply together.",
+        "ja": "義浄のシュリーヴィジャヤについての出版された記録は輝かしい——インドそのものに次ぐ仏教学習の理想的な中心として描写している。十年以内に、中国人僧侶が何百人とパレンバンに到着する。彼らは贈り物、庇護、そして唐の宮廷文化へのつながりをもたらす。唐の皇帝の宮廷がシュリーヴィジャヤを外交的承認に値する友好的な仏教王国と見なし始める。貿易と威信が共に倍増する。",
+        "zh-CN": "义净发表的关于室利佛逝的记述熠熠生辉——他将其描述为仅次于印度本土的理想佛教学习中心。不到十年，中国僧侣便接连不断地抵达巨港。他们带来礼物、赞助以及与唐朝宫廷文化的联系。唐朝皇帝朝廷开始将室利佛逝视为值得外交承认的友好佛教王国，贸易与声望共同倍增。"
+      },
+      "stateChanges": [
+        { "variable": "buddhistNetwork", "operation": "add", "value": 25 },
+        { "variable": "diplomaticPrestige", "operation": "add", "value": 25 },
+        { "variable": "tradeRevenue", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Grant manuscript access, decline the permanent center",
+        "ja": "写本へのアクセスは認めるが、恒久的センターは断る",
+        "zh-CN": "批准抄录典籍，但拒绝建立永久中心"
+      },
+      "description": {
+        "en": "Allow Yijing to copy whatever manuscripts he wishes — this costs you nothing and earns significant goodwill. But decline the permanent translation center: a large, permanent community of foreign monks would change the character of Palembang's religious institutions in ways you cannot fully control. Srivijaya's Buddhism should remain distinctly Srivijayan. Foreign students are welcome as guests, not residents.",
+        "ja": "義浄が望む写本を何でも写すことを許可する——これはあなたに何の費用もかからず、かなりの善意を得る。しかし恒久的な翻訳センターは断る：大規模な外国人僧侶の恒久的なコミュニティがパレンバンの宗教機関の性格を十分に制御できない方向に変えるだろう。シュリーヴィジャヤの仏教は明確にシュリーヴィジャヤらしいものであるべきだ。外国人学生は居住者ではなく客として歓迎される。",
+        "zh-CN": "允许义净抄录任何他希望得到的典籍——这对你分文不费，却能赢得极大的善意。但拒绝建立永久翻译中心：大规模长住的外国僧侣群体将以你无法完全掌控的方式改变巨港宗教机构的性质。室利佛逝的佛教应当保持鲜明的室利佛逝特色。外国学生作为宾客受到欢迎，而非常住居民。"
+      },
+      "outcome": {
+        "en": "Yijing's account is still positive but more measured — he praises Srivijaya as a good stopping point for pilgrims but notes that its institutions are not fully open to long-term international scholarly exchange. Palembang continues to attract visiting monks but does not become a major center. You have maintained local control but foregone the multiplier effect that deep Buddhist networking would have created.",
+        "ja": "義浄の記録はまだ肯定的だがより控えめだ——巡礼者にとっての良い立ち寄り場所としてシュリーヴィジャヤを称賛するが、その機関が長期的な国際学術交流に完全には開かれていないと指摘する。パレンバンは訪問する僧侶を引き続き引きつけるが、主要な中心地にはならない。地元の支配を維持したが、深い仏教ネットワークが生み出しただろう乗数効果を手放した。",
+        "zh-CN": "义净的记述仍然积极但更为克制——他称赞室利佛逝是朝圣者的良好停靠地，但指出其机构并未完全向长期国际学术交流开放。巨港继续吸引来访僧侣，但未能成为主要中心。你维护了本地掌控权，但放弃了深度佛教网络本可创造的乘数效应。"
+      },
+      "stateChanges": [
+        { "variable": "buddhistNetwork", "operation": "add", "value": 12 },
+        { "variable": "diplomaticPrestige", "operation": "add", "value": 10 },
+        { "variable": "straitControl", "operation": "add", "value": 8 }
+      ]
+    }
+  ]
+}

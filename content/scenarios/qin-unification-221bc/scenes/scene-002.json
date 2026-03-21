@@ -1,0 +1,113 @@
+{
+  "id": "qin-unification-221bc-scene-002",
+  "scenarioId": "qin-unification-221bc",
+  "title": {
+    "en": "The Standardization Edicts",
+    "ja": "統一令",
+    "zh-CN": "统一诏令"
+  },
+  "date": {
+    "en": "220 BC, Xianyang",
+    "ja": "紀元前220年、咸陽",
+    "zh-CN": "公元前220年，咸阳"
+  },
+  "location": {
+    "en": "The Imperial Court, Xianyang",
+    "ja": "咸陽の朝廷",
+    "zh-CN": "咸阳朝廷"
+  },
+  "narrativePrompt": {
+    "en": "A year has passed since the unification, and the practical reality of governing one empire from one center is making itself known in ways that no one fully anticipated. Dispatches arrive from the eastern commanderies describing chaos: merchants in Qi cannot read contracts written in Qin script; tax collectors in Chu are using measures that differ from those in Wei, making equitable tax assessment impossible; roads built to different axle widths mean that carts traveling from one region to another must change wheels at the border. The empire is nominally unified but practically fractured along a thousand administrative seams.\n\nLi Si has drafted the standardization edicts. They are comprehensive and, in his view, elegant in their simplicity: one script for all official documents, derived from Qin's small seal script; one set of weights and measures, based on Qin's existing standards; one axle width for all carts operating on the imperial road network; and one legal code, Qin's Legalist law, applied uniformly from the northern frontier to the southern provinces. The edicts are ready. The question is how to implement them.\n\nThe reports from the commanderies tell a consistent story: the former ruling classes of the conquered states see standardization not as administrative efficiency but as the erasure of their identity. Scholars trained in the Qi tradition of writing object that their script is not inferior, only different. Craftsmen who have built measuring instruments their entire lives resist the requirement to adopt new ones. Wealthy merchants who built their fortunes on the complexity of regional systems have no interest in a transparency that eliminates their advantages. Beneath the resistance of elites, there is also the simple friction of ordinary people asked to change habits they have held since childhood.\n\nYou must decide whether to enforce standardization immediately with the full weight of Qin law, or to allow a period of gradual transition that accepts slower unification in exchange for less disruption. Li Si's opinion is unequivocal: half-measures produce half-results, and every year of tolerance for regional variation is a year in which the former elites rebuild their local power bases.",
+    "ja": "統一から一年が経ち、一つの帝国を一つの中心から統治する現実が、誰も完全に予期しなかった形で姿を現している。東方の郡からの文書が混乱を描写して届いてくる：斉の商人たちは秦の文字で書かれた契約書が読めない；楚の徴税人は魏とは異なる度量衡を使っており、公平な課税評価が不可能になっている；異なる車軸幅で建設された道路は、一つの地域から別の地域へ移動する荷車が国境で車輪を交換しなければならないことを意味している。帝国は名目上統一されているが、実際には千の行政的縫い目に沿って分断されている。\n\n李斯は統一令の草案を作成した。彼の見解では、包括的でシンプルという点で優雅だ：すべての公式文書に一つの文字——秦の小篆から派生；一つの度量衡——秦の既存の基準に基づく；帝国の道路網で運行するすべての荷車に一つの車軸幅；そして一つの法典——秦の法家的法律、北方辺境から南方の省まで均一に適用される。詔書の準備ができている。問題はどのように実施するかだ。\n\n郡からの報告は一貫した話を伝えている：征服した諸国の旧支配階級は、標準化を行政的効率としてではなく、彼らのアイデンティティの消去として見ている。斉の書記伝統に訓練された学者たちは、自分たちの文字が劣っているのではなく、ただ異なるだけだと異議を唱える。一生をかけて測定器具を作ってきた職人たちは新しいものを採用する要件に抵抗する。地域システムの複雑さで財を成した裕福な商人たちは、自分たちの優位を排除する透明性に興味を持たない。エリートの抵抗の下には、幼少期から持ち続けた習慣を変えるよう求められる普通の人々の単純な摩擦もある。\n\nあなたは秦の法律の全力で直ちに統一を施行するか、それとも混乱を減らすためにより遅い統一を受け入れる段階的な移行期間を認めるかを決定しなければならない。李斯の意見は明確だ：中途半端な手段は中途半端な結果を生み、地域的差異に対する寛容の毎年は、旧エリートたちが地方の権力基盤を再構築する1年だ。",
+    "zh-CN": "统一以来已过一年，从单一中心治理一个帝国的现实以无人完全预料到的方式呈现出来。来自东方各郡的文书描述着混乱景象：齐地商人无法读懂以秦字书写的契约；楚地税吏使用的度量衡与魏地不同，使公平课税无从实施；以不同车轨宽度修建的道路意味着从一个地区前往另一个地区的货车必须在边境换轮。帝国名义上统一，实际上却沿着千条行政裂缝各自为政。\n\n李斯已起草统一诏令。这些诏令在他看来全面而简洁：所有官方文书使用一种文字——源自秦国小篆；一套度量衡——基于秦国现行标准；帝国道路网络上行驶的所有车辆使用统一车轨宽度；以及一部法典——秦国的法家律令，从北方边境到南方诸省统一施行。诏令已备妥，问题在于如何推行。\n\n各郡的报告讲述着一致的故事：被征服各国的旧统治阶层将标准化视为对其身份认同的抹除，而非行政效率的提升。受齐国文字传统训练的学者们争辩说自己的文字并不低劣，不过是有所不同。花了毕生精力制作量器的工匠们抗拒采用新标准的要求。依靠地区制度复杂性积累财富的富商们对消除其优势的透明化制度毫无兴趣。在精英阶层的抵制之下，还有普通百姓被要求改变自幼养成的习惯所产生的单纯阻力。\n\n你必须决定：是以秦法的全部力量立即强制推行统一，还是允许一段渐进过渡期，以较慢的统一换取较少的动荡。李斯的意见毫无保留：折中手段只能产生折中结果，而对地区差异每容忍一年，便是旧精英重建地方权力基础的一年。"
+  },
+  "situationReport": [
+    {
+      "en": "The empire currently operates with at least six different written scripts, multiple incompatible measurement systems, and road networks built to different standards, making efficient administration nearly impossible.",
+      "ja": "帝国は現在、少なくとも六種類の異なる文字、複数の互換性のない計測システム、そして異なる規格で建設された道路網で運営されており、効率的な行政がほぼ不可能になっている。",
+      "zh-CN": "帝国目前以至少六种不同文字、多套互不兼容的度量衡系统和以不同规格修建的道路网络运作，使高效行政几乎无从实现。"
+    },
+    {
+      "en": "Former ruling classes in the conquered states resist standardization as an act of cultural suppression. Scholars, craftsmen, and merchants all have material interests in maintaining regional differences.",
+      "ja": "征服した諸国の旧支配階級は、標準化を文化的抑圧の行為として抵抗している。学者・職人・商人はすべて地域的差異を維持することに物質的利益を持っている。",
+      "zh-CN": "被征服各国的旧统治阶层将标准化视为文化压制之举加以抵制。学者、工匠和商人在维持地区差异上各有切身利益。"
+    },
+    {
+      "en": "Li Si argues that delay allows resistance to crystallize and former elites to rebuild local influence networks; rapid enforcement is painful but ensures compliance before opposition can organize.",
+      "ja": "李斯は遅延が抵抗を固化させ旧エリートが地方の影響力ネットワークを再構築することを可能にすると主張する；迅速な施行は苦痛だが、反対派が組織化する前に服従を確保する。",
+      "zh-CN": "李斯主张拖延会使抵制凝固，令旧精英重建地方影响力网络；迅速施行虽然痛苦，但能在反对派组织起来之前确保服从。"
+    },
+    {
+      "en": "Moderate advisors suggest a ten-year transition period: educate officials and merchants in the new standards, phase out old systems gradually, and use incentives rather than penalties to drive adoption.",
+      "ja": "穏健な顧問たちは10年の移行期間を提案する：官僚と商人を新しい基準で教育し、旧制度を段階的に廃止し、採用を促進するためにペナルティではなくインセンティブを使用する。",
+      "zh-CN": "温和的幕僚建议设立十年过渡期：教导官员和商人掌握新标准，逐步淘汰旧制度，以激励而非惩处推动推行。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Achieve genuine administrative standardization across the empire so that governance, taxation, and commerce operate on a single coherent system",
+      "ja": "統治・課税・商業が一つの首尾一貫したシステムで機能するよう、帝国全体で真の行政標準化を達成する",
+      "zh-CN": "实现帝国全境真正的行政标准化，使治理、税收与商业运行于单一连贯的体系之上"
+    },
+    {
+      "en": "Manage resistance from former ruling classes without triggering a coordinated revolt that could destabilize the newly unified empire",
+      "ja": "新たに統一された帝国を不安定化させる可能性のある協調的な反乱を引き起こすことなく、旧支配階級からの抵抗を管理する",
+      "zh-CN": "管控来自旧统治阶层的抵制，同时不引发可能动摇新统一帝国的协调性叛乱"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Qin enforcement apparatus — officials, inspectors, and soldiers — is stretched thin across a vast empire; punishing every violation everywhere simultaneously is not feasible",
+      "ja": "秦の執行機構——官僚・監察官・兵士——は広大な帝国全体に薄く広がっている；あらゆる場所ですべての違反を同時に罰することは実行不可能だ",
+      "zh-CN": "秦的执法机构——官员、督察与士卒——分散于广袤帝国各处已是捉襟见肘；同时惩处每处每一项违反并不可行"
+    },
+    {
+      "en": "Brutal enforcement may suppress overt resistance while intensifying hidden resentment — the empire is too new and too large to absorb a massive popular revolt",
+      "ja": "残酷な施行は表面上の抵抗を抑制するかもしれないが、隠れた怨恨を強化する——帝国は大規模な民衆反乱を吸収するには新しすぎ、大きすぎる",
+      "zh-CN": "残酷的执法可能压制公开的抵制，同时却强化潜藏的怨恨——帝国太新太大，难以承受大规模民众叛乱"
+    }
+  ],
+  "choices": [
+    {
+      "id": "qin-unification-221bc-scene-002-choice-a",
+      "text": {
+        "en": "Enforce standardization immediately with harsh penalties: non-compliance is treated as defiance of imperial law, inspectors are empowered to punish violators, and the transition is enforced within two years",
+        "ja": "厳罰をもって直ちに標準化を施行する：不服従は皇帝の法律への反抗として扱われ、監察官が違反者を罰する権限を与えられ、移行は2年以内に施行される",
+        "zh-CN": "以严酷惩处立即强制推行标准化：不服从被视为对帝国法律的抗拒，督察官被授权惩处违者，过渡期在两年内强制完成"
+      },
+      "historicalContext": "Qin Shi Huangdi enforced standardization rapidly and harshly. The reforms succeeded in creating a unified administrative framework but generated enormous resentment that contributed to the dynasty's rapid collapse after his death.",
+      "outcomePrompt": {
+        "en": "The edicts go out under the imperial seal, and within weeks the inspectors are at work. The first reports are of merchants fined for using non-standard measures, of scholars whose books written in regional scripts are confiscated, of craftsmen compelled to destroy instruments they have used for generations. There is weeping in the markets of Qi and anger in the workshops of Chu. There is also, within eighteen months, a measurable degree of compliance: Qin script is appearing in the documents of the eastern commanderies; the new measures are being used in the markets, if not always accurately; the roads are being rebuilt.\n\nThe standardization works. The empire becomes genuinely more governable, more taxable, more communicable. But the resentment is not governed away — it goes underground, accumulates in the households of former nobles and the schools of former scholars, and waits. You have built the framework of an empire. Whether the framework can survive without the man who built it is a question that will only be answered in the years after your death.",
+        "ja": "詔書が皇帝の印をもって発せられ、数週間以内に監察官が活動を開始する。最初の報告は、非標準的な度量衡を使用した商人への罰金、地方の文字で書かれた書物が没収された学者、世代にわたって使用してきた器具を破壊することを強いられた職人のものだ。斉の市場では泣き声があり、楚の工房では怒りがある。しかし18カ月以内に、測定可能な程度の服従もある：秦の文字が東方の郡の文書に現れている；新しい度量衡が市場で使われている、常に正確ではなくとも；道路が再建されている。\n\n標準化は機能する。帝国はより統治可能に、より課税可能に、より伝達可能になる。しかし怨恨は統治されない——それは地下に潜り、旧貴族の家庭と旧学者の学校に蓄積し、待つ。あなたは帝国の枠組みを構築した。その枠組みがそれを構築した男なしに生き残れるかどうかは、あなたの死後の年月にのみ答えられる問いだ。",
+        "zh-CN": "诏令加盖皇帝印玺颁发，数周之内督察官便已上任。最初的报告是：商人因使用非标准度量衡而被罚款，学者用地方文字书写的典籍遭到没收，工匠被迫销毁沿用了数代的器具。齐地市场中有哭声，楚地作坊中有怒火。但在十八个月内，也出现了可以衡量程度的服从：秦字开始出现在东方各郡的文书中；新度量衡正在市场中被使用，尽管并非总是准确；道路正在重建之中。\n\n标准化发挥了效用。帝国变得切实上更易治理、更易课税、更易沟通。但怨恨并未被治理消除——它转入地下，积聚于旧贵族的家庭和旧学者的学堂之中，静静等待。你构建了帝国的框架。这个框架在没有构建它的人的情况下能否存续，只有在你身后的岁月中才能得到答案。"
+      },
+      "nextSceneId": "qin-unification-221bc-scene-003",
+      "stateChanges": [
+        { "variable": "administrativeOrder", "operation": "add", "value": 30 },
+        { "variable": "popularSupport", "operation": "add", "value": -20 },
+        { "variable": "nobilityLoyalty", "operation": "add", "value": -15 }
+      ]
+    },
+    {
+      "id": "qin-unification-221bc-scene-002-choice-b",
+      "text": {
+        "en": "Adopt gradual voluntary standardization with incentives: offer tax reductions and trade privileges for early adopters, educate a generation of officials in the new standards, and set a ten-year implementation timeline",
+        "ja": "インセンティブをもった段階的な自発的標準化を採用する：早期採用者に税の軽減と貿易特権を提供し、新しい基準で官僚の世代を教育し、10年の実施タイムラインを設定する",
+        "zh-CN": "采取附有激励措施的渐进式自愿标准化：为早期采用者提供减税和贸易特权，以新标准培训一代官员，并设定十年推行时限"
+      },
+      "historicalContext": "This path was not taken historically. Gradual adoption might have reduced resentment but would have delayed genuine unification and given regional elites more time to entrench their positions.",
+      "outcomePrompt": {
+        "en": "The edicts go out with a different character than Li Si would have preferred: standards are set, but adoption is incentivized rather than compelled. Merchants who register with the new measurement system receive a reduction in transit taxes. Officials who demonstrate proficiency in the standard script are promoted faster. Communities that adopt the new road standards receive imperial road-building support. In the markets of Qi, you can see the calculation working: within three years, Qin script is the language of commerce because it is the language of the customs officials.\n\nLi Si is not entirely satisfied. He points out, correctly, that the old elite networks are using the transition period to maintain their positions, and that in some commanderies the local former noble families are positioning themselves as brokers of the new system rather than being replaced by it. His warning is not wrong. But the empire is calmer than it would have been under immediate enforcement, and calm is itself a resource. The standardization will take longer. Whether it will last longer is a question that depends on what comes next.",
+        "ja": "詔書は李斯が好んだであろうとは異なる性格をもって発せられる：基準は設定されるが、採用は強制ではなくインセンティブによって促される。新しい計測システムに登録する商人は通過税の軽減を受ける。標準文字の習熟を示す官僚はより早く昇進する。新しい道路基準を採用するコミュニティは帝国の道路建設支援を受ける。斉の市場では、計算が働いているのが見える：3年以内に秦の文字が商業の言語になっている、なぜならそれが税関官僚の言語だからだ。\n\n李斯は完全には満足していない。彼は正しく指摘する：旧エリートネットワークが移行期間を使って自分たちの地位を維持しており、いくつかの郡では地方の旧貴族家族が新しいシステムに取って代わられるのではなく、新しいシステムのブローカーとして自らを位置づけているということを。彼の警告は間違っていない。しかし帝国は即時施行の下でのものよりも穏やかで、穏やかさそのものが資源だ。標準化にはより時間がかかるだろう。それがより長く続くかどうかは、次に何が来るかにかかっている問いだ。",
+        "zh-CN": "诏令以与李斯所愿有所不同的方式颁发：标准既立，采纳则以激励而非强制为主。登记使用新度量衡的商人获得过境税减免；展示出标准文字熟练度的官员晋升更快；采纳新道路标准的社区获得帝国道路修建支持。在齐地市场上，可以看到这种算计在起作用：三年内，秦字成为商业语言，因为那是关税官员使用的语言。\n\n李斯并不完全满意。他正确地指出：旧精英网络正在利用过渡期维持其地位，在一些郡中，地方旧贵族家族正将自己定位为新制度的掮客，而非被其取代。他的警告并非没有道理。但帝国比立即强制执行的情况下要平稳得多，而平稳本身就是一种资源。标准化将花费更长的时间。它能否持续更久，则取决于接下来发生的事情。"
+      },
+      "nextSceneId": "qin-unification-221bc-scene-003",
+      "stateChanges": [
+        { "variable": "popularSupport", "operation": "add", "value": 15 },
+        { "variable": "nobilityLoyalty", "operation": "add", "value": 10 },
+        { "variable": "administrativeOrder", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

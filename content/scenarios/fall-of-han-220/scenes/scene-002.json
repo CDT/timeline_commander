@@ -1,0 +1,110 @@
+{
+  "id": "fall-of-han-220-scene-002",
+  "scenarioId": "fall-of-han-220",
+  "title": {
+    "en": "Terms of the Surrender",
+    "ja": "禅位の条件",
+    "zh-CN": "禅让条件"
+  },
+  "date": {
+    "en": "November 220 AD, Xu, the Day Before the Abdication Ceremony",
+    "ja": "220年11月、許都、禅位式典前日",
+    "zh-CN": "公元220年11月，许都，禅位典礼前一日"
+  },
+  "location": {
+    "en": "The Imperial Residence, Xu",
+    "ja": "許都の皇帝御所",
+    "zh-CN": "许都皇帝寝宫"
+  },
+  "narrativePrompt": {
+    "en": "Tomorrow is the ceremony. The last ceremony of the Han dynasty, which will be the first ceremony of whatever follows — the Wei dynasty, as it will be called in the histories, though right now it is still a transitional moment and the proper noun has not entirely settled into place.\n\nToday, Cao Pi's officials have come to discuss the arrangements. They call it discussing the arrangements. What they are actually doing is informing you of the arrangements, with a thin veneer of consultation that no one in the room entirely believes in. But there is room within these conversations for certain things to be said that carry weight — requests that will be honored because honoring them costs nothing and builds a useful fiction of generosity, and requests that will be refused because they threaten something Cao Pi needs.\n\nYou have thought carefully about what to ask for. Twenty-four years of watching power operate at close range, even as a puppet, has taught you its grammar — what can be requested, what will seem like too much, what will be ignored, what will produce alarm in the men across the table. You are not powerless in this negotiation even though you have no power. You have the ceremony itself, which Cao Pi needs to proceed with dignity, and you have the history of how this day will be recorded, which men in positions of power always care about more than they admit.\n\nThere are two categories of things you can ask for: protections and gestures. Protections are practical: safe conduct for loyal officials, the preservation of Han ritual sites, the continuation of memorial rites at the ancestral temples, certain assurances about your own household. Gestures are symbolic: the form in which you address the abdication edict, what title you will be given, how the ceremony will be conducted, which words will be said.\n\nThe practical question is whether to spend your limited negotiating capital on protections for others or on symbolic gestures that affirm Han dignity. Protections may save lives. Gestures will shape how history tells this story. You cannot easily have both.\n\nThe Cao Pi officials sit across from you with the polished patience of men who have already decided what the answers will be and are waiting for you to arrive at the same answers through the process of asking. You study their faces. You have had thirty years of practice at this.",
+    "ja": "明日が式典だ。漢王朝の最後の式典であり、続くもの——歴史では魏王朝と呼ばれるものの——の最初の式典になる。もっとも今はまだ過渡的な瞬間で、固有名詞は完全には定まっていない。\n\n今日、曹丕の官員たちが段取りについて話し合うために来た。彼らはそれを段取りの話し合いと呼ぶ。実際には、部屋の誰も完全には信じていない薄い協議の見せかけをまとって、あなたに段取りを伝えているのだ。しかしこれらの会話の中には、重みを持つ特定の事柄を言える余地がある——何も費やさずにそれを認めることが有用な寛大さという虚構を構築するために認められる要求、そして曹丕が必要とするものを脅かすために断られる要求。\n\nあなたは何を求めるかを注意深く考えてきた。操り人形としてでも、権力が間近で機能するのを24年間見てきたことで、その文法を教わった——何が要求できるか、何が多すぎるように見えるか、何が無視されるか、何がテーブルの向こうの男たちに警戒を生じさせるか。権力がないにもかかわらず、この交渉では無力ではない。あなたには式典そのものがあり——曹丕はそれを威厳をもって進める必要がある——そしてこの日が記録される方法についての歴史がある。権力の座にある男たちは認めるより常にこれをより気にかけている。\n\n求めることができるものの二つのカテゴリーがある：保護とジェスチャーだ。保護は実際的なものだ：忠実な官員への安全の保証、漢の儀礼的な場所の保全、先祖の廟での追悼の儀式の継続、自分の世帯についてのある種の保証。ジェスチャーは象徴的なものだ：禅位詔書に向き合う形式、与えられる称号、式典がどのように行われるか、どの言葉が言われるか。\n\n実際的な問いは、限られた交渉の資本を、他者への保護か漢の威厳を確認する象徴的なジェスチャーかのどちらに使うかだ。保護は命を救うかもしれない。ジェスチャーは歴史がこの物語をどう語るかを形成する。簡単には両方を持てない。\n\n曹丕の官員たちはあなたの向かいに、答えが何になるかをすでに決めていて、あなたが同じ答えに質問のプロセスを通じて到達するのを待っている男たちの磨かれた忍耐をもって座っている。彼らの顔を研究する。あなたにはこれの30年の練習がある。",
+    "zh-CN": "明天就是典礼。汉朝的最后一次典礼，也将是接下来的事物的第一次典礼——历史上称之为魏朝，尽管此刻仍处于过渡的时刻，这个专名尚未完全落定。\n\n今日，曹丕的官员们来商议安排。他们称之为商议安排。实际上是在向你通报安排，包裹着一层室内无人完全相信的薄薄磋商之皮。但这些对话中仍有说出某些有分量之话的余地——因认可无损己方且有助于构建慷慨大度这一有用假象而会被接受的请求，以及因威胁到曹丕所需之物而将被拒绝的请求。\n\n你已认真思考了该提出什么要求。即便身为傀儡，二十四年近距离观察权力运作，教会了你它的语法——什么可以要求，什么会显得过分，什么会被忽视，什么会令对桌的人产生警惕。你在这场谈判中并非毫无力量，尽管你没有权力。你手上有典礼本身——曹丕需要它有尊严地进行——还有这一天将如何被记录的历史，处于权力位置上的人对此的在意，始终超过他们所承认的。\n\n你能要求的事物分两类：保护与姿态。保护是实际的：忠诚官员的人身安全保障，汉朝礼仪圣地的保全，宗庙追祭的延续，某些关于你自己家眷的承诺。姿态是象征性的：你就禅位诏书表态的形式，你将被授予的称号，典礼的仪制，将宣读哪些措辞。\n\n实际的问题是，你有限的谈判资本该花在保护他人上，还是用于彰显汉室尊严的象征性姿态上。保护或许能救人性命，姿态则将塑造历史述说这段往事的方式。二者兼得不易。\n\n曹丕的官员们就坐在你对面，带着早已决定了答案、只是等你通过提问过程自行得出同样答案的那种老练的耐心。你打量着他们的神情。这件事你已练习了三十年。"
+  },
+  "situationReport": [
+    {
+      "en": "The abdication is proceeding regardless — the only remaining question is the terms and the manner of the transition.",
+      "ja": "禅位はいかなる場合も進む——残る問いは条件と移行の方法だけだ。",
+      "zh-CN": "禅位已无论如何都将进行——剩下的问题只是条件与过渡的方式。"
+    },
+    {
+      "en": "Several genuinely loyal Han officials are at risk of reprisals from Cao Pi's supporters once the transition is complete. A specific guarantee of their safety could be extracted now.",
+      "ja": "移行完成後、曹丕の支持者からの報復のリスクにさらされている真に忠実な漢の官員が何人かいる。今、彼らの安全の具体的な保証を引き出すことができるかもしれない。",
+      "zh-CN": "过渡完成后，数位真正忠诚于汉室的官员面临曹丕支持者的打击报复风险。现在或许可以争取到对他们安全的具体承诺。"
+    },
+    {
+      "en": "The form of the abdication edict — who drafts it, what language it uses, how it characterizes the transfer — will be the primary historical document describing this moment for future generations.",
+      "ja": "禅位詔書の形式——誰が起草するか、どの言葉を使うか、移転をどのように特徴付けるか——が、この瞬間を将来の世代のために描写する主要な歴史的文書になる。",
+      "zh-CN": "禅位诏书的形式——由谁起草、使用何种措辞、如何描述这次权力移交——将成为向后世描述这一历史时刻的主要文献。"
+    },
+    {
+      "en": "Cao Pi has indicated willingness to grant the former emperor the title of Duke of Shanyang, preserve Han ritual practices in that domain, and allow him to use Han imperial rites in private ceremony — these are already conceded as part of the base offer.",
+      "ja": "曹丕は元皇帝に山陽公の称号を与え、その領地での漢の儀礼を保全し、私的な儀式での漢の皇帝礼式の使用を許可する意向を示している——これらはすでに基本提案の一部として認められている。",
+      "zh-CN": "曹丕已表示愿意赐前皇帝山阳公称号，在其领地内保留汉朝礼仪，并允许他在私人场合使用汉朝皇帝礼仪——这些已作为基本条件的一部分让步。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Extract the most valuable concessions possible from the transition negotiations before the ceremony makes further negotiation impossible",
+      "ja": "式典が交渉をさらに不可能にする前に、移行交渉から可能な限り最も価値ある譲歩を引き出す",
+      "zh-CN": "在典礼使进一步谈判成为不可能之前，从过渡谈判中争取尽可能有价值的让步"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Demanding too much risks Cao Pi deciding the ritual courtesies are unnecessary — the threat of simply seizing power without ceremony is real",
+      "ja": "要求が多すぎると、曹丕が儀礼的な礼儀が不必要だと判断するリスクがある——儀式なしに単純に権力を奪うという脅威は現実だ",
+      "zh-CN": "要求过多，有曹丕认定礼仪性的客套已属多余的风险——不经典礼直接夺权的威胁是真实存在的"
+    },
+    {
+      "en": "Whatever is agreed today will be binding on both sides — the concessions you win now are the only protections that will exist after the ceremony",
+      "ja": "今日合意されたものは双方を拘束する——今勝ち取る譲歩が式典後に存在する唯一の保護となる",
+      "zh-CN": "今日达成的任何协议对双方都具有约束力——你现在赢得的让步是典礼结束后仅有的保障"
+    }
+  ],
+  "choices": [
+    {
+      "id": "fall-of-han-220-scene-002-choice-a",
+      "text": {
+        "en": "Prioritize protections for loyal officials — demand specific named guarantees of safety for the Han courtiers who face the most danger after the transition",
+        "ja": "忠実な官員への保護を優先する——移行後に最も危険にさらされる漢の廷臣のために、特定の名指しによる安全の保証を要求する",
+        "zh-CN": "优先保护忠诚官员——要求对过渡后面临最大危险的汉廷臣子提供具体点名的安全保证"
+      },
+      "historicalContext": "A focus on practical protections rather than symbolic gestures, prioritizing the lives of those who served the Han dynasty over the form of the historical record.",
+      "outcomePrompt": {
+        "en": "You give them the names. You have prepared the list carefully — the officials whose loyalty to Han was genuine and visible, who made no secret of their sympathies, who would be the first targets of anyone settling scores after the transition. Seven names, each one a man whose household you know, whose children you have seen at court ceremonies.\n\nThe officials across from you write the names down. They confer briefly in low voices. Then they agree: these men will not be prosecuted for their Han loyalties; their current positions will be maintained or compensated; their families will not be disturbed. The agreement is reached with less negotiation than you expected — either the names are not particularly threatening to Cao Pi's interests, or this display of generosity costs him little and gains him much in the way of appearing magnanimous.\n\nYou spend your remaining capital on minor ceremonial points — the specific language of the edict, the order of the ceremony, a small number of symbolic gestures that will matter to the historical record even if they matter to no one alive. These are granted or half-granted with the efficiency of people who have decided what the overall shape of the day will be and are willing to negotiate the details.\n\nWhen the officials leave, you sit with the list of seven names and the knowledge that they will most likely be safe. Whether this is the most important thing you have done in thirty years of nominal emperorship is something you find yourself unable to determine.",
+        "ja": "あなたは名前を告げる。リストを注意深く準備してきた——漢への忠誠が本物で目に見えていた官員、同情心を隠さなかった者、移行後に清算をする誰かにとって最初の標的になる者たち。七人の名前、それぞれ世帯を知っている男、朝廷の儀式で子供たちを見た男たちだ。\n\n向かいの官員たちが名前を書き留める。低い声でしばらく協議する。そして同意する：これらの人々は漢への忠誠のために訴追されない；現在の地位は維持または補償される；家族は妨害されない。合意は予想より少ない交渉で達成される——名前が特に曹丕の利益を脅かしていないか、あるいはこの寛大さの演示が彼にほとんど費やさず、寛大に見えることで多くを得るかのどちらかだ。\n\n残りの資本を小さな儀礼的な点——詔書の特定の言葉、式典の順序、生きている誰にも重要でなくても歴史的な記録には重要な少数の象徴的なジェスチャー——に費やす。これらは一日の全体的な形を何にするかを決めていて細部を交渉する意思のある人々の効率性で認められるか半認められる。\n\n官員たちが去るとき、あなたは七人の名前のリストと彼らがほぼ安全であるという知識を持って座る。これが皇帝の称号を持った30年間で最も重要なことをしたかどうかは、決定できないと気づく。",
+        "zh-CN": "你报出了名字。这份名单是你精心备好的——对汉室的忠诚真实而显眼的官员，从不掩饰立场者，过渡后任何人清算旧账都会最先针对的那些人。七个名字，每一个都是你知晓其家眷、在朝廷典礼上见过其儿女的人。\n\n对面的官员们将名字一一记录，随即低声短暂商量。然后他们同意：这些人不会因其对汉室的忠诚而被追究；他们现有职位将予以保留或给予补偿；他们的家眷不会受到骚扰。这项协议达成得比你预期的波折更少——要么这些名字对曹丕的利益威胁不大，要么这番慷慨大方对他代价甚微而声誉甚丰。\n\n你将剩余的筹码用在了小处的礼仪细节上——诏书的特定措辞、典礼的程序顺序、少数几项象征性姿态，即便对活着的人无关紧要，对历史记录仍有意义。这些在那些已决定了大局、只是在细节上谈的人的从容效率下，获批或半获批。\n\n官员们离去时，你拿着那七个名字的单子坐着，知晓他们很可能得以平安。这是否是你名义上做了三十年皇帝所做过的最重要的事，你发现自己无从判断。"
+      },
+      "nextSceneId": "fall-of-han-220-scene-003",
+      "stateChanges": [
+        { "variable": "loyalCourtiers", "operation": "add", "value": 20 },
+        { "variable": "personalsafety", "operation": "add", "value": 5 },
+        { "variable": "imperialDignity", "operation": "add", "value": 5 },
+        { "variable": "hanLegacy", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "fall-of-han-220-scene-002-choice-b",
+      "text": {
+        "en": "Prioritize the historical record — insist on specific language in the abdication edict that frames this as a voluntary gift rather than a conquest, and negotiate the symbolic terms that will define how this day is remembered",
+        "ja": "歴史的記録を優先する——禅位詔書においてこれを征服ではなく自発的な贈り物として構成する特定の言葉を主張し、この日がどのように記憶されるかを定義する象徴的な条件を交渉する",
+        "zh-CN": "优先考虑历史记录——坚持禅位诏书中的特定措辞，将其定性为自愿的馈赠而非征服，并就将界定这一天如何被铭记的象征性条件展开谈判"
+      },
+      "historicalContext": "A focus on legacy and the historical narrative rather than practical protections — gambling that a clear historical record of legitimate transfer will have long-term value, even if it does nothing for the people at risk in the short term.",
+      "outcomePrompt": {
+        "en": "You spend three hours on the edict language. By the end, it is something you can live with — not the document you would have written freely, but a document that says, clearly enough for history to read, that the Han dynasty ended by the choice of its last emperor rather than by usurpation. The specific phrases you argued for are small — a different choice of character here, a different emphasis there — but they will matter to the scholars who study this document in centuries to come, and you know it.\n\nYou also negotiate the title. Duke of Shanyang is acceptable. The specific rights attaching to the dukedom — the continuation of Han ritual calendar, the right to use the ancestral forms of address, the preservation of the Han ceremonial regalia in your territory — are specified in the agreement with enough precision that they will be difficult to revoke without obvious bad faith.\n\nWhat you did not spend your capital on: the specific officials who most needed protection. Some of them will be fine regardless — Cao Pi is not unreasonable, and visible persecution of former Han loyalists would be bad politics. Others will not be fine. Whether the language of the historical record is worth the risk you took with their safety is a question that will be answered over the next several years as the new regime settles into its patterns.\n\nTomorrow, when you speak the words that end the Han dynasty, they will at least be words worth speaking.",
+        "ja": "詔書の言葉に三時間を費やす。最終的には受け入れられるものになる——自由に書いたであろう文書ではないが、漢王朝が簒奪によってではなく最後の皇帝の選択によって終わったと、歴史が十分に読めるほど明確に言う文書だ。あなたが主張した特定の表現は小さなものだ——ここで異なる文字の選択、あそこで異なる強調——しかしそれらは何世紀か後にこの文書を研究する学者たちに重要であり、あなたはそれを知っている。\n\nまた称号を交渉する。山陽公は受け入れられる。侯爵位に付随する特定の権利——漢の儀礼暦の継続、先祖の呼称形式を使う権利、あなたの領地での漢の儀礼用品の保全——は、明らかな誠実さなしに撤回することが困難なほど精確に合意に明示されている。\n\nあなたが資本を費やさなかったもの：最も保護を必要としていた特定の官員たち。彼らの中には関係なく大丈夫な者もいる——曹丕は道理に合わない人物ではなく、元漢忠誠者の目に見える迫害は政治的に悪い。他の者はそうでない。歴史的記録の言葉が彼らの安全に対して取ったリスクに値するかどうかは、新体制がそのパターンに落ち着く今後数年で答えられる問いだ。\n\n明日、漢王朝を終わらせる言葉を語るとき、少なくともそれは語る価値のある言葉になる。",
+        "zh-CN": "你在诏书的措辞上花了三个时辰。最终得到的是你能够接受的东西——不是你自由撰写时会写出的文件，但它足够清晰地告诉历史：汉朝的终结，是最后一位皇帝的主动选择，而非篡夺。你力争到的那些特定表达都是细微之处——这里换一个字，那里换一种强调——但它们将在数百年后研究这份文件的学者眼中举足轻重，你深知这一点。\n\n你还谈判了封号。山阳公是可以接受的。这一爵位所附带的具体权利——延续汉朝礼仪历法、使用先祖称谓方式、在你的领地内保存汉朝礼器——在协议中被写得足够精确，以至于若无明显背信就难以撤销。\n\n你没有将筹码花在的事情上：那些最需要保护的具体官员。他们中的一些人无论如何都不会有事——曹丕并非不讲道理的人，公然迫害前汉忠臣在政治上会是败笔。其他人就未必了。历史记录的措辞是否值得你为他们安全所冒的风险，将在新政权在今后数年里稳固其运作模式的过程中得到回答。\n\n明天，当你说出终结汉朝的话语时，那些话至少将是值得说出口的话。"
+      },
+      "nextSceneId": "fall-of-han-220-scene-003",
+      "stateChanges": [
+        { "variable": "hanLegacy", "operation": "add", "value": 20 },
+        { "variable": "imperialDignity", "operation": "add", "value": 15 },
+        { "variable": "loyalCourtiers", "operation": "add", "value": -5 },
+        { "variable": "personalsafety", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,113 @@
+{
+  "id": "fall-of-qin-207bc-scene-002",
+  "scenarioId": "fall-of-qin-207bc",
+  "title": {
+    "en": "The Allied Commanders",
+    "ja": "連合軍の指揮官たち",
+    "zh-CN": "诸路联军统帅"
+  },
+  "date": {
+    "en": "207 BC, Julu, Hebei, After the Victory",
+    "ja": "紀元前207年、河北・鉅鹿、勝利の後",
+    "zh-CN": "公元前207年，河北鉅鹿，大捷之后"
+  },
+  "location": {
+    "en": "Xiang Yu's Command Tent, Julu",
+    "ja": "鉅鹿の項羽の指揮天幕",
+    "zh-CN": "鉅鹿项羽指挥大帐"
+  },
+  "narrativePrompt": {
+    "en": "Your tent is not a large one. You have never been a man who required magnificence in the field — you are yourself the magnificence, and the others know it. This is why the sight before you, as your guard opens the tent flap and the commanders of the rebel coalition enter one after another, has the quality of something that was always going to happen, that simply required the right moment to become real.\n\nThey come in on their knees. Not symbolically, not as a gesture — literally, on their knees, crawling across the ground of your tent. Each man commanding thousands of soldiers, each man a prince or a general of the former states, each man a figure who in the chaos of the last two years has accumulated his own following and his own territory and his own sense of consequence. They are crawling because they were there while you fought, and they know it, and they know that you know it. The shame is written on their faces with the clarity of a brush stroke.\n\nYou look at them and you feel the satisfaction of a man who has done what he said he would do, and who is now being acknowledged for it in the most direct terms. But you also feel something else — a question that has no certain answer. These men are kneeling to you now because you have just performed a military miracle. The question is what they will do in six months, or a year, or three years, when the memory of Julu is less fresh and the distribution of the post-Qin world is the subject of negotiation rather than celebration.\n\nHow you receive them now will set the precedent for what your coalition is. Are you the first among equals, a war leader who will share power in the peace that follows? Or are you the supreme commander, the hegemon, the man whose authority the others acknowledge not as allies but as subordinates? The choice is not merely one of style — it determines whether you build a system of shared power or a system of hierarchy. Each has its logic, and each has its price.",
+    "ja": "あなたの天幕は大きくない。あなたは野営地で壮麗さを必要とする男ではない——壮麗さはあなた自身であり、他の者たちもそれを知っている。だからこそ、警護員が天幕の入口を開け、反乱連合軍の指揮官たちが次々と入ってくるのを目の前にした光景が、常にそうなるはずだったものが、単に現実になるための正しい瞬間を必要としていただけのものという性質を持っている。\n\n彼らはひざまずいて入ってくる。象徴的にでも、身振りとしてでもなく——文字通り、ひざまずいて、あなたの天幕の地面を這いながら。それぞれが何千もの兵士を指揮する男、それぞれが旧諸国の王子か将軍、それぞれが過去2年間の混乱の中で自らの追随者・領土・重要感を蓄積した人物だ。彼らは這っている、なぜならあなたが戦っている間彼らはそこにいたから、そして彼らはそれを知っていて、あなたが知っていることも知っている。恥は彼らの顔に筆触の明晰さで書かれている。\n\nあなたは彼らを見て、自分が言ったことをやった男の満足感を感じる。そして今最も直接的な言葉で認められている。しかしあなたはまた別の何かも感じる——確実な答えのない問いを。これらの男たちは今あなたの前にひざまずいている、なぜならあなたはちょうど軍事的な奇跡を成し遂げたからだ。問いは、鉅鹿の記憶が薄れ秦後の世界の分配が祝賀ではなく交渉の対象になる6ヶ月後、1年後、3年後に彼らが何をするかだ。\n\nあなたが今彼らを受け入れる方法が、あなたの連合が何であるかの先例を設定する。あなたは同輩の中の首席で、続く平和で権力を分かち合う戦争指導者か？それとも至高の指揮官、覇者、他の者たちが同盟国としてではなく部下として権威を認める男か？選択はスタイルの問題だけではない——それはあなたが共有権力のシステムを構築するか、階層のシステムを構築するかを決定する。それぞれに論理があり、それぞれに代償がある。",
+    "zh-CN": "你的帐篷并不宽大。你从来不是那种在军中需要威仪铺陈的人——你自身便是那份威仪，旁人皆知此理。正因如此，眼前这一幕——警卫掀开帐帘，反秦联军诸将一个接一个走入——带有一种命中注定的质感，仿佛本就该如此，只是需要等待一个正确的时刻变为现实。\n\n他们跪行而入。不是象征性的，不是一个姿态——而是字面意义上的，跪在地上，爬过你帐篷的地面。每个人都统率着数千兵卒，每个人都是旧诸国的王公或将领，每个人都是在过去两年的混乱中积累了自己的追随者、领地与威望的人物。他们在爬，因为你战斗时他们就在那里袖手旁观，他们知道这一点，他们也知道你知道这一点。羞耻刻在他们的脸上，清晰如一笔墨迹。\n\n你看着他们，感受到一个实现了自己诺言的人的满足，此刻正以最直接的方式得到认可。但你同时感受到另一种东西——一个没有确切答案的问题。这些人如今跪在你面前，是因为你刚刚创造了一个军事奇迹。问题在于，六个月后、一年后、三年后，当鉅鹿的记忆不再鲜活，后秦世界的分配从庆典转为谈判之时，他们将会如何？\n\n你现在接纳他们的方式将为你的联盟是什么设立先例。你是同侪之首、一位将在随后的和平中分享权力的战争领袖？还是最高统帅、霸主、他人以部属而非盟友身份承认其权威的那个人？这个选择不仅仅是风格问题——它决定着你构建的是共享权力的体系，还是等级森严的体系。两者各有其逻辑，各有其代价。"
+  },
+  "situationReport": [
+    {
+      "en": "All rebel commanders in the Julu theater have come to submit following the Qin relief army's defeat. Their armies total several hundred thousand soldiers — together they represent an overwhelming force against any remaining Qin opposition.",
+      "ja": "鉅鹿での秦援軍の敗北に続いて、この戦域のすべての反乱軍指揮官が服するために来ている。彼らの軍は合計数十万の兵士——合わせて残存する秦の抵抗に対する圧倒的な力を表す。",
+      "zh-CN": "鉅鹿战场上秦国援军兵败之后，该战区所有反秦诸将前来臣服。他们的军队合计达数十万兵力——联合起来对任何残余秦国抵抗力量都是压倒性的优势。"
+    },
+    {
+      "en": "Zhang Han remains in the field with his main army, technically undefeated, though his position is deteriorating as Qin court politics paralyze any reinforcement effort.",
+      "ja": "章邯は主力軍とともに依然として戦地にいる。技術的には未敗北だが、秦の朝廷政治がいかなる援軍努力も麻痺させる中、彼の陣地は悪化している。",
+      "zh-CN": "章邯仍率主力军在野，技术上未曾战败，但随着秦朝廷政治瘫痪任何增援行动，他的处境正在恶化。"
+    },
+    {
+      "en": "Liu Bang is advancing toward Xianyang from the southwest under King Huai's promise that whoever enters the capital first becomes King of Guanzhong. You are not in a position to race him — you must deal with Zhang Han first.",
+      "ja": "劉邦は、先に都に入った者が関中の王になるという懐王の約束のもとで南西から咸陽に向かって前進している。あなたは彼と競争できる立場にない——先に章邯に対処しなければならない。",
+      "zh-CN": "刘邦正在楚怀王的承诺下从西南向咸阳推进——谁先入都谁便是关中王。你无力与他竞速——你必须先解决章邯的问题。"
+    },
+    {
+      "en": "The commanders now submitting represent different former states with different interests: some want to restore their old kingdoms, some want new territories, some want military power with no political accountability.",
+      "ja": "今服している指揮官たちは異なる利益を持つ異なる旧諸国を代表している：自分たちの古い王国を復元したい者、新しい領土を望む者、政治的説明責任のない軍事権力を望む者もいる。",
+      "zh-CN": "如今臣服的诸将代表着不同旧诸国与各异的利益：有人想恢复旧有王国，有人想要新的领土，有人想要不负政治责任的军事权力。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Convert the submission of the rebel commanders into a functional coalition that can complete the campaign against Qin without fracturing into competing factions",
+      "ja": "反乱軍指揮官の服従を、秦への遠征を競合派閥に分裂することなく完了できる機能的な連合に変える",
+      "zh-CN": "将反秦诸将的臣服转化为能够在不分裂为竞争派系的情况下完成攻秦战役的有效联盟"
+    },
+    {
+      "en": "Establish a clear hierarchy of command that makes your authority over the coalition unambiguous for the remainder of the campaign",
+      "ja": "残りの遠征においてあなたの連合に対する権威を明確にする明確な指揮の階層を確立する",
+      "zh-CN": "建立清晰的指挥层级，使你对联盟的权威在战役剩余阶段不存在歧义"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "These commanders have their own armies and their own legitimacy as princes of former states — coercing them too harshly may cause some to defect back toward accommodation with Qin or toward Liu Bang",
+      "ja": "これらの指揮官たちには自分たちの軍と旧諸国の王子としての自分たちの正統性がある——あまりにも激しく彼らを強制することで、一部が秦との和解やあるいは劉邦の方向へ離反するかもしれない",
+      "zh-CN": "这些将领各有自己的军队，以及作为旧诸国王公的自身合法性——过于强硬地强迫他们，可能导致部分人倒向与秦妥协或投向刘邦"
+    },
+    {
+      "en": "Your authority flows from military success — political authority of the kind that survives military failure has not yet been established and cannot be taken for granted",
+      "ja": "あなたの権威は軍事的成功から流れてくる——軍事的失敗を生き延びる種類の政治的権威はまだ確立されておらず、当たり前に取ることはできない",
+      "zh-CN": "你的权威源于军事成功——那种能在军事失败后仍得以存续的政治权威尚未建立，不可视为理所当然"
+    }
+  ],
+  "choices": [
+    {
+      "id": "fall-of-qin-207bc-scene-002-choice-a",
+      "text": {
+        "en": "Demand formal submission: receive the commanders kneeling, make clear that your authority is supreme, and execute any who show insufficiently deferential attitude toward your command",
+        "ja": "正式な服従を要求する：指揮官たちをひざまずかせたまま受け入れ、あなたの権威が至高であることを明確にし、あなたの指揮に対して十分に従順でない態度を示す者を処刑する",
+        "zh-CN": "要求正式臣服：在诸将跪拜时予以接受，明确你的权威至高无上，并处决任何对你指挥表现出不够恭顺态度的人"
+      },
+      "historicalContext": "This was Xiang Yu's historical approach. The spectacle of the rebel commanders crawling into his tent became legendary. His dominance over the coalition was total in the short term, but his inability to build genuine loyalty would cost him the Chu-Han War.",
+      "outcomePrompt": {
+        "en": "You receive them as they come. You do not rise. You do not offer them seating. You let them kneel on the ground of your tent until each has said what he needs to say — pledges of loyalty, acknowledgments of your command — and then you tell them to rise, and you give orders, and the orders are obeyed. One commander, a general from former Yan, lingers in his kowtow a moment too long and then rises with a look that you interpret correctly as resentment rather than deference. You have him put under arrest and brought to judgment for the offense of insufficient submission. The rest hear what happened and the message travels through the coalition like a cold wind.\n\nYour authority over the coalition is total. Every man here knows that you are the command. The campaign against Zhang Han will proceed with discipline and with coordinated effort that Song Yi could not have achieved in forty-six days of waiting. What you cannot see, because it is not yet visible, is the ledger on the other side: the men who are obedient because they are afraid, not because they believe in you, and who will begin calculating the moment they think you are beatable.",
+        "ja": "来るままに受け入れる。あなたは立ち上がらない。彼らに座席を提供しない。それぞれが言う必要があることを言うまで——忠誠の誓い、あなたの指揮の認識——あなたの天幕の地面にひざまずかせたままにし、それから立ち上がるよう告げ、命令を与え、命令は遵守される。一人の指揮官、旧燕の将軍が、叩頭の中に少し長すぎて留まり、それから服従よりも怨恨としてあなたが正しく解釈する表情で立ち上がる。あなたは彼を不十分な服従の罪で逮捕し裁判にかけさせる。残りは何が起きたかを聞き、メッセージが冷たい風のように連合を通じて伝わる。\n\nあなたの連合に対する権威は完全だ。ここにいるすべての男があなたが指揮であることを知っている。章邯への遠征は、宋義が46日間の待機では達成できなかった規律と協調努力で進む。あなたが見えないのは、まだ目に見えないからだ、反対側の台帳を：恐れているから服従している男たち、あなたを信じているからではない、そしてあなたが打てると思う瞬間に計算を始めるだろう男たち。",
+        "zh-CN": "他们逐一前来，你逐一接受。你不起身，不赐座，让他们在你帐篷的地上跪着，直到每个人说完该说的话——忠诚的誓言，对你指挥权威的确认——然后你命他们起身，你发布命令，命令得到遵从。一位将领，来自旧燕国的将军，叩首时多滞留了片刻，随后起身时带着你正确解读为怨恨而非敬服的表情。你命人将他逮捕，因不敬之罪付诸裁决。其余人闻讯，消息如一阵冷风穿过联军上下。\n\n你对联盟的权威是绝对的。在场每一个人都知道你就是最高指挥。进攻章邯的战役将以宋义在四十六日等待中所无法实现的纪律与协同展开。你所看不到的，因为尚不可见，是另一侧的账本：那些因为恐惧而服从、而非因为相信你而服从的人——他们将在认为你可以被击败的那一刻开始算计。"
+      },
+      "nextSceneId": "fall-of-qin-207bc-scene-003",
+      "stateChanges": [
+        { "variable": "allianceCohesion", "operation": "add", "value": 30 },
+        { "variable": "chuMorale", "operation": "add", "value": 15 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "fall-of-qin-207bc-scene-002-choice-b",
+      "text": {
+        "en": "Build a coalition of equals: receive the commanders with honor, acknowledge their contributions and their kingdoms' legitimate claims, and propose a council of allied commanders under your leadership rather than your dominance",
+        "ja": "平等な連合を構築する：指揮官たちを栄誉をもって受け入れ、彼らの貢献と彼らの王国の正当な主張を認め、あなたの支配ではなくあなたのリーダーシップの下に連合指揮官の評議会を提案する",
+        "zh-CN": "建立平等者联盟：以礼接纳诸将，承认他们的贡献与其王国的正当诉求，并提议在你的领导而非支配之下建立联军统帅议事会"
+      },
+      "historicalContext": "This path was not taken. Xiang Yu's historical temperament was entirely unsuited to coalition politics, and building shared governance would have required patience and political flexibility he did not possess.",
+      "outcomePrompt": {
+        "en": "You rise when the first commander enters and signal that he should stand. There is a moment of confusion — they came prepared to crawl — and then a recalibration that you can see in the shifting of postures and the cautious relief on their faces. You address them as allies. You acknowledge that the victory at Julu was a coalition victory, that your army was the cutting edge of a broader rebellion that they all have served. You propose a council of commanders to coordinate the campaign against the remaining Qin forces.\n\nThe commanders leave your tent without the theatrical subjugation, but with something that might be worth more in the long run: a sense that serving under your command is not humiliation. The coalition is more cohesive than it would have been under pure domination — men fight harder for a leader they respect than for one they merely fear. What you lose is the absolute clarity of hierarchy that would have made certain things, including unpleasant necessary decisions in the weeks ahead, easier to enforce. You have built allies rather than subjects. Whether allies are enough for what comes next depends on what you face.",
+        "ja": "最初の指揮官が入ると、あなたは立ち上がって立つよう合図する。混乱の瞬間がある——彼らは這う準備をして来た——それからあなたが姿勢の変化と顔の慎重な安堵に見ることができる再較正がある。あなたは彼らを同盟国として話しかける。鉅鹿での勝利は連合の勝利であり、あなたの軍はすべての人が仕えた広範な反乱の切っ先だったと認める。あなたは残存する秦の軍勢への遠征を調整するための指揮官評議会を提案する。\n\n指揮官たちは演劇的な臣服なしにあなたの天幕を去る。しかし長期的にはより価値があるかもしれない何かをもって：あなたの指揮の下で仕えることが屈辱ではないという感覚。連合は純粋な支配の下よりも結束力がある——男たちは単に恐れる指導者よりも尊敬する指導者のためにより激しく戦う。あなたが失うのは、絶対的な階層の明確さだ——それは、数週間後に必要な不快な決断を含む特定のことを、より強制しやすくしたであろう。あなたは臣下ではなく同盟国を構築した。同盟国が次に来るものに十分かどうかは、あなたが直面するものによる。",
+        "zh-CN": "第一位将领入帐时，你起身示意他站起来。片刻的困惑——他们准备好了要匍匐——随后是你可以从他们体态的转变与脸上谨慎的如释重负中看到的重新校准。你以盟友之礼向他们说话。你承认鉅鹿的胜利是联盟共同的胜利，你的军队是他们所共同效力的更广泛反秦运动的锋刃。你提议建立一个统帅议事会来协调对秦残余力量的战役。\n\n诸将离开你的大帐时没有进行那种戏剧性的臣服，却带走了某种长远来看或许价值更高的东西：一种在你麾下效命并非屈辱的感受。联盟比纯粹支配下更为凝聚——人们为一个受到尊敬的领袖比为一个仅仅令人畏惧的领袖战斗得更为奋力。你所失去的是那种绝对清晰的等级秩序——那本可以使某些事情，包括接下来数周内那些不得不做的令人不快的决定，更容易强制执行。你构建了盟友而非臣属。盟友是否足以应对接下来发生的事，取决于你将面临什么。"
+      },
+      "nextSceneId": "fall-of-qin-207bc-scene-003",
+      "stateChanges": [
+        { "variable": "allianceCohesion", "operation": "add", "value": 20 },
+        { "variable": "chuMorale", "operation": "add", "value": 10 },
+        { "variable": "supplyLine", "operation": "add", "value": 15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

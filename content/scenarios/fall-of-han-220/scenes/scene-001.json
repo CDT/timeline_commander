@@ -1,0 +1,115 @@
+{
+  "id": "fall-of-han-220-scene-001",
+  "scenarioId": "fall-of-han-220",
+  "title": {
+    "en": "The Petition",
+    "ja": "禅位の上奏",
+    "zh-CN": "禅让奏请"
+  },
+  "date": {
+    "en": "Autumn 220 AD, Xu City (Former Han Capital under Cao Control)",
+    "ja": "220年秋、許都（曹氏の支配下に置かれた旧漢の都）",
+    "zh-CN": "公元220年秋，许都（曹氏控制下的旧汉都城）"
+  },
+  "location": {
+    "en": "The Imperial Audience Hall, Xu",
+    "ja": "許都の皇帝謁見の間",
+    "zh-CN": "许都皇帝御殿"
+  },
+  "narrativePrompt": {
+    "en": "The petition has arrived. You knew it was coming — there are no surprises left in your life, not after twenty-four years of being the emperor of a dynasty that exists only on paper — but seeing it in your hands, on silk, stamped with the seals of two hundred court officials and bearing the names of every man you have ever governed with in any meaningful sense, produces a feeling that you have difficulty naming.\n\nCao Pi's representatives delivered it this morning. They were respectful in the way that executioners are respectful when they understand their work is distasteful — formally correct, looking slightly to the side of your face rather than at it, offering the scroll with two hands. The text is flowery and elaborate, as such things always are: Heaven's Mandate has clearly passed from the house of Liu to the house of Cao; the signs and portents confirm this; the loyal officials of the realm, recognizing their duty to the people above their loyalty to any single dynasty, humbly request that Your Majesty consider the happiness of the realm and its people; and so on, for several hundred characters.\n\nYou are thirty-eight years old. You came to the throne at nine, carried in by Dong Zhuo's soldiers while your predecessor was poisoned in the next room. You have been emperor for thirty years, which is to say you have held the title of emperor for thirty years while watching the actual governance of the empire — the armies, the revenues, the appointments, the wars — pass through the hands of Dong Zhuo, then the chaos of the warlord period, then Cao Cao, and now his son.\n\nYou are a person of considerable learning. You have spent the last two decades reading, practicing calligraphy, studying medicine, and performing the ritual functions of an emperor that Cao Cao still found it useful to maintain. You have been, by all accounts, a man of genuine intelligence and considerable personal courage — your history includes moments where you attempted resistance, where you refused certain demands, where you protected officials who deserved protection. None of it changed the underlying arithmetic.\n\nThe petition asks you to abdicate. The correct response, the expected response, the response that will ensure your personal safety and the safety of the small household you have built around you, is to refuse once — tradition demands the gesture — and then accept graciously on the third request. This is how power transfers in civilized dynasties. The ritual exists so that Cao Pi can say he did not seize the throne, and so that you can say you gave it freely.\n\nBut you are still the emperor, and the petition is still in your hands, and no one has forced you to respond yet.",
+    "ja": "上奏が届いた。来ることはわかっていた——紙の上にしか存在しない王朝の皇帝として24年を過ごした後では、もう驚くことは何もない——しかしそれを自分の手に、絹の上に、200人の朝廷官員の印章が押され、あらゆる意味において共に統治してきたすべての男の名が刻まれているのを見ると、名付けがたい感情が生じる。\n\n曹丕の代表者が今朝届けた。処刑人が自分の仕事が忌まわしいことを理解しているときに敬意を払うように礼儀正しかった——形式的に正確で、顔そのものではなくわずかに顔の横を見て、両手で巻物を差し出した。文章は花飾りに富んで精巧で、そういうものは常にそうであるように：天命は明らかに劉氏の家から曹氏の家に移った；徴候と前兆がこれを確認している；単一の王朝への忠誠より人民への義務を認識する天下の忠実な官員たちが、陛下に天下とその民の幸福を御検討下さるよう謹んで要請する；という具合に、数百文字続く。\n\nあなたは38歳だ。9歳で即位した。前任者が隣の部屋で毒殺される間、董卓の兵士に運ばれて。30年間皇帝だった。つまり30年間皇帝の称号を保持しながら、帝国の実際の統治——軍隊、歳入、任命、戦争——が董卓の手を通り、続いて軍閥期の混乱、そして曹操、今その息子の手を通るのを見守った。\n\nあなたはかなりの学識を持つ人物だ。この20年を読書、書道の練習、医学の研究、そして曹操がまだ維持することを有用と考えた皇帝の儀礼的な機能の実行に費やしてきた。あらゆる記録によれば、真の知性と相当な個人的な勇気を持つ人物だった——歴史には、抵抗を試みた、特定の要求を断った、保護に値する官員を保護した瞬間が含まれる。そのどれも根本的な算術を変えなかった。\n\n上奏はあなたに退位を求めている。正しい反応、予期される反応、個人的な安全と周囲に築いた小さな世帯の安全を確保する反応は、一度断ること——伝統はその身振りを要求する——そして三度目の要請で優雅に受け入れることだ。これが文明化した王朝で権力が移転する方法だ。儀礼は曹丕が玉座を奪ったのではないと言え、あなたが自由に与えたと言えるために存在する。\n\nしかしあなたはまだ皇帝であり、上奏はまだあなたの手にあり、誰もまだあなたに応答を強いていない。",
+    "zh-CN": "奏疏到了。你知道它会来——在做了二十四年只存在于纸面上的王朝皇帝之后，生命中已无意外可言——但看见它就在自己手中，绢帛之上，盖着两百名朝廷官员的印章，署着你在任何有意义上共同执政过的每一个人的名字，一种你难以名状的感受涌现出来。\n\n曹丕的代表今晨送达。他们那种礼貌，是处决者知晓自己的差事令人不快时才有的礼貌——形式上无可挑剔，目光略微偏向你脸庞的一侧而不是正视，双手捧上那卷轴。文字华美繁复，此类文书向来如此：天命已分明从刘氏转归曹氏，种种征兆物候印证此意；天下忠贞的臣工，以对黎民百姓的大义凌驾于对一家一姓的忠诚之上，恭请陛下以天下苍生之福祉为念；如此等等，洋洋数百字。\n\n你三十八岁。九岁登基，在前任于隔壁房间被毒杀时，被董卓的士兵抬着上了御座。做了三十年皇帝，也就是说，拿着皇帝的称号三十年，眼看着帝国实际的治权——军队、岁入、任命、战争——先经董卓之手，再经军阀混战的乱局，然后是曹操，如今是他的儿子。\n\n你是一个颇有学识的人。过去二十年你用来读书、练习书法、研究医术，以及履行曹操认为还有必要保留的皇帝礼仪职能。据所有记载，你是一个确有才智、颇具个人勇气的人——历史上留有你曾尝试抵抗、拒绝某些要求、庇护值得庇护的官员的时刻。这一切都没有改变底层的算术。\n\n奏疏要求你禅位。正确的回应，预期的回应，能确保你个人安全与身边这个小天地安全的回应，是拒绝一次——礼制要求这个姿态——然后在第三次请求时优雅应允。这是文明王朝权力转移的方式。这套程序存在，是为了让曹丕能说他并非夺取皇位，也为了让你能说你是出于自愿相让。\n\n但你依然是皇帝，奏疏依然在你手中，而此刻还没有人强迫你作出回应。"
+  },
+  "situationReport": [
+    {
+      "en": "Political situation: Cao Pi controls every army, all revenue collection, all major appointments, and the loyalty of virtually all officials who matter. The Han dynasty has no military capacity, no independent revenue, and no political allies of any consequence.",
+      "ja": "政治状況：曹丕はすべての軍隊、すべての税収、すべての主要な任命、そして実質的に重要なすべての官員の忠誠心を支配している。漢王朝には軍事的能力も、独立した収入も、重要な政治的同盟者もない。",
+      "zh-CN": "政治形势：曹丕掌控着所有军队、所有税收、所有重要任命，以及几乎所有要紧官员的效忠。汉朝没有军事实力，没有独立的财政收入，也没有任何举足轻重的政治盟友。"
+    },
+    {
+      "en": "Personal safety: Emperor Xian and his household have been treated with formal courtesy throughout the Cao period. The expectation is that formal abdication will result in comfortable retirement with continued royal honors. Resistance could result in less comfortable outcomes.",
+      "ja": "個人的安全：献帝とその世帯は曹氏の統治期間中ずっと形式的な礼遇を受けてきた。期待されているのは、正式な退位が継続的な王室の栄誉を持つ快適な引退をもたらすことだ。抵抗はより不快な結果をもたらす可能性がある。",
+      "zh-CN": "人身安全：整个曹氏统治期间，献帝及其家眷始终受到形式上的礼遇。预期的情况是，正式禅位将带来持续享有王室殊荣的舒适退隐生活。若有抵抗，结果可能就不那么舒适了。"
+    },
+    {
+      "en": "Loyal officials: a small number of genuinely loyal Han officials still exist, but they are without power or resources. Any attempt to organize resistance would expose them to Cao Pi's response before any meaningful resistance could be mounted.",
+      "ja": "忠実な官員：真に忠実な漢の官員は少数ながらまだ存在するが、権力も資源もない。抵抗を組織しようとする試みは、意味のある抵抗が組織される前に、曹丕の対応に彼らをさらすことになる。",
+      "zh-CN": "忠诚官员：少数真正效忠汉朝的官员仍然存在，但他们既无权力，也无资源。任何组织抵抗的尝试，都会在真正的抵抗成形之前，将他们暴露于曹丕的镇压之下。"
+    },
+    {
+      "en": "Historical precedent: the abdication formula — refuse once, accept on the third request — is well-established and would allow Cao Pi to claim a legitimate transfer of power. Deviation from this formula would give Cao Pi justification to handle the transition less gently.",
+      "ja": "歴史的先例：禅位の形式——一度断り、三度目の要請で受け入れる——は確立されており、曹丕が正当な権力移転を主張することを可能にする。この形式からの逸脱は、曹丕に移行をより荒々しく処理する正当化の根拠を与えることになる。",
+      "zh-CN": "历史先例：禅位的程序——拒绝一次，在第三次请求时接受——已有成例，可让曹丕声称权力转移具有合法性。偏离这一程序，将给曹丕提供更粗暴处置此次过渡的借口。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Navigate the abdication process in a way that preserves the dignity of the Han dynasty and protects the lives of those who remain loyal to it",
+      "ja": "漢王朝の威厳を保ち、忠実であり続ける者たちの命を守る方法で禅位のプロセスをくぐり抜ける",
+      "zh-CN": "以维护汉朝尊严、保全仍忠于汉室者生命的方式，穿越禅位的程序"
+    },
+    {
+      "en": "Ensure personal survival and the preservation of whatever elements of Han legitimacy can be maintained in the new order",
+      "ja": "個人的な生存と、新秩序の中で維持できる漢の正統性のあらゆる要素の保全を確保する",
+      "zh-CN": "确保自身存活，并在新秩序中尽可能保全汉朝正统性的某些成分"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Any overt resistance will be immediately crushed — Cao Pi has vastly superior military force and has been planning this transition for months",
+      "ja": "あらゆる明白な抵抗は直ちに粉砕される——曹丕は圧倒的に優れた軍事力を持ち、何ヶ月もこの移行を計画してきた",
+      "zh-CN": "任何公开的抵抗都会立即被粉碎——曹丕拥有压倒性的军事优势，且已筹划这一过渡数月之久"
+    },
+    {
+      "en": "The loyal officials who remain at court cannot be protected if the process becomes hostile — cooperation is the only shield available for the people around you",
+      "ja": "プロセスが敵対的になれば、朝廷に残る忠実な官員を守ることはできない——協力があなたの周囲にいる人々のために利用可能な唯一の盾だ",
+      "zh-CN": "若过渡过程演变为对抗，留守朝廷的忠诚官员便无从庇护——合作是保全身边之人的唯一屏障"
+    }
+  ],
+  "choices": [
+    {
+      "id": "fall-of-han-220-scene-001-choice-a",
+      "text": {
+        "en": "Follow the established protocol — refuse once with a formal memorial expressing reluctance, then prepare to accept the third petition with imperial dignity",
+        "ja": "確立された礼制に従う——渋りを表明する正式な上奏で一度断り、そして皇帝の威厳をもって三度目の請願を受け入れる準備をする",
+        "zh-CN": "遵循既定礼制——以正式奏章表达不情愿的心意拒绝一次，而后准备以皇帝的尊严接受第三次奏请"
+      },
+      "historicalContext": "This is what historically happened. Emperor Xian followed the abdication ritual precisely, refusing twice before accepting. The formal process allowed both sides to maintain the fiction of a voluntary transfer, and Cao Pi's treatment of the former emperor was indeed relatively generous.",
+      "outcomePrompt": {
+        "en": "You summon the court officials and dictate your reply: you are deeply moved by the expressions of loyalty from your ministers, you recognize the responsibilities of Heaven's Mandate and the suffering of the realm, but you cannot in conscience abandon the ancestral altars of the House of Han without further reflection. The reply is composed with care — neither defiant nor servile, simply the expected first move in an expected sequence.\n\nThe Cao Pi representatives receive it with the appropriate expression of respectful disappointment and withdraw to report. They will return. You know they will return, and they know you know they will return, and this mutual understanding of the ritual's necessity is itself a form of communication between men who have spent their lives in the machinery of dynasty.\n\nYou use the time between the first refusal and the second petition to do what you have always done in the years since Cao Cao brought you to Xu: the things that are within your power to do. You hold a small ceremony at the ancestral temple. You compose a letter of instruction to the household officials who will need to manage the transition. You write to the few loyal officials who remain at court, without saying anything that could be used against them, but saying enough that they will know you saw them and knew their worth.\n\nThe second petition comes. You refuse again, more briefly. The third comes, and you accept.",
+        "ja": "朝廷の官員を召喚し、返答を口述する：大臣たちの忠誠の表明に深く感動しています、天命の責任と天下の苦しみを認識していますが、さらなる熟慮なしに漢の家の先祖の祭壇を良心的に捨てることはできません。返答は注意深く構成されている——反抗でも卑屈でもなく、単に予期された順序の中での予期された最初の動きだ。\n\n曹丕の代表者たちは適切な表情で礼儀正しい失望を受け取り、報告するために引き下がる。彼らは戻ってくる。あなたは彼らが戻ってくることを知っており、彼らもあなたが戻ってくることを知っているとわかっており、この儀礼の必要性についての相互理解自体が、王朝の機構の中で生涯を費やしてきた男たちの間のコミュニケーションの一形式だ。\n\n最初の拒絶と二度目の上奏の間の時間を使って、曹操があなたを許都に連れてきてからの年月に常にしてきたことをする：あなたの力の中にあることを。先祖の廟で小さな儀式を行う。移行を管理する必要がある家臣官員への指示書を作成する。朝廷に残る少数の忠実な官員に手紙を書く。彼らに不利に使われる可能性のあることは何も言わずに、しかし彼らがあなたが彼らを見て彼らの価値を知っていたことがわかるくらいは言って。\n\n二度目の上奏が来る。より簡潔にもう一度断る。三度目が来て、あなたは受け入れる。",
+        "zh-CN": "你召集朝臣，口述回复：深感诸臣忠义之心，深知天命职责与天下苦痛，然良心上不能不经深思便遽弃汉室宗庙。这道回复措辞审慎——不抗拒，不卑屈，只是既定程序中预期的第一步。\n\n曹丕的代表以适当的礼貌而略带遗憾的神情接过，退下禀报。他们会回来。你知道他们会回来，他们也知道你知道他们会回来，这种对礼制必要性的相互理解，本身便是在王朝机器中度过一生的人们之间的一种沟通。\n\n你用第一次拒绝与第二次奏请之间的时间，做你自曹操将你带来许都以来始终在做的事：力所能及的事。在宗庙举行一次小小的祭典。拟写一封给家臣官员的指示书，让他们知道如何处理过渡事宜。给留在朝廷的少数忠诚官员写信，不说任何可能被用来对付他们的话，但说得足以让他们知道，你看见了他们，知晓他们的价值。\n\n第二次奏请到来，你再次拒绝，措辞更为简短。第三次来了，你应允。"
+      },
+      "nextSceneId": "fall-of-han-220-scene-002",
+      "stateChanges": [
+        { "variable": "imperialDignity", "operation": "add", "value": 15 },
+        { "variable": "personalsafety", "operation": "add", "value": 10 },
+        { "variable": "loyalCourtiers", "operation": "add", "value": 5 },
+        { "variable": "hanLegacy", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "fall-of-han-220-scene-001-choice-b",
+      "text": {
+        "en": "Refuse outright with a formal declaration reaffirming Han legitimacy and demanding that Cao Pi justify his claim on its merits — force a confrontation rather than enable the fiction of voluntary abdication",
+        "ja": "漢の正統性を再確認し、曹丕にその主張の正当性を正当化することを要求する正式な宣言で全面的に拒否する——自発的な禅位という虚構を可能にするのではなく、対立を強いる",
+        "zh-CN": "以正式宣言断然拒绝，重申汉室正统性，要求曹丕凭其主张本身证明其合法性——迫使直接对抗，而非配合自愿禅让的假象"
+      },
+      "historicalContext": "The historical counterfactual. Outright refusal would have broken the ritual fiction that both parties needed. Cao Pi would almost certainly have proceeded regardless, but without the cover of legitimacy — meaning he would need to deal more forcefully with the former emperor and his supporters.",
+      "outcomePrompt": {
+        "en": "You send back a declaration rather than a memorial: the Han dynasty exists by the grace of Heaven and the loyalty of its people; you have been entrusted with the ancestral altars and will not abandon them on the basis of a petition signed by officials who hold their positions at Cao Pi's pleasure; if the King of Wei believes himself possessed of Heaven's Mandate, let him present his evidence before the court and the people rather than through their representatives.\n\nThe room is very quiet for the rest of that day. The Cao Pi representatives have withdrawn. Their expressions, when they left, told you something about what would happen next — not fury, which you expected, but a kind of professional assessment, as if they were making calculations rather than feeling emotions.\n\nTwo days later, a larger delegation arrives, accompanied by guards. The language has changed: it is now less a request and more a statement of what will happen regardless of your response. You have your confrontation. Whether it will produce anything except a less comfortable transition remains to be determined by what you do next.",
+        "ja": "上奏文ではなく宣言書を返す：漢王朝は天の恩寵と民の忠誠によって存在する；先祖の祭壇を託されており、曹丕の意向で地位を持つ官員たちが署名した上奏文に基づいてそれを放棄するつもりはない；魏王が天命を持っていると信じるならば、代表者を通じてではなく朝廷と民の前にその証拠を提示せよ。\n\nその日の残りは部屋がとても静かだ。曹丕の代表者たちは引き下がった。去るときの彼らの表情が、次に何が起きるかについて何かを告げた——予期した怒りではなく、感情を感じているというよりも計算をしているかのような、ある種の専門的な評価だ。\n\n二日後、より大きな使節団が護衛を伴って到着する。言葉遣いが変わっている：今はより少なく要請であり、あなたの反応に関わらず何が起きるかの声明に近い。対立を持つ。それが不快な移行以外の何かをもたらすかどうかは、次に何をするかで決まる。",
+        "zh-CN": "你送回去的是一份宣言而非奏疏：汉室以天之恩泽与民之忠诚而立；先祖宗庙已托付于你，不会因曹丕一手操控之官员的联署而弃之；若魏王自信天命在身，就请当着朝廷与百姓的面呈上证据，而非假手于其代表。\n\n那天剩余的时间里，整个房间异常安静。曹丕的代表们已经离开，离去时他们的神情告诉了你接下来会发生什么——不是你预期的愤怒，而是一种职业性的审视，仿佛他们是在做算计，而非在感受情绪。\n\n两天后，规模更大的使团带着护卫抵达。措辞变了：更少像是请求，更多像是在陈述一件无论你如何回应都将发生的事情。你拥有了对抗，这场对抗能否带来比一次不那么体面的过渡更多的东西，取决于你接下来如何行动。"
+      },
+      "nextSceneId": "fall-of-han-220-scene-002",
+      "stateChanges": [
+        { "variable": "imperialDignity", "operation": "add", "value": 20 },
+        { "variable": "personalsafety", "operation": "add", "value": -20 },
+        { "variable": "caoPiPressure", "operation": "add", "value": 10 },
+        { "variable": "hanLegacy", "operation": "add", "value": 15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

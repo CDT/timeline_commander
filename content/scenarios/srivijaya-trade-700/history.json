@@ -1,0 +1,83 @@
+{
+  "scenarioId": "srivijaya-trade-700",
+  "timeline": [
+    {
+      "date": "0650-01-01",
+      "description": {
+        "en": "The Malay port of Palembang on the Musi River in southern Sumatra emerges as a significant trading center. Located near the Strait of Malacca, it benefits from the growing Tang Chinese demand for spices, aromatics, and tropical forest products that can only be obtained through Southeast Asian intermediaries.",
+        "ja": "南スマトラのムシ川沿いのマレー港パレンバンが重要な貿易センターとして台頭する。マラッカ海峡に近く、東南アジアの仲介者を通じてのみ得られる香辛料、香料、熱帯林産物に対する唐の需要増大の恩恵を受ける。",
+        "zh-CN": "位于苏门答腊南部穆西河畔的马来亚港口巨港作为重要贸易中心崛起。凭借靠近马六甲海峡的地理优势，它得益于唐朝对香料、香料品和只能通过东南亚中间商获得的热带林产品日益增长的需求。"
+      }
+    },
+    {
+      "date": "0670-01-01",
+      "description": {
+        "en": "Dapunta Hyang Sri Jayanasa leads a military expedition from Palembang, documented in the Kedukan Bukit Inscription — one of the oldest surviving Malay-language texts. He campaigns with 20,000 troops and 312 ships, establishing control over nearby coastal territories. The inscriptions suggest this is the founding moment of the Srivijaya polity.",
+        "ja": "ダプンタ・ヒャン・スリ・ジャヤナサがパレンバンから軍事遠征を率い、クドゥカン・ブキット碑文——現存する最古のマレー語文書の一つ——に記録されている。2万の兵と312隻の船で遠征し、近隣の沿岸領域への支配を確立する。碑文はこれがシュリーヴィジャヤ政体の建国の瞬間であることを示唆する。",
+        "zh-CN": "邓宝旁·哈杨·斯里·贾亚纳萨从巨港率军出征，此事记录于可打巴希碑铭——现存最古老的马来语文献之一。他以二万军队和312艘战船出征，确立了对附近沿海地区的控制。碑铭表明这是室利佛逝政权的建国时刻。"
+      }
+    },
+    {
+      "date": "0682-01-01",
+      "description": {
+        "en": "The Talang Tuo Inscription, dated to this year, records Dapunta Hyang creating a park for the welfare of all beings and dedicating it with Buddhist merit-making ceremonies. This reveals Srivijaya's strategy: Buddhist piety and commerce reinforce each other — the kingdom is a center of Buddhist learning that attracts Chinese Buddhist pilgrims on their way to India, who bring trade and prestige.",
+        "ja": "この年付けのタラン・トゥオ碑文が、ダプンタ・ヒャンが一切の衆生の福祉のために公園を作り、仏教の功徳積み儀式でそれを奉納したことを記録している。これがシュリーヴィジャヤの戦略を明らかにする：仏教的敬虔さと商業が互いに強化し合う——王国は中国の仏教巡礼者がインドへの途上で立ち寄る仏教学習の中心であり、彼らが貿易と威信をもたらす。",
+        "zh-CN": "这一年的打浪图碑铭记载了邓宝旁·哈杨为众生福祉创建一座园苑，并以佛教积德仪式加以奉献。这揭示了室利佛逝的战略：佛教虔诚与商业相互强化——王国是吸引中国佛教朝圣者途经前往印度的佛教学习中心，而朝圣者带来了贸易与声望。"
+      }
+    },
+    {
+      "date": "0692-01-01",
+      "description": {
+        "en": "The Chinese monk Yijing, returning from his seven-year stay in India, stops at Srivijaya and writes extensively about it. He reports over 1,000 monks studying there, describes it as an important center of Buddhist scholarship, and recommends that Chinese monks stop there to study Sanskrit and Buddhist texts before continuing to India. This endorsement transforms Srivijaya's international reputation.",
+        "ja": "インドでの七年間の滞在から帰国中の中国人僧義浄がシュリーヴィジャヤに立ち寄り、広範に記録する。そこで1,000人以上の僧が学んでいると報告し、仏教学問の重要な中心として描写し、中国の僧がインドに向かう前にそこに立ち寄ってサンスクリット語と仏教典籍を学ぶことを勧める。この推薦がシュリーヴィジャヤの国際的な評判を一変させる。",
+        "zh-CN": "从印度七年游学归来的中国僧人义净途经室利佛逝，并留下了大量记录。他报告称当地有逾千名僧人在此学习，将其描述为重要的佛教学术中心，并建议中国僧人在前往印度前在此停留，研习梵文和佛教典籍。这一推荐彻底改变了室利佛逝的国际声誉。"
+      }
+    },
+    {
+      "date": "0720-01-01",
+      "description": {
+        "en": "Srivijaya extends control over the Strait of Malacca and its rival ports. Ships wishing to pass through the strait must stop at Srivijayan ports, pay duties, and trade under Srivijayan terms. The kingdom develops a sophisticated system of orang laut (sea people) — client communities who police the strait, protect Srivijayan trade, and receive a portion of the revenues.",
+        "ja": "シュリーヴィジャヤがマラッカ海峡とその競合する港に対する支配を拡大する。海峡を通過したい船はシュリーヴィジャヤの港に立ち寄り、関税を払い、シュリーヴィジャヤの条件で取引しなければならない。王国は、海峡を取り締まり、シュリーヴィジャヤの貿易を守り、収入の一部を受け取る従属共同体——オラン・ラウト（海の民）——の洗練されたシステムを発展させる。",
+        "zh-CN": "室利佛逝将控制范围延伸至马六甲海峡及其竞争港口。希望穿越海峡的船只必须在室利佛逝港口停靠，缴纳关税，并在室利佛逝的条件下开展贸易。王国发展出一套精密的海人（orang laut）制度——这些依附社群负责巡逻海峡、保护室利佛逝的贸易，并从中获得一部分收益。"
+      }
+    },
+    {
+      "date": "0775-01-01",
+      "description": {
+        "en": "At its height, Srivijaya controls ports and territories from the Malay peninsula to Java, and dominates maritime trade from China to India. Tang Chinese sources describe it as one of the wealthiest kingdoms in the world. Its capital at Palembang is an international city with merchants from across the Indian Ocean world. Buddhist monks from as far as Tibet study there.",
+        "ja": "絶頂期、シュリーヴィジャヤはマレー半島からジャワまでの港と領土を支配し、中国からインドへの海上貿易を牛耳っている。唐の中国の史料はそれを世界最も裕福な王国の一つと描写している。パレンバンの首都はインド洋世界全体からの商人を抱える国際都市だ。チベットからの仏教僧がそこで学んでいる。",
+        "zh-CN": "鼎盛时期，室利佛逝控制着从马来半岛到爪哇的港口与领土，主导着从中国到印度的海上贸易。唐朝史料将其描述为世界上最富庶的王国之一。巨港都城是一座国际性城市，汇聚了印度洋世界各地的商人，连西藏的佛教僧侣都在此求学。"
+      }
+    },
+    {
+      "date": "1025-01-01",
+      "description": {
+        "en": "The Chola Empire of South India launches a massive naval raid on Srivijaya, sacking Palembang and capturing the Srivijayan king. Though Srivijaya recovers, the Chola raid permanently damages its reputation for invulnerability and disrupts its trade networks. The kingdom continues but is weakened, beginning a centuries-long decline as Java-based kingdoms grow stronger.",
+        "ja": "南インドのチョーラ帝国がシュリーヴィジャヤに大規模な海軍侵攻を開始し、パレンバンを略奪してシュリーヴィジャヤ王を捕らえる。シュリーヴィジャヤは回復するが、チョーラの侵攻は難攻不落の評判を永続的に損ない、貿易ネットワークを混乱させる。王国は続くが弱体化し、ジャワを拠点とする王国が強力になるにつれ、何世紀にもわたる衰退が始まる。",
+        "zh-CN": "南印度的朱罗帝国对室利佛逝发动大规模海上突袭，洗劫巨港并俘获室利佛逝国王。尽管室利佛逝得以恢复，但朱罗人的袭击永久损害了其不可侵犯的声誉，破坏了其贸易网络。王国延续下来但已元气大伤，随着以爪哇为基地的王国日益强大，开始了长达数世纪的衰落。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Srivijaya successfully became the dominant maritime power in Southeast Asia for approximately 600 years. Its strategy of combining Buddhist legitimacy, port services, and selective military coercion to control the Strait of Malacca proved enormously effective. At its peak, no ship could sail between the Indian Ocean and the South China Sea without passing through Srivijayan-controlled waters.",
+    "ja": "シュリーヴィジャヤは約600年間、東南アジアで支配的な海洋勢力として成功した。仏教的正統性、港湾サービス、マラッカ海峡を支配するための選択的軍事強制を組み合わせたその戦略は非常に効果的であることが証明された。最盛期には、シュリーヴィジャヤが支配する水域を通過せずに船がインド洋と南シナ海の間を航行することはできなかった。",
+    "zh-CN": "室利佛逝成功地在约600年间主导了东南亚的海上势力。其将佛教合法性、港口服务和有选择性的军事强制相结合以控制马六甲海峡的战略被证明极为有效。在鼎盛时期，没有任何船只能够在不经过室利佛逝控制水域的情况下往来于印度洋与南海之间。"
+  },
+  "casualties": {
+    "en": "Srivijaya's expansion was primarily achieved through economic leverage and selective force rather than large-scale conquest wars. The founding military campaigns documented in the Kedukan Bukit Inscription involved tens of thousands of troops but relatively few pitched battles. The kingdom's primary tool of coercion was the threat of piracy — ships that refused to trade under Srivijayan terms could find their vessels attacked by the orang laut.",
+    "ja": "シュリーヴィジャヤの拡大は主として大規模征服戦争よりも経済的影響力と選択的な力によって達成された。クドゥカン・ブキット碑文に記録されている建国時の軍事作戦は数万の兵士を含んでいたが、大規模な野戦は比較的少なかった。王国の主要な強制手段は海賊の脅威だった——シュリーヴィジャヤの条件で取引することを拒んだ船はオラン・ラウトに攻撃される可能性があった。",
+    "zh-CN": "室利佛逝的扩张主要通过经济杠杆和有选择性的武力实现，而非大规模征服战争。可打巴希碑铭记载的建国军事行动涉及数万兵力，但较大规模的会战相对较少。王国的主要强制手段是海盗威胁——拒绝在室利佛逝条件下交易的船只可能遭受海人的袭击。"
+  },
+  "significance": {
+    "en": "Srivijaya represents one of history's most successful maritime empires, notable for what it was not: it was not built on territorial conquest, tax extraction from agricultural populations, or conventional military dominance. Instead, it created a model of power based on controlling chokepoints, providing services to passing traders, and using religious legitimacy (Buddhism) to build soft power across the entire Indian Ocean trading world. This model of commercial empire anticipates the later strategies of Venice and the Dutch East India Company by many centuries.",
+    "ja": "シュリーヴィジャヤは歴史上最も成功した海洋帝国の一つを代表し、それがどうではなかったかで注目に値する：領土征服、農業人口からの税収、または従来の軍事的支配に基づいて構築されたものではなかった。代わりに、チョークポイントを支配し、通過する商人にサービスを提供し、宗教的正統性（仏教）を使ってインド洋貿易世界全体でソフトパワーを構築することに基づいた権力モデルを作り出した。この商業帝国のモデルは何世紀も後のヴェネツィアとオランダ東インド会社の戦略を先取りしている。",
+    "zh-CN": "室利佛逝是历史上最成功的海洋帝国之一，以它所不是什么而引人注目：它不是建立在领土征服、对农业人口的赋税汲取或传统军事统治之上，而是创造了一种基于控制咽喉要道、向过往商人提供服务、并利用宗教合法性（佛教）在整个印度洋贸易世界构建软实力的权力模式。这种商业帝国的模式比后来威尼斯和荷兰东印度公司的策略早了数百年。"
+  },
+  "furtherReading": [
+    "Kenneth Hall, A History of Early Southeast Asia: Maritime Trade and Societal Development, 100-1500 (Rowman & Littlefield, 2011)",
+    "O.W. Wolters, History, Culture, and Region in Southeast Asian Perspectives (Cornell, 1999)",
+    "Hermann Kulke, Kings and Cults: State Formation and Legitimation in India and Southeast Asia (Manohar, 1993)",
+    "Jan Wisseman Christie, State Formation in Early Maritime Southeast Asia (Bijdragen, 1995)",
+    "Pierre-Yves Manguin, Srivijayan Studies (École française d'Extrême-Orient, 2009)"
+  ]
+}

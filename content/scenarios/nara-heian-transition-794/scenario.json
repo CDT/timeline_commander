@@ -1,0 +1,34 @@
+{
+  "scenarioId": "nara-heian-transition-794",
+  "title": {
+    "en": "Moving the Capital: Emperor Kanmu and the Birth of Heian",
+    "ja": "遷都：桓武天皇と平安の誕生",
+    "zh-CN": "迁都：桓武天皇与平安京的诞生"
+  },
+  "description": {
+    "en": "In 794 AD, Emperor Kanmu made one of Japan's most consequential decisions: moving the imperial capital from Nara to a new site, which he named Heian-kyo (City of Peace and Tranquility), modern Kyoto. The move was driven by the desire to escape the political dominance of Nara's powerful Buddhist temples and to create a capital that reflected imperial rather than ecclesiastical power. Heian would remain Japan's imperial capital for over a thousand years, and the culture that flourished there — the Heian period — is considered the golden age of classical Japanese civilization.",
+    "ja": "794年、桓武天皇は日本史上最も重大な決断の一つを下した：帝都を奈良から新しい場所——平安京（現在の京都）——に移すことだ。移転は奈良の強大な仏教寺院の政治的支配から逃れ、宗教的ではなく皇室の権力を反映する都を創出したいという願望によって推進された。平安は千年以上にわたって日本の帝都であり続け、そこで栄えた文化——平安時代——は古典日本文明の黄金時代と見なされる。",
+    "zh-CN": "公元794年，桓武天皇做出了日本历史上最具深远影响的决策之一：将帝都从奈良迁至新址，命名为平安京（今京都）。迁都的驱动力在于摆脱奈良强大佛教寺院的政治主导，并创建一个彰显皇权而非宗教权力的都城。平安此后作为日本帝都延续逾千年，在此繁荣的文化——平安时代——被视为古典日本文明的黄金时代。"
+  },
+  "date": "0794-10-22",
+  "location": {
+    "en": "Heian-kyo (modern Kyoto), Japan",
+    "ja": "平安京（現在の京都）、日本",
+    "zh-CN": "平安京（今京都），日本"
+  },
+  "playerRole": {
+    "en": "Emperor Kanmu — 50th Emperor of Japan, architect of the new capital",
+    "ja": "桓武天皇——第50代天皇、新都の設計者",
+    "zh-CN": "桓武天皇——日本第五十代天皇，新都的缔造者"
+  },
+  "initialState": {
+    "imperialPrestige": 60,
+    "buddhistInfluence": 75,
+    "courtSupport": 50,
+    "capitalProgress": 30,
+    "militaryReadiness": 45
+  },
+  "tags": ["japan", "heian", "nara", "capital", "buddhism", "imperial", "classical"],
+  "difficulty": "medium",
+  "historicalOutcome": "heian_established"
+}

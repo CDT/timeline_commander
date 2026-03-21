@@ -1,0 +1,113 @@
+{
+  "id": "warring-states-changping-260bc-scene-003",
+  "scenarioId": "warring-states-changping-260bc",
+  "title": {
+    "en": "The Final Breakout",
+    "ja": "最後の脱出",
+    "zh-CN": "最后的突围"
+  },
+  "date": {
+    "en": "September 260 BC — Day 46 of the Siege",
+    "ja": "紀元前260年9月 — 包囲46日目",
+    "zh-CN": "公元前260年9月 — 被围第四十六日"
+  },
+  "location": {
+    "en": "The Qin Encirclement at Changping",
+    "ja": "長平での秦の包囲陣内",
+    "zh-CN": "长平秦军包围圈内"
+  },
+  "narrativePrompt": {
+    "en": "Forty-six days. The number has its own particular weight now, a stone you carry everywhere and can put down nowhere. Forty-six days since the encirclement closed. Forty-six days since the supply roads went dark and the last convoy from Zhao failed to arrive. The horses are gone — all of them, eaten in the third week when the grain ran out. The men are eating things that men should not eat. When you walk through the lines now, you do not see the same soldiers who stood at Changping in July. They are in the same bodies, but something has gone out of them, and what remains is a kind of animal patience that has outlasted everything except the will to survive.\n\nYou have tried four breakout attempts in the past ten days. Four times you gathered whatever strength remained, pointed it at the weakest segment of the Qin perimeter, and drove it forward. Each time, the Qin line held. Not easily — some of the assaults cost Bai Qi's men heavily, and in two cases your forces breached the outer works before being contained and driven back. But held it did. The mathematics of the situation are now clear to anyone willing to read them: you are running out of men faster than you are running out of food, which is saying something.\n\nYour commanders have come to you this morning with two positions. The first: one last coordinated breakout, everything committed, the entire remaining strength of the army thrown at a single point in the Qin perimeter. It is a gamble with terrible odds, but the odds of doing nothing are worse. The second: open negotiations with Bai Qi, offering surrender in exchange for the lives of your men. You know, from what your scouts have gathered about Bai Qi, that this is not a certain guarantee of anything. But death in a breakout is death, and death in negotiations is only possibly death.\n\nYou think of your mother. You think of Lian Po, eating well somewhere in exile while you eat nothing at all. You think of the king in Handan who sent you here because he could not tolerate patience, and of Bai Qi waiting on the other side of the perimeter with the kind of patience that comes from knowing you have already won. You have one decision left to make.",
+    "ja": "四十六日。その数字は今や独特の重みを持っている。どこへ持ち歩いても、どこにも下ろせない石だ。包囲が閉じてから四十六日。補給路が途絶え、趙からの最後の輸送隊が来なくなってから四十六日。馬はいなくなった——全て、穀物が底をついた三週目に食べ尽くされた。兵士たちは人間が食べるべきでないものを食べている。今、前線を歩くと、七月に長平に立っていたのと同じ兵士が見えない。彼らは同じ体の中にいるが、何かが抜け出て、残っているのは生き延びようとする意志以外のすべてを耐え続けたある種の動物的な忍耐だ。\n\n過去十日間で四回の突破を試みた。四回、残存する力を集め、秦の外周で最も弱い箇所に向け、前進させた。その度に秦の防衛線は保った。容易にではなく——一部の突撃は白起の兵に重い損害を与え、二つの場合はあなたの軍が外部工事を突破してから封じ込まれ押し返された。しかし保ったのだ。状況の計算は今や読む気さえあれば誰にでも明確だ：食料よりも兵を速く失いつつある、そしてそれだけでも十分なことを意味している。\n\nあなたの指揮官たちが今朝二つの立場を持って来た。一つ目：最後の協調突破、すべてを賭けて、軍の残存するすべての力を秦の外周の一点に叩きつける。恐ろしい確率の賭けだが、何もしない確率は更に悪い。二つ目：白起と降伏交渉を開始し、兵の命と引き換えの降伏を提案する。白起についてあなたの斥候が集めたことから、これが何かの確実な保証にはならないことを知っている。しかし突破での死は死であり、交渉での死は可能性としての死に過ぎない。\n\nあなたは母のことを考える。どこかの亡命先で十分に食べているだろう廉頗のことを、あなたが何も食べていない間に。辛抱できなかったためにここに送り込んだ邯鄲の王のことを、そしてすでに勝ったと知ることから来る種類の忍耐で外周の向こう側で待っている白起のことを。あなたが下す最後の決断が一つある。",
+    "zh-CN": "四十六天。这个数字如今有了它独特的分量，是一块你走到哪里都背着、却无处搁下的石头。包围圈合拢已经四十六天。补给道路断绝、赵国最后一支辎重队未能抵达已经四十六天。战马已经消失——全部都是，在第三周粮食告罄时被吃光了。士兵们在吃那些人本不该吃的东西。现在走过阵线，你看不到七月时站在长平的那些士兵了。他们还住在同样的躯体里，但某些东西已经离开，剩下的是一种熬过了除求生意志之外一切的动物性耐性。\n\n过去十天里，你发动了四次突围尝试。四次，你集结所有残余兵力，将它指向秦军外围防线最薄弱的地段，驱兵向前。每次，秦军防线都守住了。代价不小——部分突击给白起的士兵造成了惨重伤亡，有两次你的军队突破了外围工事，才被遏制住并驱回。但它守住了。眼下局势的算术，对于任何愿意去读的人都已一目了然：你消耗兵力的速度超过了消耗粮食的速度——而这本身已经足以说明一切。\n\n你的指挥官们今晨来见你，带来了两种主张。第一：发动最后一次协同突围，倾尽所有，将军队的全部残余兵力猛扑秦军外围一个点。这是一场胜算极低的豪赌，但什么都不做的胜算更糟。第二：与白起展开谈判，以投降换取士兵的性命。从斥候收集的关于白起的信息，你清楚这并不是任何事情的确定保证。但突围中的死亡是死亡，谈判中的死亡只是可能的死亡。\n\n你想到了母亲。你想到廉颇，在某个流亡之处吃得不错，而你什么都没得吃。你想到邯鄲那个因为无法忍受等待而把你送到这里的赵王，以及在外围另一侧等候的白起，那种等待源于已然知晓自己取得胜利的从容。你还有最后一个决断需要做出。"
+  },
+  "situationReport": [
+    {
+      "en": "Zhao army strength: severely degraded. Estimated 150,000 to 200,000 effective soldiers remaining from the original 400,000, with many of those weakened by starvation. Morale is at its lowest point of the campaign.",
+      "ja": "趙軍の戦力：著しく低下。当初の40万から推定15〜20万の有効な兵士が残っているが、多くが飢餓で弱っている。士気は戦役中最低点にある。",
+      "zh-CN": "赵军战斗力：严重削弱。原四十万中估计剩余十五至二十万有效战斗兵员，其中许多人因饥饿而羸弱。士气处于整场战役的最低点。"
+    },
+    {
+      "en": "Food supply: exhausted. The army has been surviving on boiled leather, roots, and the last horses for more than two weeks. Combat effectiveness is declining daily.",
+      "ja": "食糧供給：尽きた。軍は二週間以上、煮た革、根、最後の馬で生き延びてきた。戦闘能力は日々低下している。",
+      "zh-CN": "粮食供给：已告枯竭。军队靠煮皮革、野草根与最后几匹马维持了两周有余。战斗力日渐下降。"
+    },
+    {
+      "en": "Qin perimeter: fully intact despite four breakout attempts. Bai Qi has reinforced the weakest segments after each assault. The encirclement shows no signs of weakening.",
+      "ja": "秦の包囲線：四回の突破試みにもかかわらず完全に保たれている。白起は各突撃後に最も弱い区間を補強した。包囲は弱まる兆しを見せない。",
+      "zh-CN": "秦军包围圈：经四次突围尝试后依然完整。白起在每次突击后都加固了最薄弱的地段。包围圈没有任何减弱的迹象。"
+    },
+    {
+      "en": "Zhao relief army: no sign of approach. Diplomatic appeals to other states have failed. The army is alone.",
+      "ja": "趙の救援軍：接近の気配なし。他の国々への外交的訴えは失敗した。軍は孤立無援だ。",
+      "zh-CN": "赵国援军：毫无接近迹象。对其他诸侯国的外交呼吁均告失败。大军已孤立无援。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Save as many Zhao soldiers as possible from certain death by starvation within the encirclement",
+      "ja": "包囲内での確実な飢死から、できるだけ多くの趙の兵士を救う",
+      "zh-CN": "尽可能将更多赵国将士从包围圈内必然死于饥饿的命运中拯救出来"
+    },
+    {
+      "en": "Achieve any outcome other than the complete annihilation of the Zhao army",
+      "ja": "趙軍の完全な壊滅以外の何らかの結果を達成する",
+      "zh-CN": "达成任何能够避免赵军被彻底歼灭的结果"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The army's physical condition makes sustained offensive operations nearly impossible — men are too weak to fight effectively for extended periods",
+      "ja": "軍の体力状態が持続的な攻撃作戦をほぼ不可能にしている——兵士たちが長時間効果的に戦えるほど体力がない",
+      "zh-CN": "军队的体力状况使持续的进攻作战几乎不可能——士兵们已虚弱到无法长时间有效作战"
+    },
+    {
+      "en": "Bai Qi has a reputation for executing prisoners — surrender may not guarantee the survival of your men",
+      "ja": "白起には捕虜を処刑する評判がある——降伏はあなたの兵の生存を保証しないかもしれない",
+      "zh-CN": "白起以处决俘虏闻名——投降未必能保证你部下的生存"
+    }
+  ],
+  "choices": [
+    {
+      "id": "warring-states-changping-260bc-scene-003-choice-a",
+      "text": {
+        "en": "Organize one final full-force breakout — commit every remaining soldier to a single concentrated assault on the Qin perimeter",
+        "ja": "最後の全力突破を組織する——残存するすべての兵士を秦の包囲線への単一の集中突撃に投入する",
+        "zh-CN": "组织最后一次全力突围——将所有残余士兵集中投入对秦军包围圈的单点猛攻"
+      },
+      "historicalContext": "This is what historically happened. Zhao Kuo led the breakout attempt personally and was killed by Qin archers. The remaining troops, leaderless and exhausted, surrendered. Bai Qi then ordered the mass execution of all prisoners.",
+      "outcomePrompt": {
+        "en": "You put on your armor yourself, which you have not done for the breakout attempts before. The officers around you understand what this means without being told. If you lead this one from the front, it is because you believe it is the last one — not in the way that hope structures every last attempt, but in the way that certainty resolves all further questions. You gather the strongest remaining men and form them into a column. The rest, the ones who cannot run, you tell to follow as best they can.\n\nThe assault begins at dawn, when the light is still gray and the Qin sentries are at their most tired. The column hits the perimeter with everything it has — shields locked, spears forward, archers on the flanks laying down suppression. For a moment — a long, agonizing moment — the Qin line wavers. There is a gap. You drive toward it.\n\nThe arrow finds you before you reach the gap. You do not know it immediately; the body has its own defenses against immediate recognition. But your legs stop working, and the officers around you are shouting, and the column is losing its coherence, and you are on the ground, and the gap in the Qin line is closing, and you understand — with a clarity that comes only at such moments — that the texts were right about nearly everything but wrong about one thing: they described war as a problem that knowledge could solve, and the knowledge they offered was real, but it was incomplete, because it did not include the specific weight of this particular moment, your particular ending, the way the morning light falls on the Changping ridge and the sound of 400,000 men who will never go home.\n\nThe remaining Zhao soldiers surrender after you fall. Bai Qi orders the execution of all prisoners on the grounds that they cannot be fed and cannot be safely released. History records the number as approximately 400,000.",
+        "ja": "あなたは自分で甲冑を着ける。これまでの突破試みではしなかったことだ。周囲の将校たちはこれが何を意味するか言われなくてもわかる。あなたがこれを前線から指揮するなら、それはこれが最後のものだと信じているからだ——希望があらゆる最後の試みを構築する方法ではなく、確信がすべてのさらなる問いを解決する方法で。あなたは最も強い残存する男たちを集め、彼らを縦列に編成する。残りの、走れない者たちには、できる限りついてくるよう告げる。\n\n突撃は夜明けに始まる。光がまだ灰色で秦の歩哨が最も疲れている時間に。縦列はすべてをもって外周に突入する——盾を連結し、槍を前方に向け、側面の弓兵が制圧を展開する。ある瞬間——長く、苦悩に満ちた瞬間——秦の防衛線が揺らぐ。隙間がある。あなたはそこへ向かって突進する。\n\n矢はあなたが隙間に達する前にあなたを見つける。すぐにはわからない：体にはすぐの認識に対する独自の防御がある。しかし脚が動かなくなり、周囲の将校たちが叫んでいて、縦列はその統一性を失いつつあり、あなたは地面に倒れていて、秦の防衛線の隙間は閉じつつあって、あなたは理解する——そのような瞬間にのみ来る明晰さで——文書はほぼすべてにおいて正しかったが一つのことで間違っていたことを：彼らは戦争を知識が解決できる問題として描写し、彼らが提供した知識は本物だったが、不完全だった、なぜなら特定の瞬間のこの特定の重み、あなたの特定の終わり、長平の尾根に朝の光が差し込む方法、決して家に帰れない40万の兵士の音を含んでいなかったから。\n\nあなたが倒れた後、残存する趙の兵士が降伏する。白起は彼らを養えないし安全に解放することもできないという理由で全捕虜の処刑を命じる。歴史はその数をおよそ40万と記録する。",
+        "zh-CN": "你亲自为自己披挂铠甲，这是之前几次突围尝试中从未有过的。身边的将领们不需要解释便明白了这意味着什么。若你这次亲自领兵在前，那是因为你相信这是最后一次——不是希望支撑每一次最后尝试的那种方式，而是确信消解了一切更多疑问的那种方式。你集结最强的残余士兵，将他们编成一支纵队。其余那些已无法奔跑的人，你告诉他们尽力跟随。\n\n突击在黎明时分展开，光线尚是灰色，秦军哨兵最为困倦之时。纵队以所有余力猛冲外围防线——盾牌相叠，长矛向前，两翼弓手展开压制射击。有那么一刻——漫长而煎熬的一刻——秦军防线摇动了。出现了一道缺口。你向那里猛冲而去。\n\n箭矢在你到达缺口之前找到了你。你没有立刻察觉；身体有其抵御即时感知的自我防御机制。但你的双腿停止了运作，身边的将领们在大喊，纵队正在失去凝聚力，你跌倒在地，秦军防线的缺口正在合拢，你以只在这样的时刻才会降临的清醒意识到——那些典籍几乎在所有事情上都是正确的，却在一件事上错了：它们将战争描述为知识可以解决的问题，它们所提供的知识是真实的，却是不完整的，因为它没有包含这个特定时刻的特定分量，你这个特定的结局，晨光落在长平山脊的方式，以及那四十万个再也无法回家的士兵所发出的声响。\n\n你倒下之后，赵国残余士兵投降。白起以无法供养、亦无法安全释放为由，下令处决全部俘虏。历史记录下的数字约为四十万。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "zhaoMorale", "operation": "add", "value": 5 },
+        { "variable": "zhaoCasualties", "operation": "add", "value": 400000 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": -40 }
+      ]
+    },
+    {
+      "id": "warring-states-changping-260bc-scene-003-choice-b",
+      "text": {
+        "en": "Open surrender negotiations with Bai Qi — offer the formal submission of the Zhao army in exchange for the lives of your soldiers",
+        "ja": "白起と降伏交渉を開始する——兵士たちの命と引き換えに趙軍の正式な降伏を申し出る",
+        "zh-CN": "与白起展开投降谈判——以赵军正式投降换取将士们的性命"
+      },
+      "historicalContext": "The historical counterfactual. In the actual events, Zhao Kuo attempted the breakout rather than negotiating. Whether surrender negotiations would have saved any lives is impossible to know — Bai Qi executed the surrendered prisoners regardless, suggesting that Qin's policy was total elimination rather than the taking of captives.",
+      "outcomePrompt": {
+        "en": "You send the envoy out under a white banner on the morning of the forty-seventh day. Your officers watch him go with expressions you cannot quite read — relief in some, contempt in others, something unnameable in the veterans who have watched four breakout attempts fail. The envoy crosses the no-man's land between the two armies without being shot. That much, at least, is promising.\n\nThe terms you offer are full military submission: all weapons surrendered, all officers presented as hostages, the army to be dispersed under Qin supervision. You ask in return for the lives of your men — that they be permitted to return to Zhao, or at minimum be held as prisoners rather than killed. It is not a strong negotiating position. You are negotiating from the inside of a siege, starving, having failed four times to break out. Bai Qi knows this.\n\nThe response comes back through the envoy on the afternoon of the same day. Bai Qi will accept the surrender. He makes no promises about the treatment of prisoners, but he does not refuse to negotiate — which you allow yourself to read as a signal that mass execution is not his intention. Your officers oversee the laying down of arms. It takes the better part of two days, the army moving in units to designated points, stacking weapons, stepping forward to be counted and organized by Qin troops.\n\nOn the third day, the separate enclosures where the surrendered Zhao soldiers have been held are sealed. Bai Qi, reportedly on orders from King Zhaoxiang, who fears that so many prisoners cannot be safely kept and may revolt, orders the execution to proceed. The soldiers who did not die in battle are executed where they stand. Your negotiations, your careful diplomacy, your choice of surrender over suicide — none of it changes the number that history will record. The difference is only that you are alive to know it, which is its own particular cruelty.",
+        "ja": "あなたは四十七日目の朝、白い旗のもとに使者を送り出す。将校たちは読み切れない表情で彼が去るのを見送る——何人かに安堵、他の者に軽蔑、四回の突破失敗を見てきた老兵に名前のつけられない何か。使者は射撃を受けることなく両軍の間の無人地帯を渡る。少なくともそれだけは、前途を示している。\n\nあなたが申し出る条件は完全な軍事的服従だ：すべての武器の引き渡し、すべての将校の人質としての差し出し、秦の監督下での軍の解散。あなたは引き換えに兵の命を求める——趙に帰還することを許されるか、少なくとも殺されるのではなく捕虜として保持されることを。強い交渉立場ではない。あなたは包囲の内側から、飢えた状態で、四回突破に失敗した後で交渉している。白起はこれを知っている。\n\n返答は同日の午後、使者を通じて戻ってくる。白起は降伏を受け入れる。捕虜の扱いについての約束はしないが、交渉を拒否もしない——あなたは大量処刑が彼の意図でないという信号としてそれを読むことを自分に許す。将校たちが武器の放棄を監督する。二日の大部分をかけて、軍は指定された場所に部隊で移動し、武器を積み重ね、秦軍によって数えられ組織されるために前進する。\n\n三日目に、降伏した趙の兵士が保持されていた別々の囲いが封鎖される。白起は、多くの捕虜を安全に保持することができず反乱を起こすかもしれないと恐れる昭襄王の命令を受けたと伝えられ、処刑を進めるよう命じる。戦闘で死ななかった兵士たちはその場で処刑される。あなたの交渉、あなたの慎重な外交、自決ではなく降伏の選択——そのどれも、歴史が記録する数字を変えない。違いは、あなたがそれを知るために生きているということだけで、それ自体が特殊な残酷さだ。",
+        "zh-CN": "你在第四十七天的清晨，派出使者，打着白旗。将领们望着他离去，脸上带着你无法完全读懂的神情——有些人是宽慰，有些人是轻蔑，那些亲历四次突围失败的老兵则带着某种无可名状的东西。使者穿越两军之间的无人地带，未被射击。至少这一点，是个好兆头。\n\n你所提出的条件是全面的军事投降：交出所有武器，所有将官作为人质献出，军队在秦军监督下解散。你要求换取部下的性命——允许他们返回赵国，或至少作为俘虏关押而非被杀。这不是一个有利的谈判立场。你是在围城之内、饥肠辘辘、四次突围失败之后展开谈判的。白起清楚这一点。\n\n回复在同日下午经由使者传来。白起接受投降。他不承诺对俘虏的待遇，但也不拒绝谈判——你允许自己将其解读为大规模处决并非其意图的信号。将领们监督武器放下的过程。历时将近两天，军队以各部队为单位移动至指定地点，堆叠兵器，向前迈步，接受秦军的清点与整编。\n\n第三天，关押降赵士兵的各处独立围场被封闭。据传白起奉秦昭襄王之命——昭襄王担忧如此众多的俘虏无法安全关押，可能引发叛乱——下令行刑。未死于战场的士兵们，就地被处决。你的谈判，你审慎的外交斡旋，你以投降取代玉碎的选择——所有这一切，都没有改变历史将记录下的那个数字。区别仅仅在于你活着去知晓这一切，而这本身是一种特殊的残忍。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "zhaoMorale", "operation": "add", "value": -10 },
+        { "variable": "zhaoCasualties", "operation": "add", "value": 400000 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": -50 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

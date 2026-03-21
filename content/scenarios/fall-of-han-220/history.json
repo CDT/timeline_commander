@@ -1,0 +1,91 @@
+{
+  "scenarioId": "fall-of-han-220",
+  "timeline": [
+    {
+      "date": "0196-01-01",
+      "description": {
+        "en": "Cao Cao relocates Emperor Xian from the war-torn capital Luoyang to Xu, establishing a new de facto capital under his control. The emperor retains his title but loses all genuine power.",
+        "ja": "曹操が戦乱の都・洛陽から皇帝献帝を許都に移し、自らの支配下に新たな事実上の都を設ける。皇帝は称号を保持するが、真の権力を失う。",
+        "zh-CN": "曹操将献帝从战乱中的都城洛阳迁往许都，建立起他掌控下的新事实首都。皇帝保留了称号，却失去了所有真实权力。"
+      }
+    },
+    {
+      "date": "0208-12-01",
+      "description": {
+        "en": "The Battle of Red Cliffs: Cao Cao's attempt to unify China by conquering the south is defeated by the allied forces of Sun Quan and Liu Bei. The Three Kingdoms division becomes effectively permanent.",
+        "ja": "赤壁の戦い：南方を征服して中国を統一しようとした曹操の試みが、孫権と劉備の連合軍に敗れる。三国分立の状態が事実上恒久化する。",
+        "zh-CN": "赤壁之战：曹操南征统一中国的图谋被孙权与刘备的联军击败，三国鼎立格局就此事实上固定下来。"
+      }
+    },
+    {
+      "date": "0215-01-01",
+      "description": {
+        "en": "Emperor Xian is forced to give his daughter in marriage to Cao Cao, cementing the family connection between the puppet Han emperor and the man who controls the empire's northern heartland.",
+        "ja": "献帝は娘を曹操に嫁がせることを強いられ、傀儡の漢皇帝と帝国北部の中枢を支配する男との家族的なつながりを確固たるものにする。",
+        "zh-CN": "献帝被迫将女儿嫁给曹操，将傀儡汉帝与掌控帝国北方腹地之人之间的家族联系固化。"
+      }
+    },
+    {
+      "date": "0220-03-15",
+      "description": {
+        "en": "Cao Cao dies. His son Cao Pi inherits the title of King of Wei and moves quickly to consolidate power, removing anyone who might prefer the continuation of the Han dynasty.",
+        "ja": "曹操が死去する。息子の曹丕が魏王の称号を継ぎ、漢王朝の存続を望む可能性のある者を排除しながら、権力の固めに素早く動く。",
+        "zh-CN": "曹操去世。其子曹丕继承魏王称号，迅速着手巩固权力，清除所有可能倾向于汉朝延续的人。"
+      }
+    },
+    {
+      "date": "0220-10-01",
+      "description": {
+        "en": "Cao Pi orchestrates a formal petition from court officials and nobility demanding that Emperor Xian abdicate and transfer the Mandate of Heaven to the new Wei dynasty. The emperor is left with no meaningful choice.",
+        "ja": "曹丕が朝廷の官員と貴族から、献帝が退位し天命を新しい魏王朝に移転することを求める正式な請願を組織する。皇帝には意味のある選択肢が残されていない。",
+        "zh-CN": "曹丕策划朝廷官员与贵族的正式联署奏请，要求献帝退位，将天命转交给新魏王朝。皇帝已没有任何有意义的选择余地。"
+      }
+    },
+    {
+      "date": "0220-11-25",
+      "description": {
+        "en": "Emperor Xian formally abdicates. Cao Pi accepts the Mandate of Heaven and proclaims himself the first emperor of the Wei dynasty, ending four centuries of Han rule. Emperor Xian is demoted to Duke of Shanyang and allowed to continue Han ceremonies in his territory.",
+        "ja": "献帝が正式に退位する。曹丕が天命を受け入れ、魏王朝の初代皇帝を宣言し、四世紀にわたる漢の支配に終止符を打つ。献帝は山陽公に降格され、自らの領地で漢の儀式を続けることを許される。",
+        "zh-CN": "献帝正式禅位。曹丕受命称帝，宣布自己成为魏朝第一位皇帝，终结了四个世纪的汉朝统治。献帝被降封为山阳公，并获准在其领地内继续举行汉朝典礼。"
+      }
+    },
+    {
+      "date": "0221-04-01",
+      "description": {
+        "en": "Liu Bei, upon hearing of the Han abdication, declares himself emperor of Han in the west (Shu Han), claiming the Han dynasty's continuation in Sichuan. Sun Quan will later also declare his own kingdom, completing the Three Kingdoms division.",
+        "ja": "劉備は漢の禅位を聞いて、西の漢皇帝を宣言し（蜀漢）、四川での漢王朝の継続を主張する。孫権もその後自らの王国を宣言し、三国分立が完成する。",
+        "zh-CN": "刘备得知汉朝禅位后，在西方称帝（蜀汉），主张汉朝在四川延续。此后孙权也宣布建立自己的王国，三国鼎立格局最终完成。"
+      }
+    },
+    {
+      "date": "0234-04-21",
+      "description": {
+        "en": "The former Emperor Xian, now the Duke of Shanyang, dies peacefully at the age of 53. He outlived Cao Pi by eight years. Wei Emperor Cao Rui grants him a state funeral with Han imperial rites, an unusual gesture of historical respect.",
+        "ja": "元献帝、今や山陽公、53歳で穏やかに逝去する。曹丕より8年長生きした。魏の曹叡帝は漢の皇帝の礼による国葬を賜い、歴史的な敬意の珍しい身振りを示した。",
+        "zh-CN": "前献帝、今山阳公，以五十三岁之龄安详离世，比曹丕多活了八年。魏帝曹叡赐以汉朝皇帝之礼举行国葬，这是一次罕见的历史性敬意表示。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Emperor Xian abdicated in November 220 AD, ending the Han dynasty after 426 years. Cao Pi became Emperor Wen of Wei. However, Liu Bei declared Shu Han in the southwest and Sun Quan eventually declared Wu in the southeast, producing the Three Kingdoms period. The former Han emperor was treated with considerable courtesy as Duke of Shanyang, retained Han ceremonies, and died peacefully in 234 AD. He outlived both his abdicator Cao Pi and the man who manipulated his entire reign.",
+    "ja": "献帝は220年11月に退位し、426年の歴史を持つ漢王朝に終止符を打った。曹丕は魏の文帝となった。しかし劉備が南西に蜀漢を宣言し、孫権も最終的に南東に呉を宣言し、三国時代を生み出した。元漢皇帝は山陽公として相当な厚遇を受け、漢の儀式を保持し、234年に穏やかに死去した。彼は退位させた曹丕も、生涯を操った男も生き延びた。",
+    "zh-CN": "献帝于220年11月禅位，结束了延续四百二十六年的汉朝。曹丕成为魏文帝。然而，刘备在西南宣布建立蜀汉，孙权最终也在东南宣布建立吴国，三国时代由此形成。前汉帝以山阳公身份受到相当礼遇，得以保留汉朝典礼，于234年安详离世，比禅位者曹丕和操纵其一生的曹操都活得更长。"
+  },
+  "casualties": {
+    "en": "The abdication itself was bloodless. However, the broader Three Kingdoms period that followed was characterized by near-constant warfare and catastrophic population decline. China's registered population, estimated at 60 million under the Han, collapsed to perhaps 16 million by the time of the Western Jin reunification in 280 AD.",
+    "ja": "禅位そのものは流血なしで行われた。しかし、その後の広範な三国時代は、絶え間ない戦争と壊滅的な人口減少によって特徴付けられた。漢代に6,000万と推定された中国の登録人口は、280年の西晋の統一までにおそらく1,600万に崩壊した。",
+    "zh-CN": "禅位本身未流一滴血。然而，此后漫长的三国时代以几乎持续不断的战争和灾难性的人口锐减为特征。汉代估计有六千万的中国登记人口，到280年西晋统一时，或已跌落至一千六百万左右。"
+  },
+  "significance": {
+    "en": "The fall of the Han dynasty was one of the defining transitions in Chinese history. The Han established the template for imperial Chinese civilization — the Confucian bureaucratic state, the examination system, the Chinese ethnic and cultural identity itself, which the Chinese still call Hanzu (Han people). The Three Kingdoms period that followed became one of the most romanticized eras in Chinese culture, immortalized in the fourteenth-century novel Romance of the Three Kingdoms. The abdication of Emperor Xian represented the formal end of unified imperial China for over sixty years, until the brief Jin reunification.",
+    "ja": "漢王朝の滅亡は中国史における決定的な転換の一つだった。漢は中国帝国文明の雛型を確立した——儒教的官僚国家、科挙制度、中国民族・文化的アイデンティティそのものも、中国人が今も漢族（漢人）と呼ぶ。続く三国時代は中国文化で最もロマン化された時代の一つとなり、14世紀の小説『三国志演義』に不滅の姿で描かれた。献帝の退位は、短命な西晋の統一まで60年以上にわたる統一中国帝国の正式な終焉を象徴した。",
+    "zh-CN": "汉朝的覆灭是中国历史上最具决定意义的转折之一。汉朝确立了中华帝国文明的模板——儒家官僚国家、科举制度、中国民族与文化认同本身，中国人至今仍自称汉族。随之而来的三国时代成为中国文化中最具浪漫色彩的时代之一，被十四世纪的小说《三国演义》永远铭刻。献帝的禅位标志着统一的中华帝国的正式终结，长达六十余年，直至短暂的西晋统一。"
+  },
+  "furtherReading": [
+    "Rafe de Crespigny, Imperial Warlord: A Biography of Cao Cao 155-220 AD (Brill, 2010)",
+    "Moss Roberts (translator), Three Kingdoms: A Historical Novel by Luo Guanzhong (University of California Press, 1991)",
+    "Mark Edward Lewis, China Between Empires: The Northern and Southern Dynasties (Harvard, 2009)",
+    "Rafe de Crespigny, A Biographical Dictionary of Later Han to the Three Kingdoms (Brill, 2007)",
+    "Robert Joe Cutter and William Gordon Crowell, Empresses and Consorts: Selections from Chen Shou's Records of the Three States (University of Hawaii Press, 1999)"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "qin-unification-221bc-scene-001",
+  "scenarioId": "qin-unification-221bc",
+  "title": {
+    "en": "The Question of Government",
+    "ja": "統治の問い",
+    "zh-CN": "统治之问"
+  },
+  "date": {
+    "en": "221 BC, Xianyang Palace",
+    "ja": "紀元前221年、咸陽宮",
+    "zh-CN": "公元前221年，咸阳宫"
+  },
+  "location": {
+    "en": "The Grand Audience Hall, Xianyang",
+    "ja": "咸陽の大朝会殿",
+    "zh-CN": "咸阳大朝堂"
+  },
+  "narrativePrompt": {
+    "en": "The Grand Audience Hall of Xianyang has never held a scene quite like this. Your ministers stand arrayed in their ranks beneath the high lacquered beams, and outside the walls the noise of the capital — conquered capital, now yours by every definition — filters through as if the world itself is listening. Qi has fallen. You are king of everything, and the question now is what that means.\n\nLi Si steps forward first, as you expected. He is not a tall man, but he fills space with the weight of absolute conviction. His argument is systematic and pitiless: the Zhou system of feudal lords produced the Warring States. To enfeoff your relatives and loyal generals as kings would be to plant the seeds of future fragmentation with your own hands. Give them power, and in three generations their grandsons will be making war on each other and on the throne. The only secure foundation for empire is direct administration — commanderies governed by officials you appoint and can remove, a single law applied uniformly, a single script, a single set of measures. No hereditary fiefs. No intermediate lords. The emperor commands; the officials obey; the people comply.\n\nThen Wang Wan speaks, and he is not without logic. The empire is vast — larger than any territory ever governed from a single center. The roads are not yet built. Communication is slow. The peoples of Qi, Chu, Wei, Han, Yan, and Zhao do not feel themselves to be Qin men; they feel conquered, resentful, and ready to revolt at the first sign of weakness. To extend your own family into these territories is to give the empire familiar anchors. A Qin prince in Qi, another in Chu — they will hold their territories because those territories are theirs, because they have a stake in stability. This is how the Zhou held the realm for eight hundred years.\n\nThe hall is silent after both men finish. They are both right in some measure and both wrong in some measure, and the choice you make today will determine the shape of this empire for as long as it stands — and perhaps for the dynasties that follow it.",
+    "ja": "咸陽の大朝会殿は、こんな光景を見たことがなかった。あなたの大臣たちは高い漆塗りの梁の下に整列しており、城壁の外からは都の喧騒が——征服された都、今やすべての意味においてあなたのもの——まるで世界そのものが聞いているかのように漏れ聞こえてくる。斉が滅んだ。あなたはすべての王であり、今問われているのはそれが何を意味するかだ。\n\n李斯が最初に進み出る。予想通りだ。彼は背の高い男ではないが、絶対的な確信の重さで空間を満たす。彼の論は体系的で容赦ない：周の封建諸侯の制度が戦国時代を生み出した。あなたの親族や忠実な将軍を王として封建することは、自らの手で将来の分裂の種を植えることだ。彼らに権力を与えれば、三代後には孫たちが互いに、そして王座に対して戦争をしかけるだろう。帝国のための唯一の確かな基盤は直接統治だ——あなたが任命し解任できる官僚が統治する郡、均一に適用される単一の法律、単一の文字、単一の度量衡。世襲の封地なし。中間的な領主なし。皇帝が命令し、官僚が従い、人民が従う。\n\nそれから王綰が話し、彼もまた論理がないわけではない。帝国は広大だ——単一の中心から統治されたことのある領土よりも大きい。道路はまだ建設されていない。通信は遅い。斉・楚・魏・韓・燕・趙の民は自分たちをQin人とは感じていない。征服され、怨恨を抱き、弱さの最初の兆候で反乱を起こす準備ができていると感じている。あなた自身の家族をこれらの領土に広げることは、帝国に慣れ親しんだ錨を与えることだ。斉に一人の秦の王子、楚にもう一人——彼らはその領土が自分たちのものであるから、安定に利害関係を持つから、領土を守るだろう。これが周が800年間この国を保った方法だ。\n\n両者が終わった後、広間は静まりかえっている。彼らはある意味では両方とも正しく、ある意味では両方とも間違っている。あなたが今日下す選択は、この帝国が続く限り——そしておそらく続く王朝のために——その形を決定するだろう。",
+    "zh-CN": "咸阳大朝堂从未见过这样的一幕。你的大臣们列队站立于高悬的漆梁之下，墙外的都城喧嚣声——那座被征服的都城，如今从任何意义上都属于你——透过墙壁渗入，仿佛天地都在聆听。齐国已灭。你是万物之王，而今所要追问的，是这究竟意味着什么。\n\n李斯率先踏步向前，正如你所预料的那样。他并非高大的男人，却以绝对信念的分量充盈着整个空间。他的论证系统而无情：周代封建诸侯的制度催生了战国时代。将你的宗室与忠诚将领封为诸侯王，不过是亲手为日后的分裂埋下种子。给予他们权力，三代之后孙辈们便会彼此攻伐，进而对抗王座。帝国的唯一稳固基础是直接统治——由你任命并可撤换的官员管辖的郡县，统一施行的单一法律，统一的文字，统一的度量衡。无世袭封地，无中间领主。皇帝发令，官吏遵从，百姓服从。\n\n随后王绾发言，他的论证亦不乏道理。帝国幅员辽阔——远超任何曾从单一中心统治过的疆域。道路尚未修筑，通信迟缓。齐、楚、魏、韩、燕、赵的百姓并不以秦人自居；他们感到被征服，心怀怨恨，随时准备在第一个示弱的迹象出现时揭竿而起。将你自己的宗族延伸至这些领土，是给帝国以熟悉的锚点。秦王子镇齐，另一位镇楚——因为那些领土是他们自己的，因为他们在稳定中有切身利益，所以他们会守住领土。这正是周代维系天下八百年的方法。\n\n两人说罢，大殿陷入寂静。他们各有道理，亦各有谬误。你今日所作的抉择，将决定这个帝国存续之日的形态——或许还将决定此后历代王朝的走向。"
+  },
+  "situationReport": [
+    {
+      "en": "All six Warring States have been conquered. Qin controls all of China from the Wei River valley to the Yangtze and beyond, but the administrative apparatus to govern this vast territory does not yet exist.",
+      "ja": "六国すべてが征服された。秦は渭水の谷から長江以南まで中国全土を支配しているが、この広大な領土を統治する行政機構はまだ存在しない。",
+      "zh-CN": "六国皆已平定。秦国控制着从渭河流域到长江以南的中国全境，但治理这片辽阔疆土的行政机构尚不存在。"
+    },
+    {
+      "en": "Chancellor Wang Wan and Li Si present opposing visions: Wang Wan advocates enfeoffing royal relatives as princes to govern distant territories; Li Si argues for a pure commandery-county system with no hereditary power.",
+      "ja": "丞相・王綰と李斯が対立する構想を提示する：王綰は遠方の領土を統治するために王族の親戚を王子として封建することを主張し、李斯は世襲的権力のない純粋な郡県制を主張する。",
+      "zh-CN": "丞相王绾与李斯呈现出截然对立的构想：王绾主张将宗室封为诸侯王以治理远方领土；李斯则力主实行不含任何世袭权力的纯粹郡县制。"
+    },
+    {
+      "en": "The conquered peoples of the former six states are restive. Noble families have been relocated to Xianyang, but their resentment remains. A governance structure is urgently needed to prevent regional revolts.",
+      "ja": "旧六国の征服された民は落ち着かない。貴族家族は咸陽に移住させられているが、彼らの怨恨は残っている。地域的な反乱を防ぐために統治構造が緊急に必要だ。",
+      "zh-CN": "旧六国的被征服民众躁动不安。贵族家族已被迁往咸阳，但其怨恨犹存。迫切需要确立统治结构以防止地方叛乱。"
+    },
+    {
+      "en": "Your military commanders expect rewards for their victories. The choice of governance model will determine how those rewards are structured and whether military leaders become hereditary lords or salaried officials.",
+      "ja": "あなたの軍事指揮官たちは勝利への報酬を期待している。統治モデルの選択が、その報酬がどのように構成されるか、そして軍事指導者が世襲的な領主になるか俸給制の官僚になるかを決定するだろう。",
+      "zh-CN": "你的军事将领期待因胜利而获得封赏。统治模式的选择将决定这些封赏如何构建，以及军事领袖将成为世袭领主还是领俸禄的官员。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Choose a system of governance that will keep the newly unified empire intact and prevent the fragmentation that destroyed the Zhou dynasty",
+      "ja": "新たに統一された帝国を無傷に保ち、周王朝を滅ぼした分裂を防ぐ統治制度を選ぶ",
+      "zh-CN": "选择一种能使新统一的帝国维持完整、防止摧毁周王朝那种分裂重演的统治制度"
+    },
+    {
+      "en": "Reward loyal ministers and generals while establishing a precedent for how imperial power is to be distributed or concentrated",
+      "ja": "忠実な大臣と将軍を報酬し、帝権がどのように分配または集中されるかの先例を確立する",
+      "zh-CN": "奖赏忠诚的大臣与将领，同时确立帝权如何分配或集中的先例"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Qin administrative apparatus has experience governing Qin territory but has never managed an empire of this size — implementation capacity is limited",
+      "ja": "秦の行政機構は秦の領土を統治した経験はあるが、この規模の帝国を管理したことがない——実施能力は限られている",
+      "zh-CN": "秦的行政机构有治理秦国领土的经验，但从未管理过这种规模的帝国——执行能力有限"
+    },
+    {
+      "en": "Senior ministers and generals have strong opinions and factional interests; alienating them entirely risks instability at the very moment of consolidation",
+      "ja": "上級大臣と将軍たちは強い意見と党派的利益を持っている；彼らを完全に疎外することは、統固化のまさにその瞬間に不安定を招くリスクがある",
+      "zh-CN": "高级大臣与将领持有强烈主张与派系利益；在巩固政权的关键时刻完全疏远他们，有引发不稳定的风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "qin-unification-221bc-scene-001-choice-a",
+      "text": {
+        "en": "Adopt Li Si's centralized commandery-county system: abolish all feudal arrangements, appoint officials rather than lords, standardize administration across the entire empire",
+        "ja": "李斯の中央集権的郡県制を採用する：すべての封建的取り決めを廃止し、領主ではなく官僚を任命し、帝国全体で行政を統一する",
+        "zh-CN": "采纳李斯的中央集权郡县制：废除一切封建安排，任命官员而非诸侯，在整个帝国统一行政"
+      },
+      "historicalContext": "This was the historical choice. Li Si's commandery-county system became the template for Chinese imperial governance for the next two thousand years, adopted by every subsequent dynasty.",
+      "outcomePrompt": {
+        "en": "You silence the hall with a single raised hand. 'Wang Wan's argument has the weight of precedent,' you say. 'Li Si's argument has the weight of logic. The Zhou dynasty lasted eight hundred years and ended in the Warring States. I will not rebuild what I have just destroyed.' You declare thirty-six commanderies, each governed by a civil administrator, a military commander, and an imperial inspector — three officials, none of whom can accumulate unchecked power, all of whom serve at your pleasure. The nobles protest. Your generals are less pleased than they hoped. But the machine you have set in motion runs on appointments, not bloodlines, and appointments can be revoked.\n\nThe work of standardization begins immediately. Li Si drafts the edicts. Weights. Measures. The written script, which differs by region to the point that a letter written in Chu cannot be read in Yan. The axle widths of carts, so that roads can be built to a single standard. Each of these reforms carries resistance, and each resistance is met with law. You have created something new in the world — whether it will hold is the question that haunts every dispatch from the commanderies.",
+        "ja": "あなたは手を一つ上げて広間を静かにさせる。「王綰の論には先例の重みがある」とあなたは言う。「李斯の論には論理の重みがある。周王朝は800年続いて戦国時代に終わった。私は今破壊したばかりのものを再建するつもりはない。」あなたは36の郡を宣言し、それぞれを文官・軍事指揮官・皇帝の監察官——三人の官僚、誰一人として抑制のない権力を蓄積できず、すべてがあなたの意向に従って仕える——によって統治させる。貴族たちは抗議する。あなたの将軍たちは期待していたほど満足していない。しかしあなたが動かし始めた機械は血統ではなく任命で動き、任命は取り消すことができる。\n\n統一の作業はすぐに始まる。李斯が詔書を草案する。度量衡。文字、地域によってあまりに異なるため楚で書かれた手紙は燕では読めない。荷車の車軸の幅、道路を一つの規格で建設できるように。これらの改革はそれぞれ抵抗を伴い、それぞれの抵抗は法律で対応される。あなたは世界に新しいものを作った——それが保つかどうかは郡からのすべての文書に付きまとう問いだ。",
+        "zh-CN": "你扬手一挥，大殿归于寂静。「王绾之论有先例之重，」你说，「李斯之论有逻辑之重。周王朝历八百年而终于战国。我不会重建自己刚刚摧毁的东西。」你宣布设立三十六郡，每郡由一位文官、一位军事将领和一位皇帝督察官治理——三名官员，无一能积累不受约束的权力，皆以你的旨意任用。贵族们提出抗议，你的将领们也未能如愿满意。但你所启动的机器运转于任命之上而非血脉，而任命是可以撤销的。\n\n统一的工作随即展开。李斯起草诏令：度量衡，文字——各地差异之大以至楚地书信在燕地无人能读，车轨宽度——以便道路按统一规格修筑。每一项改革都伴随着阻力，每一项阻力都以法令回应。你在这个世界上创造了前所未有之物——它能否维持，是萦绕于每一份郡县来报的追问。"
+      },
+      "nextSceneId": "qin-unification-221bc-scene-002",
+      "stateChanges": [
+        { "variable": "imperialAuthority", "operation": "add", "value": 15 },
+        { "variable": "nobilityLoyalty", "operation": "add", "value": -20 },
+        { "variable": "administrativeOrder", "operation": "add", "value": 25 }
+      ]
+    },
+    {
+      "id": "qin-unification-221bc-scene-001-choice-b",
+      "text": {
+        "en": "Follow Wang Wan's counsel: enfeoff royal relatives and loyal commanders as kings in the former states, preserving familiar local governance while maintaining Qin overlordship",
+        "ja": "王綰の助言に従う：旧諸国に王族の親戚と忠実な将軍を王として封建し、秦の覇権を維持しながら慣れ親しんだ地方統治を保存する",
+        "zh-CN": "遵从王绾的建议：在旧诸国将宗室亲属与忠诚将领封为诸侯王，在维持秦国霸主地位的同时保留熟悉的地方治理"
+      },
+      "historicalContext": "This was the path not taken. A similar system was briefly tried by the Han dynasty (Liu Bang) at the outset, leading to the Seven Kingdoms Rebellion 154 BC that nearly destroyed the empire. The historical Qin Shi Huangdi chose Li Si's centralized system.",
+      "outcomePrompt": {
+        "en": "You weigh the arguments and find that the objection to Li Si's plan cuts to the heart of your present situation: you have just conquered six kingdoms, and the peoples of those kingdoms do not yet accept Qin rule. To impose Qin officials over every inch of their territory simultaneously is to invite the kind of revolt that could unravel everything you have built in a single season. Wang Wan's plan is not ideal, but it is workable. Your brothers, cousins, and trusted generals will hold the distant territories in your name.\n\nThe appointments are made with ceremony. Five princes receive kingdoms in the east and south. Three senior generals are made governors of vast territories with near-royal authority. The ceremonies are magnificent, the recipients grateful, and in the short term the transition is smoother than it would have been under Li Si's abrupt restructuring. What you cannot yet see is the long calculation: that grateful men become accustomed men, that accustomed men become entitled men, and that the grandsons of those entitlements will remember only that they are kings, not why they received their kingdoms.",
+        "ja": "あなたは論拠を検討し、李斯の計画への反論が現在の状況の核心に切り込むことを見出す：あなたは六国を征服したばかりであり、その国々の民はまだ秦の統治を受け入れていない。彼らの領土のあらゆる部分に秦の官僚を同時に押し付けることは、一つの季節であなたが築いたすべてを台無しにするような反乱を招くことになる。王綰の計画は理想的ではないが、実行可能だ。あなたの兄弟・従兄弟・信頼できる将軍たちがあなたの名において遠方の領土を守るだろう。\n\n任命は儀式をもって行われる。五人の王子が東と南に王国を受け取る。三人の上級将軍がほぼ王位に近い権限を持つ広大な領土の長官にされる。儀式は壮大で、受け取る側は感謝し、短期的には李斯の急激な再編成の下でのものよりも円滑に移行が進む。あなたがまだ見えないのは長期的な計算だ：感謝している人間は慣れた人間になり、慣れた人間は資格のある人間になり、その資格の孫たちは自分たちが王であることしか覚えず、なぜ王国を受け取ったかは覚えないということだ。",
+        "zh-CN": "你权衡两方论据，发现对李斯方案的反驳切中了当前局势的要害：你刚刚征服了六个王国，而那些王国的百姓尚未接受秦的统治。同时将秦国官员强加于他们领土的每一寸，是在邀请那种可能在一季之内将你所构建的一切摧毁的叛乱。王绾的方案并非理想，却切实可行。你的兄弟、堂亲与可信赖的将领们将以你的名义守护远方的领土。\n\n封授以隆重仪式进行。五位王子在东部和南部获得封国，三位高级将领成为拥有近乎王权的广大领土的总督。仪式盛大，受封者感恩戴德，短期内，这一过渡比李斯的骤然重组要顺畅得多。你尚未看到的是长远的算计：感恩的人会变成习以为常的人，习以为常的人会变成自以为有权的人，而那些特权的孙辈将只记得自己是王，而忘记为何获得王国。"
+      },
+      "nextSceneId": "qin-unification-221bc-scene-002",
+      "stateChanges": [
+        { "variable": "nobilityLoyalty", "operation": "add", "value": 20 },
+        { "variable": "imperialAuthority", "operation": "add", "value": -15 },
+        { "variable": "popularSupport", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

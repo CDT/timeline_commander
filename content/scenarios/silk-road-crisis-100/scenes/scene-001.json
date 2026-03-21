@@ -1,0 +1,76 @@
+{
+  "sceneId": "scene-001",
+  "scenarioId": "silk-road-crisis-100",
+  "title": {
+    "en": "The Night Attack at Shanshan",
+    "ja": "鄯善の夜襲",
+    "zh-CN": "鄯善夜袭"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-002",
+  "background": {
+    "en": "73 AD. You are Ban Chao, a Han scholar-turned-soldier, sent to the Western Regions with 36 soldiers to restore Han influence. You have arrived at the kingdom of Shanshan (Loulan), the gateway to the Tarim Basin. The king received you warmly at first — then his manner changed. You discover why: a Xiongnu envoy arrived two days ago with a much larger retinue, and the Xiongnu have told the Shanshan king to reject Han alliance. The king is now cold and evasive. Your 36 soldiers cannot fight the Xiongnu envoy's 100-man party and the Shanshan army simultaneously. You must act — but how?",
+    "ja": "73年。あなたは班超、学者から兵士に転じた漢の人物で、西域に漢の影響力を回復するために36人の兵士と共に派遣された。あなたはタリム盆地への玄関口である鄯善（楼蘭）王国に到着した。王は最初あなたを暖かく迎えた——そして態度が変わった。理由を知る：匈奴の使節が二日前にはるかに大きな随伴を率いて到着し、匈奴が鄯善王に漢との同盟を拒否するよう言った。王は今冷たく回避的だ。あなたの36人の兵士では匈奴使節の100人の一行と鄯善の軍を同時に戦えない。行動しなければならない——しかしどうやって？",
+    "zh-CN": "公元73年。你是班超，一位由文转武的汉朝人，奉命率36名士兵出使西域以恢复汉朝影响力。你抵达了塔里木盆地门户——鄯善（楼兰）王国。国王起初热情接待了你——随后态度变了。你查明原因：匈奴使节两天前率庞大随从抵达，匈奴告知鄯善王拒绝与汉结盟。国王如今冷漠而回避。你的36名士兵无法同时对抗匈奴使节的百人队伍和鄯善军队。你必须采取行动——但该怎么做？"
+  },
+  "prompt": {
+    "en": "Your position is precarious. You cannot win a direct confrontation. But if you do nothing, the Xiongnu will consolidate Shanshan's loyalty and your mission fails at the first step. You have learned that the Xiongnu envoy's party is encamped outside the city wall, in a separate compound with minimal guard. You have one night to act before the Shanshan king formally announces his rejection of Han alliance.",
+    "ja": "あなたの状況は危うい。直接対立では勝てない。しかし何もしなければ、匈奴が鄯善の忠誠を固め、あなたの使命は最初の段階で失敗する。匈奴使節の一行が城壁の外、最小限の警護しかない別の複合施設に野営しているとわかった。鄯善王が正式に漢との同盟を拒否すると発表する前に行動する一夜がある。",
+    "zh-CN": "你的处境岌岌可危。直接对抗无法取胜。但若无所作为，匈奴将巩固鄯善的忠诚，你的使命在第一步便宣告失败。你得知匈奴使节的队伍在城墙外驻营，在一处警卫极少的独立院落。你只有一夜时间采取行动，而后鄯善王将正式宣布拒绝与汉结盟。"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Night attack — eliminate the Xiongnu envoy",
+        "ja": "夜襲——匈奴の使節を排除する",
+        "zh-CN": "夜袭——消灭匈奴使节"
+      },
+      "description": {
+        "en": "Gather your 36 soldiers tonight. Attack the Xiongnu compound in darkness, using fire to create chaos, and kill the envoy and his entire party before they can organize resistance. Without a Xiongnu envoy to rely on, the Shanshan king will have no choice but to deal with Han. As you will tell your soldiers: those who enter the tiger's den without courage cannot catch the tiger's cub.",
+        "ja": "今夜36人の兵士を集める。暗闇の中で匈奴の複合施設を攻撃し、混乱を作るために火を使い、使節とその一行全員が抵抗を組織する前に殺す。頼れる匈奴の使節なしに、鄯善王は漢と取引するより他に選択肢がなくなる。あなたが兵士たちに言うように：虎穴に入らずんば虎子を得ず。",
+        "zh-CN": "今夜召集你的36名士兵。在黑暗中袭击匈奴院落，以火攻制造混乱，在使节及其随从组织抵抗之前将其全部歼灭。没有可依赖的匈奴使节，鄯善王别无选择，只能与汉朝打交道。正如你将告诉士兵们的：不入虎穴，焉得虎子。"
+      },
+      "outcome": {
+        "en": "The attack succeeds. Fire and darkness create exactly the confusion you need. The Xiongnu envoy is killed before he can organize resistance. In the morning, you present the Shanshan king with the Xiongnu envoy's head and a simple message: the Han are here, the Xiongnu are gone. The king, calculating which power is now present and which is absent, submits to Han. Your mission proceeds.",
+        "ja": "攻撃は成功する。火と暗闇が必要な混乱をまさに作り出す。匈奴の使節は抵抗を組織する前に殺される。翌朝、あなたは鄯善王に匈奴使節の首と簡単なメッセージを提示する：漢はここにいる、匈奴はいなくなった。王は今どちらの勢力が存在してどちらが欠席しているかを計算して、漢に服属する。あなたの使命が続く。",
+        "zh-CN": "夜袭成功。火焰与黑暗制造出你所需要的恰当混乱。匈奴使节在来得及组织抵抗之前便被击毙。翌晨，你将匈奴使节的首级和一句简单的话呈于鄯善王面前：汉人在此，匈奴已去。国王权衡了当前哪方势力在场、哪方缺席，遂臣服于汉。你的使命得以继续推进。"
+      },
+      "stateChanges": [
+        { "variable": "hanPrestige", "operation": "add", "value": 20 },
+        { "variable": "xiongnuthreat", "operation": "add", "value": -15 },
+        { "variable": "localAlliances", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Diplomatic escalation — force the king to choose publicly",
+        "ja": "外交的エスカレーション——王に公開の場で選択を迫る",
+        "zh-CN": "外交升级——逼迫国王公开表态"
+      },
+      "description": {
+        "en": "Request an urgent audience with the Shanshan king. Reveal that you know about the Xiongnu pressure. Tell him plainly: the Han Emperor knows where his kingdom stands, and the choice he makes today will determine whether Han armies or Xiongnu armies come to this kingdom in the future. You cannot guarantee his safety if he chooses Xiongnu — but Han protection is absolute for those who demonstrate loyalty. Make the calculation unavoidable.",
+        "ja": "鄯善王に緊急謁見を要請する。匈奴の圧力について知っていることを明らかにする。率直に言う：漢の皇帝は彼の王国がどこに立っているかを知っており、今日彼がする選択が将来この王国に漢の軍と匈奴の軍のどちらが来るかを決める。もし匈奴を選ぶなら彼の安全を保証できない——しかし忠誠を示す者には漢の保護は絶対だ。計算を避けられないものにする。",
+        "zh-CN": "紧急请求与鄯善王会面。直言你已知晓匈奴施压之事，坦率告知：汉朝皇帝清楚他的王国站在哪一边，今日的抉择将决定未来是汉军还是匈奴军队来到这片土地。若他选择匈奴，你无法保证他的安全——但对于表明忠诚的人，汉的庇护绝对可靠。让这道计算题无从回避。"
+      },
+      "outcome": {
+        "en": "The king listens but remains hesitant — the Xiongnu are physically present and the Han force is 36 men. He asks for time to consider. The Xiongnu envoy meanwhile strengthens his position, offering the Shanshan king gifts and promises. Three days later, the king formally aligns with Xiongnu. You leave Shanshan empty-handed. The mission requires a different approach at the next kingdom.",
+        "ja": "王は聞くが躊躇したままだ——匈奴は実際にそこにいて、漢の戦力は36人だ。彼は考える時間を求める。匈奴の使節はその間に、鄯善王に贈り物と約束を申し出て地位を強化する。三日後、王は正式に匈奴と連携する。あなたは空手で鄯善を去る。使命は次の王国で異なるアプローチを必要とする。",
+        "zh-CN": "国王倾听了，却仍然犹豫不决——匈奴人实实在在地在场，而汉军不过36人。他要求给时间考虑。与此同时，匈奴使节以礼物和承诺加强了自己的地位。三天后，国王正式与匈奴结盟。你空手离开鄯善，使命在下一个王国需要换一种方式推进。"
+      },
+      "stateChanges": [
+        { "variable": "hanPrestige", "operation": "add", "value": 5 },
+        { "variable": "xiongnuthreat", "operation": "add", "value": 5 },
+        { "variable": "militaryForce", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "initialState": {
+    "hanPrestige": 50,
+    "xiongnuthreat": 65,
+    "localAlliances": 30,
+    "tradeRouteControl": 35,
+    "militaryForce": 20
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "scenarioId": "zhuge-liang-northern-228",
+  "timeline": [
+    {
+      "date": "0228-01-01",
+      "description": {
+        "en": "Zhuge Liang launches the First Northern Expedition from Hanzhong, advancing through Qishan with a large Shu Han army. The move achieves strategic surprise: three Wei commanderies — Nan'an, Tianshui, and Anding — immediately surrender. Wei Emperor Cao Rui personally travels to Chang'an to coordinate the defense, dispatching his best remaining general Zhang He to intercept the Shu Han advance.",
+        "ja": "諸葛亮が漢中から第一次北伐を開始し、大軍を率いて祁山を通じて前進する。この動きは戦略的奇襲を達成した：南安・天水・安定の三郡が直ちに降伏する。魏の曹叡帝は自ら長安に向かい防衛を指揮し、残る最精鋭の将軍・張郃を蜀漢の前進を阻むべく派遣する。",
+        "zh-CN": "诸葛亮从汉中发动第一次北伐，率大军经祁山进军。此举达成战略奇袭之效：南安、天水、安定三郡相继投降。魏帝曹叡亲赴长安主持防御，派遣麾下现存最强将领张郃前往拦截蜀汉的进军。"
+      }
+    },
+    {
+      "date": "0228-02-01",
+      "description": {
+        "en": "Zhuge Liang appoints Ma Su to defend the critical road junction at Jieting, the gateway that protects Shu Han's supply lines through the Qinling passes. Despite the explicit warnings of subordinate officer Wang Ping, Ma Su abandons the road position and camps his army on a nearby hilltop. Wei general Zhang He encircles the hill, cuts off the water supply, and the Shu Han force collapses. The loss of Jieting forces Zhuge Liang to abandon the entire expedition.",
+        "ja": "諸葛亮は秦嶺の峠を通る蜀漢の補給線を守る要衝・街亭の防衛に馬謖を任命する。部下の将官・王平の明確な警告にもかかわらず、馬謖は道路の陣地を捨てて近くの山頂に軍を駐屯させる。魏の張郃が丘を包囲して水を断ち、蜀漢軍が崩壊する。街亭の喪失が諸葛亮に北伐全体の放棄を強いる。",
+        "zh-CN": "诸葛亮任命马谡防守街亭——这一关键的道路交汇点，是蜀汉经秦岭山隘补给线的门户。不顾部将王平的明确警告，马谡放弃道路阵地，将军队屯于附近山顶。魏将张郃包围山丘，断绝水源，蜀汉军队溃败。街亭失守迫使诸葛亮放弃整次北伐。"
+      }
+    },
+    {
+      "date": "0228-04-01",
+      "description": {
+        "en": "Zhuge Liang conducts an orderly withdrawal back to Hanzhong, personally supervising the evacuation of the populations of three counties from the Wei River valley to safety in Shu Han territory. Historians record this as a remarkable feat of administrative competence executed under military pressure. Upon return to Chengdu, Zhuge Liang demotes himself three ranks and has Ma Su executed by military law, weeping as he issues the order.",
+        "ja": "諸葛亮は漢中への整然とした撤退を指揮し、渭河流域三郡の住民を自ら率いて蜀漢の領土へ安全に避難させる。歴史家はこれを軍事的圧力下で行われた行政的能力の注目すべき偉業として記録する。成都に帰還後、諸葛亮は自らを三等降格し、命令を下しながら涙を流しつつ馬謖を軍法によって処刑させる。",
+        "zh-CN": "诸葛亮有序撤回汉中，亲自主持将渭河流域三县民众迁移至蜀汉境内的工作。历史家将此记录为在军事压力下展现的行政能力的非凡壮举。返回成都后，诸葛亮自贬三级，含泪下令依军法处决马谡。"
+      }
+    },
+    {
+      "date": "0228-08-01",
+      "description": {
+        "en": "Zhuge Liang launches the Second Northern Expedition, this time advancing through the Chen Cang pass to the east. The campaign stalls at the fortified city of Chen Cang, whose defender Hao Zhao holds out with a small garrison against Zhuge Liang's much larger force for over twenty days. Supply shortages eventually force another Shu Han withdrawal.",
+        "ja": "諸葛亮が第二次北伐を発動し、今度は東の陳倉の峠を通じて進軍する。この戦役は陳倉の要塞都市で停滞する。守将・郝昭が少数の守備隊で諸葛亮のはるかに大きな軍に対して二十日以上持ちこたえる。物資不足が最終的にまた蜀漢の撤退を強いる。",
+        "zh-CN": "诸葛亮发动第二次北伐，这次经由东侧的陈仓道进军。战役在陈仓要塞城市陷入僵局，守将郝昭以少量守军抵御诸葛亮的大军达二十余日。补给不足最终迫使蜀汉再度撤退。"
+      }
+    },
+    {
+      "date": "0229-01-01",
+      "description": {
+        "en": "Zhuge Liang launches the Third Northern Expedition, capturing two Wei commanderies in the Wu Du and Yin Ping regions. Though the gains are modest, the expedition is considered a tactical success and Zhuge Liang is restored to his former rank. Shu Han also concludes a diplomatic agreement with the Eastern Wu kingdom, reestablishing the alliance against Wei.",
+        "ja": "諸葛亮が第三次北伐を発動し、武都と陰平地区の魏の二郡を占領する。戦果は控えめだが、この北伐は戦術的成功とみなされ、諸葛亮は元の官位に復される。蜀漢はまた東呉との外交協定を締結し、魏に対する同盟を再確立する。",
+        "zh-CN": "诸葛亮发动第三次北伐，占领武都与阴平两郡。虽战果有限，但此役被视为战术上的成功，诸葛亮也得以复官原职。蜀汉还与东吴达成外交协议，重建对魏联盟。"
+      }
+    },
+    {
+      "date": "0231-01-01",
+      "description": {
+        "en": "The Fourth Northern Expedition sees Zhuge Liang once again advance through Qishan with a large force. The campaign features some of Zhuge Liang's most tactically accomplished operations, and Wei general Zhang He is killed in a Shu Han ambush during the retreat — a significant loss for Wei. However, the expedition again ends in withdrawal when Shu Han's supply officer Li Yan falsely claims that supply shipments have been disrupted.",
+        "ja": "第四次北伐で諸葛亮は再び大軍を率いて祁山を通じて進軍する。この戦役には諸葛亮の最も戦術的に優れた作戦のいくつかが含まれ、魏の将軍・張郃が撤退中の蜀漢の伏兵に討たれる——魏にとって大きな損失だ。しかし蜀漢の補給担当官・李厳が補給輸送が妨害されたと虚偽の報告をしたことで、再び撤退に終わる。",
+        "zh-CN": "第四次北伐中，诸葛亮再度率大军经祁山进军。此役包含诸葛亮一些战术上最为出色的军事行动，魏将张郃在撤退途中死于蜀汉伏击——对魏国是重大损失。然而，由于蜀汉军需官李严虚报补给运输受阻，北伐再度以撤退告终。"
+      }
+    },
+    {
+      "date": "0234-01-01",
+      "description": {
+        "en": "Zhuge Liang launches the Fifth and final Northern Expedition, advancing to the Wuzhang Plains on the south bank of the Wei River. The Wei commander Sima Yi refuses to engage, adopting a defensive strategy to wait out the Shu Han supply situation. The two armies face each other in an extended standoff. Zhuge Liang, suffering from declining health, attempts to provoke Wei into battle by sending Sima Yi a set of women's clothes — implying cowardice — but Sima Yi remains unmoved.",
+        "ja": "諸葛亮が第五次にして最後の北伐を発動し、渭河南岸の五丈原まで進軍する。魏の司令官・司馬懿は交戦を拒否し、蜀漢の補給状況が悪化するのを待つ防衛戦略を採る。両軍は長期的な対峙状態で向かい合う。健康状態が悪化している諸葛亮は、司馬懿に女性の衣服——臆病を示唆するもの——を送ることで魏を戦いに誘い出そうとするが、司馬懿は動じない。",
+        "zh-CN": "诸葛亮发动第五次也是最后一次北伐，进抵渭河南岸的五丈原。魏军统帅司马懿拒绝出战，采取防御策略以待蜀汉补给告罄。两军在漫长的对峙中相持不下。健康每况愈下的诸葛亮试图送给司马懿一套女性衣物——暗示其懦弱——以激其出战，但司马懿岿然不动。"
+      }
+    },
+    {
+      "date": "0234-10-01",
+      "description": {
+        "en": "Zhuge Liang dies of illness at his command post on the Wuzhang Plains, aged fifty-three, still in the field pursuing the goal he had committed to in his Memorial to the Throne. Before dying, he arranges for the army's orderly withdrawal back to Hanzhong. When Sima Yi pursues the retreating Shu Han forces and they turn to face him, he famously retreats, leading to the proverb: a dead Zhuge Liang frightens away a living Zhongda.",
+        "ja": "諸葛亮が五丈原の司令所で53歳で病死する。まだ戦地にあり、出師の表で誓った目標を追い続けていた。死に際して、軍が漢中へ整然と撤退するよう手配する。司馬懿が撤退する蜀漢軍を追撃し、彼らが向き直ると有名なことに撤退し、「死せる孔明、生ける仲達を走らす」という諺につながった。",
+        "zh-CN": "诸葛亮在五丈原司令所病逝，享年五十三岁，仍在战场上追寻着他在出师表中矢志的使命。临终前，他安排大军有序撤回汉中。当司马懿追击撤退的蜀汉军队时，对方回身列阵，司马懿闻名于世地选择退兵，由此诞生了谚语：「死诸葛走生仲达。」"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Zhuge Liang's five northern expeditions (228–234 AD) failed to achieve their stated objective of conquering Wei and restoring Han rule over all of China. The First Expedition came closest to success before the disaster at Jieting. Subsequent expeditions demonstrated Zhuge Liang's tactical brilliance but could not overcome the structural disadvantages of Shu Han — smaller population, weaker economy, and the logistical nightmare of crossing the Qinling Mountains with a large army. His death in 234 left Shu Han without a strategist of comparable ability. The kingdom survived another twenty-nine years until Wei's final conquest in 263 AD.",
+    "ja": "諸葛亮の五度の北伐（228〜234年）は、魏を征服して全中国に漢の統治を回復するという表明された目標の達成に失敗した。第一次北伐は街亭の惨事の前に最も成功に近づいた。その後の北伐は諸葛亮の戦術的才能を示したが、蜀漢の構造的不利——より少ない人口、より弱い経済、大軍を率いて秦嶺を越える兵站上の悪夢——を克服できなかった。234年の彼の死は蜀漢を同等の能力を持つ戦略家なしに残した。王国はさらに二十九年生き残り、263年の魏による最終的な征服まで続いた。",
+    "zh-CN": "诸葛亮的五次北伐（228—234年）未能实现其所宣示的征服魏国、光复汉室统治全中国的目标。第一次北伐在街亭惨败前最接近成功。此后各次北伐展示了诸葛亮的战术才华，但无法克服蜀汉的结构性劣势——人口更少、经济更弱，以及率大军翻越秦岭的后勤噩梦。234年他的辞世使蜀汉失去了同等能力的战略家。蜀汉此后又存续了二十九年，直至263年被魏国最终征服。"
+  },
+  "casualties": {
+    "en": "Precise casualty figures for the Northern Expeditions are not recorded with reliability. The First Expedition's defeat at Jieting resulted in significant Shu Han losses and the abandonment of territorial gains in three commanderies. Over the course of five campaigns, Shu Han's already-limited manpower suffered attrition that it could not easily replace. The execution of Ma Su after the First Expedition removed a capable if flawed officer. Wei's most significant loss was the death of the veteran general Zhang He in 231 AD during the Fourth Expedition.",
+    "ja": "北伐の正確な死傷者数は信頼性をもって記録されていない。第一次北伐の街亭での敗北は蜀漢に大きな損害をもたらし、三郡での領土的成果を放棄させた。五度の戦役を通じて、元々限られていた蜀漢の兵力は容易に補填できない消耗を被った。第一次北伐後の馬謖の処刑は、欠点はあるが有能な将校を失うことになった。魏の最も重大な損失は231年の第四次北伐での老将・張郃の戦死だった。",
+    "zh-CN": "北伐的确切伤亡数字无从可靠记录。第一次北伐在街亭的失败给蜀汉带来了重大损失，并迫使放弃了三郡的领土成果。五次战役下来，本已有限的蜀汉兵力遭受了难以弥补的消耗。第一次北伐后对马谡的处决失去了一位虽有缺陷但能力出众的将领。魏国最重大的损失是231年第四次北伐中老将张郃的战死。"
+  },
+  "significance": {
+    "en": "The Northern Expeditions occupy a unique place in Chinese cultural memory that far exceeds their strategic results. Zhuge Liang's loyalty to a cause that circumstances had rendered nearly hopeless, his impeccable personal integrity, and his death in the field at his command post transformed him into China's supreme exemplar of the loyal minister. His Memorial to the Throne — written before the First Expedition — is one of the most studied prose works in the Chinese literary canon. The appointment of Ma Su over Jieting has been debated by strategists and historians for nearly two thousand years as a case study in the dangers of placing personal trust above professional judgment. Sima Yi's patient defensive strategy against Zhuge Liang became the foundational model for the eventual Jin dynasty's reunification of China.",
+    "ja": "北伐は中国の文化的記憶において、その戦略的結果をはるかに超えた独自の位置を占める。諸葛亮の、状況によってほぼ絶望的にされた大義への忠誠、その完璧な個人的誠実さ、そして前線の司令所での死は、彼を中国における忠臣の至高の手本に変えた。彼の出師の表——第一次北伐前に書かれた——は中国文学正典で最もよく研究された散文作品の一つだ。街亭への馬謖の任命は、専門的判断よりも個人的信頼を置く危険性のケーススタディとして、約二千年にわたって戦略家と歴史家によって議論されてきた。司馬懿の諸葛亮に対する辛抱強い防衛戦略は、最終的な晋王朝による中国再統一の基礎的モデルとなった。",
+    "zh-CN": "北伐在中国文化记忆中占有远超其战略成果的独特地位。诸葛亮对一项几乎被现实逼得毫无希望的事业的赤诚忠心、他无可指摘的个人操守，以及他在前线指挥所中的辞世，使他成为中国历史上忠臣的最高典范。他在第一次北伐前写就的出师表，是中国文学正典中研究最为广泛的散文作品之一。街亭马谡的任命问题，作为以个人信任凌驾专业判断之危险性的案例，近两千年来一直是战略家与历史学家争论的课题。司马懿对诸葛亮的耐心防御策略，成为最终晋朝统一中国的基础性范本。"
+  },
+  "furtherReading": [
+    "Rafe de Crespigny, Generals of the South: The Foundation and Early History of the Three Kingdoms State of Wu (Australian National University, 1990)",
+    "Moss Roberts (translator), Three Kingdoms: A Historical Novel by Luo Guanzhong (University of California Press, 1991)",
+    "Rafe de Crespigny, A Biographical Dictionary of Later Han to the Three Kingdoms (Brill, 2007)",
+    "Robert Joe Cutter and William Gordon Crowell, Empresses and Consorts: Selections from Chen Shou's Records of the Three States (University of Hawaii Press, 1999)",
+    "Achilles Fang, The Chronicle of the Three Kingdoms: Selections from the Tzu Chih T'ung Chien (Harvard University Press, 1952)"
+  ]
+}

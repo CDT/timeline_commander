@@ -1,0 +1,34 @@
+{
+  "scenarioId": "khmer-empire-angkor-1177",
+  "title": {
+    "en": "The Cham Sack of Angkor and Jayavarman VII's Reconquest",
+    "ja": "チャムによるアンコール略奪とジャヤヴァルマン7世の奪還",
+    "zh-CN": "占婆人劫掠吴哥与阇耶跋摩七世的光复"
+  },
+  "description": {
+    "en": "In 1177 AD, the Cham kingdom of Vietnam launched a devastating surprise naval attack on Angkor, the capital of the Khmer Empire. Sailing up the Mekong and Tonle Sap lake, the Cham fleet reached Angkor and sacked it — killing the king and humiliating the greatest empire in Southeast Asia. Four years later, the exiled prince Jayavarman VII returned at the head of an army. Play as Jayavarman VII and lead the reconquest that would transform him into the greatest builder-king in Khmer history.",
+    "ja": "1177年、ベトナムのチャム王国がアンコールに壊滅的な奇襲海軍攻撃を開始した。メコン川とトンレサップ湖を遡上したチャムの艦隊がアンコールに到達して略奪し——王を殺して東南アジア最大の帝国を辱めた。四年後、亡命中の王子ジャヤヴァルマン7世が軍を率いて帰還した。ジャヤヴァルマン7世として、彼をクメール史上最大の建設王に変える奪還を指揮せよ。",
+    "zh-CN": "公元1177年，越南占婆王国对吴哥发动了毁灭性的奇袭水战。占婆舰队溯湄公河与洞里萨湖而上，抵达吴哥并将其洗劫一空——杀死国王，羞辱了东南亚最强大的帝国。四年后，流亡王子阇耶跋摩七世率军归来。扮演阇耶跋摩七世，领导光复之战，这场胜利将使他成为高棉历史上最伟大的建造者-国王。"
+  },
+  "date": "1177-06-01",
+  "location": {
+    "en": "Angkor, Khmer Empire (modern Cambodia)",
+    "ja": "アンコール、クメール帝国（現在のカンボジア）",
+    "zh-CN": "吴哥，高棉帝国（今柬埔寨）"
+  },
+  "playerRole": {
+    "en": "Jayavarman VII — Khmer prince in exile, future king",
+    "ja": "ジャヤヴァルマン7世——亡命中のクメール王子、将来の王",
+    "zh-CN": "阇耶跋摩七世——流亡的高棉王子，未来的国王"
+  },
+  "initialState": {
+    "khmerMorale": 40,
+    "chamStrength": 70,
+    "militaryForce": 50,
+    "buddhistSupport": 45,
+    "populationLoyalty": 55
+  },
+  "tags": ["cambodia", "khmer", "cham", "angkor", "southeast asia", "medieval", "reconquest"],
+  "difficulty": "hard",
+  "historicalOutcome": "khmer_reconquest"
+}

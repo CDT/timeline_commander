@@ -1,0 +1,113 @@
+{
+  "id": "ashoka-kalinga-261bc-scene-002",
+  "scenarioId": "ashoka-kalinga-261bc",
+  "title": {
+    "en": "The Buddhist Monk",
+    "ja": "仏僧との出会い",
+    "zh-CN": "与佛教僧侣的相遇"
+  },
+  "date": {
+    "en": "Several weeks after the Kalinga War, 261 BC",
+    "ja": "カリンガ戦争から数週間後、紀元前261年",
+    "zh-CN": "羯陵伽战争结束数周后，公元前261年"
+  },
+  "location": {
+    "en": "The imperial camp near Tosali, Kalinga",
+    "ja": "カリンガ・トーサリ近郊の帝国野営地",
+    "zh-CN": "羯陵伽托萨利附近的帝国营地"
+  },
+  "narrativePrompt": {
+    "en": "His name is Upagupta, and he has been in the camp for three days now, tending to the sick and speaking with your soldiers. You have watched him from a distance — a lean figure in saffron robes moving unhurried through a camp full of urgency, as if he belongs to a different pace of existence entirely.\n\nYour minister Radhagupta comes to you this morning with his report, and the report ends with a warning. The monks are becoming popular in the camp. Your soldiers speak with them. There have been conversions. A faction among the court Brahmins is already saying that this man undermines imperial authority — that his doctrine of non-harm and universal compassion, if taken seriously, makes the business of empire impossible. They are not wrong about that, technically.\n\nRadhagupta lays out the options carefully. Grant the monk a formal audience and risk appearing to endorse his teachings before the whole army. Or send him away with the standard diplomatic gift — respect without engagement. The empire runs on the principle that force is the final argument, and a man who teaches that force is the root of suffering is either a saint or a threat. Possibly both.\n\nBut you have not slept well since Kalinga. You keep seeing that young farmer's hands. You have spent your life in the business of power, and it has cost you something you cannot name and cannot get back. The monk is sitting in the shade of a pipal tree near the camp's eastern gate, very still, apparently waiting for nothing in particular. His calmness is, you realize, almost offensive. You have 500,000 soldiers and he has nothing, and he seems to be the one who is not afraid.",
+    "ja": "彼の名はウパグプタ。もう三日間、野営地に滞在し、病人を看護し、あなたの兵士たちと語り合っている。あなたは遠くから彼を観察してきた——喧騒に満ちた野営地を急ぐことなく動き回る、袈裟を纏った痩せた人物。まるで全く異なる時の流れに属しているかのように。\n\n今朝、大臣ラーダグプタが報告を持ってきた。報告は警告で締めくくられている。僧侶たちが野営地で人気を得つつある。あなたの兵士たちが彼らと話している。改宗者が出ている。宮廷バラモンの一派はすでに、この男が帝国の権威を損なわせていると言い始めている——彼の不害と普遍的な慈悲の教義を真剣に受け止めるなら、帝国の業務は不可能になると。技術的には、彼らは間違っていない。\n\nラーダグプタは慎重に選択肢を提示する。正式な謁見を与え、全軍の前で彼の教えを支持するように見えるリスクを冒す。あるいは、標準的な外交的贈り物とともに彼を帰す——関与のない敬意。帝国は力が最終的な論拠だという原則の上に成り立っており、力が苦の根源であると教える男は、聖人か脅威かのどちらかだ。おそらく両方だろう。\n\nしかし、カリンガ以来あなたはよく眠れていない。あの若い農民の手が目に浮かびつづける。人生を権力の事業に捧げてきたが、名前も付けられず取り戻せないものを失ってしまった。僧侶は野営地の東門近くのピパルの木の陰に座り、動かず、特に何も待っていないようだ。その穏やかさは、あなたには思う、ほとんど無礼なほどだ。あなたには50万の兵士がいて彼には何もない——それでも恐れていないように見えるのは、彼の方だ。",
+    "zh-CN": "他叫乌波笈多，已经在营地待了三天，照料病患，与你的士兵们交谈。你从远处观察他——一个身着藏红花色僧袍的清瘦身影，在充满紧迫感的营地里不慌不忙地行走，仿佛他属于一种完全不同的时间节奏。\n\n今天早晨，大臣罗陀笈多带着报告来见你，报告以一则警告结束。僧侣们正在营地里赢得人心。你的士兵们与他们交谈。已经有人皈依了。宫廷婆罗门中的一个派系已经开始说，此人在动摇帝国的权威——他的不害与普世慈悲之说，若被认真对待，将使帝国的事业无以为继。从技术层面来说，他们说的没错。\n\n罗陀笈多仔细地摆出了几个选项。给予这位僧侣正式觐见，冒着在全军面前显得支持其教义的风险。或者以惯例的外交礼物送他离去——表达尊重但不深入接触。帝国建立在以武力为最终论据的原则之上，而一个教导武力是苦之根源的人，不是圣人就是威胁。也可能两者都是。\n\n但自从羯陵伽以来，你便没有睡好。你不断看见那个年轻农民的双手。你将一生奉献于权力的事业，却因此失去了某些你无法命名、也无法找回的东西。僧侣正坐在营地东门附近一棵菩提树的阴影下，一动不动，似乎并不特别在等待什么。他的平静，你意识到，几乎令人恼火。你有五十万大军而他一无所有，然而看起来毫不畏惧的，却是他。"
+  },
+  "situationReport": [
+    {
+      "en": "The Buddhist monk Upagupta has been present in the camp for three days. His sermons draw crowds of soldiers and camp workers. Several of your junior officers have asked permission to receive his teaching formally.",
+      "ja": "仏僧ウパグプタは三日間野営地に滞在している。彼の説法は兵士や野営地の作業員を集めている。あなたの下級将校の数名が正式に彼の教えを受ける許可を求めている。",
+      "zh-CN": "佛教僧侣乌波笈多已在营地待了三天。他的说法吸引了大批士兵和营地工人前来聆听。你的几位下级军官已申请获准正式接受他的教诲。"
+    },
+    {
+      "en": "Court Brahmins have submitted a formal memorandum arguing that Buddhist doctrine, if adopted at court, would undermine the theological basis of Mauryan imperial authority and threaten the established priestly order.",
+      "ja": "宮廷バラモンたちは、仏教教義が宮廷で採用された場合、マウリヤ帝国の権威の神学的基盤を損ない、確立された祭司秩序を脅かすと主張する正式な覚書を提出した。",
+      "zh-CN": "宫廷婆罗门已提交一份正式备忘录，认为若佛教教义在朝廷被采纳，将动摇孔雀帝国权威的神学基础，威胁已建立的祭司秩序。"
+    },
+    {
+      "en": "Your personal grief and moral distress remain visible to your inner circle. Several advisors have privately expressed concern that the Emperor is not in a stable state of mind for governance.",
+      "ja": "あなたの個人的な悲嘆と道徳的苦悩は、側近たちの目に明らかだ。複数の顧問が、皇帝が統治に安定した精神状態ではないと個人的に懸念を表明している。",
+      "zh-CN": "你个人的悲痛和道德上的苦恼在你的核心圈子中清晰可见。几位顾问已私下表达了对皇帝目前心态是否适于治国的担忧。"
+    },
+    {
+      "en": "Administrative consolidation of Kalinga continues. A new provincial governor has been appointed. Tax registration of the population is underway.",
+      "ja": "カリンガの行政統合が続いている。新しい州知事が任命された。人口の税務登録が進行中だ。",
+      "zh-CN": "羯陵伽的行政整合工作仍在继续。新的省级长官已经任命。人口税务登记正在进行中。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide whether to engage deeply with Buddhist teaching or maintain the established Brahmanical order at court",
+      "ja": "仏教の教えに深く関与するか、宮廷の確立されたバラモン秩序を維持するかを決める",
+      "zh-CN": "决定是否深入接触佛教教义，还是维持宫廷中已建立的婆罗门秩序"
+    },
+    {
+      "en": "Navigate the political consequences of the Emperor's visible spiritual crisis without destabilizing the imperial court",
+      "ja": "帝国宮廷を不安定化させることなく、皇帝の明らかな精神的危機の政治的影響を乗り越える",
+      "zh-CN": "在不动摇帝国朝廷稳定的前提下，妥善应对皇帝显而易见的精神危机所带来的政治后果"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Brahmanical priestly class is politically powerful and will resist any official shift toward Buddhism",
+      "ja": "バラモンの祭司階級は政治的に強力であり、仏教への公式な傾斜に抵抗するだろう",
+      "zh-CN": "婆罗门祭司阶层在政治上势力强大，将抵制任何向佛教的官方倾斜"
+    },
+    {
+      "en": "The army's loyalty is built on a culture of martial honor — a dharma of non-violence could confuse or alienate the military class",
+      "ja": "軍の忠誠は武勲の文化の上に築かれており——非暴力の法は軍人階級を混乱させたり疎外したりする可能性がある",
+      "zh-CN": "军队的忠诚建立在武勇荣誉的文化之上——非暴力之法可能令军人阶层感到困惑或产生疏离感"
+    }
+  ],
+  "choices": [
+    {
+      "id": "ashoka-kalinga-261bc-scene-002-choice-a",
+      "text": {
+        "en": "Grant Upagupta a formal audience. Spend the afternoon and evening in extended conversation. Let your ministers and generals see that the Emperor is genuinely listening to the Buddhist teaching.",
+        "ja": "ウパグプタに正式な謁見を与える。午後と夜を通じて深い対話に費やす。皇帝が仏教の教えに真剣に耳を傾けていることを大臣や将軍たちに見せる。",
+        "zh-CN": "给予乌波笈多正式觐见。花整个下午和傍晚进行深入交谈。让你的大臣和将领们看到皇帝在认真聆听佛教教义。"
+      },
+      "historicalContext": "This is the historical path. Ashoka's engagement with Buddhism was public and profound. His conversion transformed not just his personal practice but the entire apparatus of Mauryan governance.",
+      "outcomePrompt": {
+        "en": "The audience is scheduled for the afternoon and runs until the lamps are lit. You dismiss your ministers after the initial formalities — this is not a conversation for officials. Upagupta speaks without notes, without theater. He speaks of the Four Noble Truths as simply as a man describing rain. Suffering exists. Suffering has a cause. The cause can be understood. There is a path away from it. He applies these truths to the field at Kalinga without flinching. One hundred thousand dead. Caused. Causal. Your actions ripple outward into uncountable lives. He does not tell you that you are damned. He tells you that you are capable of understanding what you have done, and that understanding is the beginning of something different.\n\nYou are in this conversation for six hours. When Radhagupta finally requests entrance to report that supper is cold, you wave him off. You are asking about the eightfold path, about the monks who have renounced violence, about what it means to rule a great empire without the threat of the sword.\n\nYou do not sleep that night. But for the first time since Kalinga, the feeling in your chest is not grief alone. There is something else — call it purpose, call it the beginning of a direction. The empire is still yours. The question is what you will build with it.",
+        "ja": "謁見は午後に設定され、ランプが灯されるまで続く。最初の儀礼的な形式の後、あなたは大臣たちを退出させる——これは役人のための会話ではない。ウパグプタは手書きのメモも、演出もなく語る。雨を描写する人のように率直に、四聖諦について語る。苦は存在する。苦には原因がある。原因は理解できる。そこから離れる道がある。彼はカリンガの戦場にこれらの真理を適用する。10万人の死者。原因があった。因果によるものだ。あなたの行為は数え切れないほどの人生へと波紋のように広がっていく。彼は、あなたが呪われていると言わない。あなたが自分のしたことを理解できる存在であり、その理解が別の何かの始まりだと言う。\n\nあなたはこの会話に六時間費やす。ラーダグプタが夕食が冷めたと報告するためにようやく入室を求めたとき、あなたは手を振って断る。あなたは八正道について、暴力を放棄した僧侶たちについて、剣の脅威なしに大帝国を治めることの意味について問い続けている。\n\nその夜は眠れない。しかしカリンガ以来初めて、胸の中にある感覚は悲嘆だけではない。別の何かがある——目的と呼ぼう、方向の始まりと呼ぼう。帝国はまだあなたのものだ。問いはそれを何に使うかだ。",
+        "zh-CN": "觐见被安排在下午，一直持续到灯火点燃之时。初步礼节过后，你遣退了大臣们——这不是一场为官员而设的对话。乌波笈多不用笔记，没有任何排演。他谈起四圣谛，就像一个人描述雨水一样简朴。苦存在。苦有其原因。原因可以被理解。有一条离苦的道路。他毫不回避地将这些真理运用于羯陵伽的战场。十万死者。有因。有缘。你的行为如涟漪般荡漾开去，波及无数生命。他没有说你已堕入地狱。他说，你有能力理解自己所做的事，而这种理解是迈向别处的开始。\n\n你在这场对话中坐了六个小时。当罗陀笈多终于请求进来汇报晚餐已凉时，你摆手让他退下。你仍在追问关于八正道的问题，关于那些放弃暴力的僧侣，关于在没有刀剑威胁的情况下统治一个伟大帝国意味着什么。\n\n那一夜你没有入睡。但自羯陵伽以来，你胸中的感受第一次不再只是悲痛。还有别的东西——姑且称之为目的，称之为某个方向的开端。帝国仍然是你的。问题是你将用它建造什么。"
+      },
+      "nextSceneId": "ashoka-kalinga-261bc-scene-003",
+      "stateChanges": [
+        { "variable": "dharmaConviction", "operation": "add", "value": 35 },
+        { "variable": "spiritualAwakening", "operation": "add", "value": 30 },
+        { "variable": "ashokaGrief", "operation": "add", "value": -20 }
+      ]
+    },
+    {
+      "id": "ashoka-kalinga-261bc-scene-002-choice-b",
+      "text": {
+        "en": "Send the monk away with a generous gift of silver and a diplomatic acknowledgment. Return your attention to the statecraft at hand — Kalinga needs administrators, not philosophers.",
+        "ja": "銀の寛大な贈り物と外交的な謝辞とともに僧侶を帰す。目前の国家術に注意を向け直す——カリンガには哲学者ではなく行政官が必要だ。",
+        "zh-CN": "以丰厚的银质礼物和外交上的致谢送走这位僧侣。将注意力重新集中于眼前的治国事务——羯陵伽需要的是行政官，而非哲学家。"
+      },
+      "historicalContext": "This represents the counterfactual path. Without the engagement with Buddhist teaching, Ashoka might have remained a capable but conventional ancient emperor, and Buddhism's spread across Asia might have taken a very different course.",
+      "outcomePrompt": {
+        "en": "Radhagupta delivers your decision with the appropriate tact: the Emperor is grateful for the monk's presence and service to the wounded, and the silver is a mark of the Emperor's esteem. The monk accepts it, bows, and leaves without visible distress. You watch from the edge of the tent as the saffron robe disappears down the camp road.\n\nThe afternoon fills with the work of empire. Provincial administrators. Tax registers. The question of which Kalinga nobles may be trusted with local authority and which must be replaced. These are the questions that actually run an empire, and you are good at them. By the time the lamps are lit, you have made twenty decisions that will shape Kalinga for a generation.\n\nAnd yet. The grief is still there, exactly where you left it. You have put a door between yourself and the questions the monk was asking, and the door holds for now. But you notice, in the quiet before sleep, that you are building the door more carefully than you are building anything else, and that says something about which one matters more.",
+        "ja": "ラーダグプタは適切な配慮をもってあなたの決断を伝える：皇帝は僧侶の滞在と負傷者への奉仕に感謝しており、銀は皇帝の敬意の証だ。僧侶はそれを受け取り、お辞儀をし、目立った苦悩も見せずに去っていく。あなたは天幕の端から、藏紅花色の袈裟が野営地の道を消えていくのを見守る。\n\n午後は帝国の仕事で埋まる。州の行政官。税務登録簿。カリンガの貴族のうち誰を地方の権威として信頼できるか、誰を置き換えなければならないか、という問題。これらが実際に帝国を動かす問いであり、あなたはそれに長けている。ランプが灯される頃には、一世代にわたってカリンガを形作るだろう二十の決断を下している。\n\nそれでも。悲嘆はまだそこにある、あなたが置いた場所のままに。僧侶が問いかけていた問いとあなた自身の間に扉を設けた。今のところその扉は持ちこたえている。しかし眠りの前の静寂の中で気づく——あなたは他のあらゆるものを作るより慎重にその扉を作っており、それはどちらの方がより重要かについて何かを物語っている。",
+        "zh-CN": "罗陀笈多以适当的体贴传达了你的决定：皇帝感谢这位僧侣的在场和对伤员的照料，这份银礼是皇帝尊重之情的表达。僧侣接过礼物，鞠躬，没有明显的难色地离开了。你站在帐篷边缘，目送那袭藏红花色的僧袍消失在营地的道路尽头。\n\n下午的时光充满了帝国的事务。省级行政官员。税务登记册。哪些羯陵伽贵族可以信任，赋予地方权力，哪些必须撤换——这些才是真正运作帝国的问题，你擅长处理它们。到灯火点燃之时，你已经做出了二十个将影响羯陵伽一代人的决策。\n\n然而。悲痛依然在那里，就在你留下它的地方。你在自己与那位僧侣所提出的问题之间建起了一道门，这扇门暂时还守得住。但在入睡前的寂静中，你注意到，你修建这道门比修建任何其他东西都更为用心，而这说明了哪一件事更为重要。"
+      },
+      "nextSceneId": "ashoka-kalinga-261bc-scene-003",
+      "stateChanges": [
+        { "variable": "militaryControl", "operation": "add", "value": 5 },
+        { "variable": "ashokaGrief", "operation": "add", "value": 10 },
+        { "variable": "dharmaConviction", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

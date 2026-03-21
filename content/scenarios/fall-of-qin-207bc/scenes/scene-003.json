@@ -1,0 +1,113 @@
+{
+  "id": "fall-of-qin-207bc-scene-003",
+  "scenarioId": "fall-of-qin-207bc",
+  "title": {
+    "en": "The Xin'an Decision",
+    "ja": "新安の決断",
+    "zh-CN": "新安之决"
+  },
+  "date": {
+    "en": "207 BC, Xin'an, on the Road to Xianyang",
+    "ja": "紀元前207年、咸陽への道の途中、新安",
+    "zh-CN": "公元前207年，新安，咸阳途中"
+  },
+  "location": {
+    "en": "Xin'an, western Henan Province",
+    "ja": "新安、河南省西部",
+    "zh-CN": "新安，河南省西部"
+  },
+  "narrativePrompt": {
+    "en": "Zhang Han's army has surrendered. Two hundred thousand men, the last organized military force of the Qin empire, have laid down their weapons. The surrender was negotiated over weeks of mounting pressure — Zhang Han sending messages to the Qin court that went unanswered while Zhao Gao's political intrigues consumed every official who might have authorized relief, until finally even Zhang Han could not pretend that help was coming. He came to you in person, and you accepted his submission, and now his soldiers — 200,000 of them — march in your column on the road to Xianyang.\n\nYour officers have come to you with a problem, and it is not a small problem. These are Qin men. They were raised speaking Qin dialect, trained in Qin military tradition, fed by Qin logistics systems that were built for the Qin heartland, and they are marching now toward a homeland they have not seen in months or years. The reports from your officers are consistent: these men are sullen. They resent being disarmed. When your Chu soldiers make disparaging comments — and they do, because Chu soldiers have not forgotten that Qin soldiers killed their kin and razed their cities — the Qin prisoners make disparaging comments back, and the tensions simmer.\n\nYour most senior officer, one of your generals whose counsel you trust, has laid it out for you with cold logic. If these 200,000 men are marching with your army when you reach Guanzhong — Qin's heartland, the territory their families come from — they will have the incentive and the opportunity to revolt. The territory will remember them as sons; they will remember it as home; and 200,000 men who know how to fight, even disarmed, can acquire weapons. The risk is existential. If they revolt while your army is advancing on the capital, you may lose everything you have gained.\n\nThe same officer has proposed a solution that is also a problem: kill them. All of them. Before they reach Guanzhong, before the risk becomes reality. It is, he argues, the only certain resolution. He is not wrong about the risk. He is not wrong about the certainty. What he has not argued about, because it is not his role to argue about it, is what it means to bury 200,000 men in a ditch in Xin'an — men who surrendered on terms, men who are no longer combatants, men who had no choice in the matter any more than the rain has a choice.",
+    "ja": "章邯の軍が降伏した。秦帝国の最後の組織的な軍事力、20万の男たちが武器を置いた。降伏は数週間の増大する圧力の中で交渉された——章邯が秦の朝廷に送ったメッセージは、趙高の政治的謀略がおそらく援軍を許可したであろうすべての官僚を消耗させる中、未回答のままで、最終的に章邯でさえ援助が来るふりをすることができなくなった。彼は自らあなたのところに来て、あなたは彼の服従を受け入れ、そして今彼の兵士たち——20万人——が咸陽への道であなたの隊列の中を行進している。\n\nあなたの将校たちが問題をもってあなたのところに来た。それは小さな問題ではない。これらは秦人だ。彼らは秦の方言を話して育ち、秦の軍事的伝統で訓練され、秦の中枢のために作られた秦の兵站システムで養われ、そして今数ヶ月または何年も見ていない故郷に向かって行進している。あなたの将校からの報告は一致している：これらの男たちは不機嫌だ。武装解除されたことを恨んでいる。あなたの楚の兵士たちが軽蔑的なコメントをするとき——彼らはそうする、なぜなら楚の兵士たちは秦の兵士たちが親族を殺し都市を破壊したことを忘れていないから——秦の捕虜たちも軽蔑的なコメントで返し、緊張が燻っている。\n\nあなたの最上級の将校の一人、あなたが助言を信頼する将軍が、冷たい論理であなたに説明した。これら20万人があなたの軍と共に関中——秦の中枢、彼らの家族が出身の領土——に到達するとき行進しているなら、彼らは反乱を起こすインセンティブと機会を持つ。その領土は彼らを息子として記憶するだろう；彼らはそれを故郷として記憶するだろう；そして戦い方を知る20万人が、武装解除されていても、武器を手に入れることができる。リスクは実存的だ。もし彼らが軍が都に進軍している間に反乱を起こせば、あなたはこれまで得たものすべてを失うかもしれない。\n\n同じ将校が問題でもある解決策を提案した：彼らを殺せ。全員を。彼らが関中に到達する前に、リスクが現実になる前に。それは、と彼は主張する、唯一確実な解決策だ。彼はリスクについて間違っていない。確実性について間違っていない。彼が主張しなかったのは——なぜならそれは彼の役割ではないから——新安の溝に20万人の男を埋めることが何を意味するかだ——条件をもって降伏した男たち、もはや戦闘員ではない男たち、雨が選択の余地がないように選択の余地がなかった男たち。",
+    "zh-CN": "章邯的军队投降了。二十万人，秦帝国最后一支有组织的军事力量，放下了武器。投降是在数周持续加压下谈判达成的——章邯向秦朝廷发出的奏报无人回复，赵高的政治阴谋吞噬了每一个可能授权援兵的官员，直至章邯再无法假装援助将会到来。他亲自来到你面前，你接受了他的臣服，如今他的士卒——二十万人——正在咸阳道上随你的队列行进。\n\n你的将领们带着一个问题来找你，而这并不是一个小问题。这些人是秦人。他们从小说秦地方言，受秦国军事传统训练，由为秦国腹地修建的秦国后勤系统供养，如今正向数月乃至数年未曾见过的故土行进。来自你将领们的报告一致：这些人情绪低落，怨恨被解除武装。当你的楚军士卒出言轻蔑——他们确实如此，因为楚兵没有忘记秦兵杀害了他们的亲人、夷平了他们的城市——秦军俘虏以同样轻蔑的话语回击，紧张气氛持续积聚。\n\n你最资深的将领之一，一位你信任其谋划的将军，以冷峻的逻辑向你陈述了形势。若这二十万人随你的军队抵达关中——秦国腹地、他们家族的故乡——他们将拥有反叛的动机与机会。那片土地将把他们当作归乡之子；他们将把它当作家园；而懂得战斗的二十万人，哪怕被解除武装，也能弄到兵器。这是生死攸关的风险。若他们在你的军队攻取都城之时发动叛乱，你可能失去所有已经赢得的。\n\n同一位将领提出了一个同样是问题的解决方案：杀死他们。全部。在他们抵达关中之前，在风险成为现实之前。他主张，这是唯一确定无疑的解决之道。他对风险的判断没有错。他对确定性的判断也没有错。他没有提及的——因为那不是他的职责——是在新安的沟渠中埋葬二十万人意味着什么：那些以特定条件投降的人，那些不再是战斗人员的人，那些别无选择正如雨水没有选择的人。"
+  },
+  "situationReport": [
+    {
+      "en": "200,000 surrendered Qin soldiers march in your column, disarmed but not yet secured. They are homesick men approaching their homeland and are showing signs of sullenness and resentment toward their Chu captors.",
+      "ja": "20万の降伏した秦兵があなたの隊列を行進している。武装解除されているが、まだ確保されていない。彼らは故郷に近づく故郷を懐かしむ男たちであり、楚の捕虜者たちに対する不機嫌さと怨恨の兆候を示している。",
+      "zh-CN": "二十万秦军降卒在你的队列中行进，已被解除武装但尚未妥善管控。他们是思念故土、正在接近家乡的士卒，正表现出对楚军看守者的沉闷与怨恨迹象。"
+    },
+    {
+      "en": "Your senior officers argue that a revolt of 200,000 men who know the terrain of Guanzhong intimately could destroy your army. The risk assessment is genuine and the military logic is sound.",
+      "ja": "あなたの上級将校たちは、関中の地形を熟知した20万人の反乱がおそらくあなたの軍を壊滅させるかもしれないと主張する。リスク評価は真剣であり、軍事的論理は正当だ。",
+      "zh-CN": "你的高级将领们认为，二十万对关中地形了如指掌的人一旦反叛可能会摧毁你的军队。这一风险评估是真实的，军事逻辑也是合理的。"
+    },
+    {
+      "en": "Executing surrendered soldiers on this scale would shock the world and damage your reputation as a commander who can be surrendered to — which will affect how future enemies choose to fight or negotiate.",
+      "ja": "この規模で降伏した兵士を処刑することは世界を驚かせ、降伏できる指揮官としてのあなたの評判を損なう——これは将来の敵が戦うか交渉するかをどのように選ぶかに影響を与えるだろう。",
+      "zh-CN": "以这种规模处决投降士兵将震惊天下，损害你作为一个可以接受投降的指挥官的声誉——这将影响未来的敌人如何选择战斗还是谈判。"
+    },
+    {
+      "en": "Liu Bang has already reached Xianyang and accepted the Qin surrender with mercy — his treatment of the surrendered Qin population is already winning him goodwill in Guanzhong that you do not yet have.",
+      "ja": "劉邦はすでに咸陽に到達し、慈悲をもって秦の降伏を受け入れた——降伏した秦の人口への彼の扱いは、あなたがまだ持っていない関中での好意をすでに彼に勝ち取っている。",
+      "zh-CN": "刘邦已抵达咸阳并以宽厚接受了秦国投降——他对秦地降众的对待方式已在关中为他赢得了你尚不拥有的民心。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Neutralize the security threat posed by 200,000 potentially hostile former Qin soldiers before your army reaches Guanzhong",
+      "ja": "あなたの軍が関中に到達する前に、潜在的に敵対的な20万の旧秦兵が提示する安全保障上の脅威を無力化する",
+      "zh-CN": "在你的军队抵达关中之前，化解二十万可能敌对的旧秦士卒所构成的安全威胁"
+    },
+    {
+      "en": "Make a decision whose consequences will define your relationship with the population of Guanzhong — a population you will need to govern if you are to hold northern China",
+      "ja": "結果があなたと関中の人口との関係を定義する決断を下す——北中国を保持するために統治する必要がある人口だ",
+      "zh-CN": "做出一个决策，其后果将界定你与关中民众的关系——若要守住北中国，这是你必须治理的民众"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You have made a public commitment that soldiers who surrender will be treated according to the terms of their surrender — breaking this commitment will signal to all future enemies that surrender to you is not a safe option",
+      "ja": "あなたは降伏する兵士が降伏の条件に従って扱われるという公的なコミットメントをした——このコミットメントを破ることは、将来のすべての敵に対してあなたへの降伏が安全な選択肢ではないことを示すだろう",
+      "zh-CN": "你已公开承诺，投降的士卒将按照投降条件得到对待——违背这一承诺将向所有未来的敌人发出信号：向你投降并非安全之举"
+    },
+    {
+      "en": "You need the territory of Guanzhong to be manageable — mass atrocity against surrendered Qin soldiers will make the Qin heartland population implacably hostile, complicating any governance of the west",
+      "ja": "あなたは関中の領土を管理可能にする必要がある——降伏した秦兵への大規模な残虐行為は、秦の中枢の人口を不和解なほど敵対的にし、西部のいかなる統治も複雑にするだろう",
+      "zh-CN": "你需要关中领土是可以治理的——对投降秦兵的大规模暴行将使秦国腹地的民众怀有无可化解的敌意，令对西部地区的任何治理都复杂化"
+    }
+  ],
+  "choices": [
+    {
+      "id": "fall-of-qin-207bc-scene-003-choice-a",
+      "text": {
+        "en": "Execute the surrendered Qin soldiers: bury or kill all 200,000 men at Xin'an before they can reach their homeland and revolt",
+        "ja": "降伏した秦兵を処刑する：彼らが故郷に到達して反乱を起こす前に、新安で20万人全員を生き埋めにするか殺す",
+        "zh-CN": "处决投降的秦军降卒：在他们抵达故土并发动叛乱之前，于新安将二十万人全部坑杀"
+      },
+      "historicalContext": "This was Xiang Yu's historical decision. The Xin'an Massacre of 200,000 Qin soldiers became one of the most condemned acts in Chinese history and permanently alienated the population of Guanzhong, contributing to Xiang Yu's defeat by Liu Bang.",
+      "outcomePrompt": {
+        "en": "The order is given at night. By morning it is done. Two hundred thousand men who had surrendered under negotiated terms are dead — buried alive in pits east of Xin'an, or killed at the banks of the river, or driven into the marshes and killed there. The scale of the act is staggering even to those who carry it out. Your officers comply because you have commanded it. Some of them comply without flinching; some of them will not speak of it afterward.\n\nThe military threat is eliminated. You march on Xianyang without incident. But word of what happened at Xin'an spreads through Guanzhong faster than your army moves, and what you encounter in the western heartland is not submission but a silence that has the quality of stone. The people do not resist you openly — they are not strong enough. But they remember. Liu Bang, who reached the capital first and made his three simple laws and declined to loot the palace, is already something in Guanzhong that you will never be: a man the western population believes might treat them as people rather than as objects of conquest. The cost of what you did at Xin'an will not be paid immediately. It will be paid slowly, in years of the Chu-Han War, when Guanzhong's population supplies Liu Bang with men and Liu Bang's armies grow while yours does not.",
+        "ja": "命令は夜に下される。朝までには完了する。交渉された条件の下で降伏した20万人の男たちが死んでいる——新安の東の穴に生き埋めにされ、川岸で殺され、または湿地に追い込まれてそこで殺された。その行為の規模は、それを実行する者たちにも驚愕するものだ。あなたの将校たちは、あなたが命令したから従う。彼らのうちの何人かは眉一つ動かさずに従う；何人かはその後、そのことについて話さないだろう。\n\n軍事的脅威は排除された。あなたは何事もなく咸陽に進軍する。しかし新安で何が起きたかの話があなたの軍よりも早く関中に広まり、西方の中枢で出会うのは服従ではなく石の性質を持つ沈黙だ。人々はあなたに公然と抵抗しない——彼らは十分な強さがない。しかし彼らは覚えている。都に最初に到達し三つのシンプルな法を作り宮殿の略奪を断った劉邦は、関中ですでにあなたが決して持つことのできないものを持っている：西方の人口が征服の対象としてではなく人として扱ってくれるかもしれないと信じる男。あなたが新安でしたことの代償はすぐには支払われない。それはゆっくりと支払われるだろう、楚漢戦争の数年間に、関中の人口が劉邦に兵を供給し、劉邦の軍がある一方であなたの軍が成長しない中で。",
+        "zh-CN": "命令在夜间下达。到天亮时已经完毕。二十万以谈判条件投降的男人已经死去——在新安以东的坑中被活埋，或在河岸被杀，或被驱入沼泽在那里处死。这一行为的规模令执行者们也感到震惊。你的将领们因为你的命令而服从。他们中的一些人面不改色地服从；一些人此后将不再提及此事。\n\n军事威胁被消除了。你平安无事地进军咸阳。但新安发生的事情比你的军队行进更快地传遍关中，你在西方腹地遇到的不是臣服，而是具有磐石性质的沉默。人们不公开反抗你——他们没有足够的力量。但他们记住了。先于你抵达都城、颁布三章约法、拒绝掠夺宫殿的刘邦，在关中已经拥有了你将永远无法拥有的东西：西方民众相信他或许会将他们视为人而非征服对象。你在新安所为的代价不会立刻到来，而是在楚汉战争的数年中缓缓偿还——当关中民众为刘邦提供兵员、刘邦的军队不断壮大而你的军队停滞不前之时。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 30 },
+        { "variable": "allianceCohesion", "operation": "add", "value": -20 },
+        { "variable": "chuMorale", "operation": "add", "value": -15 }
+      ]
+    },
+    {
+      "id": "fall-of-qin-207bc-scene-003-choice-b",
+      "text": {
+        "en": "Integrate the surrendered Qin soldiers: disperse them throughout your forces, give them food and fair treatment, and attempt to convert former Qin men into Chu soldiers through inclusion rather than elimination",
+        "ja": "降伏した秦兵を統合する：彼らをあなたの部隊全体に分散させ、食事と公正な扱いを与え、排除ではなく包含を通じて旧秦人を楚の兵士に変えようとする",
+        "zh-CN": "整编降卒：将他们分散编入你的各部队，给予食物与公正对待，尝试以整合而非消灭的方式将旧秦士卒改造为楚军士卒"
+      },
+      "historicalContext": "This path was not taken historically. Integrating the surrendered soldiers would have removed the immediate security risk but created a different challenge: maintaining cohesion in a mixed army while marching through territory the Qin soldiers considered home.",
+      "outcomePrompt": {
+        "en": "You disperse the 200,000 Qin soldiers throughout your army in small groups — no concentration large enough to coordinate a revolt, with Chu units on all sides and food and water controlled by your quartermasters. You make a short address to the assembled Qin commanders: Qin is finished, but the men who served Qin need not die for a dynasty that no longer exists. They are soldiers. Soldiers serve whoever rules. They can serve under Chu as they served under Qin.\n\nThe integration is imperfect. There are fights, resentments, incidents that require intervention. Some Qin soldiers desert when the column passes close enough to their home villages. Some, unexpectedly, stay and fight. The security risk does not disappear but it does not materialize into rebellion, and you march into Guanzhong without catastrophe. In the west, the people of Qin's heartland hear that you did not massacre the surrendered men. It does not make them love you — they are Qin people, and you are the man who destroyed their dynasty. But it leaves open the possibility that you might be a ruler they can survive under, which is more than the man who buried 200,000 of their sons in a ditch left open. The Chu-Han War will still come. But it will come with Guanzhong less implacably hostile to you than it might have been.",
+        "ja": "あなたは20万の秦兵を軍全体に小集団で分散させる——反乱を調整するのに十分な集中なしに、四方に楚の部隊を配置し、食料と水をあなたの糧食係が管理する。集まった秦の指揮官たちに短い演説をする：秦は終わった、しかし秦に仕えた男たちはもはや存在しない王朝のために死ぬ必要はない。彼らは兵士だ。兵士は誰が統治するかに仕える。彼らは秦に仕えたように楚のもとで仕えることができる。\n\n統合は不完全だ。戦い・怨恨・介入を必要とする出来事がある。隊列が故郷の村に十分近くを通過すると逃亡する秦兵もいる。予想外に、留まって戦う者もいる。安全保障上のリスクは消えないが、反乱として現実化しない。あなたは災害なく関中に進軍する。西方では、秦の中枢の人々が、降伏した男たちを虐殺しなかったことを聞く。それは彼らにあなたを好きにさせない——彼らは秦の人で、あなたは彼らの王朝を滅ぼした男だ。しかしそれは、あなたが彼らが生き残れる下の統治者かもしれないという可能性を開いたままにする。溝に彼らの息子20万人を埋めた男が開いたままにしたよりも多く。楚漢戦争はまだ来る。しかしそれは、あり得たよりも関中があなたに対して不和解で敵対的でなく来るだろう。",
+        "zh-CN": "你将二十万秦军分散编入军中各处小集群——任何集中都不足以协调一场叛乱，四周皆为楚军部队，食物与水由你的辎重官掌控。你向集合的秦军将领们作了简短讲话：秦已覆灭，但效力于秦的人无需为一个不复存在的王朝去死。他们是士卒。士卒效忠于统治者。他们可以如曾效忠于秦那样，效忠于楚。\n\n整编并不完美。有争斗、怨恨、需要干预的事件。当队列经过足够靠近故乡村庄时，一些秦兵逃跑了。一些人，出人意料地，留下来战斗。安全风险没有消失，但没有演变为叛乱，你未遭灾难地进军关中。在西方，秦国腹地的民众听说你没有屠杀投降的士卒。这并不让他们爱你——他们是秦人，而你是摧毁他们王朝的人。但这为一种可能性留出了空间：你或许是一个他们能够在其治下生存的统治者，这比那个将他们二十万儿郎填入沟壑的人所留出的空间要多。楚汉战争仍然会来。但它到来时，关中对你的敌意将比本可能的情况少一分执拗。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "allianceCohesion", "operation": "add", "value": 20 },
+        { "variable": "supplyLine", "operation": "add", "value": 15 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

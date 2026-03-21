@@ -2,26 +2,56 @@
   "regions": [
     {
       "id": "ancient-mediterranean",
-      "name": { "en": "Ancient Mediterranean & Near East", "ja": "古代地中海・近東", "zh-CN": "古代地中海与近东" },
+      "name": {
+        "en": "Ancient Mediterranean & Near East",
+        "ja": "古代地中海・近東",
+        "zh-CN": "古代地中海与近东"
+      },
       "eras": [
         {
           "id": "bronze-age",
-          "name": { "en": "Bronze Age", "ja": "青銅器時代", "zh-CN": "青铜时代" },
+          "name": {
+            "en": "Bronze Age",
+            "ja": "青銅器時代",
+            "zh-CN": "青铜时代"
+          },
           "dateRange": "1274 BC – 1184 BC",
           "scenarios": [
             {
               "id": "battle-of-kadesh-1274bc",
-              "title": { "en": "The Battle of Kadesh", "ja": "カデシュの戦い", "zh-CN": "卡叠什战役" },
-              "brief": { "en": "Ramesses II vs the Hittites — ambushed, nearly destroyed, then charges alone", "ja": "ラメセス2世対ヒッタイット——待ち伏せ、壊滅寸前、そして単独突撃", "zh-CN": "拉美西斯二世对赫梯——被伏击、几乎覆灭，然后独自冲锋" },
-              "dates": { "start": "1274-05-01-BC", "end": "1274-05-01-BC" },
+              "title": {
+                "en": "The Battle of Kadesh",
+                "ja": "カデシュの戦い",
+                "zh-CN": "卡叠什战役"
+              },
+              "brief": {
+                "en": "Ramesses II vs the Hittites — ambushed, nearly destroyed, then charges alone",
+                "ja": "ラメセス2世対ヒッタイット——待ち伏せ、壊滅寸前、そして単独突撃",
+                "zh-CN": "拉美西斯二世对赫梯——被伏击、几乎覆灭，然后独自冲锋"
+              },
+              "dates": {
+                "start": "1274-05-01-BC",
+                "end": "1274-05-01-BC"
+              },
               "difficulty": "hard",
               "roleCount": 1
             },
             {
               "id": "trojan-war-1184bc",
-              "title": { "en": "The Trojan War", "ja": "トロイア戦争", "zh-CN": "特洛伊战争" },
-              "brief": { "en": "The siege that launched a thousand myths — and one wooden horse", "ja": "千の神話を生み出した包囲戦——そして一頭の木馬", "zh-CN": "引发千古神话的围城——和一匹木马" },
-              "dates": { "start": "1184-01-01-BC", "end": "1184-01-01-BC" },
+              "title": {
+                "en": "The Trojan War",
+                "ja": "トロイア戦争",
+                "zh-CN": "特洛伊战争"
+              },
+              "brief": {
+                "en": "The siege that launched a thousand myths — and one wooden horse",
+                "ja": "千の神話を生み出した包囲戦——そして一頭の木馬",
+                "zh-CN": "引发千古神话的围城——和一匹木马"
+              },
+              "dates": {
+                "start": "1184-01-01-BC",
+                "end": "1184-01-01-BC"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             }
@@ -29,110 +59,257 @@
         },
         {
           "id": "classical",
-          "name": { "en": "Classical Antiquity", "ja": "古典古代", "zh-CN": "古典时代" },
+          "name": {
+            "en": "Classical Antiquity",
+            "ja": "古典古代",
+            "zh-CN": "古典时代"
+          },
           "dateRange": "539 BC – 30 BC",
           "scenarios": [
             {
               "id": "fall-of-babylon-539bc",
-              "title": { "en": "The Fall of Babylon", "ja": "バビロンの陥落", "zh-CN": "巴比伦的陷落" },
-              "brief": { "en": "Cyrus the Great opens the gates of the greatest city in the world", "ja": "キュロス大王が世界最大の都市の門を開く", "zh-CN": "居鲁士大帝打开世界最伟大城市的城门" },
-              "dates": { "start": "0539-10-12-BC", "end": "0539-10-12-BC" },
+              "title": {
+                "en": "The Fall of Babylon",
+                "ja": "バビロンの陥落",
+                "zh-CN": "巴比伦的陷落"
+              },
+              "brief": {
+                "en": "Cyrus the Great opens the gates of the greatest city in the world",
+                "ja": "キュロス大王が世界最大の都市の門を開く",
+                "zh-CN": "居鲁士大帝打开世界最伟大城市的城门"
+              },
+              "dates": {
+                "start": "0539-10-12-BC",
+                "end": "0539-10-12-BC"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "marathon-490bc",
-              "title": { "en": "The Battle of Marathon", "ja": "マラトンの戦い", "zh-CN": "马拉松战役" },
-              "brief": { "en": "Ten thousand Athenians hold the line against the Persian Empire", "ja": "一万人のアテナイ人がペルシア帝国に対して防衛線を維持する", "zh-CN": "一万雅典人对抗波斯帝国" },
-              "dates": { "start": "0490-09-12-BC", "end": "0490-09-12-BC" },
+              "title": {
+                "en": "The Battle of Marathon",
+                "ja": "マラトンの戦い",
+                "zh-CN": "马拉松战役"
+              },
+              "brief": {
+                "en": "Ten thousand Athenians hold the line against the Persian Empire",
+                "ja": "一万人のアテナイ人がペルシア帝国に対して防衛線を維持する",
+                "zh-CN": "一万雅典人对抗波斯帝国"
+              },
+              "dates": {
+                "start": "0490-09-12-BC",
+                "end": "0490-09-12-BC"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "salamis-480bc",
-              "title": { "en": "The Battle of Salamis", "ja": "サラミスの海戦", "zh-CN": "萨拉米斯海战" },
-              "brief": { "en": "Themistocles lures the Persian fleet into a trap that saves Greece", "ja": "テミストクレスがギリシアを救うためにペルシア艦隊を罠に誘い込む", "zh-CN": "地米斯托克利诱骗波斯舰队落入陷阱，拯救希腊" },
-              "dates": { "start": "0480-09-22-BC", "end": "0480-09-22-BC" },
+              "title": {
+                "en": "The Battle of Salamis",
+                "ja": "サラミスの海戦",
+                "zh-CN": "萨拉米斯海战"
+              },
+              "brief": {
+                "en": "Themistocles lures the Persian fleet into a trap that saves Greece",
+                "ja": "テミストクレスがギリシアを救うためにペルシア艦隊を罠に誘い込む",
+                "zh-CN": "地米斯托克利诱骗波斯舰队落入陷阱，拯救希腊"
+              },
+              "dates": {
+                "start": "0480-09-22-BC",
+                "end": "0480-09-22-BC"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "peloponnesian-war-404bc",
-              "title": { "en": "The Peloponnesian War", "ja": "ペロポネソス戦争", "zh-CN": "伯罗奔尼撒战争" },
-              "brief": { "en": "Athens vs Sparta — the war that tore Greece apart", "ja": "アテナイ対スパルタ——ギリシアを引き裂いた戦争", "zh-CN": "雅典对斯巴达——撕裂希腊的战争" },
-              "dates": { "start": "0431-01-01-BC", "end": "0404-01-01-BC" },
+              "title": {
+                "en": "The Peloponnesian War",
+                "ja": "ペロポネソス戦争",
+                "zh-CN": "伯罗奔尼撒战争"
+              },
+              "brief": {
+                "en": "Athens vs Sparta — the war that tore Greece apart",
+                "ja": "アテナイ対スパルタ——ギリシアを引き裂いた戦争",
+                "zh-CN": "雅典对斯巴达——撕裂希腊的战争"
+              },
+              "dates": {
+                "start": "0431-01-01-BC",
+                "end": "0404-01-01-BC"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             },
             {
               "id": "alexander-gaugamela-331bc",
-              "title": { "en": "The Battle of Gaugamela", "ja": "ガウガメラの戦い", "zh-CN": "高加米拉战役" },
-              "brief": { "en": "Alexander vs Darius — the charge that ended the Persian Empire", "ja": "アレクサンドロス対ダレイオス——ペルシア帝国を終わらせた突撃", "zh-CN": "亚历山大对大流士——终结波斯帝国的冲锋" },
-              "dates": { "start": "0331-10-01-BC", "end": "0331-10-01-BC" },
+              "title": {
+                "en": "The Battle of Gaugamela",
+                "ja": "ガウガメラの戦い",
+                "zh-CN": "高加米拉战役"
+              },
+              "brief": {
+                "en": "Alexander vs Darius — the charge that ended the Persian Empire",
+                "ja": "アレクサンドロス対ダレイオス——ペルシア帝国を終わらせた突撃",
+                "zh-CN": "亚历山大对大流士——终结波斯帝国的冲锋"
+              },
+              "dates": {
+                "start": "0331-10-01-BC",
+                "end": "0331-10-01-BC"
+              },
               "difficulty": "hard",
               "roleCount": 1
             },
             {
               "id": "alexander-india-326bc",
-              "title": { "en": "Alexander in India", "ja": "インドのアレクサンドロス", "zh-CN": "亚历山大在印度" },
-              "brief": { "en": "The edge of the known world — and the moment Alexander's army refused to go further", "ja": "既知の世界の果て——そしてアレクサンドロスの軍がこれ以上進むことを拒否した瞬間", "zh-CN": "已知世界的边缘——亚历山大军队拒绝前进的时刻" },
-              "dates": { "start": "0326-05-01-BC", "end": "0326-08-01-BC" },
+              "title": {
+                "en": "Alexander in India",
+                "ja": "インドのアレクサンドロス",
+                "zh-CN": "亚历山大在印度"
+              },
+              "brief": {
+                "en": "The edge of the known world — and the moment Alexander's army refused to go further",
+                "ja": "既知の世界の果て——そしてアレクサンドロスの軍がこれ以上進むことを拒否した瞬間",
+                "zh-CN": "已知世界的边缘——亚历山大军队拒绝前进的时刻"
+              },
+              "dates": {
+                "start": "0326-05-01-BC",
+                "end": "0326-08-01-BC"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             },
             {
               "id": "hannibal-cannae-216bc",
-              "title": { "en": "The Battle of Cannae", "ja": "カンナエの戦い", "zh-CN": "坎尼战役" },
-              "brief": { "en": "Hannibal's double envelopment — the most studied battle in military history", "ja": "ハンニバルの二重包囲——軍事史上最も研究された戦い", "zh-CN": "汉尼拔的双重包围——军事史上研究最多的战役" },
-              "dates": { "start": "0216-08-02-BC", "end": "0216-08-02-BC" },
+              "title": {
+                "en": "The Battle of Cannae",
+                "ja": "カンナエの戦い",
+                "zh-CN": "坎尼战役"
+              },
+              "brief": {
+                "en": "Hannibal's double envelopment — the most studied battle in military history",
+                "ja": "ハンニバルの二重包囲——軍事史上最も研究された戦い",
+                "zh-CN": "汉尼拔的双重包围——军事史上研究最多的战役"
+              },
+              "dates": {
+                "start": "0216-08-02-BC",
+                "end": "0216-08-02-BC"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "fall-of-carthage-146bc",
-              "title": { "en": "The Fall of Carthage", "ja": "カルタゴの滅亡", "zh-CN": "迦太基的陷落" },
-              "brief": { "en": "Rome's destruction of its greatest rival — and the question of mercy", "ja": "ローマによる最大のライバルの壊滅——そして慈悲の問い", "zh-CN": "罗马对最大对手的毁灭——以及关于仁慈的问题" },
-              "dates": { "start": "0146-01-01-BC", "end": "0146-04-01-BC" },
+              "title": {
+                "en": "The Fall of Carthage",
+                "ja": "カルタゴの滅亡",
+                "zh-CN": "迦太基的陷落"
+              },
+              "brief": {
+                "en": "Rome's destruction of its greatest rival — and the question of mercy",
+                "ja": "ローマによる最大のライバルの壊滅——そして慈悲の問い",
+                "zh-CN": "罗马对最大对手的毁灭——以及关于仁慈的问题"
+              },
+              "dates": {
+                "start": "0146-01-01-BC",
+                "end": "0146-04-01-BC"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "spartacus-revolt-73bc",
-              "title": { "en": "The Spartacus Revolt", "ja": "スパルタクスの反乱", "zh-CN": "斯巴达克斯起义" },
-              "brief": { "en": "The slave rebellion that brought Rome to its knees — and the Alps that stopped it", "ja": "ローマを膝まずかせた奴隷反乱——そしてそれを止めたアルプス", "zh-CN": "让罗马屈膝的奴隶起义——以及阻止它的阿尔卑斯山" },
-              "dates": { "start": "0073-01-01-BC", "end": "0071-06-01-BC" },
+              "title": {
+                "en": "The Spartacus Revolt",
+                "ja": "スパルタクスの反乱",
+                "zh-CN": "斯巴达克斯起义"
+              },
+              "brief": {
+                "en": "The slave rebellion that brought Rome to its knees — and the Alps that stopped it",
+                "ja": "ローマを膝まずかせた奴隷反乱——そしてそれを止めたアルプス",
+                "zh-CN": "让罗马屈膝的奴隶起义——以及阻止它的阿尔卑斯山"
+              },
+              "dates": {
+                "start": "0073-01-01-BC",
+                "end": "0071-06-01-BC"
+              },
               "difficulty": "hard",
               "roleCount": 1
             },
             {
               "id": "battle-of-alesia-52bc",
-              "title": { "en": "The Siege of Alesia", "ja": "アレシアの包囲", "zh-CN": "阿莱西亚围城战" },
-              "brief": { "en": "Caesar's double wall besieges the besieged — 50,000 Romans vs 330,000 Gauls", "ja": "カエサルの二重の壁が包囲された者を包囲する——5万ローマ人対33万ガリア人", "zh-CN": "凯撒双层城墙围困被围困者——50,000罗马人对抗330,000高卢人" },
-              "dates": { "start": "0052-07-01-BC", "end": "0052-10-01-BC" },
+              "title": {
+                "en": "The Siege of Alesia",
+                "ja": "アレシアの包囲",
+                "zh-CN": "阿莱西亚围城战"
+              },
+              "brief": {
+                "en": "Caesar's double wall besieges the besieged — 50,000 Romans vs 330,000 Gauls",
+                "ja": "カエサルの二重の壁が包囲された者を包囲する——5万ローマ人対33万ガリア人",
+                "zh-CN": "凯撒双层城墙围困被围困者——50,000罗马人对抗330,000高卢人"
+              },
+              "dates": {
+                "start": "0052-07-01-BC",
+                "end": "0052-10-01-BC"
+              },
               "difficulty": "medium",
               "roleCount": 1
             },
             {
               "id": "caesar-assassination-44bc",
-              "title": { "en": "The Assassination of Caesar", "ja": "カエサルの暗殺", "zh-CN": "凯撒遇刺" },
-              "brief": { "en": "The Ides of March — conspirators who saved the Republic and destroyed it", "ja": "3月のイデス——共和国を救おうとして壊滅させた陰謀者たち", "zh-CN": "三月望日——那些以为拯救共和国却毁灭它的阴谋者" },
-              "dates": { "start": "0044-03-15-BC", "end": "0044-03-15-BC" },
+              "title": {
+                "en": "The Assassination of Caesar",
+                "ja": "カエサルの暗殺",
+                "zh-CN": "凯撒遇刺"
+              },
+              "brief": {
+                "en": "The Ides of March — conspirators who saved the Republic and destroyed it",
+                "ja": "3月のイデス——共和国を救おうとして壊滅させた陰謀者たち",
+                "zh-CN": "三月望日——那些以为拯救共和国却毁灭它的阴谋者"
+              },
+              "dates": {
+                "start": "0044-03-15-BC",
+                "end": "0044-03-15-BC"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "actium-31bc",
-              "title": { "en": "The Battle of Actium", "ja": "アクティウムの戦い", "zh-CN": "亚克兴战役" },
-              "brief": { "en": "Antony and Cleopatra vs Octavian — the sea battle that decided the Roman Empire", "ja": "アントニウスとクレオパトラ対オクタウィアヌス——ローマ帝国の命運を決めた海戦", "zh-CN": "安东尼和克利奥帕特拉对抗屋大维——决定罗马帝国命运的海战" },
-              "dates": { "start": "0031-09-02-BC", "end": "0031-09-02-BC" },
+              "title": {
+                "en": "The Battle of Actium",
+                "ja": "アクティウムの戦い",
+                "zh-CN": "亚克兴战役"
+              },
+              "brief": {
+                "en": "Antony and Cleopatra vs Octavian — the sea battle that decided the Roman Empire",
+                "ja": "アントニウスとクレオパトラ対オクタウィアヌス——ローマ帝国の命運を決めた海戦",
+                "zh-CN": "安东尼和克利奥帕特拉对抗屋大维——决定罗马帝国命运的海战"
+              },
+              "dates": {
+                "start": "0031-09-02-BC",
+                "end": "0031-09-02-BC"
+              },
               "difficulty": "hard",
               "roleCount": 1
             },
             {
               "id": "cleopatra-egypt-30bc",
-              "title": { "en": "Cleopatra's Last Stand", "ja": "クレオパトラの最後の抵抗", "zh-CN": "克利奥帕特拉的最后抵抗" },
-              "brief": { "en": "The last pharaoh faces Octavian — and chooses how her story ends", "ja": "最後のファラオがオクタウィアヌスに向き合う——そして自分の物語がどのように終わるかを選ぶ", "zh-CN": "最后的法老面对屋大维——选择她的故事如何结束" },
-              "dates": { "start": "0030-08-01-BC", "end": "0030-08-12-BC" },
+              "title": {
+                "en": "Cleopatra's Last Stand",
+                "ja": "クレオパトラの最後の抵抗",
+                "zh-CN": "克利奥帕特拉的最后抵抗"
+              },
+              "brief": {
+                "en": "The last pharaoh faces Octavian — and chooses how her story ends",
+                "ja": "最後のファラオがオクタウィアヌスに向き合う——そして自分の物語がどのように終わるかを選ぶ",
+                "zh-CN": "最后的法老面对屋大维——选择她的故事如何结束"
+              },
+              "dates": {
+                "start": "0030-08-01-BC",
+                "end": "0030-08-12-BC"
+              },
               "difficulty": "hard",
               "roleCount": 1
             }
@@ -140,46 +317,105 @@
         },
         {
           "id": "roman-imperial",
-          "name": { "en": "Roman Imperial Era", "ja": "ローマ帝政時代", "zh-CN": "罗马帝国时代" },
+          "name": {
+            "en": "Roman Imperial Era",
+            "ja": "ローマ帝政時代",
+            "zh-CN": "罗马帝国时代"
+          },
           "dateRange": "9 AD – 476 AD",
           "scenarios": [
             {
               "id": "teutoburg-forest-9ad",
-              "title": { "en": "The Teutoburg Forest", "ja": "トイトブルク森の戦い", "zh-CN": "条顿堡林山战役" },
-              "brief": { "en": "Three Roman legions walk into the forest. None come out.", "ja": "三個のローマ軍団が森に入る。誰も出てこない。", "zh-CN": "三个罗马军团走进了森林，一个都没有走出来。" },
-              "dates": { "start": "0009-09-01", "end": "0009-09-03" },
+              "title": {
+                "en": "The Teutoburg Forest",
+                "ja": "トイトブルク森の戦い",
+                "zh-CN": "条顿堡林山战役"
+              },
+              "brief": {
+                "en": "Three Roman legions walk into the forest. None come out.",
+                "ja": "三個のローマ軍団が森に入る。誰も出てこない。",
+                "zh-CN": "三个罗马军团走进了森林，一个都没有走出来。"
+              },
+              "dates": {
+                "start": "0009-09-01",
+                "end": "0009-09-03"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "boudicca-revolt-60",
-              "title": { "en": "The Boudicca Revolt", "ja": "ブーディカの反乱", "zh-CN": "布狄卡起义" },
-              "brief": { "en": "The queen of the Iceni leads Britain's last great revolt against Rome", "ja": "イケニ族の女王がブリテン島最後のローマへの大反乱を率いる", "zh-CN": "伊西尼族女王领导不列颠最后一次对罗马的大起义" },
-              "dates": { "start": "0060-04-01", "end": "0061-09-01" },
+              "title": {
+                "en": "The Boudicca Revolt",
+                "ja": "ブーディカの反乱",
+                "zh-CN": "布狄卡起义"
+              },
+              "brief": {
+                "en": "The queen of the Iceni leads Britain's last great revolt against Rome",
+                "ja": "イケニ族の女王がブリテン島最後のローマへの大反乱を率いる",
+                "zh-CN": "伊西尼族女王领导不列颠最后一次对罗马的大起义"
+              },
+              "dates": {
+                "start": "0060-04-01",
+                "end": "0061-09-01"
+              },
               "difficulty": "hard",
               "roleCount": 1
             },
             {
               "id": "fall-of-jerusalem-70",
-              "title": { "en": "The Fall of Jerusalem", "ja": "エルサレムの陥落", "zh-CN": "耶路撒冷的陷落" },
-              "brief": { "en": "Titus lays siege to the Holy City — a catastrophe that shaped three religions", "ja": "ティトゥスが聖都を包囲する——三つの宗教を形作った大惨事", "zh-CN": "提图斯围攻圣城——塑造三大宗教的灾难" },
-              "dates": { "start": "0070-04-01", "end": "0070-09-07" },
+              "title": {
+                "en": "The Fall of Jerusalem",
+                "ja": "エルサレムの陥落",
+                "zh-CN": "耶路撒冷的陷落"
+              },
+              "brief": {
+                "en": "Titus lays siege to the Holy City — a catastrophe that shaped three religions",
+                "ja": "ティトゥスが聖都を包囲する——三つの宗教を形作った大惨事",
+                "zh-CN": "提图斯围攻圣城——塑造三大宗教的灾难"
+              },
+              "dates": {
+                "start": "0070-04-01",
+                "end": "0070-09-07"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             },
             {
               "id": "masada-73",
-              "title": { "en": "The Siege of Masada", "ja": "マサダ包囲", "zh-CN": "马萨达围城" },
-              "brief": { "en": "960 Jewish rebels on a cliff — and the choice between surrender and death", "ja": "断崖の960人のユダヤ人反乱者——降伏と死の間の選択", "zh-CN": "960名犹太叛军守卫悬崖——在投降与死亡之间抉择" },
-              "dates": { "start": "0072-10-01", "end": "0073-04-16" },
+              "title": {
+                "en": "The Siege of Masada",
+                "ja": "マサダ包囲",
+                "zh-CN": "马萨达围城"
+              },
+              "brief": {
+                "en": "960 Jewish rebels on a cliff — and the choice between surrender and death",
+                "ja": "断崖の960人のユダヤ人反乱者——降伏と死の間の選択",
+                "zh-CN": "960名犹太叛军守卫悬崖——在投降与死亡之间抉择"
+              },
+              "dates": {
+                "start": "0072-10-01",
+                "end": "0073-04-16"
+              },
               "difficulty": "hard",
               "roleCount": 1
             },
             {
               "id": "fall-of-rome-476",
-              "title": { "en": "The Fall of Rome", "ja": "ローマの滅亡", "zh-CN": "罗马的陷落" },
-              "brief": { "en": "Odoacer deposes the last emperor — and the Western Roman Empire ends", "ja": "オドアケルが最後の皇帝を廃位する——そして西ローマ帝国が終わる", "zh-CN": "奥多亚塞废黜最后一位皇帝——西罗马帝国终结" },
-              "dates": { "start": "0476-09-04", "end": "0476-09-04" },
+              "title": {
+                "en": "The Fall of Rome",
+                "ja": "ローマの滅亡",
+                "zh-CN": "罗马的陷落"
+              },
+              "brief": {
+                "en": "Odoacer deposes the last emperor — and the Western Roman Empire ends",
+                "ja": "オドアケルが最後の皇帝を廃位する——そして西ローマ帝国が終わる",
+                "zh-CN": "奥多亚塞废黜最后一位皇帝——西罗马帝国终结"
+              },
+              "dates": {
+                "start": "0476-09-04",
+                "end": "0476-09-04"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             }
@@ -189,26 +425,56 @@
     },
     {
       "id": "europe",
-      "name": { "en": "Europe", "ja": "ヨーロッパ", "zh-CN": "欧洲" },
+      "name": {
+        "en": "Europe",
+        "ja": "ヨーロッパ",
+        "zh-CN": "欧洲"
+      },
       "eras": [
         {
           "id": "ancient",
-          "name": { "en": "Ancient World", "ja": "古代世界", "zh-CN": "古代世界" },
+          "name": {
+            "en": "Ancient World",
+            "ja": "古代世界",
+            "zh-CN": "古代世界"
+          },
           "dateRange": "500 BC – 44 BC",
           "scenarios": [
             {
               "id": "thermopylae-480bc",
-              "title": { "en": "Battle of Thermopylae", "ja": "テルモピュライの戦い", "zh-CN": "温泉关战役" },
-              "brief": { "en": "300 Spartans hold the pass against the Persian Empire", "ja": "300人のスパルタ兵がペルシア帝国に対して峠を守る", "zh-CN": "300名斯巴达勇士扼守关隘抵抗波斯帝国" },
-              "dates": { "start": "0480-08-BC", "end": "0480-08-BC" },
+              "title": {
+                "en": "Battle of Thermopylae",
+                "ja": "テルモピュライの戦い",
+                "zh-CN": "温泉关战役"
+              },
+              "brief": {
+                "en": "300 Spartans hold the pass against the Persian Empire",
+                "ja": "300人のスパルタ兵がペルシア帝国に対して峠を守る",
+                "zh-CN": "300名斯巴达勇士扼守关隘抵抗波斯帝国"
+              },
+              "dates": {
+                "start": "0480-08-BC",
+                "end": "0480-08-BC"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "crossing-rubicon-49bc",
-              "title": { "en": "Crossing the Rubicon", "ja": "ルビコン川を渡る", "zh-CN": "渡过卢比孔河" },
-              "brief": { "en": "Caesar's fateful march that ended the Roman Republic", "ja": "ローマ共和国を終わらせたカエサルの運命的な行軍", "zh-CN": "凯撒终结罗马共和国的命运之行" },
-              "dates": { "start": "0049-01-10-BC", "end": "0049-01-17-BC" },
+              "title": {
+                "en": "Crossing the Rubicon",
+                "ja": "ルビコン川を渡る",
+                "zh-CN": "渡过卢比孔河"
+              },
+              "brief": {
+                "en": "Caesar's fateful march that ended the Roman Republic",
+                "ja": "ローマ共和国を終わらせたカエサルの運命的な行軍",
+                "zh-CN": "凯撒终结罗马共和国的命运之行"
+              },
+              "dates": {
+                "start": "0049-01-10-BC",
+                "end": "0049-01-17-BC"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             }
@@ -216,22 +482,48 @@
         },
         {
           "id": "medieval",
-          "name": { "en": "Medieval Era", "ja": "中世", "zh-CN": "中世纪" },
+          "name": {
+            "en": "Medieval Era",
+            "ja": "中世",
+            "zh-CN": "中世纪"
+          },
           "dateRange": "1066 – 1453",
           "scenarios": [
             {
               "id": "hastings-1066",
-              "title": { "en": "Battle of Hastings", "ja": "ヘイスティングズの戦い", "zh-CN": "黑斯廷斯战役" },
-              "brief": { "en": "William the Conqueror's invasion that reshaped England", "ja": "イングランドを変えたウィリアム征服王の侵攻", "zh-CN": "征服者威廉改变英格兰命运的入侵" },
-              "dates": { "start": "1066-10-14", "end": "1066-10-14" },
+              "title": {
+                "en": "Battle of Hastings",
+                "ja": "ヘイスティングズの戦い",
+                "zh-CN": "黑斯廷斯战役"
+              },
+              "brief": {
+                "en": "William the Conqueror's invasion that reshaped England",
+                "ja": "イングランドを変えたウィリアム征服王の侵攻",
+                "zh-CN": "征服者威廉改变英格兰命运的入侵"
+              },
+              "dates": {
+                "start": "1066-10-14",
+                "end": "1066-10-14"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "constantinople-1453",
-              "title": { "en": "Fall of Constantinople", "ja": "コンスタンティノープルの陥落", "zh-CN": "君士坦丁堡的陷落" },
-              "brief": { "en": "The siege that ended the Byzantine Empire and changed the world", "ja": "ビザンツ帝国を終わらせ世界を変えた包囲戦", "zh-CN": "终结拜占庭帝国并改变世界的围城战" },
-              "dates": { "start": "1453-04-06", "end": "1453-05-29" },
+              "title": {
+                "en": "Fall of Constantinople",
+                "ja": "コンスタンティノープルの陥落",
+                "zh-CN": "君士坦丁堡的陷落"
+              },
+              "brief": {
+                "en": "The siege that ended the Byzantine Empire and changed the world",
+                "ja": "ビザンツ帝国を終わらせ世界を変えた包囲戦",
+                "zh-CN": "终结拜占庭帝国并改变世界的围城战"
+              },
+              "dates": {
+                "start": "1453-04-06",
+                "end": "1453-05-29"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             }
@@ -239,22 +531,48 @@
         },
         {
           "id": "early-modern",
-          "name": { "en": "Early Modern", "ja": "近世", "zh-CN": "近代早期" },
+          "name": {
+            "en": "Early Modern",
+            "ja": "近世",
+            "zh-CN": "近代早期"
+          },
           "dateRange": "1588 – 1789",
           "scenarios": [
             {
               "id": "spanish-armada-1588",
-              "title": { "en": "The Spanish Armada", "ja": "スペイン無敵艦隊", "zh-CN": "西班牙无敌舰队" },
-              "brief": { "en": "England's desperate defense against the world's greatest fleet", "ja": "世界最大の艦隊に対するイングランドの必死の防衛", "zh-CN": "英格兰对抗世界最强舰队的殊死防御" },
-              "dates": { "start": "1588-07-29", "end": "1588-08-08" },
+              "title": {
+                "en": "The Spanish Armada",
+                "ja": "スペイン無敵艦隊",
+                "zh-CN": "西班牙无敌舰队"
+              },
+              "brief": {
+                "en": "England's desperate defense against the world's greatest fleet",
+                "ja": "世界最大の艦隊に対するイングランドの必死の防衛",
+                "zh-CN": "英格兰对抗世界最强舰队的殊死防御"
+              },
+              "dates": {
+                "start": "1588-07-29",
+                "end": "1588-08-08"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "french-revolution-1789",
-              "title": { "en": "The French Revolution", "ja": "フランス革命", "zh-CN": "法国大革命" },
-              "brief": { "en": "The storming of the Bastille and the birth of a new era", "ja": "バスティーユ襲撃と新時代の幕開け", "zh-CN": "攻占巴士底狱与新时代的诞生" },
-              "dates": { "start": "1789-06-20", "end": "1789-07-14" },
+              "title": {
+                "en": "The French Revolution",
+                "ja": "フランス革命",
+                "zh-CN": "法国大革命"
+              },
+              "brief": {
+                "en": "The storming of the Bastille and the birth of a new era",
+                "ja": "バスティーユ襲撃と新時代の幕開け",
+                "zh-CN": "攻占巴士底狱与新时代的诞生"
+              },
+              "dates": {
+                "start": "1789-06-20",
+                "end": "1789-07-14"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             }
@@ -262,14 +580,29 @@
         },
         {
           "id": "age-of-revolution",
-          "name": { "en": "Age of Revolution", "ja": "革命の時代", "zh-CN": "革命时代" },
+          "name": {
+            "en": "Age of Revolution",
+            "ja": "革命の時代",
+            "zh-CN": "革命时代"
+          },
           "dateRange": "1815",
           "scenarios": [
             {
               "id": "waterloo-1815",
-              "title": { "en": "Battle of Waterloo", "ja": "ワーテルローの戦い", "zh-CN": "滑铁卢战役" },
-              "brief": { "en": "Napoleon's final gamble to restore his empire", "ja": "ナポレオンの帝国復活への最後の賭け", "zh-CN": "拿破仑恢复帝国的最后一搏" },
-              "dates": { "start": "1815-06-15", "end": "1815-06-18" },
+              "title": {
+                "en": "Battle of Waterloo",
+                "ja": "ワーテルローの戦い",
+                "zh-CN": "滑铁卢战役"
+              },
+              "brief": {
+                "en": "Napoleon's final gamble to restore his empire",
+                "ja": "ナポレオンの帝国復活への最後の賭け",
+                "zh-CN": "拿破仑恢复帝国的最后一搏"
+              },
+              "dates": {
+                "start": "1815-06-15",
+                "end": "1815-06-18"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             }
@@ -277,22 +610,48 @@
         },
         {
           "id": "world-wars",
-          "name": { "en": "World Wars", "ja": "世界大戦", "zh-CN": "世界大战" },
+          "name": {
+            "en": "World Wars",
+            "ja": "世界大戦",
+            "zh-CN": "世界大战"
+          },
           "dateRange": "1914 – 1945",
           "scenarios": [
             {
               "id": "verdun-1916",
-              "title": { "en": "Battle of Verdun", "ja": "ヴェルダンの戦い", "zh-CN": "凡尔登战役" },
-              "brief": { "en": "The ten-month bloodbath that defined the Western Front", "ja": "西部戦線を象徴する10ヶ月の血戦", "zh-CN": "定义西线战场的十个月血战" },
-              "dates": { "start": "1916-02-21", "end": "1916-12-18" },
+              "title": {
+                "en": "Battle of Verdun",
+                "ja": "ヴェルダンの戦い",
+                "zh-CN": "凡尔登战役"
+              },
+              "brief": {
+                "en": "The ten-month bloodbath that defined the Western Front",
+                "ja": "西部戦線を象徴する10ヶ月の血戦",
+                "zh-CN": "定义西线战场的十个月血战"
+              },
+              "dates": {
+                "start": "1916-02-21",
+                "end": "1916-12-18"
+              },
               "difficulty": "intermediate",
               "roleCount": 2
             },
             {
               "id": "d-day-1944",
-              "title": { "en": "D-Day: Normandy Landings", "ja": "D-デイ：ノルマンディー上陸作戦", "zh-CN": "D日：诺曼底登陆" },
-              "brief": { "en": "The largest amphibious invasion in history to liberate Europe", "ja": "ヨーロッパ解放のための史上最大の水陸両用侵攻", "zh-CN": "史上最大规模两栖登陆解放欧洲" },
-              "dates": { "start": "1944-06-06", "end": "1944-06-12" },
+              "title": {
+                "en": "D-Day: Normandy Landings",
+                "ja": "D-デイ：ノルマンディー上陸作戦",
+                "zh-CN": "D日：诺曼底登陆"
+              },
+              "brief": {
+                "en": "The largest amphibious invasion in history to liberate Europe",
+                "ja": "ヨーロッパ解放のための史上最大の水陸両用侵攻",
+                "zh-CN": "史上最大规模两栖登陆解放欧洲"
+              },
+              "dates": {
+                "start": "1944-06-06",
+                "end": "1944-06-12"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             }
@@ -300,14 +659,29 @@
         },
         {
           "id": "cold-war",
-          "name": { "en": "Cold War & Modern", "ja": "冷戦と現代", "zh-CN": "冷战与现代" },
+          "name": {
+            "en": "Cold War & Modern",
+            "ja": "冷戦と現代",
+            "zh-CN": "冷战与现代"
+          },
           "dateRange": "1945 – 1991",
           "scenarios": [
             {
               "id": "berlin-wall-1989",
-              "title": { "en": "Fall of the Berlin Wall", "ja": "ベルリンの壁崩壊", "zh-CN": "柏林墙倒塌" },
-              "brief": { "en": "The night that ended the Cold War division of Europe", "ja": "ヨーロッパの冷戦分断を終わらせた夜", "zh-CN": "终结欧洲冷战分裂的那一夜" },
-              "dates": { "start": "1989-11-09", "end": "1989-11-10" },
+              "title": {
+                "en": "Fall of the Berlin Wall",
+                "ja": "ベルリンの壁崩壊",
+                "zh-CN": "柏林墙倒塌"
+              },
+              "brief": {
+                "en": "The night that ended the Cold War division of Europe",
+                "ja": "ヨーロッパの冷戦分断を終わらせた夜",
+                "zh-CN": "终结欧洲冷战分裂的那一夜"
+              },
+              "dates": {
+                "start": "1989-11-09",
+                "end": "1989-11-10"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             }
@@ -317,18 +691,37 @@
     },
     {
       "id": "asia",
-      "name": { "en": "Asia", "ja": "アジア", "zh-CN": "亚洲" },
+      "name": {
+        "en": "Asia",
+        "ja": "アジア",
+        "zh-CN": "亚洲"
+      },
       "eras": [
         {
           "id": "classical",
-          "name": { "en": "Classical Era", "ja": "古典時代", "zh-CN": "古典时代" },
+          "name": {
+            "en": "Classical Era",
+            "ja": "古典時代",
+            "zh-CN": "古典时代"
+          },
           "dateRange": "208 AD",
           "scenarios": [
             {
               "id": "red-cliffs-208",
-              "title": { "en": "Battle of Red Cliffs", "ja": "赤壁の戦い", "zh-CN": "赤壁之战" },
-              "brief": { "en": "The decisive naval battle that shaped the Three Kingdoms", "ja": "三国の形を決定づけた決戦", "zh-CN": "决定三国鼎立格局的关键之战" },
-              "dates": { "start": "0208-11-01", "end": "0208-12-15" },
+              "title": {
+                "en": "Battle of Red Cliffs",
+                "ja": "赤壁の戦い",
+                "zh-CN": "赤壁之战"
+              },
+              "brief": {
+                "en": "The decisive naval battle that shaped the Three Kingdoms",
+                "ja": "三国の形を決定づけた決戦",
+                "zh-CN": "决定三国鼎立格局的关键之战"
+              },
+              "dates": {
+                "start": "0208-11-01",
+                "end": "0208-12-15"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             }
@@ -336,22 +729,48 @@
         },
         {
           "id": "modern",
-          "name": { "en": "Modern Era", "ja": "近現代", "zh-CN": "近现代" },
+          "name": {
+            "en": "Modern Era",
+            "ja": "近現代",
+            "zh-CN": "近现代"
+          },
           "dateRange": "1868 – 1942",
           "scenarios": [
             {
               "id": "meiji-restoration-1868",
-              "title": { "en": "Meiji Restoration", "ja": "明治維新", "zh-CN": "明治维新" },
-              "brief": { "en": "Japan's dramatic transformation from feudalism to modernity", "ja": "日本の封建制から近代化への劇的な変革", "zh-CN": "日本从封建制度到现代化的剧变" },
-              "dates": { "start": "1868-01-03", "end": "1868-05-03" },
+              "title": {
+                "en": "Meiji Restoration",
+                "ja": "明治維新",
+                "zh-CN": "明治维新"
+              },
+              "brief": {
+                "en": "Japan's dramatic transformation from feudalism to modernity",
+                "ja": "日本の封建制から近代化への劇的な変革",
+                "zh-CN": "日本从封建制度到现代化的剧变"
+              },
+              "dates": {
+                "start": "1868-01-03",
+                "end": "1868-05-03"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             },
             {
               "id": "midway-1942",
-              "title": { "en": "Battle of Midway", "ja": "ミッドウェー海戦", "zh-CN": "中途岛海战" },
-              "brief": { "en": "The naval battle that turned the tide in the Pacific", "ja": "太平洋の潮目を変えた海戦", "zh-CN": "扭转太平洋战局的海战" },
-              "dates": { "start": "1942-06-04", "end": "1942-06-07" },
+              "title": {
+                "en": "Battle of Midway",
+                "ja": "ミッドウェー海戦",
+                "zh-CN": "中途岛海战"
+              },
+              "brief": {
+                "en": "The naval battle that turned the tide in the Pacific",
+                "ja": "太平洋の潮目を変えた海戦",
+                "zh-CN": "扭转太平洋战局的海战"
+              },
+              "dates": {
+                "start": "1942-06-04",
+                "end": "1942-06-07"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             }
@@ -361,18 +780,37 @@
     },
     {
       "id": "americas",
-      "name": { "en": "Americas", "ja": "アメリカ大陸", "zh-CN": "美洲" },
+      "name": {
+        "en": "Americas",
+        "ja": "アメリカ大陸",
+        "zh-CN": "美洲"
+      },
       "eras": [
         {
           "id": "revolution",
-          "name": { "en": "Age of Revolution", "ja": "革命の時代", "zh-CN": "革命时代" },
+          "name": {
+            "en": "Age of Revolution",
+            "ja": "革命の時代",
+            "zh-CN": "革命时代"
+          },
           "dateRange": "1776",
           "scenarios": [
             {
               "id": "american-revolution-1776",
-              "title": { "en": "American Revolution", "ja": "アメリカ独立革命", "zh-CN": "美国独立革命" },
-              "brief": { "en": "The fight for independence that created a nation", "ja": "国家を作り出した独立のための戦い", "zh-CN": "创造一个国家的独立之战" },
-              "dates": { "start": "1776-07-04", "end": "1776-12-26" },
+              "title": {
+                "en": "American Revolution",
+                "ja": "アメリカ独立革命",
+                "zh-CN": "美国独立革命"
+              },
+              "brief": {
+                "en": "The fight for independence that created a nation",
+                "ja": "国家を作り出した独立のための戦い",
+                "zh-CN": "创造一个国家的独立之战"
+              },
+              "dates": {
+                "start": "1776-07-04",
+                "end": "1776-12-26"
+              },
               "difficulty": "intermediate",
               "roleCount": 1
             }
@@ -380,14 +818,29 @@
         },
         {
           "id": "cold-war",
-          "name": { "en": "Cold War", "ja": "冷戦", "zh-CN": "冷战" },
+          "name": {
+            "en": "Cold War",
+            "ja": "冷戦",
+            "zh-CN": "冷战"
+          },
           "dateRange": "1962",
           "scenarios": [
             {
               "id": "cuban-missile-crisis-1962",
-              "title": { "en": "Cuban Missile Crisis", "ja": "キューバ危機", "zh-CN": "古巴导弹危机" },
-              "brief": { "en": "Thirteen days on the brink of nuclear war", "ja": "核戦争の瀬戸際の13日間", "zh-CN": "核战争边缘的十三天" },
-              "dates": { "start": "1962-10-16", "end": "1962-10-28" },
+              "title": {
+                "en": "Cuban Missile Crisis",
+                "ja": "キューバ危機",
+                "zh-CN": "古巴导弹危机"
+              },
+              "brief": {
+                "en": "Thirteen days on the brink of nuclear war",
+                "ja": "核戦争の瀬戸際の13日間",
+                "zh-CN": "核战争边缘的十三天"
+              },
+              "dates": {
+                "start": "1962-10-16",
+                "end": "1962-10-28"
+              },
               "difficulty": "advanced",
               "roleCount": 1
             }
@@ -397,19 +850,461 @@
     },
     {
       "id": "africa-middle-east",
-      "name": { "en": "Africa & Middle East", "ja": "アフリカ・中東", "zh-CN": "非洲与中东" },
+      "name": {
+        "en": "Africa & Middle East",
+        "ja": "アフリカ・中東",
+        "zh-CN": "非洲与中东"
+      },
       "eras": [
         {
           "id": "ancient",
-          "name": { "en": "Ancient World", "ja": "古代世界", "zh-CN": "古代世界" },
+          "name": {
+            "en": "Ancient World",
+            "ja": "古代世界",
+            "zh-CN": "古代世界"
+          },
           "dateRange": "202 BC",
           "scenarios": [
             {
               "id": "zama-202bc",
-              "title": { "en": "Battle of Zama", "ja": "ザマの戦い", "zh-CN": "扎马战役" },
-              "brief": { "en": "Scipio vs Hannibal — the clash that decided the Punic Wars", "ja": "スキピオ対ハンニバル——ポエニ戦争を決した激突", "zh-CN": "西庇阿对汉尼拔——决定布匿战争的决战" },
-              "dates": { "start": "0202-10-19-BC", "end": "0202-10-19-BC" },
+              "title": {
+                "en": "Battle of Zama",
+                "ja": "ザマの戦い",
+                "zh-CN": "扎马战役"
+              },
+              "brief": {
+                "en": "Scipio vs Hannibal — the clash that decided the Punic Wars",
+                "ja": "スキピオ対ハンニバル——ポエニ戦争を決した激突",
+                "zh-CN": "西庇阿对汉尼拔——决定布匿战争的决战"
+              },
+              "dates": {
+                "start": "0202-10-19-BC",
+                "end": "0202-10-19-BC"
+              },
               "difficulty": "advanced",
+              "roleCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ancient-classical-asia",
+      "name": {
+        "en": "Ancient & Classical Asia",
+        "ja": "古代・古典アジア",
+        "zh-CN": "古代与古典亚洲"
+      },
+      "eras": [
+        {
+          "id": "warring-states-han",
+          "name": {
+            "en": "Warring States & Han Dynasty",
+            "ja": "戦国時代・漢朝",
+            "zh-CN": "战国与汉朝"
+          },
+          "dateRange": "260 BC – 133 BC",
+          "scenarios": [
+            {
+              "id": "warring-states-changping-260bc",
+              "title": {
+                "en": "Battle of Changping",
+                "ja": "長平の戦い",
+                "zh-CN": "长平之战"
+              },
+              "brief": {
+                "en": "Zhao Kuo replaces a proven general — and leads 400,000 men into a Qin trap",
+                "ja": "実績ある将軍の後任となった趙括が、40万の兵を秦の罠へ導く",
+                "zh-CN": "赵括替代老将，将四十万大军带入秦国的陷阱"
+              },
+              "dates": {
+                "start": "0260-07-01-BC",
+                "end": "0260-09-01-BC"
+              },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "qin-unification-221bc",
+              "title": {
+                "en": "Qin Unification of China",
+                "ja": "秦の中国統一",
+                "zh-CN": "秦统一中国"
+              },
+              "brief": {
+                "en": "Ying Zheng conquers the last kingdoms — and must decide how to rule an empire no one has ever built before",
+                "ja": "嬴政が最後の王国を征服し、かつて誰も築いたことのない帝国をいかに統治するか決断する",
+                "zh-CN": "嬴政征服最后的王国——必须决定如何统治这个前所未有的帝国"
+              },
+              "dates": {
+                "start": "0221-03-01-BC",
+                "end": "0221-12-01-BC"
+              },
+              "difficulty": "advanced",
+              "roleCount": 1
+            },
+            {
+              "id": "fall-of-qin-207bc",
+              "title": {
+                "en": "Fall of the Qin Dynasty",
+                "ja": "秦朝の崩壊",
+                "zh-CN": "秦朝的覆灭"
+              },
+              "brief": {
+                "en": "Xiang Yu destroys the Qin army — but victory brings impossible choices",
+                "ja": "項羽が秦軍を壊滅させる——しかし勝利は不可能な選択をもたらす",
+                "zh-CN": "项羽摧毁秦军——但胜利带来了艰难抉择"
+              },
+              "dates": {
+                "start": "0207-10-01-BC",
+                "end": "0207-12-01-BC"
+              },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "chu-han-contention-202bc",
+              "title": {
+                "en": "Chu-Han Contention — Battle of Gaixia",
+                "ja": "楚漢の争い — 垓下の戦い",
+                "zh-CN": "楚汉相争 — 垓下之战"
+              },
+              "brief": {
+                "en": "Xiang Yu, surrounded by 300,000 Han soldiers, hears the songs of Chu — and faces his last choice",
+                "ja": "30万の漢軍に包囲された項羽が楚の歌を聞き、最後の選択に直面する",
+                "zh-CN": "项羽被三十万汉军包围，四面楚歌，直面最后的抉择"
+              },
+              "dates": {
+                "start": "0202-01-01-BC",
+                "end": "0202-03-01-BC"
+              },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "han-xiongnu-war-133bc",
+              "title": {
+                "en": "Han-Xiongnu War — The Mayi Ambush",
+                "ja": "漢匈奴戦争 — 馬邑の計略",
+                "zh-CN": "汉匈奴战争 — 马邑之谋"
+              },
+              "brief": {
+                "en": "Emperor Wu ends 70 years of tribute payments and bets China's future on a bold ambush",
+                "ja": "武帝が70年の貢納政策に終止符を打ち、大胆な奇襲で中国の未来を賭ける",
+                "zh-CN": "汉武帝终结七十年的纳贡政策，以大胆的伏击赌上中国的未来"
+              },
+              "dates": {
+                "start": "0133-01-01-BC",
+                "end": "0119-01-01-BC"
+              },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "three-kingdoms-silk-road",
+          "name": {
+            "en": "Three Kingdoms, Classical India & the Silk Road",
+            "ja": "三国時代・古典インド・シルクロード",
+            "zh-CN": "三国时代、古典印度与丝绸之路"
+          },
+          "dateRange": "322 BC – 234 AD",
+          "scenarios": [
+            {
+              "id": "chandragupta-maurya-322bc",
+              "title": {
+                "en": "Rise of the Maurya Empire",
+                "ja": "マウリヤ朝の興隆",
+                "zh-CN": "孔雀王朝的崛起"
+              },
+              "brief": {
+                "en": "Chandragupta and Chanakya overthrow the Nandas — and build India's first continental empire",
+                "ja": "チャンドラグプタとカウティリヤがナンダ朝を打倒し、インド初の大陸帝国を築く",
+                "zh-CN": "旃陀罗笈多与考底利耶推翻难陀王朝，建立印度第一个大陆帝国"
+              },
+              "dates": {
+                "start": "0322-01-01-BC",
+                "end": "0305-01-01-BC"
+              },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "ashoka-kalinga-261bc",
+              "title": {
+                "en": "Ashoka and the Kalinga War",
+                "ja": "アショーカとカリンガ戦争",
+                "zh-CN": "阿育王与羯陵伽战争"
+              },
+              "brief": {
+                "en": "100,000 dead — and the emperor who saw the battlefield and could never be the same again",
+                "ja": "10万の死者——戦場を見て、二度と元の自分には戻れなかった皇帝",
+                "zh-CN": "十万人死亡——那位目睹战场后再也无法回到过去的皇帝"
+              },
+              "dates": {
+                "start": "0261-01-01-BC",
+                "end": "0260-01-01-BC"
+              },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "silk-road-crisis-100",
+              "title": {
+                "en": "Ban Chao's Mission — The Silk Road Crisis",
+                "ja": "班超の西域経略",
+                "zh-CN": "班超经略西域"
+              },
+              "brief": {
+                "en": "36 men, 30 years, 50 kingdoms — the Han clerk who became master of Central Asia",
+                "ja": "36人・30年・50の王国——中央アジアの覇者となった漢の書記",
+                "zh-CN": "三十六人、三十年、五十个王国——成为中亚之主的汉朝书吏"
+              },
+              "dates": {
+                "start": "0073-01-01",
+                "end": "0102-01-01"
+              },
+              "difficulty": "advanced",
+              "roleCount": 1
+            },
+            {
+              "id": "three-kingdoms-guandu-200",
+              "title": {
+                "en": "Battle of Guandu",
+                "ja": "官渡の戦い",
+                "zh-CN": "官渡之战"
+              },
+              "brief": {
+                "en": "Cao Cao's 30,000 vs Yuan Shao's 100,000 — and the defector who changed history",
+                "ja": "曹操の3万対袁紹の10万——そして歴史を変えた裏切り者",
+                "zh-CN": "曹操三万对袁绍十万——以及那个改变历史的叛徒"
+              },
+              "dates": {
+                "start": "0200-01-01",
+                "end": "0200-12-31"
+              },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "fall-of-han-220",
+              "title": {
+                "en": "Fall of the Han Dynasty",
+                "ja": "漢朝の滅亡",
+                "zh-CN": "汉朝的灭亡"
+              },
+              "brief": {
+                "en": "The last Han emperor faces an ultimatum — dignity or survival",
+                "ja": "最後の漢の皇帝が最後通牒に直面する——尊厳か生存か",
+                "zh-CN": "最后一位汉朝皇帝面临最后通牒——尊严还是生存"
+              },
+              "dates": {
+                "start": "0220-01-01",
+                "end": "0220-12-01"
+              },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "zhuge-liang-northern-228",
+              "title": {
+                "en": "Zhuge Liang's Northern Expeditions",
+                "ja": "諸葛亮の北伐",
+                "zh-CN": "诸葛亮北伐"
+              },
+              "brief": {
+                "en": "The genius strategist appoints an untested favorite to a critical pass — and pays the price",
+                "ja": "天才軍師が未熟な腹心を要衝の守備に任命し、その代償を払う",
+                "zh-CN": "天才谋士将未经考验的心腹任命镇守要隘——并付出了代价"
+              },
+              "dates": {
+                "start": "0228-01-01",
+                "end": "0234-10-01"
+              },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "kushan-empire-127",
+              "title": {
+                "en": "Kanishka and the Kushan Empire",
+                "ja": "カニシカとクシャーナ朝",
+                "zh-CN": "迦腻色迦与贵霜帝国"
+              },
+              "brief": {
+                "en": "Master of the Silk Road — the Buddhist king who balanced trade, faith, and empire",
+                "ja": "シルクロードの覇者——交易・信仰・帝国のバランスをとった仏教王",
+                "zh-CN": "丝绸之路的主宰——在贸易、信仰与帝国之间寻求平衡的佛教国王"
+              },
+              "dates": {
+                "start": "0127-01-01",
+                "end": "0150-01-01"
+              },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            }
+          ]
+        },
+        {
+          "id": "medieval-asia",
+          "name": {
+            "en": "Medieval Asia",
+            "ja": "中世アジア",
+            "zh-CN": "中世纪亚洲"
+          },
+          "dateRange": "250 AD – 1185 AD",
+          "scenarios": [
+            {
+              "id": "funan-kingdom-250",
+              "title": {
+                "en": "Rise of Funan",
+                "ja": "扶南の興隆",
+                "zh-CN": "扶南王国的崛起"
+              },
+              "brief": {
+                "en": "Southeast Asia's first great kingdom — where Indian culture met the Mekong Delta",
+                "ja": "東南アジア初の大国——インド文化がメコンデルタと出会う",
+                "zh-CN": "东南亚第一个伟大王国——印度文化与湄公河三角洲的相遇"
+              },
+              "dates": {
+                "start": "0250-01-01",
+                "end": "0300-01-01"
+              },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "goguryeo-sui-war-612",
+              "title": {
+                "en": "Goguryeo-Sui War",
+                "ja": "高句麗・隋戦争",
+                "zh-CN": "高句丽与隋朝之战"
+              },
+              "brief": {
+                "en": "One million Sui soldiers march into Korea — and only 2,700 return",
+                "ja": "100万の隋軍が朝鮮半島に侵攻し、生還したのはわずか2,700人",
+                "zh-CN": "百万隋军进入朝鲜半岛——只有两千七百人归还"
+              },
+              "dates": {
+                "start": "0612-01-01",
+                "end": "0614-01-01"
+              },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "baekgang-663",
+              "title": {
+                "en": "Battle of Baekgang",
+                "ja": "白村江の戦い",
+                "zh-CN": "白江口之战"
+              },
+              "brief": {
+                "en": "Japan's fleet vs Tang China — the naval disaster that reshaped Japan's identity for centuries",
+                "ja": "日本の艦隊対唐中国——何世紀も日本のアイデンティティを形作った海戦の惨事",
+                "zh-CN": "日本舰队对唐帝国——塑造日本数百年认同的海战惨败"
+              },
+              "dates": {
+                "start": "0663-08-01",
+                "end": "0663-08-28"
+              },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "srivijaya-trade-700",
+              "title": {
+                "en": "Srivijaya Maritime Empire",
+                "ja": "シュリーヴィジャヤ海上帝国",
+                "zh-CN": "室利佛逝海洋帝国"
+              },
+              "brief": {
+                "en": "Masters of the Strait of Malacca — ruling the world's greatest trade route through gold and naval power",
+                "ja": "マラッカ海峡の覇者——金と海軍力で世界最大の交易路を支配する",
+                "zh-CN": "马六甲海峡的主宰——以黄金与海军统治世界最重要的贸易航道"
+              },
+              "dates": {
+                "start": "0700-01-01",
+                "end": "0750-01-01"
+              },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "nara-heian-transition-794",
+              "title": {
+                "en": "Transfer to Heian — The Capital Decision",
+                "ja": "平安遷都",
+                "zh-CN": "迁都平安"
+              },
+              "brief": {
+                "en": "Emperor Kanmu escapes Buddhist political power — and chooses a city that will endure 1,000 years",
+                "ja": "桓武天皇が仏教政治権力から逃れ、1000年続く都を選ぶ",
+                "zh-CN": "桓武天皇摆脱佛教政治势力——选择了一座延续千年的都城"
+              },
+              "dates": {
+                "start": "0794-10-01",
+                "end": "0794-12-01"
+              },
+              "difficulty": "intermediate",
+              "roleCount": 1
+            },
+            {
+              "id": "talas-751",
+              "title": {
+                "en": "Battle of Talas",
+                "ja": "タラスの戦い",
+                "zh-CN": "怛罗斯之战"
+              },
+              "brief": {
+                "en": "Tang China meets the Abbasid Caliphate — and Karluk mercenaries choose a side",
+                "ja": "唐とアッバース朝が激突——カルルク傭兵が陣営を選ぶ",
+                "zh-CN": "唐帝国与阿拔斯王朝相遇——葛逻禄雇佣兵选择了阵营"
+              },
+              "dates": {
+                "start": "0751-07-01",
+                "end": "0751-07-01"
+              },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "khmer-empire-angkor-1177",
+              "title": {
+                "en": "Siege of Angkor by the Cham",
+                "ja": "チャム族によるアンコールの包囲",
+                "zh-CN": "占城围攻吴哥"
+              },
+              "brief": {
+                "en": "The Cham sack Angkor — and a Khmer prince rises from the jungle to reclaim everything",
+                "ja": "チャムがアンコールを略奪し、クメールの王子がジャングルから立ち上がりすべてを奪還する",
+                "zh-CN": "占城军队洗劫吴哥——一位高棉王子从丛林中崛起，夺回一切"
+              },
+              "dates": {
+                "start": "1177-01-01",
+                "end": "1181-01-01"
+              },
+              "difficulty": "hard",
+              "roleCount": 1
+            },
+            {
+              "id": "genpei-war-1185",
+              "title": {
+                "en": "Genpei War — Battle of Dan-no-ura",
+                "ja": "源平合戦 — 壇ノ浦の戦い",
+                "zh-CN": "源平合战 — 坛之浦之战"
+              },
+              "brief": {
+                "en": "The last stand of the Taira — a child emperor, a sacred sword, and the sea",
+                "ja": "平氏の最後の抵抗——幼い天皇、神剣、そして海",
+                "zh-CN": "平氏的最后抵抗——幼帝、神剑，与大海"
+              },
+              "dates": {
+                "start": "1185-04-25",
+                "end": "1185-04-25"
+              },
+              "difficulty": "intermediate",
               "roleCount": 1
             }
           ]

@@ -1,0 +1,115 @@
+{
+  "id": "chu-han-contention-202bc-scene-001",
+  "scenarioId": "chu-han-contention-202bc",
+  "title": {
+    "en": "Songs of Chu from Every Side",
+    "ja": "四面楚歌",
+    "zh-CN": "四面楚歌"
+  },
+  "date": {
+    "en": "Winter 202 BC, Gaixia",
+    "ja": "紀元前202年冬、垓下",
+    "zh-CN": "公元前202年冬，垓下"
+  },
+  "location": {
+    "en": "Xiang Yu's Command Tent, Gaixia Encampment",
+    "ja": "垓下の陣営、項羽の将帥幕",
+    "zh-CN": "垓下营帐，项羽主将大帐"
+  },
+  "narrativePrompt": {
+    "en": "It is the middle of the night and the songs are everywhere.\n\nYou recognize them. That is what makes it unbearable — not that the enemy is singing, but that they are singing in Chu. The dialect of your home province, the folk melodies your mother hummed, the rhythms of harvest celebrations and winter fireside songs from the towns and villages south of the Yangtze. Hundreds of thousands of voices, or so it sounds, rising from all four directions of the encircling Han army, performing the music of the people you came to liberate.\n\nYou have been awake since before the singing started, because you are always awake in the night now, and there is too much to think about for sleep to come easily. The situation at Gaixia is not ambiguous. Han Xin's armies have sealed every exit. Your own force, which numbered perhaps a hundred thousand in the autumn, is somewhere below forty thousand now — the exact count matters less than the direction of the trend, which is always downward. Desertions have accelerated since the Han forces completed their encirclement last week. Men who can slip through the lines at night are doing so. You cannot blame them entirely. They have families in Chu. They know how this ends, or they think they do.\n\nYour concubine Yu Ji is awake too. She sits at a small table nearby, her hands still, watching you with an expression you have learned to read as something between courage and the kind of acceptance that courage cannot quite reach. She will not weep. She has not wept in the three days since the encirclement closed, and you know that her stillness costs her more than weeping would.\n\nThe songs outside are a tactical calculation as much as a provocation. Liu Bang — or more precisely Han Xin, whose intelligence you have never underestimated — understands that the Chu soldiers who can hear those melodies are not just soldiers. They are men with homes in the same province that is singing to them from outside the walls. Every man who hears a village melody he recognizes is a man weighing his loyalty to you against the question of whether there is a Chu to go back to — and hearing the Han army sing Chu songs tells him that yes, there is a Chu, and it is outside these walls, and Liu Bang is somehow its guardian now.\n\nYou have perhaps two choices. You can use what remains of the night to organize an immediate breakout — surprise the Han pickets in darkness, concentrate your best cavalry at a single point in the encirclement, and attempt to punch through before dawn reveals your movement. The odds are not good, but darkness is an equalizer, and your cavalry is still the finest in the world, and you have always been at your best when the mathematics were worst. Or you can wait for morning. Organize your forces. Allow the men who will desert to desert — reducing your numbers further but increasing the loyalty ratio of those who remain. Meet the daylight with the best force you can assemble for a daylight breakout, which gives you better tactical control but removes the element of surprise.\n\nYou are thirty years old. Five years ago you were the most powerful man in China. You look at Yu Ji across the tent, and at the lamp between you, and at your hands, and you make your decision.",
+    "ja": "真夜中であり、歌声が四方に溢れている。\n\nあなたにはわかる。それが耐え難いのだ——敵が歌っているからではなく、楚語で歌っているから。あなたの故郷の方言、母が口ずさんだ民謡、揚子江の南の町や村の収穫祭や冬の炉辺の歌のリズム。数十万の声が、あるいはそう聞こえるが、包囲する漢軍の四方から立ち上り、あなたが解放しようとした民の音楽を奏でている。\n\n歌が始まる前から目は覚めていた。最近は夜に眠れないのが常で、考えることが多すぎて眠りが訪れにくい。垓下の状況は曖昧ではない。韓信の軍はすべての出口を封じた。秋には十万近くいた自軍は今や四万を切っている——正確な数字は趨勢の方向より重要ではなく、その方向は常に下向きだ。先週漢軍が包囲を完成させて以来、脱走が加速している。夜の間に防衛線を抜けられる男たちはそうしている。完全には非難できない。彼らには楚に家族がいる。これがどう終わるかを知っている、あるいは知っていると思っている。\n\n愛妾の虞姬も起きている。近くの小さな卓に座り、手を静止させ、勇気と勇気がなかなか届かない種類の諦念との間にある何かとしてあなたが読み取ることを学んだ表情で見ている。彼女は泣かない。包囲が閉じた三日前から泣いていないが、その静けさが彼女にとって泣くことより重いことを、あなたは知っている。\n\n外の歌は挑発である以上に戦術的な計算だ。劉邦——より正確には韓信、その知性を決して過小評価してこなかった——は、その旋律を聞くことができる楚の兵士が単なる兵士ではないことを理解している。彼らは壁の外から歌いかけてきているのと同じ省に家を持つ男たちだ。自分の知っている村の旋律を聞く男はみな、あなたへの忠誠と帰るべき楚があるかどうかという問いを天秤にかけている。そして漢軍が楚の歌を歌うのを聞くことで、彼に伝わる——そうだ、楚はある。この壁の外に。そして劉邦が何らかの形でその守護者になっている、と。\n\nおそらく二つの選択肢がある。夜の残りを使って即座の脱出を組織する——暗闇の中で漢の前哨を奇襲し、最精鋭の騎兵を包囲網の一点に集中させ、夜明け前に突破を試みる。勝算はよくないが、暗闇は有利さを均等化するものであり、あなたの騎兵はいまだ世界最強であり、あなたは常に数字が最も不利なときに最善を発揮してきた。あるいは夜明けを待つ。部隊を整える。脱走する者は脱走させる——数をさらに減らすが残る者の忠誠度を高める。昼間の脱出のために集められる最善の部隊で夜明けを迎える。これはより良い戦術的制御を与えるが奇襲の要素を奪う。\n\nあなたは三十歳だ。五年前はあなたが中国で最も強力な男だった。幕の向こうの虞姬を、間の灯明を、自分の手を見て、決断を下す。",
+    "zh-CN": "已是深夜，歌声四起。\n\n你认得出来。这才是令人难以忍受之处——不在于敌人在唱歌，而在于他们唱的是楚歌。是你故乡的方言，是你母亲低吟的民谣，是江南城镇村庄收获时节与冬日炉边欢聚时的节拍与韵调。数十万个声音，或者听起来如此，从四面八方汉军的包围圈中升腾，唱着你曾誓言要解放的人们的歌。\n\n在歌声响起之前你便已醒着，因为近来深夜总难入睡，有太多事情萦绕心头。垓下的形势没有任何模糊之处。韩信的大军封死了每一条出路。你的部队，秋天时或许尚有近十万之众，如今已跌至四万以下——确切数字不如那趋势的方向来得重要，而那方向始终向下。自上周汉军完成合围以来，逃亡愈演愈烈。凡能在夜间穿越防线者，皆已开溜。你也不能完全怪他们。他们在楚地有家人，他们知道这场仗会怎么结束——或者自认为知道。\n\n爱姬虞姬也醒着。她静坐于近旁一张小桌前，双手按定，用你已学会读懂的神情望着你——那神情介于勇气与勇气所难以企及的那种接受之间。她不会哭。自包围合拢的三天来她没有哭过，你知道，她的这份静默比哭泣更加沉重。\n\n外面的歌声与其说是挑衅，不如说是战术算计。刘邦——更准确地说是韩信，你从未低估过他的谋略——深知那些能听见这些旋律的楚兵不仅仅是士兵。他们是家乡在同一个省份的人，而那个省份正在城墙外向他们唱歌。每一个听见自己熟悉的乡音旋律的人，都在权衡对你的忠诚与是否还有楚地可以归去之间的轻重——而听见汉军唱着楚歌，就在告诉他：有，楚地还在，就在这道墙的外面，而刘邦以某种方式成了它的守护者。\n\n也许还剩两条路。利用夜色组织立即突围——趁黑夜奇袭汉军哨兵，将最精锐的骑兵集中于包围圈的一点，争取在天亮前破围而出。胜算不大，但黑暗是个均衡器，你的骑兵依然是天下最强，而你历来在形势最险峻时发挥得最好。或者，等到天明。整顿部队，让该逃的人逃——人数会进一步减少，但留下来的人忠诚度更高。待天色大亮，以你能集结的最精锐之师进行白日突围，战术上更可控，却失去了出奇制胜的可能。\n\n你三十岁。五年前你是中国最强大的男人。你望向帐篷那头的虞姬，望向你们之间的灯，望向自己的双手，然后做出了决定。"
+  },
+  "situationReport": [
+    {
+      "en": "Han encirclement: approximately 300,000 to 400,000 troops under Han Xin, Peng Yue, and Liu Jia surround Gaixia on all sides. The encirclement has been complete for several days.",
+      "ja": "漢の包囲：韓信・彭越・劉賈指揮下のおよそ30〜40万の軍勢が垓下を四方から包囲している。包囲は数日前に完成した。",
+      "zh-CN": "汉军合围：韩信、彭越、刘贾麾下约三四十万大军将垓下四面围定，合围已完成数日。"
+    },
+    {
+      "en": "Chu army strength: severely reduced. Original force of approximately 100,000 has been reduced by battle losses and accelerating desertions to fewer than 40,000. Food and fodder are critically low.",
+      "ja": "楚軍の戦力：著しく減少。当初の約10万から戦闘損失と加速する脱走によって4万以下に減少。食料と飼料は危機的に不足している。",
+      "zh-CN": "楚军战力：严重削减。原有约十万大军，经战损与持续加速的逃亡，已减至四万以下。粮食与草料极度匮乏。"
+    },
+    {
+      "en": "Psychological warfare: Han forces are singing Chu folk songs throughout the night, deliberately targeting Chu soldiers' morale and homesickness. The stratagem is working — desertions continue.",
+      "ja": "心理戦：漢軍は一晩中楚の民謡を歌い、楚兵の士気と郷愁を意図的に標的にしている。策略は効いている——脱走は続いている。",
+      "zh-CN": "心理攻势：汉军整夜唱楚歌，蓄意打击楚兵士气、勾起其乡愁。此计正在奏效——逃亡持续不断。"
+    },
+    {
+      "en": "Diplomatic options: none remain. Former allies who held kingdoms under Xiang Yu's Hegemon-King system have all defected to Liu Bang or been defeated. Xiang Yu stands completely alone.",
+      "ja": "外交的選択肢：なし。項羽の覇王体制の下で王国を保持していた旧同盟者はすべて劉邦に寝返るか、打倒されている。項羽は完全に孤立している。",
+      "zh-CN": "外交选项：已全无。曾在项羽霸王体制下持有王国的旧盟友，均已倒向刘邦或被击灭。项羽已彻底孤立。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Break through the Han encirclement with as many soldiers as possible",
+      "ja": "できるだけ多くの兵士とともに漢の包囲網を突破する",
+      "zh-CN": "率尽可能多的士兵突破汉军包围圈"
+    },
+    {
+      "en": "Preserve the core of the Chu fighting force for potential regrouping south of the Yangtze",
+      "ja": "揚子江の南での再集結の可能性のために楚の戦闘部隊の核を保全する",
+      "zh-CN": "保存楚军核心战力，以备江南重整旗鼓"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Every hour of delay allows more desertions — the army shrinks faster at rest than in motion",
+      "ja": "遅れる每時間が脱走をさらに可能にする——軍は動いているときより休んでいるときの方が速く縮小する",
+      "zh-CN": "每拖延一个时辰就有更多逃亡——军队在驻守时比在行进时消耗更快"
+    },
+    {
+      "en": "A daytime breakout gives Han forces time to respond and concentrate their superior numbers against the escape route",
+      "ja": "昼間の突破は漢軍に対応し、脱出路に対して数の優位を集中させる時間を与える",
+      "zh-CN": "白日突围将给汉军留出应对时间，将兵力优势集中指向逃脱路线"
+    }
+  ],
+  "choices": [
+    {
+      "id": "chu-han-contention-202bc-scene-001-choice-a",
+      "text": {
+        "en": "Launch an immediate night breakout with 800 elite cavalry — strike now while darkness provides cover and before more desertions erode the army further",
+        "ja": "800の精鋭騎兵で即座の夜間脱出を開始する——暗闇が遮蔽を提供し、さらなる脱走が軍をさらに侵食する前に今すぐ打つ",
+        "zh-CN": "率八百精锐骑兵立即趁夜突围——趁黑暗提供掩护，且在更多逃亡进一步削弱军力之前立刻出击"
+      },
+      "historicalContext": "This is what historically happened. Xiang Yu led a night breakout with 800 cavalry, successfully breaking through the Han encirclement. However, the bulk of the Chu army was left behind and subsequently surrendered to Han forces.",
+      "outcomePrompt": {
+        "en": "You give the order quietly. The 800 you have chosen are the best — the men who have ridden with you since the beginning, whose horses know your voice. You tell them what the night requires. No torches. No calls. Movement by the sound of hooves only, and those kept to a trot until you are through.\n\nThe Han picket line breaks at the point you hit it. They were not expecting a force this size at this hour in this direction — your intelligence about the encirclement's weaknesses was better than they knew, or perhaps they were simply tired from singing all night. You are through the outer ring before the alarm fully spreads.\n\nBy dawn you have covered sixty li and the Han pursuit is behind you, losing ground. Eight hundred cavalry moving in darkness can outpace anything on foot. The question of what comes next — the Yangtze, the ferries, the possibility of reorganizing in your home territory — is still a question, but it is a question you are alive to ask.\n\nBehind you, the soldiers you left inside the encirclement surrender to Han forces the following morning. They were not abandoned without reason. They would not have moved as fast. They might have gotten through, or they might not. The mathematics of the situation did not favor them regardless of what you chose. These are the facts as you arrange them, riding south in the cold dawn with the pursuit fading behind you.",
+        "ja": "静かに命令を下す。選んだ800は最良の者たちだ——最初からあなたとともに騎馬してきた男たちで、その馬たちがあなたの声を知っている。夜に何が必要かを彼らに告げる。松明なし。叫び声なし。蹄の音だけで移動し、抜けるまで速足に保つ。\n\n漢の前哨線はあなたが突いた点で崩れる。この時間、この方向でこの規模の部隊は予想していなかった——包囲の弱点についてのあなたの情報は彼らが知っていたより優れていたか、あるいは単に夜通し歌って疲れていた。警報が完全に広がる前に外環を抜ける。\n\n夜明けまでに60里を移動し、漢の追撃部隊は後方で差を開かれている。暗闇の中を移動する800の騎兵は徒歩の何にでも勝てる。次に何が来るかという問いは——揚子江、渡し場、故郷の領土での再編の可能性——まだ問いだが、それはあなたが生きて問うことができる問いだ。\n\nあなたの後方で、包囲の中に残した兵士たちは翌朝漢軍に降伏する。理由なく見捨てたのではない。彼らはこれほど速く動けなかった。突破できたかもしれないし、できなかったかもしれない。状況の数学はあなたが何を選んでも彼らに有利ではなかった。これが、冷たい夜明けに南へ駆け、追撃が後方で薄れていく中で、あなたが整理する事実だ。",
+        "zh-CN": "你轻声下令。选出的八百人是最精锐的——从一开始就跟随你的那些人，他们的马认得你的声音。你告诉他们这个夜晚需要什么。不点火把，不呼号，只凭蹄声移动，且要在冲出包围之前始终保持小跑。\n\n汉军哨兵线在你冲击之处溃开。他们没有料到这个时辰、这个方向会有这规模的一支军队——也许你对包围薄弱处的情报比他们预想的更准确，也许他们只是唱了一夜歌，人已疲惫。警报完全扩散之前，你已冲出外圈。\n\n天亮时你已驰过六十里，汉军的追兵在身后渐渐落远。八百骑兵在黑暗中驰行，可以把任何步兵甩在后面。接下来该如何——长江、渡口、在故土重整旗鼓的可能——依然是未解的问题，但那是你还活着、还能去追问的问题。\n\n你身后，留在包围圈内的将士次日早晨向汉军投降。他们不是被无端抛弃的。他们跑不了这么快。他们或许能冲出去，也或许不能。无论你如何选择，局势的算术对他们都不利。骑着马在寒冷的黎明向南疾驰、听着身后追兵的声音渐渐消散时，这是你整理在脑海里的事实。"
+      },
+      "nextSceneId": "chu-han-contention-202bc-scene-002",
+      "stateChanges": [
+        { "variable": "chuMorale", "operation": "add", "value": 15 },
+        { "variable": "troopStrength", "operation": "add", "value": -20 },
+        { "variable": "escapeRoute", "operation": "add", "value": 20 },
+        { "variable": "heroicResolve", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "chu-han-contention-202bc-scene-001-choice-b",
+      "text": {
+        "en": "Wait for dawn — organize the remaining loyal forces for a daylight breakout with better tactical control, accepting further desertions overnight in exchange for a more coordinated assault",
+        "ja": "夜明けを待つ——さらなる夜間脱走を受け入れる代わりに、より協調された突撃のために、より良い戦術的制御で昼間の突破のために残存の忠実な部隊を整える",
+        "zh-CN": "等到天明——整顿残余的忠诚部队，以更好的战术控制发动白日突围，以夜间进一步逃亡为代价，换取更有组织的冲击"
+      },
+      "historicalContext": "The historical counterfactual. Xiang Yu chose immediate night action in reality. Waiting for dawn would have allowed better organization but cost more troops to desertion and given Han forces time to anticipate and reinforce against a breakout attempt.",
+      "outcomePrompt": {
+        "en": "You decide to wait. It is the tactically sound choice in many respects — daylight allows coordination, allows you to see what you are attacking, allows Wang Ling and the other sub-commanders to hold their positions in the assault rather than losing cohesion in darkness.\n\nThe night passes. More men are gone by dawn than you expected — the songs are still going, or started again in the early morning hours, and the men who heard them and thought of their homes made their choices in the dark. You count what remains when the light comes. It is less than you hoped.\n\nThe breakout at dawn hits the Han lines with everything you have left. Your cavalry is still ferocious, still the finest fighting force in the world at individual combat, and the initial assault achieves local breakthroughs. But Han Xin anticipated the attempt — the encirclement tightens as you push, and the reserves he held back specifically for this moment are better positioned than you expected in daylight.\n\nYou break through with a reduced force — smaller than a night breakout might have delivered, larger than total encirclement would have allowed. The question now is what to do with the men you have, the pursuit behind you, and the river ahead.",
+        "ja": "あなたは待つことを決める。多くの点で戦術的に健全な選択だ——昼光は協調を可能にし、攻撃するものを見えるようにし、汪陵や他の副指揮官たちが暗闇で凝集力を失わずに突撃の中で陣地を保つことを可能にする。\n\n夜は過ぎる。夜明けまでに予想より多くの男が去った——歌はまだ続いているか、早朝の時間に再び始まり、それを聞いて故郷を思った男たちは暗闇の中で選択をした。光が来たとき残っているものを数える。希望より少ない。\n\n夜明けの脱出は残存する全力で漢の防衛線を打つ。あなたの騎兵はまだ獰猛で、個人戦闘において世界最強の戦闘力を持ち、最初の突撃は局所的な突破を達成する。しかし韓信は試みを予期していた——押すにつれて包囲が締まり、まさにこの瞬間のために保持した予備隊は昼光の中で予想よりうまく配置されている。\n\nあなたは縮小した部隊で突破する——夜の脱出が提供したかもしれないものより小さく、完全な包囲が許したであろうものより大きい。今の問いは残る兵で何をするか、後方の追撃、そして前方の川だ。",
+        "zh-CN": "你决定等待。从许多方面看，这是战术上更稳健的选择——白昼可以协同配合，让你看清攻击目标，让王陵和其他副将在冲锋中保持阵形，而不是在黑暗中各自散乱。\n\n夜过去了。天亮时走掉的人比你预料的还要多——歌声依然在唱，或是在凌晨又重新响起，听见歌声、心中想起家人的士兵在黑暗中做出了各自的选择。天色亮时，你清点剩余之数，比你期望的要少。\n\n天亮后的突围以你所剩的全部力量猛冲汉军防线。你的骑兵依然勇猛无敌，在单兵作战上仍是天下最强，最初的突击取得了局部突破。但韩信早已预判到这次尝试——你每前推一步，包围就收紧一分，他专为此刻保留的后备兵力，在白日下的部署比你预想的更为得当。\n\n你带着一支缩编后的部队冲了出去——比夜间突围或许能带出的人更少，但比被全歼要强。现在的问题是：用手头这些人马如何应对，后有追兵，前有大江。"
+      },
+      "nextSceneId": "chu-han-contention-202bc-scene-002",
+      "stateChanges": [
+        { "variable": "chuMorale", "operation": "add", "value": -10 },
+        { "variable": "troopStrength", "operation": "add", "value": -30 },
+        { "variable": "escapeRoute", "operation": "add", "value": 5 },
+        { "variable": "heroicResolve", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

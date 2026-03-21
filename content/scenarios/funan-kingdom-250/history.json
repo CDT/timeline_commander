@@ -1,0 +1,83 @@
+{
+  "scenarioId": "funan-kingdom-250",
+  "timeline": [
+    {
+      "date": "0100-01-01",
+      "description": {
+        "en": "The kingdom of Funan emerges in the lower Mekong delta region. Chinese sources record it as a significant polity trading with both China and India. According to later legend, Funan was founded when an Indian Brahmin named Kaundinya married the local Naga princess Soma after defeating her in battle — a founding myth that encapsulates the Indianization of Southeast Asia.",
+        "ja": "扶南王国がメコン川下流デルタ地域に出現する。中国の史料は中国とインドの両方と取引する重要な政体として記録している。後の伝説によると、扶南はカウンディニャというインドのブラフミンが戦いで地元のナーガ王女ソーマを打ち負かした後に結婚した時に建国された——東南アジアのインド化を要約した建国神話だ。",
+        "zh-CN": "扶南王国在湄公河下游三角洲地区出现。中国史料将其记载为与中印两国均有贸易往来的重要政权。据后来的传说，扶南由一位名叫憍陈如的印度婆罗门与当地那伽公主叶柳在战败后成婚而建立——这一建国神话概括了东南亚的印度化进程。"
+      }
+    },
+    {
+      "date": "0150-01-01",
+      "description": {
+        "en": "Funan controls the Gulf of Thailand coast and the Mekong delta, positioning itself as the primary entrepot for trade between China and India. Ships from the Mediterranean, Persia, India, and China all pass through Funan's port at Oc Eo. Funan adopts Sanskrit as its court language, Hindu and Buddhist religious practices, and Indian architectural styles — while its population remains distinctly Southeast Asian.",
+        "ja": "扶南がタイ湾岸とメコンデルタを支配し、中国とインドの間の貿易の主要中継地として自らを位置づける。地中海、ペルシャ、インド、中国からの船が扶南のオケオの港を通過する。扶南は宮廷言語としてサンスクリットを採用し、ヒンドゥー教と仏教の宗教的慣習、インドの建築様式を取り入れる——人口は依然として独自の東南アジア的なままだが。",
+        "zh-CN": "扶南控制了泰国湾沿岸和湄公河三角洲，将自身定位为中印贸易的主要转口港。来自地中海、波斯、印度和中国的船只都经过扶南在沃桑（Oc Eo）的港口。扶南采用梵文作为宫廷语言，吸纳印度教和佛教宗教习俗及印度建筑风格——而其人口则始终保持着鲜明的东南亚特色。"
+      }
+    },
+    {
+      "date": "0225-01-01",
+      "description": {
+        "en": "Fan Shiman becomes king of Funan. Chinese records describe him as the most powerful ruler Funan had yet produced. He builds a fleet of great ships and extends Funan's tributary network across the Gulf of Thailand coast, the Malay Peninsula, and into what is now southern Myanmar. He sends the first formal Funan embassy to China.",
+        "ja": "范師蔓が扶南王となる。中国の史料は彼をそれまで扶南が産んだ中で最も強力な統治者と描写している。彼は大型船の艦隊を建造し、扶南の臣属ネットワークをタイ湾岸、マレー半島、現在のミャンマー南部にまで拡大する。最初の正式な扶南使節を中国に送る。",
+        "zh-CN": "范师蔓成为扶南国王。中国史料将他描述为扶南迄今产生的最强大统治者。他建造了大型战船舰队，将扶南的朝贡网络扩展至泰国湾沿岸、马来半岛乃至今缅甸南部。他向中国派遣了第一个正式的扶南使团。"
+      }
+    },
+    {
+      "date": "0243-01-01",
+      "description": {
+        "en": "Funan sends a diplomatic mission to the Three Kingdoms state of Wu in southern China, accompanied by musicians and local products. This establishes direct diplomatic relations and positions Funan as a sovereign kingdom recognized by the Chinese court system — a significant legitimation strategy in the regional political order.",
+        "ja": "扶南が音楽家と地元産品を伴って中国南部の三国時代の呉に外交使節を送る。これが直接外交関係を確立し、扶南を中国の宮廷制度に認められた主権国家として位置づける——地域の政治秩序における重要な正統化戦略だ。",
+        "zh-CN": "扶南派遣外交使团赴中国南部三国时代的吴国，随行携带乐师和当地物产。这建立了直接的外交关系，将扶南定位为获中国朝贡体系承认的主权王国——这是地区政治秩序中一项重要的合法化策略。"
+      }
+    },
+    {
+      "date": "0357-01-01",
+      "description": {
+        "en": "A second Kaundinya arrives in Funan — a figure of Indian or Indian-descended origin — and becomes king through a combination of religious authority and political skill. His reign inaugurates a second phase of Indianization, deepening Sanskrit culture and Hindu religious institutions. The Chinese monk Faxian visits the region on his journey to India.",
+        "ja": "二番目のカウンディニャが扶南に到着し——インド出身またはインド系の人物——宗教的権威と政治的技能の組み合わせで王となる。彼の治世がインド化の第二段階を開幕し、サンスクリット文化とヒンドゥー教宗教機関を深める。中国人僧の法顕がインドへの旅の途中でこの地域を訪れる。",
+        "zh-CN": "第二位憍陈如抵达扶南——一位印度出身或印度后裔的人物——凭借宗教权威与政治技巧相结合登上王位。他的统治开启了印度化的第二阶段，深化了梵文文化和印度教宗教机构。中国僧人法显在前往印度的途中经过该地区。"
+      }
+    },
+    {
+      "date": "0480-01-01",
+      "description": {
+        "en": "Funan reaches the height of its power and territorial extent. It controls most of mainland Southeast Asia's southern coastline and maintains tributary relationships with dozens of smaller kingdoms. Chinese sources describe elaborate royal ceremonies, sophisticated court culture, and extensive international trade networks connecting the Mediterranean to China.",
+        "ja": "扶南がその権力と領域的広がりの頂点に達する。東南アジア大陸部の南部海岸線のほとんどを支配し、数十の小王国との臣属関係を維持する。中国の史料は精緻な王室の儀式、洗練された宮廷文化、地中海から中国をつなぐ広大な国際貿易ネットワークを描写している。",
+        "zh-CN": "扶南达到其权力和领土范围的顶峰。控制着东南亚大陆大部分南部海岸线，并与数十个小王国保持着朝贡关系。中国史料描述了精心设计的王室仪式、精致的宫廷文化，以及连接地中海与中国的广泛国际贸易网络。"
+      }
+    },
+    {
+      "date": "0550-01-01",
+      "description": {
+        "en": "Funan is overthrown by its former vassal, the Chenla kingdom, whose ruling dynasty was originally subordinate to Funan. The exact causes remain debated by historians — drought, internal succession conflicts, and the rise of Chenla military power all played roles. The Funan population and culture were absorbed into the successor Chenla state, which would eventually give rise to the Angkor-period Khmer Empire.",
+        "ja": "扶南がかつての藩属国・真臘王国に倒される。その支配王朝はもともと扶南に従属していた。正確な原因は歴史家の間で議論が続いている——干ばつ、内部の継承紛争、真臘の軍事力の台頭がすべて役割を果たした。扶南の人口と文化は後継の真臘国家に吸収され、最終的にアンコール期のクメール帝国を生み出すことになる。",
+        "zh-CN": "扶南被其昔日藩属真腊王国所推翻，而真腊的统治王朝最初是臣属于扶南的。确切原因至今仍是历史学家争议的议题——干旱、内部继承纷争以及真腊军事实力的崛起都发挥了作用。扶南的人口和文化被继承者真腊国家所吸收，后者最终孕育出了吴哥时期的高棉帝国。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Under Fan Shiman's reign, Funan expanded to its greatest territorial extent and established direct diplomatic relations with China. His building of a large fleet and extension of Funan's tributary network across the Gulf of Thailand and Malay Peninsula represented the high-water mark of Funan's regional dominance. Funan would continue for another three centuries after his reign before being absorbed by Chenla.",
+    "ja": "范師蔓の治世下、扶南はその最大の領域的広がりに拡大し、中国との直接外交関係を確立した。大型艦隊の建造とタイ湾とマレー半島を越えた扶南の臣属ネットワークの拡大は、扶南の地域的支配の絶頂を表した。扶南は彼の治世後さらに三世紀続き、真臘に吸収された。",
+    "zh-CN": "在范师蔓统治下，扶南扩张至其领土范围的最大值，并建立了与中国的直接外交关系。他建造大型舰队、将扶南朝贡网络扩展至泰国湾和马来半岛，代表了扶南地区主导地位的最高水位。扶南在他统治结束后又延续了三个世纪，最终被真腊所吸收。"
+  },
+  "casualties": {
+    "en": "Funan's expansion under Fan Shiman involved naval campaigns to subdue neighboring coastal kingdoms and bring them into a tributary relationship. Chinese records mention his conquest of over ten kingdoms. The specific casualty figures are not recorded, but the campaigns involved systematic naval warfare along the Gulf of Thailand coastline. Funan's eventual overthrow by Chenla in the 6th century likely involved significant military conflict.",
+    "ja": "范師蔓の下での扶南の拡大は、近隣の沿岸王国を服属させて臣属関係に引き込む海軍作戦を伴った。中国の史料は10以上の王国の征服に言及している。具体的な死傷者数は記録されていないが、作戦はタイ湾沿岸に沿った体系的な海戦を伴った。6世紀の真臘による扶南の最終的な打倒は重大な軍事的衝突を伴ったと考えられる。",
+    "zh-CN": "范师蔓治下扶南的扩张涉及海军战役，以征服周边沿海王国并将其纳入朝贡关系。中国史料提到他征服了十余个王国。具体伤亡数字没有记载，但战役涉及沿泰国湾海岸线的系统性水战。6世纪真腊对扶南的最终推翻很可能也涉及重大军事冲突。"
+  },
+  "significance": {
+    "en": "Funan is significant as the earliest large-scale Indianized kingdom in Southeast Asia and as the original template for the region's subsequent civilizations. Its model of combining Indian cultural prestige (Sanskrit, Hinduism, Buddhist elements) with local political structures and maritime trade dominance was replicated by virtually every subsequent Southeast Asian kingdom — Chenla, Srivijaya, the Khmer Empire, Majapahit, and others. Funan demonstrates how cultural borrowing can be a source of political strength rather than weakness.",
+    "ja": "扶南は東南アジアで最も早期の大規模なインド化された王国として、またこの地域のその後の文明のオリジナルの雛型として重要だ。インドの文化的威信（サンスクリット、ヒンドゥー教、仏教的要素）と地域の政治構造と海洋貿易の支配を組み合わせたそのモデルは、その後のほぼすべての東南アジアの王国——真臘、シュリーヴィジャヤ、クメール帝国、マジャパヒト、その他——によって複製された。扶南は文化的借用が弱さではなく政治的強さの源となりうることを示している。",
+    "zh-CN": "扶南具有重要意义，它是东南亚最早的大规模印度化王国，也是该地区此后诸文明的原始蓝本。其将印度文化威望（梵文、印度教、佛教元素）与当地政治结构及海上贸易主导地位相结合的模式，被此后几乎每一个东南亚王国所复制——真腊、室利佛逝、高棉帝国、满者伯夷等等。扶南证明了文化借鉴可以成为政治力量的来源，而非软弱的标志。"
+  },
+  "furtherReading": [
+    "Michael Vickery, Funan Reviewed: Deconstructing the Ancients (Bulletin de l'École française d'Extrême-Orient, 2003)",
+    "Ian Glover and Peter Bellwood (eds.), Southeast Asia: From Prehistory to History (RoutledgeCurzon, 2004)",
+    "Kenneth Hall, A History of Early Southeast Asia (Rowman and Littlefield, 2011)",
+    "O.W. Wolters, Early Indonesian Commerce and the Origins of Srivijaya (Cornell, 1967)",
+    "Holcombe, Charles, The Genesis of East Asia: 221 BC — AD 907 (University of Hawaii, 2001)"
+  ]
+}

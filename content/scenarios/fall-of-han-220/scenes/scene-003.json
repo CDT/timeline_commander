@@ -1,0 +1,105 @@
+{
+  "id": "fall-of-han-220-scene-003",
+  "scenarioId": "fall-of-han-220",
+  "title": {
+    "en": "The Last Han Emperor Speaks",
+    "ja": "最後の漢皇帝の御言葉",
+    "zh-CN": "最后一位汉朝皇帝的言辞"
+  },
+  "date": {
+    "en": "November 25, 220 AD — The Day of the Abdication Ceremony",
+    "ja": "220年11月25日——禅位式典の日",
+    "zh-CN": "公元220年11月25日——禅位典礼之日"
+  },
+  "location": {
+    "en": "The High Altar, Xu — The Abdication Platform",
+    "ja": "許都の高壇——禅位の壇",
+    "zh-CN": "许都高坛——禅让台"
+  },
+  "narrativePrompt": {
+    "en": "The altar is simple and well-made, the way important things often are when they have been planned with care. The sky this morning is clear and cold, which several of Cao Pi's court astronomers have already noted approvingly — clear skies on the day of a Heaven-mandate ceremony are a favorable omen, which means either that Heaven approves or that men find meaning in weather when they need to find meaning somewhere.\n\nYou are wearing the Han imperial robes. This was negotiated, and it was permitted. They are the robes you were given at nine years old when Dong Zhuo's soldiers first dressed you as emperor, and you have worn them on days of ceremony for thirty years, and they fit differently now than they did then, and the same and different in ways you could not precisely describe. The jade seal of Han is in your hands. It will pass from your hands to Cao Pi's before this hour is over, and the dynasty that has existed since Liu Bang defeated Xiang Yu at the Battle of Gaixia will cease to have a legitimate claimant.\n\nThe court is assembled. Cao Pi's officials and their families in one section, the remaining Han officials — those who came, the ones who chose to be present — in another. There are fewer of the latter than you expected, though you understand the calculation each of them made. Some are present who might have been absent. Some are absent who should be present. These are ordinary human facts about courage and calculation, neither more nor less than that.\n\nYou have the text of the edict in your memory. You spent the evening with it, not to memorize the words — you know them already — but to understand what it will mean to say them in front of these people in this place. The edict traces the great line of Han from Liu Bang through the four hundred and twenty-six years of the dynasty, and it says that the Mandate of Heaven has now moved, and that you, Liu Xie, the last of that line, understanding the will of Heaven and the welfare of the people, choose to entrust the governance of the realm to the capable hands of Cao Pi, the King of Wei, who has demonstrated the virtues appropriate to rule.\n\nThe words are not untrue. They are also not the whole truth. The capacity to say things that are not untrue while not being the whole truth is, you have learned, the essential skill of imperial ceremony. You have been performing it for thirty years. You can perform it once more.\n\nBut there is a moment before the ceremony begins — a small moment, a private moment, yours alone — where you might do something else. You might add words not in the agreed text: something personal, something that speaks to the Han officials who came, something that history might record as a last statement rather than as a ceremony. Or you might perform the ceremony exactly as agreed, preserving the dignity of the agreement and the safety of the people it protects, and let the history be written by others who will understand what the words meant even without annotation.\n\nThe drum strikes once. The ceremony is about to begin.",
+    "ja": "祭壇は簡素でよく作られている。大切なものが注意深く計画されるときによくそうであるように。今朝の空は澄んで寒い。曹丕の朝廷の天文学者の何人かがすでに賛成の意味でそれを記録した——天命の儀式の日の澄んだ空は吉兆だ。これは天が承認しているか、あるいは意味をどこかに見つける必要があるとき人々が天候に意味を見つけるかのどちらかを意味する。\n\nあなたは漢の皇帝の袍を着ている。これは交渉され、許可された。董卓の兵士たちがあなたを初めて皇帝として着飾らせた9歳のときに与えられた袍で、30年間式典の日に着てきた。今は当時と異なる、そして同じ、そして正確には言い表せない方法で異なる。漢の玉璽は手の中にある。この一時間が終わる前にあなたの手から曹丕の手に渡り、劉邦が垓下の戦いで項羽を敗って以来存在してきた王朝は正当な継承者を持たなくなる。\n\n朝廷は集まっている。曹丕の官員たちとその家族が一方の区画に、残った漢の官員たち——来た者、来ることを選んだ者たち——が別の区画に。後者は予想より少ないが、彼らそれぞれが行った計算は理解できる。いなかったかもしれない者の中にいる者がいる。いるべき者の中にいない者がいる。これらは勇気と計算についての普通の人間的な事実で、それ以上でもそれ以下でもない。\n\n詔書のテキストは記憶にある。夕べをそれとともに過ごした。言葉を記憶するためではなく——それはすでに知っている——この場所でこれらの人々の前で言うことが何を意味するかを理解するために。詔書は漢を劉邦から王朝の426年を通じてたどり、今や天命が移ったと言い、あなた、劉協、その系譜の最後の者が、天の意志と民の福祉を理解し、統治に適した徳を示してきた魏の王・曹丕の有能な手に天下の統治を委ねることを選ぶと言う。\n\n言葉は偽りではない。また全真実でもない。偽りでないことを言いながら全真実でない能力は、学んできたように、皇帝の儀式の本質的な技能だ。30年間それを行ってきた。もう一度行うことができる。\n\nしかし式典が始まる前の瞬間がある——小さな瞬間、個人的な瞬間、あなただけのもの——そこで何か他のことをするかもしれない。合意されたテキストにない言葉を加えるかもしれない：個人的な何か、来た漢の官員たちに語りかける何か、歴史が式典としてではなく最後の声明として記録するかもしれない何か。あるいは合意された通り正確に式典を行い、合意の威厳と守る人々の安全を保全し、注釈なしに言葉が何を意味したかを理解する他者に歴史を書かせるかもしれない。\n\n太鼓が一つ打つ。式典が始まろうとしている。",
+    "zh-CN": "祭坛简洁而精心，大事总在用心筹备后方呈现这样的面貌。今晨天色澄净而寒冷，曹丕几位御用天文学者已满意地记录在案——天命典礼之日天空晴朗是吉兆，这意味着或是上天认可，或是人们在需要从某处找到意义时便从天气中寻找意义。\n\n你身着汉朝皇帝冠服。这一点经过了谈判，获得了许可。这是董卓士兵初次将你装扮成皇帝时、你九岁时所赐的朝服，三十年来典礼之日都是如此穿着，如今穿在身上与当年既相同又不同，以一种你无法确切言说的方式。汉朝的玉玺在你手中，在这一个时辰结束之前，它将从你的手中移交到曹丕手中，而自刘邦在垓下击败项羽以来存续的这一王朝，将不再有合法的继承人。\n\n朝廷已然齐集。曹丕的官员与家眷在一处，留守的汉朝官员——那些来了的、选择到场的——在另一处。后者人数少于你的预期，尽管你理解他们每个人所做出的计算。有些本来可能不在场的人在场了，有些本应在场的人不在。这是关于勇气与算计的普通人间事实，不多也不少。\n\n诏书的内容在你记忆中。你昨晚与之相伴，不是为了背诵那些文字——那你已然熟知——而是为了理解在这个地方、当着这些人的面说出这些话意味着什么。诏书追溯汉室伟业，自刘邦始，历四百二十六年王朝，言称天命已然转移，你，刘协，这一系脉的最后一人，体察天意，悯念苍生，选择将天下治权托付于魏王曹丕的有为之手——他已展现出统御天下所应具备的德行。\n\n这些话并非谎言。但也并非全部真相。能够说出非谎言之语而又非全部真相，你已学会，这是皇帝典礼的核心技能。你已履行了三十年，还可以再履行一次。\n\n但在典礼开始之前，有那么一个瞬间——短暂的，私人的，只属于你的——你或许可以做些别的事情。你或许可以加入协议文本之外的话：一些个人性的表达，一些向那些前来的汉朝官员诉说的话，一些历史或许会记录为遗言而非典礼程序的话。或者，你也可以按照商定的内容原原本本地完成典礼，维护协议的尊严与它所庇护的人们的安全，让历史由其他人来书写——那些即便没有注解也能理解这些话语意味着什么的人。\n\n鼓声一响。典礼即将开始。"
+  },
+  "situationReport": [
+    {
+      "en": "All preparations are complete. The ceremony will proceed. The question is only how it proceeds — exactly as negotiated, or with any personal departure from the agreed script.",
+      "ja": "すべての準備が整っている。式典は進む。問いは何だけそれが進むか——交渉された通り正確に、あるいは合意された台本からの個人的な逸脱をともなって。",
+      "zh-CN": "一切准备就绪，典礼将如期进行。问题只在于它将如何进行——严格按谈判约定，还是带着对约定台本的某种个人偏离。"
+    },
+    {
+      "en": "The Han imperial seal will pass from your hands to Cao Pi's today. After this moment, there is no going back and no further agency available.",
+      "ja": "漢の皇帝の玉璽が今日あなたの手から曹丕の手に渡る。この瞬間の後、戻ることはなく、利用可能なさらなる主体性もない。",
+      "zh-CN": "汉朝玉玺今日将从你手中移交至曹丕手中。这一刻过后，一切无法挽回，也不再有任何可供施展的余地。"
+    },
+    {
+      "en": "The agreed ceremony protects certain named individuals and preserves certain Han privileges. Any deviation risks those protections.",
+      "ja": "合意された式典は特定の指名された個人を守り、特定の漢の特権を保全する。逸脱はそれらの保護を危険にさらす。",
+      "zh-CN": "约定的典礼保护了特定的具名人员，保存了某些汉朝特权。任何偏离都可能使这些保护处于风险之中。"
+    },
+    {
+      "en": "The historical record of this ceremony will be studied for centuries. What is said here will outlast everyone present by two thousand years.",
+      "ja": "この式典の歴史的な記録は何世紀にもわたって研究される。ここで言われることは、出席者全員より二千年長く続く。",
+      "zh-CN": "这场典礼的历史记录将被研究数百年。此处所言，将比在场所有人都多活两千年。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Conclude the Han dynasty in a manner that preserves whatever dignity and historical clarity is still available",
+      "ja": "まだ利用可能な威厳と歴史的な明確さを保全する方法で漢王朝を締めくくる",
+      "zh-CN": "以一种保全尚可保存的尊严与历史清明的方式，为汉朝画上句号"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The ceremony must conclude — there is no scenario in which the Han dynasty survives this day",
+      "ja": "式典は完了しなければならない——漢王朝がこの日を生き延びるシナリオはない",
+      "zh-CN": "典礼必须完成——没有任何情形下汉朝能在这一天之后延续"
+    }
+  ],
+  "choices": [
+    {
+      "id": "fall-of-han-220-scene-003-choice-a",
+      "text": {
+        "en": "Perform the ceremony exactly as agreed — preserve every negotiated protection by adhering strictly to the agreed script",
+        "ja": "合意された通り正確に式典を行う——合意された台本に厳密に従うことで交渉されたすべての保護を保全する",
+        "zh-CN": "严格按照约定进行典礼——通过严格遵守议定的台本，保全所有谈判达成的保护"
+      },
+      "historicalContext": "This is what historically happened. Emperor Xian performed the abdication ceremony according to protocol. Cao Pi's treatment of the former emperor was indeed relatively generous — he was given a comfortable life as Duke of Shanyang and died peacefully in 234 AD.",
+      "outcomePrompt": {
+        "en": "You speak the words as agreed. Every phrase lands in its correct place. The edict is read. The seal passes. Cao Pi receives the Mandate of Heaven in the correct form, with the correct witnesses, in the correct sequence that legitimizes the transfer and allows both sides to maintain the dignity that the moment requires.\n\nThe Han dynasty ends at this moment. Liu Bang's kingdom, which stretched back four hundred and twenty-six years to the defeat of Xiang Yu at Gaixia, ceases to have a legitimate emperor. The last emperor hands the jade seal to the first emperor of Wei and is thereafter the Duke of Shanyang.\n\nYou will live fourteen more years. The historians of Wei will record that the Duke of Shanyang was given generous treatment, permitted to use Han imperial rites in his territory, and that he practiced medicine and continued his studies and died peacefully. These are true things. The historians of Shu Han will record different true things: that Liu Bei declared himself the legitimate continuation of Han, that the abdication was coerced, that the house of Han did not truly yield the Mandate.\n\nBoth of these histories exist simultaneously, which is what always happens when an empire falls and the survivors must each make sense of it from where they stand. You are the last person who stood at the center of what happened, and you performed its ending with the dignity available to you, and that will have to be enough.",
+        "ja": "合意された通り言葉を語る。すべての表現が正確な場所に落ちる。詔書が読まれる。玉璽が渡る。曹丕は正確な形で、正確な証人の前で、移転を正当化し双方がこの瞬間が必要とする威厳を維持できるようにする正確な順序で天命を受け取る。\n\n漢王朝はこの瞬間に終わる。垓下での項羽の敗北に遡る四百二十六年を持つ劉邦の王国は正当な皇帝を持たなくなる。最後の皇帝が玉璽を魏の最初の皇帝に手渡し、その後は山陽公となる。\n\nあなたはさらに14年生きる。魏の歴史家たちは、山陽公が寛大な扱いを受け、領地での漢の皇帝礼式の使用を許され、医学を実践し研究を続け穏やかに死んだと記録するだろう。これらは真実だ。蜀漢の歴史家たちは異なる真実を記録するだろう：劉備が漢の正統な継続として自らを宣言したこと、禅位が強制されたこと、漢の家が真に天命を譲渡したわけではないこと。\n\nこれらの歴史は両方が同時に存在し、帝国が滅びて生存者がそれぞれの立場から意味を作らなければならないとき常にそうなるように。あなたは起きたことの中心に立った最後の人物で、利用可能な威厳をもってその結末を演じた。それで十分にならなければならない。",
+        "zh-CN": "你按约定说出了那些话。每一句话都落在了它应有的位置上。诏书被宣读，玉玺被传递。曹丕以正确的形式，在正确的见证人面前，以正确的程序接受天命——这一程序使权力移交具有合法性，也让双方得以维持这一时刻所要求的尊严。\n\n汉朝就在这一刻终结。追溯至垓下项羽战败、延续了四百二十六年的刘邦王朝，不再有合法的皇帝。最后一位皇帝将玉玺交入魏朝第一位皇帝手中，从此成为山阳公。\n\n你还将再活十四年。魏朝的史官将记载，山阳公受到了宽厚的礼遇，被允许在其领地内使用汉朝皇帝礼仪，他研习医术，持续学问，安详离世。这些都是真的。蜀汉的史官则将记录另一些真实：刘备宣称自己是汉朝的合法延续，禅让出于强迫，汉室并未真正移交天命。\n\n这两种历史同时存在，这是帝国覆灭而幸存者各自从所在处理解这一切时始终发生的事。你是那个曾站在所发生之事中心的最后一个人，你以力所能及的尊严完成了它的结局，那必须已经足够。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "personalsafety", "operation": "add", "value": 20 },
+        { "variable": "loyalCourtiers", "operation": "add", "value": 10 },
+        { "variable": "imperialDignity", "operation": "add", "value": 10 },
+        { "variable": "hanLegacy", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "fall-of-han-220-scene-003-choice-b",
+      "text": {
+        "en": "Add a personal declaration before completing the agreed ceremony — speak briefly as Liu Xie rather than as the ceremony, addressing the Han officials present and acknowledging what this moment truly is",
+        "ja": "合意された式典を完了する前に個人的な宣言を加える——式典としてではなく劉協として簡潔に語り、出席している漢の官員たちに向き合い、この瞬間が真に何であるかを認める",
+        "zh-CN": "在完成约定典礼前加入个人宣言——以刘协而非典礼程序的身份简短发言，向在场的汉朝官员们直言，承认这一时刻真正意味着什么"
+      },
+      "historicalContext": "The historical counterfactual — a personal statement before or during the abdication would have been a significant deviation from the protocol and might have endangered some of those who came. But it would have left a different historical record.",
+      "outcomePrompt": {
+        "en": "Before you begin the formal text, you speak. It is not a long speech — you know the risks of a long speech — but it is long enough. You look at the Han officials who came. You say that you see them. You say that you know why they came and that you know what it cost them to come. You say that the Han dynasty was not only its emperors, and that the empire that ends today was made by the people who served it, many of whom are standing in this courtyard, and that you have tried to deserve their service and have not always succeeded, and that this is the truth you want them to have from you before the ceremony removes you from the position of being able to tell it.\n\nThen you read the agreed text. The ceremony proceeds. The seal passes.\n\nCao Pi's representatives are stone-faced during your addition. Afterward, there are conversations between their officials and yours, and some of the protections you negotiated are revised. Two of the officials you wanted to protect find, in the following months, that their situations are less comfortable than agreed. You carry this.\n\nBut among the Han officials who were present that day, and among their descendants, and in the private histories that will be written and passed down in the decades that follow, there will be a record of what you said. It will not be in the official histories. It will be in something closer to memory.",
+        "ja": "正式なテキストを始める前に語る。長い演説ではない——長い演説のリスクは知っている——しかし十分長い。来た漢の官員たちを見る。彼らを見ていると言う。なぜ彼らが来たかを知っており、来ることが彼らに何の代償をもたらしたかを知っていると言う。漢王朝はその皇帝だけではなかったと言い、今日終わる帝国はそれに仕えた人々——その多くがこの中庭に立っている——によって作られたこと、彼らの奉仕に値しようとしてきたが常に成功したわけではないこと、そして式典があなたをそれを言える立場から取り除く前に彼らに持っていてほしい真実がこれだと言う。\n\nそれから合意されたテキストを読む。式典は進む。玉璽が渡る。\n\n曹丕の代表者たちはあなたの付加の間、石のような表情をしている。その後、彼らの官員とあなたの官員の間で会話があり、交渉した保護のいくつかが改訂される。保護したかった官員の二人は、その後数ヶ月で、状況が合意より不快であることを知る。あなたはこれを負う。\n\nしかしその日出席していた漢の官員たちの間で、そして彼らの子孫の間で、そして続く数十年に書かれ受け継がれる私的な歴史の中に、あなたが言ったことの記録がある。公式の歴史にはない。記憶に近い何かの中にある。",
+        "zh-CN": "在开始正式文本之前，你说话了。这不是一篇长篇演讲——你清楚长篇演讲的风险——但已足够长。你注视着那些前来的汉朝官员。你说，你看见了他们。你说，你知道他们为何而来，也知道前来对他们意味着多大的代价。你说，汉朝不仅仅是它的那些皇帝，今日画上句号的这个帝国，是由那些服侍它的人所成就的——他们中的许多人此刻就站在这座庭院里——你曾努力使自己配得上他们的效忠，却并不总是做到了，而这正是你希望他们在典礼将你从能够说出这些话的位置上移走之前，从你这里得到的真相。\n\n然后你宣读了约定的文本。典礼继续进行，玉玺交付。\n\n曹丕的代表在你加入的那段话期间表情如石。此后，他们的官员与你的官员之间进行了交谈，你谈判争取到的某些保护做了修改。你想保护的两位官员，在此后数月内发现他们的处境不如约定中那么令人安慰。这是你承担的。\n\n但在那天出席的汉朝官员中间，在他们的后代中间，在随后数十年里被写下并传承的私家历史中，将留有一份你说过之话的记录。它不在官方史书里，它在某种更接近记忆的东西里。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "hanLegacy", "operation": "add", "value": 25 },
+        { "variable": "imperialDignity", "operation": "add", "value": 20 },
+        { "variable": "personalsafety", "operation": "add", "value": -10 },
+        { "variable": "loyalCourtiers", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

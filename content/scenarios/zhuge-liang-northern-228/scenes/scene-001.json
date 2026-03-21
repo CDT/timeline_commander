@@ -1,0 +1,115 @@
+{
+  "id": "zhuge-liang-northern-228-scene-001",
+  "scenarioId": "zhuge-liang-northern-228",
+  "title": {
+    "en": "The Appointment at Jieting",
+    "ja": "街亭の任命",
+    "zh-CN": "街亭任将"
+  },
+  "date": {
+    "en": "January 228 AD, Hanzhong",
+    "ja": "228年1月、漢中",
+    "zh-CN": "公元228年1月，汉中"
+  },
+  "location": {
+    "en": "Shu Han Field Headquarters, Hanzhong",
+    "ja": "蜀漢野戦司令部、漢中",
+    "zh-CN": "蜀汉汉中前线指挥营"
+  },
+  "narrativePrompt": {
+    "en": "The army is on the move and the news from the forward positions is better than you dared hope. You advanced through Qishan two weeks ago and the Wei commanders on the other side of the mountains were not ready. Three commanderies — Nan'an, Tianshui, and Anding — have sent envoys to surrender. Their populations are already preparing to swear loyalty to Shu Han. More significantly, a young officer in Tianshui named Jiang Wei has defected to your side, and your scouts report that he is precisely the kind of talent you have been searching for. The Wei Emperor Cao Rui has been shaken enough to leave Luoyang and travel personally to Chang'an. You have achieved what Shu Han's critics said was impossible: you have shaken the north.\n\nAnd yet.\n\nEvery general worth his command knows that a battle is often won or lost not in the main engagement but in the positions that control the margins. You are advancing. Wei is recovering its composure. The road through Jieting is the hinge on which your entire supply line depends — the passage through which your provisions, your reinforcements, and your communications with Hanzhong must flow. If Jieting is held, you can continue to threaten Wei from Qishan and force Cao Rui to accept an extended confrontation on your terms. If Jieting is lost, your army is isolated in hostile territory with its back to mountains it cannot easily recross, and the entire expedition unravels.\n\nYou need a commander for Jieting. The choice is more complicated than it should be, and you know it.\n\nMa Su has been at your side for seven years. He is thirty-nine years old, educated in strategy, possessed of a mind that can see the structure of a situation at a glance. In council sessions, his analysis is often better than any other officer's — faster, more structural, more attentive to the larger patterns of a campaign. You have said yourself that he is the most gifted staff officer in Shu Han. You have spent evenings arguing strategy with him, and those arguments have sharpened your thinking in ways you value.\n\nYou also remember what Liu Bei said, in those last exhausted days at Baidicheng. He summoned you to his bedside and spoke of the men around you, one by one, with the unsentimental clarity of a dying man who has spent his life reading people. Of Ma Su he said: his words exceed his ability. Do not use him in a position of high command. You did not contradict the emperor. You have also, in the seven years since, found no evidence that Liu Bei was right — only the absence of the test that would prove him wrong.\n\nThe alternative is Wang Ping. He is less brilliant than Ma Su and he knows it, but he is experienced in mountain warfare, methodical, and reliable in the way that a good foundation stone is reliable — not spectacular, not likely to surprise you with inspiration, but capable of holding what he is given to hold. He will follow orders to the letter. He will build his position on the road as instructed, maintain his water supply, and hold until relieved. He will not make a move that is not in the tactical manual.\n\nJieting is the hinge. Who holds it determines whether the First Northern Expedition becomes the campaign that begins the restoration of Han, or the disaster that haunts Shu Han for a generation.",
+    "ja": "軍は動き出しており、前線からの知らせは期待していた以上に良好だ。二週間前に祁山を通じて前進し、山の向こうの魏の指揮官たちは準備ができていなかった。南安・天水・安定の三郡が降伏の使者を送ってきた。その民はすでに蜀漢への忠誠を誓う準備をしている。さらに重要なことに、天水の姜維という名の若い将校があなたの陣営に降ってきており、偵察隊はこれがまさにあなたが探し求めていた種類の才能だと報告している。魏の曹叡帝は洛陽を離れて自ら長安に赴くほど動揺した。蜀漢の批評家たちが不可能と言っていたことを達成した：北方を揺さぶった。\n\nしかし。\n\n指揮に値するすべての将軍は、戦いがしばしば主戦場ではなく周辺を制する陣地で勝敗が決まることを知っている。あなたは前進している。魏は落ち着きを取り戻しつつある。街亭を通じる道は、補給線全体が依存している蝶番だ——食料・増援・漢中との通信が流れなければならない通路だ。街亭が保たれれば、祁山から魏を脅かし続け、曹叡があなたの条件で長期的な対立を受け入れることを強いることができる。街亭が失われれば、あなたの軍は容易に越えられない山を背にした敵地に孤立し、北伐全体が崩れ去る。\n\n街亭の指揮官が必要だ。選択は本来あるべき以上に複雑で、それはわかっている。\n\n馬謖は七年間あなたの側にいた。39歳、戦略に通じており、一見して状況の構造を見抜く頭脳を持っている。作戦会議では、彼の分析はしばしば他のどの将校よりも優れている——より速く、より構造的で、戦役の大きなパターンにより注意深い。あなた自身、彼が蜀漢で最も優れた参謀将校だと言ってきた。夜に彼と戦略について議論し、それらの議論があなたの思考を価値ある形で磨いてきた。\n\nあなたはまた、劉備が白帝城でのあの最後の疲弊した日々に言ったことを覚えている。彼はあなたを枕元に呼び、周りの人たちについて一人ずつ、人生をかけて人を読んできた死にゆく男の感傷のない明晰さで話した。馬謖については：彼の言葉は能力を超えている。高い指揮の職に用いてはならない。あなたは皇帝に反論しなかった。それ以来七年間、劉備が正しかったという証拠も見つけていない——ただ彼が間違っていることを証明するはずのテストの不在だけがある。\n\n代替案は王平だ。彼は馬謖ほど優秀ではなく、それを知っているが、山岳戦に経験があり、几帳面で、良い礎石が信頼できる方法で信頼できる——壮観ではなく、インスピレーションであなたを驚かせることはなさそうだが、守るように言われたものを守ることができる。命令を字義通りに従う。道上に指示通り陣地を築き、水の供給を維持し、解放されるまで守るだろう。戦術の教本にない動きはしないだろう。\n\n街亭は蝶番だ。誰がそれを守るかが、第一次北伐が漢の復興を始める戦役になるか、一世代にわたって蜀漢に暗い影を落とす惨事になるかを決定する。",
+    "zh-CN": "大军已在行进，前线的消息比你所敢于期望的更为喜人。两周前你率军经祁山推进，山那边的魏国将领毫无防备。南安、天水、安定三郡已遣使请降，各地民众正准备向蜀汉宣誓效忠。更为重要的是，天水一位名叫姜维的年轻将领已投奔你这边，斥候禀报此人正是你一直寻访的那种人才。魏帝曹叡受到的震动足以让他离开洛阳，亲赴长安坐镇。你达成了蜀汉批评者所言不可能之事：你撼动了北方。\n\n然而。\n\n每一位称职的将领都知道，战役的胜负往往不在于正面交锋，而在于控制侧翼的阵地。你正在推进，魏国正在重整镇定。街亭一路是你整条补给线所仰赖的枢轴——粮草、援军与和汉中的联络都必须经由此道流通。若街亭守住，你便可继续从祁山威胁魏国，迫使曹叡按你的条件接受持久对峙。若街亭失守，你的大军将被孤立于不易回返的山岭背后的敌境之中，整个北伐随之瓦解。\n\n你需要一名街亭的守将。这个选择比应有的更为复杂，你清楚这一点。\n\n马谡在你身边已经七年。他三十九岁，精通战略，拥有一望即知局势结构的头脑。在幕僚会议上，他的分析往往优于其他将领——更敏锐，更具结构感，对战役宏观格局的把握更为精到。你自己也曾说过，他是蜀汉最具才华的参谋。你们曾在夜间长谈战略，那些讨论以你珍视的方式磨砺了你的思维。\n\n你也记得刘备在白帝城那些最后疲倦的日子里说过的话。他召你至榻前，以一个穷尽毕生阅人经验、临终之际清醒无情的男人的口吻，逐一道及你身边的人。谈及马谡时，他说：言过其实，不可大用。你没有当面反驳皇帝。此后七年，你也没有找到任何证明刘备正确的证据——有的只是那个本应证明他有误的考验始终未曾到来。\n\n另一个选择是王平。他不如马谡那般聪颖，他自己也知道，但他有山地战的经验，行事稳健，可靠的方式如同一块坚实的基石——不耀眼，不会以灵感令你惊喜，但能够守住交给他守的东西。他会一字不差地执行命令，会按指示在道路上构筑阵地，维持水源供应，坚守至获援为止。他不会做任何超出战术手册的事。\n\n街亭是枢轴。谁来守它，决定着第一次北伐是成为开启汉室复兴的战役，还是令蜀汉蒙受一代之痛的惨败。"
+  },
+  "situationReport": [
+    {
+      "en": "The First Northern Expedition has achieved initial strategic surprise. Three Wei commanderies have surrendered, and Wei Emperor Cao Rui has personally traveled to Chang'an to organize the defense, revealing how seriously Wei regards the threat.",
+      "ja": "第一次北伐は当初の戦略的奇襲を達成した。魏の三郡が降伏し、魏の曹叡帝が自ら防衛を組織するために長安に赴き、魏がこの脅威をいかに深刻に見ているかを明らかにした。",
+      "zh-CN": "第一次北伐已取得初期战略奇袭之效。魏国三郡投降，魏帝曹叡亲赴长安主持防御，表明魏国对这一威胁的高度重视。"
+    },
+    {
+      "en": "Jieting is the critical road junction controlling the supply corridor between Hanzhong and the advancing Shu Han army. Losing it would expose the army's flanks and rear, forcing a withdrawal from the entire expedition.",
+      "ja": "街亭は漢中と前進中の蜀漢軍の間の補給回廊を制する重要な道路の交差点だ。失うと軍の側面と後方が露出し、北伐全体からの撤退を強いられる。",
+      "zh-CN": "街亭是控制汉中与前进中的蜀汉军队之间补给通道的关键道路交汇点。失守将暴露大军侧翼与后方，被迫全面撤退。"
+    },
+    {
+      "en": "Ma Su is Zhuge Liang's most trusted staff officer, brilliant in analysis and theory, but untested in independent field command. Liu Bei's deathbed warning explicitly named him as unreliable for command positions.",
+      "ja": "馬謖は諸葛亮の最も信頼する参謀将校で、分析と理論において卓越しているが、独立した野戦指揮では試されていない。劉備の臨終の警告は彼を指揮職には信頼できないと明示的に名指しした。",
+      "zh-CN": "马谡是诸葛亮最为信任的参谋将领，在分析与理论上才华出众，但从未独立担任野战指挥。刘备临终明确点名他不可独当一面。"
+    },
+    {
+      "en": "Wang Ping is experienced, methodical, and tactically sound. He lacks Ma Su's brilliance but has proven himself reliable under pressure. He would almost certainly hold the road position as ordered.",
+      "ja": "王平は経験豊富で几帳面、戦術的に堅実だ。馬謖の才能には欠けるが、圧力下での信頼性を証明してきた。彼は命令通りに道路の陣地をほぼ確実に守るだろう。",
+      "zh-CN": "王平经验丰富，处事稳健，战术扎实。他缺乏马谡的才华，但已证明自己在压力下可靠可信，几乎可以确定会按命令守住道路阵地。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Appoint a commander capable of holding Jieting against Wei's response force under Zhang He, protecting the army's supply lines through the mountain passes",
+      "ja": "張郃率いる魏の反撃軍に対して街亭を守ることができる指揮官を任命し、山岳峠を通じる軍の補給線を守る",
+      "zh-CN": "任命一位能够抵御张郃率领的魏军反击、守住街亭的将领，保护大军经山隘的补给线"
+    },
+    {
+      "en": "Sustain the strategic advantage of the First Expedition long enough to consolidate control over the three surrendered commanderies and demonstrate that Shu Han can hold northern territory",
+      "ja": "投降した三郡の支配を固め蜀漢が北方領土を保持できることを示すのに十分な期間、第一次北伐の戦略的優位を維持する",
+      "zh-CN": "使第一次北伐的战略优势维持足够长的时间，以巩固对三个投降郡的控制，证明蜀汉能够守住北方领土"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The army's supply situation requires Jieting to be held — without the road, the force in the field cannot be sustained for more than a few weeks",
+      "ja": "軍の補給状況は街亭が守られることを必要としている——道路なしでは、野戦の部隊は数週間以上維持できない",
+      "zh-CN": "大军的补给形势要求守住街亭——没有这条道路，前线部队最多只能支撑数周"
+    },
+    {
+      "en": "Overruling or bypassing Ma Su now would damage Zhuge Liang's relationship with his most talented advisor and signal to other officers that personal trust does not translate into command authority",
+      "ja": "今馬謖を否決または迂回することは、諸葛亮と最も才能ある顧問との関係を損ない、他の将校たちに個人的信頼が指揮権限に転換しないことを示すことになる",
+      "zh-CN": "此时否定或绕开马谡，将损害诸葛亮与最出色谋士之间的关系，并向其他将领表明个人信任并不等于指挥权威"
+    }
+  ],
+  "choices": [
+    {
+      "id": "zhuge-liang-northern-228-scene-001-choice-a",
+      "text": {
+        "en": "Appoint Ma Su to command at Jieting: trust his brilliance to overcome his inexperience, and give him Wang Ping as a subordinate to provide practical counsel",
+        "ja": "馬謖を街亭の指揮官に任命する：彼の才能が経験不足を克服することを信じ、実際的な助言を提供するために部下として王平を与える",
+        "zh-CN": "任命马谡指挥街亭：相信他的才华能够弥补经验不足，并将王平配置为其部将提供实际建议"
+      },
+      "historicalContext": "This was the historical choice. Zhuge Liang appointed Ma Su despite the concerns of other officers and the late Liu Bei's warning. Ma Su ignored Wang Ping's sound advice at Jieting, occupied a hilltop against all tactical logic, was encircled by Zhang He, and suffered catastrophic defeat. The loss of Jieting ended the First Northern Expedition.",
+      "outcomePrompt": {
+        "en": "You call Ma Su before you and tell him what you are going to ask of him. His face when he receives the order is the face of a man who has been waiting for exactly this. He swears before the assembled officers that he will hold Jieting or offer his head. It is the right kind of rhetoric, and in the moment, watching him, you almost believe the energy he radiates will be sufficient. You give him Wang Ping as a subordinate and specific orders: hold the road, maintain the water supply, build a fortified camp on the route rather than the surrounding terrain.\n\nThe dispatches that come back over the following days are from Wang Ping, not Ma Su. Ma Su has moved the army to a hilltop position that offers a commanding view of the surrounding valley. Wang Ping has sent written objections. Ma Su has overruled him. The position on the hill has no water. Zhang He's forces have encircled it. There is nothing to be done now but wait.\n\nThe news arrives on a morning when the sky is clear and cold. Jieting has fallen. Ma Su's army broke and scattered. Wang Ping held his small independent detachment in formation and conducted an orderly retreat — the only unit that performed as ordered. Your supply lines are cut. Your flanks are exposed. The three commanderies that surrendered so eagerly two weeks ago are already being recovered by Wei forces. You sit with the dispatch in your hand and understand, with a completeness that is almost physical, that the expedition is over.\n\nYou begin to plan the withdrawal. It will be orderly. You will bring the people of the three counties with you. And you will know, for the rest of your life, that Liu Bei was right.",
+        "ja": "馬謖をあなたの前に呼び、何をお願いするか告げる。命令を受けた彼の顔は、まさにこれを待っていた男の顔だ。集まった将校たちの前で、街亭を守れなければ首を差し出すと誓う。それは正しい種類の言辞であり、その瞬間、彼を見て、彼が放つエネルギーで十分だとほとんど信じてしまう。部下として王平を与え、具体的な命令を下す：道路を守り、水の供給を維持し、周囲の地形ではなく道路上に要塞の陣地を築け。\n\nその後の数日間に戻ってくる文書は馬謖からではなく王平からだ。馬謖は軍を、周囲の谷の見晴らしが良い山頂の陣地に移動させた。王平は書面で異議を申し立てた。馬謖はそれを却下した。山の上の陣地には水がない。張郃の軍に包囲された。今はただ待つしかない。\n\n知らせが届いたのは空が晴れて冷たい朝だった。街亭が落ちた。馬謖の軍が崩壊して四散した。王平は小さな独立部隊を整列させたまま保ち、整然とした撤退を行った——命令通りに行動した唯一の部隊だ。補給線が断たれた。両翼が露出した。二週間前に喜んで降伏した三郡はすでに魏軍によって取り戻されつつある。文書を手に持ったまま座り、ほとんど身体的なまでの完全さで理解する——北伐は終わった。\n\n撤退の計画を立て始める。整然としたものになるだろう。三郡の民を連れていくだろう。そして生涯の残りを、劉備が正しかったと知りながら過ごすだろう。",
+        "zh-CN": "你将马谡召至面前，告诉他你将交付给他的任务。他接到命令时的神情，是一个等待这一刻已久之人的神情。他在众将面前立誓，不守住街亭便以头相献。这是正确的表态，彼时目睹他的神情，你几乎相信他所散发的那种气势足以胜任。你将王平配置为其部将，并下达明确命令：守住道路，维持水源，在行军线路上而非周边地形上构筑要塞营地。\n\n随后数日传回的文书来自王平，而非马谡。马谡已将大军移至俯瞰四周山谷的山顶阵地。王平递交了书面异议，马谡将其否决。山上的阵地没有水源。张郃已将其团团围住。现在唯有等待。\n\n消息传来那天，天色晴冷。街亭已失，马谡的军队溃散奔逃。王平率领他那支小规模独立部队保持建制，实施了有序撤退——唯一按命令行动的部队。补给线已断，两翼暴露。两周前那么爽快投降的三郡，正被魏军陆续收复。你手持文书坐在那里，以一种近乎切身的完整感明白了：北伐结束了。\n\n你开始筹划撤退。撤退将是有序的，你会带走三县的百姓。而你此后的余生，将带着刘备曾经是对的这一认知度过。"
+      },
+      "nextSceneId": "zhuge-liang-northern-228-scene-002",
+      "stateChanges": [
+        { "variable": "shuMorale", "operation": "add", "value": 5 },
+        { "variable": "strategicPosition", "operation": "add", "value": 10 },
+        { "variable": "supplySecurity", "operation": "add", "value": -25 },
+        { "variable": "officerLoyalty", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "zhuge-liang-northern-228-scene-001-choice-b",
+      "text": {
+        "en": "Override personal preference and appoint Wang Ping to command at Jieting: send Ma Su back to the main headquarters with a senior advisory role, and trust reliability over brilliance for this critical defensive task",
+        "ja": "個人的好みを脇に置いて王平を街亭の指揮官に任命する：馬謖を上級顧問の役割を持つ本営に送り返し、この重大な防衛任務において才能よりも信頼性を信じる",
+        "zh-CN": "放下个人偏好，任命王平指挥街亭：将马谡遣回主营担任高级参谋，对于这一关键防御任务信赖稳定胜于才华"
+      },
+      "historicalContext": "This path was not taken historically. Appointing Wang Ping or another experienced field commander might have preserved the supply line and allowed the First Expedition to continue, potentially creating the opportunity for a broader campaign into Wei territory that Shu Han never achieved.",
+      "outcomePrompt": {
+        "en": "You call Wang Ping before you and give him command of Jieting. His expression is one of calm acknowledgment — a man accustomed to being given difficult tasks without ceremony. You tell him what you require: the road must be held, the water supply must be protected, his camp must be built on the road itself rather than the surrounding terrain. He listens, asks two practical questions about reinforcement schedules and the disposition of neighboring units, and withdraws to prepare. He does not swear oaths or invoke the ancient generals. He asks about logistics.\n\nMa Su receives the news that Wang Ping has been given the command with a stillness that tells you more than anger would. He accepts the advisory posting without argument. You see in his face that he believes he has been denied something he was owed, and you file this knowledge away, understanding that you have not resolved the problem of Ma Su — you have merely postponed it.\n\nThe dispatches from Jieting over the following weeks report a road position firmly held. Wang Ping has built his fortifications exactly where instructed, with reliable water access. Zhang He's forces probe the position repeatedly and each time withdraw. The supply corridor remains open. Your army in the field continues to threaten the Wei heartland from Qishan. The three surrendered commanderies remain in Shu Han hands, and the populations are being processed for resettlement according to your standing instructions.\n\nThe expedition does not succeed in its ultimate objective — Wei is too large, too resilient, and Cao Rui's mobilization at Chang'an stabilizes the front before you can exploit your initial advantage fully. But you withdraw in your own time, on your own terms, with your army intact and your supply lines unbroken. The expedition is not the victory you hoped for. It is not the catastrophe it historically became.",
+        "ja": "王平をあなたの前に呼び、街亭の指揮権を与える。彼の表情は穏やかな了承のもの——儀礼なしに困難な任務を与えられることに慣れた男のそれだ。何を要求するかを告げる：道路を守らなければならない、水の供給を守らなければならない、陣地は周囲の地形ではなく道路上に築かなければならない。彼は聞き、増援のスケジュールと隣接部隊の配置について二つの実際的な質問をして、準備のために引き下がる。誓いを立てず、古の将軍を引き合いに出さない。兵站について尋ねる。\n\n馬謖は王平が指揮権を与えられたという知らせを、怒りよりも多くを告げる静けさで受け取る。異論なく顧問の職を受け入れる。彼の顔に、自分が当然のものとして否定されたと思っていることが見え、この知識を留めておく——馬謖の問題を解決したのではなく、ただ先送りしたに過ぎないことを理解して。\n\nその後数週間にわたる街亭からの文書は、道路陣地が堅固に守られていることを報告する。王平は指示された通り、確実な水の供給を持って要塞を築いた。張郃の軍が繰り返し陣地を探ってはそのたびに引き下がる。補給回廊は開いたままだ。野戦の軍が祁山から魏の中枢を脅かし続ける。三つの降伏した郡は蜀漢の手にあり続け、その民が常設の指示に従って移住のために処理されている。\n\n北伐は最終的な目標において成功しない——魏は大きすぎ、回復力があり過ぎ、曹叡の長安での動員があなたが初期の優位を十分に活用する前に前線を安定させる。しかしあなたは自分の時間に、自分の条件で、軍を無傷に補給線を途絶えることなく撤退する。北伐は期待した勝利ではない。歴史的にそうなった惨事でもない。",
+        "zh-CN": "你召来王平，将街亭的指挥权交予他。他的神情是平静的领受——一个习于在没有仪式的情况下承担艰难任务的人。你告诉他你的要求：道路必须守住，水源必须保护，营地必须建在道路本身而非周围地形上。他倾听，就增援时间表和邻近部队布置提出两个实际问题，然后退下准备。他没有立誓，没有援引古之名将，他问的是后勤。\n\n马谡以一种比愤怒更能说明问题的平静接到王平获得指挥权的消息。他不作争辩地接受了顾问的职位。你从他脸上看到他认为自己被剥夺了本应属于他的东西，你将这个认识记在心里，明白自己并未解决马谡这个问题——不过是将它推后了。\n\n此后数周来自街亭的文书报告说道路阵地守得稳固。王平严格按照指示在有可靠水源的位置修筑了工事。张郃的军队多次试探阵地，每次都撤退而去。补给通道保持畅通。前线大军继续从祁山威胁魏国腹地。三个投降的郡持续在蜀汉手中，其民众正按你既定的指示进行迁安处置。\n\n北伐未能达成最终目标——魏国太大、太有韧性，曹叡在长安的动员在你能充分利用初期优势之前稳定了战线。但你按照自己的时机、自己的条件撤退，大军完整，补给线未曾中断。这次北伐不是你所期望的胜利，但也不是历史上那场一败涂地的惨局。"
+      },
+      "nextSceneId": "zhuge-liang-northern-228-scene-002",
+      "stateChanges": [
+        { "variable": "supplySecurity", "operation": "add", "value": 20 },
+        { "variable": "strategicPosition", "operation": "add", "value": 15 },
+        { "variable": "officerLoyalty", "operation": "add", "value": -5 },
+        { "variable": "shuMorale", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

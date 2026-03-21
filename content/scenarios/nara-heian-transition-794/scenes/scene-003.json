@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-003",
+  "scenarioId": "nara-heian-transition-794",
+  "title": {
+    "en": "The City of Peace and Tranquility",
+    "ja": "平安の都",
+    "zh-CN": "平安之都"
+  },
+  "isTerminal": true,
+  "nextSceneId": null,
+  "background": {
+    "en": "October 794 AD. The day of the formal move to Heian-kyo has arrived. The Imperial Palace complex stands complete in the northern sector of the grid-planned city. The court has been transported. The geomancers are satisfied. You, Emperor Kanmu, are about to perform the ceremonies that formally inaugurate the new capital. One final decision remains: what will you name this city, and what vision will you enshrine in that name for the court culture you are creating?",
+    "ja": "794年10月。平安京への正式な遷都の日が来た。皇居複合施設が格子状に計画された都の北区画に完成して立っている。宮廷は移転した。陰陽師たちは満足している。あなた、桓武天皇は、新都を正式に開幕する儀式を行おうとしている。最後の一つの決断が残っている：この都に何という名をつけるか、そしてあなたが作ろうとしている宮廷文化のためにその名に何のビジョンを刻むか？",
+    "zh-CN": "公元794年十月。正式迁入平安京的日子到来了。皇宫建筑群巍然矗立于棋盘格规划城市的北部区域，朝廷已经入驻，堪舆师们深感满意。你，桓武天皇，即将举行正式开启新都的仪式。最后一个决断尚待做出：你将如何命名这座城市，又将在这个名字中为你所创建的宫廷文化铭刻怎样的愿景？"
+  },
+  "prompt": {
+    "en": "The name of a capital city carries the aspirations of the dynasty that creates it. Your predecessors named Nara's capital Heijo-kyo (Citadel of Peace). You have a choice between two names that have been proposed by your court advisors, each carrying a different vision for what this new capital and its culture should represent.",
+    "ja": "都市の名前はそれを創る王朝の願望を担う。あなたの先人は奈良の都を平城京（平和の城砦）と名づけた。あなたには宮廷の顧問たちによって提案された二つの名前のうちから選ぶ選択肢がある。それぞれがこの新都とその文化が何を表すべきかの異なるビジョンを持っている。",
+    "zh-CN": "都城的名字承载着缔造它的王朝的抱负。你的前辈将奈良的都城命名为平城京（和平的城堡）。你面临在宫廷顾问们提出的两个名字中做出选择，每个名字都承载着关于新都及其文化应当代表什么的不同愿景。"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Heian-kyo — City of Peace and Tranquility",
+        "ja": "平安京——平和と静穏の都",
+        "zh-CN": "平安京——平和与安宁之都"
+      },
+      "description": {
+        "en": "Name the capital Heian-kyo, emphasizing peace and calm — a vision of stable, refined imperial governance that has transcended the religious and political conflicts of Nara. This is the name that looks inward, toward court culture, aesthetic refinement, and the cultivation of a distinctly Japanese civilization. It promises not military glory but harmony between heaven and earth.",
+        "ja": "首都を平安京と名づけ、平和と静穏を強調する——奈良の宗教的・政治的対立を超えた安定した洗練された皇室統治のビジョン。これは内側を、宮廷文化、美的洗練、独特の日本文明の醸成に向いた名前だ。軍事的栄光ではなく天と地の調和を約束する。",
+        "zh-CN": "将首都命名为平安京，强调平和与安宁——一种超越奈良宗教与政治纷争的稳定、精致的皇室治理愿景。这是一个向内凝视的名字，指向宫廷文化、美学修养与独特日本文明的培育。它许诺的不是军事荣耀，而是天地之间的和谐。"
+      },
+      "outcome": {
+        "en": "The name Heian-kyo becomes the city's identity for over a thousand years. The culture that blossoms here — the world's first novel, the refinement of Japanese poetry, the aesthetic ideals of mono no aware and wabi — fulfills exactly the promise of that name. Your capital becomes not a fortress but a garden: a place where civilization cultivates itself. History will know this as the Heian period — Japan's classical golden age.",
+        "ja": "平安京という名前が千年以上にわたって都市のアイデンティティとなる。ここで花開く文化——世界初の小説、日本の詩の洗練、もののあわれとわびの美的理想——がその名の約束を正確に果たす。あなたの都は要塞ではなく庭となる：文明が自らを磨く場所。歴史はこれを平安時代——日本の古典的黄金時代——として知るだろう。",
+        "zh-CN": "平安京这个名字成为这座城市逾千年的身份认同。在此绽放的文化——世界上第一部长篇小说、日本诗歌的精进、物哀与侘的美学理想——恰恰兑现了这个名字的承诺。你的都城不是要塞，而是一座园林：一个文明自我修炼的所在。历史将铭记这为平安时代——日本的古典黄金时代。"
+      },
+      "stateChanges": [
+        { "variable": "imperialPrestige", "operation": "add", "value": 25 },
+        { "variable": "courtSupport", "operation": "add", "value": 20 },
+        { "variable": "capitalProgress", "operation": "add", "value": 25 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Yamashiro-no-kuni — Capital of the Mountain Fortress Province",
+        "ja": "山背国——山の要塞の国の都",
+        "zh-CN": "山背国——山岳要塞之国的都城"
+      },
+      "description": {
+        "en": "Name the capital after the province itself — Yamashiro, Mountain Fortress — emphasizing the geographical strength and the martial, protective qualities of the site. This vision places military security at the heart of imperial identity, projecting an image of a court that is not merely refined but also powerful and defensible. It is a more assertive choice.",
+        "ja": "首都を国そのもの——山背、山の要塞——にちなんで名づけ、この場所の地理的な強さと武的な防護的性質を強調する。このビジョンは軍事的安全保障を皇室アイデンティティの中心に置き、単に洗練されているだけでなく強力で防衛可能な宮廷のイメージを投影する。これはより断定的な選択だ。",
+        "zh-CN": "以国名本身为首都命名——山背，山岳要塞——强调此地的地理优势及其尚武、护持的特质。这一愿景将军事安全置于皇室认同的核心，投射出一种不仅精雅而且强大且易守难攻的朝廷形象。这是一个更具主张性的选择。"
+      },
+      "outcome": {
+        "en": "The name is used initially, but within your own lifetime the court begins calling the city Heian-kyo informally — the character of the place draws toward peace and refinement, not fortress-keeping. Later generations formalize the Heian name. The mountain name survives in the province's designation, but the city that grows there chooses its own identity. Some choices are made by history rather than emperors.",
+        "ja": "名前は当初使われるが、あなたの生涯のうちに宮廷は非公式に都を平安京と呼び始める——その場所の性格は要塞の維持ではなく平和と洗練へと向かう。後の世代が平安の名を正式なものにする。山の名前は国の指定に生き残るが、そこに育つ都は独自のアイデンティティを選ぶ。選択のいくつかは天皇ではなく歴史によって行われる。",
+        "zh-CN": "这个名字最初被使用，但在你有生之年，朝廷便开始非正式地称这座城市为平安京——这个地方的气质自然趋向平和与雅致，而非坚守要塞。后世将平安之名正式确立。山岳之名留存于国名之中，但在此生长的城市选择了自己的认同。有些选择是由历史而非天皇做出的。"
+      },
+      "stateChanges": [
+        { "variable": "imperialPrestige", "operation": "add", "value": 15 },
+        { "variable": "militaryReadiness", "operation": "add", "value": 15 },
+        { "variable": "courtSupport", "operation": "add", "value": 10 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "scenarioId": "talas-751",
+  "timeline": [
+    {
+      "date": "0747-01-01",
+      "description": {
+        "en": "Gao Xianzhi leads a Tang army across the Pamirs to attack Gilgit, a feat of mountain warfare regarded as one of history's most audacious military campaigns. This establishes Tang dominance over the western frontier and brings him into proximity with the Abbasid Caliphate's expanding eastern reach.",
+        "ja": "高仙芝がパミール高原を越えて吉栗(ギルギット)を攻撃するため唐軍を率いる。これは歴史上最も大胆な山岳戦役の一つとして評価される。この功績は西方の辺境における唐の覇権を確立し、急速に東方に拡張するアッバース朝との接触をもたらす。",
+        "zh-CN": "高仙芝率唐军翻越帕米尔高原进攻吉栗（今吉尔吉特），此役被视为历史上最大胆的山地战役之一。这一功绩确立了唐朝对西方边境的主导地位，并使其与急速东扩的阿拔斯王朝迎面相遇。"
+      }
+    },
+    {
+      "date": "0750-01-01",
+      "description": {
+        "en": "Gao Xianzhi attacks the kingdom of Chach (Tashkent), whose ruler had sought alliance with the Arabs. After capturing the king, he executes him, sparking outrage among the Central Asian kingdoms and pushing Chach's king's son to seek Arab assistance for revenge.",
+        "ja": "高仙芝がアラブと同盟を求めていた石国（タシュケント）を攻撃する。王を捕えた後処刑し、中央アジアの王国の間で怒りを呼び起こし、石国の王子が復讐のためのアラブの支援を求めるきっかけを作る。",
+        "zh-CN": "高仙芝进攻曾寻求与阿拉伯结盟的石国（今塔什干）。擒获其王后将其处决，激起中亚各王国的愤怒，也促使石国王子转而向阿拉伯人寻求复仇之助。"
+      }
+    },
+    {
+      "date": "0751-07-10",
+      "description": {
+        "en": "Gao Xianzhi leads approximately 30,000 Tang and allied troops (including Karluk Turkic cavalry) westward to confront the Abbasid force under Ziyad ibn Salih near the Talas River. The two armies encounter each other near the modern city of Taraz in Kazakhstan.",
+        "ja": "高仙芝が約3万の唐と同盟軍（カルルク突厥騎兵を含む）を率いて、タラス川付近でジヤード・イブン・サーリフ指揮下のアッバース朝軍と対峙するために西進する。両軍は現在のカザフスタン・タラズ市付近で遭遇する。",
+        "zh-CN": "高仙芝率约三万唐军及盟军（含葛逻禄突厥骑兵）西进，在怛逻斯河附近迎战齐亚德·伊本·萨利赫指挥的阿拔斯军队。两军在今哈萨克斯坦塔拉兹市附近相遇。"
+      }
+    },
+    {
+      "date": "0751-07-11",
+      "description": {
+        "en": "The battle at Talas begins. For five days, the Tang forces hold their own against the larger Arab army. The Tang infantry and crossbowmen prove effective in defensive positions.",
+        "ja": "タラスでの戦いが始まる。五日間、唐の部隊はより大きなアラブ軍に対して持ちこたえる。唐の歩兵と弩兵は守備陣地において効果的であることが証明される。",
+        "zh-CN": "怛逻斯之战打响。五天之内，唐军在更强大的阿拉伯军队面前坚守阵地，步兵与弩兵在防守阵地中表现出色。"
+      }
+    },
+    {
+      "date": "0751-07-15",
+      "description": {
+        "en": "The Karluk Turkic mercenaries, who had been hired to fight for the Tang, switch sides and attack the Tang rear. This betrayal collapses the Tang formation. Gao Xianzhi barely escapes with a small remnant of his force. The Tang loses tens of thousands of men, including many captured who will bring papermaking technology to the Arab world.",
+        "ja": "唐のために戦うために雇われたカルルク突厥傭兵が寝返り、唐の背後を攻撃する。この裏切りが唐の陣形を崩壊させる。高仙芝はわずかな残存部隊とともにかろうじて脱出する。唐は数万の兵を失い、多くの捕虜は製紙技術をアラブ世界にもたらすことになる。",
+        "zh-CN": "受雇为唐军作战的葛逻禄突厥雇佣兵阵前倒戈，袭击唐军后方。这一背叛使唐军阵形崩溃。高仙芝仅率极少残部勉强脱身。唐军损失数万，其中许多俘虏将把造纸技术带入阿拉伯世界。"
+      }
+    },
+    {
+      "date": "0751-09-01",
+      "description": {
+        "en": "The Abbasid forces do not pursue the retreating Tang army deep into Central Asia, consolidating their victory at Talas but not extending their control further east. The Battle of Talas effectively marks the western limit of Tang expansion.",
+        "ja": "アッバース朝の軍勢は撤退する唐軍を中央アジア深くまで追撃せず、タラスでの勝利を固めるが、支配をそれ以上東方に拡大しない。タラスの戦いは実質的に唐の西方への拡張の限界を画する。",
+        "zh-CN": "阿拔斯军队未深入追击中亚境内的撤退唐军，在巩固怛逻斯胜果的同时，未再向东扩展控制范围。怛逻斯之战实际上标志着唐朝向西扩张的终点。"
+      }
+    },
+    {
+      "date": "0755-01-01",
+      "description": {
+        "en": "The An Lushan Rebellion breaks out, forcing Tang China to withdraw its military forces from Central Asia entirely to defend the heartland. The Tang never returns to assert dominance over the western frontier. Central Asia gradually shifts toward Islamic cultural influence.",
+        "ja": "安史の乱が勃発し、唐が中央アジアから軍事力を完全に撤退させて内地を守ることを余儀なくされる。唐は西方辺境での支配を主張するために戻ることは決してない。中央アジアはイスラム文化の影響に向けてゆっくりと変化していく。",
+        "zh-CN": "安史之乱爆发，迫使唐朝从中亚完全撤军以保卫中原。唐朝再也未能重返西方边境行使主导权，中亚逐渐向伊斯兰文化圈转移。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Tang army was defeated at Talas primarily due to the defection of the Karluk Turkic mercenaries. Gao Xianzhi escaped with a small force. The Abbasid Caliphate consolidated control over Transoxiana, and Tang influence in Central Asia ended permanently. Among the most historically significant consequences: captured Tang artisans introduced papermaking technology to the Arab world, where it spread westward to Europe — one of history's most consequential technology transfers.",
+    "ja": "タラスの唐軍は主にカルルク突厥傭兵の離反により敗北した。高仙芝は少数部隊とともに脱出した。アッバース朝はトランスオクシアナに対する支配を固め、中央アジアにおける唐の影響力は永続的に終わった。歴史的に最も重要な結果の一つ：捕虜となった唐の職人がアラブ世界に製紙技術をもたらし、そこからヨーロッパへと広まった——歴史上最も重大な技術移転の一つ。",
+    "zh-CN": "唐军在怛逻斯之战中主要因葛逻禄突厥雇佣兵的叛变而落败，高仙芝率少数人马得以脱身。阿拔斯王朝巩固了对河中地区的控制，唐朝在中亚的影响力就此永久终结。其中历史意义最为深远的后果之一是：被俘的唐朝工匠将造纸术传入阿拉伯世界，并由此向西传播至欧洲——这是历史上最具影响力的技术转让之一。"
+  },
+  "casualties": {
+    "en": "Tang losses were severe: estimates range from 20,000 to 30,000 killed and captured. Many prisoners, particularly skilled craftsmen, were not killed but enslaved or employed in Arab cities, through whom papermaking technology entered the Islamic world. Arab casualties were significant but much lighter.",
+    "ja": "唐の損害は甚大だった：推定2万〜3万人が戦死または捕虜となった。多くの捕虜、特に熟練した職人は殺されず、アラブの都市で奴隷にされるか雇われた。彼らを通じて製紙技術がイスラム世界に入った。アラブの死傷者は相当なものだったがはるかに少なかった。",
+    "zh-CN": "唐军损失惨重：估计两三万人战死或被俘。许多俘虏，尤其是技艺精湛的工匠，并未遭到处决，而是在阿拉伯城市中沦为奴隶或受雇于人，正是通过他们，造纸术传入了伊斯兰世界。阿拉伯方面的伤亡虽然不轻，但远少于唐军。"
+  },
+  "significance": {
+    "en": "The Battle of Talas is one of history's most consequential engagements despite being relatively small by the standards of Chinese or Islamic military history. It decided the cultural orientation of Central Asia for centuries — the region became Muslim rather than Buddhist or Chinese in cultural affiliation. The technology transfer that resulted from Tang prisoners has been described as one of the most important in history: paper and papermaking spread from the Arab world to Europe, making possible the later proliferation of books, universities, and literacy that underpinned the European Renaissance and Enlightenment.",
+    "ja": "タラスの戦いは、中国やイスラムの軍事史の基準からすれば比較的小規模であるにもかかわらず、歴史上最も重大な交戦の一つだ。それは何世紀にもわたって中央アジアの文化的方向性を決定した——この地域は仏教的または中国的ではなくイスラム的な文化的帰属となった。唐の捕虜に起因する技術移転は歴史上最も重要なものの一つと評されている：紙と製紙技術がアラブ世界からヨーロッパへと広まり、ヨーロッパのルネサンスと啓蒙主義を支えた書籍・大学・識字の後の普及を可能にした。",
+    "zh-CN": "怛逻斯之战以相对小规模之战役，成为历史上后果最为深远的交锋之一。它从此数百年间决定了中亚的文化走向——这一地区在文化归属上转向伊斯兰，而非佛教或中国文化圈。这场战役中唐朝俘虏所引发的技术转让，被认为是历史上最重要的之一：纸张与造纸术从阿拉伯世界传至欧洲，由此使书籍、大学与识字率的普及成为可能，奠定了欧洲文艺复兴与启蒙运动的基础。"
+  },
+  "furtherReading": [
+    "Hugh Kennedy, The Great Arab Conquests: How the Spread of Islam Changed the World We Live In (2007)",
+    "Christopher Beckwith, Empires of the Silk Road: A History of Central Eurasia from the Bronze Age to the Present (2009)",
+    "Jonathan Skaff, Sui-Tang China and Its Turko-Mongol Neighbors (Oxford, 2012)",
+    "Etienne de la Vaissiere, Sogdian Traders: A History (Brill, 2005)",
+    "Thomas Allsen, Culture and Conquest in Mongol Eurasia (Cambridge, 2001)"
+  ]
+}

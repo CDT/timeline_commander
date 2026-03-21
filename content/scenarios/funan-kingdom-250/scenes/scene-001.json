@@ -1,0 +1,76 @@
+{
+  "sceneId": "scene-001",
+  "scenarioId": "funan-kingdom-250",
+  "title": {
+    "en": "The Indian Brahmin's Counsel",
+    "ja": "インドのブラフミンの助言",
+    "zh-CN": "印度婆罗门的谏言"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-002",
+  "background": {
+    "en": "225 AD. You are Fan Shiman, King of Funan, ruling from your capital Vyadhapura in the Mekong delta. An Indian ship has arrived at your port of Oc Eo carrying a Brahmin scholar named Nagasena, sent by a south Indian king as an ambassador. He brings gifts and a proposal: adopt Sanskrit as the exclusive official language of your court, embrace a fully Indianized system of royal legitimation, and in exchange, Funan will receive formal recognition from the great kingdoms of the Indian subcontinent — making you part of the prestigious Indic world-order.",
+    "ja": "225年。あなたは范師蔓、扶南王で、メコンデルタのヴィャーダプラの首都から統治している。インドの船がナーガセーナというブラフミン学者を乗せてオケオの港に到着した。南インドの王が大使として送ってきた。彼は贈り物と提案を持ってくる：サンスクリットを宮廷の唯一の公式言語として採用し、完全にインド化された王の正統化システムを受け入れ、その代わりにインド亜大陸の偉大な王国から正式な認定を受ける——あなたを名声あるインド的世界秩序の一部にする。",
+    "zh-CN": "公元225年。你是范师蔓，扶南国王，从湄公河三角洲的都城毗耶陀补罗统治国家。一艘印度船只抵达沃桑港，载来一位名叫那伽犀那的婆罗门学者，由南印度某国王派遣为大使。他带来礼物和一项提议：采用梵文作为宫廷唯一的官方语言，接受完全印度化的王权合法化体系，作为交换，扶南将获得印度次大陆各大王国的正式承认——使你成为声望卓著的印度文明秩序的一部分。"
+  },
+  "prompt": {
+    "en": "The proposal is significant — Indian legitimation would enormously enhance Funan's prestige among the trading kingdoms of the Indian Ocean world. But full Indianization has risks: your court officials and religious specialists currently use a mix of local and Sanskrit practices. Fully replacing local traditions could alienate your own population. How do you respond to Nagasena's proposal?",
+    "ja": "この提案は重要だ——インドの正統性はインド洋世界の貿易王国の中で扶南の威信を大いに高めるだろう。しかし完全なインド化にはリスクがある：あなたの宮廷官僚と宗教的専門家たちは現在、地元とサンスクリットの慣習の混合を使っている。地元の伝統を完全に置き換えると、自らの人口を疎外する可能性がある。ナーガセーナの提案にどう応答するか？",
+    "zh-CN": "这项提议举足轻重——印度的认可将极大地提升扶南在印度洋世界贸易王国中的声望。然而全面印度化存在风险：你的宫廷官员和宗教专家目前使用的是本土与梵文习俗的混合。彻底取代本土传统可能疏远你自己的人民。你将如何回应那伽犀那的提议？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Selective Indianization — adopt prestige elements, keep local foundations",
+        "ja": "選択的インド化——威信要素を採用し、地元の基盤を保持する",
+        "zh-CN": "选择性印度化——采纳声望元素，保留本土根基"
+      },
+      "description": {
+        "en": "Accept Sanskrit as a court prestige language for formal inscriptions and diplomatic correspondence — but keep the local Khmer language for governance and daily administration. Adopt Hindu royal ceremony and titulature, but allow local religious practitioners to continue alongside Brahmin specialists. Take the Indian legitimation without surrendering local identity. Use Nagasena as an advisor, not a ruler of your religious system.",
+        "ja": "正式な碑文と外交文書の宮廷威信言語としてサンスクリットを受け入れる——しかし統治と日常行政には地元のクメール語を保持する。ヒンドゥー教の王室儀式と称号を採用するが、地元の宗教的実践者がブラフミンの専門家と並んで継続することを認める。地元のアイデンティティを放棄することなくインドの正統性を得る。ナーガセーナを宗教システムの支配者ではなく顧問として使う。",
+        "zh-CN": "接受梵文作为正式碑铭和外交通信的宫廷声望语言——但保留本土高棉语用于治理和日常行政。采用印度教的王室仪典与称谓，但允许本土宗教从业者与婆罗门专家并存。在不放弃本土认同的前提下获得印度的合法性认可。将那伽犀那用作顾问，而非你宗教体系的主宰。"
+      },
+      "outcome": {
+        "en": "The selective approach proves to be Funan's lasting contribution to Southeast Asian civilization. Your court uses Sanskrit for prestige, local language for administration. Brahmin specialists and local priests coexist. The Indian trading communities who call at Oc Eo feel at home; the Khmer population of the delta retain their own customs. This hybrid model will be copied by every Southeast Asian kingdom that follows.",
+        "ja": "選択的なアプローチが東南アジア文明へのFunanの持続的な貢献であることが証明される。あなたの宮廷は威信のためにサンスクリットを使い、行政には地元語を使う。ブラフミンの専門家と地元の僧侶が共存する。オケオに寄港するインドの貿易コミュニティが親しみを感じ、デルタのクメールの人々は独自の慣習を保持する。このハイブリッドモデルが後に続くすべての東南アジア王国によってコピーされる。",
+        "zh-CN": "这一选择性方法被证明是扶南对东南亚文明最持久的贡献。你的宫廷以梵文彰显声望，以本土语言处理行政事务。婆罗门专家与本土祭司共存。到访沃桑的印度商人社群感到宾至如归，三角洲的高棉人民保留了自己的习俗。这种混合模式将被此后每一个东南亚王国所效仿。"
+      },
+      "stateChanges": [
+        { "variable": "indianCulture", "operation": "add", "value": 15 },
+        { "variable": "royalPrestige", "operation": "add", "value": 15 },
+        { "variable": "chineseRelations", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Full Indianization — transform the court entirely",
+        "ja": "完全なインド化——宮廷を完全に変革する",
+        "zh-CN": "全面印度化——彻底改造宫廷"
+      },
+      "description": {
+        "en": "Accept Nagasena's proposal in full. Sanskrit becomes the exclusive court language. Brahmin specialists displace local religious practitioners in all official ceremonies. Royal legitimacy is grounded entirely in Indian models. The transformation will be disruptive but will position Funan as a fully legitimate member of the Indic cultural sphere — dramatically increasing its prestige with Indian Ocean trading partners.",
+        "ja": "ナーガセーナの提案を完全に受け入れる。サンスクリットが独占的な宮廷言語になる。ブラフミンの専門家がすべての公式の儀式で地元の宗教的実践者を排除する。王の正統性が完全にインドのモデルに基づいている。変革は破壊的だが、扶南をインド文化圏の完全に正当なメンバーとして位置づける——インド洋の貿易パートナーとの威信を劇的に高める。",
+        "zh-CN": "全盘接受那伽犀那的提议。梵文成为唯一的宫廷语言，婆罗门专家在所有官方仪式中取代本土宗教从业者，王权合法性完全以印度模式为基础。这场变革将产生破坏性，但将使扶南跻身印度文化圈的完全合法成员之列——大幅提升其在印度洋贸易伙伴中的声望。"
+      },
+      "outcome": {
+        "en": "The full transformation causes significant internal friction. Local Khmer priests and nobles who have been displaced from official ceremonies are resentful. Several provincial lords refuse to adopt the new protocols, citing tradition. Nagasena's Brahmin colleagues take prominent roles that create jealousy among established Funan courtiers. The Indian prestige is real but the internal costs are high. You gain international recognition but manage domestic dissent for years.",
+        "ja": "完全な変革が重大な内部摩擦を引き起こす。公式の儀式から排除された地元のクメール僧侶と貴族が恨みを抱く。いくつかの地方の領主が伝統を引用して新しいプロトコルの採用を拒否する。ナーガセーナのブラフミンの同僚が既成の扶南宮廷人の嫉妬を生む目立った役割を担う。インドの威信は現実のものだが、内部コストは高い。国際的な認知を得るが、何年もの間国内の不満を管理する。",
+        "zh-CN": "全面变革引发了重大的内部摩擦。被驱逐出官方仪式的本土高棉祭司和贵族心怀怨恨，几位地方领主援引传统拒绝采用新礼制。那伽犀那的婆罗门同僚担任显要职位，引发扶南既有宫廷成员的嫉妒。印度声望确实带来了收益，但内部代价高昂。你获得了国际认可，却要多年管理国内异见。"
+      },
+      "stateChanges": [
+        { "variable": "indianCulture", "operation": "add", "value": 25 },
+        { "variable": "royalPrestige", "operation": "add", "value": 10 },
+        { "variable": "tributaryKingdoms", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "initialState": {
+    "royalPrestige": 55,
+    "indianCulture": 50,
+    "tradeFleet": 45,
+    "tributaryKingdoms": 40,
+    "chineseRelations": 35
+  }
+}

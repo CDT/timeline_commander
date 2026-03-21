@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-002",
+  "scenarioId": "silk-road-crisis-100",
+  "title": {
+    "en": "The Politics of the Tarim",
+    "ja": "タリムの政治",
+    "zh-CN": "塔里木的政治"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-003",
+  "background": {
+    "en": "80 AD. Seven years into your mission. You have built Han influence across most of the eastern Tarim Basin kingdoms through a combination of your Shanshan precedent, diplomatic gifts, and credible threats. But the western half of the Tarim — dominated by the powerful kingdom of Kucha — remains outside Han influence. Kucha is the largest, wealthiest, and most militarily capable kingdom in the region. Its king has studiously ignored Han diplomatic overtures, calculating that distance and his army's strength make Han pressure irrelevant.",
+    "ja": "80年。使命から七年。あなたはシャンシャンの前例、外交的贈り物、そして信頼できる脅威の組み合わせを通じて、タリム盆地東部のほとんどの王国に漢の影響力を築いてきた。しかしタリム西半部——強力な亀茲王国に支配された——はまだ漢の影響力の外にある。亀茲はこの地域で最も大きく、最も裕福で、最も軍事的に有能な王国だ。その王は慎重に漢の外交的接触を無視してきた、距離と軍の強さが漢の圧力を無関係にすると計算して。",
+    "zh-CN": "公元80年。使命推进的第七个年头。通过鄯善先例、外交馈赠与可信威慑相结合，你已在塔里木盆地大部分东部王国建立了汉朝影响力。然而塔里木西半部——由强大的龟兹王国主导——仍在汉朝影响范围之外。龟兹是该地区规模最大、最为富庶、军事实力最强的王国。其国王一直审慎地无视汉朝的外交试探，他的算计是：距离与军力使汉朝的压力无足轻重。"
+  },
+  "prompt": {
+    "en": "You need Kucha. Without it, the western Silk Road kingdoms remain under Xiongnu influence and the trade route is never fully secure. But you cannot take Kucha by force — your army is a few hundred men at most. You must find a way to bring Kucha into the Han orbit without a military campaign. What is your approach?",
+    "ja": "亀茲が必要だ。なければ、西部のシルクロードの王国は匈奴の影響下にとどまり、貿易ルートは完全に安全にはならない。しかし力で亀茲を取ることはできない——あなたの軍は最大でも数百人だ。軍事作戦なしに亀茲を漢の軌道に入れる方法を見つけなければならない。あなたのアプローチは何か？",
+    "zh-CN": "你需要龟兹。没有它，丝绸之路西部各王国仍在匈奴影响之下，贸易路线永远无法完全安全。但你无法用武力夺取龟兹——你的军队最多不过数百人。你必须找到一种不需要军事行动便能将龟兹纳入汉朝轨道的方法。你的策略是什么？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Isolate Kucha by building a complete ring of Han allies around it",
+        "ja": "周囲に完全な漢の同盟国の輪を構築してクチャを孤立させる",
+        "zh-CN": "在龟兹周围建立完整的汉朝盟友包围圈以孤立之"
+      },
+      "description": {
+        "en": "Ignore Kucha for now. Instead, focus on bringing every kingdom around Kucha — Kashgar, Yarkand, Khotan, Aksu — fully into the Han alliance. When Kucha is surrounded by Han clients on all sides, with Han trade networks running around rather than through it, its king will face a choice: join a trade network that is bypassing him, or continue his isolation at growing economic cost.",
+        "ja": "今は亀茲を無視する。代わりに、亀茲の周囲のすべての王国——疏勒、莎車、于闐、姑墨——を漢の同盟に完全に加わらせることに集中する。亀茲がすべての側面で漢のクライアントに囲まれ、漢の貿易ネットワークが亀茲を通るのではなくその周囲を走る時、その王は選択に直面する：自分を迂回している貿易ネットワークに参加するか、増大する経済的コストで孤立を続けるか。",
+        "zh-CN": "暂时无视龟兹。转而专注于将龟兹周围的每一个王国——疏勒、莎车、于阗、姑墨——全面纳入汉朝联盟。当龟兹被汉朝客户国从四面八方包围，汉朝贸易网络绕行而非穿越其境时，其国王将面临抉择：加入一个正在绕过他的贸易网络，还是以越来越高的经济代价继续孤立。"
+      },
+      "outcome": {
+        "en": "The strategic encirclement takes a decade but works precisely as intended. As Han-client trade routes around Kucha flourish, Kucha's share of Silk Road revenue declines year by year. Merchants who once stopped at Kucha begin routing through Khotan or Kashgar instead. Kucha's nobles begin pressuring the king to normalize relations with Han. After eleven years of encirclement, Kucha submits — without a single battle.",
+        "ja": "戦略的包囲には十年かかるが、まさに意図通りに機能する。亀茲の周囲の漢クライアント貿易ルートが栄えるにつれ、亀茲のシルクロード収入のシェアが年々減少する。かつて亀茲に立ち寄っていた商人が代わりに于闐や疏勒を経由するルートを取り始める。亀茲の貴族たちが漢との関係を正常化するよう王に圧力をかけ始める。十一年の包囲の後、亀茲が服属する——一度の戦いもなしに。",
+        "zh-CN": "战略包围历时十年，但进展恰如预期。随着龟兹周围汉朝客户国贸易路线的繁荣，龟兹在丝绸之路收益中的份额逐年下降。曾经停靠龟兹的商人开始改道经由于阗或疏勒。龟兹贵族开始向国王施压，要求与汉朝关系正常化。十一年包围后，龟兹臣服——无需打一仗。"
+      },
+      "stateChanges": [
+        { "variable": "localAlliances", "operation": "add", "value": 25 },
+        { "variable": "tradeRouteControl", "operation": "add", "value": 20 },
+        { "variable": "hanPrestige", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Support a rival claimant to the Kucha throne",
+        "ja": "亀茲の王位への対立候補を支援する",
+        "zh-CN": "扶植龟兹王位的竞争者"
+      },
+      "description": {
+        "en": "Intelligence reports that the Kucha king's younger brother has been quietly passed over in the succession and harbors resentment. Make contact through intermediaries and offer Han support — financial, diplomatic, and a credible promise of military backing — if he stages a palace coup. A pro-Han king in Kucha changes everything, immediately.",
+        "ja": "情報によると、亀茲王の弟が後継者として静かに後回しにされ、恨みを抱いているとのこと。仲介者を通じて接触を取り、もし宮廷クーデターを起こすなら漢の支援——財政的、外交的、そして軍事的支援の信頼できる約束——を申し出る。亀茲に親漢の王がいれば、すべてが即座に変わる。",
+        "zh-CN": "情报显示，龟兹国王的弟弟在继承问题上被悄然绕过，心怀怨恨。通过中间人取得联系，许以汉朝支持——财政上、外交上，以及若其发动宫廷政变则提供军事援助的可信承诺。龟兹有一位亲汉国王，一切将立即改观。"
+      },
+      "outcome": {
+        "en": "The coup attempt is made — but the younger brother lacks the will to follow through at the critical moment. He is exposed and executed. The Kucha king, now aware that Han is actively trying to destabilize his kingdom, becomes openly hostile. He expels your trade representatives and formally allies with Xiongnu. You have made Kucha harder to win, not easier.",
+        "ja": "クーデターの試みがなされる——しかし弟は重要な瞬間に実行する意志が欠けている。彼は露見して処刑される。漢が積極的に王国を不安定化させようとしていることを知った亀茲王は、公然と敵対的になる。あなたの貿易代表を追放し、正式に匈奴と同盟する。亀茲を勝ち取るのを容易にするどころか、難しくした。",
+        "zh-CN": "政变尝试付诸实施——但弟弟在关键时刻缺乏贯彻到底的意志。他的图谋暴露，随即被处决。龟兹国王在得知汉朝正积极图谋颠覆其王国后，转为公开敌对。他驱逐了你的贸易代表，并正式与匈奴结盟。你不仅没有使赢得龟兹变得更容易，反而更难了。"
+      },
+      "stateChanges": [
+        { "variable": "hanPrestige", "operation": "add", "value": -10 },
+        { "variable": "xiongnuthreat", "operation": "add", "value": 10 },
+        { "variable": "localAlliances", "operation": "add", "value": -5 }
+      ]
+    }
+  ]
+}

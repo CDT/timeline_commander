@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-002",
+  "scenarioId": "funan-kingdom-250",
+  "title": {
+    "en": "The Fleet That Binds the Gulf",
+    "ja": "湾を束ねる艦隊",
+    "zh-CN": "控扼海湾的舰队"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-003",
+  "background": {
+    "en": "230 AD. Five years into your reign. Your port of Oc Eo is thriving — ships from Rome, Persia, India, and China all stop here, making Funan one of the wealthiest kingdoms in the known world. But a problem has emerged: the kingdom of Dvaravati on the Gulf of Thailand coast has been raiding Funan merchant vessels returning from India, claiming that Funan's taxation of passing trade is unjust. Several merchant guilds have complained to you. If you do not address the raids, your reputation as a protector of commerce will suffer and merchants will seek safer routes.",
+    "ja": "230年。治世から五年。オケオの港が栄えている——ローマ、ペルシャ、インド、中国からの船がここに立ち寄り、扶南を既知の世界で最も裕福な王国の一つにしている。しかし問題が浮上した：タイ湾岸のドヴァーラヴァティー王国がインドから戻る扶南の商船を略奪しており、扶南の通過貿易への課税は不当だと主張している。いくつかの商人ギルドがあなたに苦情を申し立てた。略奪に対処しなければ、商業の保護者としてのあなたの評判が傷つき、商人たちはより安全なルートを求めるだろう。",
+    "zh-CN": "公元230年。你在位已满五年。沃桑港欣欣向荣——来自罗马、波斯、印度和中国的船只都在此停靠，使扶南成为已知世界最富庶的王国之一。然而一个问题浮现了：泰国湾沿岸的堕罗钵底王国一直在劫掠从印度归来的扶南商船，声称扶南对过往贸易的课税不公。几个商人行会已向你提出投诉。若不解决劫掠问题，你作为商业保护者的声誉将受损，商人们将寻求更安全的路线。"
+  },
+  "prompt": {
+    "en": "The raids are both an economic threat and a prestige problem. Your naval force is strong enough to punish Dvaravati militarily. But a military campaign in the Gulf could disrupt the very trade you are trying to protect, if it extends into a prolonged conflict. Is there a more cost-effective solution?",
+    "ja": "略奪は経済的脅威であると同時に威信の問題でもある。あなたの海軍力はドヴァーラヴァティーを軍事的に懲らしめるのに十分な強さがある。しかし湾での軍事作戦が長期的な紛争に発展した場合、あなたが保護しようとしている貿易そのものを混乱させる可能性がある。より費用対効果の高い解決策はあるか？",
+    "zh-CN": "劫掠既是经济威胁，也是声望问题。你的海军力量足以对堕罗钵底实施军事惩罚。但若海湾的军事行动演变成旷日持久的冲突，则可能扰乱你正竭力保护的贸易本身。是否有更具成本效益的解决方案？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Naval campaign — make an example of Dvaravati",
+        "ja": "海軍作戦——ドヴァーラヴァティーを見せしめにする",
+        "zh-CN": "海军行动——杀鸡儆猴，惩处堕罗钵底"
+      },
+      "description": {
+        "en": "Launch a punitive naval expedition against Dvaravati. Do not aim to conquer it — aim to destroy its ability to raid at sea. Burn its coastal fleet, enforce a blockade of its main port for a season, and demand that Dvaravati's king come to your court and formally submit as a tributary. The message to every other Gulf kingdom: interfering with Funan's trade has consequences.",
+        "ja": "ドヴァーラヴァティーに対して懲罰的な海軍遠征を開始する。征服を目指さない——海上で略奪する能力を破壊することを目指す。沿岸の艦隊を焼き、一季節にわたって主要港を封鎖し、ドヴァーラヴァティーの王があなたの宮廷に来て正式に臣属として服属するよう要求する。他のすべての湾岸王国へのメッセージ：扶南の貿易を妨害すると結果がある。",
+        "zh-CN": "对堕罗钵底发动惩罚性海军远征。目标不是征服它——而是摧毁其海上劫掠的能力。烧毁其沿海舰队，对其主要港口实施一季封锁，并要求堕罗钵底国王来你的宫廷正式臣服纳贡。向湾区其他所有王国传递讯息：干扰扶南贸易是有代价的。"
+      },
+      "outcome": {
+        "en": "The campaign is swift and decisive. Dvaravati's coastal fleet is destroyed within a week. Its king submits and is received at Vyadhapura with appropriate humiliation and subsequent dignity — you punish his defiance but leave him on his throne as a tributary. Three other Gulf coast kingdoms that had been wavering in their tributary obligations promptly send tribute missions after hearing the news.",
+        "ja": "作戦は迅速かつ決定的だ。ドヴァーラヴァティーの沿岸艦隊は一週間以内に壊滅する。その王が服属してヴィャーダプラに適切な屈辱とその後の尊厳をもって迎えられる——彼の反抗を罰するが、臣属として王座に残す。臣属義務を果たすかどうか迷っていた他の三つの湾岸王国がニュースを聞いて直ちに朝貢使節を送る。",
+        "zh-CN": "战役迅速而决定性。堕罗钵底的沿海舰队在一周内被摧毁。其国王臣服，在毗耶陀补罗受到恰如其分的屈辱与随后的礼待——你惩罚了他的反叛，但让他留在王座上作为藩属。得知此事后，另有三个此前在朝贡义务上犹豫不决的湾岸王国立即派遣朝贡使团前来。"
+      },
+      "stateChanges": [
+        { "variable": "tributaryKingdoms", "operation": "add", "value": 20 },
+        { "variable": "royalPrestige", "operation": "add", "value": 15 },
+        { "variable": "tradeFleet", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Commercial negotiation — buy their compliance",
+        "ja": "商業交渉——コンプライアンスを買う",
+        "zh-CN": "商业谈判——用利益换取合规"
+      },
+      "description": {
+        "en": "Invite Dvaravati's king to Oc Eo and show him the wealth that flows through Funan's port. Offer him a share: Dvaravati becomes an official waystation for India-bound vessels, its port receives a percentage of trade fees, and its merchants gain preferential access to Funan markets. In exchange, it guarantees the safety of all ships in its coastal waters. Convert a rival into a client.",
+        "ja": "ドヴァーラヴァティーの王をオケオに招待し、扶南の港を流れる富を見せる。彼に分け前を申し出る：ドヴァーラヴァティーがインド行きの船の公式寄港地になり、港が貿易料の一定割合を受け取り、その商人が扶南の市場への優先的なアクセスを得る。その代わりに、その沿岸水域のすべての船の安全を保証する。競争相手をクライアントに変える。",
+        "zh-CN": "邀请堕罗钵底国王来沃桑，让他亲眼目睹流经扶南港口的财富。向他提供一份红利：堕罗钵底成为印度方向船只的官方补给站，其港口获得一定比例的贸易费用，其商人获得进入扶南市场的优先待遇。作为交换，它保证其沿海水域所有船只的安全。将竞争对手转化为客户。"
+      },
+      "outcome": {
+        "en": "Dvaravati's king is astonished by Oc Eo's scale — he had not imagined the volume of trade that passes through. The commercial arrangement is attractive enough that he accepts. Dvaravati becomes a loyal waystation. Raids cease. The arrangement costs Funan some revenue but eliminates the risk of disruption. Two other Gulf kingdoms request similar arrangements — you have turned a security problem into a commercial network expansion.",
+        "ja": "ドヴァーラヴァティーの王はオケオの規模に驚嘆する——通過する貿易の量を想像していなかった。商業的な取り決めが魅力的で彼は受け入れる。ドヴァーラヴァティーが忠実な寄港地となる。略奪が止まる。この取り決めは扶南に一部の収入コストをかけるが、混乱のリスクを排除する。他の二つの湾岸王国が同様の取り決めを要請する——安全保障の問題を商業ネットワークの拡大に変えた。",
+        "zh-CN": "堕罗钵底国王对沃桑的规模瞠目结舌——他未曾想象过此地过往贸易量之巨。商业安排的吸引力足以让他接受。堕罗钵底成为忠实的补给站，劫掠就此停止。这一安排使扶南损失了部分收益，却消除了中断的风险。另有两个湾岸王国请求类似安排——你将一个安全问题转化成了商业网络的扩张。"
+      },
+      "stateChanges": [
+        { "variable": "tradeFleet", "operation": "add", "value": 15 },
+        { "variable": "tributaryKingdoms", "operation": "add", "value": 15 },
+        { "variable": "chineseRelations", "operation": "add", "value": 8 }
+      ]
+    }
+  ]
+}

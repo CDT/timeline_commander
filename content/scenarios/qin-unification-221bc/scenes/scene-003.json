@@ -1,0 +1,113 @@
+{
+  "id": "qin-unification-221bc-scene-003",
+  "scenarioId": "qin-unification-221bc",
+  "title": {
+    "en": "The Burning of Books",
+    "ja": "焚書",
+    "zh-CN": "焚书"
+  },
+  "date": {
+    "en": "213 BC, Xianyang Palace",
+    "ja": "紀元前213年、咸陽宮",
+    "zh-CN": "公元前213年，咸阳宫"
+  },
+  "location": {
+    "en": "The Imperial Banquet Hall, Xianyang",
+    "ja": "咸陽の皇帝の宴会場",
+    "zh-CN": "咸阳皇宫宴会厅"
+  },
+  "narrativePrompt": {
+    "en": "A banquet at the palace, and it has gone wrong. You have been here before — the performance of imperial magnificence, the wine, the music, the ordered ceremony — but tonight a Confucian scholar named Chunyu Yue has stood before the court and said aloud what every former nobleman in the former states whispers in private: that you have made an error. That to abandon the example of the Zhou kings, to govern without lords and without the rites and music of classical tradition, is to leave the empire without roots. That your empire is not rooted in virtue but in force, and force cannot sustain itself forever. He has said this to your face, in the hearing of every minister present.\n\nThe silence after Chunyu Yue sits down has the quality of held breath. Your ministers know how this can go. Li Si rises and his response is not a rebuttal — it is an accusation. The scholars, he argues, do not learn from the present. They learn from the past — from texts written by the kings of the states you have conquered, from philosophies designed to justify those kings' authority. Every book that teaches that the Zhou way was right is a book that teaches that you are wrong. Every school that preserves the literature of the former states is a school that trains men to believe the present order is inferior to the past. The solution is not argument. The solution is removal: burn the histories of the former states, burn the philosophical texts that do not serve the empire, burn the poetry and the literature that keeps the old allegiances alive. Keep only practical texts — medicine, agriculture, divination. As for the scholars who persist in criticizing the imperial order — they must be dealt with decisively.\n\nYou are looking at Li Si's face and seeing that he is entirely serious. You are also looking around the hall and seeing the faces of your ministers — some appalled, some carefully neutral, some with a gleam that tells you they have been waiting for an opportunity like this for years. The Confucians have been a persistent irritant. Their appeal to ancient precedent undercuts every new thing you have built. And yet they are also the men who can read, who can administer, who can write the dispatches and keep the accounts — burning their books and executing their leaders is not cost-free.\n\nThe question before you is how to deal with the intellectual resistance of a class that sees its purpose as preserving and transmitting knowledge that your empire has decided is inconvenient.",
+    "ja": "宮殿での宴、それはうまくいかなかった。あなたは以前もここにいた——帝国の壮大さの演出、酒、音楽、整然とした儀式——しかし今夜、淳于越という名の儒家の学者が朝廷の前に立ち、旧諸国のすべての旧貴族が私的に囁くことを声に出して言った：あなたが誤りを犯したと。周王の例を捨て、領主なしで、古典的伝統の礼楽なしで統治することは、帝国を根なしに残すことだ。あなたの帝国は徳ではなく力に根ざしており、力は永遠に自らを維持することはできないと。彼はこれを、出席しているすべての大臣が聞こえる中で、あなたの顔に向かって言った。\n\n淳于越が座った後の沈黙は、息を呑む性質を持っている。あなたの大臣たちはこれがどうなりうるかを知っている。李斯が立ち上がり、彼の応答は反論ではない——それは告発だ。学者たちは、と彼は主張する、現在から学ぶのではない。過去から——あなたが征服した諸国の王たちによって書かれたテキストから、それらの王の権威を正当化するよう設計された哲学から——学ぶ。周の道が正しかったと教えるすべての書はあなたが間違っていると教える書だ。旧諸国の文学を保存するすべての学校は、現在の秩序が過去よりも劣っていると信じるよう人を訓練する学校だ。解決策は議論ではない。解決策は除去だ：旧諸国の歴史を焼き、帝国に役立たない哲学的テキストを焼き、古い忠誠心を生かし続ける詩と文学を焼く。実用的なテキストだけを残す——医学・農業・占い。皇帝の秩序を批判し続ける学者たちについては——彼らは断固として対処されなければならない。\n\nあなたは李斯の顔を見ており、彼が完全に本気であることを見ている。あなたはまた広間を見回して大臣たちの顔を見ている——ある者は愕然とし、ある者は注意深く中立を保ち、ある者には何年もこのような機会を待っていたことを告げる輝きがある。儒家たちは持続的な刺激だった。古い先例への訴えはあなたが築いたすべての新しいものを侵食する。しかし彼らはまた読み書きができ、行政を行え、文書を書き、帳簿を管理できる人たちでもある——彼らの書を焼き、指導者を処刑することは無代償ではない。\n\nあなたの前にある問いは、あなたの帝国が不都合だと決めた知識を保存・伝達することを目的とみなす階層の知的抵抗にどう対処するかだ。",
+    "zh-CN": "宫中宴会，而这一切已然走偏。你以前也经历过这一切——帝国威仪的展演、美酒、音乐、有序的仪礼——但今夜，一位名叫淳于越的儒家学者站在朝廷面前，大声说出旧诸国每一位旧贵族私下低语的话：你犯了错误。放弃周王的先例，不设诸侯而治，不遵循经典传统的礼乐，是将帝国置于无根之地。你的帝国植根于力而非德，而力不能永远自我维持。他当着所有在场大臣的面，面对你的脸说出了这些话。\n\n淳于越落座之后的沉默，有一种屏住呼吸的质地。你的大臣们知道这会走向何方。李斯起身，他的回应不是反驳——而是控诉。他论道，学者们不从当下学习，而是从过去学习——从你所征服的那些国家的君王们写就的典籍中，从为这些君王的权威正当性辩护而设计的哲学中学习。每一本教导周道为正的书，便是一本教导你有错的书。每一所保存旧诸国文献的学校，便是一所训练人们相信当下秩序不如过去的学校。解决之道不是争论，而是清除：焚毁旧诸国的历史，焚毁无益于帝国的哲学典籍，焚毁那些使旧效忠情感延续不绝的诗歌与文学。只保留实用文本——医学、农业、占卜。至于那些坚持批评帝国秩序的学者——必须予以果断处置。\n\n你看着李斯的脸，看到他完全是认真的。你也环顾大殿，看着大臣们的面孔——有些人神情愕然，有些人小心地保持中立，有些人眼中闪着光，告诉你他们等待这样的机会已多年。儒家一直是持续的刺痛。他们援引古代先例侵蚀着你所构建的每一件新事物。然而他们也是能够读写、能够治政、能够撰写文书和管理账目的人——焚毁他们的书籍、处决他们的领袖并非没有代价。\n\n摆在你面前的问题是，如何对待一个以保存和传授你的帝国认为是不便之事的知识为己任的阶层所表现出的思想抵制。"
+  },
+  "situationReport": [
+    {
+      "en": "The Confucian scholar Chunyu Yue has publicly criticized the abandonment of feudal governance at a state banquet, implicitly challenging the legitimacy of the entire Qin administrative model.",
+      "ja": "儒家の学者・淳于越が国家宴会で封建的統治の放棄を公に批判し、秦の行政モデル全体の正当性を暗黙的に問いただした。",
+      "zh-CN": "儒家学者淳于越在国家宴会上公开批评废除封建治国之举，隐含地质疑整个秦国行政模式的正当性。"
+    },
+    {
+      "en": "Li Si proposes burning all histories of former states, philosophical texts (except Legalist and practical works), poetry, and literature. Scholars who criticize the empire are to be executed — 460 Confucians will be buried alive historically.",
+      "ja": "李斯は旧諸国のすべての歴史・哲学的テキスト（法家と実用的著作を除く）・詩・文学を焼くことを提案する。帝国を批判する学者たちは処刑される——歴史的には460人の儒家学者が生き埋めにされる。",
+      "zh-CN": "李斯提议焚毁旧诸国的全部历史、哲学典籍（法家与实用著作除外）、诗歌与文学。批评帝国的学者将被处决——历史上有四百六十名儒家学者被坑杀。"
+    },
+    {
+      "en": "The scholars who would be targeted are also the men who staff the imperial bureaucracy. Mass executions would create administrative vacancies and signal to all educated men that service to the empire carries existential risk.",
+      "ja": "標的にされる学者たちはまた、皇帝の官僚機構を担う人たちでもある。大規模な処刑は行政上の欠員を生み出し、すべての教育のある人に帝国への奉仕が実存的リスクを伴うことを示すだろう。",
+      "zh-CN": "将被针对的学者同时也是帝国官僚机构的任职者。大规模处决将制造行政职位空缺，并向所有受过教育的人发出信号：效力于帝国存在着生死存亡的风险。"
+    },
+    {
+      "en": "The Qin state archives and a copy of all burned works are to be retained in the imperial library — the destruction is ideological and political, targeting the public circulation of inconvenient ideas.",
+      "ja": "秦の国家文書館とすべての焼かれた著作の写しは皇帝の図書館に保存される——破壊はイデオロギー的・政治的で、不都合な考えの公的な流通を標的にしている。",
+      "zh-CN": "秦国国家档案馆及被焚书籍的副本将保存于皇家图书馆——这场毁灭具有意识形态与政治性质，针对的是不便思想的公开流通。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Suppress ideological challenges to the Qin imperial order from scholars who appeal to the authority of the pre-imperial past",
+      "ja": "帝国以前の過去の権威に訴える学者からの秦の皇帝的秩序へのイデオロギー的挑戦を抑圧する",
+      "zh-CN": "压制援引前帝国时代权威的学者对秦帝国秩序发起的意识形态挑战"
+    },
+    {
+      "en": "Maintain the intellectual and administrative capacity of the empire, which depends heavily on the educated class whose loyalty must be retained even under political pressure",
+      "ja": "帝国の知的・行政的能力を維持する。それは政治的圧力下でも忠誠を保たなければならない教育を受けた階層に大きく依存している",
+      "zh-CN": "维护帝国的知识与行政能力，这在很大程度上依赖于受教育阶层，即便在政治压力下也必须保留其忠诚"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The empire cannot function without literate administrators — persecuting scholars too broadly risks destroying the administrative class the empire depends on",
+      "ja": "帝国は文字が読める行政官なしには機能できない——学者を広く迫害することは、帝国が依存する行政階層を破壊するリスクがある",
+      "zh-CN": "帝国没有识文断字的行政官员便无法运转——对学者的迫害过于广泛，有摧毁帝国所依赖的行政阶层的风险"
+    },
+    {
+      "en": "The knowledge contained in the books to be burned cannot be recreated once lost — the empire's own practical needs may eventually require the information that is being destroyed",
+      "ja": "焼かれる書に含まれる知識は一度失われると再現できない——帝国自身の実際的な必要性は、最終的には破壊されている情報を必要とするかもしれない",
+      "zh-CN": "被焚书籍中所包含的知识一旦失去便无从重建——帝国自身的实际需要最终可能需要那些正在被摧毁的信息"
+    }
+  ],
+  "choices": [
+    {
+      "id": "qin-unification-221bc-scene-003-choice-a",
+      "text": {
+        "en": "Follow Li Si's advice: order the burning of books from the former states and execute the Confucian scholars who persist in criticizing the imperial order",
+        "ja": "李斯の助言に従う：旧諸国の書物の焼却を命じ、皇帝的秩序を批判し続ける儒家の学者たちを処刑する",
+        "zh-CN": "遵从李斯的建议：下令焚毁旧诸国书籍，处决那些坚持批评帝国秩序的儒家学者"
+      },
+      "historicalContext": "This was the historical choice. The Burning of Books occurred in 213 BC and the execution (traditionally described as burial alive) of approximately 460 Confucian scholars followed. The acts became among the most condemned in Chinese historical memory and contributed to the Qin dynasty's loss of legitimacy.",
+      "outcomePrompt": {
+        "en": "The order is given. In the markets and schools of every commandery across the empire, book burnings are organized under the supervision of imperial inspectors. The histories of Zhao, Wei, Chu, Han, Yan, and Qi — the records of centuries of civilization — turn to ash. The philosophical texts of Confucius, Mencius, Mo Di, Zhuangzi: ash. The poetry of the southern tradition, the songs of the northern frontier: ash. A copy of each is retained in the imperial archives in Xianyang. The public knowledge of the former world is gone. In the following year, 460 scholars who were found to have hoarded forbidden texts or continued to teach the old doctrines are taken to a ravine outside Xianyang and buried alive. You reportedly wept. The weeping did not stop the order.\n\nThe effect is immediate: the intellectual resistance from the scholarly class collapses. No Confucian stands in your court and appeals to the authority of the Zhou again, not within your lifetime. But the silence is not consent — it is fear. And fear, as you will not live long enough to learn, is not the same as loyalty. In the empire that comes after you, the story of what you did here will be told by the descendants of the men you killed, and it will not be told kindly. Your empire will outlast your control of the story by less than four years.",
+        "ja": "命令が下される。帝国全土のすべての郡の市場と学校で、皇帝の監察官の監督のもとで焚書が組織される。趙・魏・楚・韓・燕・斉の歴史——何世紀にもわたる文明の記録——が灰になる。孔子・孟子・墨翟・荘子の哲学的テキスト：灰。南方の伝統の詩・北方辺境の歌：灰。それぞれの写しが咸陽の皇帝の文書館に保存される。旧世界の公的な知識は消えた。翌年、禁書を蓄えていたり旧教義を教え続けたりすることが発覚した460人の学者が咸陽の外の峡谷に連れて行かれ、生き埋めにされる。あなたは泣いたと伝えられる。その泣きは命令を止めなかった。\n\n効果は即座だ：学者階層からの知的抵抗が崩壊する。あなたの生存中、儒家は再びあなたの朝廷に立って周の権威に訴えることはない。しかし沈黙は同意ではない——それは恐怖だ。そして恐怖は、あなたが学ぶほど長く生きないように、忠誠とは異なる。あなたの後の帝国では、あなたがここで行ったことの話は、あなたが殺した人たちの子孫によって語られ、それは親切には語られないだろう。あなたの帝国は、あなたがその物語を制御することをわずか4年で超えて続くだろう。",
+        "zh-CN": "命令已下。帝国各郡的市场与学堂中，在皇帝督察官的监督下，焚书相继进行。赵、魏、楚、韩、燕、齐的历史——数百年文明的记录——化为灰烬。孔子、孟子、墨翟、庄子的哲学典籍：灰烬。南方传统的诗歌、北方边境的歌谣：灰烬。每部书的副本保存于咸阳的皇家档案馆。旧世界的公开知识就此消亡。次年，四百六十名被发现私藏禁书或继续传授旧学说的学者被带到咸阳城外的山谷，活埋于土中。据传你痛哭流涕。哭泣并未阻止命令的执行。\n\n效果立竿见影：来自学者阶层的思想抵制土崩瓦解。在你的有生之年，再无儒生站于朝堂之上援引周代权威。但沉默并非同意——而是恐惧。而恐惧，正如你将没有足够的时间去亲自了解的那样，与忠诚并非一物。在你之后的帝国里，你在此所为的故事将由你所杀之人的后裔来讲述，而那将不会是温柔的讲述。你的帝国延续超过你对这段历史掌控的时间，不过区区四年。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "imperialAuthority", "operation": "add", "value": 20 },
+        { "variable": "popularSupport", "operation": "add", "value": -30 },
+        { "variable": "nobilityLoyalty", "operation": "add", "value": -20 }
+      ]
+    },
+    {
+      "id": "qin-unification-221bc-scene-003-choice-b",
+      "text": {
+        "en": "Reject Li Si's extreme proposal: exile the most vocal critics, restrict the teaching of subversive doctrines, but preserve the books and spare the scholars who submit to imperial authority",
+        "ja": "李斯の極端な提案を拒否する：最も声高な批評家を追放し、破壊的な教義の教育を制限するが、本を保存し、帝国の権威に服する学者を生かす",
+        "zh-CN": "拒绝李斯的极端提案：流放最为激烈的批评者，限制颠覆性学说的传授，但保存书籍并宽恕服从帝国权威的学者"
+      },
+      "historicalContext": "This path was not taken historically. A more moderate response might have preserved intellectual capacity and reduced resentment, but would have left the Confucian challenge to Qin legitimacy unresolved.",
+      "outcomePrompt": {
+        "en": "You look at Li Si and you think of ash. You think of the libraries of Qi, which were among the finest in the world, reduced to cinders so that no one in Xianyang need worry about what is written in them. You think of the men who spend their lives learning to read, to think, to administer — and you think that a Qin with no scholars is an empire with no memory, no record-keeping, no mechanism for the transmission of the knowledge it needs to function. You decline.\n\nInstead, the most vocal critics — Chunyu Yue and a handful of others — are exiled to remote commanderies where their influence is minimal. A decree prohibits the public teaching of doctrines that contradict imperial policy. Schools in the former states are required to add Qin law and Qin administrative texts to their curricula. The Confucians are not destroyed, but they are disciplined, and the discipline is visible. The hall exhales. Li Si is unhappy. But the books survive, and with them the scholars who can read them, and with them the administrative capacity of the empire that will outlast you by several generations — though not by as many as you would have wished.",
+        "ja": "あなたは李斯を見て灰のことを考える。咸陽の誰もがその中に何が書かれているかを心配しなくてすむように、世界で最も優れた図書館の一つだった斉の図書館が燃え殻に変わることを考える。一生をかけて読み書き、思考し、行政を行うことを学んだ人たちのことを考え——そして学者のいない秦は記憶のない、記録保管のない、機能するために必要な知識の伝達のための機構のない帝国だと考える。あなたは断る。\n\n代わりに、最も声高な批評家たち——淳于越とほんのわずかな他の者たち——が影響力が最小限の遠方の郡に追放される。皇帝の方針に矛盾する教義の公的な教育を禁止する詔書が発せられる。旧諸国の学校は秦の法律と秦の行政テキストをカリキュラムに追加することを求められる。儒家は滅ぼされないが、規律を与えられ、その規律は目に見える。広間は息を吐く。李斯は不満だ。しかし書物は生き残り、それとともにそれらを読める学者たちが生き残り、それとともにあなたよりも数世代長く続く帝国の行政的能力が生き残る——あなたが望んだほど多くの世代ではないが。",
+        "zh-CN": "你看着李斯，脑海中浮现出灰烬的意象。你想象着齐国的藏书楼——那是世界上最精良的图书馆之一——化为余烬，只为让咸阳的人们无需担忧其中写了什么。你想到那些花费一生学习读写、思考与治政的人——你意识到，一个没有学者的秦，是一个没有记忆、没有档案记录、没有传递帝国运转所需知识之机制的帝国。你予以拒绝。\n\n代之以此，最为激烈的批评者——淳于越与寥寥数人——被流放至影响力微乎其微的偏远郡县。一道诏令禁止公开传授与帝国政策相悖的学说。旧诸国的学堂被要求将秦国法律与秦国行政典籍纳入课程。儒家未被摧毁，但受到了约束，而这约束清晰可见。大殿中响起一声舒气。李斯心存不满。但书籍留存下来，随之留存的是能够阅读这些书籍的学者，随之留存的是将在你身后延续数代的帝国行政能力——尽管不及你所希望的那般长久。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "popularSupport", "operation": "add", "value": 15 },
+        { "variable": "nobilityLoyalty", "operation": "add", "value": 10 },
+        { "variable": "imperialAuthority", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

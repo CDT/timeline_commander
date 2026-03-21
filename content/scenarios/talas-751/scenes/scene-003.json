@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-003",
+  "scenarioId": "talas-751",
+  "title": {
+    "en": "The Long Road Back",
+    "ja": "帰途の長い道",
+    "zh-CN": "漫漫归途"
+  },
+  "isTerminal": true,
+  "nextSceneId": null,
+  "background": {
+    "en": "July 16, 751 AD. The battle is lost. You are Gao Xianzhi, and you ride east with perhaps 2,000 survivors — all that remains of an army of 30,000. Thousands of your men are dead in the dust of the Talas valley. More are being led away in chains by Arab soldiers. The Abbasid forces have not pursued — their army too is spent, and the vast distances of Central Asia discourage chase. You have a clear road back to Kucha and eventually to Chang'an. But the decisions ahead will define what this defeat means for Tang China's western ambitions.",
+    "ja": "751年7月16日。戦いは負けた。あなたは高仙芝、おそらく2,000人の生存者とともに東へ馬を走らせる——3万の軍のすべてが残したものだ。数千の兵がタラス渓谷の砂塵の中で死んでいる。さらに多くがアラブ兵に鎖でつながれて連れ去られている。アッバース朝の軍勢は追撃しなかった——彼らの軍も消耗しており、中央アジアの広大な距離が追跡を思い止まらせる。クチャへ、そして最終的には長安への道は開かれている。しかし前途の決断が、この敗北が唐の西方への野望にとって何を意味するかを定める。",
+    "zh-CN": "公元751年7月16日。此战已败。你是高仙芝，率着约两千名幸存者向东疾驰——这是三万大军全部的余剩。数千名士兵已陈尸于怛逻斯河谷的尘埃之中，更多的人正被阿拉伯士兵用铁链押走。阿拔斯军队没有追击——他们也已精疲力竭，中亚的辽阔距离令人望而却步。回龟兹乃至最终回长安的道路畅通无阻。然而接下来的抉择，将决定这场败仗对大唐西方雄心意味着什么。"
+  },
+  "prompt": {
+    "en": "You must now send word ahead to Chang'an. Your report to the Emperor will frame the significance of this defeat. Do you cast Talas as a temporary setback requiring immediate reinforcement and renewed western campaigns? Or do you honestly assess that the overextension of Tang power into Central Asia has reached its natural limit, and counsel a strategic consolidation of existing territory?",
+    "ja": "今、長安に先行の知らせを送らなければならない。皇帝への報告が、この敗北の重要性を枠組みづける。タラスを、即時の増援と西方への再出撃を要する一時的な挫折として描くか？それとも、中央アジアへの唐の権力の過度な拡張が自然の限界に達したと率直に評価し、既存の領土の戦略的集約を進言するか？",
+    "zh-CN": "你现在必须向长安提前发出捷报。你向皇帝的奏报将框定这场败仗的意义。你是将怛逻斯描绘成一次需要立即增援、重启西征的暂时挫折？还是诚实评估大唐势力在中亚的过度延伸已到达自然极限，进而建言进行战略收缩、巩固现有领土？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Counsel strategic consolidation",
+        "ja": "戦略的集約を進言する",
+        "zh-CN": "建言战略收缩"
+      },
+      "description": {
+        "en": "Send an honest report: the Arab caliphate is a power of equal scale to Tang, and the western frontier cannot be held indefinitely without resources Tang does not have. Recommend fortifying the existing Tarim Basin holdings, maintaining alliance with the Ferghana Valley kingdoms, and accepting that Central Asia beyond the Tian Shan will not be Tang territory. This is the counsel of a general who understands limits.",
+        "ja": "正直な報告を送る：アラブのカリフ国は唐と同等の規模の勢力であり、唐が持っていない資源なしには西方の辺境を無限に保持できない。既存のタリム盆地の支配地域を強化し、フェルガナ渓谷の王国との同盟を維持し、天山山脈を超えた中央アジアが唐の領土とならないことを受け入れることを勧める。これは限界を理解した将軍の進言だ。",
+        "zh-CN": "发出如实奏报：阿拉伯哈里发国是与大唐同等量级的强权，没有大唐所不具备的资源，西方边疆无法无限期守住。建议巩固既有的塔里木盆地据点，维持与费尔干纳河谷各王国的同盟，并接受天山以西的中亚不会成为唐朝领土的现实。这是一位理解自身极限的将军的谏言。"
+      },
+      "outcome": {
+        "en": "Your honest counsel is unpopular at court — no emperor wants to hear of limits. You are demoted for the defeat. But your assessment proves prescient: the An Lushan Rebellion erupts four years later, and Tang China is forced to withdraw from Central Asia anyway. Your soldiers who were captured carry the art of papermaking to Samarkand, where it begins its journey westward. History will remember Talas not as a Tang failure, but as the moment a technology changed the world.",
+        "ja": "あなたの率直な進言は朝廷では不評だ——限界について聞きたい皇帝はいない。あなたは敗北を理由に降格される。しかしあなたの評価は先見の明があることを証明する：四年後に安史の乱が勃発し、唐は中央アジアから撤退せざるを得なくなる。捕虜となったあなたの兵士たちが製紙技術をサマルカンドに持ち込み、そこから西方への旅が始まる。歴史はタラスを唐の失敗としてではなく、ある技術が世界を変えた瞬間として記憶するだろう。",
+        "zh-CN": "你的如实进言在朝廷颇不受欢迎——没有哪位皇帝愿意听闻极限之说。你因这场败仗被降职。然而你的判断证明极具先见之明：四年后安史之乱爆发，大唐被迫无论如何都要从中亚撤军。你那些被俘的士兵将造纸术带到了撒马尔罕，从那里开始了它向西传播的旅程。历史将铭记怛逻斯，不是作为唐的失败，而是作为一项技术改变世界的时刻。"
+      },
+      "stateChanges": [
+        { "variable": "tangMorale", "operation": "add", "value": -10 },
+        { "variable": "tacticalPosition", "operation": "add", "value": 20 },
+        { "variable": "supplyLine", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Request reinforcements and plan a return",
+        "ja": "増援を要請して帰還の計画を立てる",
+        "zh-CN": "请求增援并谋划反攻"
+      },
+      "description": {
+        "en": "Frame the report as a temporary defeat caused by the Karluk betrayal — not a strategic failure of Tang policy. Request that 50,000 fresh troops be sent west. Recommend punitive expeditions against the Karluk chieftains who betrayed you. Propose a new campaign within two years that would not rely on mercenary cavalry. Defend the strategic logic of Tang western dominance and the necessity of returning to the Talas River.",
+        "ja": "報告を、カルルクの裏切りによる一時的な敗北として——唐の政策の戦略的失敗ではなく——枠組みつける。5万の新鮮な軍の西方派遣を要請する。あなたを裏切ったカルルクの族長への懲罰遠征を勧める。傭兵騎兵に頼らない二年以内の新たな遠征を提案する。唐の西方支配の戦略的論理とタラス川への帰還の必要性を擁護する。",
+        "zh-CN": "将奏报框定为由葛逻禄背叛造成的暂时败绩——而非唐朝战略决策的失误。请求向西增派五万精兵。建议对背叛你的葛逻禄首领发动惩罚性远征。提议在两年内发起不依赖雇佣骑兵的新一轮征战。为大唐西域霸权的战略逻辑及重返怛逻斯河的必要性进行辩护。"
+      },
+      "outcome": {
+        "en": "The Emperor is receptive — courts prefer bold plans to admissions of limitation. Fresh troops are allocated. But the An Lushan Rebellion erupts before the western reinforcements can be organized. Those troops are recalled east. The planned return to Talas never happens. Your soldiers captured at Talas teach papermaking to their Arab captors, and the technology begins its westward journey. Ironically, the most lasting consequence of this battle was not military but cultural — one of history's greatest technology transfers.",
+        "ja": "皇帝は受け入れやすい——朝廷は限界の承認より大胆な計画を好む。新鮮な軍が割り当てられる。しかし安史の乱が、西方の増援が組織される前に勃発する。それらの軍は東に呼び戻される。タラスへの計画された帰還は決して実現しない。タラスで捕虜となったあなたの兵士たちはアラブの捕虜監視者に製紙を教え、その技術は西方への旅を始める。皮肉なことに、この戦いの最も永続する結果は軍事的なものではなく文化的なものだった——歴史上最大の技術移転の一つ。",
+        "zh-CN": "皇帝颇为赞许——朝廷更喜欢大胆的方案，而非承认局限。新的军队被拨付。然而安史之乱在西路援军组织完成之前便爆发了，那些部队被召回东线，重返怛逻斯的计划永远落空。在怛逻斯被俘的士兵将造纸术传授给阿拉伯看守，这项技术由此踏上西传之路。讽刺的是，这场战役最持久的影响不是军事上的，而是文化上的——这是历史上最伟大的技术转让之一。"
+      },
+      "stateChanges": [
+        { "variable": "tangMorale", "operation": "add", "value": 15 },
+        { "variable": "abbasidStrength", "operation": "add", "value": -5 },
+        { "variable": "karluktrust", "operation": "add", "value": -20 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "scenarioId": "chu-han-contention-202bc",
+  "timeline": [
+    {
+      "date": "-0206-01-01",
+      "description": {
+        "en": "Xiang Yu distributes the post-Qin kingdoms at the Feast at Hong Gate (206 BC). Liu Bang, despite arriving first at Xianyang, is assigned the remote Hanzhong region as King of Han. Xiang Yu declares himself Hegemon-King of Western Chu. The unjust distribution immediately sows seeds of conflict.",
+        "ja": "鴻門の宴（紀元前206年）で項羽が秦後の王国を分配する。劉邦は咸陽に最初に到着したにもかかわらず、漢中地域に漢王として配される。項羽は自らを西楚の覇王と宣言する。不公平な分配はただちに対立の種をまく。",
+        "zh-CN": "项羽在鸿门宴（公元前206年）分封秦后各国。刘邦尽管先抵咸阳，却被分封至偏远汉中地区为汉王。项羽自立为西楚霸王。不公平的分封立即埋下冲突的种子。"
+      }
+    },
+    {
+      "date": "-0205-01-01",
+      "description": {
+        "en": "Liu Bang quickly conquers Guanzhong (the Qin heartland) with the help of general Han Xin and crosses east. The Chu-Han War begins. Liu Bang forms a coalition with other disaffected kings against Xiang Yu, briefly capturing the Chu capital Pengcheng with 560,000 men, only to be catastrophically routed by Xiang Yu's 30,000-man counterattack.",
+        "ja": "劉邦は将軍・韓信の助けを借りて関中（秦の中枢）をすぐに征服して東に渡る。楚漢戦争が始まる。劉邦は不満を持つ他の王たちと連合して項羽に対抗し、56万の兵で楚の都・彭城を一時的に占領するが、項羽の3万の反撃によって壊滅的に壊走される。",
+        "zh-CN": "刘邦借将军韩信之力迅速征服关中（秦国腹地）并东渡。楚汉战争爆发。刘邦与其他心怀不满的诸王结盟对抗项羽，以五十六万大军一度攻克楚都彭城，却被项羽三万精兵反击，遭到灾难性溃败。"
+      }
+    },
+    {
+      "date": "-0204-01-01",
+      "description": {
+        "en": "Stalemate along the Sui-Gou line (204-203 BC). Xiang Yu besieges Liu Bang at Xingyang; Liu Bang uses the tactics of his advisors to survive. Han Xin begins his independent northern campaigns, defeating the kingdoms of Wei, Zhao, and Yan one by one, systematically eliminating Xiang Yu's potential allies.",
+        "ja": "鸿沟線に沿った膠着状態（紀元前204〜203年）。項羽が荥陽で劉邦を包囲；劉邦は顧問の戦術を使って生き延びる。韓信が独立した北方遠征を開始し、魏・趙・燕の王国を一つずつ敗北させ、項羽の潜在的な同盟者を体系的に排除していく。",
+        "zh-CN": "鸿沟对峙（公元前204—203年）。项羽围困刘邦于荥阳；刘邦借谋士之策得以生存。韩信展开独立的北方战役，逐一击败魏、赵、燕诸国，系统性地消除项羽可能的盟友。"
+      }
+    },
+    {
+      "date": "-0203-01-01",
+      "description": {
+        "en": "The Hongmen Accord (203 BC): Xiang Yu and Liu Bang agree to divide China along the Gou River, with Xiang Yu holding the east and Liu Bang the west. The accord lasts only weeks before Liu Bang, on the advice of Zhang Liang and Chen Ping, breaks the truce and attacks Xiang Yu's retreating army.",
+        "ja": "鸿溝の協定（紀元前203年）：項羽と劉邦が鸿溝に沿って中国を分割することに同意し、項羽が東、劉邦が西を保持する。協定は張良と陳平の助言で劉邦が停戦を破り撤退する項羽の軍を攻撃するまで数週間しか続かない。",
+        "zh-CN": "鸿沟之约（公元前203年）：项羽与刘邦同意以鸿沟为界平分天下，项羽据东，刘邦据西。协议仅持续数周，刘邦便听从张良、陈平的建议，撕毁停战，攻击撤退中的项羽军队。"
+      }
+    },
+    {
+      "date": "-0202-01-01",
+      "description": {
+        "en": "Han Xin completes his conquest of Qi and closes the encirclement. Xiang Yu is surrounded at Gaixia with approximately 100,000 men against Han Xin's 300,000-plus. The Han forces sing Chu folk songs at night — the four sides of Chu songs (四面楚歌) — causing mass desertion from the Chu army as soldiers believe their homeland has fallen.",
+        "ja": "韓信が斉の征服を完了して包囲を閉じる。項羽は約10万の兵で韓信の30万以上に対して垓下で包囲される。漢の軍勢が夜に楚の民謡を歌う——四面楚歌——楚の兵士たちが故郷が陥落したと信じ、楚の軍から大規模な脱走が発生する。",
+        "zh-CN": "韩信完成对齐国的征服，合拢包围圈。项羽在垓下以约十万之众面对韩信三十余万大军的包围。汉军夜间高唱楚地民歌——四面楚歌——楚军士卒相信故乡已沦陷，大规模溃逃由此而起。"
+      }
+    },
+    {
+      "date": "-0202-02-01",
+      "description": {
+        "en": "Yu Ji's final dance and death. Xiang Yu performs a final lament — the Gaixia Song — for his horse Dilu and his beloved concubine before her death. With 800 remaining cavalry, Xiang Yu breaks through the Han encirclement at night and flees south, pursued by Han cavalry.",
+        "ja": "虞姫の最後の踊りと死。項羽は愛馬・雛と愛する側妾・虞姫のために最後の哀歌——垓下の歌——を詠む。虞姫の死後、800騎の残存騎兵と共に項羽は夜に漢の包囲を突破して南に逃走し、漢の騎兵に追われる。",
+        "zh-CN": "虞姬最后的舞蹈与辞世。项羽为爱马骓与爱妾虞姬吟唱最后的挽歌——垓下歌——随后虞姬辞世。项羽率八百余骑，趁夜突破汉军包围向南逃去，被汉军骑兵追击。"
+      }
+    },
+    {
+      "date": "-0202-02-15",
+      "description": {
+        "en": "The Wu River. Xiang Yu arrives at the Wu River with only 28 surviving riders. A lone boatman offers to ferry him to Jiangdong, but Xiang Yu refuses, unable to face the fathers of Jiangdong whose sons had followed him. He gives his horse to the boatman, fights Han cavalry on foot, kills dozens, and dies from multiple wounds. Liu Bang reportedly wept at his death and buried him with royal honors.",
+        "ja": "烏江。項羽はわずか28人の生き残った騎兵と共に烏江に到着する。一人の渡し守が江東への渡船を申し出るが、項羽は自分に従った息子たちの江東の父たちの顔を見ることができないと断る。彼は馬を渡し守に与え、歩いて漢の騎兵と戦い、数十人を殺し、複数の傷から死ぬ。劉邦は彼の死に泣き、王の礼をもって埋葬したと伝えられる。",
+        "zh-CN": "乌江。项羽率仅余二十八骑抵达乌江。一位孤独的渡船者提出将他渡至江东，但项羽拒绝，无颜面对那些跟随他战死的儿郎们的江东父老。他将马赠给渡船人，步战汉军骑兵，杀数十人，最终身中数伤而亡。据传刘邦闻其死讯痛哭，以王礼将其安葬。"
+      }
+    },
+    {
+      "date": "-0202-02-28",
+      "description": {
+        "en": "Liu Bang is proclaimed Emperor Gaozu of Han at Dingtao (202 BC), founding the Han dynasty. The Chu-Han War ends. Liu Bang's generous settlement terms — granting posthumous royal honors to Xiang Yu, integrating Xiang Yu's former followers into Han administration — reflect his political acuity in managing the aftermath of the war.",
+        "ja": "劉邦が定陶（紀元前202年）で漢の高祖皇帝と称され、漢王朝を創設する。楚漢戦争が終わる。劉邦の寛大な和解条件——項羽への死後の王の栄誉の付与、項羽の旧追随者の漢の行政への統合——は戦争の後始末を管理する政治的鋭さを反映している。",
+        "zh-CN": "刘邦在定陶（公元前202年）被尊为汉高祖皇帝，创立汉朝。楚汉战争结束。刘邦宽厚的善后条款——追封项羽王号、将项羽旧部纳入汉朝行政——体现了他处理战争遗留问题的政治智慧。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Liu Bang founded the Han dynasty (202 BC – 220 AD), which ruled China for over four hundred years and gave the Han people their name. Xiang Yu died as a warrior-king, never defeated in personal battle, but undone by his inability to translate military dominance into political sustainability. The Han dynasty preserved the essential Qin administrative innovations while moderating the harshness — commanderies, counties, bureaucratic appointment, standardized law — and built the institutional framework that defined Chinese civilization for the next two millennia.",
+    "ja": "劉邦は漢王朝（紀元前202年〜220年）を創設し、400年以上中国を統治して漢民族に彼らの名前を与えた。項羽は個人的な戦いで一度も敗れることなく戦士王として死に、しかし軍事的優位を政治的持続可能性に変えられなかったために滅んだ。漢王朝は秦の行政的革新の本質——郡・県・官僚任用・標準化された法律——を保持しながら苛酷さを和らげ、その後2000年の中国文明を規定した制度的枠組みを構築した。",
+    "zh-CN": "刘邦创立汉朝（公元前202年—公元220年），统治中国逾四百年，并将「汉」这个名字赋予了汉族人民。项羽以战士之王的身份战死，个人领兵从未遭逢败绩，却因无力将军事上的主导转化为政治上的可持续性而覆亡。汉朝保留了秦国行政制度的精髓——郡、县、官僚任命、统一法律——同时缓和了其严苛，构建了定义此后两千年中华文明的制度框架。"
+  },
+  "casualties": {
+    "en": "The Chu-Han War (206-202 BC) was one of the most destructive conflicts in early Chinese history. Millions died in the campaigns across all of China. The Battle of Gaixia itself was relatively contained — Xiang Yu's army had already been reduced by desertions to a fraction of its former strength before the final engagements. The Pengcheng campaign (205 BC) alone is estimated to have killed over 100,000 Han soldiers in a single defeat.",
+    "ja": "楚漢戦争（紀元前206〜202年）は初期中国史で最も破壊的な紛争の一つだった。中国全体の遠征で何百万もの人が死亡した。垓下の戦い自体は比較的限定的だった——項羽の軍は最終的な交戦の前に脱走によってすでにかつての強さのほんの一部に減らされていた。彭城の遠征（紀元前205年）だけで一回の敗北で10万人以上の漢兵が死亡したと推定される。",
+    "zh-CN": "楚汉战争（公元前206—202年）是中国早期历史上最具破坏性的冲突之一。数百万人在遍及中国各地的战役中死亡。垓下之战本身相对局限——在最后的交战之前，项羽的军队已因溃逃而减至原来力量的一小部分。仅彭城之战（公元前205年）一役就估计在单次失败中造成汉军逾十万人阵亡。"
+  },
+  "significance": {
+    "en": "The Chu-Han War established the template for Chinese dynastic change: military conquest followed by political consolidation, with the victor legitimizing his rule through administrative competence rather than pure force. Liu Bang's victory demonstrated that in China's political culture, the ability to retain talented subordinates, to manage different interest groups through negotiation, and to present oneself as a restorer of order rather than a conqueror was ultimately more durable than Xiang Yu's personal military genius. The story of Gaixia — the four sides of Chu songs, Yu Ji's dance, Xiang Yu's refusal of the boat — became one of the most enduring narratives in Chinese literature and culture.",
+    "ja": "楚漢戦争は中国の王朝交代の雛型を確立した：軍事的征服に続く政治的統合、勝利者が純粋な力ではなく行政的能力によって統治を正当化する。劉邦の勝利は、中国の政治文化において、有能な部下を保持する能力・交渉を通じて異なる利益集団を管理する能力・征服者ではなく秩序の回復者として自らを提示することが、最終的に項羽の個人的な軍事的天才よりも永続性があることを示した。垓下の物語——四面楚歌・虞姫の踊り・項羽の舟の拒否——は中国の文学と文化で最も持続する物語の一つになった。",
+    "zh-CN": "楚汉战争确立了中国王朝更替的模板：军事征服之后的政治巩固，胜利者通过行政才能而非单纯武力使其统治获得合法性。刘邦的胜利表明，在中国政治文化中，留住有才能属下的能力、通过谈判管理不同利益集团的能力，以及将自己呈现为秩序恢复者而非征服者的能力，最终比项羽的个人军事天才更具持久性。垓下的故事——四面楚歌、虞姬的舞蹈、项羽拒绝渡船——成为中国文学与文化中最为持久的叙事之一。"
+  },
+  "furtherReading": [
+    "Records of the Grand Historian: Chapters on the Chu-Han Contention by Sima Qian, translated by Burton Watson",
+    "The Genius of China by Robert Temple",
+    "Han: China's First Golden Age by Susanna Thornton",
+    "China: A History by John Keay",
+    "The Cambridge History of China, Volume 1: The Ch'in and Han Empires edited by Denis Twitchett and Michael Loewe"
+  ]
+}

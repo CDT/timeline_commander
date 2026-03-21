@@ -1,0 +1,115 @@
+{
+  "id": "zhuge-liang-northern-228-scene-002",
+  "scenarioId": "zhuge-liang-northern-228",
+  "title": {
+    "en": "The Fall of Jieting",
+    "ja": "街亭の失陥",
+    "zh-CN": "街亭陷落"
+  },
+  "date": {
+    "en": "Spring 228 AD, Qishan Front",
+    "ja": "228年春、祁山前線",
+    "zh-CN": "公元228年春，祁山前线"
+  },
+  "location": {
+    "en": "Shu Han Field Headquarters, Qishan",
+    "ja": "蜀漢野戦司令部、祁山",
+    "zh-CN": "蜀汉祁山前线指挥营"
+  },
+  "narrativePrompt": {
+    "en": "The dispatch from Wang Ping arrived at dawn and you read it three times before you allowed yourself to understand it. The words are military and precise, as Wang Ping always writes, but what they describe is a collapse. Ma Su moved the army to the hilltop. The hilltop has no water. Zhang He has surrounded it. The soldiers on the hill are fighting without water in the spring heat and they are losing. The supply route through Jieting is not held. It may already be too late.\n\nYou sit with this knowledge for the time it takes a lamp to burn an inch of oil. The mountain campaign was designed around Jieting. Without Jieting, the three commanderies you hold are pockets surrounded by Wei territory, not a bridgehead. Without Jieting, your army in the field has its supply line cut and its retreat route threatened. Without Jieting, the First Northern Expedition that was going to demonstrate that Shu Han could threaten Wei is about to demonstrate instead that Shu Han can lose.\n\nYou have not yet received confirmation that Jieting has fallen completely. There is perhaps a window — small, closing — in which something can be done. You could push reinforcements toward Jieting at speed, attempting to relieve the hilltop position or reopen the road before Zhang He consolidates his hold. It is a gamble: the reinforcing force might arrive in time, or it might not, and if it does not, you have now committed more troops to a losing position. The men on the hill will fight harder if they see relief coming. They might also already be beyond the point where relief matters.\n\nThe alternative is the one that every part of your training and disposition resists but that every part of your strategic intelligence recognizes: withdraw now, immediately, before Zhang He consolidates the road and before the Wei main force under Cao Zhen is able to move. Abandon the three commanderies. Bring as many of the local populations with you as the retreat will permit. Retreat to Hanzhong intact with the army still fighting-capable, to return another day under better conditions. The three counties will suffer for having surrendered to you. That is a weight you will carry. But an army preserved is a future expedition. An army destroyed is nothing.\n\nThe choice you face now is whether to spend what you have left trying to save what you have lost, or to cut your losses and preserve the instrument that will let you try again.",
+    "ja": "王平からの文書が夜明けに届き、あなたはそれを三度読んで自分に理解させた。王平がいつも書くように言葉は軍事的で正確だが、描写されているのは崩壊だ。馬謖は軍を山頂に移動させた。山頂には水がない。張郃が包囲している。山の上の兵士たちは春の暑さの中で水なしに戦っており、負けている。街亭を通じる補給路は守られていない。すでに手遅れかもしれない。\n\nあなたはこの知識とともに、ランプが一インチの油を燃やすほどの時間座っている。山岳戦役は街亭を中心に設計されていた。街亭なしでは、保持している三郡は橋頭堡ではなく魏の領土に囲まれた飛び地だ。街亭なしでは、野戦の軍は補給線を断たれ撤退ルートを脅かされる。街亭なしでは、蜀漢が魏を脅かすことができると示すはずだった第一次北伐が、代わりに蜀漢が敗北できることを示そうとしている。\n\n街亭が完全に陥落したという確認はまだ受け取っていない。おそらく——小さく、閉じかかっている——何かができる窓がある。急いで街亭に向けて増援を送り、張郃が支配を固める前に山頂の陣地を救援するか道路を再開しようと試みることができる。それは賭けだ：増援部隊が間に合うかもしれないし、間に合わないかもしれない。間に合わなければ、負けている陣地にさらに多くの兵士を投じたことになる。山の上の男たちは救援が来るのを見ればより激しく戦うだろう。救援が重要である段階をすでに超えているかもしれない。\n\n代替案はあなたの訓練と性格のすべての部分が抵抗するが戦略的知性のすべての部分が認識するもの：今すぐ、即座に、張郃が道路を固める前に、そして曹真率いる魏の主力が動けるようになる前に撤退する。三郡を放棄する。撤退が許す限り多くの地元住民を連れていく。軍がまだ戦闘力を持った状態で漢中に無傷に撤退し、より良い状況で別の日に戻る。三県はあなたに降伏したことで苦しむだろう。それはあなたが負うべき重荷だ。しかし保存された軍は将来の北伐だ。壊滅した軍は何もない。\n\n今あなたが直面する選択は、失ったものを救おうとして残っているものを使い果たすか、損失を切り詰めてもう一度試みる手段を守るかだ。",
+    "zh-CN": "王平的文书在黎明时分抵达，你读了三遍方才令自己接受其中的含义。王平一贯如此，措辞军事化而简练，但所描述的是一场溃败。马谡将大军移至山顶，山顶无水，张郃已将其团团包围。山上的士卒在春日的暑热中无水作战，正节节失利。经街亭的补给道路已经失守，也许已经为时太晚。\n\n你带着这个认知独坐，静候灯芯燃去一寸油的工夫。整个山地战役是以街亭为枢轴设计的。没有街亭，你控制的三郡不再是桥头堡，而是被魏国领土包围的孤岛。没有街亭，前线大军的补给线被切断，退路受到威胁。没有街亭，这次本应证明蜀汉能够威胁魏国的第一次北伐，即将转而证明蜀汉也能遭受惨败。\n\n你还没有收到街亭已完全失守的确认。或许还有一扇窗——窄小，正在合拢——可以做些什么。你可以火速向街亭增援，试图在张郃巩固控制之前解救山顶阵地或重开道路。这是一场赌博：援军或许及时赶到，或许不然，若不然，你已将更多兵力投入了一个败局。山上的士卒若看见救援前来，会战得更为拼命；但他们也可能已经过了救援还能起作用的那个时间点。\n\n另一个选择是你所有的训练与禀性都抗拒、却是你所有的战略理性都认可的：立即撤退，趁张郃尚未封死道路，趁曹真率领的魏军主力尚未行动之前。放弃三郡，在撤退允许的范围内带走尽可能多的当地民众，将军队完整地撤回汉中，保留战斗力，改日在更有利的条件下卷土重来。三县将因归顺你而受苦，这是你须承担的重量。然而保存下来的军队是下次北伐的资本，被毁灭的军队一无是处。\n\n你现在面临的选择是：用所剩的力量拼死挽救已经失去的，还是断然止损，保全让你日后再战的那支军队。"
+  },
+  "situationReport": [
+    {
+      "en": "Ma Su has abandoned the road position at Jieting and occupied a hilltop with no water supply. Zhang He has encircled the position and cut off water. The Shu Han force on the hill is collapsing under heat and thirst.",
+      "ja": "馬謖は街亭の道路陣地を放棄し、水の供給がない山頂を占拠した。張郃が陣地を包囲して水を断った。山の上の蜀漢軍は暑さと渇きで崩壊しつつある。",
+      "zh-CN": "马谡放弃街亭道路阵地，占据一处无水源的山顶。张郃将其团团围住并断绝水源，山上的蜀汉军队正在暑热与干渴中溃败。"
+    },
+    {
+      "en": "With Jieting lost, the three surrendered Wei commanderies — Nan'an, Tianshui, and Anding — are exposed. Wei forces are already moving to recover them. Shu Han's strategic gains from the First Expedition are evaporating.",
+      "ja": "街亭が失われると、降伏した三郡——南安・天水・安定——が露出する。魏軍はすでにそれらを回復するために動いている。第一次北伐からの蜀漢の戦略的成果が消えつつある。",
+      "zh-CN": "随着街亭失守，三个归降的郡——南安、天水、安定——已暴露无援。魏军正在行动，陆续收复各郡。蜀汉第一次北伐的战略成果正在烟消云散。"
+    },
+    {
+      "en": "A relief attempt toward Jieting is possible but risky. It could arrive in time to reopen the road or it could commit additional forces to a doomed position, losing both the reinforcements and the main army.",
+      "ja": "街亭への救援の試みは可能だが危険だ。道路を再開するために間に合うかもしれないし、または壊滅的な陣地に追加の軍を投じ、増援と主力軍の両方を失う可能性もある。",
+      "zh-CN": "向街亭发起救援尝试是可能的，但有风险。援军可能及时赶到重开道路，也可能将更多兵力投入绝境，援军与主力两失。"
+    },
+    {
+      "en": "Withdrawal to Hanzhong, while abandoning the three commanderies, would preserve the main army intact for future operations and allow the evacuation of civilian populations from the war zone.",
+      "ja": "三郡を放棄しつつ漢中への撤退は、主力軍を将来の作戦のために無傷で保ち、民間人を戦域から避難させることができる。",
+      "zh-CN": "撤退汉中虽需放弃三郡，但可保存主力军队完整以备日后出击，并可疏散战区内的平民。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Prevent the total destruction of the Shu Han army by responding decisively to the Jieting disaster before Zhang He can fully exploit the tactical collapse",
+      "ja": "張郃が戦術的崩壊を完全に活用する前に街亭の惨事に断固として対応することで、蜀漢軍の完全な壊滅を防ぐ",
+      "zh-CN": "在张郃充分利用街亭战术崩溃之前果断应对，防止蜀汉大军全军覆没"
+    },
+    {
+      "en": "Salvage what can be salvaged from the First Expedition — either consolidating a reduced position or withdrawing in good order — to preserve Shu Han's capacity for future northern expeditions",
+      "ja": "将来の北伐のための蜀漢の能力を守るために、縮小された陣地を固めるかまたは整然と撤退するかのいずれかで、第一次北伐から救えるものを救う",
+      "zh-CN": "从第一次北伐中抢救能抢救的——或巩固缩减后的阵地，或有序撤退——以保全蜀汉日后北伐的能力"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The army's supply situation is already compromised — every additional day of operations in the field increases the logistical risk",
+      "ja": "軍の補給状況はすでに危うくなっている——野戦でのさらに一日の作戦は兵站リスクを増加させる",
+      "zh-CN": "大军的补给状况已然告急——野战中每多一天作战，后勤风险便随之增加"
+    },
+    {
+      "en": "The civilian populations in the three surrendered commanderies have committed to Shu Han — an immediate withdrawal abandons them to Wei retribution",
+      "ja": "三つの降伏した郡の民間人が蜀漢にコミットした——即座の撤退は彼らを魏の報復に見捨てる",
+      "zh-CN": "三个投降郡的平民已投向蜀汉——立即撤退将把他们遗弃于魏国的报复之下"
+    }
+  ],
+  "choices": [
+    {
+      "id": "zhuge-liang-northern-228-scene-002-choice-a",
+      "text": {
+        "en": "Attempt to relieve Jieting with a rapid reinforcing column, then conduct a phased withdrawal: send what forces you can toward Jieting immediately, and if the road cannot be held, fall back in an orderly sequence that brings the civilian populations with you",
+        "ja": "迅速な増援縦隊で街亭の救援を試み、その後段階的撤退を実施する：できる限りの軍を即座に街亭に向けて送り、道路が守れなければ民間人を連れた整然とした順序で撤退する",
+        "zh-CN": "以快速增援纵队尝试解救街亭，随后实施分阶段撤退：立即派出能调动的兵力驰援街亭，若道路仍无法守住，则以有序序列撤退并携带平民同行"
+      },
+      "historicalContext": "This is broadly what historically occurred. Zhuge Liang attempted to respond to the Jieting disaster while conducting a controlled withdrawal. He personally supervised the evacuation of the populations of three counties back to Shu Han territory, an act that historians have praised as demonstrating extraordinary administrative competence amid military failure.",
+      "outcomePrompt": {
+        "en": "You send the reinforcing column toward Jieting with orders to move at maximum speed. The orders go out with the confidence of a commander who has decided, and you turn simultaneously to the work of withdrawal. The road out of Qishan must be marked and organized. The civilian populations — the men and women of three counties who surrendered to you, who believed in you, who will face Wei's wrath when you are gone — must be organized for movement. You send officers to every county seat with the same message: the army is withdrawing. Those who wish to come with us have until nightfall to prepare.\n\nThe reinforcing column reaches the Jieting road too late. Wang Ping's small detachment withdraws in good order with his handful of men. Ma Su's force has already broken; soldiers are fleeing through the hills in every direction. You receive the final report and begin the main withdrawal.\n\nWhat follows is three days of extraordinary administrative effort. Tens of thousands of civilian refugees move with the army through the mountain passes back toward Hanzhong. Your officers organize the column, manage the pace, prevent panicked crowding at the narrow passes, ensure that the sick and elderly are not left behind. The Wei forces probe your rear but do not press hard — Zhang He is professional enough to recognize that a controlled retreat is not a rout, and that attacking it would be costly. You bring almost everyone out. The army is intact. Jieting is lost. The expedition is over. The civilians of three counties are safe.\n\nWhen you reach Hanzhong and make your accounting, the weight of what happened settles on you like the mountain itself. Ma Su is alive and will face military justice. You will demote yourself three ranks. And in the quiet of your tent, you will hear Liu Bei's voice saying, with the terrible patience of a man who knew: his words exceed his ability.",
+        "ja": "増援縦隊を最高速度で動くよう命令して街亭に向けて送る。命令は決断した指揮官の確信とともに出され、同時に撤退の作業に向かう。祁山からの道路は印をつけて整理されなければならない。民間人——三県の男女、あなたに降伏し、あなたを信じ、あなたがいなくなると魏の怒りに直面するだろう人々——は移動のために整理されなければならない。すべての県庁に同じメッセージで将校を送る：軍は撤退している。一緒に来たい者は日没までに準備せよ。\n\n増援縦隊は街亭の道路に遅れて到着する。王平の小さな分遣隊は数人の兵とともに整然と撤退する。馬謖の軍はすでに崩壊しており、兵士たちがあらゆる方向に丘を通じて逃亡している。最終報告を受け、主力撤退を開始する。\n\nその後に続くのは三日間の並外れた行政的努力だ。数万の民間難民が軍とともに山岳峠を通じて漢中に向けて動く。将校たちが縦隊を整理し、ペースを管理し、狭い峠でのパニックによる混雑を防ぎ、病人と老人が取り残されないようにする。魏軍があなたの後衛を探るが強く追撃しない——張郃は統制された撤退が潰走ではないこと、それを攻撃することは代償が大きいことを認識するのに十分な専門性がある。ほぼ全員を連れ出す。軍は無傷だ。街亭は失われた。北伐は終わった。三県の民は安全だ。\n\n漢中に着いて会計をするとき、起こったことの重みが山そのもののようにあなたに降りかかる。馬謖は生きており軍事裁判に直面する。あなたは自らを三等降格する。そしてあなたの天幕の静けさの中で、知っていた男の恐ろしい忍耐で言う劉備の声を聞く：彼の言葉は能力を超えている。",
+        "zh-CN": "你派出增援纵队命其以最快速度向街亭进发，命令以一个已作决断的将领的镇定发出，同时你转向撤退工作。祁山的退路必须标记和整顿。平民——三县的男男女女，他们归降于你，相信于你，你离开后将面对魏国的怒火——必须组织起来准备转移。你向每一个县城派出将领，传达同一道命令：大军撤退，愿随行者于日落前准备完毕。\n\n增援纵队到达街亭道路时已经太迟。王平率他那支小分队有序撤退。马谡的军队早已溃散，士卒四散奔逃于山岭之间。你收到最终的报告，随即开始主力撤退。\n\n此后三日是非凡的行政壮举。数万难民百姓随大军穿越山隘撤回汉中。你的将领整理队伍，控制行进节奏，防止在狭窄山道上的慌乱拥挤，确保老弱病患不被遗落。魏军在后方试探，但并未强行追击——张郃足够专业，能够认识到有序撤退并非溃逃，强行追击代价不小。你几乎将所有人都带了出来，大军完整，街亭已失，北伐结束，三县百姓安然无虞。\n\n抵达汉中清点得失之时，所发生的一切的重量如山般压来。马谡尚在，将接受军法审判。你将自贬三级。而在你营帐的静寂之中，你将听见刘备的声音，那个曾经知晓一切的人以令人心寒的平静说道：言过其实，不可大用。"
+      },
+      "nextSceneId": "zhuge-liang-northern-228-scene-003",
+      "stateChanges": [
+        { "variable": "shuMorale", "operation": "add", "value": -20 },
+        { "variable": "strategicPosition", "operation": "add", "value": -25 },
+        { "variable": "supplySecurity", "operation": "add", "value": 10 },
+        { "variable": "officerLoyalty", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "zhuge-liang-northern-228-scene-002-choice-b",
+      "text": {
+        "en": "Abandon the expedition immediately and withdraw to Hanzhong at maximum speed before the situation deteriorates further: sacrifice the three commanderies and any civilians who cannot move quickly, but get the army back intact",
+        "ja": "状況がさらに悪化する前に北伐を直ちに中止し、最高速度で漢中に撤退する：三郡と素早く移動できない民間人を犠牲にするが、軍を無傷で取り返す",
+        "zh-CN": "立即终止北伐，以最快速度撤回汉中，在形势进一步恶化之前：放弃三郡及无法快速转移的平民，但将大军完整带回"
+      },
+      "historicalContext": "This path was not fully taken historically. Zhuge Liang's actual withdrawal was conducted with unusual care for the civilian populations of the three counties, which slowed the retreat but also demonstrated his commitment to the people who had trusted him. A purely military rapid withdrawal would have been faster but would have abandoned the civilians to Wei retribution.",
+      "outcomePrompt": {
+        "en": "There is no time for the careful withdrawal you would prefer. You give the order: the army moves now, at maximum sustainable speed, and anyone who cannot keep pace with the military column is left to make their own arrangements. The officers pass the order through the ranks with the blank faces of professionals absorbing a hard instruction. Some of them argue with their eyes, the ones who have spent months building trust with the local populations. You do not answer those eyes. You know what the order means.\n\nThe army withdraws in good order. The mountain passes are narrow but the columns move efficiently, the veterans keeping their discipline even in retreat. Within four days you are back in Hanzhong, the army largely intact, the supplies secured, the officers reporting ready for reassignment. The Qin heartland is quiet behind you. Zhang He pursues cautiously and turns back at the passes.\n\nWhat you do not see, because you move too fast to see it, is what happens in the three counties after you leave. The Wei forces arrive quickly and the retribution for the counties' surrender to Shu Han is both swift and exemplary. The families who had committed most visibly to the Shu Han cause — those who had cooperated with your officials, supplied your army, given you information — suffer for it. The word travels ahead of the next expedition: this is what happens when you trust Shu Han. You gain speed. You lose something harder to regain than a battle.",
+        "ja": "あなたが好む慎重な撤退のための時間がない。命令を下す：軍は今すぐ、最大持続速度で動き、軍の縦隊のペースに追いつけない者は自分で何とかするよう残される。将校たちは空白な顔で命令を階級を通じて伝える——難しい命令を吸収する専門家の顔。その中の何人かは目で議論する、地元の住民と信頼関係を築くために何ヶ月も費やした者たち。あなたはその目に答えない。命令が何を意味するかを知っている。\n\n軍は整然と撤退する。山岳峠は狭いが縦隊は効率的に動き、ベテランたちが撤退の中でも規律を保つ。四日以内に漢中に戻り、軍はほぼ無傷で、物資は確保され、将校たちは再配置の準備ができていると報告する。背後の秦の中枢は静かだ。張郃は慎重に追撃して峠で引き返す。\n\nあなたが見ないのは、見るには速く動きすぎているため、あなたが去った後に三県で何が起こるかだ。魏軍はすぐに到着し、蜀漢への降伏に対する報復は迅速で典型的だ。蜀漢の大義に最も目立った形でコミットした家族——あなたの官僚に協力し、軍に物資を提供し、情報を与えた者たち——はそのために苦しむ。言葉が次の北伐に先んじて伝わる：これが蜀漢を信頼したときに起こることだ。速度を得る。戦いよりも取り戻すのが難しいものを失う。",
+        "zh-CN": "没有时间进行你本来更希望的那种谨慎撤退。你下令：大军即刻出动，以最快的持续速度行进，无法跟上军队行列节奏的人，自行设法。将领们以专业军人消化艰难命令的空白面孔，将命令传达下去。其中有几个人用眼神提出异议——那些花了数月时间与当地民众建立起信任的人。你没有回应那些眼神，你知道这道命令意味着什么。\n\n大军有序撤退，山道虽窄，纵队行进高效，老兵们即便在撤退中也保持着纪律。不到四天你便回到汉中，大军大体完整，物资有保障，将领们报告已准备好重新部署。身后的秦国腹地一片平静，张郃小心追击，在山道口折返。\n\n你所看不见的，是因为你走得太快，是你离去之后三县所发生的一切。魏军迅速抵达，对各县归降蜀汉的报复既快速又严酷。那些与蜀汉立场最为公开绑定的家族——那些曾配合你的官员、供给你的军队、向你提供情报的人——为此付出了沉重代价。这个消息将先于下次北伐传扬开去：这就是信任蜀汉的下场。你赢得了速度，却失去了比任何一场战役都更难收回的东西。"
+      },
+      "nextSceneId": "zhuge-liang-northern-228-scene-003",
+      "stateChanges": [
+        { "variable": "shuMorale", "operation": "add", "value": -15 },
+        { "variable": "strategicPosition", "operation": "add", "value": -20 },
+        { "variable": "supplySecurity", "operation": "add", "value": 20 },
+        { "variable": "officerLoyalty", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

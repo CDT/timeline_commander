@@ -1,0 +1,113 @@
+{
+  "id": "han-xiongnu-war-133bc-scene-001",
+  "scenarioId": "han-xiongnu-war-133bc",
+  "title": {
+    "en": "Setting the Trap",
+    "ja": "罠を仕掛ける",
+    "zh-CN": "布设陷阱"
+  },
+  "date": {
+    "en": "Early Summer, 133 BC — Hills surrounding Mayi, Shanxi",
+    "ja": "紀元前133年、初夏——山西省、馬邑周辺の丘",
+    "zh-CN": "公元前133年初夏——山西马邑周围山地"
+  },
+  "location": {
+    "en": "The mountain passes north of Mayi, Han frontier",
+    "ja": "馬邑北方の山の関所、漢の辺境",
+    "zh-CN": "马邑以北的山中关隘，汉朝边境"
+  },
+  "narrativePrompt": {
+    "en": "The hills north of Mayi have never held so many men. Three hundred thousand soldiers — more than the population of most cities in the empire — are distributed among the narrow valleys and forested ridgelines, crouching behind rock formations, lying flat in brush, silent as held breath. You have given strict orders: no fires after dark. No unnecessary movement. No sound. The punishment for disobedience is death.\n\nYou stand at your command position on a low ridge with a clear sightline toward the road that leads down to Mayi's north gate. Down there, somewhere beyond the dust haze of early summer, Nie Yi is playing his role. The merchant has been in Mayi for three days now. He returned to the city under the pretense of trade, won the confidence of the local administrator — and then killed him. The man's head is hanging from the north gate right now, as the agreed signal that Mayi has fallen to a supposed rebel faction willing to surrender the city to the Xiongnu.\n\nThe Chanyu took the bait. Your scouts confirmed it this morning: Junchen Chanyu has led his cavalry south through Wuzhou Fortress. The column is enormous — estimates range from eighty thousand to one hundred thousand horsemen. They are moving at a measured pace, not at a raid-gallop. They believe they are walking into a gift. A wealthy border city, offered freely. Silk. Grain. Slaves. They do not know about the three hundred thousand men waiting in the hills.\n\nYou think about the men in those hills. Many are conscripts from agricultural communities who have never fought a battle. Others are frontier veterans who have spent years watching their fellow soldiers die on border raids they were never allowed to avenge. All of them are under orders to hold position until the signal fires tell them the Chanyu's main force is inside the killing ground. The plan requires every one of them to maintain discipline for hours yet. Maybe days.\n\nThe logistical challenge has been immense. Moving three hundred thousand men to these positions without the Xiongnu's far-ranging scouts detecting them required months of planning and extraordinary security measures. Your intelligence officers arrested three merchants suspected of trading information to Xiongnu agents. You ordered strict limits on all border communications. Even Han Anguo, commanding the largest contingent, had concerns about the operation's complexity — and he was not wrong to worry.\n\nBut now the Chanyu is moving, and the question is not whether the plan was wise in conception. The question is how you execute it. Your eastern force — your personal command — is positioned to intercept the Xiongnu retreat once the main ambush is sprung. But you have a more immediate decision to make: how tightly do you coordinate the trigger point with the other army commanders?\n\nA messenger arrives, breathing hard. General Han Anguo's forces in the western pass are reporting unusual sounds from the north — possibly Xiongnu scouting patrols at closer range than anticipated. Han Anguo requests guidance: should his forces tighten their concealment posture and risk missing the trigger signal, or maintain current readiness at the cost of potential exposure?",
+    "ja": "馬邑の北の丘にこれほど多くの兵が集まったことはかつてなかった。三十万の兵士——帝国のほとんどの都市の人口を超える数——が、狭い谷間や木々に覆われた稜線に分散し、岩の陰にしゃがみ込み、茂みの中に身を潜め、息を呑むように静まり返っていた。あなたは厳命を下した：日没後は焚き火禁止。不要な動き禁止。一切の音禁止。命令違反の罰は死。\n\nあなたは馬邑の北門へと続く道をはっきりと見渡せる低い稜線の指揮所に立っている。初夏の砂埃の向こう、あの彼方で、聶壱が自分の役を演じている。あの商人は三日前から馬邑にいる。交易を装って城に入り込み、地元の行政官の信頼を勝ち取り——そして殺した。その男の首は今、北門に吊るされている。匈奴に降伏しようとする内通者一派が城を奪ったというあらかじめ決めた合図として。\n\n単于はその誘いに乗った。今朝の斥候の報告で確認された：軍臣単于は騎兵を率いて武州要塞を南下してきている。縦隊は膨大だ——八万から十万という騎馬の見積もりが出ている。彼らは強襲の疾駆ではなく、ゆっくりとした歩調で進んでいる。贈り物に歩み寄っていると信じているのだ。富裕な辺境の城が、喜んで引き渡される。絹。穀物。奴隷。丘に潜む三十万の兵士のことなど、彼らは知らない。\n\nあなたはその丘の兵士たちのことを考える。多くは一度も戦闘を経験したことのない農業コミュニティから徴集された兵だ。他の者たちは、長年にわたって辺境の急襲で仲間が死ぬのを見ながら一度も仇を討つことを許されなかった辺境の歴戦の兵だ。全員が、合図の狼煙が単于の本軍が包囲圏に入ったことを知らせるまで、位置を保持するよう命令されている。計画はその全員があと数時間——もしかしたら数日間——規律を保つことを必要としている。\n\n兵站上の課題は膨大だった。匈奴の広範囲に及ぶ斥候に察知されずにこれらの陣地へ三十万の兵を移動させるには、数ヶ月の計画立案と並外れた警備措置が必要だった。あなたの諜報担当官は匈奴の工作員に情報を売っていると疑われる商人三人を逮捕した。あなたは国境通信全般に厳格な制限を命じた。最大部隊を指揮する韓安国でさえ、作戦の複雑さについて懸念を示していた——そして彼の心配は的外れではなかった。\n\nしかし今、単于は動いており、問題は計画が構想として賢明だったかどうかではない。問題はそれをどう実行するかだ。あなたの東方の部隊——あなたの直接指揮下にある部隊——は、本隊の伏兵が発動した後、匈奴の退路を遮断するために配置されている。しかし、より差し迫った決断を下さなければならない：引き金となるタイミングを他の軍司令官たちといかに厳密に調整するかだ。\n\n息を切らした伝令が到着した。西方の関所にいる韓安国将軍の部隊から、北方で予想より近くに匈奴の偵察隊がいると思われる異常な物音が聞こえてきているという報告が届いた。韓安国は指示を求めている：合図の信号を見逃すリスクを冒しても部隊の隠蔽態勢を強化すべきか、それとも発覚の可能性を犠牲にしても現在の戦闘準備態勢を維持すべきか？",
+    "zh-CN": "马邑北侧的山岭之中，从未聚集过如此多的人。三十万将士——超过帝国大多数城市的人口——分散于狭窄的山谷和林木茂密的山脊之间，蜷伏于岩石背后，俯卧在灌木丛中，静如止息。你已下达严令：入夜后不得生火，禁止一切不必要的动作，禁止发出任何声响，违令者死。\n\n你站在指挥所所在的低矮山脊上，视野直通通往马邑北门的那条道路。在那远处的初夏尘霭之后，聂壹正在扮演好他的角色。这名商人已在马邑城中待了三天。他以经商为名潜入城内，赢得了当地县尉的信任，然后杀死了他。那人的首级此刻正悬挂在北城门上，那是预先商定的信号——城中有假称愿意将马邑献给匈奴的内应叛党。\n\n单于上钩了。今天早晨的斥候已予确认：军臣单于已率骑兵穿越武州塞向南进发。这支纵队极为庞大——估计多达八万至十万骑。他们行进从容，并非掠夺时的急速疾驰。他们以为自己正在走向一份馈礼——一座主动奉上的富庶边城：丝绸，粮食，奴隶。他们不知道山中埋伏着三十万大军在等候。\n\n你想到那些山中的士兵。许多人是从未经历过战斗的农家子弟，被征召而来；另一些则是多年来眼睁睁看着同袍死于边境劫掠却从未被允许复仇的边境老兵。所有人都奉命坚守阵位，直到烽火信号告知他们单于的主力已进入死地。整个计划要求每一个人在接下来的数个时辰乃至数日之内保持严格纪律。\n\n后勤上的挑战极为艰巨。要在不被匈奴那些游弋广远的斥候发现的情况下将三十万大军移至这些阵地，需要数月的缜密筹划和非同寻常的保密措施。你的情报官逮捕了三名涉嫌向匈奴间谍出售情报的商人，并对所有边境通讯实施严格管控。就连统率最大一路兵马的韩安国，也对行动的复杂性表达了忧虑——而他的忧虑并非没有道理。\n\n然而现在，单于已经出动，问题不再是这个计划在构思上是否明智，而是如何执行。你的东路部队——你亲自指挥的那支——已部署好位置，准备在主力伏兵发动后截断匈奴的退路。但眼下你必须先做出一个更迫切的决断：是否要与其他各路将领就发动信号的时机进行更严密的协调？\n\n一名传令兵气喘吁吁地赶来。韩安国将军驻守西侧关隘的部队报告，北方传来异常声响，可能是匈奴侦察队距离比预期更近。韩安国请求指示：是冒着错过发动信号的风险进一步加强隐蔽，还是以可能暴露为代价维持当前的战备状态？"
+  },
+  "situationReport": [
+    {
+      "en": "Junchen Chanyu's force of approximately 100,000 cavalry is confirmed moving south through Wuzhou Fortress toward Mayi",
+      "ja": "軍臣単于の約十万騎の部隊が武州要塞を経由して馬邑へと南下していることが確認されている",
+      "zh-CN": "军臣单于约十万骑兵已确认正经武州塞南下，向马邑方向运动"
+    },
+    {
+      "en": "300,000 Han troops are in position but concealment discipline is increasingly difficult to maintain as time passes",
+      "ja": "三十万の漢軍が所定の位置についているが、時間の経過とともに隠蔽の規律を維持することが難しくなっている",
+      "zh-CN": "三十万汉军已就位，但随着时间推移，维持隐蔽纪律愈发困难"
+    },
+    {
+      "en": "Nie Yi has successfully created the false surrender scenario in Mayi; the city appears ready to accept Xiongnu entry",
+      "ja": "聶壱は馬邑に偽の降伏状況を首尾よく作り出した。城は匈奴の入城を受け入れる準備ができているように見える",
+      "zh-CN": "聂壹已在马邑成功制造了假投降的场景；城池看似已准备好迎接匈奴入城"
+    },
+    {
+      "en": "General Han Anguo's western contingent reports possible Xiongnu scouting activity closer than expected — concealment may be partially compromised",
+      "ja": "韓安国将軍の西方部隊が、予想より近くに匈奴の偵察活動が及んでいる可能性を報告しており、隠蔽が部分的に危うくなっているかもしれない",
+      "zh-CN": "韩安国将军的西路部队报告，匈奴侦察活动可能比预期更近，隐蔽工作或已部分暴露"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Maintain troop concealment long enough for the Xiongnu main force to enter the killing ground",
+      "ja": "匈奴本軍が包囲圏に入るまで部隊の隠蔽を維持する",
+      "zh-CN": "维持足够长时间的部队隐蔽，等待匈奴主力进入伏击圈"
+    },
+    {
+      "en": "Coordinate timing of the ambush signal across five separate army commands without premature disclosure",
+      "ja": "事前の漏洩なしに五つの別々の軍指揮部にわたる伏兵発動の合図のタイミングを調整する",
+      "zh-CN": "在不提前泄露的情况下，协调五路大军指挥部之间的伏击发动时机"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Any premature movement by Han forces will alert Xiongnu scouts and collapse the entire operation",
+      "ja": "漢軍のいかなる早まった動きも匈奴の斥候を警戒させ、作戦全体を崩壊させるだろう",
+      "zh-CN": "汉军任何过早的行动都将惊动匈奴斥候，使整个行动功亏一篑"
+    },
+    {
+      "en": "Messenger communication between the five armies is slow; the ambush must be triggered by visible signal fires, not coordinated orders",
+      "ja": "五つの軍の間の伝令通信は遅い。伏兵発動は調整された命令ではなく、目視で確認できる狼煙によって合図されなければならない",
+      "zh-CN": "五路大军之间的信使传递速度迟缓；伏击必须由可视的烽火信号而非协调命令来触发"
+    }
+  ],
+  "choices": [
+    {
+      "id": "han-xiongnu-war-133bc-scene-001-choice-a",
+      "text": {
+        "en": "Order Han Anguo to tighten concealment at all costs, even if it means his force might miss the trigger signal and engage late",
+        "ja": "たとえ合図の信号を見逃して交戦が遅れる可能性があっても、何がなんでも隠蔽を強化するよう韓安国に命令する",
+        "zh-CN": "命令韩安国不惜一切代价加强隐蔽，即便这意味着可能错过发动信号、延迟出击"
+      },
+      "historicalContext": "Maintaining concealment was the foundation of the entire operation. Xiongnu scouts were experienced and far-ranging; any detected Han presence would abort the entire ambush before the Chanyu's main force was committed.",
+      "outcomePrompt": {
+        "en": "Han Anguo acknowledges your order and pulls his forward units back from exposed ridge positions. The western pass falls eerily quiet. For two more hours, the army holds its breath. The Xiongnu column continues south, their outriders passing within a li of Han positions without detecting anything. Your concealment order saved the trap from premature discovery — Han Anguo's forces will be slightly late to the encirclement, but the Chanyu is still walking into the killing ground.\n\nThe cost of this decision is that Han Anguo's western blocking force will close the western exit thirty minutes after the main signal. Xiongnu units on that flank will have a brief window to break out westward before the cordon closes fully. You calculate that the gap is acceptable — the bulk of the enemy force will still be caught. The critical thing was protecting the concealment until the Chanyu himself was committed too deep to escape.\n\nYou send a messenger back to Han Anguo with a precise time sequence for the engagement, spelling out exactly when his forces should emerge and in what formation. The operation is still on. The plan can still work.",
+        "ja": "韓安国はあなたの命令を受け、前線部隊を露出した稜線陣地から引き下げた。西の関所は不気味なほど静まり返った。さらに二時間、全軍が息を殺した。匈奴の縦隊は南へ進み続け、その外騎が漢の陣地から一里以内を通過しても何も察知しなかった。あなたの隠蔽命令が早まった発覚から罠を救った——韓安国の部隊は包囲網への参加が若干遅れることになるが、単于はまだ死の圈内に歩み入りつつある。\n\nこの決断の代償は、韓安国の西方遮断部隊が本隊の信号から三十分後に西側の出口を閉鎖することだ。その側面の匈奴部隊は封鎖網が完全に閉じる前に西方に脱出する短い機会を得ることになる。あなたはこの隙間は許容範囲内だと計算した——敵の主力はそれでも捕捉される。重要なのは、単于自身が深入りして逃げられなくなるまで隠蔽を守ることだった。\n\nあなたは韓安国に戻る伝令を送り、部隊がいつどのような隊形で出現すべきかを正確に記した時間順序を伝えた。作戦はまだ続いている。計画はまだ機能しうる。",
+        "zh-CN": "韩安国接到命令后，将前沿部队从暴露的山脊阵地上撤回。西侧关隘死寂得令人毛骨悚然。全军又屏住呼吸等待了整整两个时辰。匈奴纵队继续南进，其外围游骑从距汉军阵地不足一里处经过，却毫无察觉。你的隐蔽命令使陷阱免于过早暴露——韩安国的部队参与合围的时间会稍有滞后，但单于依然在向死地走来。\n\n这个决断的代价是：韩安国的西路截击部队将在主力发动信号后三十分钟才能封锁西侧出口。该翼的匈奴部队在封锁圈完全合拢之前，会有短暂的时间从西侧突围。你估算这个缺口尚在可接受范围之内——敌军主力仍将被围住。关键在于，在单于深陷无法脱身之前，务必保住隐蔽。\n\n你派信使返回韩安国处，带去一份精确的出击时序，详细说明其部队应在何时以何种阵形出动。行动仍在进行，计划依然可以成功。"
+      },
+      "nextSceneId": "han-xiongnu-war-133bc-scene-002",
+      "stateChanges": [
+        { "variable": "armyConcealment", "operation": "add", "value": 10 },
+        { "variable": "ambushReadiness", "operation": "add", "value": -5 },
+        { "variable": "xiongnutension", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "han-xiongnu-war-133bc-scene-001-choice-b",
+      "text": {
+        "en": "Order Han Anguo to maintain full combat readiness — concealment is already partially compromised; being ready to spring the trap matters more",
+        "ja": "韓安国に完全な戦闘準備態勢を維持するよう命令する——隠蔽はすでに部分的に危うくなっている。罠を発動する準備が整っていることの方が重要だ",
+        "zh-CN": "命令韩安国保持完全战备状态——隐蔽已有部分暴露，随时能发动伏击比隐蔽更重要"
+      },
+      "historicalContext": "Some Han commanders at Mayi prioritized combat readiness over absolute concealment, reasoning that a slightly alerted enemy who still entered the killing ground was better than a perfectly hidden ambush that triggered too slowly.",
+      "outcomePrompt": {
+        "en": "Han Anguo keeps his forces at full readiness. For a tense hour, nothing happens — the Xiongnu scouts seem to have moved away without conclusive detection. But the nervousness in the western contingent is palpable. Soldiers who have been lying still for days are now alert, hands on weapons, watching the ridge lines.\n\nThe tension has a cost: three soldiers in Han Anguo's forward positions shift too visibly, and a Xiongnu outrider at the edge of the valley pauses. Your scouts watching from above hold their breath. For a long moment, the outrider stares into the hillside. Then he moves on. But it was close. Too close.\n\nHan Anguo sends another message: his men spotted what appeared to be a patrol of Xiongnu riders counting the livestock in the fields below Mayi. This is unusual behavior — normally, Xiongnu scouts evaluate military positions, not economic assets. He wonders whether the absence of herders with the livestock has attracted their attention. You feel a cold premonition. If the Chanyu's scouts are counting cattle and seeing no farmers, they may already be suspicious. The question is whether the Chanyu himself will believe their report.",
+        "ja": "韓安国は部隊を完全な準備態勢に置いた。緊張した一時間、何も起こらなかった——匈奴の斥候は決定的な察知なしに立ち去ったようだった。しかし、西方部隊の不安感は明らかだ。何日も静止していた兵士たちは今、武器に手をかけ、稜線を見張りながら警戒している。\n\nその緊張には代償がある：韓安国の前線陣地にいる兵士三名が目立ちすぎる動きをし、谷の端にいた匈奴の外騎が立ち止まった。上方から見張っているあなたの斥候が息を飲む。長い瞬間、その外騎は丘の斜面を凝視した。それから去っていった。しかし、際どかった。あまりにも際どかった。\n\n韓安国からまた伝言が届いた：彼の兵士が、馬邑の下の野原で家畜を数えているように見えた匈奴騎兵の一隊を目撃した。これは異常な行動だった——通常、匈奴の斥候は軍事的な陣地を評価するのであって、経済的な資産ではない。彼は、家畜と一緒にいるはずの牧人がいないことが彼らの注意を引いたのではないかと思っている。あなたは冷たい予感を覚える。単于の斥候が牛を数えて農民を一人も見かけないなら、すでに疑いを持っているかもしれない。問題は、単于自身が彼らの報告を信じるかどうかだ。",
+        "zh-CN": "韩安国令部队保持完全战备状态。一个小时的紧张等待中，什么都没有发生——匈奴斥候似乎没有确切察觉便已离去。但西路部队中的不安情绪显而易见。已经静卧多日的士兵们如今全都警觉起来，手握兵器，注视着山脊的动静。\n\n这种紧张状态是有代价的：韩安国前沿阵地上有三名士兵动作过于明显，山谷边缘的一名匈奴外围骑手停了下来。从高处俯瞰的你的斥候屏住了呼吸。那名骑手凝视着山坡良久，然后才策马离去。但这实在是太险了。\n\n韩安国又送来一则消息：他的士兵发现，一队匈奴骑手似乎正在清点马邑城下田野里的牲畜。这是不寻常的举动——匈奴斥候通常侦察的是军事阵地，而非经济资产。他怀疑，那些牲畜旁边空无一个牧人，引起了他们的注意。你感到一阵寒意。如果单于的斥候数着牛羊、却一个农夫都没看到，他们也许已经起了疑心。问题在于，单于本人是否会相信他们的禀报。"
+      },
+      "nextSceneId": "han-xiongnu-war-133bc-scene-002",
+      "stateChanges": [
+        { "variable": "ambushReadiness", "operation": "add", "value": 10 },
+        { "variable": "armyConcealment", "operation": "add", "value": -15 },
+        { "variable": "xiongnutension", "operation": "add", "value": 15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,76 @@
+{
+  "sceneId": "scene-001",
+  "scenarioId": "srivijaya-trade-700",
+  "title": {
+    "en": "The Toll at the Strait",
+    "ja": "海峡の通行税",
+    "zh-CN": "海峡的过路税"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-002",
+  "background": {
+    "en": "682 AD. You are Dapunta Hyang Sri Jayanasa, king of Srivijaya at your capital Palembang on the Musi River. Your recent military campaigns have established control of the coastline around the southern Strait of Malacca. But a rival Malay port, Kedah on the Malay peninsula, controls the northern entrance to the strait and refuses your authority. Every month, dozens of merchant ships pass through the strait without stopping at your port, dealing instead with Kedah. Your revenues stagnate while Kedah grows rich.",
+    "ja": "682年。あなたはダプンタ・ヒャン・スリ・ジャヤナサ、ムシ川沿いの首都パレンバンにいるシュリーヴィジャヤの王だ。最近の軍事作戦がマラッカ海峡南部周辺の海岸線への支配を確立した。しかし競合するマレーの港、マレー半島のクダが海峡への北の入口を支配し、あなたの権威を拒んでいる。毎月、数十隻の商船が海峡を通過してあなたの港に立ち寄らず、代わりにクダと取引する。あなたの収入が停滞する一方でクダは富を蓄えている。",
+    "zh-CN": "公元682年。你是邓宝旁·哈杨·斯里·贾亚纳萨，室利佛逝国王，驻于穆西河畔的都城巨港。近期的军事行动已确立了对马六甲海峡南部沿岸的控制。但竞争对手马来港口、马来半岛的吉打控制着海峡北部入口，拒绝承认你的权威。每个月，数十艘商船穿越海峡而不停靠你的港口，转而与吉打进行交易。你的收入停滞不前，而吉打却日益富裕。"
+  },
+  "prompt": {
+    "en": "You must deal with Kedah. A military expedition could take the port by force — you have the ships. But destroying a rival trading port is counterproductive; the merchants who trade there would scatter to other routes. Alternatively, you could make your own port so attractive that Kedah's merchants defect to you voluntarily. Or you could simply block the northern strait approach and force all ships to route through your territory.",
+    "ja": "クダに対処しなければならない。軍事遠征が力でその港を攻略できる——艦隊はある。しかし競合する貿易港を破壊することは逆効果だ；そこで取引している商人たちは他のルートに散らばるだろう。あるいは自分の港を非常に魅力的にして、クダの商人が自発的にあなたのところに移ってくるようにすることもできる。または単純に海峡北部への入口を封鎖して、すべての船をあなたの領土を経由するルートに強制することもできる。",
+    "zh-CN": "你必须对付吉打。军事远征可以强行攻取那座港口——你有足够的船只。但摧毁一个竞争对手的贸易港口适得其反；在那里交易的商人们会散往其他航线。或者你可以将自己的港口打造得极具吸引力，让吉打的商人自愿投向你。抑或你可以直接封锁海峡北部入口，迫使所有船只取道你的领土。"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Outcompete Kedah — make Palembang the better port",
+        "ja": "クダを凌駕する——パレンバンをより良い港にする",
+        "zh-CN": "在竞争中胜过吉打——将巨港打造成更优质的港口"
+      },
+      "description": {
+        "en": "Invest in making Palembang superior: build warehousing facilities, reduce port duties below Kedah's rates, establish a Buddhist rest house and monastery for travelling monks (who will spread word of your generosity), and hire experienced pilots who know the local waters to guide arriving ships. If merchants choose you voluntarily, you gain their loyalty, not just their tolls.",
+        "ja": "パレンバンを優れた港にするために投資する：倉庫施設を建設し、港の関税をクダの税率以下に下げ、旅する僧のための仏教宿泊所と寺院を設立し（彼らがあなたの寛大さの噂を広める）、到着する船を案内するために地元の水域を知る経験豊富な水先案内人を雇う。商人が自発的にあなたを選ぶなら、通行税だけでなく彼らの忠誠心を得る。",
+        "zh-CN": "投资将巨港打造成更优质的港口：建设仓储设施，将港口税率降至吉打以下，为过往僧侣建立佛教驿站和寺院（他们将广传你的慷慨之名），并聘请熟悉当地水域的经验丰富的领航员引导来港船只。若商人自愿选择你，你赢得的将不只是过路税，更是他们的忠诚。"
+      },
+      "outcome": {
+        "en": "Within five years, Palembang becomes the preferred stop for China-India trade. Your lower duties and superior services attract the majority of passing traffic. Kedah still operates, but as a secondary port. The Chinese monk Yijing's glowing description of Palembang — published on his return home — accelerates this shift. You have built economic dominance that is harder to dislodge than military conquest.",
+        "ja": "五年以内に、パレンバンが中国・インド貿易の好まれる寄港地となる。低い関税と優れたサービスが通過する交通の大部分を引きつける。クダはまだ営業しているが、二次的な港として。帰国後に発表された中国人僧義浄のパレンバンへの絶賛の描写がこの変化を加速する。軍事征服よりも除去するのが難しい経済的支配を築いた。",
+        "zh-CN": "五年之内，巨港成为中印贸易的首选停靠港。较低的税率和优质的服务吸引了大多数过往船只。吉打仍在运营，但沦为次要港口。中国僧人义净回国后发表的对巨港的赞美之辞加速了这一转变。你建立的经济主导地位比军事征服更难以撼动。"
+      },
+      "stateChanges": [
+        { "variable": "tradeRevenue", "operation": "add", "value": 20 },
+        { "variable": "diplomaticPrestige", "operation": "add", "value": 20 },
+        { "variable": "buddhistNetwork", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Naval blockade — control the strait by force",
+        "ja": "海軍封鎖——力で海峡を支配する",
+        "zh-CN": "海军封锁——以武力控制海峡"
+      },
+      "description": {
+        "en": "Deploy your war fleet to patrol the northern strait approach. Any merchant ship that attempts to reach Kedah without first stopping at Palembang is intercepted and turned back — or, if they resist, their cargo is confiscated. Post your fastest vessels at the chokepoint and make it impossible to bypass your port. What cannot be competed away can be controlled.",
+        "ja": "戦闘艦隊を配備して海峡北部への入口を哨戒する。まずパレンバンに立ち寄ることなくクダに到達しようとする商船は迎撃して引き返させる——あるいは抵抗するなら、積荷を没収する。最速の船をチョークポイントに配備して、あなたの港を迂回することを不可能にする。競争で勝ち取れないものは、支配することができる。",
+        "zh-CN": "部署战舰巡逻海峡北部入口。任何试图不先停靠巨港便抵达吉打的商船均被拦截并遣返——若有抵抗，则没收其货物。将最快的战船部署在咽喉要道，使绕过你的港口成为不可能。竞争无法赢得的，可以用控制来获取。"
+      },
+      "outcome": {
+        "en": "The blockade is effective in the short term — Palembang's port revenues jump immediately. But several Indian Ocean merchant communities begin routing their ships around Sumatra's western coast to avoid you, adding weeks to their journey. The Arab merchant network sends formal complaints to the Tang court. You gain control of the strait but damage the trading relationships that made the strait valuable.",
+        "ja": "封鎖は短期的には効果的だ——パレンバンの港の収入がすぐに跳ね上がる。しかし、いくつかのインド洋の商人共同体が、あなたを避けるためにスマトラの西海岸を回るルートで船を走らせ始め、彼らの旅に何週間も加算される。アラブ商人ネットワークが唐の宮廷に公式の抗議を送る。海峡の支配を得るが、海峡を価値あるものにした取引関係を損なう。",
+        "zh-CN": "封锁在短期内颇为有效——巨港的港口收入立即大幅增加。但一些印度洋商人社群开始绕行苏门答腊西海岸以避开你，在行程上多花了数周。阿拉伯商人网络向唐朝朝廷提出正式抗议。你获得了对海峡的控制，但损害了使海峡具有价值的贸易关系。"
+      },
+      "stateChanges": [
+        { "variable": "straitControl", "operation": "add", "value": 25 },
+        { "variable": "tradeRevenue", "operation": "add", "value": 10 },
+        { "variable": "diplomaticPrestige", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "initialState": {
+    "tradeRevenue": 40,
+    "navalStrength": 50,
+    "diplomaticPrestige": 35,
+    "straitControl": 30,
+    "buddhistNetwork": 45
+  }
+}

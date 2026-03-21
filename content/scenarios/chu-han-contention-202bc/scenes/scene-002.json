@@ -1,0 +1,115 @@
+{
+  "id": "chu-han-contention-202bc-scene-002",
+  "scenarioId": "chu-han-contention-202bc",
+  "title": {
+    "en": "The Pursuit South",
+    "ja": "南への追跡",
+    "zh-CN": "南逃追击"
+  },
+  "date": {
+    "en": "202 BC, between Gaixia and the Wu River",
+    "ja": "紀元前202年、垓下と烏江の間",
+    "zh-CN": "公元前202年，垓下至乌江途中"
+  },
+  "location": {
+    "en": "The Road South, Anhui Region",
+    "ja": "南への道、淮南地域",
+    "zh-CN": "南行途中，淮南一带"
+  },
+  "narrativePrompt": {
+    "en": "You have broken through. That part is done. But what comes next is proving to be its own kind of catastrophe, unfolding more slowly than the battle but no less definitively.\n\nThe force that escaped Gaixia with you was somewhere between 800 and 1,000 cavalry — the best riders, the most loyal men, the ones who would follow you through the encirclement regardless of the odds. By the time you reached Yinling, trying to navigate south toward the Yangtze, a local guide misdirected you — deliberately or through ignorance, you cannot be certain — into a swamp that cost you time and scattered part of your force. When you fought your way back to open ground, you had fewer than 300 cavalry remaining.\n\nThe Han pursuit has been relentless. Liu Bang committed cavalry forces specifically to chase you down, and they are competent — they cannot match your best riders man for man, but they have fresh horses and they know the territory, and they have been steadily closing the distance. The gap between your rear guard and their advance riders is measured now in hours, not days.\n\nThe men with you are not afraid. That is perhaps the most remarkable thing. They are exhausted — many have not properly slept in two days — and they know the situation as clearly as you do, and they choose to ride with you anyway. That loyalty still has weight, even now.\n\nYou have stopped at a crossroads to rest the horses and gather intelligence. A local farmer, approached by one of your scouts, reports that the Wu River — the Yangtze crossing point you are trying to reach — is approximately two hours south. There is a ferry there. The ferryman, reportedly, has been waiting with his boat specifically for you, having heard that the hegemon was driven south and might seek passage.\n\nThe question that arrives with this intelligence is one you have been turning over since Gaixia: what does the river actually offer? You came from east of the Yangtze. Your people, your soldiers, your former subjects — they are south of the river. The river offers safety, distance from pursuit, and the possibility of regrouping in territory where you have supporters. It also offers something that you are not certain you want: survival as a diminished man in a diminished cause, in a territory that grows smaller and weaker every year while Liu Bang consolidates the north.\n\nAlternatively, the two to three hundred men riding with you are not enough to turn the tide of a war. But they might be enough for one more battle. The Han pursuit force is perhaps 5,000 cavalry. You have faced worse odds. If you turn and fight here, rather than running for the river, you will almost certainly die — but you will die as Xiang Yu of Chu has always died when he had to, which is to say face forward with a sword in his hand, and that is not nothing.\n\nThe horses are rested enough. The decision must be made.",
+    "ja": "突破した。その部分は終わった。しかし次に来ることは独自の種類の惨事であることが証明されており、戦闘より遅く展開しているが決定性は同じだ。\n\n垓下を脱出した部隊はどこかで800〜1,000の騎兵だった——最良の騎手、最も忠実な男たち、確率に関係なく包囲を抜けてあなたについてくる者たち。陰陵に到達しようとしたとき、揚子江へ向けて南に進もうとして、地元の案内人があなたを——意図的か無知かは確認できない——沼地へと誤誘導し、時間を失い部隊の一部を散乱させた。開けた地に戻ったとき、騎兵は300以下になっていた。\n\n漢の追撃は執拗だ。劉邦はあなたを追い詰めるために特別に騎兵部隊を投入した。彼らは有能だ——一対一ではあなたの最良の騎手に匹敵しないが、新鮮な馬を持ち領土を知っており、着実に距離を縮めている。あなたの殿軍と彼らの先行騎手の間のギャップは今、日ではなく時間で測られる。\n\nともにいる男たちは恐れていない。それがおそらく最も注目すべきことだ。疲弊している——多くは二日間まともに眠っていない——そして状況をあなたと同じくらい明確に知っており、それでもあなたとともに騎馬することを選ぶ。その忠誠心はまだ重みを持っている、今でさえ。\n\n馬を休ませ情報を集めるために交差点に停まっている。あなたの斥候の一人によって接触された地元の農夫が、烏江——あなたが目指している揚子江の渡し場——がおよそ二時間南にあると報告する。そこに渡し船がある。船頭は、覇王が南に追われて渡しを求めるかもしれないと聞いて、特別にあなたのために舟で待っているという。\n\nこの情報とともに到着する問いは、垓下以来ずっと考えてきたことだ：川は実際に何を提供するのか？あなたは揚子江の東から来た。あなたの民、兵士、元臣民——彼らは川の南にいる。川は安全と、追撃からの距離と、支持者がいる領域での再編の可能性を提供する。また、あなたが欲しいかどうか確信が持てないものも提供する：縮小した大義の中の縮小した人物としての生存、劉邦が北を固める毎年より小さく弱くなっていく領域での。\n\nあるいは、ともに乗る二〜三百人は戦争の潮流を変えるには不十分だ。しかし一戦には十分かもしれない。漢の追撃部隊はおそらく5,000の騎兵だ。あなたはより悪い確率に直面してきた。ここで川に向かって逃げるのではなく向き直って戦えば、ほぼ確実に死ぬ——しかし楚の項羽が死なねばならなかったときにいつも死んできたように死ぬ。つまり前向きに、手に剣を持って。それは無意味ではない。\n\n馬は十分に休んだ。決断しなければならない。",
+    "zh-CN": "你突围了。那一关算是过了。但接下来发生的事，正在以另一种形式演变成一场灾难，展开得比战斗慢，但同样无可挽回。\n\n从垓下逃出的部队，大约是八百到一千骑——最好的骑手，最忠诚的人，无论胜算几何都愿意随你穿越包围圈的那些人。当你向南试图抵达长江、途经阴陵时，一个当地向导——不知是有意还是无知——将你引入了沼泽，白白耗费了时间，还令部分兵力走散。等你重新杀回开阔地带，骑兵已不足三百。\n\n汉军的追击毫不停歇。刘邦专门调派骑兵部队来追拿你，这些人颇有能耐——单对单无法与你的精锐骑士相比，但他们的马是新鲜的，他们熟悉地形，而且一路在稳步缩小差距。你的后卫与他们先头骑手之间的距离，如今用的是时辰而不是天数来衡量。\n\n跟着你的人并不惧怕。这或许是最令人动容之事。他们疲惫至极——许多人两天内没有好好睡过——他们和你一样清楚眼下的处境，却依然选择跟着你策马而行。这份忠诚，哪怕到了这一刻，依然有着它的分量。\n\n你在一处岔路口停下，让马歇息，打探消息。你的一名斥候接触到一位当地农夫，他说乌江——你正要去的那个长江渡口——向南约两个时辰处。那里有渡船。据说船家已得知霸王被迫南逃、或会寻求过江，特意在那里等候。\n\n这个消息随之带来的问题，是你从垓下出来就一直在心里翻来覆去的：那条江究竟能给你什么？你本是从长江以东而来。你的子民、你的士兵、你昔日的臣属——他们都在江南。江给你安全，给你离追兵更远的距离，给你在支持者所在之地重整的可能。但它也给你一样你不确定自己想要的东西：在一个日渐萎缩的土地上，以一个缩水了的人的身份，延续一场已无可能的大业——而与此同时，刘邦正在北方年复一年地巩固他的统治。\n\n另一方面，跟着你的这两三百人，不足以扭转战争的大局。但也许够打最后一仗了。汉军追兵大约有五千骑。你曾经面对过更坏的处境。如果你在这里回身一战，而不是奔向江边，你几乎必死无疑——但你死得像楚霸王项羽该有的死法，就是说面朝前方，手握剑柄。那并非毫无意义。\n\n马已歇够了，这个决定必须做出。"
+  },
+  "situationReport": [
+    {
+      "en": "Remaining Chu force: approximately 200-300 cavalry, exhausted but loyal. All are experienced veterans who have served since the beginning of the Chu-Han conflict.",
+      "ja": "楚の残存部隊：おおよそ200〜300の騎兵、疲弊しているが忠実。全員が楚漢戦争の始まりから仕えてきた経験豊かな老兵だ。",
+      "zh-CN": "楚军残部：约两三百骑，疲惫而忠诚，均为楚汉相争以来便追随左右的老兵。"
+    },
+    {
+      "en": "Han pursuit force: approximately 5,000 cavalry under Guan Ying, closing distance steadily. Estimated 2-3 hours behind at current speeds.",
+      "ja": "漢の追撃部隊：灌嬰指揮下のおよそ5,000の騎兵、着実に距離を縮めている。現在の速度で2〜3時間後方に推定。",
+      "zh-CN": "汉军追兵：灌婴率领约五千骑兵，正在稳步缩短距离，以当前速度估计落后两三个时辰。"
+    },
+    {
+      "en": "The Wu River ferry: a waiting boat capable of transporting a small number of people across the Yangtze to relative safety in eastern Chu territory. The ferryman is reportedly loyal to Xiang Yu.",
+      "ja": "烏江の渡し船：相対的な安全のある揚子江東岸の楚の領域への渡河のために少人数を輸送できる待機中の船。船頭は項羽に忠実と伝えられる。",
+      "zh-CN": "乌江渡船：一条等候着的船，可搭载少数人渡过长江，抵达相对安全的江东楚地。据说船夫对项羽忠心耿耿。"
+    },
+    {
+      "en": "Yu Ji's fate: Xiang Yu's concubine did not make it through the breakout with the cavalry. Her fate is unknown, though the historical record suggests she died rather than be captured.",
+      "ja": "虞姬の運命：項羽の愛妾は騎兵とともに脱出を果たせなかった。歴史的な記録は捕虜になるよりも死んだことを示唆しているが、彼女の運命は不明だ。",
+      "zh-CN": "虞姬的命运：项羽的爱姬未能随骑兵冲出包围。她的下落不明，历史记载暗示她宁死而不受俘。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Reach the Yangtze and determine whether to cross to safety or make a final stand",
+      "ja": "揚子江に到達し、安全のために渡るか最後の一戦を行うかを決める",
+      "zh-CN": "抵达长江，决定是否渡江保命，抑或在此做最后的抵抗"
+    },
+    {
+      "en": "Preserve some possibility of the Chu cause, whether through survival and future action or through a death that carries its own meaning",
+      "ja": "生存と将来の行動を通じてか、あるいはそれ自体に意味を持つ死を通じてかに関わらず、楚の大義のいくらかの可能性を保全する",
+      "zh-CN": "以某种方式维系楚国大义的可能——无论是通过活下去、他日再起，还是通过一种本身便有意义的死"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Two to three hundred cavalry cannot win a conventional battle against 5,000 Han pursuers — survival in open combat requires a miracle",
+      "ja": "二〜三百の騎兵では5,000の漢の追撃隊に対して通常の戦闘に勝てない——開けた戦闘での生存は奇跡を必要とする",
+      "zh-CN": "两三百骑在阵地交战中无法战胜五千汉军追兵——开阔地作战的生存需要奇迹"
+    },
+    {
+      "en": "Crossing the Yangtze abandons the identity of Xiang Yu as the Hegemon-King of Western Chu — what remains across the river may be too small a base to rebuild from",
+      "ja": "揚子江を渡ることは西楚の覇王としての項羽のアイデンティティを捨てることになる——川の向こうに残るものは再建するには基盤が小さすぎるかもしれない",
+      "zh-CN": "渡过长江意味着放弃项羽作为西楚霸王的身份认同——江对岸剩余的基础可能太过薄弱，难以东山再起"
+    }
+  ],
+  "choices": [
+    {
+      "id": "chu-han-contention-202bc-scene-002-choice-a",
+      "text": {
+        "en": "Press south to the Wu River and cross to safety — reach the ferry and put the Yangtze between yourself and the Han pursuit",
+        "ja": "南の烏江に向かい、安全のために渡る——渡し船に到達し、揚子江を自分と漢の追撃隊の間に置く",
+        "zh-CN": "南下直奔乌江渡江保命——找到渡船，以长江阻隔自己与汉军追兵"
+      },
+      "historicalContext": "In historical accounts, Xiang Yu reached the Wu River but chose not to cross — the counterfactual explored in the next scene. The ferryman offered passage but Xiang Yu reportedly refused, citing shame at returning to Jiangdong having lost his followers.",
+      "outcomePrompt": {
+        "en": "You ride hard for the river. The men with you keep pace without complaint — they know what you are doing and they are willing. The terrain south of Yinling is difficult but not impassable, and you have spent enough time in this region to know the paths that avoid the worst ground.\n\nThe Han pursuit is behind you. You can hear it — or think you can hear it, which at this point amounts to the same thing. But you are faster. The horses you have are among the finest in the world, selected personally over years of campaign, and they carry you south as if they understand what is at stake.\n\nThe river appears in the late morning light, gray and wide and indifferent. The ferryman is there, as reported — an old man with a flat-bottomed boat, who takes one look at you and the remaining riders and nods without a word. He knows who you are. He has been waiting.\n\nYou reach the river. You stand at its edge with your remaining men behind you and the Han cavalry somewhere behind them, and you look at the boat and at the water and at the south bank, which is your home territory, where there are people who will shelter you and give you horses and where the work of rebuilding what was lost might possibly begin. And then you make your decision about whether to step into the boat.",
+        "ja": "川に向かって馬を駆る。ともにいる男たちは文句なしに同じ速度を保つ——あなたが何をしているかを知っており、従う意志がある。陰陵の南の地形は困難だが通過不可能ではなく、あなたはこの地域で最悪の地面を避ける道を知るのに十分な時間を費やしてきた。\n\n漢の追撃は後方にある。聞こえる——あるいは聞こえると思う。この時点ではそれは同じことだ。しかしあなたの方が速い。持っている馬は世界で最も優れたものの一つで、何年もの戦役で個人的に選ばれ、まるで何が賭かっているかを理解しているかのようにあなたを南に運ぶ。\n\n川は遅い朝の光の中に現れる。灰色で、広く、無関心だ。船頭はそこにいる、報告通りに——平底の船を持つ老人で、あなたと残りの騎手を一目見て、無言で頷く。彼はあなたが誰かを知っている。待っていた。\n\n川に到達する。後方に残った男たちを従え、さらにその後方のどこかに漢の騎兵を背にして川のほとりに立ち、船を見て、水を見て、南岸を見る。それはあなたの故郷の土地で、あなたを匿い馬を与える人々がいて、失われたものを再建する仕事がひょっとして始まることができるかもしれない。そして舟に踏み入るかどうかの決断を下す。",
+        "zh-CN": "你策马向江边疾奔。跟着你的人毫无怨言地保持着同样的速度——他们知道你在做什么，他们愿意跟随。阴陵以南的地形难行但并非无路可走，你在这片地区待得够久，知道哪条路能绕开最糟糕的地面。\n\n汉军追兵在身后。你似乎听见了他们——或者以为听见了，而到了这一步，这两者已经没有分别。但你更快。你骑的马是世上最好的马之一，经年征战中亲手选定，驮着你一路向南，仿佛它们也明白这意味着什么。\n\n那条江出现在上午偏晚的阳光中，灰色的、宽阔的、漠然的。船夫就在那里，正如探报所说——一个撑着平底渡船的老人，见到你和剩下的骑手，无声地点了点头。他知道你是谁，他一直在等。\n\n你抵达了江边。你站在水边，身后是残余的士兵，更远处的身后某处是汉军骑兵。你看着那条船，看着江水，看着南岸——那是你的故土，那里有人会收留你，给你马匹，或许可以开始重建已经失去的一切。然后你做出决定，要不要踏上那条船。"
+      },
+      "nextSceneId": "chu-han-contention-202bc-scene-003",
+      "stateChanges": [
+        { "variable": "escapeRoute", "operation": "add", "value": 25 },
+        { "variable": "troopStrength", "operation": "add", "value": 5 },
+        { "variable": "heroicResolve", "operation": "add", "value": -5 },
+        { "variable": "chuMorale", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "chu-han-contention-202bc-scene-002-choice-b",
+      "text": {
+        "en": "Turn and fight — choose a defensible position and make a final stand against the Han pursuit force rather than fleeing further south",
+        "ja": "向き直って戦う——それ以上南に逃げるのではなく、防衛可能な陣地を選び、漢の追撃部隊に対して最後の抵抗を行う",
+        "zh-CN": "回身一战——选择一处可守之地，对漢军追兵做最后一搏，而不是继续向南逃亡"
+      },
+      "historicalContext": "The partial counterfactual — Xiang Yu did fight a series of running engagements during the pursuit, killing Han soldiers even while retreating. Making a full stand rather than reaching the river represents the most extreme version of the fighting-rather-than-fleeing choice.",
+      "outcomePrompt": {
+        "en": "You find a hill with enough slope to channel the Han cavalry into narrower fronts, and you turn your horses to face south and wait for them to come.\n\nThey come within the hour. Five thousand against your two or three hundred — numbers that in any normal accounting would take less than an hour to resolve in one direction. But the men with you are not normal soldiers and this is not a normal engagement. The Han cavalry advance in good order and hit your position at the base of the hill with their full weight.\n\nWhat happens next is the kind of thing that gets recorded in chronicles and debated by military scholars for centuries, not because it was decisive but because of what it was. Two hundred and some cavalry holding a hillside against five thousand. How many Han soldiers fall in the first hour — and there are Han soldiers who fall, more than should be possible — is a question the chronicles will not agree on. What they agree on is that Xiang Yu himself fought in the front ranks throughout, that his personal count of Han soldiers killed was extraordinary by any standard, and that the outcome was not in doubt from the beginning, only the duration.\n\nThe river is behind you. You will not reach it today. Whether that is the choice you wanted to make has become, in the last hour, irrelevant.",
+        "ja": "漢の騎兵をより狭い前面に導くのに十分な斜面を持つ丘を見つけ、南に向けて馬を向け彼らが来るのを待つ。\n\n一時間以内に来る。あなたの二〜三百に対して五千——どんな通常の計算でも一時間以内に一方向に解決するはずの数字。しかしあなたとともにいる男たちは通常の兵士ではなく、これは通常の交戦ではない。漢の騎兵は整然と前進し、全力で丘の麓のあなたの陣地を打つ。\n\n次に起きることは、何世紀にもわたって年代記に記録され軍事学者たちに議論される種類のことだ。決定的だったからではなく、それが何であったかのために。二百数十の騎兵が五千に対して斜面を保持する。最初の一時間に何人の漢兵が倒れるか——倒れる漢兵がいて、可能であるべき以上に多い——は年代記が同意しない問いだ。彼らが同意するのは、項羽自身が終始最前線で戦ったこと、彼が倒した漢兵の個人的な数はいかなる基準でも驚異的だったこと、そして結果は最初から疑いなかったこと、ただ期間だけが不明だったことだ。\n\n川はあなたの後方にある。今日はそこに到達しない。それがあなたが下したかった選択かどうかは、最後の一時間で無関係になった。",
+        "zh-CN": "你找到一座山丘，坡势足以将汉军骑兵压缩成更窄的进攻正面，你掉转马头面朝南方，等候他们到来。\n\n不到一个时辰，他们来了。五千对你的两三百——按任何正常的计算，不到一个时辰便能决出胜负。但与你同行的这些人不是普通士兵，而这也不是一场普通的交战。汉军骑兵整列前进，以全部力量冲向山脚你的阵地。\n\n接下来发生的事，是那种会被史书记载、被军事学者争论数百年的情形——不是因为它决定了什么，而是因为它本身是什么。两百余骑据守山坡，对阵五千。头一个时辰汉兵倒下了多少——确实有汉兵倒下，多得超出了应有的可能——是各家史书无法统一的问题。但他们都同意的是：项羽自始至终亲战于前阵，他个人击毙汉兵的数字以任何标准衡量都令人惊叹，而结局从一开始就不容置疑，有争议的只是它会拖延多久。\n\n那条江在你身后。你今日到达不了了。这是否是你想要做出的选择，在最后这个时辰里，已经无关紧要。"
+      },
+      "nextSceneId": "chu-han-contention-202bc-scene-003",
+      "stateChanges": [
+        { "variable": "heroicResolve", "operation": "add", "value": 20 },
+        { "variable": "troopStrength", "operation": "add", "value": -15 },
+        { "variable": "escapeRoute", "operation": "add", "value": -20 },
+        { "variable": "hanMorale", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

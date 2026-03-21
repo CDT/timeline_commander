@@ -1,0 +1,113 @@
+{
+  "id": "chandragupta-maurya-322bc-scene-002",
+  "scenarioId": "chandragupta-maurya-322bc",
+  "title": {
+    "en": "Alliance with the Mountain Tribes",
+    "ja": "山岳部族との同盟",
+    "zh-CN": "与山地部落的联盟"
+  },
+  "date": {
+    "en": "321 BC — the foothills northwest of Pataliputra",
+    "ja": "紀元前321年——パータリプトラ北西の山麓",
+    "zh-CN": "公元前321年——华氏城西北山麓地带"
+  },
+  "location": {
+    "en": "The Himalayan foothills, northwestern frontier",
+    "ja": "北西辺境のヒマラヤ山麓",
+    "zh-CN": "西北边境喜马拉雅山麓地带"
+  },
+  "narrativePrompt": {
+    "en": "The chief arrives at your camp with forty warriors behind him, and you can see immediately that this man does not bend. He is older than you expected — gray in his beard, heavy-shouldered, with the particular quality of stillness that comes only to men who have killed many times and are not troubled by the memory. His name is Parvataka, and he rules the mountain federation that sits astride the road north from Pataliputra.\n\nChanakya has been cultivating this meeting for six months. The hill tribes — the Shakas, the Kambojas, the assorted mountain peoples who owe no allegiance to any lowland king — control the critical mountain passes and can field eight thousand warriors who fight in conditions that destroy lowland armies. They have suffered under Nanda taxation like everyone else, except that unlike the plains farmers they have the terrain to resist, and so they have resisted, and so the Nanda collectors stopped coming, and so now they are simply independent and intend to stay that way.\n\nParvataka wants three things: territory to the east once the Nanda are gone. No Mauryan tax collectors in his mountain provinces. And the right to send his second son as a hostage to your court — which is in fact a compliment, a way of establishing permanent diplomatic connection.\n\nChanakya has briefed you on each of these demands. The territory he believes you can afford to give. The tax exemption is temporary — you can revisit it in a generation. The hostage arrangement is standard and fine. There is one additional demand Parvataka has not yet raised but which Chanakya suspects is coming: a royal marriage. His daughter, your court.\n\nYou study the chief across the fire and consider what you are willing to promise and what you are not.",
+    "ja": "族長は40人の戦士を引き連れてあなたの野営地に到着し、あなたはすぐにこの男が頭を下げない人物だとわかる。予想より年上だ——顎髭に白いものが混じり、肩幅が広く、何度も人を殺してきたがその記憶に悩まされないことで初めて身につく特別な静けさを持っている。彼の名はパルヴァタカ、パータリプトラから北への道に跨る山岳連邦を統べる。\n\nチャナキャはこの会合を六ヶ月かけて整えてきた。山岳部族たち——シャカ族、カンボジャ族、いかなる低地の王にも忠誠を誓わない様々な山の民——は重要な山の峠を支配し、低地の軍を壊滅させる条件下で戦える八千人の戦士を動員できる。彼らも他と同様にナンダの課税に苦しんできたが、平野の農民と違って抵抗できる地形があり、だから抵抗してきた。それでナンダの徴税官は来なくなり、今では単純に独立を維持するつもりでいる。\n\nパルヴァタカが求めるのは三つ：ナンダが滅んだ後の東の領土。彼の山岳州へのマウリヤの徴税官を入れないこと。そして二男をあなたの宮廷に人質として送る権利——これは実は称賛であり、永続的な外交的結びつきを確立する方法だ。\n\nチャナキャはこれらの要求それぞれについてあなたに事前説明をしている。領土は渡せると彼は考える。税の免除は一時的なものだ——一世代後に見直せる。人質の取り決めは標準的で問題ない。パルヴァタカがまだ持ち出していないが、チャナキャが来ると踏んでいるもう一つの要求がある：王族の婚姻だ。彼の娘、あなたの宮廷へ。\n\nあなたは焚き火越しに族長を観察し、約束できるものとできないものを考える。",
+    "zh-CN": "酋长带着四十名战士来到你的营地，你立刻看出这个男人不会弯腰低头。他比你预想的更年长——胡须中夹杂着灰白，双肩宽阔，带着那种只有经历过无数次杀戮却不受记忆困扰的人才会具备的特殊静定。他叫帕尔瓦塔卡，统治着横亘在华氏城向北道路上的山地联邦。\n\n考底利耶为这次会面筹划了六个月。山地部落——夏卡族、剑浮沙族、各种不对任何平原王国效忠的山民——控制着关键的山口，能够出动八千名战士，在令平原军队溃不成军的条件下作战。他们和所有人一样饱受难陀赋税之苦，只是不同于平原农民，他们拥有可以抵抗的地形优势，于是他们抵抗了，难陀的税吏便停止前来，如今他们只是保持独立，并打算继续如此。\n\n帕尔瓦塔卡有三个要求：难陀灭亡后东部的领土。他的山地省份不允许孔雀税吏进入。以及将次子作为人质送往你的宫廷的权利——这实际上是一种荣誉，是建立永久外交联系的方式。\n\n考底利耶已就每一项要求向你做了预先说明。领土他认为你可以割让。税收豁免是暂时性的——一代人之后可以重新商议。人质安排是惯例，没有问题。还有一项帕尔瓦塔卡尚未提出但考底利耶估计即将提出的要求：王室联姻。他的女儿，送入你的宫廷。\n\n你隔着篝火打量这位酋长，盘算着自己愿意承诺什么，又不愿意承诺什么。"
+  },
+  "situationReport": [
+    {
+      "en": "Parvataka commands approximately 8,000 mountain warriors, highly skilled in guerrilla tactics, ambush, and fighting in rough terrain. Their addition to your force would significantly alter the military balance against the Nanda.",
+      "ja": "パルヴァタカはゲリラ戦術・待ち伏せ・険しい地形での戦闘に秀でた山岳戦士約8,000人を率いる。彼らをあなたの軍に加えれば、ナンダに対する軍事力の均衡を大きく変えるだろう。",
+      "zh-CN": "帕尔瓦塔卡统率约八千名山地战士，擅长游击战术、伏击和在险峻地形中作战。将他们纳入你的力量将大幅改变与难陀之间的军事力量对比。"
+    },
+    {
+      "en": "Chanakya advises accepting the alliance with territorial and tax concessions. He argues that the concessions can be renegotiated from strength after victory and that winning without the tribes will take years longer and cost far more.",
+      "ja": "チャナキャは領土と税の譲歩を伴う同盟を受け入れるよう助言する。譲歩は勝利後に強い立場から再交渉できるものであり、部族なしで勝つにはさらに何年もかかり、はるかに多くの代償を払うことになると主張する。",
+      "zh-CN": "考底利耶建议以领土和税收让步为条件接受联盟。他认为这些让步可以在胜利后从有利地位重新谈判，而且不借助部落力量取胜将多花数年时间，代价也将大得多。"
+    },
+    {
+      "en": "Alternative: you could rely on your current forces plus levies from the territories you have already taken. This avoids territorial concessions but means a slower campaign and greater risk of the Nandas consolidating their defenses.",
+      "ja": "代替案：あなたはすでに占領した領土からの徴兵を加えた現在の兵力に頼ることができる。これは領土の譲歩を避けられるが、遠征が遅くなり、ナンダが防御を固めるリスクが高まる。",
+      "zh-CN": "替代方案：依靠你目前的力量加上已占领领土的征兵。这样可以避免领土让步，但战役推进将更为缓慢，难陀有机会巩固防御的风险也更大。"
+    },
+    {
+      "en": "Parvataka has extensive knowledge of the Nanda court through his own spy networks and has offered to share this intelligence as part of the alliance — information that Chanakya considers potentially decisive.",
+      "ja": "パルヴァタカは自身の諜報網を通じてナンダ宮廷について広範な知識を持っており、同盟の一環としてこの情報を共有することを申し出ている——チャナキャが決定的になり得ると考える情報だ。",
+      "zh-CN": "帕尔瓦塔卡通过自己的谍报网络掌握着大量关于难陀宫廷的情报，并已提出将其作为联盟的一部分予以共享——考底利耶认为这些情报可能具有决定性作用。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure the military alliance with Parvataka's mountain tribes if the terms are acceptable",
+      "ja": "条件が受け入れられるならパルヴァタカの山岳部族との軍事同盟を確保する",
+      "zh-CN": "若条件可以接受，则确保与帕尔瓦塔卡山地部落的军事联盟"
+    },
+    {
+      "en": "Negotiate terms that do not permanently compromise the integrity of the future Mauryan Empire",
+      "ja": "将来のマウリヤ帝国の完全性を永続的に損なわない条件を交渉する",
+      "zh-CN": "谈判出不会永久损害未来孔雀帝国完整性的条件"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Parvataka knows his military value and will not accept insulting terms — he must be treated as an equal partner",
+      "ja": "パルヴァタカは自分の軍事的価値を知っており、侮辱的な条件を受け入れないだろう——彼は対等なパートナーとして扱われなければならない",
+      "zh-CN": "帕尔瓦塔卡深知自己的军事价值，不会接受侮辱性条件——他必须被当作平等伙伴对待"
+    },
+    {
+      "en": "Any territorial concessions you make now will complicate governance of those provinces after victory",
+      "ja": "今行う領土的譲歩は、勝利後のそれらの州の統治を複雑にするだろう",
+      "zh-CN": "你现在做出的任何领土让步都将使胜利后对那些省份的治理趋于复杂"
+    }
+  ],
+  "choices": [
+    {
+      "id": "chandragupta-maurya-322bc-scene-002-choice-a",
+      "text": {
+        "en": "Accept the tribal alliance. Grant Parvataka the territorial concessions in the east, the tax exemption for his mountain provinces, and agree to the hostage arrangement. If he raises the marriage question, accept that too.",
+        "ja": "部族同盟を受け入れる。パルヴァタカに東の領土の譲歩、山岳州の税免除、人質の取り決めへの同意を認める。もし彼が婚姻の問題を持ち出したら、それも受け入れる。",
+        "zh-CN": "接受部落联盟。授予帕尔瓦塔卡东部领土的让步、山地省份的税收豁免，并同意人质安排。如果他提出联姻问题，也予以接受。"
+      },
+      "historicalContext": "This is the historical path. Chandragupta allied with Parvataka (identified in some sources as the Himalayan king Porus or a king of a mountain confederation). The tribal forces proved decisive in the final assault on Pataliputra.",
+      "outcomePrompt": {
+        "en": "The negotiation takes two days of oblique conversation in which neither party says directly what they mean. By the end, Parvataka has what he came for, and you have what you need. His eight thousand warriors will march under your banner. His intelligence on the Nanda court — three of Dhana Nanda's ministers are already in secret contact with Parvataka's agents — proves to be extraordinary. Two of those ministers will open the southern gate of Pataliputra to your forces when the time comes.\n\nChanakya, reviewing the terms that evening, makes two corrections and says nothing else. The corrections are minor. His silence means approval. You have done what he would have done, which is the highest compliment he offers.\n\nThe combined force that marches south three months later numbers nearly twenty-five thousand, with the mountain contingent holding the left flank. Parvataka rides beside you and proves to be a man of direct, uncomplicated intelligence — not a philosopher like Chanakya, but precisely the kind of man who knows what a battle looks like from the inside.",
+        "ja": "交渉は両者が直接的な言葉を使わない、迂遠な会話の二日間にわたる。最終的に、パルヴァタカは求めるものを得て、あなたは必要なものを手に入れた。彼の八千人の戦士はあなたの旗のもとに行進する。ナンダ宮廷に関する彼の情報——ダナ・ナンダの三人の大臣がすでにパルヴァタカの工作員と秘密裏に接触している——は驚異的なものだ。そのうち二人の大臣は、時が来ればあなたの軍勢にパータリプトラの南門を開く。\n\nチャナキャはその夜条件を見直して、二か所修正を加え、それ以外は何も言わない。修正は軽微なものだ。彼の沈黙は承認を意味する。あなたは彼がしたであろうことをした——それが彼の与える最高の賛辞だ。\n\n三ヶ月後に南へ進軍する連合軍は、山岳部隊が左翼を担い、約二万五千人に達する。パルヴァタカはあなたの傍らを馬で並走し、直接的で単純明快な知性の人であることが分かる——チャナキャのような哲学者ではないが、まさに戦闘の内側がどのようなものかを知っている種類の人物だ。",
+        "zh-CN": "谈判历时两天，双方的对话都含蓄迂回，没有人直接说出自己的意图。最终，帕尔瓦塔卡得到了他来此的目的，你也得到了你所需要的。他的八千名战士将在你的旗帜下行军。他关于难陀宫廷的情报——陀那难陀的三位大臣已在秘密与帕尔瓦塔卡的探子接触——被证明是非同寻常的。其中两位大臣届时将为你的军队打开华氏城的南门。\n\n考底利耶当晚审阅条款，作了两处修改，此外什么也没说。修改都是细微的。他的沉默意味着认可。你做了他会做的事——这是他所给予的最高褒奖。\n\n三个月后南下行军的联合军队总计近两万五千人，山地部队占据左翼。帕尔瓦塔卡并骑你身旁，证明是一个直接而明快的智者——不像考底利耶那样是个哲学家，但恰恰是那种从内部了解战斗是什么模样的人。"
+      },
+      "nextSceneId": "chandragupta-maurya-322bc-scene-003",
+      "stateChanges": [
+        { "variable": "mauryaStrength", "operation": "add", "value": 20 },
+        { "variable": "diplomaticPosition", "operation": "add", "value": 15 },
+        { "variable": "nandaResistance", "operation": "add", "value": -15 }
+      ]
+    },
+    {
+      "id": "chandragupta-maurya-322bc-scene-002-choice-b",
+      "text": {
+        "en": "The territorial concessions are too large. Rely on your core supporters and the levies from provinces already under your control. Build the army more slowly but without compromising the empire's future borders.",
+        "ja": "領土の譲歩は大きすぎる。あなたの中核的な支持者と、すでにあなたの支配下にある州からの徴兵に頼る。帝国の将来の国境を犠牲にすることなく、より時間をかけて軍を構築する。",
+        "zh-CN": "领土让步太大。依靠你的核心支持者和已在你控制下的省份的征兵。更缓慢地建立军队，但不以牺牲帝国未来的疆界为代价。"
+      },
+      "historicalContext": "This is the more cautious path. Without the tribal forces, Chandragupta's campaign would have taken considerably longer and required more battles. The Arthashastra itself acknowledges the value of allied forces even at the cost of future political complications.",
+      "outcomePrompt": {
+        "en": "Parvataka takes the refusal with better grace than you expected. He is not a man who begs. He nods, accepts the modest gift of silver you offer as compensation for the journey, and rides back into the mountains. He is not your enemy. He is simply not your ally.\n\nThe campaign that follows takes another eighteen months. You win — you are going to win, the mathematics eventually favor you — but you fight six more major engagements than you would have fought with Parvataka's forces. Each engagement costs men and supplies. Your army is more depleted when you finally stand before the gates of Pataliputra than Chanakya had hoped.\n\nThe southern gate stays closed — without Parvataka's intelligence, you never learned which ministers could be bribed. The assault is a real siege, not the near-bloodless coup that might have been. You take the city. Dhana Nanda dies. The Maurya Empire is born. The price was higher than it needed to be, and Chanakya will spend the next decade ensuring you never forget why.",
+        "ja": "パルヴァタカは断りを予想以上に品よく受け取る。彼は懇願する人間ではない。うなずき、旅の補償として提供する控えめな銀の贈り物を受け取り、山へと戻る馬に乗る。彼はあなたの敵ではない。ただあなたの同盟者でもない。\n\n続く遠征にはさらに18ヶ月かかる。あなたは勝つ——最終的に算数があなたに有利になるのだから、勝つはずだ——しかしパルヴァタカの軍がいれば戦わずに済んだ6回分の主要な交戦を余分に戦う。各交戦は兵士と補給物資を消耗させる。ついにパータリプトラの城門前に立つとき、あなたの軍はチャナキャが望んでいたよりも消耗している。\n\n南門は閉じたままだ——パルヴァタカの情報なしでは、どの大臣を買収できるかを知ることができなかった。攻城は本物の包囲戦であり、あり得たかもしれないほぼ無血のクーデターではない。あなたは都市を取る。ダナ・ナンダは死ぬ。マウリヤ帝国が生まれる。代価は必要以上に高くついた。チャナキャはこれからの十年間、あなたがなぜそうなったかを決して忘れないよう確認し続けるだろう。",
+        "zh-CN": "帕尔瓦塔卡接受拒绝的态度比你预想的更有风度。他不是一个会祈求的人。他点头，接受你作为旅程补偿提供的那份普通银礼，策马回归山中。他不是你的敌人。只是不是你的盟友。\n\n随后的战役又花了十八个月。你赢了——你终将会赢，数字最终对你有利——但你比有帕尔瓦塔卡的军队时多打了六场主要战役。每场战役都消耗兵员和补给。当你终于站在华氏城城门前时，你的军队比考底利耶所期望的消耗要大得多。\n\n南门依然紧闭——没有帕尔瓦塔卡的情报，你始终不知道哪些大臣可以被收买。这是一场真正的围攻，而非原本可能实现的近乎兵不血刃的政变。你攻下了城市。陀那难陀死了。孔雀帝国诞生了。代价比所需的要高，而考底利耶将用此后十年确保你永远记得为什么会这样。"
+      },
+      "nextSceneId": "chandragupta-maurya-322bc-scene-003",
+      "stateChanges": [
+        { "variable": "mauryaStrength", "operation": "add", "value": 5 },
+        { "variable": "nandaResistance", "operation": "add", "value": 5 },
+        { "variable": "diplomaticPosition", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

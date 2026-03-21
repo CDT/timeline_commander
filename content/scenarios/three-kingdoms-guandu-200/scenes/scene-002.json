@@ -1,0 +1,114 @@
+{
+  "id": "three-kingdoms-guandu-200-scene-002",
+  "scenarioId": "three-kingdoms-guandu-200",
+  "title": {
+    "en": "The Defector at the Gate",
+    "ja": "門前に現れた降将",
+    "zh-CN": "夜投叛将"
+  },
+  "date": {
+    "en": "October, 200 AD",
+    "ja": "西暦200年10月",
+    "zh-CN": "公元200年10月"
+  },
+  "location": {
+    "en": "Cao Cao's command post, Guandu, in the second watch of the night",
+    "ja": "官渡、曹操の指揮所、二更の刻",
+    "zh-CN": "官渡曹操指挥所，深夜二更时分"
+  },
+  "narrativePrompt": {
+    "en": "The guards wake you in the second watch. A man has presented himself at the outer gate, alone, demanding to see you personally. He gave his name as Xu You — and when that name reached your lieutenant's ears, it passed upward so fast it nearly ran. You knew Xu You when you were both young men in Luoyang, before the empire cracked open like a rotten melon. He is — was — one of Yuan Shao's most trusted advisors.\n\nThey bring him to you in the torchlight: a man in a dusty traveling robe, no armor, his hands raised and visible. He looks at you with the expression of a man who has made a decision he cannot unmake, and he says, without preamble: 'I know where Yuan Shao's supply depot is. I know how many men guard it. I know the name of the commander who guards it, and I know that he is drunk half the nights.' He says Chunyu Qiong commands the depot at Wuchao — a place two days' fast march to the northwest — with five or six thousand men. Yuan Shao's entire army, one hundred thousand soldiers, depends on what is stored there.\n\nYour lieutenants are already exchanging glances. Cao Ren, your reliable cousin, looks intrigued but worried — he's the one who will have to raid with you if you go, or hold the camp alone if you stay. Xiahou Dun leans forward, his remaining eye bright. But you know the other possibility: that this is a trap. That Yuan Shao, sensing your weakness, has sent a man you once knew through your gate with a story designed to lure your forces out of position and into an ambush. Xu You has changed in thirty years. You have all changed. His family, he says, has been arrested back in Ye. But a man whose family is arrested might also become a useful tool for the man who did the arresting.\n\nYou look at Xu You's face in the firelight for a long moment. He does not look away. Outside, the Yellow River runs past in the darkness, and somewhere across it, Yuan Shao's army sleeps on its mountains of grain.",
+    "ja": "衛兵たちが二更に你を揺り起こす。一人の男が外門に現れ、単独で、直接あなたに会いたいと言っている。自分の名を許攸と名乗った——その名が副将の耳に届いた瞬間、それは稲妻のように上へと伝わっていった。あなたは若い頃、二人ともまだ洛陽にいた頃に許攸を知っていた。帝国が腐った瓜のように割れる前のことだ。彼は——かつては——袁紹の最も信頼する参謀の一人だった。\n\n彼らは松明の明かりの中で彼をあなたのもとへ連れてくる。埃まみれの旅装束の男、甲冑なし、両手を上げて見せている。彼は取り消せない決断を下した男の表情であなたを見つめ、前置きもなく言う。「袁紹の兵站拠点がどこにあるか、私は知っている。何人が守っているかも、守将の名も、その男が夜の半分を酔い潰れて過ごしていることも」。彼が言うには、淳于瓊が烏巣の兵站を守っている——北西に二日の急行軍の距離——兵力は五、六千。袁紹の全軍、十万の兵が、そこに貯蔵されているものに依存している。\n\n副将たちがすでに目を見交わしている。信頼できる従兄弟の曹仁は、興味を示しつつも憂慮した様子だ——あなたが出陣するなら共に突撃し、あなたが留まるなら単独で本陣を守らなければならない男だ。夏侯惇は身を乗り出し、残った一方の目を輝かせている。しかしあなたには別の可能性も分かっている。これが罠かもしれないということ。あなたの弱みを察した袁紹が、あなたの知る男を使って、部隊を陣地から誘い出して伏兵に嵌めようとする話をでっち上げたのかもしれない。許攸は三十年で変わった。みな変わった。彼の家族は鄴で捕まったと言っている。しかし家族を逮捕された男は、その逮捕を命じた男にとって有用な道具にもなりえる。\n\nあなたは篝火の光の中で、しばらく許攸の顔を見つめる。彼は目を逸らさない。外では黄河が暗闇の中を流れていき、その向こうのどこかで、袁紹の軍が兵糧の山の上で眠っている。",
+    "zh-CN": "二更时分，守卫将你唤醒。一名男子只身出现在外门，要求亲见你本人。他自报姓名许攸——这个名字传到副将耳中，几乎是眨眼间便层层上报。你在年少时识得许攸，那是在洛阳，在帝国如烂瓜开裂之前。他曾是——袁绍最为倚重的谋士之一。\n\n火把照耀下，他们将此人带至你面前：一身风尘仆仆的行旅装束，无甲，双手高举可见。他以一种已做出无法反悔之决断的神情望着你，开门见山地说：「我知道袁绍的粮仓在何处。我知道有多少人把守，知道那守将的名字，也知道他有一半的夜晚都是烂醉如泥。」他说淳于琼率五六千人驻守乌巢的粮仓——在西北方向急行军两日的距离。袁绍的十万大军，所有的军粮，全部存在那里。\n\n你的副将们已经开始交换眼神。可靠的族兄曹仁面露兴味，却也面色凝重——若你出兵，他要随你突击；若你留守，他要独撑大营。夏侯惇俯身向前，那仅余的一只眼睛炯炯发光。然而你心里清楚另一种可能：这是一个陷阱。袁绍察觉你的虚弱，派来一个你曾相识的人，捏造这番话，引诱你的兵力离阵而出，落入埋伏。许攸在三十年里已经变了。所有人都变了。他说家人已在邺城被捕。可家人被捕的人，也有可能成为下令抓人者手中的工具。\n\n你在篝火的光焰中凝视许攸的脸，久久不语。他没有移开目光。帐外，黄河在黑暗中静静流淌，而在河的那一边某处，袁绍的大军正睡在堆积如山的粮草之上。"
+  },
+  "situationReport": [
+    {
+      "en": "Xu You claims Yuan Shao's Wuchao depot holds enough grain for the entire army for months; its fall would end Yuan Shao's campaign",
+      "ja": "許攸によると、袁紹の烏巣の兵站には全軍が数ヶ月分の兵糧が蓄えられており、そこが陥落すれば袁紹の戦役は終わる",
+      "zh-CN": "许攸称袁绍乌巢粮仓储粮足供全军数月之用，一旦失陷，袁绍的战役便告终结"
+    },
+    {
+      "en": "Intelligence cannot be independently verified before a decision must be made — Xu You claims urgency",
+      "ja": "この情報は、決断を下す前に独自に確認することができない——許攸は緊急性を訴えている",
+      "zh-CN": "情报无法在决策前独立核实——许攸强调时机紧迫"
+    },
+    {
+      "en": "A raiding force strong enough to overwhelm Wuchao would seriously weaken the camp's defenses during the sortie",
+      "ja": "烏巣を制圧するのに十分な強力な奇襲部隊は、出撃中に本陣の防衛を著しく弱体化させる",
+      "zh-CN": "足以攻克乌巢的突袭兵力，将严重削弱出击期间本营的防御"
+    },
+    {
+      "en": "Yuan Shao might detect the camp being weakened and launch a general assault during the raid",
+      "ja": "袁紹が本陣の弱体化を察知し、奇襲中に総攻撃を仕掛けてくる可能性がある",
+      "zh-CN": "袁绍可能察觉营地兵力空虚，趁奇袭期间发动全面进攻"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Accurately assess whether Xu You's intelligence is credible and act accordingly",
+      "ja": "許攸の情報が信頼できるかどうかを正確に判断し、それに応じて行動する",
+      "zh-CN": "准确判断许攸情报是否可信，并据此行动"
+    },
+    {
+      "en": "If the raid is launched, ensure it succeeds decisively before Yuan Shao can respond",
+      "ja": "奇襲を敢行する場合、袁紹が対応する前に決定的に成功させる",
+      "zh-CN": "若决定突袭，须在袁绍作出反应之前确保其决定性成功"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The raiding force must travel through hostile territory at night — speed and surprise are everything",
+      "ja": "奇襲部隊は夜間に敵地を通過しなければならない——速度と奇襲がすべてだ",
+      "zh-CN": "突袭部队须趁夜穿越敌境——速度与奇袭是一切的关键"
+    },
+    {
+      "en": "The remaining garrison must hold the camp against a possible counterattack for the duration",
+      "ja": "残留の守備隊は、その期間中、反撃の可能性に対して本陣を守り通さなければならない",
+      "zh-CN": "留守兵力须在此期间抵御可能的反击，守住本营"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Trust Xu You. Launch an immediate night raid on Wuchao with your best cavalry, personally leading the attack. Dress your troops in Yuan Shao's insignia to pass any checkpoints. Strike before dawn. The risk is enormous — but so is the potential reward.",
+        "ja": "許攸を信じる。精鋭騎兵を率いて直ちに烏巣への夜間奇襲を敢行し、自ら先頭に立つ。検問を通過するために部隊に袁紹の徽章をつけさせる。夜明け前に攻撃する。リスクは甚大だが——報酬もそれに匹敵する。",
+        "zh-CN": "相信许攸。立即率精锐骑兵对乌巢发动夜袭，亲自领兵。让士卒乔装成袁绍的旗号，通过沿途关卡。在黎明前发动攻击。风险极大——但潜在的收益同样巨大。"
+      },
+      "historicalContext": "This is the historical choice Cao Cao made. He personally led the raid disguised with Yuan Shao's insignia, a characteristically bold move. Advisors like Cao Ren warned that leaving the camp weakened was dangerous, but Cao Cao insisted on leading personally.",
+      "outcomePrompt": {
+        "en": "You look at Xu You one more time and make your decision. 'How many men does Chunyu Qiong have at Wuchao?' He tells you again: five or six thousand. 'Then I will take five thousand,' you say. 'The rest hold the camp.' Within the hour your elite cavalry is assembling in the dark, torches doused, every man briefed to call himself a Yuan Shao soldier if challenged. You ride out personally at the head of the column.\n\nThe march is two days compressed into one desperate night. Twice your column is challenged by patrols; both times your Yuan Shao insignia and your lead soldiers' confident answers convince the questioners. By dawn you are in sight of the Wuchao depot — and Xu You was right. The fires are few. The sentries are lax. You can see the enormous stacked grain stores from half a li away. Chunyu Qiong himself, they say, was drinking until midnight.\n\nYou raise your hand. The cavalry spreads to encircle the depot. Then you drop your hand, and the charge begins.",
+        "ja": "あなたはもう一度許攸を見つめ、決断を下す。「淳于瓊は烏巣に何人の兵を持っているか？」彼はもう一度答える。五、六千。「では五千を連れていく」とあなたは言う。「残りは本陣を守れ」。一刻も経たないうちに、精鋭騎兵が暗闇の中で集結している。松明は消され、全員が袁紹の兵を名乗るよう指示されている。あなたは隊列の先頭に立って出陣する。\n\n行軍は本来二日かかる距離を、一夜の死に物狂いの行軍で踏破する。二度、隊列が哨戒に呼び止められるが、その両方で、あなたの袁紹の徽章と先頭の兵士たちの堂々とした受け答えが尋問者を納得させる。夜明けには烏巣の兵站が視界に入ってくる——そして許攸は正しかった。火は少ない。歩哨は怠惰だ。半里先から巨大な積み上げられた兵糧が見える。淳于瓊自身は、話によれば夜半まで飲み続けていたという。\n\nあなたは手を上げる。騎兵が広がって兵站を包囲する。そしてあなたは手を振り下ろし、突撃が始まる。",
+        "zh-CN": "你再次打量许攸，做出决断。「淳于琼在乌巢有多少兵？」他再度回答：五六千人。「那我带五千去，」你说，「其余守营。」不消一个时辰，精锐骑兵已在黑暗中集结，火把熄灭，人人受命若遭盘问便自称袁绍士卒。你亲自立于队列前端，策马出发。\n\n两日的路程被压缩进一个拼命的夜晚。队列两度遭到巡逻队盘问；每次，袁绍的旗号与前锋士卒从容的回答都说服了盘问者。黎明时分，乌巢粮仓已在望——许攸所言不虚。火把寥寥，哨卒懈怠。半里外便能望见那堆积如山的巨量粮草。据说淳于琼本人，昨夜饮酒至半夜方才作罢。\n\n你举起右手，骑兵散开包围粮仓。然后你猛地放下手，冲锋开始了。"
+      },
+      "nextSceneId": "three-kingdoms-guandu-200-scene-003",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 30 },
+        { "variable": "intelligenceQuality", "operation": "add", "value": 25 },
+        { "variable": "caoCaoMorale", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Treat Xu You's intelligence as potentially valuable but suspect. Detain him comfortably, send cavalry scouts to verify the location and guard strength at Wuchao before committing, and prepare a raiding force to move at short notice once the intelligence is confirmed.",
+        "ja": "許攸の情報を価値ある可能性のあるものとして扱いつつも、疑わしいとみなす。彼を丁重に拘留し、決定的行動を起こす前に騎兵の斥候を送って烏巣の位置と守備兵力を確認し、情報が確認され次第すぐに動けるよう奇襲部隊を準備させる。",
+        "zh-CN": "将许攸的情报视为可能有价值但存疑。礼貌拘押他，在采取行动前派骑兵斥候核实乌巢的位置与守备兵力，并备好突袭部队，一旦情报得到确认即可随时出动。"
+      },
+      "historicalContext": "This is the cautious alternative. Historically, some of Cao Cao's advisors urged caution about trusting Xu You, but Cao Cao moved quickly. Delaying to verify would cost critical time and potentially allow Yuan Shao to learn of the defection and reinforce Wuchao.",
+      "outcomePrompt": {
+        "en": "Caution is wisdom — you have not survived this long by trusting every man who walks through your gate. Xu You is housed in a comfortable tent under guard while you dispatch a small cavalry reconnaissance team to approach Wuchao and assess what they can see from a distance.\n\nThe scouts return two days later. Their report confirms the broad outline of what Xu You told you: there is a large depot there, and the fires and activity around it do not suggest a force much larger than five or six thousand. But two days have passed. Yuan Shao has not appeared to know about the defection, but you cannot be certain. More dangerously, the window for maximum surprise — a dawn raid before the garrison could be reinforced — has narrowed. You now prepare the raid with better intelligence, but also with less of the element of time on your side.",
+        "ja": "慎重さは知恵だ——門をくぐってくる者を誰でも信用していては、ここまで生き延びられなかった。許攸は衛兵つきの快適な天幕に収容され、あなたは小さな騎馬偵察隊を送り出して遠距離から烏巣の状況を確認させる。\n\n斥候は二日後に戻ってくる。その報告は許攸が告げた内容の大筋を裏付けている。そこには大きな兵站拠点があり、周囲の炎と活動の様子は五、六千を大きく上回る兵力を示唆していない。しかし二日が過ぎた。袁紹は離反について知っているようには見えないが、確信はできない。さらに危険なのは、最高の奇襲の好機——守備兵が増強される前の黎明前の急襲——がすでに縮んでいることだ。あなたは今、より良い情報を持って奇襲を準備するが、時間という要素についてはより少ないものしかない。",
+        "zh-CN": "谨慎即是智慧——若非如此，你不可能活到今日。许攸在卫兵看守下被安置于舒适的营帐，与此同时你派出一支小型骑兵侦察队，远程观察乌巢的情况。\n\n斥候两日后返回。他们的报告大体印证了许攸所言：那里确有一座大型粮仓，周围的篝火与活动规模显示守军似乎不超过五六千人。但两天已经过去。袁绍看来尚未得知此次叛投，但你无法确定。更为危险的是，最佳奇袭时机——在守军得到增援前的黎明突袭——已经缩小。你现在手握更充分的情报来筹划突袭，却也在时间这一要素上所剩无多。"
+      },
+      "nextSceneId": "three-kingdoms-guandu-200-scene-003",
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 10 },
+        { "variable": "intelligenceQuality", "operation": "add", "value": 40 },
+        { "variable": "caoCaoMorale", "operation": "add", "value": 5 },
+        { "variable": "yuanShaoMorale", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

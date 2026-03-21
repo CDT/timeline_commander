@@ -1,0 +1,91 @@
+{
+  "scenarioId": "fall-of-qin-207bc",
+  "timeline": [
+    {
+      "date": "-0210-01-01",
+      "description": {
+        "en": "Qin Shi Huangdi dies on a royal inspection tour (210 BC). Eunuch Zhao Gao and chancellor Li Si suppress the news, forge an edict killing crown prince Fusu, and install the incompetent second son Huhai as Emperor Erhuang. The dynasty begins its terminal decline.",
+        "ja": "始皇帝が巡行中に崩御（紀元前210年）。宦官・趙高と丞相・李斯が知らせを隠蔽し、太子・扶蘇を殺す詔書を偽造し、無能な次男・胡亥を二世皇帝として即位させた。王朝は最後の衰退を始める。",
+        "zh-CN": "秦始皇在巡游途中驾崩（公元前210年）。宦官赵高与丞相李斯隐瞒死讯，伪造诏书逼死太子扶苏，拥立无能次子胡亥为二世皇帝。王朝开始走向终结。"
+      }
+    },
+    {
+      "date": "-0209-07-01",
+      "description": {
+        "en": "Chen Sheng and Wu Guang's Uprising (209 BC): Conscripted laborers delayed by floods revolt at Daze Township, declaring the restoration of Chu. Though the revolt is eventually suppressed, it triggers a cascade of uprisings across every former state.",
+        "ja": "陳勝・呉広の乱（紀元前209年）：洪水で遅延した徴用労働者が大沢郷で反乱を起こし、楚の復興を宣言した。反乱は最終的に鎮圧されるが、旧すべての国全体で反乱の連鎖を引き起こす。",
+        "zh-CN": "陈胜、吴广起义（公元前209年）：被洪水阻滞的徭役者在大泽乡揭竿而起，宣布复立楚国。起义最终遭到镇压，但引发了旧各国的连锁叛乱。"
+      }
+    },
+    {
+      "date": "-0208-09-01",
+      "description": {
+        "en": "Xiang Liang raises the Chu rebel banner, restoring the Chu royal line under King Huai of Chu. He wins a series of early victories against Qin forces, giving rebel factions momentum. His death at the Battle of Dingtao (208 BC) at the hands of Zhang Han leaves Xiang Yu as the effective Chu military leader.",
+        "ja": "項梁が楚の反乱旗を掲げ、楚懐王のもとに楚の王統を復活させる。彼は秦軍に対して一連の初期の勝利を収め、反乱派に勢いを与える。章邯の手による定陶の戦い（紀元前208年）での彼の死は、項羽を実質的な楚の軍事指導者として残す。",
+        "zh-CN": "项梁举起楚地反旗，在楚怀王名下恢复楚国王统。他对秦军取得一系列初期胜利，为反秦各派注入动力。他在定陶之战（公元前208年）中死于章邯之手，留下项羽作为楚军实际军事领袖。"
+      }
+    },
+    {
+      "date": "-0207-11-01",
+      "description": {
+        "en": "Xiang Yu kills Song Yi (207 BC) and assumes command of the Chu relief force. He crosses the Zhang River and destroys the army's boats and cooking pots, leaving the soldiers with three days of rations and no option but victory. The Chu forces defeat the Qin relief army nine times in succession.",
+        "ja": "項羽が宋義を殺し（紀元前207年）、楚の救援軍の指揮を執る。漳水を渡り、軍の船と煮炊き用の鍋を破壊し、兵士に3日分の食料のみと勝利以外の選択肢を残さない。楚の軍勢は秦の援軍に9度連続して勝利する。",
+        "zh-CN": "项羽杀宋义（公元前207年），接掌楚国援军指挥权。渡过漳水，破釜沉舟，令士卒仅余三日口粮，别无选择唯有死战。楚军对秦国援军连续九战皆胜。"
+      }
+    },
+    {
+      "date": "-0207-11-15",
+      "description": {
+        "en": "Battle of Julu: The Qin relief army is decisively defeated. The rebel commanders who watched from their camps come to submit to Xiang Yu on their knees. Zhang Han's main force is left isolated and besieged without hope of reinforcement from a court consumed by Zhao Gao's political terror.",
+        "ja": "鉅鹿の戦い：秦の援軍が決定的に敗北する。陣営から見ていた反乱軍の指揮官たちがひざまずいて項羽に服する。章邯の主力軍は、趙高の政治的恐怖政治に消耗した朝廷からの援軍の希望なしに孤立して包囲されたまま残される。",
+        "zh-CN": "鉅鹿之战：秦国援军遭到决定性击溃。在营中旁观的反秦诸将跪行前来向项羽臣服。章邯主力军陷于孤立包围之中，被赵高政治恐怖所吞噬的朝廷再无希望派遣援兵。"
+      }
+    },
+    {
+      "date": "-0207-07-01",
+      "description": {
+        "en": "Xiang Yu executes 200,000 surrendered Qin soldiers at Xin'an (207 BC) — the Xin'an Massacre. Zhang Han's troops, homesick Qin men feared to be unreliable when marching west, are buried alive or killed en masse. This act shocks contemporaries and forecloses any possibility of reconciliation with the Qin heartland population.",
+        "ja": "項羽が新安で降伏した20万の秦兵を処刑する（紀元前207年）——新安の虐殺。西へ進軍する際に信頼できないと恐れられた、故郷を懐かしむ秦人の章邯の部下が、生き埋めにされるか大規模に殺される。この行為は同時代人を驚かせ、秦の中枢の人口との和解の可能性を封じる。",
+        "zh-CN": "项羽在新安坑杀二十万秦军降卒（公元前207年）——新安大屠杀。章邯的部队是思乡的秦人，被担心西进途中会不可靠，遭到活埋或大规模屠杀。此举令同时代人震惊，彻底断绝了与秦国腹地民众和解的任何可能。"
+      }
+    },
+    {
+      "date": "-0207-10-01",
+      "description": {
+        "en": "Liu Bang reaches Xianyang first and accepts the Qin surrender. He declines to loot the palace and issues an order of three laws (against killing, wounding, and theft) — winning enormous popular goodwill in Guanzhong. Xiang Yu arrives, furious, burning the palaces and executing the last Qin ruler Ziying.",
+        "ja": "劉邦が先に咸陽に到達し、秦の降伏を受け入れる。彼は宮殿の略奪を断り、三章の法（殺傷・盗みに対する三条の法）を発布——関中で莫大な民衆の好意を勝ち取る。項羽が激怒して到着し、宮殿を焼き、秦の最後の統治者・子嬰を処刑する。",
+        "zh-CN": "刘邦先抵咸阳，接受秦国投降。他拒绝掠夺宫殿，颁布约法三章（杀人、伤人、盗窃之禁令）——在关中赢得巨大的民心。项羽随后愤怒抵达，焚毁宫殿，处死秦末最后的统治者子婴。"
+      }
+    },
+    {
+      "date": "-0206-01-01",
+      "description": {
+        "en": "Xiang Yu distributes the former Qin empire among eighteen kingdoms at the Feast at Hong Gate (206 BC), taking the title of Hegemon-King of Western Chu. Liu Bang is made King of Han in the remote Hanzhong region. This unjust distribution sets the stage for the Chu-Han War that will determine who rules all of China.",
+        "ja": "項羽が鴻門の宴（紀元前206年）で旧秦帝国を18の王国に分配し、西楚の覇王の称号を取る。劉邦は辺境の漢中地域の漢王にされる。この不公平な分配が、誰が中国全土を支配するかを決定する楚漢戦争の舞台を設定する。",
+        "zh-CN": "项羽在鸿门宴（公元前206年）上将旧秦帝国分封为十八个王国，自取西楚霸王之号。刘邦被封为偏远汉中地区的汉王。这一不公平的分封为决定谁统治中国全境的楚汉战争奠定舞台。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Xiang Yu destroyed Qin military power and ended the Qin dynasty, but his post-war political decisions — the Xin'an Massacre, the unjust distribution of kingdoms, the murder of King Huai — created enemies faster than he eliminated them. Liu Bang rebuilt his power in Hanzhong under advisors Zhang Liang and Xiao He and general Han Xin, and the Chu-Han War (206–202 BC) gradually shifted in Han's favor. Xiang Yu was surrounded and defeated at Gaixia (202 BC) and died by his own hand at the Wu River.",
+    "ja": "項羽は秦の軍事力を壊滅させ秦王朝を終わらせたが、彼の戦後の政治的決断——新安の虐殺・不公平な王国の分配・懐王の殺害——は彼が排除するよりも速く敵を作った。劉邦は顧問の張良・蕭何と将軍・韓信の下で漢中で権力を再建し、楚漢戦争（紀元前206〜202年）は徐々に漢に有利に傾いた。項羽は垓下（紀元前202年）で包囲・敗北し、烏江で自ら命を絶った。",
+    "zh-CN": "项羽摧毁了秦国军事力量、终结了秦朝，但他战后的政治决策——新安屠杀、不公平的分封、杀害怀王——树敌的速度超过了他消灭对手的速度。刘邦在谋士张良、萧何和将军韩信的辅佐下在汉中重建势力，楚汉战争（公元前206—202年）逐渐向汉倾斜。项羽在垓下（公元前202年）被围困击溃，在乌江自刎而亡。"
+  },
+  "casualties": {
+    "en": "The Battle of Julu itself resulted in the destruction of the main Qin relief army of approximately 300,000 men. The Xin'an Massacre added 200,000 surrendered Qin soldiers killed. The fall of Qin and the subsequent Chu-Han War killed millions across China, with the population of the former Qin empire estimated to have declined significantly from the warfare, displacement, and famine of this period.",
+    "ja": "鉅鹿の戦い自体では、約30万人の秦の主力援軍が壊滅した。新安の虐殺でさらに20万の降伏した秦兵が殺された。秦の滅亡と続く楚漢戦争で中国全体で何百万もの人が死亡し、旧秦帝国の人口はこの時期の戦争・避難・飢饉によって大幅に減少したと推定される。",
+    "zh-CN": "鉅鹿之战本身导致约三十万秦国援军主力被歼。新安大屠杀又增加了二十万被杀的秦军降卒。秦朝覆灭及随后的楚汉战争在中国各地造成数百万人死亡，据估计旧秦帝国的人口因这一时期的战争、流离失所与饥荒而大幅下降。"
+  },
+  "significance": {
+    "en": "The Battle of Julu and the fall of Qin demonstrated that the first Chinese empire was not, in fact, eternal — that political models could be overthrown and that legitimacy required more than military power. The period also established the template for dynastic transition in Chinese history: a failing dynasty generates rebellion, a rebel coalition forms, and the most capable leader of that coalition becomes the founder of the next dynasty. Liu Bang's victory over Xiang Yu showed that political intelligence, administrative competence, and the ability to attract and retain talented subordinates could defeat even the most brilliant military commander.",
+    "ja": "鉅鹿の戦いと秦の滅亡は、最初の中国帝国が実際には永遠ではなかったことを示した——政治モデルは覆され得、正統性は軍事力以上のものを必要とするということ。この時期はまた中国史における王朝交代の雛型を確立した：衰退する王朝が反乱を生み、反乱連合が形成され、その連合の最も有能な指導者が次の王朝の創設者になる。項羽に対する劉邦の勝利は、政治的知性・行政的能力・有能な部下を引き付け保持する能力が、最も卓越した軍事指揮官でさえも打ち破れることを示した。",
+    "zh-CN": "鉅鹿之战与秦朝覆灭证明，中国的第一个帝国事实上并非永恒——政治模式可以被推翻，正统性需要的不仅仅是军事实力。这一时期同时确立了中国历史上王朝更替的模板：衰败的王朝激起叛乱，反叛联盟形成，而联盟中最有能力的领袖成为下一个王朝的开创者。刘邦对项羽的胜利表明，政治智慧、行政才能以及吸引并留住杰出属下的能力，能够击败哪怕是最为卓越的军事统帅。"
+  },
+  "furtherReading": [
+    "The Art of War and The Records of the Grand Historian translated by Burton Watson",
+    "The Emperor's River: Encounters on the Yangtze by Liam D'Arcy-Brown",
+    "China: A New History by John King Fairbank and Merle Goldman",
+    "Early Chinese Empires: Qin and Han by Mark Edward Lewis",
+    "The Qin Empire: Unification of China and the First Dynasty by Derk Bodde"
+  ]
+}

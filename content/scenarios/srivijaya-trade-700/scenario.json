@@ -1,0 +1,34 @@
+{
+  "scenarioId": "srivijaya-trade-700",
+  "title": {
+    "en": "Srivijaya: Masters of the Maritime Silk Road",
+    "ja": "シュリーヴィジャヤ：海の絹の道の主人",
+    "zh-CN": "室利佛逝：海上丝绸之路的主宰"
+  },
+  "description": {
+    "en": "In 670 AD, the kingdom of Srivijaya on the island of Sumatra was a minor port polity. Within fifty years it became the dominant power in maritime Southeast Asia, controlling the Strait of Malacca — the chokepoint through which almost all trade between China and India passed. Play as Dapunta Hyang Sri Jayanasa, the founder-king of Srivijaya, as you navigate the challenge of building a maritime empire through trade, diplomacy, and selective military force.",
+    "ja": "670年、スマトラ島のシュリーヴィジャヤ王国はわずかな港湾政体だった。五十年以内に東南アジアの海洋における支配的な勢力となり、中国とインドの間のほぼすべての貿易が通過するチョークポイント——マラッカ海峡——を支配した。シュリーヴィジャヤの建国王ダプンタ・ヒャン・スリ・ジャヤナサとして、交易、外交、そして選択的な軍事力によって海洋帝国を築く課題を乗り越えよ。",
+    "zh-CN": "公元670年，苏门答腊岛上的室利佛逝王国还只是一个微不足道的港口政权。不到五十年，它便成为东南亚海域的主导势力，控制着马六甲海峡——几乎所有中印贸易都必经此地。扮演室利佛逝的开国之王邓宝旁·哈杨·斯里·贾亚纳萨，在贸易、外交与有选择性的军事力量之间寻找平衡，构建一个海上帝国。"
+  },
+  "date": "0682-01-01",
+  "location": {
+    "en": "Palembang, Srivijaya (modern Sumatra, Indonesia)",
+    "ja": "パレンバン、シュリーヴィジャヤ（現在のインドネシア・スマトラ島）",
+    "zh-CN": "巨港（今印度尼西亚苏门答腊岛），室利佛逝"
+  },
+  "playerRole": {
+    "en": "Dapunta Hyang Sri Jayanasa — founder and king of Srivijaya",
+    "ja": "ダプンタ・ヒャン・スリ・ジャヤナサ——シュリーヴィジャヤの建国王",
+    "zh-CN": "邓宝旁·哈杨·斯里·贾亚纳萨——室利佛逝的开国国王"
+  },
+  "initialState": {
+    "tradeRevenue": 40,
+    "navalStrength": 50,
+    "diplomaticPrestige": 35,
+    "straitControl": 30,
+    "buddhistNetwork": 45
+  },
+  "tags": ["indonesia", "srivijaya", "maritime", "trade", "buddhism", "southeast asia", "classical"],
+  "difficulty": "medium",
+  "historicalOutcome": "srivijaya_dominance"
+}

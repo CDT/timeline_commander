@@ -1,0 +1,34 @@
+{
+  "scenarioId": "goguryeo-sui-war-612",
+  "title": {
+    "en": "Battle of Salsu: Goguryeo's Defiance",
+    "ja": "薩水の戦い：高句麗の抵抗",
+    "zh-CN": "萨水之战：高句丽的抵抗"
+  },
+  "description": {
+    "en": "In 612 AD, Emperor Yang of Sui China launched one of history's largest military invasions — over one million soldiers — against the Korean kingdom of Goguryeo. General Eulji Mundeok, commanding Goguryeo's outnumbered defenders, used brilliant tactics of feigned retreats, scorched earth, and a devastating river trap to annihilate the Sui vanguard army of 300,000 at the Salsu River. Play as Eulji Mundeok and guide Goguryeo through its greatest military crisis.",
+    "ja": "612年、隋の煬帝は百万を超える兵士を率いて、史上最大規模の軍事侵攻の一つを朝鮮半島の王国・高句麗に対して発動した。寡兵の守備隊を率いる将軍・乙支文徳は、巧みな偽退却、焦土戦術、そして薩水での壊滅的な河川罠を駆使して、隋の先鋒軍30万を殲滅した。乙支文徳として高句麗最大の軍事的危機を乗り越えよ。",
+    "zh-CN": "公元612年，隋炀帝发动史上规模最大的军事征伐之一，率超过百万大军进攻朝鲜半岛王国高句丽。统领以寡击众的守军的乙支文德将军，以精妙的诈退战术、坚壁清野及萨水河畔毁灭性的河流陷阱，将隋军30万先锋大军歼灭于萨水。扮演乙支文德，带领高句丽渡过其最大的军事危机。"
+  },
+  "date": "0612-07-01",
+  "location": {
+    "en": "Salsu River (modern Cheongcheon River), Goguryeo (modern North Korea)",
+    "ja": "薩水（現在の清川江）、高句麗（現在の北朝鮮）",
+    "zh-CN": "萨水（今清川江），高句丽（今朝鲜北部）"
+  },
+  "playerRole": {
+    "en": "Eulji Mundeok — Goguryeo's supreme field commander",
+    "ja": "乙支文徳——高句麗の最高野戦指揮官",
+    "zh-CN": "乙支文德——高句丽最高野战指挥官"
+  },
+  "initialState": {
+    "goguryeoMorale": 65,
+    "suiMorale": 70,
+    "defenseDepth": 50,
+    "supplyAttrition": 30,
+    "riverControl": 40
+  },
+  "tags": ["korea", "goguryeo", "sui", "medieval", "defensive warfare", "river battle"],
+  "difficulty": "hard",
+  "historicalOutcome": "goguryeo_victory"
+}

@@ -1,0 +1,76 @@
+{
+  "sceneId": "scene-001",
+  "scenarioId": "goguryeo-sui-war-612",
+  "title": {
+    "en": "The Spy in the Enemy Camp",
+    "ja": "敵陣の間者",
+    "zh-CN": "敌营中的谍者"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-002",
+  "background": {
+    "en": "June 612 AD. You are Eulji Mundeok, supreme field commander of Goguryeo's armies. Emperor Yang of Sui has dispatched a vanguard of 305,000 soldiers to bypass the siege of Liaodong and drive directly for Pyongyang. The enemy is vastly larger than any force you can field. You have been sent personally to the Sui camp — ostensibly to negotiate — while in truth you need to assess their supply situation, the morale of their troops, and the quality of their generals. The Sui commander Yuwen Shu has received you, and now you have seen what you came to see: the Sui army is hungry, supply lines stretched thin, and the generals are overconfident after months of believing they are winning.",
+    "ja": "612年6月。あなたは乙支文徳、高句麗軍の最高野戦指揮官だ。隋の煬帝が30万5千人の先鋒軍を派遣して遼東の包囲を迂回し、平壌に向けて直接進軍させた。敵はあなたが展開できるいかなる軍よりもはるかに大きい。あなたは表向きは交渉のために隋の陣営に個人的に派遣されたが、実際には彼らの補給状況、兵士の士気、将軍たちの能力を評価する必要があった。隋の指揮官・宇文述があなたを迎え入れ、今あなたは見るべきものを見た：隋軍は腹を空かせ、補給線は細く延び、将軍たちは数ヶ月にわたって自分たちが勝っていると信じた末に慢心している。",
+    "zh-CN": "公元612年六月。你是乙支文德，高句丽军队最高野战指挥官。隋炀帝已派遣三十万五千人的先锋军绕过辽东围攻，直扑平壌。敌军规模远超你所能调动的任何力量。你被亲自派往隋军营地——名为谈判——实则需要评估他们的补给状况、军队士气及将领素质。隋军指挥官宇文述接待了你，而今你已看到了你来此要看的一切：隋军粮草匮乏，补给线拉得极细，将领们在数月来始终相信自己正在获胜后已然骄傲自满。"
+  },
+  "prompt": {
+    "en": "You have gathered the intelligence you need. The Sui generals know you came as a spy as much as a negotiator — they are considering detaining you. You must leave the camp now, but how you leave will shape the opening phase of your defensive campaign. Do you depart with a message that shapes their next move, or slip away without showing your hand?",
+    "ja": "必要な情報を集めた。隋の将軍たちはあなたが交渉者と同様に間者として来たことを知っている——彼らはあなたを拘束することを検討している。今すぐ陣営を去らなければならないが、去り方が防衛作戦の開幕段階を形づくる。次の動きを形成するメッセージを残して去るか、それとも手の内を見せずに姿を消すか？",
+    "zh-CN": "你已收集到所需的情报。隋军将领们知道你此来既是谈判者也是间谍——他们正在考虑将你扣押。你必须立刻离开营地，但离去的方式将塑造你防御战役的开局阶段。你是留下一条影响他们下一步行动的讯息后离去，还是不露声色地悄然溜走？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Leave a poem of false surrender",
+        "ja": "偽の降伏の詩を残す",
+        "zh-CN": "留下一首假降诗"
+      },
+      "description": {
+        "en": "Before departing, compose and deliver a poem to Yuwen Shu — a classical Chinese verse of apparent submission that suggests Goguryeo is near collapse and will surrender if the Sui army advances. The poem is a calculated deception: it will encourage the Sui commanders to press forward aggressively, overextending further before your trap is ready. Overconfident enemies make mistakes.",
+        "ja": "出発前に、宇文述に詩を作って渡す——高句麗が崩壊寸前で、隋軍が前進すれば降伏するだろうと示唆する、表向きは恭順の古典的な漢詩だ。この詩は計算された欺瞞で、隋の指揮官たちに積極的に前進するよう促し、罠が準備できる前にさらに伸び切らせる。慢心した敵は過ちを犯す。",
+        "zh-CN": "在离开前，为宇文述赋一首诗——一首貌似臣服的汉诗，暗示高句丽已濒临崩溃，隋军若继续推进便会投降。这首诗是精心算计的欺骗：它将鼓励隋军指挥官激进冒进，在你的陷阱准备就绪之前过度延伸。骄傲自满的敌人会犯错。"
+      },
+      "outcome": {
+        "en": "Yuwen Shu receives your poem and is convinced — the Goguryeo commander himself suggests surrender is coming. He reports this to the other generals as evidence that one more push will end the campaign. The Sui army accelerates its advance, rations thinning further. They are exactly where you want them.",
+        "ja": "宇文述はあなたの詩を受け取り、確信する——高句麗の指揮官自身が降伏が近いと示唆している。彼はこれを他の将軍たちに、もう一押しで遠征が終わると証拠として報告する。隋軍は進軍を加速し、糧食はさらに減っていく。彼らはまさしくあなたが望む場所にいる。",
+        "zh-CN": "宇文述收到你的诗，深信不疑——高句丽的指挥官本人暗示投降在即。他将此作为再加一把劲便能结束战役的佐证，禀报给其他将领。隋军加快推进步伐，粮草愈发匮乏。他们恰好处于你希望他们所在的位置。"
+      },
+      "stateChanges": [
+        { "variable": "suiMorale", "operation": "add", "value": 10 },
+        { "variable": "defenseDepth", "operation": "add", "value": 15 },
+        { "variable": "supplyAttrition", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Escape without a trace",
+        "ja": "跡形もなく脱出する",
+        "zh-CN": "悄然脱身，不留痕迹"
+      },
+      "description": {
+        "en": "Leave nothing behind that could betray your plans. Depart the Sui camp as a neutral envoy, give non-committal answers about Goguryeo's intentions, and return to your own lines. The Sui generals will be left uncertain — they may advance cautiously, buy you more time to prepare your positions along the Salsu River. Uncertainty is its own weapon.",
+        "ja": "計画を裏切る可能性のあるものは何も残さない。中立的な使節として隋の陣営を去り、高句麗の意図について曖昧な返答をして、自軍の戦線に戻る。隋の将軍たちは不確かなまま残される——慎重に前進するかもしれず、薩水沿いの陣地を準備する時間をより多く稼げる。不確実性それ自体が武器だ。",
+        "zh-CN": "不留下任何可能泄露你计划的东西。作为中立使节离开隋军营地，对高句丽意图给出模棱两可的回答，返回己方战线。隋军将领将陷入不确定——他们可能谨慎推进，为你赢得更多时间沿萨水布置阵地。不确定性本身便是一种武器。"
+      },
+      "outcome": {
+        "en": "You return to Goguryeo lines without incident. The Sui generals are frustrated — they have nothing to show for your visit. They debate whether to advance cautiously or push aggressively. The faction favoring aggression wins the argument. They advance, but more slowly than if you had encouraged them. You gain two weeks.",
+        "ja": "何事もなく高句麗の戦線に戻る。隋の将軍たちは不満を募らせる——あなたの訪問から得るものが何もない。慎重に前進するか積極的に押し進むかを議論する。積極派が論争に勝つ。彼らは前進するが、あなたが彼らを促した場合よりもゆっくりだ。二週間を稼ぐ。",
+        "zh-CN": "你安然返回高句丽战线。隋军将领沮丧万分——你的来访毫无成果可言。他们争论是谨慎推进还是猛力突进。主张激进的一派赢得了争论。他们前进，但比你鼓励他们时要慢得多。你赢得了两周时间。"
+      },
+      "stateChanges": [
+        { "variable": "riverControl", "operation": "add", "value": 15 },
+        { "variable": "defenseDepth", "operation": "add", "value": 10 },
+        { "variable": "goguryeoMorale", "operation": "add", "value": 8 }
+      ]
+    }
+  ],
+  "initialState": {
+    "goguryeoMorale": 65,
+    "suiMorale": 70,
+    "defenseDepth": 50,
+    "supplyAttrition": 30,
+    "riverControl": 40
+  }
+}

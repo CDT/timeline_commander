@@ -1,0 +1,115 @@
+{
+  "id": "zhuge-liang-northern-228-scene-003",
+  "scenarioId": "zhuge-liang-northern-228",
+  "title": {
+    "en": "Reckoning at Chengdu",
+    "ja": "成都での清算",
+    "zh-CN": "成都问责"
+  },
+  "date": {
+    "en": "Summer 228 AD, Chengdu",
+    "ja": "228年夏、成都",
+    "zh-CN": "公元228年夏，成都"
+  },
+  "location": {
+    "en": "The Prime Minister's Office, Chengdu",
+    "ja": "成都の丞相府",
+    "zh-CN": "成都丞相府"
+  },
+  "narrativePrompt": {
+    "en": "You have brought the army home. That is not nothing — Wang Ping held enough of the line in the chaos at Jieting to allow an orderly withdrawal, and you personally supervised the evacuation of three counties, moving tens of thousands of civilians back across the mountain passes before Wei could consolidate its recaptured territory. The army is intact. The soldiers are fed and housed. Shu Han did not lose a war; it lost a campaign. These are the facts as you arrange them when the emperor's officials come to see you.\n\nBut you also know what the facts cost, and the cost is sitting in a detention cell waiting for you to complete the process that military law demands you complete. Ma Su. You promoted him over the objections of men who outranked him. You gave him Jieting when Liu Bei himself had warned you, on the last coherent day of his life, that Ma Su was unreliable in command. You made the choice. He made the disaster. Military law and personal integrity both demand the same conclusion, even if you find, sitting here in your office with the dispatch from Chengdu prison telling you that Ma Su has sent a final letter asking for clemency, that the weight of it is heavier than you expected.\n\nThe emperor has come to see you — Liu Shan, at seventeen years still deferential, still aware that without you the northern expeditions do not happen, that without you the entire apparatus of Shu Han governance becomes something he would need to manage personally, which is not a prospect he relishes. He has come not to demand an accounting but to offer something close to reassurance: the losses were not catastrophic, he says. The three commanderies will return to us when conditions allow. He is not wrong. He is also not quite understanding the question you are asking yourself.\n\nThe question is not whether Shu Han survived. It did. The question is whether you have the right to keep planning expeditions that cost men like this, in positions decided by you, on a mission that Liu Bei set before you but that the mathematics of Shu Han's position may have made impossible from the first day. And the second question is simpler and more immediate: having failed, having lost Jieting through an appointment you made against the weight of evidence, do you have the right to lead again? Not whether the emperor wants you to — he does — but whether the dead at Jieting, and Ma Su waiting in his cell, and the three counties now back under Wei authority, have produced an answer to the question of whether Zhuge Liang's judgment can be trusted with the lives of men.\n\nYou believe the answer is yes, because you believe you understand what you did wrong and will not do it again, and because the alternative is to let Wei grow unopposed. But what you believe about yourself is not the same as what you owe the dead. You have two decisions to make today, and they are not separate: what to do with Ma Su, and what to do with yourself.",
+    "ja": "あなたは軍を連れて帰還した。それは無意味ではない——王平は街亭の混乱の中で十分な防衛線を保持し、整然とした撤退を可能にした。あなた自身は三郡の住民の避難を監督し、魏が奪還した領土を固める前に数万の民を山岳峠を越えて連れ戻した。軍は無傷だ。兵士たちは食事と宿舎を与えられている。蜀漢は戦争に負けたのではなく、戦役に負けた。これらが、皇帝の官僚たちがあなたに会いに来るときにあなたが整理する事実だ。\n\nしかしあなたはまた、事実の代償を知っている。そして代償は、軍法があなたに完遂することを要求するプロセスを完了するのを待って拘置所の中に座っている。馬謖。あなたは彼より上位の人々の反対を押し切って彼を昇進させた。劉備自身が生涯最後の明晰な日に、馬謖は指揮においては信頼できないと警告したにもかかわらず、あなたは彼に街亭を与えた。あなたが決断を下した。彼が惨事を引き起こした。軍法と個人的な誠実さの両方が同じ結論を要求する。たとえあなたが、馬謖が最後の手紙を送って寛大な処置を求めていると伝える成都の拘置所からの文書を手に成都の執務室に座り、その重みが予想より重いことを感じていても。\n\n皇帝があなたに会いに来た——劉禅は17歳でまだ従順で、あなたなしでは北伐が実現しないこと、あなたなしでは蜀漢の統治機構全体が自分で管理しなければならないものになることを、十分に認識している。彼は責任を問うためではなく、安心に近い何かを申し出るために来た：損失は壊滅的ではなかった、と彼は言う。三郡は条件が整えばまた私たちのものになる、と。彼は間違っていない。しかし彼はまた、あなたが自分自身に問いかけている問いを完全には理解していない。\n\n問いは蜀漢が生き残ったかどうかではない。それは生き残った。問いは、あなたがこのように兵を費やす北伐を計画し続ける権利があるかどうかだ——あなたが決めた陣地で、劉備があなたの前に設定したが、蜀漢の状況の算術が最初の日から不可能にしていたかもしれない任務で。そして二番目の問いはより単純で、より差し迫っている：失敗し、証拠の重さに反するあなたが下した任命を通じて街亭を失った後、あなたは再び指揮を執る権利があるか？皇帝があなたに欲しているかどうかではなく——彼は欲している——しかし街亭の死者たちと、独房で待っている馬謖と、今再び魏の支配下にある三郡が、諸葛亮の判断が人々の命を任せられるかという問いへの答えを出したかどうか。\n\nあなたは答えはイエスだと信じている。なぜなら自分が何を間違えたかを理解し、再び同じことはしないと信じているから、そして代替案が魏を無抵抗に成長させることだから。しかし自分自身について信じることは、死者に負うものと同じではない。今日あなたが下すべき二つの決断があり、それらは別々ではない：馬謖をどうするか、そして自分自身をどうするか。",
+    "zh-CN": "你把军队带回来了。这并非毫无意义——王平在街亭的混乱中守住了足够的防线，使有序撤退成为可能，你亲自监督了三个郡的民众疏散，在魏军巩固收复失地之前，将数万百姓带过山隘。大军完好无损，将士有粮有营，蜀汉不是输了一场战争，而是输了一次战役。当皇帝的官员们前来问安时，这是你摆在自己面前的事实。\n\n但你也清楚这些事实所付出的代价。那代价正坐在一间拘室里，等待你完成军法所要求你完成的程序。马谡。你不顾许多资历更深之人的反对提拔了他。刘备在他生命最后一个神志清明的日子里明确警告过你，说马谡在指挥上不可依赖，你却仍将街亭交付于他。是你做出了那个决定，是他酿成了那场惨祸。军法与个人操守共同要求同一个结论——尽管此刻你坐在成都的执务室里，手持成都拘所送来的文书，言称马谡已遣人送来最后一封信请求宽恕，你发现这份重量比预想中更难承受。\n\n皇帝前来探望——十七岁的刘禅，一如既往地恭顺，深知若无你，北伐便无从启动；若无你，蜀汉的整套施政机器便将落到他自己手上去打理，而那是他并不乐意面对的前景。他此来不是为了追究责任，而是带来了近乎安慰的话语：损失并非毁灭性的，他说；三郡待条件成熟，终将归我，他说。他说的不错。但他并未完全领会你正在追问自己的那个问题。\n\n那个问题不是蜀汉是否撺挺过来了——它挺过来了。那个问题是：你是否有权利继续策划这样的北伐，令将士以这种方式伤亡，就在你所指定的阵地上，为着刘备在你面前设定、而蜀汉的处境或许从第一天起便已注定艰难的使命。第二个问题更简单，也更迫切：既已失败，既因你违逆证据所明之理而作出的那个任命折损了街亭，你是否还有权利再度领军？不是皇帝是否希望你领——他希望——而是街亭的死者、拘室里等候的马谡、如今重归魏国管辖的三个郡，是否已经回答了诸葛亮的判断是否值得以将士的性命相托这一问题。\n\n你相信答案是肯定的，因为你相信自己已明白错在何处，不会重蹈覆辙，也因为另一条路意味着任由魏国不受阻碍地强大。但你对自己所持的信念，与你对死者所负的债务并非同一回事。今日你需要做出两个决断，而它们并不独立：马谡该如何处置，以及你自己该如何处置。"
+  },
+  "situationReport": [
+    {
+      "en": "Ma Su is in custody awaiting judgment. Military law requires capital punishment for commanders who abandon assigned positions without orders. Officers and troops are watching to see how Zhuge Liang handles discipline after a catastrophic failure.",
+      "ja": "馬謖は拘留され、判決を待っている。軍法は、命令なしに割り当てられた陣地を放棄した指揮官に死刑を要求する。将校と兵士たちは、諸葛亮が壊滅的な失敗の後どのように軍紀を扱うかを見守っている。",
+      "zh-CN": "马谡已被羁押候审。军法规定，未奉命令擅自放弃所守阵地的将领须处以极刑。将士们正静观诸葛亮如何在惨败之后处置军纪。"
+    },
+    {
+      "en": "Zhuge Liang currently holds the rank of Prime Minister with direct military command. Han convention allows him to demote himself as a form of accountability for the expedition's failure.",
+      "ja": "諸葛亮は現在、直接の軍事指揮権を持つ丞相の地位を保持している。漢の慣習は、北伐の失敗に対する責任として自己降格することを認めている。",
+      "zh-CN": "诸葛亮目前以丞相身份直领军事指挥权。汉制允许他以自贬官阶的方式为北伐失利承担责任。"
+    },
+    {
+      "en": "Emperor Liu Shan has expressed his continued confidence in Zhuge Liang and has not demanded accountability beyond what Zhuge Liang determines for himself. The emperor's trust is genuine but places the moral burden entirely on Zhuge Liang.",
+      "ja": "刘禅皇帝は諸葛亮への引き続きの信任を表明し、諸葛亮自身が決定すること以上の責任を求めていない。皇帝の信頼は本物だが、道義的な重荷を完全に諸葛亮の上に置く。",
+      "zh-CN": "刘禅皇帝表达了对诸葛亮的持续信任，并未要求超出诸葛亮自行裁量之外的问责。皇帝的信任是真诚的，但这将道义上的重担完全压在了诸葛亮自己肩上。"
+    },
+    {
+      "en": "The three commanderies that briefly surrendered to Shu Han — Nan'an, Tianshui, and Anding — are now back under Wei control. Local officials who cooperated with Shu Han face Wei retaliation.",
+      "ja": "一時的に蜀漢に降伏した三郡——南安・天水・安定——は現在、再び魏の支配下にある。蜀漢に協力した地方官員は魏の報復に直面している。",
+      "zh-CN": "曾短暂归降蜀汉的三郡——南安、天水、安定——如今已重归魏国管辖。曾与蜀汉合作的地方官员面临魏国的追责。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Uphold military discipline by delivering a just and consistent verdict in Ma Su's case",
+      "ja": "馬謖の件において公正で一貫した判決を下すことで軍紀を維持する",
+      "zh-CN": "在马谡一案中作出公正一贯的裁决，以维护军纪"
+    },
+    {
+      "en": "Determine the appropriate level of personal accountability for the expedition's failure while preserving Shu Han's capacity for future campaigns",
+      "ja": "北伐の失敗に対する個人的な責任の適切な水準を決め、蜀漢の将来の遠征能力を維持する",
+      "zh-CN": "确定北伐失利的适当自我问责力度，同时维护蜀汉未来出征的能力"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Leniency toward Ma Su will undermine the authority of military law and create a precedent that commanders can fail without consequences",
+      "ja": "馬謖への寛大な処置は軍法の権威を損ない、指揮官が結果なしに失敗できる前例を作る",
+      "zh-CN": "对马谡宽大处理将损害军法的权威，开创指挥官失职而不受严惩的先例"
+    },
+    {
+      "en": "Excessive self-punishment — retirement or full resignation — would deprive Shu Han of its most capable administrator and military planner at a critical time",
+      "ja": "過度な自己罰——引退や完全辞任——は、重大な時期に蜀漢から最も有能な行政官と軍事計画者を奪うことになる",
+      "zh-CN": "过度的自我惩处——致仕或辞职——将在关键时刻剥夺蜀汉最能干的行政官与军事谋划者"
+    }
+  ],
+  "choices": [
+    {
+      "id": "zhuge-liang-northern-228-scene-003-choice-a",
+      "text": {
+        "en": "Execute Ma Su according to military law, demote yourself three ranks, and immediately begin planning the Second Northern Expedition",
+        "ja": "馬謖を軍法に従って処刑し、自らを三ランク降格し、直ちに第二次北伐の計画を開始する",
+        "zh-CN": "依军法处决马谡，自贬三级，并即刻着手筹划第二次北伐"
+      },
+      "historicalContext": "This is what historically happened. Zhuge Liang executed Ma Su — reportedly weeping as he signed the order — and demoted himself three ranks. He launched the Second Northern Expedition the same year, in the autumn of 228 AD.",
+      "outcomePrompt": {
+        "en": "You sign the order. You do not watch the execution, but you do not look away either — you read the reports afterward with the same attention you give to tactical dispatches. This is the discipline you require of your officers, and you do not exempt yourself from it.\n\nThe demotion you announce at the same session of court. Three ranks, as the law allows for a commander whose campaign has failed. The court officials are visibly relieved — not by the harshness of the sentence, which some of them would have softened, but by the consistency of it. A man who demotes himself for failure is a man who can be trusted to report both success and failure honestly. The young emperor nods without comment.\n\nYou begin planning the Second Northern Expedition within the month. You will not take Jieting again; you will take a different route, through Chencang, forcing Wei to divide its forces. The lesson of Jieting is not that mountain passes are dangerous — it is that the person you send to hold them matters more than the position itself. You will not again place a brilliant theorist in a position that requires a soldier's instincts. This lesson has cost 100,000 people their lives, or nearly. You intend to make it count.\n\nHistory will record that Zhuge Liang launched five Northern Expeditions between 228 and 234, each one strategically sound, none ultimately successful. He died at his command post at Wuzhang Plains in 234, still pursuing the goal he had committed to his emperor. Whether this is tragedy or integrity, or whether they are the same thing, is a question that the men who followed him were still debating when the last of them died.",
+        "ja": "あなたは命令書に署名する。処刑を見届けはしないが、目を背けもしない——その後報告書を、戦術の急報と同じ注意で読む。これがあなたが将校に求める軍紀であり、あなたは自分自身をそれから免除しない。\n\n降格を、同じ朝廷の会議で発表する。三ランク、法が失敗した戦役の指揮官に許す通りに。廷臣たちは明らかに安堵する——刑の厳しさにではなく（彼らの中には軽減したい者もいた）、その一貫性に。失敗のために自らを降格する人間は、成功も失敗も誠実に報告できる人間だ。若い皇帝はコメントなく頷く。\n\nあなたは一ヶ月以内に第二次北伐の計画を開始する。街亭は再び取らない；別の路線、陳倉を通る路線を取り、魏に兵力を分けることを強いる。街亭の教訓は山岳峠が危険だということではない——送る人間が陣地そのものより重要だということだ。優れた理論家を兵士の本能を必要とする陣地に再び置くことはない。この教訓は10万人の命を、あるいはほぼそれだけの命を犠牲にした。あなたはそれを意義あるものにするつもりだ。",
+        "zh-CN": "你在令书上签下名字。你没有去观看行刑，但你也没有回避——你事后以同样的专注阅读那份报告，一如对待战术军报。这是你对将领们的要求，你不将自己例外。\n\n降级之事，在同一次朝议上宣布。三级，正如军法对失利战役的主帅所允许的那样。朝廷官员们明显松了一口气——不是因为处置的严苛，其中有些人本想从轻，而是因为它的一贯性。一个为失败而自贬的人，是可以信赖他如实呈报成败两面的人。年轻的皇帝默默点首。\n\n你在当月便着手谋划第二次北伐。不走街亭；改道陈仓，迫使魏军分兵应对。街亭的教训不在于山隘险峻，而在于你派去守它的人，比阵地本身更加紧要。你不会再将才华横溢的理论家放在需要战将本能的位置上了。这一教训用了近十万人的性命来换取，你打算让它物有所值。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "officerLoyalty", "operation": "add", "value": 15 },
+        { "variable": "shuMorale", "operation": "add", "value": 10 },
+        { "variable": "strategicPosition", "operation": "add", "value": -5 },
+        { "variable": "supplySecurity", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "zhuge-liang-northern-228-scene-003-choice-b",
+      "text": {
+        "en": "Spare Ma Su with a reduced sentence, accept only a minor formal self-demotion, and take time to reassess whether further expeditions are wise before committing to another campaign",
+        "ja": "馬謖を軽減された刑で赦免し、軽微な形式的降格のみを受け入れ、別の戦役に踏み切る前にさらなる北伐が賢明かどうかを再評価する時間を取る",
+        "zh-CN": "从轻发落马谡，仅接受轻微的象征性自贬，并在决定是否再度出征前，花时间重新审视进一步北伐是否明智"
+      },
+      "historicalContext": "The historical counterfactual. In reality, Zhuge Liang executed Ma Su and quickly resumed military planning. Sparing Ma Su would have been legally and politically difficult and would have undermined the authority that Zhuge Liang needed to maintain discipline in the army.",
+      "outcomePrompt": {
+        "en": "The commutation is not popular. The officers who served under Ma Su — particularly Wang Ping, who was right about everything at Jieting — watch with expressions carefully neutral. The soldiers who know the story, and all of them know the story, understand that a commander who fails catastrophically and is spared has been granted a favor that the men under him did not receive. This knowledge does not disappear from the army. It settles into the institutional memory of the force.\n\nYour formal self-demotion is minor. The court accepts it without comment, which is itself a kind of comment. The emperor is relieved that you are not resigning your command. You are the indispensable man, and everyone knows it, including you, and the knowledge that you are indispensable is the same knowledge that makes full accountability difficult to achieve when indispensable men fail.\n\nYou spend the winter reassessing. The logistics of the northern passes. The relative strength of Wei under Cao Rui. The political stability of Shu Han's relationship with Wu. Your strategic analysis is sound and thorough, as it always is. The conclusion you arrive at is the same one you had before Jieting: the expeditions are necessary, whatever the cost, because the alternative is to let Wei grow until the moment it chooses to move south. This was true before. It remains true. But the army that will execute the next expedition carries in its institutional memory the fact that failure can be met with clemency, and that is a different army from the one that followed you through the Qinling passes in the spring.\n\nThe Second Northern Expedition will come. But it will begin from a different foundation than the first.",
+        "ja": "減刑は好評ではない。馬謖の下で仕えた将校たち——特に街亭のすべてにおいて正しかった王平——は注意深く中立の表情で見守る。その話を知っている兵士たち——全員が知っている——は、壊滅的に失敗した指揮官が赦されたことが、彼の下にいた兵士たちが受けなかった恩恵を与えられたことを理解する。この知識は軍から消えない。部隊の組織的記憶の中に定着する。\n\nあなたの形式的な自己降格は軽微だ。朝廷はコメントなしにそれを受け入れる。これ自体が一種のコメントだ。皇帝は指揮を辞さないことに安堵している。あなたは欠かすことのできない人物であり、皆がそれを知っている。あなた自身も含めて。そして欠かすことのできない存在だという知識は、欠かすことのできない人物が失敗したときに完全な説明責任を達成することを困難にするものと同じ知識だ。\n\nあなたは冬を再評価に費やす。北方の峠の兵站。曹叡の下での魏の相対的な強さ。蜀漢と呉の関係の政治的安定。あなたの戦略的分析は健全で徹底的だ。常にそうであるように。あなたが至る結論は、街亭前にあったものと同じだ：北伐は必要だ、代わりの選択肢は魏が南に動く瞬間を選ぶまで成長するのを許すことだから、いかなる犠牲を払っても。これは以前も真実だった。今も真実だ。しかし次の北伐を実行する軍は、失敗が寛容で迎えられる可能性があるという事実をその組織的記憶の中に持ち、それは春に秦嶺を越えてあなたに続いた軍とは異なる軍だ。",
+        "zh-CN": "这道从宽处置并不得人心。曾在马谡麾下效命的将领们——尤其是在街亭事事判断皆属正确的王平——神情刻意地保持中立，静静旁观。知道这段经过的士兵们——而所有人都知道——明白：一位造成惨败的指挥官得以免死，是被给予了他麾下那些人所未曾得到的恩典。这个认知不会从军中消失，它会沉淀进这支军队的集体记忆。\n\n你正式的自贬甚轻。朝廷无言接受，而这无言本身即是一种表态。皇帝对你没有弃职而去感到宽慰。你是不可或缺的人，人人皆知，包括你自己——而知晓自己不可或缺这一事实，与使不可或缺者在失败时难以得到真正问责，实为同一枚硬币的两面。\n\n你用整个冬天重新评估。北方山隘的后勤。曹叡治下魏国的相对实力。蜀汉与吴国关系的政治稳定。你的战略分析一如既往地严谨周全。你得出的结论与街亭之前并无二致：北伐是必要的，无论代价几何，因为另一条路意味着任由魏国坐大，直至它选定时机挥师南下。这在从前是真的，如今依然是真的。然而，将要执行下一次北伐的那支军队，其集体记忆中已留存了失败可以得到宽宥这一事实——那已是与春日随你翻越秦岭的那支军队不同的军队了。\n\n第二次北伐终将到来，但它将从一个不同的起点出发。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "officerLoyalty", "operation": "add", "value": -10 },
+        { "variable": "shuMorale", "operation": "add", "value": -5 },
+        { "variable": "strategicPosition", "operation": "add", "value": 5 },
+        { "variable": "supplySecurity", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

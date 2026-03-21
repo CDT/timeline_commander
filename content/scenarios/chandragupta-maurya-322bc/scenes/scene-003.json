@@ -1,0 +1,113 @@
+{
+  "id": "chandragupta-maurya-322bc-scene-003",
+  "scenarioId": "chandragupta-maurya-322bc",
+  "title": {
+    "en": "Seleucus at the Indus",
+    "ja": "インダスのセレウコス",
+    "zh-CN": "塞琉古在印度河"
+  },
+  "date": {
+    "en": "305 BC — the Indus frontier",
+    "ja": "紀元前305年——インダスの国境",
+    "zh-CN": "公元前305年——印度河边境"
+  },
+  "location": {
+    "en": "The Indus River frontier, northwestern India",
+    "ja": "北西インド、インダス川の国境",
+    "zh-CN": "印度西北部，印度河边境"
+  },
+  "narrativePrompt": {
+    "en": "Seleucus Nicator is not what you expected. You have had his scouts watched for three months, his army tracked since it crossed the Hindu Kush, and the intelligence picture is consistent: he is a serious commander with a serious army — Macedonian veterans who have fought from Greece to Persia, who know phalanx tactics and siege craft and the particular discipline that comes from following Alexander. He is not a man who makes easy mistakes.\n\nBut he has marched his army three thousand miles from Babylon to reclaim territories that Alexander's generals divided among themselves, and an army that has marched three thousand miles in unfamiliar terrain is not the same army it was when it started. Seleucus has supply problems. He has desertion. He has soldiers who are extremely good at what soldiers from that world do, and who are extremely bewildered by everything else.\n\nYour army is here, on ground of your choosing, with supply lines that run back into the heart of the most organized administrative state in India. Your war elephants — eight thousand of them, the largest elephant corps in the world — are positioned on the wings where they will do the most damage to Macedonian cavalry, which has never faced elephants in significant numbers. You have scouts in the hills, information about Seleucus's positions that he certainly does not have about yours.\n\nChanakya stands beside you studying the horizon. He says: you do not need to fight this battle. You say: I know. He says: you can end this with a letter. You say: I know that too. The question is which choice leaves us stronger in twenty years.\n\nSeleucus has sent three envoys in three weeks. He wants to negotiate. He is willing to negotiate. The question is whether you negotiate from the position you currently hold, or you fight first and negotiate from the ruins of his army.",
+    "ja": "セレウコス・ニカトールはあなたの予想とは違う。三ヶ月間彼の斥候を監視し、彼の軍をヒンドゥークシュ山脈を越えてから追跡し、情報の全体像は一貫している：彼はまともな軍を持つまともな指揮官だ——ギリシャからペルシャまで戦い、マケドニア方陣戦術・包囲術・アレクサンドロスに従うことから生まれる特有の規律を知るマケドニア退役軍人たち。彼は容易な過ちを犯す人物ではない。\n\nしかし彼は、アレクサンドロスの将軍たちが互いに分割した領土を取り戻すためにバビロンから3,000マイルを行軍してきた。そして3,000マイルを見知らぬ地形で行軍した軍は、出発時と同じ軍ではない。セレウコスは補給問題を抱えている。脱走兵がいる。あの世界の兵士がすることを極めて得意とし、それ以外の全てに極めて当惑している兵士たちがいる。\n\nあなたの軍はここにいる、あなたが選んだ地形の上に、インド最も組織化された行政国家の中心部へとつながる補給路とともに。あなたの戦象たち——八千頭、世界最大の象部隊——は、かつて象を相当数対面したことがないマケドニア騎兵に最大の損害を与える側面に配置されている。丘に斥候を持ち、セレウコスの陣地についてチャナキャが確実にあなたのものについて持っていないものを持っている。\n\nチャナキャはあなたの傍に立ち、地平線を研究している。彼は言う：この戦いをする必要はない。あなたは言う：分かっている。彼は言う：手紙一本でこれを終わらせられる。あなたは言う：それも分かっている。問いは二十年後にどちらの選択があなたたちを強くするかだ。\n\nセレウコスは三週間で三人の使者を送ってきた。彼は交渉を望んでいる。交渉する意欲がある。問いは、今あなたが保持する立場から交渉するか、それとも先に戦って彼の軍の廃墟から交渉するかだ。",
+    "zh-CN": "塞琉古·尼卡托尔与你的预想不同。你已经监视他的侦察兵三个月，从他翻越兴都库什山脉后就一直追踪他的军队，情报全貌始终如一：他是一位拥有强大军队的严肃指挥官——从希腊到波斯身经百战的马其顿老兵，熟悉方阵战术、攻城之术，以及随亚历山大征战所积累的那种特有纪律。他不是一个容易犯错误的人。\n\n但他率军从巴比伦跋涉三千英里，来收复亚历山大的将领们彼此瓜分的领土，而一支在陌生地形上跋涉了三千英里的军队，已不再是它出发时的那支军队。塞琉古有补给问题，有逃兵，有那些极擅长自己本行但对其他一切都极为困惑的士兵。\n\n你的军队就在这里，驻守在你选定的地形上，补给线一路延伸回印度最组织严密的行政国家的腹地。你的战象们——八千头，世界上最大的象兵部队——被部署在两翼，那里将对从未见过大量战象的马其顿骑兵造成最大的破坏。你在山丘上有侦察兵，掌握着塞琉古的位置情报，而他对你的情报则断然无法相比。\n\n考底利耶站在你身边研究地平线。他说：你不必打这一仗。你说：我知道。他说：一封信就能结束这一切。你说：这我也知道。问题是哪个选择能让我们在二十年后更强大。\n\n塞琉古在三周内送来了三名使者。他希望谈判。他愿意谈判。问题是，你是从你目前所持有的位置进行谈判，还是先打一仗，再从他军队的废墟上进行谈判。"
+  },
+  "situationReport": [
+    {
+      "en": "Military assessment: Mauryan forces have a significant positional advantage, superior supply lines, and the elephant corps provides a decisive edge over Macedonian cavalry. Chanakya estimates a 70% probability of military victory in a direct engagement.",
+      "ja": "軍事評価：マウリヤ軍は大きな陣地的優位を持ち、補給路が優れており、象部隊がマケドニア騎兵に対して決定的な優位を与える。チャナキャは直接交戦での軍事的勝利の確率を70%と推定する。",
+      "zh-CN": "军事评估：孔雀军队拥有明显的阵地优势，补给线更为优越，象兵部队对马其顿骑兵提供了决定性的优势。考底利耶估计在直接交战中取得军事胜利的概率为70%。"
+    },
+    {
+      "en": "Seleucus has offered: recognition of the Mauryan Empire as the dominant power of the subcontinent, withdrawal to the Indus frontier, and a diplomatic marriage alliance. He wants 500 war elephants in return.",
+      "ja": "セレウコスが提案しているもの：マウリヤ帝国を亜大陸の支配的な大国として認めること、インダス国境への撤退、外交的な婚姻同盟。彼は見返りとして500頭の戦象を求めている。",
+      "zh-CN": "塞琉古提出的条件：承认孔雀帝国为次大陆的主导强权，撤退至印度河边境，以及外交联姻协议。他要求以500头战象作为回报。"
+    },
+    {
+      "en": "A diplomatic settlement would also give Chandragupta access to Hellenistic diplomatic networks and trade connections with the western world, which Chanakya considers strategically valuable for the long-term development of the empire.",
+      "ja": "外交的解決はチャンドラグプタにヘレニズムの外交網と西方世界との貿易関係へのアクセスも与えるだろう。チャナキャはこれを帝国の長期的発展のための戦略的価値があるものと考えている。",
+      "zh-CN": "外交解决方案还将使旃陀罗笈多获得进入希腊化外交网络和与西方世界贸易联系的渠道，考底利耶认为这对帝国的长远发展具有战略价值。"
+    },
+    {
+      "en": "If Chandragupta defeats Seleucus militarily, he could potentially demand far more territory than the treaty offers. However, a defeated Seleucus would likely return with reinforcements, and a second war could prove far more costly.",
+      "ja": "チャンドラグプタがセレウコスを軍事的に打ち負かせば、条約が提供するよりはるかに多くの領土を要求できる可能性がある。しかし、敗北したセレウコスは増援を連れて戻ってくる可能性が高く、第二の戦争ははるかに高い代償を伴う可能性がある。",
+      "zh-CN": "如果旃陀罗笈多在军事上击败塞琉古，他可能要求远多于条约所提供的领土。然而，一个被击败的塞琉古很可能会带着援军卷土重来，第二场战争代价可能大得多。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure the northwestern frontier against Seleucid claims without committing to an unnecessary war",
+      "ja": "不必要な戦争を行うことなく、セレウコス朝の要求に対して北西辺境を確保する",
+      "zh-CN": "在不诉诸不必要战争的情况下，针对塞琉古王朝的主张确保西北边疆的安全"
+    },
+    {
+      "en": "Maximize the territorial and diplomatic gains from the confrontation with Seleucus",
+      "ja": "セレウコスとの対立から領土的・外交的利益を最大化する",
+      "zh-CN": "从与塞琉古的对抗中最大化领土和外交收益"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "A prolonged war in the northwest would strain the new empire's still-developing administrative systems",
+      "ja": "北西部での長期戦争は、まだ発展途上の新帝国の行政システムを圧迫するだろう",
+      "zh-CN": "西北部的持久战争将使新帝国仍在发展中的行政体系承受巨大压力"
+    },
+    {
+      "en": "The Deccan kingdoms to the south are watching — a weakened Maurya army following a costly war would invite challenges from that direction",
+      "ja": "南方のデカン諸王国が注視している——高い代償を払った戦争の後の弱体化したマウリヤ軍はその方向からの挑戦を招くだろう",
+      "zh-CN": "南方的德干诸王国正在观望——付出惨重代价的战争后虚弱的孔雀军队将招来来自那个方向的挑战"
+    }
+  ],
+  "choices": [
+    {
+      "id": "chandragupta-maurya-322bc-scene-003-choice-a",
+      "text": {
+        "en": "Negotiate. Accept Seleucus's offer: recognition of Mauryan supremacy, withdrawal to the Indus, a marriage alliance, and 500 war elephants as the price. Secure the frontier diplomatically and use the Seleucid connection to open western trade routes.",
+        "ja": "交渉する。セレウコスの申し出を受け入れる：マウリヤの覇権承認、インダスへの撤退、婚姻同盟、代価としての500頭の戦象。辺境を外交的に確保し、セレウコス朝との関係を西方貿易路の開拓に利用する。",
+        "zh-CN": "进行谈判。接受塞琉古的提议：承认孔雀霸权、撤退至印度河、联姻协议，以500头战象为代价。以外交手段确保边疆，并利用塞琉古王朝的关系开辟西方贸易路线。"
+      },
+      "historicalContext": "This is what Chandragupta did. The Seleucid-Mauryan Treaty gave him massive territorial gains, 500 war elephants became a famous part of Seleucid military power, and the diplomatic connection opened India to Hellenistic cultural exchange.",
+      "outcomePrompt": {
+        "en": "The treaty is signed over three days of negotiation in a camp on the Indus bank, with Chanakya conducting most of the technical details while you and Seleucus meet twice for formal exchanges that establish the tone of respect between equals.\n\nSeleucus gets his elephants. He gets the marriage. He gets recognition that his eastern frontier is secure. What he gets back for Macedon are 500 of the finest war elephants in the world, and he will use them at the Battle of Ipsus five years from now to decide the wars of Alexander's succession. The world is smaller than it looks.\n\nWhat you get is immense: Arachosia, Gedrosia, portions of Paropamisadae — vast territories that secure your empire's western frontier for a generation. You get a Seleucid ambassador at your court who reports back to Babylon that the Mauryan Empire is the most sophisticated administrative state in the eastern world. You get opened trade routes that bring Hellenistic goods into the Ganges Valley and Indian goods into the Mediterranean.\n\nChanakya draws a new map that evening. The empire, he observes, now extends from the Hindu Kush to Bengal. He adds: and your grandfather thought he was building something.",
+        "ja": "条約は、チャナキャがほとんどの技術的詳細を取り仕切る中、インダス川岸の野営地での三日間の交渉で署名される。あなたとセレウコスは対等者間の敬意の雰囲気を確立する正式な儀礼的交流のために二度会う。\n\nセレウコスは象を得る。婚姻を得る。東の国境が安全だという確認を得る。マケドニアのために彼が持ち帰るものは、世界最高の戦象500頭だ。そして彼はこれを今から五年後のイプソスの戦いで、アレクサンドロスの後継者たちの戦争を決するために使うだろう。世界は見た目より小さい。\n\nあなたが得るものは膨大だ：アラコシア・ゲドロシア・パロパミサダエの一部——一世代にわたって帝国の西辺境を確保する広大な領土。あなたの宮廷に駐在するセレウコスの大使を得る。彼はバビロンに、マウリヤ帝国が東方世界で最も洗練された行政国家だと報告するだろう。ヘレニズムの物品をガンジス渓谷に、インドの物品を地中海世界にもたらす開かれた貿易路を得る。\n\nその夜チャナキャは新しい地図を描く。帝国は、彼は観察する、今やヒンドゥークシュからベンガルまで広がっている。彼はこう付け加える：あなたの祖父は何かを築いていると思っていた。",
+        "zh-CN": "条约在印度河岸边的营地经过三天谈判后签署，考底利耶主持了大部分技术细节，而你和塞琉古进行了两次正式会晤，确立了平等之间相互尊重的基调。\n\n塞琉古得到了他的战象。得到了联姻。得到了东部边疆安全的保证。他为马其顿带回的是世界上最精良的五百头战象，他将在五年后的伊普苏斯战役中用它们来决定亚历山大继承战争的走向。世界比看起来要小。\n\n你得到的是巨大的收益：阿拉科西亚、格德罗西亚、帕罗帕米萨达的部分领土——这些广阔的疆土在一代人的时间里确保了帝国西部边疆的安全。你在宫廷中得到了一位塞琉古大使，他将向巴比伦报告孔雀帝国是东方世界最精密的行政国家。你开辟了将希腊化商品输入恒河流域、将印度商品输入地中海的贸易路线。\n\n那天晚上，考底利耶绘制了一幅新地图。帝国，他观察道，现在从兴都库什延伸到孟加拉。他补充道：而你的祖父以为他只是在建造什么。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "diplomaticPosition", "operation": "add", "value": 30 },
+        { "variable": "mauryaStrength", "operation": "add", "value": 20 },
+        { "variable": "popularSupport", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "chandragupta-maurya-322bc-scene-003-choice-b",
+      "text": {
+        "en": "Fight to decisive victory. Your army is stronger, your position is superior, and a military triumph would allow you to demand terms far more favorable than anything Seleucus is offering. Defeat him completely and negotiate from his ruins.",
+        "ja": "決定的勝利まで戦う。あなたの軍はより強く、陣地は優れており、軍事的勝利によりセレウコスが提示するものより遥かに有利な条件を要求できる。彼を完全に打ち破り、廃墟から交渉する。",
+        "zh-CN": "战至决定性胜利。你的军队更强，位置更优越，军事上的胜利将使你能够要求比塞琉古现在提供的任何条件都更为有利的条款。彻底击败他，从他的废墟上进行谈判。"
+      },
+      "historicalContext": "This is the more aggressive counterfactual. A military victory might have yielded more territory in the short term, but Seleucus was a resilient commander who would have returned for a rematch. The diplomatic settlement was arguably smarter for long-term empire building.",
+      "outcomePrompt": {
+        "en": "The battle is as complete a victory as Chanakya predicted. The elephant charges shatter Seleucus's cavalry on both flanks within the first hour. His infantry holds admirably — Macedonian veterans do not break easily — but without cavalry support they cannot maneuver, and by midday the result is certain. Seleucus retreats in good order across the Indus with perhaps half his force.\n\nThe terms you dictate are significantly better than what was offered: more territory, the same elephant payment, but no marriage alliance that could complicate succession. Seleucus accepts because he has no choice and because he is, in his way, a pragmatic man.\n\nBut Chanakya tells you that evening, reviewing the map: we have what we wanted, and we have a man in Babylon who will spend the next fifteen years thinking about how to return. Seleucus has sons. We should have made a friend today. We made a defeated enemy instead. These are not the same thing.\n\nHe is right, as usual. The Seleucid ambassador who comes two years later is cold where a son-in-law would have been warm. The trade networks develop more slowly than they might have. And in the corridors of Macedonian power, they speak of Chandragupta not as an equal but as a man to be eventually answered.",
+        "ja": "戦いはチャナキャが予測した通りの完全な勝利だ。象の突撃は最初の一時間で両翼のセレウコスの騎兵を粉砕する。彼の歩兵は見事に持ちこたえる——マケドニアの退役軍人は容易には崩れない——しかし騎兵支援なしには機動できず、昼には結果は確実だ。セレウコスはおそらく戦力の半分でインダス川を越えて整然と撤退する。\n\nあなたが命じる条件は、提示されていたものより大幅に有利だ：より多くの領土、同じ象の支払い、しかし後継問題を複雑にしかねない婚姻同盟はなし。セレウコスは選択肢がないため、そして彼はある意味で現実主義的な人間なので、受け入れる。\n\nしかしチャナキャはその夜、地図を見直しながらあなたに言う：私たちは望んでいたものを手に入れた、そして今後十五年間どう戻るかを考え続けるだろうバビロンの男がいる。セレウコスには息子たちがいる。今日、友人を作るべきだった。代わりに敗北した敵を作った。これらは同じことではない。\n\n彼はいつもの通り正しい。二年後に来るセレウコスの大使は、義理の息子が示したであろう温かさに欠けている。貿易網はあり得たよりゆっくりと発展する。そしてマケドニア権力の回廊では、チャンドラグプタのことを対等者としてではなく、いつかは応答すべき人物として語る。",
+        "zh-CN": "这场战役是考底利耶所预测的那般完整的胜利。战象的冲锋在第一个小时内就粉碎了塞琉古两翼的骑兵。他的步兵顽强抵抗——马其顿老兵不会轻易溃散——但没有骑兵支援便无法机动，到正午时分，结局已成定局。塞琉古带着大约一半的兵力有序地撤过印度河。\n\n你开出的条件比提议的好得多：更多的领土，同样的战象支付，但没有可能使继承问题复杂化的联姻协议。塞琉古接受了，因为他没有选择，也因为他在某种意义上是个务实的人。\n\n但那天晚上，考底利耶在审视地图时告诉你：我们得到了想要的，而巴比伦有一个人将在接下来十五年里思考如何卷土重来。塞琉古有儿子们。今天我们本应结交一个朋友。我们却树立了一个被击败的敌人。这两件事不是一回事。\n\n他照例是对的。两年后来访的塞琉古大使，缺乏一个女婿本会带来的那种温情。贸易网络的发展比可能的情况要缓慢得多。在马其顿权力的走廊里，他们谈及旃陀罗笈多，不是作为平等之人，而是作为终将有一天需要给予回应的对象。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "mauryaStrength", "operation": "add", "value": 15 },
+        { "variable": "nandaResistance", "operation": "add", "value": -20 },
+        { "variable": "diplomaticPosition", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

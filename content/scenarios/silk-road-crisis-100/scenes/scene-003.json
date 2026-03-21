@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-003",
+  "scenarioId": "silk-road-crisis-100",
+  "title": {
+    "en": "The Letter Home",
+    "ja": "故郷への手紙",
+    "zh-CN": "家书"
+  },
+  "isTerminal": true,
+  "nextSceneId": null,
+  "background": {
+    "en": "97 AD. You have spent 24 years in the Western Regions. You are now in your mid-60s. Most of the Tarim Basin kingdoms are under Han influence. The Silk Road is open. You have dispatched your deputy Gan Ying westward toward the Roman Empire — the furthest reach of Han diplomatic imagination. But you are tired. You have not seen China since your 30s. Your family in Luoyang are strangers to you. You have written to the Emperor three times requesting permission to return home. He has not replied.",
+    "ja": "97年。あなたは24年間西域にいる。今や60代半ばだ。タリム盆地の王国のほとんどが漢の影響下にある。シルクロードは開かれている。副官・甘英をローマ帝国に向けて西方に派遣した——漢の外交的想像力の最遠到達点。しかしあなたは疲れている。30代以来中国を見ていない。洛陽の家族は見知らぬ人だ。帰国許可を求めて三度皇帝に書いた。彼は返信していない。",
+    "zh-CN": "公元97年。你已在西域度过了二十四年。如今年届六旬中段。塔里木盆地大多数王国处于汉朝影响之下，丝绸之路已经畅通。你已派遣副手甘英向西出使罗马帝国——汉朝外交想象力所能抵达的最远处。但你已疲惫不堪。自三十多岁离开，你再未见过中国。洛阳的家人对你而言已如陌生人。你已三次上书皇帝请求归国许可，却没有得到任何回音。"
+  },
+  "prompt": {
+    "en": "You write a fourth petition to the Emperor. The mission is essentially accomplished — the Western Regions are pacified, the Silk Road is open, your successor is capable. You could frame this petition purely as a personal plea for an old man to see his homeland before he dies. Or you could make a strategic case: arguing that the Western Regions now need a permanent institutional structure, not a personal mission, and that returning to Luoyang allows you to advise the court on how to maintain what you have built.",
+    "ja": "皇帝への四度目の請願書を書く。使命は本質的に達成された——西域は平定され、シルクロードは開かれ、後継者は有能だ。この請願書を純粋に、老人が死ぬ前に故郷を見たいという個人的な嘆願として組み立てることができる。または戦略的な論拠を作ることもできる：西域は今や個人的な使命ではなく永続的な制度的構造を必要としており、洛陽に帰還することで、あなたが築いたものを維持する方法について宮廷に助言できると主張する。",
+    "zh-CN": "你撰写第四份请愿书呈于皇帝。使命已基本完成——西域已平定，丝绸之路已畅通，继任者也有能力。你可以将这份请愿书纯粹写成一位老人在临终前希望重见故土的个人恳请。或者你可以提出战略性论据：西域如今需要的是永久的制度性架构，而非一人担当的使命，而返回洛阳能使你为朝廷提供如何维护你所创建成果的建议。"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Write a personal plea — ask as an old man, not a general",
+        "ja": "個人的な嘆願を書く——将軍としてではなく老人として頼む",
+        "zh-CN": "写一份个人恳请——以老人身份而非将军身份请求"
+      },
+      "description": {
+        "en": "Write honestly: you have served for 24 years. You are old. You do not expect to live much longer. You ask only to die in your homeland, not in a foreign land. You will not claim strategic justification for what is a personal wish. If the Emperor grants it, it is an act of grace. If he denies it, you will serve until you die in the Western Regions. The petition speaks of loyalty and of time.",
+        "ja": "正直に書く：24年間奉仕してきた。老いた。もうそれほど長くは生きないだろう。故郷で死にたい、外国の地ではなく。個人的な願望に対して戦略的な正当化を主張しない。皇帝が認めるなら、それは恩寵の行為だ。拒否されるなら、西域で死ぬまで奉仕する。請願書は忠誠と時間について語る。",
+        "zh-CN": "如实书写：你已服务了二十四年，已然年迈，不期再活多久。你只求死在故土，而非异乡。你不会为一个个人心愿寻求战略性的正当理由。若皇帝批准，是皇恩浩荡；若拒绝，便在西域服务至死。这份请愿书诉说着忠诚与岁月。"
+      },
+      "outcome": {
+        "en": "The Emperor grants your request — a personal plea from the man who restored the Western Regions cannot be easily refused. You arrive in Luoyang after 30 years. You are old and worn. The capital is simultaneously familiar and strange. You die one month after arriving, in your homeland, as you wished. The historians record that you never had more than a few thousand soldiers in the field — and restored fifty kingdoms. They call you one of China's greatest generals.",
+        "ja": "皇帝があなたの要求を認める——西域を回復した人物からの個人的な嘆願は容易に断れない。30年ぶりに洛陽に到着する。あなたは老いて摩耗している。首都は親しみがあるとともに奇妙でもある。到着から一ヶ月後、望み通り故郷で死去する。歴史家たちは記録する——野戦で数千人以上の兵士を持ったことがなく、五十の王国を回復したと。彼らはあなたを中国最大の将軍の一人と呼ぶ。",
+        "zh-CN": "皇帝批准了你的请求——复兴西域之人的个人恳请无法轻易拒绝。阔别三十年，你回到洛阳，已然年迈憔悴。这座都城既熟悉又陌生。抵达一个月后，你如愿死在故土。史学家们记载：你从未在战场上拥有过数千以上的兵力，却复兴了五十个王国。他们称你为中国最伟大的将领之一。"
+      },
+      "stateChanges": [
+        { "variable": "hanPrestige", "operation": "add", "value": 20 },
+        { "variable": "tradeRouteControl", "operation": "add", "value": 15 },
+        { "variable": "localAlliances", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Make the strategic case — argue for institutionalizing the mission",
+        "ja": "戦略的論拠を作る——使命の制度化を主張する",
+        "zh-CN": "提出战略论据——主张将使命制度化"
+      },
+      "description": {
+        "en": "Argue that your return is necessary not for personal reasons but for strategic ones: the Western Regions require a permanent protectorate with proper administrative staffing, a garrison, and a fixed budget — not a single man improvising for decades. You offer to spend one year in Luoyang designing this institutional architecture before returning permanently. Make the case that the legacy of 30 years must be protected by structural change.",
+        "ja": "帰還が個人的な理由ではなく戦略的な理由で必要だと主張する：西域は適切な行政人員配置、駐屯軍、固定予算を持つ永続的な都護府を必要としており、数十年間即興する一人の人間ではない。永続的な帰還前に、この制度的枠組みを設計するために洛陽で一年を過ごすことを提案する。30年の遺産は構造的変化によって保護されなければならないとの論拠を作る。",
+        "zh-CN": "主张你的归国并非出于个人原因，而是战略所需：西域需要一个配备适当行政人员、驻军和固定预算的永久都护府——而非一个人独自即兴应对数十年。你提议在永久返回之前，在洛阳花一年时间设计这套制度架构。陈述三十年成果必须以结构性变革加以保护的论据。"
+      },
+      "outcome": {
+        "en": "The Emperor approves and recalls you to design the new Western Regions Protectorate. You spend 18 months in Luoyang, briefing the court, arguing for resources, and designing the administrative structure. The protectorate is formally established with a permanent garrison and governor. You return to the Western Regions one final time to hand over command — then retire to Luoyang, where you die peacefully. The institution you designed outlasts the empire itself.",
+        "ja": "皇帝が承認して、新しい西域都護府を設計するためにあなたを召還する。洛陽で18ヶ月を過ごし、宮廷に説明し、資源を求めて主張し、行政構造を設計する。都護府が恒久的な駐屯軍と都護を伴って正式に設立される。最後に西域に戻って指揮を引き継ぎ——そして洛陽に隠居し、そこで穏やかに死去する。あなたが設計した制度は帝国そのものより長く続く。",
+        "zh-CN": "皇帝批准，召你回朝主持新西域都护府的设计工作。你在洛阳度过了十八个月，向朝廷汇报，为资源据理力争，并设计行政架构。都护府正式成立，配备永久驻军和都护。你最后一次回到西域交接指挥——随后退隐洛阳，在此安然辞世。你所设计的制度比帝国本身存续得更为长久。"
+      },
+      "stateChanges": [
+        { "variable": "hanPrestige", "operation": "add", "value": 25 },
+        { "variable": "tradeRouteControl", "operation": "add", "value": 20 },
+        { "variable": "xiongnuthreat", "operation": "add", "value": -15 }
+      ]
+    }
+  ]
+}

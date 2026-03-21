@@ -1,0 +1,76 @@
+{
+  "sceneId": "scene-001",
+  "scenarioId": "khmer-empire-angkor-1177",
+  "title": {
+    "en": "Return from Exile",
+    "ja": "亡命からの帰還",
+    "zh-CN": "流亡归来"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-002",
+  "background": {
+    "en": "1178 AD. You are Jayavarman, a Khmer prince in your fifties, returning to a kingdom in ruins. You spent years at the Cham court in Vietnam — you know their language, their generals, their naval tactics. Now Angkor has been sacked. The king is dead. The great temples stand looted and desecrated. The population is demoralized, leaderless, and occupied by Cham soldiers. Three other Khmer nobles are also claiming the right to lead the resistance — but none of them have your military experience, your knowledge of the Cham, or your Buddhist legitimacy among the common people.",
+    "ja": "1178年。あなたは50代のクメール王子ジャヤヴァルマン、廃墟と化した王国に帰還する。ベトナムのチャム宮廷で数年を過ごした——彼らの言語、将軍たち、海軍戦術を知っている。今やアンコールは略奪された。王は死んだ。大寺院は略奪され冒涜されて立っている。民衆は意気消沈し、指導者なく、チャムの兵士に占領されている。他の三人のクメール貴族も抵抗を率いる権利を主張しているが——彼らの誰もあなたの軍事経験、チャムへの知識、または庶民の間での仏教的正統性を持っていない。",
+    "zh-CN": "公元1178年。你是高棉王子阇耶跋摩，年届五旬，归来的是一片满目疮痍的王国。你曾在越南占婆宫廷度过数年——深谙其语言、将领与水战战术。如今吴哥已遭洗劫，国王已死，大寺庙在被掠夺与亵渎后兀自伫立。民众意志消沉、群龙无首，处于占婆士兵的占领之下。另有三位高棉贵族也在主张领导抵抗军的权利——但他们没有一人具备你的军事经验、你对占婆的了解，或你在平民百姓间的佛教正统性。"
+  },
+  "prompt": {
+    "en": "You must establish your authority among the Khmer resistance before you can fight the Cham. The other noble claimants have armies and resources — they will not simply step aside. Do you try to unite the Khmer resistance by religious and moral authority, positioning yourself as the Buddhist leader whom the gods have sent to restore the kingdom? Or do you negotiate directly with the other claimants, offering power-sharing arrangements to consolidate the military force you need?",
+    "ja": "チャムと戦う前に、クメール抵抗軍の中で権威を確立しなければならない。他の貴族の主張者たちは軍と資源を持っている——彼らは単純に脇に退かない。神が王国を回復するために送った仏教的指導者として自らを位置づけ、宗教的・道徳的権威によってクメールの抵抗を統一しようとするか？それとも他の主張者たちと直接交渉し、必要な軍事力を統合するために権力分担の取り決めを申し出るか？",
+    "zh-CN": "在与占婆人交战之前，你必须先在高棉抵抗力量中确立权威。其他贵族觊觎者拥有军队和资源——他们不会轻易退让。你是要将自己定位为神明派来复国的佛教领袖，以宗教和道德权威团结高棉抵抗力量？还是直接与其他觊觎者谈判，提出权力分享安排以整合你所需的军事力量？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Lead through Buddhist legitimacy",
+        "ja": "仏教的正統性によって指導する",
+        "zh-CN": "以佛教正统性领导"
+      },
+      "description": {
+        "en": "Perform a series of public Buddhist ceremonies at the desecrated temples, personally leading the rituals of purification and renewal. Donate your own resources to repair the most sacred shrines. Position yourself explicitly as the Bodhisattva-king who has returned to restore the dharma. The common people respond to Buddhist moral authority in ways they do not respond to aristocratic claims. Build your coalition from the population up.",
+        "ja": "冒涜された寺院で一連の公開仏教儀式を行い、浄化と再生の儀式を個人的に主導する。最も神聖な神社を修復するために自分自身の資源を捧げる。法を回復するために戻ってきた菩薩王として明確に自らを位置づける。庶民は貴族的な主張に反応するよりも仏教的な道徳的権威に反応する。民衆から上へと連合を構築する。",
+        "zh-CN": "在被亵渎的寺庙举行一系列公开的佛教仪式，亲自主持净化与更新的礼仪。捐出自己的资源修缮最神圣的神庙，明确将自己定位为归来复兴正法的菩萨王。普通百姓对佛教道德权威的回应，远超对贵族主张的回应。从民众基础自下而上构建你的联盟。"
+      },
+      "outcome": {
+        "en": "Your religious authority campaign resonates powerfully. Monks and peasants rally to you in numbers that surprise the other noble claimants. Two of the three rival claimants, seeing your popular base, agree to subordinate their claims to yours in exchange for guaranteed lordships after victory. The third refuses and remains a source of friction — but your force is now the largest in the Khmer resistance.",
+        "ja": "あなたの宗教的権威キャンペーンが力強く響く。僧侶と農民が他の貴族の主張者たちを驚かせる数であなたの下に結集する。三人の競争相手の主張者のうち二人が、あなたの民衆基盤を見て、勝利後に保証された領地と引き換えに彼らの主張をあなたの下に従属させることに同意する。三番目は拒否して摩擦の源のまま残る——しかしあなたの勢力は今やクメール抵抗軍の中で最大だ。",
+        "zh-CN": "你的宗教权威运动产生了强大的共鸣。僧侣和农民纷纷聚集到你麾下，其人数令其他贵族觊觎者大为惊诧。三位竞争者中有两位看到你的民众基础后，同意以胜利后获得保证封地为条件，将各自的主张服从于你。第三位拒绝合作，仍是摩擦的来源——但你的力量现已成为高棉抵抗运动中最强大的一支。"
+      },
+      "stateChanges": [
+        { "variable": "buddhistSupport", "operation": "add", "value": 25 },
+        { "variable": "populationLoyalty", "operation": "add", "value": 20 },
+        { "variable": "militaryForce", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Negotiate military consolidation",
+        "ja": "軍事的統合を交渉する",
+        "zh-CN": "谈判整合军事力量"
+      },
+      "description": {
+        "en": "Meet directly with the other claimants. Acknowledge their legitimate claims and offer each a specific role: one will command the land army, another will command the river navy, the third will govern the southern provinces. You take overall command and the kingship after victory. This is purely pragmatic — it creates a unified military command faster than any other approach, at the cost of promising power you will need to actually deliver.",
+        "ja": "他の主張者たちと直接会う。彼らの正当な主張を認め、それぞれに具体的な役割を申し出る：一人が陸軍を指揮し、別の一人が河川海軍を指揮し、三人目が南部の州を統治する。あなたは総指揮と勝利後の王位を取る。これは純粋に実用的だ——実際に届ける必要がある権力を約束するという代価で、他のどんなアプローチよりも速く統一された軍事指揮を作り出す。",
+        "zh-CN": "直接与其他觊觎者会面。承认他们的合法主张，并向每人提供具体职责：一人统领陆军，另一人统领水军，第三人治理南部省份。你掌握总指挥权，并在胜利后登基称王。这纯属务实——它以承诺你必须切实兑现的权力为代价，比任何其他方式都更快地建立起统一的军事指挥体系。"
+      },
+      "outcome": {
+        "en": "Three of the four claimants reach agreement within a week. The fourth, who wanted the kingship itself, is isolated and eventually forced to cooperate when his own nobles defect to your coalition. Your military force doubles almost overnight. But the coalition is fragile — you will need decisive early victories to keep these allies committed before they start reconsidering their deals.",
+        "ja": "四人の主張者のうち三人が一週間以内に合意に達する。四番目は王位そのものを望んでいたが、自分自身の貴族があなたの連合に離反した時に孤立し、最終的に協力を余儀なくされる。あなたの軍事力はほぼ一夜のうちに倍増する。しかし連合は脆弱だ——同盟者たちが取引を再考し始める前に彼らの関与を保つために、決定的な早期の勝利が必要になる。",
+        "zh-CN": "四位觊觎者中三人在一周内达成协议。第四位想要的是王位本身，当他自己的贵族叛投你的联盟时，他陷入孤立，最终被迫合作。你的军事力量几乎在一夜之间翻了一番。但这个联盟很脆弱——你需要早期的决定性胜利，才能在盟友们开始重新考虑协议之前保持他们的承诺。"
+      },
+      "stateChanges": [
+        { "variable": "militaryForce", "operation": "add", "value": 25 },
+        { "variable": "buddhistSupport", "operation": "add", "value": 5 },
+        { "variable": "populationLoyalty", "operation": "add", "value": 8 }
+      ]
+    }
+  ],
+  "initialState": {
+    "khmerMorale": 40,
+    "chamStrength": 70,
+    "militaryForce": 50,
+    "buddhistSupport": 45,
+    "populationLoyalty": 55
+  }
+}

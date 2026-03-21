@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-003",
+  "scenarioId": "baekgang-663",
+  "title": {
+    "en": "The Last King of Baekje",
+    "ja": "百済最後の王",
+    "zh-CN": "百济最后的国王"
+  },
+  "isTerminal": true,
+  "nextSceneId": null,
+  "background": {
+    "en": "Late August 663 AD. The battle of Baekgang is over. The Japanese fleet has been destroyed. The Churyu fortress has fallen or is falling. You are Buyeo Pung, in flight with a remnant of your court, moving toward Goguryeo. The Baekje cause is effectively finished — there will be no more Japanese reinforcements, and Tang-Silla forces are consolidating control over the entire peninsula. The question now is not whether Baekje can be saved, but what its end will mean for the people of Baekje, for Japan, and for history.",
+    "ja": "663年8月下旬。白村江の戦いは終わった。倭の艦隊は壊滅した。周留城は陥落したか、陥落しつつある。あなたは扶余豊璋、宮廷の残存者とともに高句麗に向けて逃げている。百済の大義は事実上終わった——これ以上倭の増援はなく、唐・新羅の軍が半島全体への支配を固めている。今や問題は百済が救えるかどうかではなく、その終焉が百済の民、日本、そして歴史にとって何を意味するかだ。",
+    "zh-CN": "公元663年八月下旬。白江之战已经结束。倭国舰队被歼灭。周留城已经或正在陷落。你是扶余丰璋，带着朝廷残余人员逃往高句丽。百济的事业实际上已经终结——不会再有倭国援军，唐罗军队正在巩固对整个半岛的控制。现在的问题不再是百济能否得救，而是它的终结对百济百姓、对日本、对历史意味着什么。"
+  },
+  "prompt": {
+    "en": "You have reached a safe position with a small number of Baekje nobles and court officials. Messengers can still reach Japan. This is your last moment of agency as king. Do you send word to Japan asking them to accept Baekje refugees and preserve Baekje culture in exile? Or do you make a final diplomatic gesture — send terms to Tang requesting humane treatment of Baekje civilians who surrender?",
+    "ja": "少数の百済貴族と宮廷官僚とともに安全な地位に達した。使者はまだ日本に届くことができる。これがあなたの王としての最後の主体的な瞬間だ。日本に百済の難民を受け入れて亡命中に百済文化を保存するよう求める言葉を送るか？それとも最後の外交的身振りをするか——降伏する百済の民間人の人道的な扱いを求める条件を唐に送る。",
+    "zh-CN": "你已带着少数百济贵族和朝廷官员抵达安全位置。使者仍可抵达日本。这是你作为国王最后一次发挥主动权的时刻。你是否派人前往日本，请求他们接纳百济难民，在流亡中保存百济文化？还是做出最后的外交姿态——向唐朝提出条件，请求对投降的百济平民给予人道待遇？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Send the cultural mission to Japan",
+        "ja": "日本に文化使節を送る",
+        "zh-CN": "向日本派遣文化使团"
+      },
+      "description": {
+        "en": "Dispatch your most learned court scholars, craftsmen, and monks to Japan with the royal archives and whatever sacred objects could be carried. Japan is the only place Baekje can continue to exist. Request that the Yamato court grant these refugees land and status, preserve Baekje customs and knowledge, and honor the kingdom that fought beside them. Baekje dies as a state — but its civilization may endure.",
+        "ja": "最も博学な宮廷学者、職人、僧侶を王室文書庫と持ち運べる聖なる物品と共に日本に派遣する。日本が百済が存続し続けることができる唯一の場所だ。ヤマト朝廷にこれらの難民に土地と地位を与え、百済の習慣と知識を保存し、共に戦った王国を讃えるよう要請する。百済は国家として死ぬ——しかしその文明は存続するかもしれない。",
+        "zh-CN": "派遣你最博学的宫廷学者、工匠和僧侣，携带王室档案及一切能带走的神圣器物前往日本。日本是百济得以延续的唯一所在。请求大和朝廷赐予这些难民土地和地位，保存百济的习俗与知识，并铭记这个曾与他们并肩作战的王国。百济作为国家而死——但其文明或许得以延续。"
+      },
+      "outcome": {
+        "en": "Japan receives the Baekje refugees with considerable honor — the alliance, however it ended at Baekgang, meant something to them. Baekje scholars, craftsmen, and monks settle across western Japan, bringing advanced continental knowledge of architecture, Buddhism, medicine, and governance. Many Baekje noble families are absorbed into Japanese aristocracy. Their descendants help build the culture that becomes Japan. The kingdom of Baekje is gone — but its people shaped the civilization that rose in its wake.",
+        "ja": "日本は百済の難民をかなりの敬意を持って受け入れる——白村江でどう終わったにせよ、同盟は彼らにとって何かを意味した。百済の学者、職人、僧侶が日本の西部各地に定住し、建築、仏教、医学、統治に関する高度な大陸の知識をもたらす。多くの百済貴族の家系が日本の貴族に吸収される。彼らの子孫が日本となる文化を作るのに貢献する。百済王国は消えた——しかしその民はその後に興った文明を形作った。",
+        "zh-CN": "日本以相当的礼遇接纳了百济难民——白江之战无论如何收场，这段联盟对他们而言意义深重。百济学者、工匠和僧侣定居于日本西部各地，带来了建筑、佛教、医学和治理方面的先进大陆知识。许多百济贵族家族被吸收进日本贵族阶层，他们的后裔帮助构建了成为日本的文明。百济王国已经消逝——但其人民塑造了在其身后兴起的文明。"
+      },
+      "stateChanges": [
+        { "variable": "baekjeMorale", "operation": "add", "value": 20 },
+        { "variable": "allianceCohesion", "operation": "add", "value": 15 },
+        { "variable": "tangNavalStrength", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Negotiate terms for Baekje civilians",
+        "ja": "百済の民間人のために条件を交渉する",
+        "zh-CN": "为百济平民谈判条件"
+      },
+      "description": {
+        "en": "Send envoys to the Tang command with a message: you will cease all resistance and surrender formally, if the Tang and Silla commanders guarantee that Baekje civilians will not be enslaved, massacred, or collectively punished. Offer to renounce any claim to the throne and recognize Tang suzerainty — a humiliating concession, but one that might protect tens of thousands of ordinary Baekje people from the worst consequences of conquest.",
+        "ja": "唐の司令部に使節を送る。メッセージ：唐と新羅の指揮官が百済の民間人が奴隷にされず、虐殺されず、集団的に処罰されないことを保証するなら、すべての抵抗を止めて正式に降伏する。王位への一切の主張を放棄して唐の宗主権を認めることを申し出る——屈辱的な譲歩だが、数万人の普通の百済の人々を征服の最悪の結果から守るかもしれない。",
+        "zh-CN": "向唐朝指挥部派遣使节，传达此意：如果唐罗指挥官保证百济平民不遭奴役、屠杀或集体惩罚，你将停止一切抵抗，正式投降。提议放弃对王位的一切主张，承认唐朝宗主权——这是屈辱的让步，但或许能保护数以万计的普通百济百姓免遭征服最惨烈的后果。"
+      },
+      "outcome": {
+        "en": "The Tang commanders receive your terms. Liu Rengui, a pragmatic general, agrees to most of the conditions — massacring large civilian populations creates administrative headaches, and he would rather have a quiet province than a burning one. Baekje civilians are largely spared mass violence. The cultural loss is still enormous — your kingdom is dissolved into Tang-Silla administration — but the people survive. History records that you chose your people's survival over your own legacy.",
+        "ja": "唐の指揮官たちがあなたの条件を受け取る。実用主義的な将軍・劉仁軌は条件の大部分に同意する——大規模な民間人の虐殺は行政上の問題を引き起こし、燃える省よりも静かな省の方が好ましい。百済の民間人は大規模な暴力からほぼ免れる。文化的損失はそれでも甚大だ——あなたの王国は唐・新羅の行政に解体される——しかし民は生き延びる。歴史はあなたが自分自身の遺産より民の生存を選んだと記録する。",
+        "zh-CN": "唐朝指挥官们收到你的条件。务实的将领刘仁轨同意了大部分条件——对大批平民的屠杀只会制造行政难题，他宁要一个安定的辖区，也不要一片火海。百济平民大体上免遭大规模暴力。文化上的损失仍然巨大——你的王国被并入唐罗行政管辖——但人民得以存活。历史将记载你选择了子民的生存，而非自己的遗名。"
+      },
+      "stateChanges": [
+        { "variable": "baekjeMorale", "operation": "add", "value": 15 },
+        { "variable": "tangNavalStrength", "operation": "add", "value": 5 },
+        { "variable": "allianceCohesion", "operation": "add", "value": -10 }
+      ]
+    }
+  ]
+}

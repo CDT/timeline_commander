@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-003",
+  "scenarioId": "goguryeo-sui-war-612",
+  "title": {
+    "en": "The Salsu Flood",
+    "ja": "薩水の洪水",
+    "zh-CN": "萨水决堤"
+  },
+  "isTerminal": true,
+  "nextSceneId": null,
+  "background": {
+    "en": "July 10, 612 AD. The Sui vanguard of 305,000 men is crossing the Salsu River. The dam upstream holds back weeks of accumulated water. Approximately half the Sui force is in the river or on the near bank — the other half has already crossed to the far side. Your signal troops wait for your order. Goguryeo infantry and cavalry are positioned on both banks, hidden in the treeline. The moment the flood hits, they must attack immediately from both sides to prevent any survivors from regrouping. The timing is everything.",
+    "ja": "612年7月10日。30万5千人の隋の先鋒軍が薩水を渡河中だ。上流のダムが何週間もの蓄積された水を堰き止めている。隋軍の約半数が川の中か手前の岸にいる——残りの半数はすでに対岸に渡った。あなたの信号兵が命令を待っている。高句麗の歩兵と騎兵が両岸に、木立の中に隠れて配置されている。洪水が来た瞬間、生存者が再結集するのを防ぐために、両側からすぐに攻撃しなければならない。タイミングがすべてだ。",
+    "zh-CN": "公元612年7月10日。三十万五千人的隋军先锋正在渡过萨水。上游的水坝拦蓄了数周积聚的水量。隋军约半数正在河中或近岸——另一半已渡至对岸。你的信号兵等待着你的命令。高句丽步兵和骑兵已在两岸潜伏，隐于树林之中。洪水一来，必须立即从两侧同时发起攻击，阻止任何生还者重整旗鼓。时机就是一切。"
+  },
+  "prompt": {
+    "en": "The moment of the trap has arrived. You must choose exactly when to release the dam and order the simultaneous assault. Release too early and much of the Sui force is still on the near bank, relatively easy to escape the flood. Release too late and too much of the army has already crossed and regrouped. What is your timing?",
+    "ja": "罠の瞬間が来た。ダムを解放して同時攻撃を命令する正確なタイミングを選ばなければならない。早すぎると、隋軍の多くがまだ手前の岸にいて、洪水からの脱出が比較的容易だ。遅すぎると、軍のあまりにも多くがすでに渡河して再結集してしまう。タイミングはどうするか？",
+    "zh-CN": "设伏的时刻已到。你必须精准选择放开水闸、下令同时发动攻击的时机。放水太早，大部分隋军仍在近岸，逃离洪水相对容易；放水太晚，军队中太多人已经渡过河并重新集结。你将如何把握时机？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Release when the vanguard commanders cross — split the army",
+        "ja": "先鋒の指揮官が渡河した時に解放する——軍を分断する",
+        "zh-CN": "待先锋指挥官渡河时放水——切断全军"
+      },
+      "description": {
+        "en": "Wait until you can confirm that Yuwen Shu and the senior generals have crossed to the far bank. Then release the dam. The flood separates the command element from two-thirds of the army still on the near side. The generals are trapped on the far bank with limited troops, unable to organize resistance. The bulk of the army on the near bank, suddenly leaderless, panics under simultaneous assault from the treeline.",
+        "ja": "宇文述と上級将軍たちが対岸に渡ったことを確認できるまで待つ。そしてダムを解放する。洪水が指揮要素を、まだ手前の岸にいる三分の二の軍から切り離す。将軍たちは限られた兵力と共に対岸に閉じ込められ、抵抗を組織できない。手前の岸の大部分の軍は突然指導者を失い、木立からの同時攻撃にパニックに陥る。",
+        "zh-CN": "等待确认宇文述及高级将领已渡至对岸，再放开水闸。洪水将指挥层与仍在近岸的三分之二大军切断。将领们被困于对岸，身边兵力有限，无法组织抵抗。近岸的大部分军队突然群龙无首，在树林中同时发起的攻击下陷入恐慌。"
+      },
+      "outcome": {
+        "en": "The plan works beyond imagination. The dam opens as Yuwen Shu reaches the far bank. A wall of water crashes through the fording soldiers. Goguryeo attacks from both treelines simultaneously. Of the 305,000-strong Sui vanguard, fewer than 3,000 reach safety. Yuwen Shu survives but returns to China with a destroyed army and a testament to Goguryeo's defensive genius. Emperor Yang will never recover from this. The Sui dynasty has been fatally wounded.",
+        "ja": "計画は想像を超えてうまくいった。宇文述が対岸に到達した時にダムが開く。水の壁が渡河中の兵士を叩き潰す。高句麗が両側の木立から同時に攻撃する。30万5千の隋の先鋒軍のうち、安全な場所に辿り着いたのは3,000人未満だ。宇文述は生き延びるが、壊滅した軍と高句麗の防衛の天才性の証とともに中国に帰還する。煬帝はこれから二度と立ち直れない。隋王朝は致命的な傷を受けた。",
+        "zh-CN": "计划的成效超乎想象。宇文述抵达对岸时水闸开启，一堵水墙扑向正在涉渡的士兵。高句丽同时从两侧树林发起攻击。三十万五千隋军先锋中，得以生还者不足三千。宇文述虽幸免于难，却带着一支覆灭的军队和高句丽防守天才的见证回到中国。炀帝将永远无法从此役恢复。隋朝已受到致命创伤。"
+      },
+      "stateChanges": [
+        { "variable": "goguryeoMorale", "operation": "add", "value": 30 },
+        { "variable": "suiMorale", "operation": "add", "value": -50 },
+        { "variable": "riverControl", "operation": "add", "value": 25 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Release at maximum density — destroy the largest number",
+        "ja": "最大密度で解放する——最大数を壊滅させる",
+        "zh-CN": "在密度最大时放水——歼灭最多人数"
+      },
+      "description": {
+        "en": "Wait until the crossing is at maximum density — the most soldiers in the water simultaneously, both banks crowded with men waiting to ford. This is pure destructive maximalism: the flood kills the largest possible number. You lose the advantage of splitting commanders from their army, but the sheer casualties inflicted may be higher.",
+        "ja": "渡河が最大密度に達するまで待つ——最も多くの兵士が同時に川の中にいて、両岸が渡河を待つ兵士で混み合っている。これは純粋な破壊の最大主義だ：洪水は可能な限り最大数を殺す。指揮官を軍から切り離す優位を失うが、与える死傷者の絶対数はより多くなるかもしれない。",
+        "zh-CN": "等待渡河密度达到最大值——尽可能多的士兵同时处于水中，两岸挤满等待涉渡的人马。这是纯粹的极限毁灭：洪水杀死尽可能多的人。你失去了将指挥官与军队分割的优势，但所造成的伤亡绝对数量或许更高。"
+      },
+      "outcome": {
+        "en": "The flood at maximum density is catastrophic. The Salsu becomes a torrent of bodies. Goguryeo attacks from both banks into the chaos. The destruction is perhaps slightly less precisely targeted — some generals escape with larger personal retinues — but the casualty count is equally devastating. Fewer than 3,000 of the 305,000 survive. The Sui army's central vanguard has been annihilated. Korea will remember this day for a thousand years.",
+        "ja": "最大密度での洪水は壊滅的だ。薩水は死体の濁流となる。高句麗が両岸から混乱に攻撃する。破壊は少し精度が低いかもしれない——いくつかの将軍たちはより大きな護衛とともに脱出する——しかし死傷者数は同様に壊滅的だ。30万5千人のうち、生き残ったのは3,000人未満だ。隋軍の中央先鋒軍が全滅した。朝鮮はこの日を千年間記憶するだろう。",
+        "zh-CN": "洪水在密度最大时爆发，造成毁灭性打击。萨水变成一条尸横遍野的激流。高句丽从两岸攻入混乱之中。歼灭的精确性或许略有不足——部分将领带着较多亲卫逃脱——但伤亡数字同样触目惊心。三十万五千人中，生还者不足三千。隋军中路先锋军就此全军覆没。朝鲜将铭记这一天，长达千年。"
+      },
+      "stateChanges": [
+        { "variable": "goguryeoMorale", "operation": "add", "value": 30 },
+        { "variable": "suiMorale", "operation": "add", "value": -45 },
+        { "variable": "supplyAttrition", "operation": "add", "value": 20 }
+      ]
+    }
+  ]
+}

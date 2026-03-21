@@ -1,0 +1,91 @@
+{
+  "scenarioId": "warring-states-changping-260bc",
+  "timeline": [
+    {
+      "date": "-0260-01-01",
+      "description": {
+        "en": "The Changping campaign begins as a continuation of Qin's long offensive into Zhao territory. Zhao's experienced general Lian Po establishes a strong defensive line at Changping, refusing to be drawn into open battle despite Qin pressure. His strategy is to outlast the Qin supply lines, which stretch hundreds of miles.",
+        "ja": "長平の戦いは、秦の趙領土への長期攻勢の継続として始まる。趙の老練な将軍・廉頗は秦の圧力にもかかわらず野戦に引き込まれることを拒み、長平に強固な防衛線を構築する。彼の戦略は、何百里にもわたって伸びる秦の補給線を枯渇させることだ。",
+        "zh-CN": "长平之战作为秦国对赵国长期攻势的延续而打响。赵国经验丰富的将领廉颇在长平建立起坚固的防御阵线，尽管秦军施压，仍拒绝被引入野战。他的策略是耗尽绵延数百里的秦国补给线。"
+      }
+    },
+    {
+      "date": "-0260-04-01",
+      "description": {
+        "en": "Qin deploys a disinformation campaign inside the Zhao court, spreading rumors that Lian Po is aged, cowardly, and secretly negotiating surrender. The Zhao king, frustrated by the prolonged stalemate and the enormous cost of maintaining the frontier army, begins to question his general's resolve. Lian Po's defensive strategy, while sound, yields no glory and no captured territory.",
+        "ja": "秦は趙の朝廷内で情報工作を展開し、廉頗が老齢で臆病であり密かに降伏交渉を行っているという噂を広める。長引く膠着状態と辺境軍の維持にかかる莫大なコストに苛立った趙王は、将軍の意志を疑い始める。廉頗の守備戦略は堅実ではあるが、栄光も占領地ももたらさない。",
+        "zh-CN": "秦国在赵国朝廷内实施反间计，散布廉颇年老怯懦、暗中议降的谣言。赵王因旷日持久的僵局以及维持边境大军的巨大耗费而恼怒，开始质疑将领的意志。廉颇的防御战略虽然稳妥，却既无战功也无占领领土。"
+      }
+    },
+    {
+      "date": "-0260-07-01",
+      "description": {
+        "en": "Zhao Kuo, son of the celebrated general Zhao She, is appointed to replace Lian Po as commander of the Zhao army at Changping. Zhao Kuo is renowned for his theoretical knowledge of military strategy — he can debate tactics with any scholar — but has never commanded in battle. His own mother petitions the king against the appointment, saying her son is too arrogant and inflexible to lead men in the field. The king ignores her.",
+        "ja": "名将・趙奢の息子である趙括が、長平における趙軍の総大将として廉頗の後任に任命される。趙括は兵法の理論的知識で知られており——どんな学者とも戦術を論じることができる——しかし実戦での指揮経験はない。彼の母親でさえ、息子は傲慢で融通が利かず野戦の兵を率いるには不向きだとして任命に反対する上奏を行う。王はこれを無視する。",
+        "zh-CN": "名将赵奢之子赵括被任命为长平赵军主将，接替廉颇。赵括以兵法理论知识闻名——与任何学者论兵皆可侃侃而谈——但从未亲自指挥过战斗。他的母亲亲自上书，称其子过于自负固执，不宜领兵野战。赵王置之不理。"
+      }
+    },
+    {
+      "date": "-0260-07-15",
+      "description": {
+        "en": "Upon taking command, Zhao Kuo immediately reverses Lian Po's defensive orders. He replaces many of the experienced officers Lian Po had trusted, dismisses the carefully constructed field fortifications as overly cautious, and begins preparations for a large offensive. Qin, learning of the change in command through its spies, secretly replaces its own commander with Bai Qi — one of the most feared and effective generals of the Warring States period — while publicly concealing this change.",
+        "ja": "指揮を執るやいなや、趙括は廉頗の守備命令を直ちに覆す。廉頗が信頼していた経験豊富な将校の多くを交代させ、念入りに構築された野戦陣地を臆病すぎると退け、大規模な攻勢の準備を始める。指揮交代を間者を通じて知った秦は、自軍の将帥を戦国時代最も恐れられた有能な将軍の一人である白起に密かに交代させる一方、この交代を公には隠す。",
+        "zh-CN": "赵括一接掌指挥，便立即推翻廉颇的守备命令。他撤换了廉颇信任的许多老练将领，将精心构筑的野战工事斥为过于怯懦，着手准备大规模攻势。秦国从奸细处获悉指挥更迭后，秘密以战国时代最令人闻风丧胆的名将白起换下本方主将，同时对外隐瞒这一变化。"
+      }
+    },
+    {
+      "date": "-0260-08-01",
+      "description": {
+        "en": "Zhao Kuo launches his offensive, advancing out from Lian Po's defensive positions. Bai Qi executes a brilliant encircling maneuver: Qin's main force feigns retreat, drawing the Zhao army forward, while two flanking columns of 25,000 men each cut behind the Zhao advance and seal the exits. The entire Zhao army — estimated at 400,000 men — is surrounded and cut off from its supply lines.",
+        "ja": "趙括が攻勢を開始し、廉頗の守備陣地から前進する。白起は鮮やかな包囲機動を展開する：秦の主力が退却を装って趙軍を前進させ、二手に分かれた各25,000の迂回部隊が趙軍の後方を断ち退路を塞ぐ。推定40万の趙軍全体が包囲され、補給線を断たれる。",
+        "zh-CN": "赵括发起攻势，从廉颇的防御阵地向前推进。白起展开精妙的包围机动：秦军主力佯退，诱使赵军前进，而两支各两万五千人的侧翼分队迂回至赵军后方，封堵退路。估计四十万之众的赵军全部陷入包围，被切断补给线。"
+      }
+    },
+    {
+      "date": "-0260-09-01",
+      "description": {
+        "en": "The surrounded Zhao army digs in and attempts to hold its position while sending desperate messages to Zhao for relief. The Zhao king appeals to other states for military assistance, but Qin's diplomacy has isolated Zhao — other powers stand aside, fearing to provoke Qin. The relief army never comes. Inside the encirclement, food runs out. The soldiers begin to eat their horses, and then each other.",
+        "ja": "包囲された趙軍は陣地に立て籠もり、趙に絶望的な救援要請を送り続ける。趙王は他の国々に軍事支援を求めるが、秦の外交によって趙は孤立させられており——他の諸侯は秦を刺激することを恐れて傍観する。救援軍は来ない。包囲の内部では食糧が尽きる。兵士たちは軍馬を食べ始め、やがて互いを食べ始める。",
+        "zh-CN": "被围的赵军就地固守，同时向赵国发出绝望的求援信息。赵王向其他诸侯求援，但秦国的外交手段已将赵国孤立——各诸侯国惧怕激怒秦国，袖手旁观。援军始终未至。包围圈内粮食耗尽，士卒开始食马，继而相食。"
+      }
+    },
+    {
+      "date": "-0260-09-15",
+      "description": {
+        "en": "After 46 days of siege, Zhao Kuo personally leads a desperate breakout attempt with his remaining able-bodied soldiers. He is killed by Qin archers during the assault. With their commander dead and all hope of escape extinguished, the remaining Zhao troops surrender. Bai Qi, reportedly told by the Qin king that there are insufficient provisions to feed the prisoners, orders them executed. Historical sources record that approximately 400,000 Zhao soldiers are buried alive or killed — one of the largest single acts of mass killing in the ancient world.",
+        "ja": "46日間の包囲の末、趙括は残存する兵力を率いて自ら決死の突破を試みる。彼は突撃中に秦の弓兵に討たれる。将帥が死に脱出の望みが尽きると、残存する趙軍は降伏する。秦王から捕虜を養う食糧が不足していると聞かされたと伝えられる白起は、彼らの処刑を命じる。歴史上の史料によれば、およそ40万の趙兵が生き埋めにされるか殺害されたとされ、古代世界最大規模の単一の大量殺戮の一つとなった。",
+        "zh-CN": "被围四十六天后，赵括亲率残余可战之兵发起绝死突围。他在冲锋中被秦军弓手射杀。主将阵亡、突围希望彻底熄灭，赵军残部投降。据传秦王告知白起俘虏过多、粮食不足，白起下令将其全部处决。史料记载，约四十万赵兵遭活埋或杀害——这是古代世界规模最大的单次大规模屠杀事件之一。"
+      }
+    },
+    {
+      "date": "-0259-01-01",
+      "description": {
+        "en": "The aftermath of Changping leaves Zhao shattered. An entire generation of Zhao's fighting-age men has been destroyed. Though Zhao would survive for another three decades as a state, it never recovered its military power. The road to Qin's eventual unification of China in 221 BC runs directly through Changping.",
+        "ja": "長平の余波は趙を粉砕した状態のままにした。趙の戦闘可能年齢の男性の一世代全体が失われた。趙は国家として更に三十年存続したが、軍事力を取り戻すことはなかった。秦が紀元前221年に中国を統一するまでの道は、長平を直接通っている。",
+        "zh-CN": "长平之战的余波使赵国元气大伤。赵国整整一代适龄男丁灰飞烟灭。虽然赵国作为国家又延续了三十年，却再也未能恢复军事实力。秦国于公元前221年最终统一中国的道路，正是直接经由长平铺就的。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Battle of Changping ended in a catastrophic defeat for Zhao, the most powerful remaining rival to Qin's hegemony. Zhao Kuo's reckless offensive, enabled by the Qin disinformation campaign and Zhao's king's impatience with Lian Po's sound defensive strategy, delivered the entire Zhao army into a trap from which it could not escape. The mass execution of Zhao prisoners by Bai Qi — approximately 400,000 by most accounts — remains one of the deadliest single events in the ancient world. Zhao never recovered its military strength, and within three decades Qin had absorbed all the Warring States.",
+    "ja": "長平の戦いは、秦の覇権に対して最も強力な対抗勢力であった趙の壊滅的な敗北に終わった。秦の情報工作と廉頗の堅実な守備戦略に対する趙王の苛立ちによって可能となった趙括の無謀な攻勢は、趙軍全体を脱出不可能な罠に落とした。白起による趙の捕虜の大量処刑——多くの史料によれば約40万人——は古代世界で最も死者の多い単一の出来事の一つであり続けている。趙は軍事力を回復できず、三十年以内に秦はすべての戦国諸侯を吸収した。",
+    "zh-CN": "长平之战以赵国的灾难性失败告终。赵国是秦国霸权最后最强大的对手。秦国的反间计与赵王对廉颇稳健防御战略的不耐烦，使赵括的鲁莽攻势成为可能，将整支赵军送入了一个无法脱身的陷阱。白起对赵国俘虏的大规模处决——多数史料记载约四十万人——至今仍是古代世界伤亡最惨重的单一事件之一。赵国再也未能恢复军事实力，不出三十年，秦国便吞并了所有战国诸侯。"
+  },
+  "casualties": {
+    "en": "Zhao losses were catastrophic: approximately 400,000 soldiers killed after surrender, plus tens of thousands killed in combat during the campaign. Zhao Kuo was killed in the final breakout attempt. Qin losses during the prolonged campaign were also heavy — some estimates suggest 100,000 to 200,000 Qin casualties — but Qin's larger population and resource base allowed recovery. The demographic impact on Zhao was irreversible: an entire generation of military-aged men was lost.",
+    "ja": "趙の損害は壊滅的だった：降伏後におよそ40万の兵士が殺害され、さらに戦役中の戦闘で数万が討たれた。趙括は最後の突撃で討ち死にした。長期にわたる戦役中の秦の損害も大きかった——一説では秦軍の損害は10万から20万とも言われる——しかし秦の大きな人口と資源基盤は回復を可能にした。趙への人口統計的影響は取り返しのつかないものだった：軍役年齢の男性の一世代全体が失われた。",
+    "zh-CN": "赵国损失是灾难性的：降伏后约四十万士兵被杀，加上战役期间战斗中阵亡的数万人。赵括在最后的突围尝试中阵亡。长期战役中秦军损失也相当惨重——有估计认为秦军伤亡达十万至二十万——但秦国更大的人口基数与资源优势使其得以恢复。这场战役对赵国的人口影响是不可逆转的：整整一代适龄男丁就此消亡。"
+  },
+  "significance": {
+    "en": "The Battle of Changping is considered the pivotal turning point of the Warring States period. Before Changping, Zhao was the only state with the military strength to credibly contest Qin's expansion; after Changping, Qin's eventual unification of China became a matter of time rather than possibility. The battle is also one of history's most haunting examples of the costs of replacing experienced commanders with politically convenient ones, and of how disinformation at the court level can determine the fate of armies in the field. Bai Qi's mass execution of prisoners set a precedent for total war that would echo through Chinese military history. The story of Zhao Kuo has become proverbial in Chinese culture — the phrase zhishang tanbing (paper general, or one who can only discuss strategy in theory) derives directly from his story.",
+    "ja": "長平の戦いは戦国時代の決定的な転換点と見なされている。長平以前、趙は秦の拡大に信頼できる形で対抗できる唯一の軍事力を持つ国だった。長平以後、秦による中国統一は可能性の問題ではなく時間の問題となった。この戦いはまた、経験豊かな指揮官を政治的に都合の良い者に交代させることのコスト、そして朝廷レベルでの情報操作がいかに野戦における軍の命運を決定しうるかを示す、歴史上最も胸に迫る事例の一つでもある。白起の捕虜の大量処刑は、中国の軍事史に響き渡ることとなる総力戦の先例を設けた。趙括の物語は中国文化において諺となっており、「紙上談兵」という言葉は彼の物語に直接由来している。",
+    "zh-CN": "长平之战被视为战国时代的关键转折点。长平之前，赵国是唯一拥有足以有力抗衡秦国扩张的军事实力的国家；长平之后，秦国最终统一中国便成了时间问题而非可能性问题。这场战役也是历史上最令人痛心的案例之一，揭示了以政治便利人选取代经验丰富将帅的代价，以及朝廷层面的反间计如何左右战场上军队的命运。白起对俘虏的大规模处决开创了总体战的先例，在中国军事史上留下深远回响。赵括的故事在中国文化中成为典故，「纸上谈兵」这一成语正是直接源于他的故事。"
+  },
+  "furtherReading": [
+    "Mark Edward Lewis, The Early Chinese Empires: Qin and Han (Harvard University Press, 2007)",
+    "Nicola Di Cosmo (ed.), Military Culture in Imperial China (Harvard University Press, 2009)",
+    "Yuri Pines, The Everlasting Empire: The Political Culture of Ancient China and Its Imperial Legacy (Princeton University Press, 2012)",
+    "Robin D. S. Yates, Early China (Cambridge University Press, 2002)",
+    "Sun Tzu (translated by Victor Mair), The Art of War (Columbia University Press, 2007)"
+  ]
+}

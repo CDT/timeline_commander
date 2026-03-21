@@ -1,0 +1,114 @@
+{
+  "id": "ashoka-kalinga-261bc-scene-001",
+  "scenarioId": "ashoka-kalinga-261bc",
+  "title": {
+    "en": "The Morning After",
+    "ja": "翌朝",
+    "zh-CN": "翌日清晨"
+  },
+  "date": {
+    "en": "Dawn, 261 BC — Kalinga battlefield",
+    "ja": "紀元前261年、夜明け——カリンガの戦場",
+    "zh-CN": "公元前261年，黎明——羯陵伽战场"
+  },
+  "location": {
+    "en": "The Kalinga battlefield, eastern India",
+    "ja": "インド東部、カリンガの戦場",
+    "zh-CN": "印度东部，羯陵伽战场"
+  },
+  "narrativePrompt": {
+    "en": "The sun rises gray and heavy over the Kalinga plain. You walked out here before your ministers were awake — before the reports, the tallies, the next orders. The ground is dark and spongy under your sandals in ways it should not be, and you have stopped looking down.\n\nThey stretch in every direction: the dead. Your soldiers, Kalinga's soldiers, farmers who picked up spears and died anyway. Kites and vultures have been working through the night, and the air carries what the air carries on such mornings. Somewhere downfield, survivors have gathered — you can hear them, low and constant, a sound you will not easily forget. Women. Children. Old men. The empire has given them nothing today except loss.\n\nYou are the most powerful man alive. You command an army that has just shattered the last independent kingdom of consequence on the subcontinent. In a year, administrators will survey this territory and begin extracting its considerable wealth. In a generation, Kalinga will be Mauryan in name, language, and taxation. By any calculation your grandfather Chandragupta or his advisor Chanakya would have made, you have won.\n\nYou kneel beside a dead Kalinga soldier — a young man, a farmer by the look of his hands. He is not wearing armor. He picked up a spear because this was his home. You cannot remember if you were ever this young. The ministers will be awake soon. Your generals are already speaking of the southern kingdoms and the rains that will end the campaign season. The empire does not pause to grieve. Only you have come out here. Only you are kneeling in the dark, and the question you cannot answer is whether you are still the man who ordered this.",
+    "ja": "カリンガの平原に灰色の重い夜明けが訪れる。あなたは大臣たちが起き出す前に——報告書も、集計も、次の命令もない前に——ここへ歩み出た。地面はあなたのサンダルの下で、あるべきでない暗い弾力をもって沈み、あなたはもう下を見るのをやめた。\n\n四方八方に広がっている：死者たちが。あなたの兵士たち、カリンガの兵士たち、槍を手にして結局命を落とした農民たち。トビとハゲワシは一晩中働き続け、空気はこのような朝に漂うものを運んでいる。下手の方から生存者が集まっている——あなたにはその声が聞こえる、低く絶え間なく、容易には忘れられない音が。女たち。子供たち。老人たち。帝国は今日、彼らに喪失以外の何も与えていない。\n\nあなたは生きている中で最も強力な人間だ。あなたはインド亜大陸で最後の独立した主要王国を粉砕したばかりの軍隊を率いている。一年後には、行政官がこの領土を調査し、その相当な富を収奪し始めるだろう。一世代のうちに、カリンガは名称・言語・課税においてマウリヤのものとなるだろう。あなたの祖父チャンドラグプタや顧問チャナキャが行ったいかなる計算によっても、あなたは勝利した。\n\nあなたはカリンガの死んだ兵士の傍らに膝をつく——若い男、その手を見れば農民だったとわかる。彼は鎧を着ていない。ここが故郷だったから槍を取ったのだ。あなたはかつて自分がこれほど若かったかどうか思い出せない。大臣たちはまもなく起き出してくる。あなたの将軍たちはすでに南方の王国と遠征シーズンを終わらせる雨季について話し合っている。帝国は悲しみのために立ち止まらない。ここへ来たのはあなただけだ。暗闇の中で膝をついているのはあなただけで、答えられない問いがある——あなたはまだ、これを命じた男なのかと。",
+    "zh-CN": "灰暗而沉重的黎明升起在羯陵伽平原上。你在大臣们醒来之前就走了出来——没有报告，没有统计，没有下一步命令。地面在你的凉鞋下呈现出一种不该有的深暗与柔软，你已经停止向下看了。\n\n死者向四面八方延伸。你的士兵，羯陵伽的士兵，拿起长矛依然难逃一死的农民们。鸢鸟和秃鹫彻夜劳作，空气中弥漫着这样的早晨本该有的气息。在战场的远处，幸存者聚集在一起——你能听见他们，低沉而持续，那是一种你难以轻易忘怀的声音。女人们。孩子们。老人们。帝国今天除了失去，什么都没给他们留下。\n\n你是当世最强大的人。你统帅的军队刚刚击碎了次大陆上最后一个独立的主要王国。一年后，行政官员将勘查这片土地，开始榨取其丰厚的财富。一代人之后，羯陵伽将在名称、语言和赋税上都成为孔雀的领土。按照你祖父旃陀罗笈多或其谋士考底利耶的任何计算方式，你都赢了。\n\n你跪在一名羯陵伽阵亡士兵身旁——一个年轻人，从他的双手看得出是个农民。他没有穿盔甲。他拿起长矛，只因为这里是他的家。你已不记得自己是否曾经如此年轻。大臣们很快就会醒来。你的将领们已经在谈论南方的王国和即将终结战役季节的雨季。帝国不会因悲痛而停驻。只有你走到了这里。只有你跪在黑暗之中，而那个你无法回答的问题是——你是否还是那个下达了这道命令的人。"
+  },
+  "situationReport": [
+    {
+      "en": "The Kalinga campaign is complete. Military casualties on the Kalinga side are estimated at 100,000 dead, with 150,000 prisoners awaiting deportation orders. Mauryan losses were significant but the empire's military capacity remains intact.",
+      "ja": "カリンガ遠征は完了した。カリンガ側の軍事的損失は死者10万人と推定され、15万人の捕虜が追放命令を待っている。マウリヤ側の損失は相当だが、帝国の軍事力は健在だ。",
+      "zh-CN": "羯陵伽战役已经结束。羯陵伽一方的军事伤亡估计为十万人阵亡，另有十五万名俘虏等待驱逐令。孔雀方面的损失相当可观，但帝国的军事实力依然完整。"
+    },
+    {
+      "en": "The civilian population of Kalinga is severely disrupted. Refugees crowd the roads. Villages have been burned. The harvest is destroyed in many districts and famine conditions are developing.",
+      "ja": "カリンガの民間人は深刻な被害を受けている。難民が街道にあふれている。村々は燃やされた。多くの地区で収穫が壊滅し、飢饉の状況が生まれつつある。",
+      "zh-CN": "羯陵伽的平民深受其害。难民挤满了道路。村庄已被焚毁。许多地区的收成已被摧毁，饥荒正在蔓延。"
+    },
+    {
+      "en": "Senior generals are requesting guidance for the next campaign season targeting the Deccan kingdoms to the south. They anticipate an imperial directive within the week.",
+      "ja": "上級将軍たちは南方のデカン諸王国を標的とした次の遠征シーズンについての指針を求めている。彼らは一週間以内に帝国からの指令があることを見込んでいる。",
+      "zh-CN": "高级将领们正在请示针对南方德干诸王国的下一个战役季节的指导方针，预计将在本周内收到帝国指令。"
+    },
+    {
+      "en": "A group of Buddhist monks has appeared near the camp. They are tending to the wounded of both sides and have requested an audience with the Emperor. Your guards await your decision.",
+      "ja": "仏僧の一団が野営地の近くに現れた。彼らは双方の負傷者を看護しており、皇帝への謁見を求めている。護衛兵があなたの決断を待っている。",
+      "zh-CN": "一群佛教僧侣出现在营地附近。他们正在照料双方的伤员，并请求觐见皇帝。你的卫兵们等待着你的决定。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide the immediate fate of Kalinga's survivors — relief or resettlement",
+      "ja": "カリンガの生存者の当面の運命を決める——救済か強制移住か",
+      "zh-CN": "决定羯陵伽幸存者的即时命运——救济还是迁徙安置"
+    },
+    {
+      "en": "Set the direction for the empire's next strategic move — expansion or consolidation",
+      "ja": "帝国の次の戦略的方向性を定める——拡張か統合か",
+      "zh-CN": "确定帝国下一步战略方向——扩张还是整合"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your generals expect orders within days — the campaign window will close with the monsoon season",
+      "ja": "将軍たちは数日以内に命令を期待している——遠征の機会はモンスーンの季節とともに閉じるだろう",
+      "zh-CN": "你的将领们期待在数日内得到命令——战役窗口将随季风季节的到来而关闭"
+    },
+    {
+      "en": "The administrative apparatus of Kalinga must be established quickly to prevent banditry and local power vacuums from destabilizing the new province",
+      "ja": "山賊行為や地方の権力空白が新省を不安定にしないよう、カリンガの行政機構を速やかに確立しなければならない",
+      "zh-CN": "必须迅速建立羯陵伽的行政机构，以防止盗匪横行和地方权力真空破坏新省的稳定"
+    }
+  ],
+  "choices": [
+    {
+      "id": "ashoka-kalinga-261bc-scene-001-choice-a",
+      "text": {
+        "en": "Halt all further military expansion. Order your ministers to organize immediate relief for Kalinga's survivors — food distribution, medical aid, suspension of deportation orders. Begin personally receiving the Buddhist monks.",
+        "ja": "これ以上の軍事拡張を停止する。大臣たちにカリンガの生存者への即時救済——食料配給、医療援助、追放命令の停止——を組織するよう命じる。仏僧たちを個人的に迎えることを始める。",
+        "zh-CN": "停止一切进一步的军事扩张。命令大臣们组织对羯陵伽幸存者的即时救援——粮食分发、医疗援助、暂停驱逐令。开始亲自接见佛教僧侣们。"
+      },
+      "historicalContext": "This reflects Ashoka's actual response to the Kalinga War. His Thirteenth Rock Edict records his grief and his subsequent turn to dharma. The Buddhist tradition records his encounter with monks as catalytic to his conversion.",
+      "outcomePrompt": {
+        "en": "You call your senior minister Radhagupta to you before the morning is fully light. The orders flow clearly: suspend the deportation convoys, establish grain distribution points in every district, send physicians to the refugee camps. Your generals listen in silence when you tell them: there will be no southern campaign this season. The look on their faces is one you have not seen before — not fear, not anger exactly, but something like vertigo. You are the emperor. The empire bends to your will.\n\nThe monks are brought to you at midday. Their leader — lean, calm, with eyes that have seen much and been disturbed by little — sits with you for several hours. He speaks of dukkha: the suffering that pervades all existence when existence is built on craving and force. He speaks of karma: that actions ripple outward and return. You have killed 100,000 men. That ripple is immense. He does not tell you this as accusation. He tells you this as fact.\n\nWhen he leaves, you sit alone for a long time. Something in you is cracking open — not breaking, you realize, but opening. The empire has not collapsed. The army is still yours. But the questions you are now asking are different from any you have asked before, and you understand, dimly, that there will be no going back to the man you were before this morning.",
+        "ja": "朝がまだ十分明けないうちに、あなたは上級大臣ラーダグプタを呼びつけた。命令は明確に下る：追放の輸送隊を停止せよ、全地区に食料配給所を設置せよ、難民キャンプに医師を派遣せよ。将軍たちは、今季は南方遠征を行わないとあなたが告げると、沈黙のまま聞いた。彼らの顔には、かつて見たことのない表情が浮かんでいた——恐れでも、怒りでも正確にはなく、めまいのようなものだった。あなたは皇帝だ。帝国はあなたの意志に従う。\n\n僧侶たちは正午にあなたの元へ連れてこられる。その指導者——痩せていて落ち着いており、多くを見てきたがほとんど動じない目を持つ——は、数時間あなたと共に座る。彼は苦について語る：渇望と力の上に存在が築かれるとき、すべての存在に広がる苦しみについて。彼は業について語る：行為は波紋のように広がり、戻ってくる。あなたは10万人の男を殺した。その波紋は計り知れない。彼はこれを告発としてではなく、事実として語る。\n\n彼が去った後、あなたは長い間一人で座る。あなたの中で何かが割れて開こうとしている——壊れているのではなく、開こうとしているのだとあなたは気づく。帝国は崩壊していない。軍隊はまだあなたのものだ。しかし今あなたが問いかけている問いは、かつて問いかけたいかなるものとも異なっており、そしてあなたはおぼろげに理解する——今朝以前の自分に戻る道はもはやないと。",
+        "zh-CN": "你在清晨还未完全明亮之前就召来了高级大臣罗陀笈多。命令清晰地流淌而出：暂停驱逐队伍，在每个地区设立粮食分发点，向难民营派遣医师。当你告诉将领们本季不会有南征时，他们默默地听着。他们脸上的神情是你从未见过的——不是恐惧，不完全是愤怒，而是某种类似眩晕的东西。你是皇帝。帝国服从你的意志。\n\n正午时分，僧侣们被引到你面前。他们的领袖——清瘦、平静，有着见过许多、却少有惊扰的眼神——与你同坐了数小时。他谈到苦：当存在建立在渴爱和强力之上时，苦便弥漫于一切存在之中。他谈到业：行为如涟漪般向外扩散，终将回归。你杀死了十万人。那道涟漪是巨大的。他不是以指控的口吻告诉你这些，而是以陈述事实的方式。\n\n他离去之后，你独自坐了很久。你内心深处有什么正在裂开——不是破碎，你意识到，而是在打开。帝国没有崩塌。军队依然是你的。但你现在所问的问题，已与你曾经问过的任何问题都截然不同，你朦胧地明白，再也没有回路，回到今天早晨之前的那个你了。"
+      },
+      "nextSceneId": "ashoka-kalinga-261bc-scene-002",
+      "stateChanges": [
+        { "variable": "dharmaConviction", "operation": "add", "value": 30 },
+        { "variable": "subjectWelfare", "operation": "add", "value": 25 },
+        { "variable": "spiritualAwakening", "operation": "add", "value": 25 },
+        { "variable": "militaryControl", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "ashoka-kalinga-261bc-scene-001-choice-b",
+      "text": {
+        "en": "Kalinga's suffering is the cost of empire. Order the deportation convoys to proceed, begin organizing the provincial administration, and instruct your generals to plan the southern campaign. Send the monks away with a modest donation.",
+        "ja": "カリンガの苦しみは帝国の代償だ。追放の輸送隊を進め、州の行政組織を整え始め、将軍たちに南方遠征を計画するよう命じる。僧侶たちには適度な寄進とともに帰ってもらう。",
+        "zh-CN": "羯陵伽的苦难是帝国的代价。命令驱逐队伍继续前进，开始组织省级行政，并指示将领们计划南征。以适度的布施打发僧侣们离去。"
+      },
+      "historicalContext": "This represents the path Ashoka chose NOT to take. Had he continued the pattern of conquest, the Maurya Empire might have expanded further south but would likely have remained a conventional ancient empire rather than becoming the unique moral experiment it became.",
+      "outcomePrompt": {
+        "en": "You walk back to camp with your jaw set. Grief is a luxury that empires cannot afford. The deportation orders are confirmed. The administrators receive their mandates for Kalinga's integration. Your generals leave the council tent with the satisfied expressions of men whose trade has been honored.\n\nThe monks are given a gift of silver and escorted respectfully to the road. Their leader pauses at the edge of the camp and looks back at you with an expression you cannot read — not judgment, not quite. Something more like patience. As if he knows something about time that you do not.\n\nKalinga's wealth flows into the imperial treasury within the year. Your generals return with preliminary assessments of the Deccan kingdoms' defenses. You have not been broken by what you saw on that field. You are still the emperor your grandfather would have recognized. But the man kneeling in the dawn beside a dead farmer — you keep seeing him. At night. In the moment before sleep. He keeps asking a question you have decided not to answer.",
+        "ja": "あなたは顎を引き締めて野営地へと戻る。悲嘆は帝国が払う余裕のない贅沢だ。追放命令が確認される。行政官たちはカリンガ統合のための指令を受け取る。将軍たちは、自分たちの生業が尊重されたことへの満足感をたたえた表情で軍議の天幕を出ていく。\n\n僧侶たちには銀の贈り物が渡され、丁重に街道へと送り出される。彼らの指導者は野営地の端で足を止め、読み取れない表情であなたを振り返る——裁きでもなく、正確にはそうでもない。もっと忍耐に近い何かだ。まるで、あなたが知らない時間について何か知っているかのように。\n\nカリンガの富は一年以内に帝国の国庫に流れ込む。将軍たちはデカン諸王国の防衛力の予備評価を持ち帰る。あなたはあの戦場で見たものによって打ちのめされてはいない。あなたはまだ、あなたの祖父が認めたであろう皇帝だ。しかし、夜明けに死んだ農民の傍らで膝をついていたあの男——あなたはその姿を見続けている。夜に。眠りに落ちる直前の瞬間に。彼はあなたが答えないと決めた問いを問い続けている。",
+        "zh-CN": "你咬紧牙关走回营地。悲痛是帝国负担不起的奢侈。驱逐命令得到确认。行政官员们收到了整合羯陵伽的指令。将领们带着职业被认可的满足神情走出了议事帐篷。\n\n僧侣们收到了一份银质礼物，被恭敬地送上大路。他们的领袖在营地边缘停下脚步，以一种你无法解读的神情回望你——不是评判，又不完全是。更像是某种耐心。仿佛他知道某些关于时间的事情，而你却不知道。\n\n羯陵伽的财富在一年之内流入帝国国库。将领们带回了对德干诸王国防御力量的初步评估报告。你没有被那片战场上所见到的景象击垮。你仍然是你祖父会认可的那位皇帝。但是那个在黎明中跪在一名死去的农民旁边的人——你不断看见他。在夜里。在即将入睡的那一刻。他不断地提出你已决定不予回答的那个问题。"
+      },
+      "nextSceneId": "ashoka-kalinga-261bc-scene-002",
+      "stateChanges": [
+        { "variable": "militaryControl", "operation": "add", "value": 5 },
+        { "variable": "ashokaGrief", "operation": "add", "value": 10 },
+        { "variable": "dharmaConviction", "operation": "add", "value": -5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

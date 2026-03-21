@@ -1,0 +1,83 @@
+{
+  "scenarioId": "nara-heian-transition-794",
+  "timeline": [
+    {
+      "date": "0710-01-01",
+      "description": {
+        "en": "The capital of Japan is established at Nara (Heijo-kyo), modeled on the Tang capital Chang'an. The imperial court and major Buddhist temples concentrate in Nara, creating a powerful symbiosis — and tension — between religious and secular authority. Buddhist temples accumulate vast landholdings, wealth, and political influence.",
+        "ja": "日本の首都が奈良（平城京）に設置され、唐の首都・長安をモデルとしている。宮廷と主要な仏教寺院が奈良に集中し、宗教的権威と世俗的権威の間に強力な共生——と緊張——を作り出す。仏教寺院は広大な土地、富、政治的影響力を蓄積する。",
+        "zh-CN": "日本首都建于奈良（平城京），以唐朝首都长安为蓝本。朝廷与主要佛教寺院汇聚奈良，在宗教权威与世俗权威之间形成强大的共生关系——也制造了紧张态势。佛教寺院积累了大量土地、财富和政治影响力。"
+      }
+    },
+    {
+      "date": "0781-04-03",
+      "description": {
+        "en": "Kanmu ascends to the throne as the 50th Emperor of Japan. He is a reformist determined to reassert imperial authority against the growing power of the Buddhist establishment and powerful aristocratic clans. His mother was of Baekje Korean descent, giving him a perspective somewhat outside the established court networks.",
+        "ja": "桓武天皇が第50代天皇として即位する。彼は仏教の権威と有力な貴族氏族の増大する権力に対して皇権を回復しようとする改革主義者だ。彼の母は百済系朝鮮人の出身で、確立した宮廷ネットワークの外に幾らかの視点を与えている。",
+        "zh-CN": "桓武天皇即位为日本第五十代天皇。他是一位改革者，决心在日益膨胀的佛教势力和强大贵族氏族面前重振皇权。其母出身百济朝鲜裔，赋予了他某种置身于既成宫廷网络之外的视角。"
+      }
+    },
+    {
+      "date": "0784-01-01",
+      "description": {
+        "en": "Kanmu orders the capital moved from Nara to Nagaoka-kyo, hoping to break the political grip of the Nara Buddhist temples. The move is disrupted by omens, disasters, and the politically motivated assassination of the construction supervisor Fujiwara no Tanetsugu, for which Kanmu's brother Prince Sawara is blamed. Prince Sawara dies in exile, creating a troubled curse narrative.",
+        "ja": "桓武天皇が奈良から長岡京に都を移すよう命じ、奈良の仏教寺院の政治的支配を断ち切ることを期待する。この移転は不吉な兆し、災害、そして工事監督・藤原種継の政治的動機による暗殺によって混乱させられ、桓武の弟・早良親王が罪を着せられる。早良親王が流罪先で死去し、不幸の呪いの物語が生まれる。",
+        "zh-CN": "桓武下令将都城从奈良迁至长冈京，期望借此打破奈良佛教寺院的政治控制。迁都进程因凶兆、灾变以及工程监督藤原种继遭政治谋杀而受阻，罪名被加在桓武之弟早良亲王身上。早良亲王在流放途中去世，制造了一段令人不安的诅咒叙事。"
+      }
+    },
+    {
+      "date": "0793-01-01",
+      "description": {
+        "en": "After a decade of disasters at Nagaoka — floods, plagues, failed harvests attributed to the curse of Prince Sawara's vengeful spirit — Kanmu makes the dramatic decision to abandon Nagaoka entirely and move the capital again, this time to a site in the Yamashiro basin. He is advised that the site satisfies all principles of Chinese geomancy: mountains to the north, rivers to east and west.",
+        "ja": "長岡での十年間の災害——洪水、疫病、早良親王の怨霊の呪いとされた不作の収穫——の後、桓武は長岡を完全に放棄してまた都を移すという劇的な決断を下す。今度は山背盆地の場所に。その場所が中国の風水のすべての原則を満たしていると助言される：北に山、東西に川がある。",
+        "zh-CN": "在长冈历经十年灾难——洪水、瘟疫、被归咎于早良亲王怨灵诅咒的歉收——之后，桓武做出了戏剧性决定，彻底放弃长冈，再次迁都，这次选址在山背盆地。他得到建议，此地符合中国风水的所有原则：北有山岭，东西有河流环绕。"
+      }
+    },
+    {
+      "date": "0794-10-22",
+      "description": {
+        "en": "Emperor Kanmu formally moves the court to the new capital, naming it Heian-kyo. The city is planned on a grid modeled on Chang'an, with the Imperial Palace complex at the northern center. Buddhist temples, unlike in Nara, are strictly limited in number and location within the city — the state religion is to serve the emperor, not rival him.",
+        "ja": "桓武天皇が正式に新都に朝廷を移し、平安京と命名する。都市は長安をモデルとした格子状に計画され、皇居複合施設が北の中心に置かれる。奈良とは異なり、仏教寺院は都市内での数と場所を厳しく制限されている——国家宗教は皇帝に奉仕するものであり、対抗するものではない。",
+        "zh-CN": "桓武天皇正式将朝廷迁入新都，命名为平安京。城市依仿长安，按棋盘格规划，皇宫建筑群位于北部中央。与奈良不同，佛教寺院在城内的数量和位置受到严格限制——国家宗教是为天皇服务的，而非与之抗衡。"
+      }
+    },
+    {
+      "date": "0800-01-01",
+      "description": {
+        "en": "The Heian court stabilizes and begins to develop its distinctive culture. Kanmu pursues military campaigns against the Emishi people in northern Japan, commissioning Sakanoue no Tamuramaro as a general — later celebrated as the first legendary shogun. The combination of court refinement and frontier military expansion marks the early Heian period.",
+        "ja": "平安朝廷が安定し、独特の文化を発展させ始める。桓武は日本北部のエミシに対する軍事遠征を追求し、坂上田村麻呂を将軍として任命する——後に伝説的な最初の征夷大将軍として讃えられる。宮廷の洗練と辺境の軍事的拡大の組み合わせが平安時代初期を特徴づける。",
+        "zh-CN": "平安朝廷趋于稳定，开始发展其独特的文化。桓武推进对日本北部虾夷人的军事征伐，任命坂上田村麻呂为将军——后来被尊为传奇性的第一任征夷大将军。宫廷雅致与边疆军事扩张的结合，标志着平安时代的早期。"
+      }
+    },
+    {
+      "date": "0806-03-17",
+      "description": {
+        "en": "Emperor Kanmu dies at age 70, having reigned for 25 years and fundamentally transformed Japan's political geography. His capital will remain the seat of the imperial court until 1869. The culture that develops in Heian — the Tale of Genji, women's literature in kana script, the aesthetic of mono no aware — becomes the foundation of classical Japanese civilization.",
+        "ja": "桓武天皇が70歳で崩御、25年間在位して日本の政治的地理を根本的に変えた。彼の都は1869年まで天皇の朝廷の座であり続ける。平安で発展する文化——源氏物語、かな文字による女性文学、もののあわれの美学——が古典日本文明の基盤となる。",
+        "zh-CN": "桓武天皇以七十岁高龄驾崩，在位二十五年，从根本上改变了日本的政治地理格局。他的都城将作为皇室朝廷的驻地延续至1869年。在平安发展起来的文化——《源氏物语》、以假名文字书写的女性文学、物哀之美学——成为古典日本文明的基础。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The move to Heian-kyo was entirely successful. The new capital thrived for over a thousand years as Japan's imperial seat. By removing the court from Nara's Buddhist political environment, Kanmu enabled the development of a distinctly Japanese imperial culture, eventually producing the literary and aesthetic achievements of the Heian period — including The Tale of Genji, considered one of the world's first novels.",
+    "ja": "平安京への移転は完全に成功した。新しい都は千年以上にわたって日本の天皇の座として繁栄した。宮廷を奈良の仏教的政治環境から引き離すことで、桓武は独特の日本的な皇室文化の発展を可能にし、最終的に平安時代の文学的・美的成就——世界最初の小説の一つと見なされる『源氏物語』を含む——を生み出した。",
+    "zh-CN": "迁往平安京的决策取得了完全的成功。新都作为日本皇室驻地繁荣了逾千年。通过将朝廷从奈良的佛教政治环境中剥离，桓武促成了独特日本皇室文化的发展，最终孕育出平安时代的文学与美学成就——包括被视为世界最早小说之一的《源氏物语》。"
+  },
+  "casualties": {
+    "en": "The capital moves themselves caused significant economic hardship — forced labor for construction, the financial burden on noble families required to build residences in successive new capitals, and the disruption of established commercial and agricultural networks. The military campaigns against the Emishi in the north, concurrent with the capital-building projects, caused casualties on both sides estimated in the tens of thousands over several decades.",
+    "ja": "遷都そのものは相当な経済的困難を引き起こした——建設のための強制労働、連続する新しい都に居宅を建てることを求められた貴族の家族への財政的負担、確立した商業・農業ネットワークの混乱。遷都事業と同時進行した北方エミシへの軍事遠征は、数十年にわたって両側に数万と推定される死傷者を生み出した。",
+    "zh-CN": "历次迁都本身造成了相当大的经济困苦——建设所需的徭役、要求贵族家庭在接连新都建造宅邸的财政负担，以及对既有商业农业网络的冲击。与建都工程同步进行的北方征伐虾夷的军事行动，数十年间在双方造成了估计数以万计的伤亡。"
+  },
+  "significance": {
+    "en": "The founding of Heian-kyo in 794 is one of the hinge points of Japanese history. The decision to move the capital — twice — to escape the political power of the Nara Buddhist establishment was a decisive assertion of imperial secular authority. More importantly, Heian became the crucible of classical Japanese culture: the development of the kana syllabary, a distinctly Japanese literary tradition separate from Chinese models, the aesthetics of wabi and mono no aware, and the courtly refinement that defines Japan's cultural image in the world.",
+    "ja": "794年の平安京創設は日本史の転換点の一つだ。奈良の仏教的権威の政治力から逃れるために都を——二度——移すという決断は、皇室の世俗的権威の決定的な主張だった。より重要なのは、平安が古典日本文化の坩堝となったことだ：仮名の発展、中国のモデルから分離した独特の日本文学の伝統、わびともののあわれの美学、そして世界における日本の文化的イメージを定義する宮廷の洗練。",
+    "zh-CN": "794年平安京的建立，是日本历史的关键转折点之一。为摆脱奈良佛教势力的政治影响而两度迁都的决定，是皇室世俗权威的决定性彰显。更重要的是，平安成为日本古典文化的熔炉：假名字母的发展、有别于中国模式的独特日本文学传统、侘与物哀的美学，以及定义日本文化形象于世界的宫廷雅致。"
+  },
+  "furtherReading": [
+    "Ivan Morris, The World of the Shining Prince: Court Life in Ancient Japan (1964)",
+    "Piggott, Joan, The Emergence of Japanese Kingship (Stanford, 1997)",
+    "McCullough, William H., The Cambridge History of Japan, Volume 2: Heian Japan (1999)",
+    "Bowring, Richard, The Religious Traditions of Japan 500-1600 (Cambridge, 2005)",
+    "Adolphson, Mikael, The Gates of Power: Monks, Courtiers, and Warriors in Premodern Japan (Hawaii, 2000)"
+  ]
+}

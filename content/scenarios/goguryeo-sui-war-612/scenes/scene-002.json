@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-002",
+  "scenarioId": "goguryeo-sui-war-612",
+  "title": {
+    "en": "Seven Retreats",
+    "ja": "七たびの退却",
+    "zh-CN": "七败诱敌"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-003",
+  "background": {
+    "en": "Early July 612 AD. You have been executing a masterpiece of deliberate retreat for two weeks. Seven times you have engaged the Sui vanguard — and seven times you have fallen back in good order, letting them believe they are driving you before them. Each engagement has cost the Sui soldiers more energy, food, and confidence than the victory was worth. The Sui army has fought through summer heat, over unfamiliar terrain, with rations now barely sufficient for survival. They are 30 kilometers north of Pyongyang. Your scouts report that the Sui high command is debating: some generals want to stop and consolidate before the supply situation becomes critical. Others believe one more push will break you.",
+    "ja": "612年7月上旬。二週間にわたって意図的な退却の傑作を実行してきた。七回、隋の先鋒軍と交戦し——七回、統制を保ちながら後退して、彼らに自分たちが敵を追い立てていると信じさせた。それぞれの交戦で、勝利に見合う以上のエネルギー、食料、士気を隋の兵士から奪ってきた。隋軍は夏の暑さの中、見知らぬ地形を越えて戦い、今や糧食は生存にやっと足りる程度だ。彼らは平壌から北へ30キロにいる。斥候が報告する：隋の高級司令部が議論している——補給状況が危機的になる前に進軍を止めて態勢を固めたい将軍もいる。もう一押しであなたを崩せると信じる将軍たちもいる。",
+    "zh-CN": "公元612年七月初。你已执行了两周精心谋划的诈退杰作。七次与隋军先锋交战——七次从容撤退，让他们相信是自己在驱赶着你。每次交战所消耗的隋军士兵的精力、粮食和士气，都远超那场胜利的价值。隋军在夏日酷暑中、穿越陌生地形作战，如今粮草已仅勉强够维持生存。他们距平壌以北三十公里。斥候来报，隋军高层正在争论：一些将领希望在补给状况变得危急前停止前进、巩固阵地；另一些人则相信，再加一把劲就能击垮你。"
+  },
+  "prompt": {
+    "en": "The Sui army is reaching the point of maximum vulnerability, but your own forces are also strained from weeks of fighting retreat. The dam at the upper Salsu River is ready — releasing it will destroy any force attempting to ford. But you need the Sui vanguard positioned at the crossing, not still marching. How do you ensure the enemy is exactly where you need them when you spring the trap?",
+    "ja": "隋軍は最大限の脆弱性の点に達しつつあるが、あなた自身の部隊も数週間の戦闘的退却で消耗している。薩水上流のダムは準備できている——解放すれば渡河を試みるいかなる軍も壊滅させる。しかし隋の先鋒軍をまだ進軍中ではなく、渡河地点に位置させる必要がある。罠を仕掛けるとき、どうやって敵をまさに必要な場所に確実に置くか？",
+    "zh-CN": "隋军正接近其最脆弱的临界点，但你自己的军队也因数周的战斗撤退而精疲力竭。萨水上游的水坝已经准备就绪——一旦放水，将摧毁任何试图渡河的军队。然而你需要隋军先锋部署在渡口处，而不是仍在行军途中。当你启动陷阱时，如何确保敌军恰好处于你所需的位置？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Stage a final apparent defeat near the river",
+        "ja": "川付近で最後の見かけ上の敗北を演出する",
+        "zh-CN": "在河边上演最后一场败仗"
+      },
+      "description": {
+        "en": "Engage the Sui vanguard one final time, deliberately south of the Salsu, and allow them to push you back across the river in apparent rout. Make the crossing look desperate and disorganized — the Sui will pursue immediately, fording the Salsu while your troops are still visible on the far bank. Once half their army is in the water, release the dam.",
+        "ja": "意図的に薩水の南で最後に隋の先鋒軍と交戦し、川を越えて明らかな潰走に追い立てられるよう見せかける。渡河を絶望的で組織的でないように見せる——唐軍がまだ対岸に見えている間に、隋は即座に追撃して薩水を渡ろうとする。彼らの軍の半分が水中にいる時点でダムを解放する。",
+        "zh-CN": "在萨水以南最后一次与隋军先锋交战，故意做出被逼退过河、溃不成军的样子。让渡河看起来仓皇而混乱——隋军将立即追击，趁你的军队仍在对岸可见时涉渡萨水。等到他们一半军队入水，便放开水闸。"
+      },
+      "outcome": {
+        "en": "The performance is convincing. Yuwen Shu, believing the Goguryeo army is broken, orders an immediate pursuit across the Salsu without proper reconnaissance of the ford. The vanguard's cavalry plunges into the river. Your soldiers on the far bank suddenly halt their flight and stand. Then the dam opens.",
+        "ja": "演技は説得力がある。宇文述は高句麗軍が壊滅したと信じ、渡河地点を適切に偵察することなく薩水を即座に追撃するよう命令する。先鋒の騎兵が川に突進する。対岸のあなたの兵士たちが突然逃走を止めて立ち止まる。そしてダムが開く。",
+        "zh-CN": "这场表演令人信服。宇文述相信高句丽军队已被击溃，下令立即追击渡过萨水，未对渡口进行适当侦察。先锋骑兵冲入河中。对岸你的士兵突然停止溃逃，就地伫立。然后水闸开启。"
+      },
+      "stateChanges": [
+        { "variable": "riverControl", "operation": "add", "value": 20 },
+        { "variable": "suiMorale", "operation": "add", "value": 15 },
+        { "variable": "supplyAttrition", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Send a false peace offer",
+        "ja": "偽の和平提案を送る",
+        "zh-CN": "发出虚假的议和请求"
+      },
+      "description": {
+        "en": "Send envoys to the Sui command with a proposal for negotiated peace — meet at the Salsu River crossing in three days to discuss terms. The generals who want to stop and consolidate will push for this option; it also gives the entire vanguard time to concentrate at the crossing. When they assemble at the ford for the meeting, you release the dam.",
+        "ja": "和平交渉の提案とともに隋司令部に使節を送る——三日後に薩水の渡河地点で条件を議論するために会う。立ち止まって態勢を固めたい将軍たちはこの選択肢を押す。これはまた、先鋒全軍が渡河地点に集中する時間を与える。会議のために彼らが渡河地点に集まった時、ダムを解放する。",
+        "zh-CN": "派使节前往隋军指挥部，提出协商和平的方案——三天后在萨水渡口相会，商谈条件。希望停止前进、巩固阵地的将领们将力推此方案；这也给了全体先锋军足够时间在渡口集结。当他们聚集于渡口等待会谈时，你放开水闸。"
+      },
+      "outcome": {
+        "en": "The Sui generals accept the meeting — the conservative faction uses it to override the aggressive faction's desire to push through. Three days later, the vanguard concentrates at the Salsu crossing. The negotiating party from Goguryeo is late. The Sui forces are impatient, beginning to ford without waiting. You release the dam ahead of schedule.",
+        "ja": "隋の将軍たちは会合を受け入れる——保守派がこれを利用して積極派の突破しようとする意向を覆す。三日後、先鋒軍が薩水の渡河地点に集結する。高句麗からの交渉団は遅れる。隋軍は苛立ち、待たずに渡河を始める。あなたは予定より早くダムを解放する。",
+        "zh-CN": "隋军将领接受了会谈——保守派借此压倒了激进派继续突破的意愿。三天后，先锋军在萨水渡口集结。高句丽的谈判代表迟迟未到。隋军焦躁不安，不等对方便开始渡河。你提前放开水闸。"
+      },
+      "stateChanges": [
+        { "variable": "riverControl", "operation": "add", "value": 15 },
+        { "variable": "goguryeoMorale", "operation": "add", "value": 10 },
+        { "variable": "defenseDepth", "operation": "add", "value": 12 }
+      ]
+    }
+  ]
+}

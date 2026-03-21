@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-003",
+  "scenarioId": "funan-kingdom-250",
+  "title": {
+    "en": "The Mission to China",
+    "ja": "中国への使節",
+    "zh-CN": "出使中国"
+  },
+  "isTerminal": true,
+  "nextSceneId": null,
+  "background": {
+    "en": "243 AD. You have ruled Funan for nearly two decades. Your kingdom is at its height — controlling most of the Gulf of Thailand coast and commanding tribute from dozens of lesser kingdoms. But a new opportunity presents itself: the Chinese state of Wu, controlling southern China and the South China Sea ports, has sent an envoy to your court expressing interest in formal diplomatic relations. Funan has traded with China for generations, but never through a formal embassy. Formal recognition from a major Chinese state would complete Funan's legitimation as a great kingdom.",
+    "ja": "243年。ほぼ二十年間扶南を統治してきた。あなたの王国は最高潮にある——タイ湾岸のほとんどを支配し、数十の小王国から朝貢を受けている。しかし新しい機会が現れた：中国南部と南シナ海の港を支配する中国の呉国が、正式な外交関係への関心を示す使者をあなたの宮廷に送ってきた。扶南は何世代にもわたって中国と取引してきたが、正式な使節を通じたことはなかった。主要な中国の国からの正式な承認が扶南を偉大な王国として正統化することを完成させるだろう。",
+    "zh-CN": "公元243年。你统治扶南已近二十年。你的王国正处于巅峰——控制着泰国湾大部分沿岸，接受数十个小王国的朝贡。然而一个新的机遇出现了：控制中国南部和南海港口的中国吴国，已派使节来你的宫廷，表达对建立正式外交关系的兴趣。扶南与中国的贸易已有数代之久，却从未通过正式使节往来。来自一个主要中国国家的正式承认，将完成扶南作为伟大王国的合法化进程。"
+  },
+  "prompt": {
+    "en": "You must decide how to respond to Wu's diplomatic overture and what the terms of the relationship should be. Full submission as a tributary state — sending annual tribute and acknowledging Wu as suzerain — would secure the recognition but commit Funan to a subordinate position in China's diplomatic hierarchy. A relationship of equal sovereign states is what you prefer — but can you negotiate that from a position of strength?",
+    "ja": "呉の外交的接触にどう応答するか、そして関係の条件はどうあるべきかを決定しなければならない。臣属国としての完全な服属——年次朝貢を送って呉を宗主と認める——は認定を確保するが、扶南を中国の外交的階層での従属的立場に縛り付ける。平等な主権国家の関係があなたの望みだ——しかし強さの立場からそれを交渉できるか？",
+    "zh-CN": "你必须决定如何回应吴国的外交试探，以及这段关系的条件应当如何设定。作为朝贡国完全臣服——定期纳贡并承认吴国为宗主——将确保获得认可，但同时将扶南绑定在中国外交等级体系中的从属地位。你真正希望的是平等主权国家之间的关系——但你能否从实力地位出发谈判到这一点？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Send a tributary mission — accept the Chinese hierarchy",
+        "ja": "朝貢使節を送る——中国の階層を受け入れる",
+        "zh-CN": "派遣朝贡使团——接受中国的朝贡体系"
+      },
+      "description": {
+        "en": "Send a formal tributary mission to the Wu court — musicians, exotic animals, local products, and a letter formally acknowledging the Wu king's supreme position in the regional order. In exchange, Wu will grant you a formal title, recognize your kingdom in official Chinese records, and send a return mission with Chinese gifts. The tributary relationship is the price of Chinese legitimation, and that legitimation is worth more than the tribute costs.",
+        "ja": "正式な朝貢使節を呉の宮廷に送る——音楽家、珍しい動物、地元産品、そして地域秩序における呉王の最高の地位を正式に認める書状。その代わりに、呉があなたに正式な称号を授け、公式の中国の記録にあなたの王国を認定し、中国の贈り物を携えた返礼の使節を送る。朝貢関係は中国の正統性の代価であり、その正統性は朝貢のコストよりも価値がある。",
+        "zh-CN": "向吴国宫廷派遣正式朝贡使团——乐师、奇珍异兽、当地特产，以及一封正式承认吴王在地区秩序中至高地位的书信。作为交换，吴国将授予你正式称号，在官方中国史籍中承认你的王国，并回派携带中国礼物的使团。朝贡关系是获得中国合法性认可的代价，而这种认可的价值远超朝贡的成本。"
+      },
+      "outcome": {
+        "en": "The Wu court receives your mission warmly. You are granted the title of King of Funan by the Chinese imperial record — the first time your kingdom is formally recognized in Chinese history. Chinese sources from this point forward describe Funan as a great kingdom. The annual tribute is a fraction of Oc Eo's daily trade revenue. In exchange, you receive the most powerful endorsement available in the Asian world: the recognition of China.",
+        "ja": "呉の宮廷がうれしくあなたの使節を迎える。あなたは中国の皇室記録に扶南王の称号を与えられる——あなたの王国が中国の歴史に正式に認定された最初の時。この時点以降の中国の史料が扶南を偉大な王国と描写する。年次朝貢はオケオの日々の貿易収入のほんの一部だ。その代わり、アジアの世界で入手できる最も強力な裏書き：中国の認定を受ける。",
+        "zh-CN": "吴国宫廷热情接待了你的使团。你在中国皇家史籍中被授予扶南王的称号——这是你的王国首次在中国历史上获得正式认可。从此以后，中国史料将扶南描述为一个伟大的王国。年度朝贡只是沃桑日常贸易收入的一小部分。作为交换，你获得了亚洲世界所能给予的最有力的背书：中国的认可。"
+      },
+      "stateChanges": [
+        { "variable": "chineseRelations", "operation": "add", "value": 25 },
+        { "variable": "royalPrestige", "operation": "add", "value": 20 },
+        { "variable": "indianCulture", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Negotiate equal recognition — sovereign exchange",
+        "ja": "平等な承認を交渉する——主権の交換",
+        "zh-CN": "谈判平等承认——主权对等交流"
+      },
+      "description": {
+        "en": "Instruct your envoy to propose a relationship of mutual sovereign recognition rather than tributary submission: Funan sends gifts and Wu sends gifts in return — but neither party acknowledges the supremacy of the other. This is diplomatically unusual in the Chinese system, but not unprecedented for kingdoms that China cannot coerce. Test whether Wu wants the relationship enough to accept unusual terms.",
+        "ja": "あなたの使者に朝貢的服属ではなく相互の主権承認の関係を提案するよう指示する：扶南が贈り物を送り呉が返礼の贈り物を送る——しかしどちらの側も相手の至高性を認めない。これは中国のシステムでは外交的に珍しいが、中国が強制できない王国に対して前例がないわけではない。呉が異例の条件を受け入れるほどに関係を望んでいるかどうかを試す。",
+        "zh-CN": "指示你的使节提议建立相互主权承认的关系，而非朝贡式臣服：扶南送去礼物，吴国回赠礼物——但双方均不承认对方的至高地位。这在中国外交体系中颇为罕见，但对于中国无力强制的王国而言并非没有先例。试探吴国是否足够渴望这段关系，以接受这一非常规条件。"
+      },
+      "outcome": {
+        "en": "The Wu court is puzzled but interested. After several months of negotiation through intermediaries, they agree to a modified arrangement: Funan sends what China records as tribute but your own court records as gift exchange. The wording in Chinese sources is ambiguous enough to allow both sides to maintain their preferred interpretation. Both courts are satisfied. You have achieved recognition without full submission — a diplomatic achievement that takes real skill.",
+        "ja": "呉の宮廷は困惑するが関心を持つ。仲介者を通じた数ヶ月の交渉の後、修正された取り決めに同意する：扶南は中国が朝貢として記録するものを送るが、あなた自身の宮廷の記録では贈り物の交換として記録する。中国の史料の表現は両側が好む解釈を維持できるほど曖昧だ。両宮廷が満足する。完全な服属なしに認定を達成した——本物の技能を要する外交的業績だ。",
+        "zh-CN": "吴国宫廷颇感困惑，却也颇感兴趣。经过数月通过中间人的谈判，双方同意了一项修订安排：扶南送去中国史籍记为朝贡的东西，但你自己宫廷的记录则称之为礼物交换。中国史料中的措辞足够模糊，允许双方各自维持其偏好的诠释。两个宫廷皆感满意。你在不完全臣服的前提下获得了承认——这是一项需要真正技巧的外交成就。"
+      },
+      "stateChanges": [
+        { "variable": "chineseRelations", "operation": "add", "value": 18 },
+        { "variable": "royalPrestige", "operation": "add", "value": 25 },
+        { "variable": "tributaryKingdoms", "operation": "add", "value": 8 }
+      ]
+    }
+  ]
+}

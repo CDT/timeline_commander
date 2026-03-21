@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-003",
+  "scenarioId": "srivijaya-trade-700",
+  "title": {
+    "en": "The Architecture of Empire",
+    "ja": "帝国の構造",
+    "zh-CN": "帝国的架构"
+  },
+  "isTerminal": true,
+  "nextSceneId": null,
+  "background": {
+    "en": "710 AD. A generation has passed since your early campaigns. Srivijaya now controls the Strait of Malacca and is recognized as the dominant maritime power in Southeast Asia. Ships from China, India, Persia, and the Arab world stop at Palembang. Your treasury is rich, your fleet is strong. But a structural question confronts you: Srivijaya has grown large enough that you cannot personally oversee every port and every trade route. You must decide how to organize the empire that extends beyond your personal reach.",
+    "ja": "710年。初期の作戦から一世代が過ぎた。シュリーヴィジャヤは今やマラッカ海峡を支配し、東南アジアで支配的な海洋勢力として認められている。中国、インド、ペルシャ、アラブ世界からの船がパレンバンに立ち寄る。国庫は豊かで、艦隊は強い。しかし構造的な問いがあなたに対峙する：シュリーヴィジャヤはあなたが個人的にすべての港とすべての貿易ルートを監督できないほど大きくなった。あなたの個人的な届かない範囲を超えて広がる帝国をどう組織するかを決定しなければならない。",
+    "zh-CN": "公元710年。自你早期征战以来，一代人已经过去。室利佛逝如今控制着马六甲海峡，被公认为东南亚的主导海上势力。来自中国、印度、波斯和阿拉伯世界的船只停靠巨港，国库充盈，舰队强大。但一个结构性问题摆在你面前：室利佛逝已经壮大到你无法亲自监督每一个港口和每一条贸易航线的程度。你必须决定如何组织这个延伸至你个人掌控范围之外的帝国。"
+  },
+  "prompt": {
+    "en": "You must choose between two models of imperial organization. The first is a centralized model: appoint royal governors at every major port, who report directly to Palembang and share revenues on a fixed schedule. This gives you maximum control but requires constant administration. The second is a federated model: recognize local rulers as Srivijayan vassals who manage their own ports and trade, pay tribute, and provide naval ships when called upon. This requires less administration but distributes power.",
+    "ja": "二つの帝国組織モデルのうちどちらかを選ばなければならない。一つ目は集権化モデル：すべての主要港に王の総督を任命し、パレンバンに直接報告して固定スケジュールで収入を分配する。これは最大限の制御を与えるが、絶え間ない行政を要する。二つ目は連邦化モデル：地元の支配者をシュリーヴィジャヤの臣下として認め、彼ら自身の港と貿易を管理させ、貢物を支払い、要請された時に海軍の船を提供する。これは行政を少なく要するが、権力を分配する。",
+    "zh-CN": "你必须在两种帝国组织模式中做出选择。第一种是集权模式：在每个主要港口任命王室总督，直接向巨港汇报，并按固定周期分配收益。这给予你最大控制权，但需要持续的行政管理。第二种是联邦模式：承认地方统治者为室利佛逝的藩属，让他们自行管理港口和贸易，缴纳贡赋，并在召令时提供海军战船。这减少了行政负担，但也分散了权力。"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Centralized imperial administration",
+        "ja": "集権的な帝国行政",
+        "zh-CN": "集权式帝国行政"
+      },
+      "description": {
+        "en": "Appoint royal governors with fixed-term appointments at all major ports. Require them to send revenue reports to Palembang monthly, attend the royal court annually, and send their eldest sons to be educated in Palembang — both as students and as insurance against rebellion. This binds the empire tightly but creates resentment if the governors feel they are merely tax collectors for a distant king.",
+        "ja": "すべての主要港に任期を定めた王の総督を任命する。毎月パレンバンに収入報告書を送り、毎年王の宮廷に出席し、長男をパレンバンで教育のために送ることを要求する——学生としても反乱に対する保険としても。これは帝国をしっかりと束ねるが、総督たちが遠い王のためのただの徴税人に過ぎないと感じると反感を生む。",
+        "zh-CN": "在所有主要港口任命有固定任期的王室总督。要求他们每月向巨港提交收益报告，每年出席王庭，并将长子送往巨港接受教育——既作为学员，也作为防范叛乱的保证。这将帝国紧密束缚，但若总督们感到自己不过是为遥远国王效力的税吏，便会滋生怨恨。"
+      },
+      "outcome": {
+        "en": "The centralized system works well during your lifetime — you are respected and feared enough that governors comply. But your successor struggles with governors who have become entrenched in their ports, thinking of themselves as regional lords rather than royal administrators. The administrative costs of the system are high. Srivijaya expands further but must constantly suppress local ambitions. The structure is strong but brittle.",
+        "ja": "集権化されたシステムはあなたの存命中はうまく機能する——あなたは十分に尊重され恐れられているので総督たちは従う。しかしあなたの後継者は、地方の領主ではなく王の行政官として自分たちを考えるようになった、それぞれの港に根付いた総督たちと格闘する。このシステムの行政コストは高い。シュリーヴィジャヤはさらに拡大するが、地方の野望を常に抑制しなければならない。構造は強いが脆い。",
+        "zh-CN": "集权体系在你有生之年运作良好——你享有足够的威望与威慑，总督们恪尽职守。但你的继承者将与那些已在各自港口根深蒂固的总督们陷入困境，这些人开始以地方领主而非王室行政官的身份自居。该体系的行政成本高昂，室利佛逝虽进一步扩张，却必须持续压制地方野心。这一结构坚固却易脆。"
+      },
+      "stateChanges": [
+        { "variable": "straitControl", "operation": "add", "value": 20 },
+        { "variable": "tradeRevenue", "operation": "add", "value": 15 },
+        { "variable": "navalStrength", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Federated empire of tributary ports",
+        "ja": "臣属港の連邦帝国",
+        "zh-CN": "朝贡港口的联邦帝国"
+      },
+      "description": {
+        "en": "Formalize a network of tributary relationships. Local rulers keep their thrones and manage their ports; they send tribute to Palembang, acknowledge Srivijayan suzerainty in formal ceremonies, and provide ships for the common fleet when called. In return, they receive Srivijayan naval protection against pirates and rivals. This is a lighter touch — it scales to any size, but depends on the perceived value of Srivijayan protection remaining high.",
+        "ja": "臣属関係のネットワークを正式化する。地元の支配者は王座を保持して港を管理する；彼らはパレンバンに貢物を送り、正式な儀式でシュリーヴィジャヤの宗主権を認め、要請された時に共同艦隊のために船を提供する。その代わり、彼らは海賊と競争相手に対するシュリーヴィジャヤの海軍保護を受ける。これはより軽いタッチだ——どんな規模にもスケールするが、シュリーヴィジャヤの保護の認識される価値が高いままであることに依存する。",
+        "zh-CN": "将朝贡关系网络正式化。地方统治者保留王位并管理港口；他们向巨港进贡，在正式仪式上承认室利佛逝的宗主权，并在召令时为联合舰队提供战船。作为回报，他们获得室利佛逝对海盗和竞争者的海军保护。这是更轻盈的掌控方式——可扩展到任何规模，但有赖于室利佛逝保护的感知价值保持在高水位。"
+      },
+      "outcome": {
+        "en": "The federated model proves brilliantly suited to maritime empire. Your tributary ports multiply across the Malay Peninsula, Java, and Borneo. The system is flexible — when one port grows wealthy and restless, you can quietly redirect trade to another to discipline it without war. Srivijaya becomes not a kingdom with fixed borders but a network — and networks, as you understand instinctively, cannot be conquered. This model sustains Srivijayan dominance for six hundred years.",
+        "ja": "連邦化モデルが海洋帝国に見事に適していることが証明される。臣属港がマレー半島、ジャワ、ボルネオ全体に増殖する。システムは柔軟だ——ある港が富み落ち着きなくなった時、戦争なしにそれを規律するために静かに別の港に貿易を誘導できる。シュリーヴィジャヤは固定された国境を持つ王国ではなくネットワークとなる——そしてネットワークは、あなたが本能的に理解するように、征服できない。このモデルがシュリーヴィジャヤの支配を六百年間維持する。",
+        "zh-CN": "联邦模式被证明与海洋帝国的性质出奇地契合。你的朝贡港口遍布马来半岛、爪哇和婆罗洲。这一体系灵活多变——当某个港口变得富庶而躁动不安时，你可以悄然将贸易引导至别处，无需用兵便能加以约束。室利佛逝不再是一个有着固定边界的王国，而成为一张网络——而网络，如你本能所理解的，是无法被征服的。这一模式使室利佛逝的主导地位延续了六百年。"
+      },
+      "stateChanges": [
+        { "variable": "diplomaticPrestige", "operation": "add", "value": 20 },
+        { "variable": "tradeRevenue", "operation": "add", "value": 20 },
+        { "variable": "buddhistNetwork", "operation": "add", "value": 15 }
+      ]
+    }
+  ]
+}

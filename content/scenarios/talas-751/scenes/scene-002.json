@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-002",
+  "scenarioId": "talas-751",
+  "title": {
+    "en": "Five Days on the Talas",
+    "ja": "タラスの五日間",
+    "zh-CN": "怛逻斯五日"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-003",
+  "background": {
+    "en": "July 11–15, 751 AD. The battle has been joined. For four days your forces have held remarkably well. Your Tang crossbowmen, positioned on a low ridge, have poured bolts into Arab charges and forced their cavalry to wheel away repeatedly. The Ferghana auxiliaries have fought with surprising discipline. But the Arab army is larger, better supplied, and knows these lands. On the fifth day, a rider from your rear guard brings alarming news: the Karluk cavalry has halted and is forming up — facing inward. Your Tang liaison officers with the Karluks are not visible.",
+    "ja": "751年7月11〜15日。戦いは始まった。四日間、あなたの部隊は驚くほどよく持ちこたえた。低い尾根に配置された唐の弩兵がアラブの突撃に矢を浴びせ、彼らの騎兵を繰り返し方向転換させた。フェルガナの補助兵は驚くほど規律正しく戦った。しかしアラブ軍は大きく、補給も豊富で、この土地を知っている。五日目、後衛からの使者が衝撃的な報告をもたらす：カルルク騎兵が停止し、内側を向いて隊形を整えている。カルルクと共にいるはずの唐人連絡将校の姿が見えない。",
+    "zh-CN": "公元751年7月11至15日。战斗已经打响。四天来，你的军队守得异常出色。部署在低矮山脊上的唐军弩兵向阿拉伯人的冲锋倾泻箭矢，一再迫使其骑兵撤退转向。费尔干纳辅助兵表现出令人惊讶的纪律性。然而阿拉伯军队更庞大、补给更充足，且熟悉这片土地。第五天，一名来自后卫的骑手带来令人震惊的消息：葛逻禄骑兵已停止前进，正在列阵——面朝内侧。随葛逻禄部队的唐朝联络军官已不见踪影。"
+  },
+  "prompt": {
+    "en": "The Karluk defection is beginning. You have perhaps a quarter-hour before they complete their formation and charge your rear. Your crossbowmen on the ridge are the only force that can quickly redirect — but pulling them from the Arab front will allow the Arab cavalry to close. What do you do in this critical window?",
+    "ja": "カルルクの離反が始まっている。彼らが隊形を整えて後方に突撃するまで、おそらく15分ほどしかない。尾根上の弩兵だけが素早く方向を転換できる——しかしアラブの正面から引けば、アラブ騎兵が接近することを許す。この重大な窓の中でどうするか？",
+    "zh-CN": "葛逻禄的叛变正在发生。他们完成列阵并冲击你后方，大概还有一刻钟时间。山脊上的弩兵是唯一能快速转向的力量——但把他们从阿拉伯正面撤回，将让阿拉伯骑兵得以压近。在这个关键窗口，你将如何应对？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Order a fighting withdrawal",
+        "ja": "戦闘的撤退を命令する",
+        "zh-CN": "下令战斗撤退"
+      },
+      "description": {
+        "en": "Sound the withdrawal signal immediately. Order the crossbowmen to face rear and form a moving defensive line facing the Karluks. The Ferghana auxiliaries hold the Arab front as long as they can — their sacrifice buys time. Your personal guard and remaining Tang cavalry form around you. The goal is not victory; it is extracting enough of your force to fight another day. Begin the march back toward Kucha now, before the encirclement closes.",
+        "ja": "直ちに撤退の合図を出す。弩兵に後方を向いてカルルクに向けた移動防衛線を形成するよう命令する。フェルガナの補助兵は可能な限りアラブの正面を保持する——彼らの犠牲が時間を稼ぐ。あなたの親衛隊と残存する唐の騎兵があなたを囲む。目標は勝利ではなく、再び戦える十分な部隊を抽出することだ。包囲が閉じる前に今すぐクチャへの帰途につく。",
+        "zh-CN": "立即吹响撤退号令。命令弩兵转向后方，面对葛逻禄人组成移动防御线。费尔干纳辅助兵尽可能长时间坚守阿拉伯正面——他们的牺牲换取时间。你的亲卫队与剩余唐朝骑兵在你周围列队。目标不是胜利，而是抢救出足够多的兵力以待来日再战。趁包围尚未合拢，现在就开始向龟兹撤军。"
+      },
+      "outcome": {
+        "en": "The withdrawal is chaotic but partially controlled. The Ferghana auxiliaries are overwhelmed within minutes. The Karluk cavalry tears through what was your rear formation. You escape with perhaps 2,000 men — a fraction of your force. Thousands are captured. The defeat is devastating but you survive.",
+        "ja": "撤退は混乱しているが部分的に制御されている。フェルガナの補助兵は数分以内に圧倒される。カルルク騎兵がかつてあなたの後衛陣形だったところを突き破る。あなたはおそらく2,000人とともに脱出する——部隊のごく一部だ。数千人が捕虜となる。敗北は壊滅的だが、あなたは生き延びる。",
+        "zh-CN": "撤退混乱，但尚有部分秩序。费尔干纳辅助兵数分钟内便被击溃。葛逻禄骑兵冲穿了你原本的后卫阵型。你带着大约两千人逃脱——只是全军的一小部分。数千人被俘。此败惨烈，但你活了下来。"
+      },
+      "stateChanges": [
+        { "variable": "tangMorale", "operation": "add", "value": -25 },
+        { "variable": "tacticalPosition", "operation": "add", "value": 10 },
+        { "variable": "supplyLine", "operation": "add", "value": 15 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Strike the Karluks before they form",
+        "ja": "カルルクが隊形を整える前に攻撃する",
+        "zh-CN": "趁葛逻禄尚未列阵发起攻击"
+      },
+      "description": {
+        "en": "The Karluks are not yet in formation. A sudden charge by your personal guard — 500 heavy cavalry — directly into the Karluk mass before they ready themselves might scatter them, buying time for your main force to reorganize. It is a desperate gamble. If it works, you regain the initiative. If it fails, you lose your best unit and the battle simultaneously.",
+        "ja": "カルルクはまだ隊形を整えていない。あなたの親衛隊——500の重騎兵——がカルルクの集団に準備が整う前に突如突撃すれば、彼らを散らせて主力部隊が再編成する時間を稼げるかもしれない。それは絶望的な賭けだ。成功すれば主導権を取り戻す。失敗すれば最精鋭の部隊と戦闘を同時に失う。",
+        "zh-CN": "葛逻禄人尚未完成列阵。你的亲卫队——五百名重骑兵——在他们准备就绪之前突然冲入葛逻禄人群，或许能将其冲散，为主力部队重新整编赢得时间。这是一次孤注一掷的赌博。若成功，你重夺主动权。若失败，你将同时失去最精锐的部队和这场战役。"
+      },
+      "outcome": {
+        "en": "Your guard crashes into the Karluk flank and causes momentary confusion — some Karluk units scatter. But the Arab cavalry, seeing your main line thin of defenders, charges through the front. The Karluks recover within minutes and the encirclement closes from two directions. You are nearly surrounded before you can extract yourself.",
+        "ja": "あなたの親衛隊がカルルクの側面に突撃し、一時的な混乱を引き起こす——いくつかのカルルク部隊が散り散りになる。しかしアラブ騎兵は正面の防衛線が薄くなったのを見て突撃する。カルルクは数分以内に立ち直り、包囲が二方向から閉じる。逃れる前にほぼ包囲されてしまう。",
+        "zh-CN": "你的亲卫队冲入葛逻禄侧翼，造成短暂混乱——部分葛逻禄部队溃散。然而阿拉伯骑兵见正面防线空虚，趁机突击。葛逻禄人数分钟内便重整旗鼓，包围圈从两个方向合拢。你几乎在逃脱之前便陷入重围。"
+      },
+      "stateChanges": [
+        { "variable": "tangMorale", "operation": "add", "value": -35 },
+        { "variable": "abbasidStrength", "operation": "add", "value": 10 },
+        { "variable": "tacticalPosition", "operation": "add", "value": -15 }
+      ]
+    }
+  ]
+}

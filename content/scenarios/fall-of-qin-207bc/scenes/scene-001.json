@@ -1,0 +1,113 @@
+{
+  "id": "fall-of-qin-207bc-scene-001",
+  "scenarioId": "fall-of-qin-207bc",
+  "title": {
+    "en": "Crossing the Zhang River",
+    "ja": "漳水を渡る",
+    "zh-CN": "渡漳水"
+  },
+  "date": {
+    "en": "207 BC, Northern Bank of the Zhang River, Hebei",
+    "ja": "紀元前207年、漳水北岸、河北",
+    "zh-CN": "公元前207年，漳水北岸，河北"
+  },
+  "location": {
+    "en": "The Zhang River crossing, northern Hebei",
+    "ja": "漳水の渡河地点、河北北部",
+    "zh-CN": "漳水渡口，河北北部"
+  },
+  "narrativePrompt": {
+    "en": "The water of the Zhang River moves slowly in the late autumn cold, grey and indifferent to the army that stands on its southern bank. You killed Song Yi six days ago. The army cheered, and King Huai's messenger has come and gone, ratifying the deed with a formality that means nothing — the army's response was the only ratification that mattered. Now you stand where Song Yi refused to stand: at the river's edge, looking north at Julu.\n\nThe Qin forces on the other side are enormous. Zhang Han commands the main army, tens of thousands of disciplined Qin soldiers who have beaten every rebel force they have faced so far. Around Julu, the Qin relief commander Wang Li has the city invested and is pressing it hard. The Zhao rebel king inside is counting on you. The other rebel commanders who came with your relief force are watching from their fortified camps with what you correctly read as a mixture of hope and calculation — they want Julu saved, but they also want to see if you fail.\n\nYour army has been watching you since you killed Song Yi. They are not afraid — or rather, they are afraid in the right direction, the direction that makes men fight. They have followed you across half of China because they believe in your strength and your willingness to act where other men hesitate. What you do in the next hour will define this campaign and, in some measure, the story of what comes after.\n\nYour officers are arrayed before you. The crossing itself is straightforward — the river is fordable at this season, and you have boats enough to transport the army. The question is what orders you give after the crossing. Do you cross and fight with everything in place — supply lines maintained, boats ready for withdrawal, the tactical advantage of a reliable rear — or do you cross and commit everything, burning your retreat behind you, making the only message your soldiers can hear the message that they must win or die here?",
+    "ja": "晩秋の寒さの中、漳水の水はゆっくりと動き、その南岸に立つ軍に対して灰色で無関心だ。あなたは6日前に宋義を殺した。軍は歓声を上げ、懐王の使者が来て去り、何も意味しない形式主義でその行為を承認した——軍の反応が唯一重要な承認だった。今あなたは宋義が立つことを拒んだ場所に立っている：川辺で、鉅鹿を目指して北を見ている。\n\n向こう側の秦の軍勢は巨大だ。章邯はこれまでに直面したすべての反乱軍に打ち勝ってきた何万もの規律ある秦兵からなる主力軍を指揮する。鉅鹿の周りでは、秦の援軍指揮官・王離が都市を包囲して激しく押している。中にいる趙の反乱王があなたを頼りにしている。あなたの救援軍とともに来た他の反乱軍指揮官たちが、希望と計算が混在した——あなたが正しく読む——ものとともに要塞化した陣営から見ている。彼らは鉅鹿が救われることを望んでいるが、あなたが失敗するかどうかも見たがっている。\n\nあなたの軍は宋義を殺して以来あなたを見続けている。彼らは恐れていない——あるいは、正しい方向で恐れている、男を戦わせる方向で。彼らが他の男が躊躇する場所で行動するあなたの強さと意志を信じているから、半分の中国をあなたについてきた。次の一時間であなたがすることが、このキャンペーンを、そしてある意味で続くものの物語を定義するだろう。\n\nあなたの将校たちがあなたの前に整列している。渡河自体は簡単だ——この季節、川は渡ることができ、軍を輸送するのに十分な船がある。問題は渡河後にどんな命令を出すかだ。あなたはすべてを整えて——補給線を維持し、撤退用の船を準備し、信頼できる後方の戦術的優位を持って——渡るのか、それともすべてを賭けて渡り、背後の退路を焼き払い、あなたの兵士たちが聞けるメッセージを彼らがここで勝つか死ぬかしかないというメッセージにするのか？",
+    "zh-CN": "晚秋的寒意中，漳水缓缓流动，灰色而漠然，对岸边列阵的军队毫不在意。六天前你杀死了宋义。军队欢声雷动，怀王的使者来了又去，以一种毫无意义的形式认可了这件事——军队的反应才是唯一真正重要的认可。现在你站在宋义拒绝站立的地方：水边，朝北望向鉅鹿。\n\n对岸的秦军力量庞大。章邯统率数万纪律严整的秦兵，这支主力军已击败了迄今遭遇的每一支反秦力量。围绕鉅鹿，秦国援军统帅王离将城市围困，正在猛力攻压。城中的赵国叛王正指望着你。随你援军而来的其他反秦诸将，正从各自的筑垒营中观望，你正确地读出他们眼中希望与算计交织的神情——他们希望鉅鹿得救，但同样想看看你是否会失败。\n\n自你杀死宋义以来，你的军队一直在注视着你。他们并不恐惧——或者说，他们的恐惧指向正确的方向，那种使人拼死作战的方向。他们相信你的力量和你在他人犹豫时果断行动的意志，因此随你横越半个中国。你在接下来这一个时辰里所做的事，将定义这场战役，也在某种意义上定义此后故事的走向。\n\n你的将领们列于你面前。渡河本身并不复杂——此季水浅可涉，你有足够的船只运送军队。问题在于渡河之后你下达什么命令。你是要在一切就绪的情况下渡河——保持补给线、留有撤退用的船只、拥有可靠后方的战术优势——还是要孤注一掷地渡河，焚断身后的退路，令你的士卒所能听到的唯一信息变成：他们必须在此取胜，否则唯有一死？"
+  },
+  "situationReport": [
+    {
+      "en": "Zhang Han's Qin main force of approximately 200,000 soldiers has Julu besieged. A separate Qin force under Wang Li presses the city directly. Zhao's rebel king is nearly out of time.",
+      "ja": "約20万の兵からなる章邯の秦主力軍が鉅鹿を包囲している。王離率いる別の秦軍が直接都市を圧迫している。趙の反乱王はほとんど時間切れになりかけている。",
+      "zh-CN": "章邯率约二十万秦军主力围困鉅鹿。王离另率一部秦军直接攻压城池。赵国叛王所剩时间已近于无。"
+    },
+    {
+      "en": "Chu forces number approximately 50,000 — significantly outnumbered by the Qin armies combined. However, Qin morale has been shaken by the provincial uprisings and the death of reliable officers.",
+      "ja": "楚の兵力は約5万——合わせた秦の軍勢に比べて著しく数が少ない。しかし秦の士気は地方の反乱と信頼できる将校の死によって揺らいでいる。",
+      "zh-CN": "楚军约五万人——与秦军合计人数相比处于明显劣势。然而，各地起义与可信赖将领的阵亡已令秦军士气动摇。"
+    },
+    {
+      "en": "Other rebel commanders — princes of the former states with armies of their own — are camped nearby but have not engaged. They will follow whoever wins, not whoever asks.",
+      "ja": "他の反乱軍指揮官たち——それぞれ軍を持つ旧諸国の王子たち——が近くに野営しているが、交戦していない。彼らは頼む者ではなく、勝つ者に従うだろう。",
+      "zh-CN": "其他反秦诸将——各有军队的旧诸国王公——就营在侧却按兵未动。他们将追随胜者，而非听从请求者。"
+    },
+    {
+      "en": "Your officers are aware of the boat-sinking strategy as a historical option from older military texts. Some endorse it as an inspiration tactic; others argue the risk is unnecessary given the size disparity.",
+      "ja": "あなたの将校たちは、古い軍事書から歴史的な選択肢として船を沈める戦略を知っている。その戦略を鼓舞的な戦術として支持する者もいれば、規模の格差を考えると不必要なリスクだと主張する者もいる。",
+      "zh-CN": "你的将领们了解破釜沉舟之策，视之为古代兵书中的历史典故。有人赞成将其作为激励士气的战术；另有人认为，鉴于双方兵力差距，此举冒险属于不必要之举。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Cross the Zhang River and engage the Qin forces besieging Julu before the city falls and the rebel coalition loses its reason to fight together",
+      "ja": "都市が陥落し反乱連合が一緒に戦う理由を失う前に、漳水を渡り鉅鹿を包囲する秦軍と交戦する",
+      "zh-CN": "在城池陷落、反秦联盟失去共同战斗理由之前，渡过漳水，与围困鉅鹿的秦军交战"
+    },
+    {
+      "en": "Win a decisive enough victory to compel the watching rebel commanders to submit to your leadership and the other rebel armies to join the campaign",
+      "ja": "旁観している反乱軍指揮官があなたの指導者としての地位に服し、他の反乱軍があなたのキャンペーンに参加するよう強いるのに十分な決定的な勝利を収める",
+      "zh-CN": "赢得足够决定性的胜利，迫使旁观的反秦诸将臣服于你的领导，并使其他反秦军队加入这场战役"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your force is outnumbered — a conventional engagement without some decisive morale or positional advantage risks defeat against the larger, experienced Qin army",
+      "ja": "あなたの軍勢は数が少ない——何らかの決定的な士気や陣地的優位なしの通常の交戦は、より大きく経験豊かな秦軍に対して敗北のリスクがある",
+      "zh-CN": "你的军队人数处于劣势——如果没有某种决定性的士气或阵地优势，在兵力更多、经验更丰富的秦军面前进行常规交战存在失败风险"
+    },
+    {
+      "en": "Failure at Julu would not merely end your campaign — it would end your command and likely your life; the other rebel commanders are watching for vulnerability",
+      "ja": "鉅鹿での失敗はあなたのキャンペーンを終わらせるだけではない——それはあなたの指揮権を終わらせ、おそらくあなたの命も終わらせるだろう；他の反乱軍指揮官たちは脆弱性を見張っている",
+      "zh-CN": "在鉅鹿失败不仅意味着这场战役的终结——还意味着你的指挥权的终结，以及极有可能的你的生命的终结；其他反秦诸将正在等待你示弱"
+    }
+  ],
+  "choices": [
+    {
+      "id": "fall-of-qin-207bc-scene-001-choice-a",
+      "text": {
+        "en": "Destroy the boats and smash the cooking pots after crossing — commit the army to total victory with no possibility of retreat and only three days of rations",
+        "ja": "渡河後に船を沈め煮炊き用の鍋を砕く——3日分の食料のみで退路の可能性なしに軍を完全な勝利に向けて決意させる",
+        "zh-CN": "渡河后破釜沉舟——仅留三日口粮，断绝一切退路，将军队置于唯有全力取胜的境地"
+      },
+      "historicalContext": "This was Xiang Yu's historical decision. The strategy known as po fu chen zhou (breaking the cauldrons and sinking the boats) produced one of the most celebrated military victories in Chinese history, with the Chu forces defeating the Qin relief army nine times in a row.",
+      "outcomePrompt": {
+        "en": "The order goes through the army in a wave. Men look at each other. Some faces show fear. More show something else — the particular clarity that comes when a man understands that the situation no longer admits of doubt or calculation, only action. The pots are smashed. The boats are scuttled. The ford fills with the sounds of iron on stone and water gulping around sinking wood. Three days. Every man knows what three days means.\n\nThe Chu army crosses the Zhang River and hits the Qin positions with a ferocity that the Qin commanders have not seen from rebel forces before. Again. And again. And again. Nine times. The Qin relief army, used to fighting enemies who retreat when hard pressed, encounters an enemy who has no retreat to make. By the time it is over, the relief army is shattered. The watching rebel commanders come to your tent one by one, entering on their knees, not meeting your eyes. You receive them without rising from your seat.",
+        "ja": "命令が波のように軍に伝わる。男たちは互いを見る。顔に恐怖を浮かべる者もいる。それ以上の者が別のものを浮かべている——男が状況がもはや疑いや計算の余地なく行動のみを認めることを理解するときにくる特別な明晰さを。鍋が砕かれる。船が沈められる。渡し場は石に鉄がぶつかる音と沈む木材の周りで水が吸い込まれる音で満たされる。三日間。すべての男が三日間が何を意味するかを知っている。\n\n楚の軍勢が漳水を渡り、秦の陣地に反乱軍がこれまでに見せたことのない凶暴さで突撃する。再び。そして再び。そして再び。九度。押されると退く敵と戦うことに慣れた秦の援軍は、退路のない敵に直面する。終わるまでに、援軍は粉砕されている。旁観していた反乱軍指揮官たちが一人ずつあなたの陣帳に来る。ひざまずいて入り、あなたの目を見ない。あなたは席を立たずに彼らを受ける。",
+        "zh-CN": "命令如波涛般在军中涌动。士卒们相互对视。一些人的脸上浮现出恐惧，更多人的脸上则是别的东西——那种一个人明白此刻已不容置疑与计算、唯有行动时才会有的特殊清醒。炊具砸碎了，船凿沉了，渡口中回响着铁击石的声音，以及水吞噬沉木的声响。三日。每个人都明白三日意味着什么。\n\n楚军渡过漳水，以秦军将领从未从反秦军队身上见过的凶猛扑向秦军阵地。一次。又一次。又一次。九次。习惯于在强力压制下敌人退却的秦国援军，遭遇了一支无路可退的敌人。一切结束之时，援军已支离破碎。旁观的反秦诸将一个接一个来到你的大帐，跪行而入，不敢与你目光相接。你端坐不起，一一接受他们的臣服。"
+      },
+      "nextSceneId": "fall-of-qin-207bc-scene-002",
+      "stateChanges": [
+        { "variable": "chuMorale", "operation": "add", "value": 40 },
+        { "variable": "qinMorale", "operation": "add", "value": -35 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 50 }
+      ]
+    },
+    {
+      "id": "fall-of-qin-207bc-scene-001-choice-b",
+      "text": {
+        "en": "Cross with supply lines intact and boats ready — engage the Qin forces with full tactical flexibility, maintaining the ability to reinforce, withdraw, or adjust as the battle develops",
+        "ja": "補給線を維持し船を準備して渡る——戦闘が展開するにつれて増援・撤退・調整できる能力を維持しながら、完全な戦術的柔軟性を持って秦軍と交戦する",
+        "zh-CN": "保持补给线完整、船只备用的情况下渡河——以充分的战术灵活性与秦军交战，保留随战局发展而增援、撤退或调整的能力"
+      },
+      "historicalContext": "This path was not taken historically. A more conventional crossing might have been militarily safer but would have sacrificed the psychological edge that made the Chu forces fight with extraordinary ferocity.",
+      "outcomePrompt": {
+        "en": "The army crosses in good order, supply wagons following behind the infantry, boats remaining moored on the southern bank for communication and potential withdrawal. Your officers approve — this is professional soldiering, the kind that the great Qin commanders would recognize and respect. You have the river at your back but not as a wall, as a resource.\n\nThe fighting that follows is fierce and costly. Without the psychological commitment that comes from having no retreat, your soldiers fight well but they fight as soldiers fight when they know retreat is possible — with courage, but with a portion of their minds calculating risk rather than dismissing it. The Qin forces are larger and experienced. You win, eventually, because your personal example on the battlefield is extraordinary and because your soldiers follow you where they would follow no one else. But the victory is harder won and less complete than it might have been. The rebel commanders observe from their camps, and what they see is an impressive but not miraculous victory. They come to submit, but they come walking rather than crawling.",
+        "ja": "軍は整然と渡り、輸送荷車が歩兵の後に続き、船は連絡と潜在的な撤退のために南岸に係留されたままだ。あなたの将校たちは承認する——これは専門的な軍人の戦いであり、偉大な秦の指揮官が認識し尊重するであろう種類だ。あなたは川を背にしているが、壁としてではなく、資源として。\n\n続く戦いは激しく犠牲が多い。退路がないことからくる心理的コミットメントなしに、あなたの兵士たちはよく戦うが、退路が可能だとわかっているときに兵士が戦うように戦う——勇気をもって、しかしリスクを一蹴するのではなく計算する心の一部をもって。秦の軍勢はより大きく経験豊かだ。あなたは最終的に勝利する、なぜならあなたの戦場での個人的な模範が並外れており、あなたの兵士たちが他の誰もに従わないような場所でもあなたに従うからだ。しかし勝利はより困難で、あり得たよりも完全ではない。反乱軍指揮官たちは陣営から観察し、彼らが見るのは印象的だが奇跡的でない勝利だ。彼らは服するために来るが、這うのではなく歩いて来る。",
+        "zh-CN": "军队秩序井然地渡河，辎重车跟随步兵之后，船只系留于南岸以备通信和潜在撤退之用。你的将领们表示认可——这是专业的军事行动，是那种秦国伟大将领会认识并尊重的方式。你背倚大河，但不是以其为墙，而是作为资源。\n\n随后的战斗激烈而代价惨重。没有了断绝退路所带来的那种心理上的孤注一掷，你的士卒奋勇作战，但他们的战法是知道退路犹在时的那种——以勇气为之，却有一部分心思在权衡风险而非将其抛诸脑后。秦军人数更多、经验更丰富。你最终赢得胜利，因为你在战场上的个人表率卓绝非凡，因为你的士卒在无人能引领他们之处跟随着你。但胜利来之更难，也不如本可达到的那般彻底。反秦诸将从各自的营中旁观，所见是一场令人印象深刻却并非奇迹性的胜利。他们前来臣服，但是步行而来，而非匍匐而至。"
+      },
+      "nextSceneId": "fall-of-qin-207bc-scene-002",
+      "stateChanges": [
+        { "variable": "chuMorale", "operation": "add", "value": 20 },
+        { "variable": "supplyLine", "operation": "add", "value": 25 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 20 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,34 @@
+{
+  "scenarioId": "funan-kingdom-250",
+  "title": {
+    "en": "Funan: The First Kingdom of Southeast Asia",
+    "ja": "扶南：東南アジア最初の王国",
+    "zh-CN": "扶南：东南亚的第一个王国"
+  },
+  "description": {
+    "en": "In the 1st to 6th centuries AD, the kingdom of Funan dominated the lower Mekong delta region of modern Cambodia and Vietnam. It was one of the earliest Indianized states in Southeast Asia — adopting Sanskrit, Hinduism, and Indian administrative concepts while maintaining its distinct Khmer identity. Play as Fan Shiman, the most powerful king of Funan in the early 3rd century, as you navigate the challenges of ruling a maritime trading empire at the crossroads of Indian and Chinese civilizations.",
+    "ja": "紀元1世紀から6世紀にかけて、扶南王国が現在のカンボジアとベトナムのメコン川下流デルタ地域を支配した。それは東南アジアで最も初期のインド化された国家の一つだった——サンスクリット、ヒンドゥー教、インドの行政概念を取り入れながら独自のクメールのアイデンティティを維持した。インドと中国文明の交差点にある海洋貿易帝国を統治する課題を乗り越えながら、3世紀初頭の扶南で最も強力な王・范師蔓として扶南を導け。",
+    "zh-CN": "公元1至6世纪，扶南王国主导了今柬埔寨和越南湄公河下游三角洲地区。它是东南亚最早的印度化国家之一——采纳梵文、印度教和印度行政理念的同时，保持着其独特的高棉身份认同。扮演3世纪初扶南最强大的国王范师蔓，在印度与中国文明的交汇处统领一个海上贸易帝国，应对治国理政的种种挑战。"
+  },
+  "date": "0225-01-01",
+  "location": {
+    "en": "Vyadhapura (Angkor Borei), Funan kingdom (modern southern Cambodia)",
+    "ja": "ヴィャーダプラ（アンコール・ボレイ）、扶南王国（現在のカンボジア南部）",
+    "zh-CN": "毗耶陀补罗（茶胶）扶南王国（今柬埔寨南部）"
+  },
+  "playerRole": {
+    "en": "Fan Shiman — King of Funan, ruler of the Mekong delta",
+    "ja": "范師蔓——扶南王、メコンデルタの統治者",
+    "zh-CN": "范师蔓——扶南国王，湄公河三角洲的统治者"
+  },
+  "initialState": {
+    "royalPrestige": 55,
+    "indianCulture": 50,
+    "tradeFleet": 45,
+    "tributaryKingdoms": 40,
+    "chineseRelations": 35
+  },
+  "tags": ["cambodia", "funan", "southeast asia", "trade", "hinduism", "mekong", "classical"],
+  "difficulty": "medium",
+  "historicalOutcome": "funan_expansion"
+}

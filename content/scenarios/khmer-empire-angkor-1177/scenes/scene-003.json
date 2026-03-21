@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-003",
+  "scenarioId": "khmer-empire-angkor-1177",
+  "title": {
+    "en": "The King Who Builds",
+    "ja": "建設する王",
+    "zh-CN": "建造者国王"
+  },
+  "isTerminal": true,
+  "nextSceneId": null,
+  "background": {
+    "en": "1181 AD. Angkor is liberated. The Cham garrison has fled. You stand in the ruins of the great city your ancestors built, surrounded by advisors and generals who have fought to restore it. The coronation ceremony can now proceed. But the greater question confronts you: what kind of kingdom will you build after the reconquest? You are now Jayavarman VII, the most powerful Khmer king in a generation. What you build will outlast every army you fielded.",
+    "ja": "1181年。アンコールが解放された。チャムの守備隊が逃げ去った。あなたは先人が建てた大都市の廃墟に立ち、それを回復するために戦った顧問と将軍たちに囲まれている。即位の儀式がこれで進められる。しかしより大きな問いがあなたに対峙する：奪還後にどのような王国を築くか？あなたは今、一世代で最も強力なクメール王ジャヤヴァルマン7世だ。あなたが建てるものは、あなたが展開したすべての軍を生き延びるだろう。",
+    "zh-CN": "公元1181年。吴哥得到解放，占婆守军已经溃逃。你伫立于先人所建造的伟大城市的废墟之中，身旁环绕着为复国而浴血奋战的谋臣与将领。加冕仪式现可进行。但一个更宏大的问题摆在你面前：光复之后，你将建设一个怎样的王国？你现在是阇耶跋摩七世，一代之中最强大的高棉国王。你所建造的，将比你调遣的所有军队更为长存。"
+  },
+  "prompt": {
+    "en": "You must decide the character of your reign. Your architects present two visions: a building program of grand temples and a new capital that glorifies Khmer civilization through monumental architecture, on the scale of what your ancestors built at Angkor Wat; or a building program focused on practical infrastructure — hospitals, roads, rest houses, schools — that will improve the lives of ordinary Khmer people across the empire.",
+    "ja": "治世の性格を決定しなければならない。建築家たちが二つのビジョンを提示する：アンコール・ワットで先人が建てたのと同規模の、記念碑的建築によってクメール文明を讃える大寺院と新都の建設計画；または帝国全土の普通のクメールの人々の生活を改善する病院、道路、宿泊所、学校に焦点を当てた実用的インフラの建設計画。",
+    "zh-CN": "你必须决定统治的特质。你的建筑师呈上两个愿景：以祖先在吴哥窟所建的宏大规模，通过纪念性建筑彰显高棉文明的宏大庙宇与新都建造计划；或者一个专注于实用基础设施的建造计划——医院、道路、驿站、学校——改善帝国各地普通高棉百姓的生活。"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Build Angkor Thom and the great temples",
+        "ja": "アンコール・トムと大寺院を建設する",
+        "zh-CN": "建造吴哥通与宏大寺庙"
+      },
+      "description": {
+        "en": "Commission a new capital city — Angkor Thom — centered on the Bayon temple with its hundreds of carved stone faces. Build Ta Prohm for your mother, Preah Khan for your father. Build temples to Vishnu, to the Buddha, to your dynasty. Make the Khmer Empire's skyline speak of its greatness to every generation that follows. Monumental architecture has always been the language of empire.",
+        "ja": "数百の彫刻された石の顔を持つバイヨン寺院を中心とした新都市——アンコール・トム——を建設する。母のためにタ・プロームを、父のためにプリア・カンを建てる。ヴィシュヌ、仏陀、あなたの王朝の寺院を建てる。クメール帝国の地平線が後に続くすべての世代にその偉大さを語りかけるようにする。記念碑的建築は常に帝国の言語だった。",
+        "zh-CN": "建造以拥有数百尊石刻面孔的巴戎寺为中心的新都城——吴哥通。为母亲修建塔布茏寺，为父亲修建圣剑寺，建造供奉毗湿奴、佛陀和你的王朝的寺庙。让高棉帝国的天际线向此后每一个世代诉说它的伟大。纪念性建筑历来是帝国的语言。"
+      },
+      "outcome": {
+        "en": "The construction program is the most ambitious in Khmer history. Angkor Thom rises over three decades — 9 square kilometers of organized sacred space. The Bayon's 216 faces gaze serenely in every direction, a Buddhist cosmos made stone. Ta Prohm and Preah Khan anchor the corners of your empire in sanctity. Future generations will call your reign the summit of Khmer civilization. The ruins archaeologists find 800 years later will astonish the world.",
+        "ja": "建設計画はクメール史上最も野心的なものだ。アンコール・トムが三十年かけて立ち上がる——整然とした神聖な空間9平方キロメートル。バイヨンの216の顔があらゆる方向に穏やかに見つめ、石で作られた仏教の宇宙だ。タ・プロームとプリア・カンが神聖さであなたの帝国の四隅を固める。将来の世代はあなたの治世をクメール文明の頂点と呼ぶだろう。800年後に考古学者が見つける廃墟は世界を驚かせるだろう。",
+        "zh-CN": "这项建造计划是高棉历史上最雄心壮志的。吴哥通历三十余年拔地而起——九平方公里井然有序的神圣空间。巴戎寺的216张面孔向四方凝视，是以石头铸就的佛教宇宙。塔布茏寺与圣剑寺以神圣之力镇守你帝国的四隅。后世将称你的统治为高棉文明的巅峰。800年后考古学家所发现的遗址，将令全世界为之惊叹。"
+      },
+      "stateChanges": [
+        { "variable": "khmerMorale", "operation": "add", "value": 25 },
+        { "variable": "buddhistSupport", "operation": "add", "value": 20 },
+        { "variable": "populationLoyalty", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Build the welfare infrastructure of the kingdom",
+        "ja": "王国の福祉インフラを整備する",
+        "zh-CN": "建设王国的民生基础设施"
+      },
+      "description": {
+        "en": "Invest the empire's resources in practical welfare: 102 hospitals staffed by trained physicians across the empire, 121 rest houses for travelers on the royal roads, schools for Buddhist education in every province. Repair the irrigation systems that the war disrupted. The people have suffered enough. A king who feeds and heals his people builds a stronger empire than one who merely builds temples.",
+        "ja": "帝国の資源を実用的な福祉に投資する：帝国全土に訓練された医師が配置された102の病院、王道沿いの旅行者のための121の宿泊所、すべての州での仏教教育のための学校。戦争が混乱させた灌漑システムを修復する。民衆は十分に苦しんだ。民に食事を与え癒す王は、単に寺院を建てるだけの王よりも強い帝国を築く。",
+        "zh-CN": "将帝国资源投入实用民生：在帝国各地建立102座配备训练有素医师的医院，沿王道设置121处供旅行者休憩的驿站，在每个省份创办佛教教育学校。修复战争所破坏的灌溉系统。百姓已经历了足够的苦难。一位为子民提供食物与医治的国王，所建立的帝国远比一位只会修建寺庙的国王更为强大。"
+      },
+      "outcome": {
+        "en": "You still build Angkor Thom and the Bayon — but on a more modest scale. The majority of resources go to the welfare network. Your 102 hospitals become one of the most extensive public health systems in the medieval world. Inscription records describe the medicines kept at each hospital, the staff, the procedures. Khmer people in the most remote provinces know your name as the king who sent healers, not just tax collectors. History records both your temples and your hospitals — but the hospitals are the more remarkable achievement.",
+        "ja": "それでもアンコール・トムとバイヨンを建設する——しかしより控えめな規模で。大部分の資源が福祉ネットワークに行く。あなたの102の病院は中世世界で最も広範な公衆衛生システムの一つとなる。碑文の記録が各病院に保管された薬、スタッフ、手順を記述している。最も遠隔地の州のクメールの人々があなたの名前を、単なる徴税人ではなく治療師を送った王として知っている。歴史はあなたの寺院と病院の両方を記録するが——病院の方がより注目すべき業績だ。",
+        "zh-CN": "你依然建造了吴哥通与巴戎寺——但规模较为适度。大部分资源流向民生福利网络。你的102座医院成为中世纪世界最为广泛的公共卫生体系之一。碑铭记录详述了每座医院储备的药品、配备的人员和诊疗规程。最偏远省份的高棉百姓都知道你的名字，称你为派来了医者而非只会收税的国王。历史同时铭记了你的寺庙与你的医院——但医院是更令人瞩目的成就。"
+      },
+      "stateChanges": [
+        { "variable": "populationLoyalty", "operation": "add", "value": 30 },
+        { "variable": "khmerMorale", "operation": "add", "value": 20 },
+        { "variable": "buddhistSupport", "operation": "add", "value": 15 }
+      ]
+    }
+  ]
+}

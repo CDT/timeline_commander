@@ -1,0 +1,76 @@
+{
+  "sceneId": "scene-001",
+  "scenarioId": "nara-heian-transition-794",
+  "title": {
+    "en": "The Problem of the Temples",
+    "ja": "寺院の問題",
+    "zh-CN": "寺院之困"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-002",
+  "background": {
+    "en": "792 AD. You are Emperor Kanmu, ruler of Japan, and you have been planning your second capital move for a year. Your first attempt — to Nagaoka — ended in disaster: your brother's death in exile, a decade of floods and plagues, and the anxious court officials who attribute all of it to Prince Sawara's vengeful spirit. The site at Yamashiro has been selected; geomancers report it is propitious. But before you can finalize the move, your chief advisors have presented you with the most politically sensitive question of the entire project: what to do with the Buddhist temples.",
+    "ja": "792年。あなたは桓武天皇、日本の統治者で、第二の遷都を一年間計画してきた。最初の試み——長岡への——は惨事に終わった：弟の流罪先での死、十年の洪水と疫病、そしてそれらすべてを早良親王の怨霊のせいにする不安な朝廷の官僚たち。山背の場所は選定された；陰陽師たちはそこが吉祥だと報告する。しかし移転を最終決定する前に、首席顧問たちがこの事業全体で最も政治的に繊細な問いを提示した：仏教寺院をどう扱うか。",
+    "zh-CN": "公元792年。你是桓武天皇，日本的统治者，已为第二次迁都筹谋了一年。你的第一次尝试——迁往长冈——以灾难告终：兄弟客死流放途中，十年洪水与瘟疫，以及将一切归咎于早良亲王怨灵的惴惴不安的朝臣们。山背的选址已经确定，堪舆师报告此地吉祥。但在最终拍板之前，首席顾问们向你提出了整个工程中最为政治敏感的问题：如何处置佛教寺院。"
+  },
+  "prompt": {
+    "en": "The powerful Nara Buddhist temples — Todai-ji, Kofuku-ji, and others — are the primary reason you are moving the capital. They have accumulated enormous wealth, political connections, and in one case nearly placed a monk on the imperial throne. Do you bring Buddhist institutions into the new capital under strict imperial control? Or do you simply leave them behind in Nara, severing court Buddhism from the established temple networks?",
+    "ja": "強大な奈良の仏教寺院——東大寺、興福寺など——はあなたが遷都する主な理由だ。彼らは莫大な富、政治的つながりを蓄積し、あるケースでは僧侶を皇位に就けようとした。仏教の諸機関を厳格な皇室の支配の下、新都に持ち込むか？それとも単純に奈良に置き去りにして、宮廷仏教を確立した寺院ネットワークから断ち切るか？",
+    "zh-CN": "强大的奈良佛教寺院——东大寺、兴福寺等——正是你迁都的主要原因。它们积累了巨额财富与政治关系，甚至一度几乎将僧侣推上皇位。你是在严格的皇权管控下将佛教机构带入新都？还是干脆将它们留在奈良，切断宫廷佛教与既有寺院网络的联系？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Bring controlled Buddhism into Heian",
+        "ja": "制御された仏教を平安に持ち込む",
+        "zh-CN": "将受控的佛教带入平安"
+      },
+      "description": {
+        "en": "Authorize two new Buddhist temples in Heian-kyo — one on each side of the city — but mandate that they serve specific state protective functions with monks appointed by the imperial court rather than by temple lineages. This threads the needle: Buddhism remains part of imperial legitimacy, but the new temples owe their existence entirely to the emperor. The old Nara temples remain in Nara, defanged by irrelevance.",
+        "ja": "平安京に二つの新しい仏教寺院を認可する——都の各側に一つ——しかし寺院の系統ではなく宮廷によって任命された僧侶による特定の国家保護機能を果たすことを義務付ける。これは針の穴を通す：仏教は皇室の正統性の一部として残るが、新しい寺院は全面的にその存在を皇帝に負っている。奈良の古い寺院は奈良に留まり、無関係によって牙を抜かれる。",
+        "zh-CN": "批准在平安京建立两座新的佛教寺院——城市各侧各一座——但规定它们须由宫廷而非寺院传承任命僧侣，履行特定的国家护持功能。这一做法巧妙平衡：佛教仍是皇室合法性的一部分，但新寺院的存在完全依赖于天皇。奈良旧寺院留在奈良，因无足轻重而被卸去爪牙。"
+      },
+      "outcome": {
+        "en": "The compromise works better than expected. The two Heian temples — the Eastern Temple and Western Temple — become pillars of the new capital's spiritual architecture without accumulating independent political power. The Nara temples protest, but without court patronage their influence wanes. Esoteric Buddhism brought from China by Kukai and Saicho later in your reign will fill the spiritual needs of the new court more fully.",
+        "ja": "妥協案は予想以上にうまく機能する。二つの平安の寺院——東寺と西寺——は独自の政治的権力を蓄積することなく新都の精神的構造の支柱となる。奈良の寺院は抗議するが、宮廷の庇護なしにはその影響力は衰退する。在位後期に空海と最澄によって中国から持ち込まれる密教が新しい宮廷の精神的ニーズをより完全に満たすことになる。",
+        "zh-CN": "这一妥协方案的效果超乎预期。两座平安寺院——东寺和西寺——在不积累独立政治权力的情况下，成为新都精神架构的支柱。奈良寺院提出抗议，但缺少宫廷庇护，其影响力逐渐式微。在你在位后期，由空海与最澄从中国引入的密教，将更完整地满足新朝廷的精神需求。"
+      },
+      "stateChanges": [
+        { "variable": "imperialPrestige", "operation": "add", "value": 15 },
+        { "variable": "buddhistInfluence", "operation": "add", "value": -20 },
+        { "variable": "courtSupport", "operation": "add", "value": 10 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Exclude Buddhist temples from Heian entirely",
+        "ja": "仏教寺院を平安から完全に排除する",
+        "zh-CN": "将佛教寺院完全排除于平安之外"
+      },
+      "description": {
+        "en": "Issue an imperial decree: no Buddhist temples will be built within the walls of the new capital. The great Nara temples stay in Nara. New Buddhist institutions may be established outside Heian in designated mountain areas — which keeps them powerful enough to perform spiritual functions but physically separated from court politics. This is a clean break.",
+        "ja": "天皇の詔を発布する：新都の城壁内には仏教寺院を建設しない。奈良の大寺院は奈良に留まる。新しい仏教施設は指定された山間地域の平安の外に設置できる——これにより霊的機能を果たすのに十分な権力を保ちながら、宮廷政治から物理的に切り離される。これはすっきりした決別だ。",
+        "zh-CN": "颁布天皇诏令：新都城墙之内不得建造佛教寺院。奈良大寺院留守奈良，新的佛教机构可在平安城外指定的山区设立——这使它们保有足够的权力履行宗教功能，同时在地理上与宫廷政治隔绝。这是一次干净利落的决裂。"
+      },
+      "outcome": {
+        "en": "The exclusion decree creates an immediate political storm. Noble families with generations of ties to Nara temples are furious. Several senior court officials threaten resignation. The Nara temples circulate prophecies of doom. You enforce the decree, but it costs you considerable political capital with the aristocracy. The capital moves anyway — but you will need those aristocrats' cooperation for the massive construction project ahead.",
+        "ja": "排除の詔が即座に政治的嵐を引き起こす。奈良の寺院と世代にわたるつながりを持つ貴族の家族が激怒する。数人の上位宮廷官僚が辞意を表明する。奈良の寺院が不吉な予言を広める。あなたは詔を施行するが、貴族との相当な政治的資本を費やす。遷都はそれでも進むが——しかし前途の大規模建設事業には貴族たちの協力が必要になる。",
+        "zh-CN": "排除令立即引发政治风暴。与奈良寺院有数代渊源的贵族家族勃然大怒，数位高级宫廷官员扬言辞职，奈良寺院散布不祥预言。你强行执行诏令，但在贵族阶层中耗费了大量政治资本。迁都依然推进——但前路的大规模建设工程将需要这些贵族的配合。"
+      },
+      "stateChanges": [
+        { "variable": "imperialPrestige", "operation": "add", "value": 20 },
+        { "variable": "buddhistInfluence", "operation": "add", "value": -30 },
+        { "variable": "courtSupport", "operation": "add", "value": -15 }
+      ]
+    }
+  ],
+  "initialState": {
+    "imperialPrestige": 60,
+    "buddhistInfluence": 75,
+    "courtSupport": 50,
+    "capitalProgress": 30,
+    "militaryReadiness": 45
+  }
+}

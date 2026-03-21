@@ -1,0 +1,91 @@
+{
+  "scenarioId": "goguryeo-sui-war-612",
+  "timeline": [
+    {
+      "date": "0598-01-01",
+      "description": {
+        "en": "Emperor Wen of Sui launches the first Sui invasion of Goguryeo with 300,000 troops. Floods, disease, and Goguryeo's scorched-earth defense force the army to retreat without achieving any significant military objective. Goguryeo demonstrates its capacity to defeat Chinese invasions through attrition.",
+        "ja": "隋の文帝が30万の軍勢で高句麗への第一次侵攻を開始する。洪水、疾病、そして高句麗の焦土防衛により、軍は重要な軍事目標を何一つ達成することなく撤退を余儀なくされる。高句麗は消耗戦によって中国の侵攻を撃退する能力を示す。",
+        "zh-CN": "隋文帝率三十万大军发动对高句丽的第一次征伐。洪水、疾病与高句丽的坚壁清野战术迫使隋军未能达成任何重要军事目标便撤退。高句丽由此展示了以消耗战击退中国入侵的能力。"
+      }
+    },
+    {
+      "date": "0612-02-01",
+      "description": {
+        "en": "Emperor Yang of Sui assembles a force estimated at over 1.1 million soldiers — one of the largest armies in pre-modern history. The invasion force is organized into 24 armies and advances toward Goguryeo from both land and sea. The logistics alone require hundreds of thousands of additional support personnel.",
+        "ja": "隋の煬帝が推定110万を超える兵士からなる軍を集結させる——前近代史上最大規模の軍の一つ。侵攻軍は24軍に編成され、陸海両面から高句麗に向けて進軍する。兵站だけでも数十万の追加支援要員を要する。",
+        "zh-CN": "隋炀帝集结估计逾百万一十万兵力——前现代史上规模最大的军队之一。入侵军编为二十四军，从陆海两路向高句丽推进，仅后勤保障便需要数十万额外辅助人员。"
+      }
+    },
+    {
+      "date": "0612-04-01",
+      "description": {
+        "en": "The Sui army besieges the fortress city of Liaodong (modern Liaoyang). Goguryeo's defenders hold the city through a combination of determined resistance and a strategy of appearing to negotiate surrender — then breaking off talks when relief might arrive. The siege grinds on for months.",
+        "ja": "隋軍が要塞都市・遼東（現在の遼陽）を包囲する。高句麗の防衛隊は頑強な抵抗と、援軍が来るかもしれない時期に降伏交渉をしているように見せかける戦略の組み合わせで城を保持する。包囲戦は数ヶ月に及ぶ。",
+        "zh-CN": "隋军围攻要塞城市辽东（今辽阳）。高句丽守军以顽强抵抗与假意谈判降服——待援军可能抵达时便中断谈判——的策略相结合，坚守城池。围攻战持续数月之久。"
+      }
+    },
+    {
+      "date": "0612-06-01",
+      "description": {
+        "en": "Emperor Yang detaches a vanguard army of 305,000 men under nine generals to bypass the siege and drive directly toward the Goguryeo capital at Pyongyang. General Eulji Mundeok is sent to the Sui camp, ostensibly to negotiate — in reality to assess the enemy strength and supply situation firsthand.",
+        "ja": "煬帝が九人の将軍の下に30万5千人の先鋒軍を切り離し、包囲を迂回して高句麗の都・平壌に向けて直接進軍させる。乙支文徳将軍が表向きは交渉のために隋の陣営に派遣されるが、実際には敵の戦力と補給状況を直接評価するためだ。",
+        "zh-CN": "炀帝抽调九位将领统率三十万五千人的先锋军，绕过围攻，直指高句丽都城平壌。乙支文德将军被派往隋军营地，名为谈判，实则亲自评估敌军兵力与补给状况。"
+      }
+    },
+    {
+      "date": "0612-07-01",
+      "description": {
+        "en": "Eulji Mundeok leads the Sui vanguard on a grueling pursuit campaign deep into Goguryeo territory. Using feigned retreats, he allows the Sui army to win seven successive engagements — each time falling back and drawing the enemy deeper into hostile terrain with extended supply lines. The Sui generals believe they are winning.",
+        "ja": "乙支文徳が隋の先鋒軍を高句麗領深くへの激しい追撃作戦に誘い込む。偽退却を用いて、隋軍に七回連続の交戦で勝利を収めさせ——その都度後退して敵を延伸した補給線を持つ敵対的な地形の深みへと引きずり込む。隋の将軍たちは自分たちが勝っていると信じている。",
+        "zh-CN": "乙支文德引诱隋军先锋深入高句丽腹地，展开一场令人筋疲力竭的追击战役。他以诈败战术，让隋军连胜七场——每次都向后撤退，将敌军引入补给线拉长的险峻腹地。隋军将领相信他们正在取得胜利。"
+      }
+    },
+    {
+      "date": "0612-07-10",
+      "description": {
+        "en": "The Sui vanguard reaches the Salsu River (modern Cheongcheon River) just 30 kilometers north of Pyongyang. The army is exhausted, hungry, and far from its supply base. Eulji Mundeok has dammed the upper Salsu, holding back the river. As the Sui army begins to ford, Goguryeo releases the dam.",
+        "ja": "隋の先鋒軍が平壌のわずか30キロ北の薩水（現在の清川江）に到達する。軍は疲弊し、腹を空かせ、補給基地から遠く離れている。乙支文徳は薩水の上流をせき止め、川を堰き止めている。隋軍が渡河を始めると、高句麗がダムを解放する。",
+        "zh-CN": "隋军先锋抵达平壌以北仅三十公里的萨水（今清川江）。大军疲惫不堪、粮草匮乏，远离补给基地。乙支文德已在萨水上游筑坝蓄水。当隋军开始渡河时，高句丽打开了水闸。"
+      }
+    },
+    {
+      "date": "0612-07-11",
+      "description": {
+        "en": "The flash flood devastates the fording Sui army. Goguryeo forces attack simultaneously from the banks. Of the 305,000-strong vanguard, fewer than 3,000 survive to retreat. It is one of the most decisive defeats in military history. The battered remnants of the invasion army begin their long retreat.",
+        "ja": "洪水が渡河中の隋軍に壊滅的な打撃を与える。高句麗軍が同時に両岸から攻撃する。30万5千の先鋒軍のうち、撤退して生き残ったのは3,000人未満だ。これは軍事史上最も決定的な敗北の一つだ。侵攻軍の打ちのめされた残存部隊が長い撤退を始める。",
+        "zh-CN": "山洪暴发，将正在渡河的隋军冲击得七零八落。高句丽军队同时从两岸发起攻击。三十万五千人的先锋大军中，撤退生还者不足三千。这是军事史上最具决定性的败仗之一，侵略军的残兵败将开始漫漫撤退。"
+      }
+    },
+    {
+      "date": "0614-01-01",
+      "description": {
+        "en": "Emperor Yang launches a second and then a third invasion of Goguryeo, both of which fail due to internal rebellions within China threatening the Sui dynasty itself. The repeated military failures, combined with the catastrophic losses of 612, fatally undermine the Sui dynasty. Within a decade, Sui collapses and the Tang dynasty replaces it.",
+        "ja": "煬帝は高句麗への第二次、そして第三次侵攻を開始するが、隋王朝そのものを脅かす中国国内の反乱により、どちらも失敗する。612年の壊滅的な損失と合わさった繰り返される軍事的失敗が、隋王朝を致命的に弱体化させる。十年以内に隋は崩壊し、唐王朝がそれに取って代わる。",
+        "zh-CN": "炀帝再度发动第二次、第三次征高句丽，均因中国国内威胁隋朝自身的叛乱而以失败告终。多次军事失败叠加612年的惨重损失，从根本上动摇了隋王朝。不到十年，隋朝崩溃，唐朝取而代之。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Goguryeo's victory at the Salsu River was total. Of the 305,000-soldier Sui vanguard, fewer than 3,000 survived. The battle is regarded as one of the most decisive defensive victories in East Asian military history. Eulji Mundeok's strategy — of deliberate retreat, attrition, exhaustion, and a devastating counter-strike — became a model of asymmetric warfare studied for centuries.",
+    "ja": "薩水での高句麗の勝利は完全なものだった。30万5千人の隋の先鋒軍のうち、生き残ったのは3,000人未満だった。この戦いは東アジア軍事史上最も決定的な防衛的勝利の一つと見なされている。乙支文徳の戦略——意図的な退却、消耗、疲弊、そして壊滅的な反撃——は何世紀にもわたって研究される非対称戦争のモデルとなった。",
+    "zh-CN": "高句丽在萨水的胜利是彻底的。三十万五千人的隋军先锋中，生还者不足三千。这场战役被视为东亚军事史上最具决定性的防御胜利之一。乙支文德的战略——蓄意撤退、消耗、疲敌，继而发动毁灭性的反击——成为数百年来被反复研究的非对称战争范本。"
+  },
+  "casualties": {
+    "en": "Sui vanguard losses: approximately 302,000 killed or captured from a force of 305,000. The total Sui invasion force suffered losses across all three campaigns estimated in the hundreds of thousands. Goguryeo casualties are not historically recorded but were substantial — the kingdom was defending against a force ten times its estimated military strength.",
+    "ja": "隋の先鋒軍の損失：30万5千人の軍のうち約30万2千人が戦死または捕虜。三度の遠征すべてにわたる隋の侵攻軍全体の損失は数十万と推定される。高句麗の死傷者は歴史的に記録されていないが、相当なものだった——王国は推定軍事力の10倍の勢力に対して防衛していた。",
+    "zh-CN": "隋军先锋损失：三十万五千人中约三十万二千人战死或被俘。三次征伐中隋朝侵略军的总损失估计达数十万。高句丽的伤亡在史书中未有记载，但同样相当惨重——这个王国要抵御的是其估计军事力量十倍的敌军。"
+  },
+  "significance": {
+    "en": "The Goguryeo-Sui War is one of history's most dramatic examples of a smaller power defeating a vastly larger one through defensive strategy. The catastrophic Sui defeats in Korea directly contributed to the collapse of the Sui dynasty — among the shortest-lived major dynasties in Chinese history despite its unification of China after centuries of division. Eulji Mundeok's campaigns demonstrated that strategic patience, terrain use, and supply line interdiction could neutralize numerical superiority. The battle also illustrates how excessive military ambition can destroy empires from within.",
+    "ja": "高句麗・隋戦争は、より小さな勢力が防衛戦略によってはるかに大きな勢力を打ち破った歴史上最も劇的な例の一つだ。朝鮮での隋の壊滅的な敗北は隋王朝の崩壊に直接貢献した——数世紀の分裂後の中国統一にもかかわらず、中国史上最も短命な主要王朝の一つとなった。乙支文徳の作戦は、戦略的忍耐、地形の利用、補給線の遮断が数的優位を中和できることを示した。この戦いはまた、過度な軍事的野心がいかに帝国を内部から破壊するかを示している。",
+    "zh-CN": "高句丽与隋的战争，是历史上以弱胜强、以防御战略击败规模远超自身之敌的最具戏剧性案例之一。隋朝在朝鲜的惨败直接促成了隋朝的崩溃——这是中国历史上最短命的主要王朝之一，尽管它在数百年分裂后实现了统一。乙支文德的征战证明，战略耐心、地形运用和补给线截断能够抵消数量上的绝对优势。这场战役也揭示了过度的军事野心如何从内部摧毁帝国。"
+  },
+  "furtherReading": [
+    "Mark E. Byington (ed.), Early Korea: Reconsidering Early Korean History through Archaeology (Harvard, 2008)",
+    "Hyun Jin Kim, The Huns, Rome and the Birth of Europe (Cambridge, 2013)",
+    "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche (Harvard, 2006)",
+    "Kenneth H. J. Gardiner, The Early History of Korea (University of Hawaii, 1969)",
+    "Graff, David A., Medieval Chinese Warfare 300-900 (Routledge, 2002)"
+  ]
+}

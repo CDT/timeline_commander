@@ -1,0 +1,113 @@
+{
+  "id": "genpei-war-1185-scene-003",
+  "scenarioId": "genpei-war-1185",
+  "title": {
+    "en": "The Child Emperor",
+    "ja": "幼帝",
+    "zh-CN": "幼帝"
+  },
+  "date": {
+    "en": "April 25, 1185 — Afternoon, Dan-no-ura",
+    "ja": "1185年4月25日 — 午後、壇ノ浦",
+    "zh-CN": "1185年4月25日 — 午后，坛之浦"
+  },
+  "location": {
+    "en": "The Taira flagship, Dan-no-ura Strait",
+    "ja": "平氏旗艦、壇ノ浦海峡",
+    "zh-CN": "平氏旗舰，坛之浦海峡"
+  },
+  "narrativePrompt": {
+    "en": "The battle is over. It does not feel over — the screaming of the wounded, the shouts of men leaping between vessels, the water itself stained brown with blood in the places where the fighting was thickest — but you know it with a commander's certainty: the Taira fleet is broken. There is no formation left, no organized resistance, only hundreds of individual tragedies playing out across the surface of the strait.\n\nYou see what is happening on the Taira flagship now, and for a moment — one moment only — your certainty falters. Lady Nii, the grandmother of the Emperor, stands at the stern rail in full court dress, white robes that belong to another world, the world of the Heian court that this war has ended. In her arms is the child. The boy is seven years old. He wears the robes of the Son of Heaven. She is speaking to him — you are too far away to hear, but you see her gesture toward the water, and you understand what the gesture means.\n\nOther Taira have already gone into the sea. Tomomori has drowned himself in full armor. Noble ladies, unable to find the bottom of the strait to stand on, have been dragged beneath by the weight of their robes. The water is thick with the dying and the dead, and somewhere beneath this same water the sacred sword Kusanagi has already been swallowed by the deep — a loss that the imperial court will mourn for centuries. The jewel and mirror are still aboard, or were, moments ago. What happens in the next minute may determine what Japan's next emperor is and is not.\n\nYou could order your men to dive in — your best swimmers, your strongest men — with orders to find the child and bring him back alive. It is possible. The boy is small and the water is cold but he is not yet under. The Three Sacred Treasures, especially the jewel and mirror, might also be recovered. Or you could recognize what you are watching is something that human agency should not interrupt — the last act of a world passing away — and hold your men back, letting the drama complete itself, knowing that the court will simply have to find a way to deal with the consequences.",
+    "ja": "戦いは終わった。終わったようには感じられない——傷ついた者たちの叫び、船の間を飛び移る兵たちの怒号、最も激しく戦った場所では水そのものが血で茶色く染まっている——しかし、あなたは指揮官の確信をもってそれを知っている：平氏の艦隊は壊滅した。隊形はもう存在しない。組織的な抵抗ももはやない。海峡の水面上でただ無数の個人の悲劇が演じられているだけだ。\n\n今、平氏の旗艦の上で何が起きているかが見える。そして一瞬だけ——ただ一瞬——あなたの確信が揺らぐ。二位尼、天皇の祖母が、正式な宮廷装束に身を包んで船尾の手すりに立っている。白い衣装は別の世界のもの——この戦争が終わらせた、あの平安朝廷の世界のものだ。その腕の中に子どもがいる。少年は7歳だ。天子の衣を身に纏っている。彼女は少年に何かを語りかけている——遠すぎて聞こえないが、水に向けた彼女の身振りが見える。その身振りの意味を、あなたは理解する。\n\n他の平氏はすでに海に身を投じていた。知盛は鎧を付けたまま入水した。身分の高い女たちは、立つための海峡の底を見つけられないまま、衣の重みに引かれて沈んでいった。水は死にゆく者と死者で満ちており、この同じ水のどこかに草薙剣はすでに深みに飲み込まれている——朝廷が何世紀にもわたって嘆き悲しむことになる喪失だ。璽と鏡はまだ船上に、あるいは数瞬前まではあった。この次の一分間に起きることが、日本の次の天皇がどういう存在になりどういう存在にならないかを決めるかもしれない。\n\nあなたは兵に飛び込むよう命令できる——最も泳ぎのうまい者、最も強い者に——子どもを見つけて生きたまま連れ戻すよう命じて。それは可能だ。少年は小さく、水は冷たいがまだ沈んでいない。三種の神器、特に璽と鏡も、回収できるかもしれない。あるいは、あなたが目撃しているものは人間の意志が介入すべきでないものだと認識することもできる——消えゆく世界の最後の場面——そして兵を抑え、この劇が完結するのをそのままにし、朝廷がその結果に対処する方法を見つけるしかないと悟りながら。",
+    "zh-CN": "战斗已经结束。感觉上并不像结束——伤者的惨叫，在船只间跳跃的士兵的叫喊，战斗最激烈处已被血水染成棕色的海面——但你以将帅的确信知晓这一切：平氏舰队已然溃败。再无阵型，再无组织性抵抗，只有无数个人的悲剧在海峡水面上徐徐上演。\n\n你现在看到了平氏旗舰上正在发生的事情，一瞬间——仅仅一瞬间——你的确信产生了动摇。二位尼，天皇的祖母，身着正式宫廷礼服站在船尾的栏杆旁。那白色衣袍属于另一个世界——这场战争所终结的、那个平安朝廷的世界。她的怀中抱着一个孩子。那孩子七岁。他身着天子的衣袍。她在对他说话——你距离太远，听不见，但你看见她向水面的那个手势，你明白了那个手势的意思。\n\n其他平氏的人已经投入大海。知盛身着全副铠甲溺水而亡。贵族女眷们找不到可以立足的海峡底部，被衣袍的重量拖入水中。水面上满是垂死者与死者，而就在这同一片水的某处，草薙剑已被深渊吞没——一个朝廷将哀悼数百年的损失。玺与镜还在船上，或者说就在几分钟前还在。接下来这一分钟发生的事，或许将决定日本的下一位天皇将是什么样的存在，不是什么样的存在。\n\n你可以命令士兵跳入水中——你最擅长游泳的人、最强壮的人——命令他们找到孩子、将他活着带回来。这是可以做到的。孩子虽小，水虽冷，但他还没有沉下去。三种神器，尤其是玺与镜，也许也能打捞回来。或者，你也可以承认你所目睹的是人力不应干预的事情——一个正在消逝的世界的最后一幕——退后一步，让这出戏剧完成自身，知晓朝廷将不得不自行寻找应对后果的方式。"
+  },
+  "situationReport": [
+    {
+      "en": "The Taira fleet is destroyed. The battle is effectively over. Most senior Taira warriors have been killed in battle or have committed suicide by drowning.",
+      "ja": "平氏の艦隊は壊滅した。実質的に戦いは終わった。平氏の上級武将の大半が戦死、あるいは入水自殺している。",
+      "zh-CN": "平氏舰队已全军覆没。战斗实际上已告结束。平氏大多数高级武将已在战斗中战死或投海自尽。"
+    },
+    {
+      "en": "Lady Nii is preparing to take Emperor Antoku into the sea. The boy is alive and held in her arms. The moment is unfolding now.",
+      "ja": "二位尼が安徳天皇を海中へ連れていく準備をしている。少年はまだ生きており、彼女の腕に抱かれている。その瞬間は今まさに展開されている。",
+      "zh-CN": "二位尼正准备带着安德天皇投海。孩子还活着，被她抱在怀中。这一刻正在眼前发生。"
+    },
+    {
+      "en": "The sacred sword Kusanagi is believed to have already been thrown into the sea and cannot be recovered. The jewel (Yasakani no Magatama) and mirror (Yata no Kagami) may still be on the flagship.",
+      "ja": "草薙剣はすでに海中に投じられたと見られ、回収は不可能だ。璽（八尺瓊勾玉）と鏡（八咫鏡）はまだ旗艦上にある可能性がある。",
+      "zh-CN": "草薙剑据信已被投入大海，无法找回。玺（八尺琼勾玉）与镜（八咫镜）可能仍在旗舰上。"
+    },
+    {
+      "en": "A new emperor (Go-Toba) will need to be enthroned regardless. If Antoku survives, his existence creates a rival claim to imperial legitimacy for decades.",
+      "ja": "いずれにせよ新たな天皇（後鳥羽天皇）を即位させる必要がある。安徳天皇が生き延びれば、その存在は数十年にわたって天皇の正統性に対する対抗勢力となる。",
+      "zh-CN": "无论如何都需要拥立一位新天皇（后鸟羽天皇）。若安德天皇生存，其存在将在数十年内对皇位正统性构成对立主张。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure the remaining Sacred Treasures — the jewel and mirror — to preserve imperial legitimacy for the new Minamoto-backed emperor",
+      "ja": "残りの神器——璽と鏡——を確保し、源氏が推す新たな天皇の皇統の正統性を保持する",
+      "zh-CN": "确保剩余神器——玺与镜——以维护源氏所支持的新天皇的皇统正统性"
+    },
+    {
+      "en": "Make a decision about Emperor Antoku that Japan's political future can be built upon",
+      "ja": "安徳天皇について、日本の政治的未来がその上に築かれ得る決断を下す",
+      "zh-CN": "就安德天皇作出一个能够奠定日本政治未来的决定"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The moment is passing rapidly — any intervention must be ordered immediately or the opportunity is lost",
+      "ja": "その瞬間は急速に過ぎ去ろうとしている——いかなる介入も今すぐ命令しなければ機会を逸する",
+      "zh-CN": "这一时机正在迅速流逝——任何干预都必须立即下令，否则机会将一去不返"
+    },
+    {
+      "en": "If Antoku survives, Yoritomo and the court will face a legitimacy crisis that could destabilize the new order for decades",
+      "ja": "もし安徳天皇が生き延びれば、頼朝と朝廷は数十年間、新体制を不安定にしかねない正統性の危機に直面する",
+      "zh-CN": "若安德天皇生存，赖朝与朝廷将面临可能动摇新秩序数十年的正统性危机"
+    }
+  ],
+  "choices": [
+    {
+      "id": "genpei-war-1185-scene-003-choice-a",
+      "text": {
+        "en": "Order your men to dive in and attempt to rescue Emperor Antoku — a child should not die for the crimes of his Taira relatives, and his capture would also allow recovery of the remaining Sacred Treasures.",
+        "ja": "兵を海に飛び込ませ、安徳天皇を救出しようとする——子どもは平氏の一族の罪のために死ぬべきではない。捕らえれば、残りの神器の回収も可能となる。",
+        "zh-CN": "命令士兵跳入水中尝试救出安德天皇——一个孩子不应为其平氏亲族的罪孽而死，且捕获他也可能使剩余神器得以打捞回收。"
+      },
+      "historicalContext": "Historically, some Minamoto soldiers did dive in and rescue certain Taira women and even attempted to save Emperor Antoku, but Lady Nii's death with the Emperor was complete before they could reach them. The mirror and jewel were recovered; the sword was lost.",
+      "outcomePrompt": {
+        "en": "You shout the order and your best swimmers are over the rail before the words have fully left your mouth. They cut through the blood-stained water with desperate speed, arms windmilling toward the white figure at the stern of the Taira flagship. You watch — all of you watch — as Lady Nii steps forward and into the sea, the child in her arms, the white robes blooming around her in the water like a flower opening.\n\nYour men reach the spot within moments. They dive. They search. They surface empty-handed, gasping, their faces carrying expressions that will not leave them for the rest of their lives. Lady Nii held the boy as she sank and the weight of her court robes did the rest. The sword is already gone. But in the chaos on the Taira flagship's deck, in the final moments of search and counter-search, your men secure the jewel and the mirror — two of the Three Sacred Treasures retrieved from the wreckage of a dynasty.\n\nThe sun hangs low over the Kanmon Strait. The water around you is quieter now, the sounds of battle giving way to the sounds of death — the moaning of the drowning, the cries of the rescued. You did not save the child emperor. But you tried. History will remember the trying, and perhaps that matters, in the long accounting that the dead always demand of the living.",
+        "ja": "あなたは命令を叫び、最も泳ぎの達者な兵たちは言葉が完全に口から出きらないうちに手すりを越えている。彼らは血で染まった水を必死の速さで切り裂き、腕を交互に回して平氏旗艦の船尾にいる白い姿へと向かっていく。あなたは——あなたたち全員は——二位尼が前に踏み出し、子どもを腕に抱いて海へと入るのを見守る。白い衣が水の中で開きかけた花のように広がっていく。\n\nあなたの兵は瞬く間にその場に到達する。潜る。探す。空の手で水面に浮かび上がり、喘ぎながら、その後の人生でもずっと消えることのない表情を顔に刻んで。二位尼は沈みながら少年を抱き続け、宮廷衣装の重みが残りの仕事をした。剣はすでに失われていた。しかし、平氏旗艦の甲板の混乱の中で、捜索と反捜索の最後の瞬間に、あなたの兵は璽と鏡を確保する——ある王朝の残骸から回収された三種の神器のうちの二つ。\n\n太陽が関門海峡の上に低く垂れている。周囲の水は今は静かで、戦いの音が死の音に道を譲っている——溺れる者たちの呻き、救われた者たちの叫び。あなたは幼帝を救えなかった。しかし、試みた。歴史はその試みを覚えているだろう。死者が常に生者に求める長い清算の中で、それは意味を持つかもしれない。",
+        "zh-CN": "你高声下令，你最善游泳的士兵在话音未落之时便已翻越舷栏。他们以拼命的速度划破血染的水面，双臂不停打转，朝着平氏旗舰船尾那个白色身影游去。你——你们所有人——注视着二位尼向前踏步，将孩子抱在怀中走入大海，白色衣袍在水中如花朵绽放般漫展开来。\n\n你的士兵瞬间到达那个地点。他们潜入水中，搜寻，最终两手空空浮出水面，喘息着，脸上带着终其一生都无法消散的神情。二位尼在下沉时紧抱着那个孩子，宫廷礼服的重量完成了剩下的事情。剑早已消失。但在平氏旗舰甲板上的混乱中，在最后时刻的搜寻与反搜寻之间，你的士兵确保了玺与镜的安全——从一个王朝的废墟中找回的三种神器之二。\n\n太阳低悬于关门海峡上空。周围的水面已渐趋平静，战斗的声音让位于死亡的声音——溺亡者的呻吟，获救者的哭喊。你没有救下幼帝。但你曾经尝试。历史将记得这份尝试，也许在死者始终对生者所要求的漫长清算中，这一点是重要的。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "imperialLegitimacy", "operation": "add", "value": 20 },
+        { "variable": "minamotoMorale", "operation": "add", "value": -10 },
+        { "variable": "navalControl", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "genpei-war-1185-scene-003-choice-b",
+      "text": {
+        "en": "Hold back — this is the end of the Taira world, and some things must be allowed to conclude on their own terms. Focus your men on securing the flagship for the Sacred Treasures.",
+        "ja": "手を引く——これは平氏の世界の終わりであり、物事によっては自らの条件で完結することを許さなければならない。神器を確保するために旗艦を制圧することに兵を集中させる。",
+        "zh-CN": "按兵不动——这是平氏世界的终结，有些事必须被允许按其自身的方式走向结局。将士兵集中在确保旗舰、找回神器上。"
+      },
+      "historicalContext": "In the historical battle, the rescue attempt was partial and ultimately unsuccessful. Some historians argue that Minamoto commanders were aware that allowing the Emperor to drown, while tragic, removed a competing claim to imperial legitimacy that would have complicated the founding of the Kamakura Shogunate.",
+      "outcomePrompt": {
+        "en": "You lower your arm and give no order. The men around you look at you, and you look at the water, and the choice is made in silence the way the most consequential choices always are. Lady Nii steps into the sea. The white robes spread. The child disappears beneath the surface of the water that has swallowed everything else the Taira were and had and loved.\n\nThe moment passes. History moves through it like a river through a narrows, and on the other side, the world has changed in a way that cannot be unchained. You concentrate your forces on securing the Taira flagship, and in the chaos of the dying Taira resistance, your men recover the jewel and the mirror from the ship's interior — two of the three treasures preserved. The sword is gone, sunk somewhere in the deep water of the strait, and it will remain there until the end of time.\n\nThe Taira dynasty has ended on its own terms — not captured, not humiliated in surrender, but gone into the sea like rain returning to the ocean it came from. Your brother Yoritomo will understand, even if he never says so, what your restraint meant for the political order he is building. A living Emperor Antoku would have been a problem without a solution. A dead one is a tragedy that time, and poetry, will eventually absorb. The sun sets over Dan-no-ura, and Japan's next age has already begun.",
+        "ja": "あなたは腕を下ろし、何も命令しない。周囲の兵たちがあなたを見る。あなたは水を見る。最も重大な選択が常にそうであるように、決断は沈黙の中でなされる。二位尼が海へと踏み出す。白い衣が広がる。子どもが水面下へと消える——平氏がかつてあったもの、持っていたもの、愛していたものすべてを飲み込んだ水の下へ。\n\n瞬間が過ぎ去る。歴史は川が瀬戸を抜けるように、それを通り過ぎていく。そして向こう側では、もはや解くことのできない形で世界が変わっていた。あなたは戦力を平氏の旗艦制圧に集中させ、息絶えかけた平氏の抵抗が混乱する中で、あなたの兵は船内から璽と鏡を回収する——三つのうちの二つの神器が保たれた。剣は失われ、海峡の深い水のどこかに沈み、永遠にそこに残るだろう。\n\n平氏の世は自らの条件で終わった——捕らえられることなく、降伏の恥辱を受けることなく、生まれた海に還る雨のように海中へと消えた。兄・頼朝は、たとえ口には出さなくとも、あなたの自制が彼が作り上げようとしている政治秩序にとって何を意味するかを理解するだろう。生きている安徳天皇は、解決策のない問題だっただろう。死んだ安徳天皇は、時と詩歌がやがて吸収していく悲劇だ。太陽が壇ノ浦に沈み、日本の次の時代はすでに始まっている。",
+        "zh-CN": "你放下手臂，没有下达任何命令。周围的士兵看着你，你凝视着水面，决断在沉默中作出——一切最重大的抉择都是如此。二位尼踏入大海。白色衣袍漫展。孩子消失在水面之下——消失在那片吞没了平氏曾经所是、所有、所爱的一切的水中。\n\n这一刻过去了。历史如河流穿越险滩般穿行而过，而在彼岸，世界已经以一种再无法解开的方式改变了。你将兵力集中于控制平氏旗舰，在平氏残余抵抗陷入混乱之际，你的士兵从舱内找回了玺与镜——三件神器中的两件得以保全。剑已失落，沉入海峡某处深水之中，并将永远留在那里。\n\n平氏王朝按其自身的方式走向了终结——没有被俘，没有遭受投降的屈辱，如同雨水归还大海般消逝于其中。你的兄长赖朝，即便不会开口说出，也会明白你的克制对他正在构建的政治秩序意味着什么。活着的安德天皇将是一个无解的难题；而死去的安德天皇，则是时间与诗歌终将消化的悲剧。太阳落在坛之浦上，日本的下一个时代已然开始。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "imperialLegitimacy", "operation": "add", "value": -15 },
+        { "variable": "minamotoMorale", "operation": "add", "value": 5 },
+        { "variable": "navalControl", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

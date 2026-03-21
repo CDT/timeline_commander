@@ -1,0 +1,179 @@
+{
+  "id": "three-kingdoms-guandu-200",
+  "title": {
+    "en": "Battle of Guandu",
+    "ja": "官渡の戦い",
+    "zh-CN": "官渡之战"
+  },
+  "period": {
+    "en": "Three Kingdoms Period",
+    "ja": "三国時代",
+    "zh-CN": "三国时期"
+  },
+  "dates": {
+    "start": "0200-01-01",
+    "end": "0200-12-31"
+  },
+  "location": {
+    "en": "Guandu, Central Plains (modern Zhongmu County, Henan, China)",
+    "ja": "官渡、中原（現在の中国河南省中牟県）",
+    "zh-CN": "官渡，中原（今河南省中牟县）"
+  },
+  "historicalOverview": {
+    "en": "In the year 200 AD, the fate of northern China hung on a single campaign along the banks of the Yellow River. Cao Cao, warlord of the Central Plains, commanded a seasoned but desperately outnumbered force of roughly 20,000 to 30,000 soldiers. Facing him across the Guandu fortifications was Yuan Shao, the most powerful lord of the age, leading an army that contemporaries estimated at 100,000 men, backed by the vast agricultural wealth of the four northern provinces of Ji, Qing, You, and Bing.\n\nFor months the two sides maneuvered and probed each other's defenses. Yuan Shao's numerical superiority allowed him to press the siege, but Cao Cao's generals repeatedly blunted each advance. Cao Cao's own supplies dwindled to near nothing. He sent urgent messages to his advisor Xun Yu considering retreat, and Xun Yu's counsel to hold firm was all that kept the army in place. Yuan Shao, meanwhile, squandered opportunity after opportunity through indecision and his habit of dismissing the advice of his most capable counselors — men like Ju Shou and Tian Feng, who rotted in prison for having spoken too boldly.\n\nThe turning point came when Xu You, a long-time advisor of Yuan Shao who had been snubbed and whose family faced punishment back in the capital, slipped through the night and appeared at Cao Cao's gate. He brought word that Yuan Shao's enormous supply depot at Wuchao was guarded by only a skeleton force under the dissolute Chunyu Qiong. Cao Cao made the audacious, personally dangerous decision to ride out himself with his elite cavalry and burn Wuchao to the ground. The destruction of the supplies broke Yuan Shao's army from within, and what followed was the greatest single victory in the path to Cao Cao's unification of northern China.",
+    "ja": "西暦200年、黄河流域における一度の会戦に、中国北部の命運がかかっていた。中原の軍閥・曹操は、わずか2万から3万という寡兵を率いていた。その対岸、官渡の防塁の向こうには、当代最強の諸侯・袁紹が10万とも言われる大軍を擁し、冀・青・幽・并の四州の豊かな穀倉を背景にして立ちはだかっていた。\n\n両軍は数ヶ月にわたって陣地を構え、互いの防線を探り合った。袁紹は数的優位を活かして包囲を深めようとしたが、曹操の武将たちはその攻勢をことごとく退けた。一方で曹操軍の兵糧は底をつきかけ、曹操は撤退も検討するほど追い詰められていた。それでも軍師・荀彧の「堅守せよ」との進言が、軍を踏みとどまらせた。袁紹はといえば、優柔不断な性格と、直言する有能な部下を遠ざける悪癖から、好機を何度も逃し続けた——沮授や田豊らは、諫言の罪で獄に繋がれていた。\n\n転機は思わぬ人物によってもたらされた。袁紹の軍師・許攸は、主君に疎んじられ、都に残した家族も罪に問われるとの知らせを受け、夜陰に紛れて曹操の陣に駆け込んできた。彼がもたらした情報は、袁紹の巨大な兵站拠点・烏巣が、酒色に溺れた淳于瓊のもとでごく少数の兵しか守っていないというものだった。曹操は危険を顧みず、自ら精鋭騎兵を率いて烏巣を急襲し、兵糧をことごとく焼き払う決断を下した。この奇襲の成功が袁紹軍を内側から崩壊させ、曹操が中国北部を統一へと向かう道を切り拓いた最大の勝利となった。",
+    "zh-CN": "公元200年，北方中国的命运悬于黄河沿岸的一场决战之中。中原军阀曹操所率之兵不过两三万，却要面对当世最强诸侯袁绍的十万大军。袁绍坐拥冀、青、幽、并四州，粮草充盈，实力雄厚，与曹操隔官渡防线相峙。\n\n两军相持数月，互相试探，各攻对方薄弱之处。袁绍以人数优势不断施压，曹操的将领却屡次击退其进攻。然而曹军粮草几近断绝，曹操甚至致信谋士荀彧，考虑撤军。荀彧力劝坚守，方才稳住军心。袁绍则因生性优柔寡断，又惯于漠视能臣忠言，一再坐失良机——沮授、田丰因直言相谏，均被投入囹圄。\n\n转机来自一个意外的人物。袁绍谋士许攸因受主君猜忌，家人又在邺城获罪，遂趁夜投奔曹操，带来了至关重要的情报：袁绍在乌巢的巨大粮仓仅由酗酒无能的淳于琼率少量士卒把守。曹操当机立断，亲率精锐骑兵，连夜奔袭乌巢，将粮草付之一炬。此举令袁绍大军从内部崩溃，成为曹操统一北方、奠定基业最为关键的一役。"
+  },
+  "realWorldOutcome": {
+    "en": "Cao Cao's night raid on Wuchao destroyed Yuan Shao's supplies and morale simultaneously. Yuan Shao's army collapsed, many generals surrendered or defected, and Yuan Shao himself fled north across the Yellow River with only a handful of followers. He died in 202 AD, and his sons' subsequent infighting allowed Cao Cao to absorb the northern territories by 207 AD, unifying the north under his control and laying the foundation for the Wei kingdom.",
+    "ja": "曹操の烏巣夜襲は、袁紹軍の兵糧と士気を同時に打ち砕いた。袁紹軍は瓦解し、多くの将が降伏あるいは寝返り、袁紹自身もわずかな従者とともに黄河を渡って北へ逃れた。彼は202年に死去し、その後の子息たちの骨肉の争いにより、曹操は207年までに北方の諸領土を吸収・統一し、後の魏王国の礎を築いた。",
+    "zh-CN": "曹操奇袭乌巢，一举摧毁了袁绍的粮草与士气。袁绍大军随即土崩瓦解，众多将领或降或叛，袁绍本人仅率数名随从渡河北逃。202年，袁绍病逝，其子争位内讧，曹操趁机于207年兼并北方各地，完成北方统一，奠定了日后魏国的根基。"
+  },
+  "keyFigures": [
+    {
+      "id": "cao-cao",
+      "name": "Cao Cao",
+      "role": {
+        "en": "Warlord of the Central Plains, Chancellor of Han",
+        "ja": "中原の軍閥、漢朝の丞相",
+        "zh-CN": "中原军阀，汉朝丞相"
+      },
+      "faction": "Cao Wei",
+      "description": {
+        "en": "Cao Cao was one of the most brilliant military strategists and administrators of his era. Deeply pragmatic, he valued talent over birth and was known for making bold, decisive moves when others hesitated. His genius at Guandu was not just tactical but psychological — he understood his enemy's weaknesses better than Yuan Shao understood his own.",
+        "ja": "曹操は当代随一の軍事戦略家にして行政家であった。徹底した実用主義者であり、家柄よりも才能を重んじ、他者が躊躇する場面でも大胆果断な行動を取ることで知られた。官渡における彼の天才性は戦術的なものだけでなく心理的なものでもあり、袁紹自身が自分の弱点を理解する以上に、曹操は敵の弱点を見抜いていた。",
+        "zh-CN": "曹操是那个时代最杰出的军事战略家与行政官员之一。他极为务实，唯才是举，不拘出身，以在他人犹豫之际敢于果断出击而著称。他在官渡之战中展现的天才，不仅体现在战术层面，更体现在心理层面——他对袁绍弱点的洞察，甚至超过了袁绍本人的自知之明。"
+      }
+    },
+    {
+      "id": "yuan-shao",
+      "name": "Yuan Shao",
+      "role": {
+        "en": "Lord of the Four Northern Provinces",
+        "ja": "北方四州の覇者",
+        "zh-CN": "北方四州之主"
+      },
+      "faction": "Yuan",
+      "description": {
+        "en": "Yuan Shao commanded the largest army in northern China and came from the most prestigious aristocratic lineage of the age. Yet his indecisiveness, pride, and habitual dismissal of good counsel from advisors like Ju Shou and Tian Feng proved fatal. He had every material advantage and squandered them all.",
+        "ja": "袁紹は中国北部最大の軍勢を擁し、当代随一の名門貴族の家柄を誇った。しかし、その優柔不断さ、傲慢さ、そして沮授や田豊ら優れた部下の諫言を退ける癖が、最終的に致命傷となった。あらゆる物質的優位を持ちながら、それをすべて無駄にした。",
+        "zh-CN": "袁绍麾下拥有北方中国规模最大的军队，出身当世最显赫的士族门阀。然而他生性优柔寡断，自负傲慢，惯于拒绝沮授、田丰等谋士的忠言，终酿大败。他占尽各方优势，却将其一一挥霍殆尽。"
+      }
+    },
+    {
+      "id": "xu-you",
+      "name": "Xu You",
+      "role": {
+        "en": "Yuan Shao's advisor who defected to Cao Cao",
+        "ja": "袁紹の参謀、曹操への投降者",
+        "zh-CN": "袁绍谋士，降曹者"
+      },
+      "faction": "Defector",
+      "description": {
+        "en": "Xu You had been a friend of Cao Cao's since youth and was one of Yuan Shao's most capable advisors. When Yuan Shao rejected his counsel and his relatives were arrested back in the capital, Xu You slipped away in the night and brought Cao Cao the critical intelligence about Wuchao. His defection was the pivot of the entire campaign.",
+        "ja": "許攸は若い頃から曹操の友人であり、袁紹配下でも有能な参謀の一人であった。袁紹に進言を拒絶された上に、都の親族が捕縛されたとの知らせを受け、夜陰に乗じて脱出し、烏巣に関する決定的な情報を曹操にもたらした。彼の離反こそが、この戦役全体の転換点となった。",
+        "zh-CN": "许攸自幼与曹操相识，是袁绍麾下最有谋略的幕僚之一。因进言屡遭驳回，又闻邺城家人获罪，遂趁夜出走，向曹操献上乌巢的关键情报。他的倒戈成为整场战役的决定性转折点。"
+      }
+    },
+    {
+      "id": "chunyu-qiong",
+      "name": "Chunyu Qiong",
+      "role": {
+        "en": "Yuan Shao's commander at Wuchao supply depot",
+        "ja": "袁紹軍烏巣兵站の守将",
+        "zh-CN": "袁绍乌巢粮仓守将"
+      },
+      "faction": "Yuan",
+      "description": {
+        "en": "Chunyu Qiong was entrusted with guarding Yuan Shao's enormous supply depot at Wuchao. Known for his excessive drinking and lax discipline, he was poorly suited for such a critical responsibility. When Cao Cao's raiders arrived, his intoxicated state and unready troops contributed to the depot's swift destruction.",
+        "ja": "淳于瓊は袁紹軍の巨大な兵站拠点・烏巣の守備を任された将である。過度の飲酒と弛んだ軍紀で知られ、かくも重要な任務には不向きであった。曹操の奇襲隊が到着した際、彼の酩酊状態と無防備な兵士たちが、兵站の急速な壊滅を招く一因となった。",
+        "zh-CN": "淳于琼受命镇守袁绍在乌巢的巨大粮仓。此人嗜酒成性，军纪涣散，根本不称其职。曹操奇兵突至之时，他醉卧营中，士卒毫无防备，致使粮仓迅速被付之一炬。"
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "three-kingdoms-guandu-200-commander",
+      "scenarioId": "three-kingdoms-guandu-200",
+      "name": "Cao Cao",
+      "title": {
+        "en": "Chancellor of Han, Warlord of the Central Plains",
+        "ja": "漢朝丞相、中原の軍閥",
+        "zh-CN": "汉朝丞相，中原军阀"
+      },
+      "perspective": "commander",
+      "isHistoricalFigure": true,
+      "briefing": {
+        "en": "You are Cao Cao, Chancellor of the Han dynasty in name, master of the Central Plains in deed. You have fought and schemed your way to this moment across thirty years of civil war, and now everything — your life, your army, your vision for a unified China — rests on the outcome of a standoff along the Yellow River at a place called Guandu.\n\nYour enemy is Yuan Shao. You have known him since youth, and you have always known he was a man of appearance rather than substance — a lord who inherited his father's name and his grandfather's prestige without inheriting their wisdom. And yet he commands what may be the largest army ever assembled in the north: one hundred thousand soldiers, cavalry that darkens the horizon, war engines that could batter down walls. You have perhaps a quarter of that number. Your men are tired, their rations are thin, and the summer heat presses down on the earthworks like a physical weight.\n\nFor months you have held the defensive lines at Guandu, repelling every probe and assault. But you are bleeding out. The grain stores are nearly empty. You have written to Xun Yu in Xu Chang about withdrawing, and his reply — hold, hold at all costs — has kept you here. You believe him because you know something Yuan Shao does not seem to understand: that a defender can win a war of attrition only until the moment he cannot, and that moment is very close. You need a decisive stroke. You need information. You need something to change.\n\nYou have advisors, but their counsel varies wildly. Some urge reckless offense; others counsel cautious retreat. In this fog of war, with your supply situation becoming critical, you must choose your path carefully. Yuan Shao is rich in resources but poor in wisdom. His generals fight among themselves. His best advisors are imprisoned or ignored. Somewhere in that vast army across the river is a weakness — a vulnerability that a single bold decision could transform into catastrophe for him and salvation for you.\n\nThis is the test that will define your legacy. The histories will say you were either the greatest commander of your age or a gambler who overreached. You must be the former. The Central Plains, the north, perhaps all of China awaits the result of what you decide in the coming days.",
+        "ja": "あなたは曹操——名においては漢朝の丞相、実においては中原の支配者。三十年の内乱を戦い、謀略を巡らせてここまで辿り着いた。今やあなたのすべて——命、軍勢、統一中国への夢——が、黄河沿いの官渡と呼ばれる地での対峙の行方にかかっている。\n\n敵は袁紹。あなたは若い頃から彼を知っている。そして常に、彼は実質より外見を重んじる男だと見抜いていた——先祖の名声と威光を受け継ぎながら、その知恵を受け継がなかった諸侯だ。それでも彼が率いるのは、北方史上最大とも言われる軍勢だ。十万の兵、地平線を染め上げる騎馬、城壁すら打ち砕く攻城兵器。あなたの兵力はその四分の一にも満たない。兵士たちは疲弊し、糧食は乏しく、夏の熱気が塁壁に物理的な重さとなってのしかかる。\n\n幾ヶ月もの間、あなたは官渡の防線を守り続け、敵のあらゆる探りと攻勢をはね返してきた。しかし消耗は続いている。兵糧はほぼ尽きかけた。許昌の荀彧に撤退の可能性を書き送ったが、彼の返答——「守れ、何が何でも守れ」——がここに踏みとどまらせている。あなたが彼を信じるのは、防御側が持久戦で勝ち得るのはその限界が来る瞬間までであり、その瞬間がすぐそこまで迫っていることを、自分自身がよく分かっているからだ。決定的な一撃が必要だ。情報が必要だ。何かを変えなければならない。\n\n参謀たちの意見は大きく割れている。無謀な攻勢を唱える者もいれば、慎重な撤退を勧める者もいる。補給が逼迫するこの霧の中で、あなたは慎重に道を選ばなければならない。袁紹は資源に恵まれているが知恵に乏しい。その将たちは互いに争い、最良の参謀たちは投獄されるか無視されている。あの大河の向こうの大軍のどこかに弱点がある——あなたの一つの大胆な決断が、彼にとっての破滅とあなたにとっての救いに変えられる脆弱性が。\n\nこれが、あなたの遺産を決める試練だ。歴史書はあなたを当代最高の将と記すか、あるいは分不相応な賭けをした武将と記すだろう。前者でなければならない。中原、北方、そしておそらく中国全土が、あなたが来たる数日で下す決断の結果を待っている。",
+        "zh-CN": "你是曹操——名为汉朝丞相，实为中原之主。三十年乱世，你征战谋算，方才走到今日。而今，你的一切——性命、军队、统一天下的宏图——都系于黄河边一处名叫官渡的地方。\n\n你的对手是袁绍。你们自幼相识，你始终看透了他：此人重名而轻实，继承了祖先的声望与门第，却未能继承其智慧。然而他麾下的军队或许是北方有史以来最庞大的——十万大军，铁骑绵延至天际，攻城器械足以摧城破壁。你的兵力不足其四分之一，将士疲惫，粮草匮乏，夏日的酷热压在营垒之上，如有千钧之重。\n\n数月以来，你坚守官渡防线，一次次击退敌军的试探与进攻。可是消耗从未停止，粮仓已近告罄。你曾致书许昌的荀彧，提及撤军之议，他的回复只有一句——坚守，无论如何都要坚守。你信他，因为你比任何人都清楚：守方能撑过持久战，只在极限到来之前，而那个极限已近在眼前。你需要决定性的一击，需要情报，需要改变局面的契机。\n\n你的谋士们众说纷纭，有人力主冒进，有人建议谨慎撤退。在补给告急、战场迷雾笼罩之际，你必须审慎抉择。袁绍资源富足，却智谋匮乏；麾下将领各自为战，最有能耐的谋士或身陷囹圄，或屡遭漠视。在那支横亘河对岸的大军之中，必有弱点——一个只需你一个大胆决断，便能将其转化为袁绍覆灭、你得救全的破绽。\n\n这是决定你历史地位的考验。史书将记载你是当世最杰出的统帅，还是一个孤注一掷的赌徒。你必须成为前者。中原、北方，乃至整个中国，都在等待你在未来数日内做出的抉择。"
+      },
+      "objectives": [
+        {
+          "en": "Hold the Guandu defensive line against Yuan Shao's superior numbers",
+          "ja": "袁紹の圧倒的な数の前で、官渡の防衛線を維持する",
+          "zh-CN": "以劣势兵力坚守官渡防线"
+        },
+        {
+          "en": "Find and exploit a decisive vulnerability in Yuan Shao's strategy or logistics",
+          "ja": "袁紹の戦略または兵站における決定的な弱点を見つけ、それを突く",
+          "zh-CN": "寻找并利用袁绍战略或后勤中的决定性弱点"
+        },
+        {
+          "en": "Secure the unification of northern China under your authority",
+          "ja": "北方中国をあなたの権威のもとに統一する",
+          "zh-CN": "确保北方中国在你的统治下完成统一"
+        }
+      ],
+      "constraints": [
+        {
+          "en": "Supplies are critically low — you cannot sustain a prolonged stalemate",
+          "ja": "補給が危機的に不足しており、長期的な膠着状態は維持できない",
+          "zh-CN": "粮草严重匮乏，无法长期支撑僵局"
+        },
+        {
+          "en": "You must not abandon the Han Emperor's court at Xu Chang, which anchors your political legitimacy",
+          "ja": "あなたの政治的正統性の礎となっている許昌の漢帝の朝廷を見捨ててはならない",
+          "zh-CN": "不得抛弃许昌的汉帝朝廷，那是你政治合法性的根基"
+        },
+        {
+          "en": "Any intelligence from defectors must be weighed carefully — false information could be fatal",
+          "ja": "離反者からの情報は慎重に検討しなければならない——虚偽の情報は致命的となりうる",
+          "zh-CN": "来自降者的情报必须审慎核查——虚假情报可能致命"
+        }
+      ],
+      "pressures": [
+        {
+          "en": "Your men's morale is weakening with each passing week of stalemate and shrinking rations",
+          "ja": "膠着状態が続き、糧食が減るにつれて兵士たちの士気は日々低下している",
+          "zh-CN": "持久相持、粮草日减，将士士气日渐低落"
+        },
+        {
+          "en": "Yuan Shao's advisors urge him to attack; you cannot count on his indecisiveness lasting forever",
+          "ja": "袁紹の参謀たちは攻撃を進言している。彼の優柔不断がいつまでも続くとは期待できない",
+          "zh-CN": "袁绍的谋士力劝其出击，你不能指望他的优柔寡断永远持续"
+        },
+        {
+          "en": "Other warlords in the south and west are watching — a defeat here would embolden them all",
+          "ja": "南方や西方の他の軍閥たちが注目している——ここで敗北すれば、彼ら全員を勢いづかせることになる",
+          "zh-CN": "南方与西方的其他军阀都在观望——一旦此处战败，将令他们悉数蠢动"
+        }
+      ],
+      "startingSceneId": "three-kingdoms-guandu-200-scene-001",
+      "initialState": {
+        "caoCaoMorale": 55,
+        "yuanShaoMorale": 70,
+        "tacticalAdvantage": 30,
+        "supplyStatus": 35,
+        "intelligenceQuality": 45
+      }
+    }
+  ],
+  "sceneIds": [
+    "three-kingdoms-guandu-200-scene-001",
+    "three-kingdoms-guandu-200-scene-002",
+    "three-kingdoms-guandu-200-scene-003"
+  ],
+  "tags": ["three-kingdoms", "ancient-china", "military", "asia"],
+  "difficulty": "hard"
+}

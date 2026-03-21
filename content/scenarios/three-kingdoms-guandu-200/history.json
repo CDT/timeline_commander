@@ -1,0 +1,91 @@
+{
+  "scenarioId": "three-kingdoms-guandu-200",
+  "timeline": [
+    {
+      "date": "0200-02-01",
+      "description": {
+        "en": "Yuan Shao crosses the Yellow River with a massive army estimated at 100,000 men, advancing south toward Cao Cao's territory. Cao Cao's forces number perhaps 20,000, compelling him to adopt a defensive strategy anchored at the fortified position of Guandu.",
+        "ja": "袁紹が推定10万の大軍を率いて黄河を渡り、曹操の領土に向けて南下する。曹操軍はおよそ2万であり、官渡の要塞陣地を拠点とした守備戦略を採らざるを得なかった。",
+        "zh-CN": "袁绍率估计十万大军渡过黄河，向南推进至曹操领地。曹操兵力约两万，被迫采取以官渡要塞为核心的防御战略。"
+      }
+    },
+    {
+      "date": "0200-03-01",
+      "description": {
+        "en": "Cao Cao's general Guan Yu briefly serves under Yuan Shao's ally Yan Liang at White Horse before switching sides back to Cao Cao. Cao Cao wins engagements at White Horse and Yan Ford, beheading two of Yuan Shao's top generals — Yan Liang and Wen Chou — in lightning raids that sap Yuan Shao's confidence.",
+        "ja": "曹操の将・関羽が白馬において袁紹の将・顔良の陣営に一時加わるが、その後曹操のもとへ戻る。曹操は白馬と延津で戦いに勝利し、袁紹の精鋭将軍である顔良と文醜の首を取る電撃的な奇襲を敢行し、袁紹の自信を揺るがせる。",
+        "zh-CN": "曹操部将关羽一度在袁绍将领颜良麾下效力，后重归曹操。曹操在白马与延津相继告捷，以闪电突袭斩杀袁绍两员上将颜良与文丑，大挫袁绍锐气。"
+      }
+    },
+    {
+      "date": "0200-04-01",
+      "description": {
+        "en": "The armies settle into a prolonged defensive standoff at Guandu. Yuan Shao's vast supply lines stretch northward across the Yellow River; Cao Cao's forces begin to feel the strain of a war of attrition against a numerically superior enemy. Desertions and defections worry Cao Cao's camp.",
+        "ja": "両軍は官渡での長期的な防衛的膠着状態に陥る。袁紹の巨大な補給線は黄河を越えて北に延びている。曹操軍は数で優る敵との消耗戦の重圧を感じ始める。脱走と離反が曹操の陣営を悩ませる。",
+        "zh-CN": "两军在官渡陷入旷日持久的防御对峙。袁绍庞大的补给线向北延伸至黄河对岸；曹操军开始感受到与兵力占优之敌打消耗战的重压，逃亡与倒戈令曹操营中忧虑丛生。"
+      }
+    },
+    {
+      "date": "0200-05-01",
+      "description": {
+        "en": "Yuan Shao constructs elevated arrow platforms to rain arrows down into Cao Cao's fortifications. Cao Cao counters with catapults — called thunderbolt chariots by the soldiers — that demolish the platforms. This artillery exchange marks one of history's earlier recorded uses of catapults in a siege context.",
+        "ja": "袁紹が射楼を築き、曹操の要塞に矢を雨のように降らせる。曹操は投石機——兵士たちに「霹靂車」と呼ばれた——で対抗し、射楼を破壊する。この砲撃戦は、史上最初期に記録された攻城戦での投石機使用の一例となった。",
+        "zh-CN": "袁绍建造高台箭楼，向曹操要塞倾泻箭雨。曹操以投石车——士卒称之为「霹雳车」——反制，将箭楼逐一摧毁。这场炮战成为史上最早有记录的攻城战投石机使用案例之一。"
+      }
+    },
+    {
+      "date": "0200-08-01",
+      "description": {
+        "en": "Xu You, a former advisor to Yuan Shao who had fallen out of favor, defects to Cao Cao's camp by night. He brings critical intelligence: Yuan Shao's vast supply depot at Wuchao is lightly guarded and holds the provisions on which the entire northern army depends. Cao Cao, despite objections from his generals, decides to strike immediately.",
+        "ja": "袁紹のもとで失脚した元軍師・許攸が夜に曹操の陣営へ寝返る。彼がもたらした情報は決定的だった：袁紹の大規模な兵站基地・烏巣は手薄な守備しかなく、北軍全体が依存する兵糧がそこに蓄えられている。曹操は将軍たちの反対を押し切り、直ちに攻撃することを決断する。",
+        "zh-CN": "袁绍帐下失势的谋士许攸趁夜投奔曹操营地。他带来了决定性情报：袁绍位于乌巢的大型粮草囤积地守备薄弱，整支北军的军粮皆赖于此。曹操力排众议，决定立即出击。"
+      }
+    },
+    {
+      "date": "0200-10-01",
+      "description": {
+        "en": "Cao Cao leads a rapid night march personally, disguising his elite cavalry as Yuan Shao's soldiers. They surprise the garrison at Wuchao and burn the entire supply depot to the ground. Yuan Shao's army, learning that their provisions are gone, collapses in panic.",
+        "ja": "曹操自ら精鋭騎兵を袁紹軍に偽装させ、急速な夜間行軍を指揮する。烏巣の守備隊を奇襲し、補給基地全体を焼き払う。兵糧が失われたことを知った袁紹の軍は恐慌に陥って崩壊する。",
+        "zh-CN": "曹操亲率精锐骑兵，伪装成袁绍军队，发动急速夜间行军。奇袭乌巢守军，将整座粮草囤积地付之一炬。袁绍大军获悉粮草已断，军心大乱，全面崩溃。"
+      }
+    },
+    {
+      "date": "0200-10-15",
+      "description": {
+        "en": "Yuan Shao's army disintegrates. Zhang He and Gao Lan, two of his senior generals, defect to Cao Cao during the chaos. Yuan Shao flees north across the Yellow River with only a handful of retainers, abandoning his army, his maps, and his seals of authority. Cao Cao captures or kills tens of thousands.",
+        "ja": "袁紹の軍が瓦解する。上級将軍である張郃と高覧が混乱の中で曹操に降伏する。袁紹はわずかな側近だけを連れて黄河を北に渡り、軍勢・地図・印綬を全て捨てて逃亡する。曹操は数万の兵を捕虜にするか討ち取る。",
+        "zh-CN": "袁绍军队土崩瓦解。上将张郃与高览趁乱投降曹操。袁绍仅携少数随从渡黄河北逃，丢弃军队、地图与权印。曹操俘斩数万之众。"
+      }
+    },
+    {
+      "date": "0202-05-01",
+      "description": {
+        "en": "Yuan Shao dies of illness, never recovering from the humiliation and shock of Guandu. His sons quarrel over the succession, and within a few years Cao Cao subdues the remnants of the Yuan family, unifying the north of China under his control.",
+        "ja": "袁紹が病死する。官渡の屈辱と衝撃から立ち直れなかった。息子たちが後継をめぐって争い、数年以内に曹操が袁氏の残党を平定し、中国の北部を自らの支配下に統一する。",
+        "zh-CN": "袁绍因病辞世，始终未能从官渡之败的屈辱与打击中恢复。其子争位相互攻伐，数年内曹操平定袁氏残余势力，统一中国北方。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Cao Cao's surprise raid on the Wuchao supply depot destroyed the logistical foundation of Yuan Shao's army, turning a seemingly unwinnable defensive war into one of history's most celebrated upsets. With the north unified under Cao Cao, the stage was set for the Three Kingdoms period proper — the subsequent confrontation with Liu Bei's Shu Han and Sun Quan's Eastern Wu that would define Chinese history for the next half century.",
+    "ja": "曹操の烏巣補給基地への奇襲は袁紹軍の兵站基盤を壊滅させ、勝ち目がないと思われた防衛戦を歴史上最も称えられる番狂わせの一つに変えた。曹操のもとで北方が統一されたことで、真の三国時代の舞台が整った——その後の劉備の蜀漢と孫権の東呉との対立は、次の半世紀の中国史を定義することとなる。",
+    "zh-CN": "曹操奇袭乌巢粮草营地，摧毁了袁绍大军的后勤根基，将一场看似无望的防御战演变为历史上最脍炙人口的以弱胜强战例之一。北方统一于曹操之手后，真正的三国时代拉开帷幕——此后与刘备蜀汉、孙权东吴的对峙，将决定此后半个世纪的中国历史走向。"
+  },
+  "casualties": {
+    "en": "Yuan Shao's losses were catastrophic: tens of thousands killed or captured in the collapse after Wuchao, with estimates of 70,000 or more prisoners executed by Cao Cao. Cao Cao's own losses during the long siege were significant but proportionally far smaller. The psychological blow to the Yuan family's prestige proved irreversible.",
+    "ja": "袁紹の損害は壊滅的だった：烏巣後の崩壊で数万が討たれるか捕虜となり、曹操が処刑した捕虜は7万以上とも言われる。曹操自身の長期包囲中の損害も相当なものであったが、比率としてははるかに少なかった。袁氏の威信に与えた精神的打撃は取り返しのつかないものとなった。",
+    "zh-CN": "袁绍的损失是灾难性的：乌巢之后的崩溃中数万人阵亡或被俘，曹操处决俘虏的估计超过七万。曹操在长期围困中自身损失也相当可观，但比例上远少于对方。袁氏威望所受的心理打击被证明是无法挽回的。"
+  },
+  "significance": {
+    "en": "The Battle of Guandu is considered one of the three decisive battles of the Three Kingdoms period, alongside Red Cliffs (208 AD) and Yiling (221 AD). It demonstrated that logistics — not merely battlefield courage — determines the outcome of prolonged campaigns. Cao Cao's willingness to act on intelligence from a defector, and his personal leadership of the night raid, became defining examples of bold strategic decision-making studied by Chinese military scholars for centuries. The battle ended the era of warlord fragmentation in northern China and set the conditions for the eventual Cao Wei dynasty.",
+    "ja": "官渡の戦いは、赤壁（208年）・夷陵（221年）と並んで三国時代の三大決戦の一つとされる。兵站——単なる戦場の勇敢さではなく——が長期作戦の結末を決定することを示した。寝返った者の情報に基づいて行動する曹操の決断力と、夜間奇襲を自ら指揮したことは、何世紀にもわたって中国の軍事研究者に研究された大胆な戦略的意思決定の典型例となった。この戦いは中国北部における軍閥割拠の時代を終わらせ、後の曹魏王朝の条件を整えた。",
+    "zh-CN": "官渡之战被视为三国时期三大决战之一，与赤壁之战（208年）、夷陵之战（221年）并列。它证明了后勤——而非单纯的战场英勇——才是决定持久战役结果的关键。曹操依据降将情报果断出击的魄力，以及亲率夜袭的个人指挥，成为中国军事学者数百年来研究的大胆战略决策经典案例。这场战役终结了中国北方军阀割据的时代，为曹魏政权的最终建立创造了条件。"
+  },
+  "furtherReading": [
+    "Rafe de Crespigny, Imperial Warlord: A Biography of Cao Cao 155-220 AD (Brill, 2010)",
+    "Moss Roberts (translator), Three Kingdoms: A Historical Novel by Luo Guanzhong (University of California Press, 1991)",
+    "Rafe de Crespigny, A Biographical Dictionary of Later Han to the Three Kingdoms (Brill, 2007)",
+    "Achilles Fang, The Chronicle of the Three Kingdoms: Selections from the Tzu Chih T'ung Chien (Harvard University Press, 1952)",
+    "Stephen Turnbull, Fighting Ships of the Far East: China and Southeast Asia 202 BC-AD 1419 (Osprey, 2002)"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "chu-han-contention-202bc-scene-003",
+  "scenarioId": "chu-han-contention-202bc",
+  "title": {
+    "en": "The Wu River",
+    "ja": "烏江のほとりで",
+    "zh-CN": "乌江之畔"
+  },
+  "date": {
+    "en": "202 BC, the Wu River (Yangtze tributary)",
+    "ja": "紀元前202年、烏江（揚子江の支流）",
+    "zh-CN": "公元前202年，乌江（长江支流）"
+  },
+  "location": {
+    "en": "The Bank of the Wu River, Anhui",
+    "ja": "安徽省、烏江の岸辺",
+    "zh-CN": "安徽省乌江岸边"
+  },
+  "narrativePrompt": {
+    "en": "The ferryman's boat is small and battered, much like everything else in this moment, and it sits at the river's edge as if it has been waiting specifically for you, which the old man says it has. He knows who you are. He does not say this with reverence or with pity — simply with the directness of someone who has made a decision and is reporting it. He has room for you and your horse, he says. The pursuit will not catch you if you go now. The people of Jiangdong still remember who you are. There is a future across that water.\n\nYou stand at the edge of the Wu River with the Han pursuit somewhere behind you and your remaining men — fewer now than when you reached the river, because the running fights along the way took their toll — arrayed behind you in the silence that comes when men have decided to accept whatever comes next. The old ferryman waits. The river moves past with the indifference of rivers, neither urging you forward nor warning you back.\n\nYou think about Jiangdong. The young men who crossed this river with you eight years ago — eight thousand of them, you said at the time, though memory of numbers sharpens with time into precision that was not there in the original moment. Eight thousand men from east of the river, who believed in the thing you were building, who died in the wars that followed or deserted in the night or surrendered at Gaixia. To go back across the river is to face the families of those men. It is to face the villages where the empty houses are. It is to face the question of what you have to offer them, now, having spent everything they gave you.\n\nYou also think about Liu Bang. He will not stop. He has never stopped, not in ten years of this war, not even when you had him at your mercy and chose to let him live because killing a man at a banquet where you invited him seemed wrong. He will cross the river eventually if you do not cross it first. Jiangdong is not a refuge forever. It is at best a delay.\n\nThe men behind you are watching. They will do whatever you decide. They have always done whatever you decided. This is the last decision you will ask of them, or the last decision you will ask of yourself with them watching, which amounts to the same thing.\n\nThe river is wide. The boat is small. The pursuit is close. What comes next is yours to determine.",
+    "ja": "船頭の船は小さく傷ついていて、この瞬間の他のすべてのものと同じようで、川縁に特別にあなたを待っていたかのように座っている。老人はそう言う。彼はあなたが誰かを知っている。尊敬や哀れみを持ってではなく——単純に決断を下して報告する誰かの率直さで。あなたと馬のための場所がある、と彼は言う。今行けば追撃は追いつかない。江東の民はまだあなたが誰かを覚えている。あの水の向こうに未来がある。\n\n後方のどこかに漢の追撃部隊を、そして残った男たち——川に到達したときより今は少ない、道中の逃走戦闘が代償を取ったから——を次に何が来ても受け入れると決めた者たちの静寂の中に背後に従えて、烏江の縁に立っている。老いた船頭は待つ。川は川の無関心さで流れ過ぎる。前に進むよう促すでも、後ろに戻るよう警告するでもなく。\n\n江東のことを考える。八年前にこの川を渡ってあなたとともに来た若者たち——当時は八千人と言ったが、記憶の中の数字は時間とともに元の瞬間にはなかった精度に研ぎ澄まされる。川の東からの八千人、あなたが築いていたものを信じた者たち、その後の戦争で死んだか、夜の間に脱走したか、垓下で降伏した。川を渡って戻ることは、その男たちの家族に直面することだ。空き家のある村に直面することだ。今、彼らが与えたすべてを使い果たした後、彼らに何を提供できるかという問いに直面することだ。\n\n劉邦のことも考える。彼は止まらない。この戦争の十年間、あなたが彼を宴会に招いて殺すことが間違いに思えたため慈悲で生かしたときでさえ、止まったことがなかった。先に渡らなければ彼はいずれ川を渡ってくる。江東は永遠の隠れ家ではない。せいぜい遅延だ。\n\n後ろの男たちは見ている。あなたが決断することを何でもする。常にあなたの決断に従ってきた。これがあなたが彼らに求める最後の決断か、あるいは彼らが見ている中であなたが自分自身に求める最後の決断で、それは同じことになる。\n\n川は広い。船は小さい。追撃は近い。次に何が来るかはあなたが決める。",
+    "zh-CN": "船夫的渡船又小又旧，和此刻的一切别无二致，静静停在江边，仿佛专为等你而来——老人说，确实如此。他知道你是谁，说这话时没有敬仰，也没有怜悯，只有一个已经做了决定的人在陈述事实的那种直接。他说船上有你和你的马的位置，现在走的话追兵追不上，江东百姓还记得你是谁，那片水的对岸有未来。\n\n你站在乌江边，汉军追兵就在身后某处，剩余的部下——比到达江边时更少了，一路厮杀各有折损——列于你身后，沉默着，那是一种人们已决意接受无论接下来什么的沉默。老船夫在等。江水带着水的漠然流淌而过，既不催你前进，也不警告你退回。\n\n你想到了江东。八年前随你渡过这条江的那些年轻人——那时你说有八千人，尽管记忆中的数字随时间的流逝会磨砺出当初那个瞬间并不具备的精确——八千个来自江东的人，相信你所构建之事业的人，此后或死于战阵，或夜间逃亡，或在垓下降伏。回头渡江，意味着要面对这些人的家人，面对那些空屋子的村庄，面对在耗尽了他们给予你的一切之后，你如今还能给他们什么的问题。\n\n你也想到了刘邦。他不会停。这场战争的十年里他从未停过，哪怕在你有机会置他于死地却因为在你亲自邀请他赴宴的宴席上动手杀人似乎不对而选择放他一条生路时，他也从未停。你若不先渡江，他迟早会渡过来。江东不是永久的庇护所，充其量只是缓兵之计。\n\n身后的人们在看着。你决定什么，他们就做什么。他们向来如此。这是你向他们提出的最后一个决断，或者说是你在他们目光注视下向自己提出的最后一个决断——两者其实是同一件事。\n\n江面宽阔，渡船狭小，追兵将至。接下来发生什么，由你来决定。"
+  },
+  "situationReport": [
+    {
+      "en": "The ferry is available and the ferryman is willing. The Han pursuit is minutes to an hour behind. Crossing now is physically possible.",
+      "ja": "渡し船は利用可能で船頭は積極的だ。漢の追撃は数分から一時間後にいる。今渡ることは物理的に可能だ。",
+      "zh-CN": "渡船可用，船夫愿意摆渡。汉军追兵落后数分钟到一个时辰。现在渡江在体力上是可行的。"
+    },
+    {
+      "en": "Jiangdong (east of the Yangtze) still contains pockets of Chu loyalty. There may be a possibility of rebuilding a smaller resistance, though Liu Bang's consolidation of power makes this increasingly difficult.",
+      "ja": "江東（揚子江の東）にはまだ楚への忠誠の拠点がある。より小さな抵抗を再建する可能性があるかもしれないが、劉邦の権力の固めによってこれはますます困難になっている。",
+      "zh-CN": "江东（长江以东）依然存在一些对楚的忠诚据点，或许有重建小规模抵抗的可能，但随着刘邦加速巩固权力，这变得越来越困难。"
+    },
+    {
+      "en": "Xiang Yu's remaining cavalry: approximately 100-200 men, all loyal veterans. They will follow any order given, including dying where they stand.",
+      "ja": "項羽の残存騎兵：おおよそ100〜200人、全員忠実な老兵。その場での死を含め、どんな命令にも従う。",
+      "zh-CN": "项羽残余骑兵：约一两百人，均为忠诚老卒。他们将服从任何命令，包括以死殉主。"
+    },
+    {
+      "en": "Historical note: the ferryman's offer and Xiang Yu's response at the Wu River became one of the most analyzed moments in Chinese literary and philosophical tradition, representing the tension between pragmatic survival and the demands of honor.",
+      "ja": "歴史的注記：船頭の申し出と烏江での項羽の反応は、中国の文学・哲学の伝統において最も分析された瞬間の一つとなり、実際的な生存と名誉の要求の間の緊張を表している。",
+      "zh-CN": "历史注记：船夫的提议与项羽在乌江的回应，成为中国文学与哲学传统中被分析最多的时刻之一，体现了务实求生与荣誉之道之间的张力。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Make the final choice that defines Xiang Yu's legacy: cross the river and preserve the possibility of future action, or stay and die as the Hegemon-King of Chu",
+      "ja": "項羽の遺産を規定する最終的な選択をする：川を渡って将来の行動の可能性を保全するか、楚の覇王として残って死ぬか",
+      "zh-CN": "做出界定项羽遗产的最终选择：渡江保留未来行动的可能，还是留下以楚霸王之身而死"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "There is no objectively correct answer — both choices carry their own form of honor and their own form of loss",
+      "ja": "客観的に正しい答えはない——どちらの選択も独自の名誉と独自の喪失を持つ",
+      "zh-CN": "没有客观正确的答案——两种选择各有其荣耀，也各有其失去"
+    },
+    {
+      "en": "Xiang Yu's character, as established through the entire scenario, informs which choice is authentic to who he was — the player has been building toward this moment",
+      "ja": "シナリオ全体を通じて確立された項羽の性格が、どちらの選択が彼の本質に真実であるかを知らせる——プレイヤーはこの瞬間に向けて積み上げてきた",
+      "zh-CN": "项羽在整个场景中所展现的性格，指向哪一种选择才是对其本质的真实回应——玩家一直在为这一时刻而积累"
+    }
+  ],
+  "choices": [
+    {
+      "id": "chu-han-contention-202bc-scene-003-choice-a",
+      "text": {
+        "en": "Cross the river — step into the ferryman's boat and take the chance that Jiangdong offers",
+        "ja": "川を渡る——船頭の舟に踏み入り、江東が提供するチャンスをつかむ",
+        "zh-CN": "渡江——踏上船夫的渡船，把握江东提供的那一线机会"
+      },
+      "historicalContext": "The historical counterfactual. According to the Shiji (Records of the Grand Historian), Xiang Yu chose NOT to cross — he gave his horse to the ferryman and fought until he was overwhelmed and took his own life. The choice to cross represents what might have been.",
+      "outcomePrompt": {
+        "en": "You step into the boat. The ferryman pushes off without ceremony and the river takes you.\n\nLooking back from the water, you see your remaining cavalry on the bank — those who could not fit on the small boat, who watched you go as soldiers watch their commander leave when there is nothing left to do. Some of them are already turning their horses to face the Han pursuit. They will not surrender. You did not ask them to, and they did not offer. This is understood between men who have ridden together as long as you have ridden together.\n\nThe south bank comes up. Jiangdong. The smell of it is familiar — river mud and pine forests and the particular quality of the air on this side of the water that you knew as a boy and have not smelled in eight years.\n\nYou are alive. That is what you have purchased. What you have paid for it is everything you built north of the river, and the deaths of the men on the bank behind you who gave you time to reach the other side. What you can build from here — whether Jiangdong can become a base for a renewed resistance, whether the memory of who you were can be reconstructed from what you are — is a question that history, in this alternative, does not answer for you. It leaves you on the south bank with a horse you do not have and a future you must make.\n\nThe historical record, in the version where you crossed, is silent about what happened next. Perhaps that is the point.",
+        "ja": "舟に踏み込む。船頭は儀式なしに漕ぎ出し、川があなたを運ぶ。\n\n水の上から振り返ると、岸に残った騎兵が見える——小さな舟に乗り切れなかった者たちで、何もすることがないときに指揮官が去るのを兵士が見るように、あなたが去るのを見ていた。何人かはもう馬を漢の追撃に向けて転じている。降伏しない。あなたは彼らに頼まなかったし、彼らも申し出なかった。これはあなたたちが一緒に馬を走らせてきた分だけ長く一緒に馬を走らせてきた者たちの間で理解されている。\n\n南岸がやってくる。江東。その匂いは馴染み深い——川の泥と松の森と、少年の頃に知っていてこの八年間嗅いでいなかった、この川のこちら側の空気の特別な質。\n\nあなたは生きている。それがあなたが買ったものだ。支払ったのは川の北に築いたすべてのもの、そしてあなたが対岸に到達する時間を与えてくれた後方の岸の男たちの死だ。ここから何を築けるか——江東が新たな抵抗の拠点になれるか、あなたが誰であったかの記憶が今のあなたから再構築できるか——は、この代替の歴史において、歴史があなたのために答えない問いだ。それはあなたを持っていない馬と、作らなければならない未来とともに南岸に残す。\n\nあなたが渡った版の歴史的記録は、次に何が起きたかについて沈黙している。おそらくそれが要点だ。",
+        "zh-CN": "你踏上了船。船夫不带仪式地撑篙离岸，江水将你带走。\n\n从水面回望，你看见留在对岸的骑兵——那些上不了这条小船的人，像士兵在无事可做时目送将领离去那样，目送着你远去。有些人已经调转马头，面向汉军追兵。他们不会投降。你没有叫他们这样做，他们也没有提出。这在并肩驰骋多年的人之间，是无需言说的事。\n\n南岸近了。江东。那气味熟悉——河泥、松林，以及这条江这一岸的空气特有的质感，是你少年时就知道、却已八年未曾嗅到的。\n\n你活着。这是你买到的东西。你付出的代价，是江北你曾建立的一切，以及身后那些给了你时间渡到对岸的岸边士兵的死亡。从这里你能建起什么——江东是否能成为重整旗鼓的根基，你曾经是谁的记忆能否从你如今所是之物中重建——是在这另一种历史中历史不会替你回答的问题。它将你留在南岸，没有马，面对一个你必须自己去创造的未来。\n\n在你渡江的那个版本里，历史记录对接下来发生了什么保持沉默。也许这便是其中的要义。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "escapeRoute", "operation": "add", "value": 30 },
+        { "variable": "heroicResolve", "operation": "add", "value": -20 },
+        { "variable": "chuMorale", "operation": "add", "value": -10 },
+        { "variable": "troopStrength", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "chu-han-contention-202bc-scene-003-choice-b",
+      "text": {
+        "en": "Refuse to cross — give the horse to the ferryman and fight until the end",
+        "ja": "渡ることを拒否する——馬を船頭に与え、最後まで戦う",
+        "zh-CN": "拒绝渡江——将战马赠予船夫，战至最后"
+      },
+      "historicalContext": "This is what historically happened. According to Sima Qian's Shiji, Xiang Yu told the ferryman he was too ashamed to return to Jiangdong having lost the men who followed him. He gave his beloved horse Dapple to the ferryman, fought on foot until overwhelmed by Han soldiers, and then took his own life. He was 30 years old.",
+      "outcomePrompt": {
+        "en": "You tell the ferryman to take the horse. He looks at you with the expression of a man who has understood, and who wishes he had not been here to understand it. You take the horse's bridle off yourself. The horse is called Dapple and you have ridden him for years and he knows your hands and your voice and he goes with the ferryman quietly, which is its own kind of grief.\n\nYou turn to face east. The Han pursuit comes into view along the river road within the hour — cavalry, several thousand, in the colors of Han. You see them and they see you, and there is a moment where the situation is simply legible to everyone present: this is Xiang Yu of Chu, on foot, with fewer than a hundred men, waiting.\n\nWhat follows is in all the chronicles, told with variations that accumulate into something like myth: how many Han soldiers fell to you in that last engagement — the numbers range from dozens to hundreds, depending on the source — and the specific manner of your death, which you chose yourself rather than waiting for it to choose you. You are thirty years old. The Han dynasty will last four hundred years. The story of the Chu-Han contention will be retold in poetry and drama and historical commentary for two thousand years, and in most of those retellings, it is Xiang Yu who is remembered with the most complicated mixture of admiration and sorrow.\n\nThe ferryman crosses the river alone. Dapple lives, or does not — the horse is not mentioned again. The river keeps moving. History writes itself forward without you, which is what history does.",
+        "ja": "あなたは船頭に馬を連れて行くよう言う。彼は理解した男の、そしてここにいて理解しなければよかったと望む男の表情であなたを見る。自分で馬の手綱を外す。馬の名は騅で、何年もともに走ってきた。あなたの手とあなたの声を知っており、船頭とともに静かに行く。それ自体が一種の悲しみだ。\n\n東に向き直る。漢の追撃が一時間以内に川沿いの道に見えてくる——数千の騎兵、漢の色の旗。彼らが見え、彼らがあなたを見て、そして状況がその場のすべての者に単純に読める瞬間がある：これは楚の項羽、徒歩で、百人以下の兵で、待っている。\n\n次に起きることはすべての年代記に、蓄積されて神話に近いものになる変形を伴って告げられている：最後の交戦であなたが倒した漢の兵士の数——出典によって数十から数百まで幅がある——そして自分の死の具体的な方法。それを選ぶのを待つのではなく、あなた自身が選んだ。あなたは三十歳だ。漢王朝は四百年続く。楚漢争覇の物語は詩や演劇や歴史的解説で二千年にわたって再話され、それらの再話のほとんどで、最も複雑な賛美と悲しみの混合で記憶されるのは項羽だ。\n\n船頭は一人で川を渡る。騅は生きるか生きないか——馬は再び言及されない。川は流れ続ける。歴史はあなたなしに前へと書かれていく。それが歴史のすることだ。",
+        "zh-CN": "你叫船夫把马带走。他用一个已然明白、却又希望自己不曾在此明白的人的眼神望着你。你亲手解下马的笼头。这匹马叫骓，你已骑了多年，它认得你的手、你的声音，随着船夫静静地走了。这本身便是一种悲伤。\n\n你转身面向东方。不到一个时辰，汉军追兵出现在沿江的道路上——数千骑兵，汉军旗帜的颜色。你看见他们，他们看见你，有那么一刻，场面对在场所有人都清晰可读：这是楚霸王项羽，徒步而立，身后不足百人，在等。\n\n接下来发生的事，载于所有史书，以种种流变积累成近乎神话的面貌：最后一战中你击杀了多少汉兵——各家史料从数十到数百不等——以及你死的方式，那是你自己选择的，而不是等它来找你。你三十岁。汉朝将延续四百年。楚汉相争的故事，将在诗歌、戏剧与史学评注中被重讲两千年，而在那些重讲中的大多数里，被以最复杂的敬仰与悲悯交织的情感所铭记的，是项羽。\n\n船夫独自渡过了江。骓是否活着——史书不再提及这匹马。江水继续流淌，历史在没有你的情况下继续向前书写，那是历史的本色。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "heroicResolve", "operation": "add", "value": 30 },
+        { "variable": "chuMorale", "operation": "add", "value": 20 },
+        { "variable": "escapeRoute", "operation": "add", "value": -30 },
+        { "variable": "troopStrength", "operation": "add", "value": -25 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

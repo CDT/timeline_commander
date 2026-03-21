@@ -1,0 +1,107 @@
+{
+  "scenarioId": "qin-unification-221bc",
+  "timeline": [
+    {
+      "date": "-0230-01-01",
+      "description": {
+        "en": "Qin conquers Han (230 BC), the first of the six Warring States to fall. General Nei Shi Teng leads the campaign, capturing the Han king and ending the smallest of the rival kingdoms.",
+        "ja": "秦が韓を征服（紀元前230年）。六国の中で最初に滅んだ国だ。将軍・内史騰が遠征を指揮し、韓王を捕らえ、最小の競合国を終わらせた。",
+        "zh-CN": "秦灭韩（公元前230年），六国中第一个灭亡的国家。将领内史腾率军出征，俘虏韩王，终结了这个最小的竞争对手。"
+      }
+    },
+    {
+      "date": "-0228-01-01",
+      "description": {
+        "en": "Qin conquers Zhao (228 BC). General Wang Jian leads the campaign after initial setbacks, capturing the Zhao capital Handan and taking the Zhao king prisoner. Prince Jia flees and declares a remnant Zhao state in Dai.",
+        "ja": "秦が趙を征服（紀元前228年）。当初の挫折の後、将軍・王翦が遠征を指揮し、趙の都・邯鄲を攻略して趙王を捕虜にする。公子嘉は逃亡し、代に趙の残存政権を宣言した。",
+        "zh-CN": "秦灭赵（公元前228年）。将军王翦在初期受挫后主持战役，攻克赵都邯郸，俘赵王。公子嘉出逃，在代地宣布建立赵国残余政权。"
+      }
+    },
+    {
+      "date": "-0221-01-01",
+      "description": {
+        "en": "Qin conquers Qi (221 BC), the last of the six kingdoms. King Jian of Qi surrenders without significant battle, having been diplomatically isolated for years. All of China is now under Qin control.",
+        "ja": "秦が斉を征服（紀元前221年）。六国の最後の国だ。斉王・建は数年にわたって外交的に孤立させられていたため、大きな抵抗なく降伏した。中国全土が秦の支配下に入った。",
+        "zh-CN": "秦灭齐（公元前221年），六国最后一个。齐王建多年来遭秦外交孤立，未经大战便宣告投降。至此中国全境皆入秦之版图。"
+      }
+    },
+    {
+      "date": "-0221-03-01",
+      "description": {
+        "en": "Ying Zheng declares himself Qin Shi Huangdi — the First August Emperor — rejecting the title of king and creating a new, unprecedented imperial title. He establishes the commandery-county system of centralized governance, abolishing feudalism across the empire.",
+        "ja": "嬴政は自らを秦の始皇帝——最初の皇帝——と宣言し、王の称号を拒否して新しい前例のない皇帝の称号を創り出した。彼は中央集権的統治の郡県制を確立し、帝国全域で封建制を廃止した。",
+        "zh-CN": "嬴政自称秦始皇帝——第一位皇帝——拒绝「王」的称号，创立了前所未有的新帝号。他确立了郡县制的中央集权治理体系，在帝国全境废除封建制度。"
+      }
+    },
+    {
+      "date": "-0221-06-01",
+      "description": {
+        "en": "Li Si is appointed Chancellor and implements sweeping standardization edicts: a unified script replacing regional scripts, standardized weights and measures, standardized axle widths for roads, and a unified legal code. These reforms are enforced with severe penalties for non-compliance.",
+        "ja": "李斯が丞相に任命され、全面的な統一令を実施する：地方の文字に取って代わる統一文字、度量衡の統一、道路用の車軸幅の統一、統一された法典。これらの改革は不服従には厳罰をもって施行された。",
+        "zh-CN": "李斯被任命为丞相，推行一系列统一法令：以统一文字取代各地方文字，统一度量衡，统一道路车轨宽度，统一法典。这些改革以严厉惩处不从者的方式强制执行。"
+      }
+    },
+    {
+      "date": "-0215-01-01",
+      "description": {
+        "en": "General Meng Tian leads 300,000 Qin soldiers to drive back the Xiongnu nomads from the northern frontier and begins construction of the first unified Great Wall, connecting and extending existing walls of the former northern states.",
+        "ja": "将軍・蒙恬は30万の秦兵を率いて北方辺境から匈奴の遊牧民を追い払い、以前の北方諸国の既存の城壁を連結・延長しながら、最初の統一された万里の長城の建設を開始した。",
+        "zh-CN": "将军蒙恬率三十万秦军将匈奴游牧民驱逐出北方边境，并开始修建第一道统一的万里长城，将原北方各国的旧有城墙连接并延伸。"
+      }
+    },
+    {
+      "date": "-0213-01-01",
+      "description": {
+        "en": "The Burning of Books (213 BC): Li Si persuades Qin Shi Huangdi to order the burning of all historical records, poetry, philosophy, and literature from the former states, excluding practical texts on agriculture, medicine, and divination. Scholars who protest are executed — tradition records 460 Confucian scholars buried alive.",
+        "ja": "焚書（紀元前213年）：李斯が始皇帝を説得し、農業・医術・占いに関する実用書を除く、旧諸国の歴史書・詩・哲学・文学をすべて焼却するよう命じさせた。抗議する学者は処刑された——伝統的な記録では460人の儒家の学者が生き埋めにされたとされる。",
+        "zh-CN": "焚书（公元前213年）：李斯说服秦始皇下令焚毁各国的历史记录、诗歌、哲学与文学，仅保留农业、医学与占卜的实用文本。抗议的学者遭到处决——传统记载有四百六十名儒家学者被坑杀。"
+      }
+    },
+    {
+      "date": "-0210-01-01",
+      "description": {
+        "en": "Death of Qin Shi Huangdi (210 BC) while on an inspection tour. The eunuch Zhao Gao and chancellor Li Si suppress the news and forge an edict forcing crown prince Fusu and general Meng Tian to commit suicide, placing the weak second son Huhai on the throne as Emperor Erhuang. Huhai's misrule accelerates imperial collapse.",
+        "ja": "巡行中に始皇帝が崩御（紀元前210年）。宦官・趙高と丞相・李斯が知らせを隠蔽し、太子・扶蘇と将軍・蒙恬を自決させる詔書を偽造し、軟弱な次男・胡亥を二世皇帝として即位させた。胡亥の失政が帝国の崩壊を加速させた。",
+        "zh-CN": "秦始皇在巡游途中驾崩（公元前210年）。宦官赵高与丞相李斯隐瞒死讯，伪造诏书逼太子扶苏与将军蒙恬自尽，拥立懦弱的次子胡亥登基为二世皇帝。胡亥的暴政加速了帝国的崩溃。"
+      }
+    },
+    {
+      "date": "-0209-01-01",
+      "description": {
+        "en": "The Chen Sheng and Wu Guang Uprising (209 BC): Conscripted laborers stranded by floods revolt under Chen Sheng and Wu Guang at Daze Township, declaring the restoration of Chu. The uprising triggers widespread rebellions across the former six states. Within a year, Xiang Liang raises the Chu rebel banner.",
+        "ja": "陳勝・呉広の乱（紀元前209年）：洪水で足止めされた徴用労働者が大沢郷で陳勝と呉広の下に反乱を起こし、楚の復興を宣言した。この反乱は旧六国全体で広範な反乱を引き起こした。1年以内に項梁が楚の反乱の旗を掲げた。",
+        "zh-CN": "陈胜吴广起义（公元前209年）：被洪水阻滞的徭役者在大泽乡以陈胜、吴广为首揭竿而起，宣布复立楚国。这场起义引发了旧六国各地的广泛叛乱。不及一年，项梁举起楚地反旗。"
+      }
+    },
+    {
+      "date": "-0207-01-01",
+      "description": {
+        "en": "Fall of Qin (207 BC): The Qin capital Xianyang falls to Liu Bang's forces. The last Qin ruler, Ziying, surrenders after only 46 days on the throne. Xiang Yu arrives, executes Ziying, and burns the Qin palaces. The Qin dynasty, which Ying Zheng boasted would last ten thousand generations, has endured for only fifteen years.",
+        "ja": "秦の滅亡（紀元前207年）：秦の都・咸陽が劉邦の軍に陥落する。秦の最後の君主・子嬰は即位後わずか46日で降伏した。項羽が到着し、子嬰を処刑して秦の宮殿を焼き払った。嬴政が一万代続くと誇った秦王朝は、わずか15年しか続かなかった。",
+        "zh-CN": "秦朝灭亡（公元前207年）：秦都咸阳陷落于刘邦军队之手。秦最后的君主子婴在位仅四十六天便宣告投降。项羽随后赶至，处死子婴，焚毁秦宫殿。嬴政夸口将延续万世的秦王朝，仅历十五年便走入终结。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Qin dynasty unified China for the first time in history but collapsed fifteen years after its founding — just four years after Qin Shi Huangdi's death. The combination of harsh laws, forced labor on monumental projects (the Great Wall, Ling Canal, Epang Palace, the First Emperor's mausoleum), political terror under Zhao Gao, and the absence of capable successors made the dynasty brittle. The successor Han dynasty preserved the essential Qin administrative innovations — commanderies, counties, bureaucratic appointment — while moderating the harshness, and endured for four hundred years.",
+    "ja": "秦王朝は史上初めて中国を統一したが、建国から15年——始皇帝の死後わずか4年——で崩壊した。厳しい法律、大規模事業（万里の長城・霊渠・阿房宮・始皇陵）での強制労働、趙高による政治的恐怖政治、そして有能な後継者の不在の組み合わせが王朝を脆弱にした。後継の漢王朝は、秦の行政的革新の本質——郡・県・官僚任用制——を保持しながら苛酷さを和らげ、400年間存続した。",
+    "zh-CN": "秦朝史上首次统一了中国，却在建立十五年后便走向覆灭——始皇帝驾崩后仅四年。严苛法令、大型工程的强制徭役（长城、灵渠、阿房宫、始皇陵）、赵高的政治恐怖统治，以及缺乏有能之继承者，诸因叠加使王朝不堪一折。继起的汉朝保留了秦的行政制度精髓——郡、县、官僚任命制——同时缓和了严苛，绵延四百年之久。"
+  },
+  "casualties": {
+    "en": "The wars of unification (230–221 BC) are estimated to have killed hundreds of thousands of soldiers across the six states. The Qin construction projects — the Great Wall, canals, roads, and imperial palaces — are estimated to have worked to death or killed through harsh conditions hundreds of thousands of laborers. The fall of Qin involved large-scale massacres, including Xiang Yu's execution of 200,000 surrendered Qin soldiers at Xin'an.",
+    "ja": "統一戦争（紀元前230〜221年）では、六国全体で何十万もの兵士が死亡したと推定されている。秦の建設事業——万里の長城・運河・道路・皇帝の宮殿——では、何十万もの労働者が過酷な状況によって過労死または死亡したと推定されている。秦の滅亡には大規模な虐殺が伴い、項羽が新安で秦の降伏兵20万人を処刑したことも含まれる。",
+    "zh-CN": "统一战争（公元前230—221年）中，六国估计有数十万将士阵亡。秦国的建设工程——长城、运河、道路及皇宫——估计有数十万劳役者死于繁重劳作或严苛条件之下。秦朝覆灭之际发生大规模屠杀，其中包括项羽在新安坑杀二十万秦军降卒。"
+  },
+  "significance": {
+    "en": "The Qin unification created the template for Chinese imperial governance that endured for over two thousand years. The concept of a unified China ruled by a single emperor through a centralized bureaucracy — rather than a feudal system of lords — became so fundamental to Chinese political identity that subsequent dynasties all sought to reunify whenever the empire fragmented. The Qin administrative innovations (commanderies and counties, standardized script, weights, measures, and laws) were adopted by every subsequent Chinese dynasty. Even the name China derives from Qin.",
+    "ja": "秦の統一は、2000年以上にわたって続いた中国の皇帝統治の雛型を作った。封建的な諸侯制度ではなく、中央集権的な官僚制を通じて単一の皇帝が統治する統一中国という概念は、中国の政治的アイデンティティにとって非常に根本的なものとなり、その後の王朝はすべて帝国が分裂したときに再統一を求めた。秦の行政的革新（郡県・統一文字・度量衡・法律）はその後のすべての中国王朝に採用された。「China」という名前でさえ秦に由来する。",
+    "zh-CN": "秦的统一创立了延续逾两千年的中国帝制治理模板。通过中央集权官僚制由单一皇帝统治的统一中国这一概念——而非封建诸侯制——成为中国政治认同如此根本的基础，以至于此后历代王朝在帝国分裂时无不寻求重新统一。秦的行政制度创新（郡县制、统一文字、度量衡与法律）被此后每一个中国王朝所沿用。甚至「China」这个名称本身也源自「秦」。"
+  },
+  "furtherReading": [
+    "The First Emperor of China by Jonathan Clements",
+    "The Early Chinese Empires: Qin and Han by Mark Edward Lewis",
+    "The Emperor's Shadow: Qin Shi Huang and the Creation of Imperial China by Jonathan Clements",
+    "Records of the Grand Historian (Shiji) by Sima Qian, translated by Burton Watson",
+    "China: A History by John Keay"
+  ]
+}

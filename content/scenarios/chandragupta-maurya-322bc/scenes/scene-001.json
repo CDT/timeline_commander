@@ -1,0 +1,114 @@
+{
+  "id": "chandragupta-maurya-322bc-scene-001",
+  "scenarioId": "chandragupta-maurya-322bc",
+  "title": {
+    "en": "Chanakya's Strategy",
+    "ja": "チャナキャの戦略",
+    "zh-CN": "考底利耶的战略"
+  },
+  "date": {
+    "en": "322 BC — Northwestern India, near the Indus",
+    "ja": "紀元前322年——インダス川近郊、北西インド",
+    "zh-CN": "公元前322年——印度西北部，印度河附近"
+  },
+  "location": {
+    "en": "The Mauryan camp in the northwestern frontier region",
+    "ja": "北西辺境地域のマウリヤ野営地",
+    "zh-CN": "印度西北边境地区的孔雀军营"
+  },
+  "narrativePrompt": {
+    "en": "Chanakya unrolls a cloth map on the ground before you. In the lamplight his long fingers trace the rivers, the mountain passes, the cities. He has been drawing this map for years, you realize — in his head, in the library at Taxila where he taught before the Nandas humiliated him, in the dust beside your campfire when you were nothing but two displaced men with an idea.\n\nHe traces the Nanda empire from its center — Pataliputra, fat and wealthy and defended by the world's largest standing army, forty thousand cavalry, two hundred thousand infantry, eight thousand war elephants. He traces it to its edges: the frontier kingdoms of Gandhara and Kamboja in the northwest, the hill tribes that pay tribute grudgingly, the mountain peoples who pay nothing at all. And then his finger circles back to the edges, tapping them one by one.\n\nThe tree dies from the roots, he says. You do not take the trunk first. You take the roots. You take the outermost provinces, one by one, turning each conquest into the base for the next. By the time you reach Pataliputra, you will outnumber them. By the time you reach Pataliputra, they will already know they have lost.\n\nYou study the map. He is right. He is almost certainly right. But Pataliputra is there, on the cloth, fat and ripe and hated — the Nanda king despised for his taxation, his ministers fat and corrupt, the people of Magadha ready to welcome anyone who promises relief. The Macedonians are squabbling over Alexander's corpse in the west. Nobody is watching. The time might never be this perfect again.\n\nChanakya watches you look at Pataliputra and sighs.",
+    "ja": "チャナキャはあなたの前の地面に布の地図を広げる。ランプの光の中で、その長い指が川・山道・都市を辿る。彼は何年もこの地図を描いてきたのだとあなたは気づく——頭の中で、タクシラの図書館で（ナンダ朝に侮辱される前に教えていた場所で）、あなたたちがただ二人の行き場のない男として焚き火の傍らに座っていた時に砂の上で。\n\n彼はナンダ帝国をその中心から辿る——パータリプトラ、豊かで裕福で、世界最大の常備軍に守られている、騎兵四万、歩兵二十万、戦象八千。それから辺縁へと辿る：北西のガンダーラとカンボジャの辺境王国群、渋々貢ぎ物を払う山岳部族、全く払わない山の民。そして彼の指は辺縁に戻り、一つ一つ叩く。\n\n木は根から枯れる、と彼は言う。まず幹を取るのではない。根を取る。最も外側の州を一つずつ取り、各征服を次の征服の基盤にする。パータリプトラに達する頃には、数で勝るだろう。パータリプトラに達する頃には、彼らはすでに負けを知っているだろう。\n\nあなたは地図を研究する。彼は正しい。ほぼ確実に正しい。しかしパータリプトラはそこにある、布の上に、豊かで熟れて、憎まれている——ナンダ王は課税のために蔑まれ、大臣たちは太って腐敗し、マガダの民は誰でも救済を約束する者を歓迎する準備ができている。マケドニア人たちは西でアレクサンドロスの遺体をめぐって内紛している。誰も見ていない。これほど完璧な機会は二度と来ないかもしれない。\n\nチャナキャはあなたがパータリプトラを眺めるのを見てため息をつく。",
+    "zh-CN": "考底利耶在你面前的地上展开一幅布制地图。在灯光下，他修长的手指描绘着河流、山口和城市。你意识到，他绘制这幅地图已经好多年了——在他的脑海里，在塔克西拉的图书馆里（那是他被难陀王朝凌辱之前教书的地方），在你们不过是两个无处可去的男人时坐在篝火旁的尘土上。\n\n他从难陀帝国的中心开始追溯——华氏城，富庶繁荣，由世界上最大的常备军守卫着：四万骑兵，二十万步兵，八千战象。然后追溯到边缘：西北部犍陀罗和剑浮沙的边境王国，勉强纳贡的山地部落，完全不缴纳贡赋的山民。然后他的手指回到边缘，逐一点叩。\n\n树从根部死去，他说。不是先取树干。先取树根。一省一省地拿下最外围的省份，将每次征服化为下一次征服的基础。待你抵达华氏城时，你将在数量上超过他们。待你抵达华氏城时，他们已经知道自己败了。\n\n你研究这幅地图。他是对的。几乎可以肯定是对的。但华氏城就在那里，在布上，富庶而成熟，令人憎恨——难陀王因苛税而被人唾骂，大臣们肥胖腐朽，摩揭陀的百姓随时准备迎接任何一个许诺救济的人。马其顿人正在西方为亚历山大的遗产争吵不休。没有人在看着。这样完美的时机也许永远不会再来了。\n\n考底利耶看着你凝视华氏城，叹了口气。"
+  },
+  "situationReport": [
+    {
+      "en": "Your current force numbers approximately 8,000 trained soldiers plus several thousand tribal auxiliaries. The Nanda standing army is estimated at over 200,000, with significant elephant and cavalry corps. Direct assault on Pataliputra is military suicide at present strength.",
+      "ja": "あなたの現在の兵力は訓練された兵士約8,000人に加え、数千人の部族補助兵からなる。ナンダの常備軍は20万人以上と推定され、相当な象部隊と騎兵隊を擁する。現在の兵力でパータリプトラへの直接攻撃は軍事的な自殺行為だ。",
+      "zh-CN": "你目前的兵力约为8000名训练有素的士兵加上数千名部落辅助兵。难陀常备军估计超过二十万人，并拥有可观的象兵和骑兵部队。以目前实力对华氏城发动直接攻击无异于军事自杀。"
+    },
+    {
+      "en": "The northwestern frontier provinces — Gandhara, Kamboja, and territories formerly under Macedonian influence — are weakly defended and their populations are hostile to Nanda rule. Chanakya estimates these can be taken within 18 months.",
+      "ja": "北西の辺境州——ガンダーラ、カンボジャ、かつてマケドニアの影響下にあった領土——は守備が薄く、その住民はナンダの支配に敵対的だ。チャナキャはこれらが18ヶ月以内に取れると推定する。",
+      "zh-CN": "西北边疆各省——犍陀罗、剑浮沙以及前马其顿势力范围内的领土——守备薄弱，其民众对难陀统治充满敌意。考底利耶估计这些地区可在18个月内拿下。"
+    },
+    {
+      "en": "Popular hatred of the Nanda dynasty in Magadha is confirmed by intelligence reports. Their tax collectors are assaulted by mobs in outlying districts. A credible liberator with sufficient force could expect significant popular support.",
+      "ja": "マガダにおけるナンダ朝への民衆の憎しみは情報報告によって確認されている。彼らの徴税官は外縁地区で群衆に暴行されている。十分な兵力を持つ信頼できる解放者は、相当な民衆の支持を期待できるだろう。",
+      "zh-CN": "情报报告证实了摩揭陀民众对难陀王朝的仇恨。他们的税吏在外围地区遭到人群袭击。一位拥有足够兵力的可信的解放者可以期待获得相当大的民众支持。"
+    },
+    {
+      "en": "Intelligence suggests that the Nanda court is increasingly divided between factions, and King Dhana Nanda's personal unpopularity makes defection by provincial governors a real possibility if a credible alternative presents itself.",
+      "ja": "情報によれば、ナンダの宮廷は派閥間でますます分裂しており、ダナ・ナンダ王個人の不人気さが、信頼できる代替勢力が現れれば州知事の離反を現実的な可能性にしている。",
+      "zh-CN": "情报显示，难陀宫廷内部派系斗争日益激化，陀那难陀王本人极不得人心，一旦出现可信的替代势力，地方总督倒戈的可能性真实存在。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide the strategic approach to overthrowing the Nanda dynasty",
+      "ja": "ナンダ朝打倒の戦略的アプローチを決める",
+      "zh-CN": "决定推翻难陀王朝的战略方式"
+    },
+    {
+      "en": "Begin building the military and political coalition necessary for the campaign",
+      "ja": "遠征に必要な軍事的・政治的連合の構築を始める",
+      "zh-CN": "开始建立遂行战役所需的军事和政治联盟"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Your current force is insufficient for a direct assault on Pataliputra — you must grow stronger before any frontal engagement",
+      "ja": "あなたの現在の兵力はパータリプトラへの直接攻撃には不十分で——正面衝突の前に強くなる必要がある",
+      "zh-CN": "你目前的兵力不足以直接攻打华氏城——在任何正面交锋之前，你必须变得更强"
+    },
+    {
+      "en": "Time is a factor — the political chaos following Alexander's death will not last indefinitely",
+      "ja": "時間は重要な要素だ——アレクサンドロスの死後の政治的混乱は無期限には続かない",
+      "zh-CN": "时间是一个关键因素——亚历山大死后的政治混乱不会无限期持续下去"
+    }
+  ],
+  "choices": [
+    {
+      "id": "chandragupta-maurya-322bc-scene-001-choice-a",
+      "text": {
+        "en": "Follow Chanakya's peripheral strategy. Secure the northwestern provinces first, build strength, turn each conquest into a base for the next, and approach Pataliputra only when the balance of power has shifted decisively in your favor.",
+        "ja": "チャナキャの周縁部戦略に従う。まず北西の州を確保し、力を蓄え、各征服を次の征服の基盤にし、勢力均衡が決定的にあなたに有利になってからパータリプトラに近づく。",
+        "zh-CN": "遵循考底利耶的外围战略。首先确保西北各省，积蓄实力，将每次征服化为下一次的基础，待力量对比明显倾向于你时，再向华氏城逼进。"
+      },
+      "historicalContext": "This is what Chandragupta actually did. Chanakya's peripheral strategy proved decisive. By the time Chandragupta marched on Pataliputra, he had an army capable of defeating the Nanda forces and a reputation as a liberator that brought popular support.",
+      "outcomePrompt": {
+        "en": "You stare at the map for a long time and then look up at Chanakya. He does not look triumphant. He looks like a man who expected you to eventually reach the right answer.\n\nThe first campaigns begin in the northwest. Gandhara falls in three months — the Macedonian garrison disperses, the local nobles welcome you with practical warmth. Kamboja follows. Each campaign teaches your army something the previous one could not. Your logistical systems improve. Your intelligence networks deepen. You learn where the wells are, which mountain passes can be taken by night, which provincial governors can be bribed and which must be fought.\n\nEighteen months later, your army has tripled. You have eight thousand more soldiers than when you started, but more importantly, you have an army that has fought together, that has won together. They believe they can win, which is almost as important as the ability to do so. You are on the road to Pataliputra. And ahead of you, the intelligence reports confirm, the Nanda garrison commanders are looking nervously over their shoulders.",
+        "ja": "あなたは長い間地図を見つめ、それからチャナキャを見上げる。彼は勝ち誇った様子を見せない。やがてあなたが正しい答えに達することを期待していた男のように見える。\n\n最初の遠征が北西部で始まる。ガンダーラは三ヶ月で陥落する——マケドニアの守備隊は散開し、地方の貴族たちは実際的な歓迎の温かさであなたを迎える。カンボジャが続く。各遠征があなたの軍に前回には学べなかった何かを教える。兵站システムが改善される。諜報網が深まる。どこに井戸があるか、どの山道が夜間に取れるか、どの州知事が買収でき、どれと戦わなければならないかを学ぶ。\n\n18ヶ月後、あなたの軍は三倍になっている。開始時より8,000人多い兵士を持つが、それ以上に重要なのは、共に戦い、共に勝利してきた軍を持っているということだ。彼らは勝てると信じており、それは勝つ能力とほぼ同じくらい重要だ。あなたはパータリプトラへの道を歩んでいる。そしてあなたの前方では、情報報告が確認する通り、ナンダの守備隊司令官たちが不安そうに背後を振り返っている。",
+        "zh-CN": "你凝视地图许久，然后抬眼看向考底利耶。他神情并无得意之色，而像是一个早就预料你终将得出正确答案的人。\n\n第一批战役在西北部展开。犍陀罗在三个月内陷落——马其顿驻军解散，当地贵族以务实的热忱迎接你。剑浮沙随后跟进。每一次战役都教给你的军队前一次无法传授的东西。后勤系统得到改善。情报网络不断深化。你学会了哪里有水井，哪个山口可以在夜间夺取，哪些省级总督可以收买，哪些必须硬打。\n\n十八个月后，你的军队扩大了三倍。你比开始时多了八千名士兵，但更重要的是，你拥有一支共同作战、共同取胜的军队。他们相信自己能赢，这与赢的能力几乎同样重要。你正行进在通往华氏城的路上。而在你前方，情报报告证实，难陀守备队的指挥官们已开始不安地频频回望。"
+      },
+      "nextSceneId": "chandragupta-maurya-322bc-scene-002",
+      "stateChanges": [
+        { "variable": "mauryaStrength", "operation": "add", "value": 25 },
+        { "variable": "popularSupport", "operation": "add", "value": 15 },
+        { "variable": "chanakyanAdvice", "operation": "add", "value": 10 },
+        { "variable": "nandaResistance", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "chandragupta-maurya-322bc-scene-001-choice-b",
+      "text": {
+        "en": "Strike directly at Pataliputra while the Nanda king's unpopularity is at its peak and the Macedonian distraction in the west holds. Speed and boldness may overcome numbers — the population may rise to support you once you appear at the gates.",
+        "ja": "ナンダ王の不人気が頂点に達し、西でのマケドニアの注意が維持されている間に、パータリプトラへ直接攻撃する。速度と大胆さが数の差を克服するかもしれない——一度あなたが城門に現れれば、民衆は立ち上がってあなたを支持するかもしれない。",
+        "zh-CN": "趁难陀王声望跌至谷底、马其顿在西方牵制尚在之机，直接攻打华氏城。速度与果敢或许能弥补兵力上的劣势——一旦你出现在城门前，民众或许会揭竿而起支持你。"
+      },
+      "historicalContext": "This is the path Chandragupta initially attempted and failed. According to some accounts, he launched a premature assault on Nanda territory and was badly defeated, forcing him to retreat and rethink — after which he followed Chanakya's peripheral strategy more faithfully.",
+      "outcomePrompt": {
+        "en": "Your instincts are not wrong — the Nanda king is hated, the people are ready. But readiness to welcome a liberator is not the same as the ability to fight off a professional army of 200,000 on behalf of one. The Nanda forces meet you in open ground three days south of Pataliputra. They are poorly led and poorly motivated, but they are enormous, and your 8,000 cannot hold their line.\n\nYou retreat in reasonable order — Chanakya has planned for this possibility and the withdrawal is disciplined. You lose perhaps a third of your effectives. More critically, you lose momentum, and momentum is what you were selling.\n\nChanakya is waiting for you in the camp. He does not say I told you so. He says: now we do it correctly. His map is still spread on the ground. His finger goes to the northwest. You sit down across from him and begin again.",
+        "ja": "あなたの直感は間違っていない——ナンダ王は憎まれ、民衆は準備ができている。しかし解放者を歓迎する準備が整っていることと、20万の精兵に対抗して戦える能力は別物だ。ナンダ軍はパータリプトラの三日南の開けた地でがあなたと相対する。彼らの指揮は貧弱で意欲も低いが、巨大であり、あなたの8,000人では戦線を維持できない。\n\nあなたはまずまず整然と後退する——チャナキャはこの可能性を想定していて、撤退は規律ある。有効戦力の約三分の一を失う。さらに重要なことに、勢いを失う。そして勢いこそがあなたが売りにしていたものだ。\n\nチャナキャは野営地であなたを待っている。「言ったでしょう」とは言わない。彼は言う：今こそ正しくやろう。彼の地図は今も地面に広げられている。彼の指が北西へと向かう。あなたは彼の向かいに座り、もう一度始める。",
+        "zh-CN": "你的直觉并没有错——难陀王遭人唾骂，民众蓄势待发。但准备好迎接解放者，与有能力代替一人抵抗二十万职业军队，是两码事。难陀军队在华氏城以南三天路程的开阔地上与你正面相遇。他们指挥混乱，士气低落，但人数庞大，你的八千人无法维持阵线。\n\n你撤退得尚算有序——考底利耶已预料到这种可能性，撤退执行有方。你损失了约三分之一的有效兵力。更关键的是，你失去了势头，而势头正是你一直在出售的东西。\n\n考底利耶在营地等着你。他没有说我早告诉你了。他说：现在我们用正确的方式来做。他的地图仍然铺展在地上。他的手指指向西北。你在他对面坐下，重新开始。"
+      },
+      "nextSceneId": "chandragupta-maurya-322bc-scene-002",
+      "stateChanges": [
+        { "variable": "mauryaStrength", "operation": "add", "value": -15 },
+        { "variable": "popularSupport", "operation": "add", "value": -10 },
+        { "variable": "nandaResistance", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

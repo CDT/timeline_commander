@@ -1,0 +1,115 @@
+{
+  "id": "kushan-empire-127-scene-002",
+  "scenarioId": "kushan-empire-127",
+  "title": {
+    "en": "Han China's Demand",
+    "ja": "前漢の要求",
+    "zh-CN": "汉朝的索求"
+  },
+  "date": {
+    "en": "circa 130 AD, Purushapura",
+    "ja": "西暦130年頃、プルシャプラ",
+    "zh-CN": "约公元130年，富楼沙城"
+  },
+  "location": {
+    "en": "The Imperial Audience Hall, Purushapura",
+    "ja": "帝国謁見の間、プルシャプラ",
+    "zh-CN": "帝国谒见厅，富楼沙城"
+  },
+  "narrativePrompt": {
+    "en": "The Han envoy stands before you in the great audience hall, his robes immaculate despite the months of travel through mountain passes and desert roads that brought him from Luoyang to your court. He bears jade tablets inscribed with the commands of the Son of Heaven of the Han — demands that your court acknowledge Han suzerainty over the Tarim Basin oasis cities, that you pay annual tribute in horses and precious stones, and that you formally desist from any military pressure in the east. Behind his careful diplomatic language lies a simple message: Ban Chao broke your army there, and the Han want what they have won to be formally acknowledged.\n\nYou remember the reports from your generals in Central Asia — the Kushan cavalry that rode east, proud and confident, returning shattered. Ban Chao was not merely a great general; he was the kind of commander who appears once in a generation, a man who reconquered thirty-six states with only thirty-six horsemen at the outset. Your intelligence tells you that Ban Chao is old and ailing now, that the Han court is engaged in its own domestic struggles, and that their grip on the Tarim may be weakening even as they demand tribute from you. But that intelligence could be wrong.\n\nYour war council is divided. Satranjuka, your commander in Bactria, argues that a tribute payment is an intolerable humiliation — that if word spreads that the great Kushan emperor pays tribute to the Han, Parthia will smell weakness and probe the western border, and the satraps of your outlying provinces will begin to calculate whether their loyalty to a weakened emperor is worth maintaining. He wants to send an army east again, to challenge the Han in the Tarim Basin and reassert Kushan dominance of the northern Silk Road branch.\n\nBut your finance minister sees it differently. The Silk Road trade that passes through Kashgar generates more wealth than any military campaign could justify. A war with Han China would disrupt the caravans, close the mountain passes, and potentially redirect the northern trade routes around Kushan territory entirely. The merchants of Purushapura are already nervous at the envoy's presence. A pragmatic tribute payment — dressed up as a gift of friendship, as all such payments are — would buy peace, allow trade to continue, and give you time to rebuild your Central Asian forces. The choice is yours, Maharaja.",
+    "ja": "漢の使者が大謁見の間であなたの前に立っています。その衣服は、洛陽からあなたの宮廷まで山峠と砂漠の道を数ヶ月旅してきたにもかかわらず、清潔そのものです。彼は前漢の天子の命令が刻まれた玉の板を携えています——タリム盆地のオアシス都市における前漢の宗主権を認めること、馬と宝石で年貢を払うこと、東での軍事的圧力を公式に停止することを求めています。彼の慎重な外交的言語の背後には、シンプルなメッセージがあります：班超があなたの軍をそこで打ち破り、前漢はその勝利を公式に認めさせたいのです。\n\nあなたは中央アジアの将軍たちからの報告を覚えています——誇り高く自信を持って東に向かったクシャーナ朝の騎馬軍が、砕かれて帰ってきたことを。班超は単に偉大な将軍であっただけでなく、一世代に一度現れるような指揮官であり、最初はたった三十六人の騎手で三十六の国を再征服した男でした。あなたの諜報部は、班超が今は老いて病気がちであること、前漢の朝廷が自らの国内問題に追われていること、そして彼らのタリムへの支配があなたへの朝貢要求と同時に弱まりつつある可能性があることを教えています。しかしその諜報は間違っているかもしれません。\n\nあなたの軍議は分裂しています。バクトリアのあなたの司令官サトランジュカは、朝貢の支払いは容認できない屈辱だと主張します——偉大なクシャーナ朝皇帝が前漢に朝貢を支払うという噂が広まれば、パルティアが弱みを嗅ぎ取って西部国境を探ってくるだろうし、辺境の州のサトラップたちは弱体化した皇帝への忠誠が維持する価値があるかどうか計算し始めるだろうと。彼は再び東に軍を送り、タリム盆地で前漢に挑み、シルクロード北部支線におけるクシャーナ朝の優位を再主張したいと考えています。\n\nしかしあなたの財務大臣は別の見方をしています。カシュガルを通過するシルクロードの交易は、いかなる軍事遠征も正当化できる以上の富を生み出しています。前漢との戦争は隊商を混乱させ、山峠を閉鎖し、北部交易路をクシャーナ朝の領土を完全に迂回させる可能性があります。プルシャプラの商人たちはすでに使者の存在に神経をとがらせています。実用的な朝貢の支払い——すべてそのような支払いがそうであるように友情の贈り物として装われた——は平和を買い、交易を継続させ、中央アジアの軍勢を再建する時間を与えるでしょう。選択はあなたにあります、マハーラージャよ。",
+    "zh-CN": "汉朝使者站在大谒见厅中，面对着你。尽管历经数月翻越山隘、穿越沙漠之路，从洛阳长途跋涉至你的宫廷，他的衣袍依然一尘不染。他携带着刻有汉朝天子诏命的玉简——要求你的朝廷承认汉朝对塔里木盆地绿洲城市的宗主权，以马匹与宝石缴纳年贡，并正式停止对东方的任何军事压力。他谨慎外交辞令的背后是一个简单的讯息：班超在那里击溃了你的军队，汉朝希望他们所赢得的成果得到正式承认。\n\n你记得来自中亚将领们的报告——贵霜骑兵骄傲而自信地东进，却落败而归。班超不仅仅是一位伟大的将军；他是那种一代只出一次的指挥官，那种起初只凭三十六名骑手便重新征服三十六国的人。你的情报告诉你，班超如今老迈病衰，汉朝廷陷于自身的内部争斗，他们对塔里木的掌控甚至在向你索贡的同时也在削弱。但那情报也可能有误。\n\n你的军事会议意见分歧。你在大夏的指挥官萨特兰茹卡主张，纳贡是无法容忍的羞辱——若贵霜大皇帝向汉朝纳贡的消息传开，帕提亚将嗅到软弱并试探西部边境，偏远各省的总督们将开始盘算他们对一个弱化了的皇帝的忠诚是否值得维持。他希望再次东送一支军队，在塔里木盆地向汉朝发起挑战，重申贵霜对丝绸之路北线的主导权。\n\n然而你的财政大臣持不同看法。流经疏勒的丝绸之路贸易所产生的财富，超过了任何军事远征所能证明值得的程度。与汉朝开战将扰乱商队、封锁山隘，并有可能使北方贸易路线完全绕过贵霜领土。富楼沙城的商人们已因使者的到来而人心惶惶。务实地缴纳贡品——像所有此类支付那样，装扮成友谊馈赠——将换取和平，保证贸易持续，并给你时间重建中亚军力。抉择在你，大王。"
+  },
+  "situationReport": [
+    {
+      "en": "A Han Chinese envoy has arrived demanding formal acknowledgment of Han suzerainty in Central Asia and annual tribute payments following the defeat of Kushan forces by Ban Chao",
+      "ja": "班超によるクシャーナ軍の敗北を受け、前漢の使者が中央アジアにおける前漢の宗主権の公式承認と年間朝貢の支払いを要求してやってきた",
+      "zh-CN": "一名汉朝使者到来，在贵霜军被班超击败后，要求正式承认汉朝在中亚的宗主权并缴纳年贡"
+    },
+    {
+      "en": "Kushan military commanders argue that paying tribute will signal weakness and invite opportunistic aggression from Parthia in the west",
+      "ja": "クシャーナ朝の軍司令官たちは、朝貢の支払いが弱さを示し、西のパルティアからの機会主義的な侵略を招くだろうと主張している",
+      "zh-CN": "贵霜军事将领们认为，纳贡将示弱于外，招致西方帕提亚的机会主义侵略"
+    },
+    {
+      "en": "Silk Road trade revenues depend on peaceful relations with Han China; a military confrontation could disrupt the northern Silk Road branch entirely",
+      "ja": "シルクロードの交易収益は前漢との平和的な関係に依存しており、軍事的な対立はシルクロード北部支線を完全に混乱させる可能性がある",
+      "zh-CN": "丝绸之路贸易收益依赖于与汉朝的和平关系；军事对抗可能彻底中断丝绸之路北线"
+    },
+    {
+      "en": "Intelligence reports suggest Ban Chao is aging and the Han court is occupied with domestic troubles — an opportunity window may be opening in Central Asia",
+      "ja": "諜報報告は班超が老齢化しており前漢の朝廷が国内問題に追われていることを示唆しており、中央アジアでの機会の窓が開きつつある可能性がある",
+      "zh-CN": "情报报告显示班超年老体衰，汉朝廷忙于应对内政问题——中亚可能正在出现一个机会窗口"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Respond to the Han Chinese demand in a way that protects Kushan prestige and long-term strategic interests",
+      "ja": "クシャーナ朝の威信と長期的な戦略的利益を守る方法で前漢の要求に応える",
+      "zh-CN": "以维护贵霜声望与长远战略利益的方式回应汉朝的索求"
+    },
+    {
+      "en": "Maintain the economic prosperity of the Silk Road without triggering a costly military conflict with Han China",
+      "ja": "前漢との高コストの軍事衝突を引き起こすことなくシルクロードの経済的繁栄を維持する",
+      "zh-CN": "在不引发与汉朝代价高昂的军事冲突的前提下，维持丝绸之路的经济繁荣"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Formal submission to Han China could undermine the emperor's prestige and encourage other vassals and rivals to test Kushan strength",
+      "ja": "前漢への公式な服従は皇帝の威信を損ない、他の臣下や競争相手にクシャーナ朝の力を試すよう促す可能性がある",
+      "zh-CN": "正式向汉朝臣服可能损害皇帝威望，并鼓励其他藩属与对手试探贵霜的实力"
+    },
+    {
+      "en": "A new military campaign in Central Asia would require stripping troops from other frontiers and risking the same defeat that already occurred",
+      "ja": "中央アジアでの新たな軍事遠征は、他の辺境地帯から軍を引き抜き、すでに起きた同じ敗北のリスクを冒すことを必要とする",
+      "zh-CN": "在中亚发动新的军事远征，需要从其他边境抽调军队，并冒着重蹈已有败绩的风险"
+    }
+  ],
+  "choices": [
+    {
+      "id": "kushan-empire-127-scene-002-choice-a",
+      "text": {
+        "en": "Pay the tribute — frame it diplomatically as a gift of friendship and exchange of ambassadors, quietly acknowledging Han authority in the Tarim while preserving the Silk Road peace",
+        "ja": "朝貢を支払う——外交的に友情の贈り物と大使の交換として位置づけ、シルクロードの平和を保ちながらタリムにおける漢の権威を静かに認める",
+        "zh-CN": "缴纳贡品——外交上将其定性为友谊馈赠与使节互换，在保持丝绸之路和平的同时悄然承认汉朝在塔里木的权威"
+      },
+      "historicalContext": "This reflects the historical outcome. After the defeat by Ban Chao, Kushan emissaries eventually sought a diplomatic settlement with the Han court, with tribute framed as diplomatic exchange to preserve face. Trade continued to flourish.",
+      "outcomePrompt": {
+        "en": "The Han envoy departs with jade horses, bolts of Indian cotton, and a crate of precious gems — officially recorded in both courts as a 'gift of friendship between equal rulers,' though everyone understands the reality. You watch him go with quiet pragmatism. You have bought something more valuable than pride: peace on the eastern frontier and the continued flow of trade.\n\nWithin the year, the caravans from Kashgar are running again without interruption, and the taxed revenues fill your treasury in Purushapura with enough gold to fund three more monasteries and a new wing of the palace. Satranjuka writes from Bactria with barely concealed bitterness, but when you send him additional cavalry regiments and promotion in rank, his objections quiet. The Parthian ambassador, who had indeed been watching for signs of weakness, presents himself at court — but finds an emperor who is calm, well-funded, and surrounded by loyal officers. He quickly remembers his purpose is commercial, not military.",
+        "ja": "漢の使者は玉で作られた馬、インド綿布の反物、貴重な宝石の箱を携えて去っていきます——両方の宮廷で公式には「対等な支配者間の友情の贈り物」として記録されていますが、誰もが実態を理解しています。あなたは静かな実用主義でそれを見送ります。あなたは誇りよりも価値あるものを買いました：東部辺境の平和と交易の継続的な流れです。\n\n一年以内に、カシュガルからの隊商が再び中断なく動き始め、課税された収益がプルシャプラの宝庫を満たし、さらに三つの寺院と新しい宮殿の棟を建てるのに十分な黄金が集まります。サトランジュカはバクトリアからほとんど隠せない苦さを込めた手紙を書いてきますが、あなたが追加の騎兵連隊と昇進を送ると、彼の異議は静まります。実際に弱さの兆候を窺っていたパルティアの大使が宮廷に現れますが——冷静で、十分な資金を持ち、忠実な部下に囲まれた皇帝を見つけます。彼はすぐに自分の目的が軍事的ではなく商業的であることを思い出します。",
+        "zh-CN": "汉朝使者带着玉马、印度棉布匹与一箱宝石离去——在两国宫廷正式记录为'平等君主间的友谊馈赠'，尽管人人都明白实情。你以平静的务实态度目送他离去。你买到了比骄傲更有价值的东西：东部边境的和平与贸易的持续流通。\n\n不到一年，来自疏勒的商队再度畅行无阻，课税收入充满富楼沙城的国库，足以资助再建三座寺院和一座新宫殿侧翼。萨特兰茹卡从大夏写来几乎掩不住苦涩的信函，但当你派遣额外骑兵团并晋升他的官衔后，他的异议便趋于平息。帕提亚大使确曾在观望弱点迹象，他来到宫廷——却发现一位沉着、财力充裕、忠臣环绕的皇帝。他迅速想起自己的使命是商业性的，而非军事性的。"
+      },
+      "nextSceneId": "kushan-empire-127-scene-003",
+      "stateChanges": [
+        { "variable": "tradeProsperity", "operation": "add", "value": 20 },
+        { "variable": "silkRoadInfluence", "operation": "add", "value": 15 },
+        { "variable": "militaryControl", "operation": "add", "value": -10 },
+        { "variable": "kushanaStrength", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "kushan-empire-127-scene-002-choice-b",
+      "text": {
+        "en": "Refuse tribute and send the envoy home — begin reinforcing Kushan positions in the Tarim Basin and challenge Han dominance of the northern Silk Road",
+        "ja": "朝貢を拒否し、使者を帰国させる——タリム盆地のクシャーナ朝拠点の強化を開始し、シルクロード北部における漢の覇権に挑む",
+        "zh-CN": "拒绝纳贡，遣返使者——开始加固贵霜在塔里木盆地的据点，挑战汉朝对丝绸之路北线的主导"
+      },
+      "historicalContext": "This is a counterfactual. Historically, Kushan forces attempted to challenge Han authority in Central Asia and were defeated. A second military challenge to Han China would have been extremely risky given the strength of Ban Chao's forces and Han logistical capacity.",
+      "outcomePrompt": {
+        "en": "The envoy departs without tribute, his face carefully composed but his eyes carrying the message home: the Kushans refuse to submit. Your generals cheer the decision. Satranjuka immediately begins marshaling the cavalry of Bactria for an eastern expedition, and your court buzzes with martial energy. You have asserted the dignity of the Kushan throne.\n\nThe consequences arrive more quickly than you anticipated. The Han garrisons in Kashgar double their strength within months, and several of the oasis city rulers who had been paying trade tolls to your collectors now redirect them to Han agents. The northern Silk Road revenues drop sharply. More worrying, a Parthian delegation arrives at court with unusually bold demands — they have, as Satranjuka feared, taken note of the diplomatic friction and decided this is the moment to press their own claims on the western border. You are managing two frontiers simultaneously with the same treasury. The merchants of Purushapura are no longer nervous; they are frightened.",
+        "ja": "使者は朝貢なしで帰国します。その顔は慎重に平静を装っていますが、目がメッセージを持ち帰っています：クシャーナ朝は服従を拒否する。あなたの将軍たちはその決断を称えます。サトランジュカはすぐにバクトリアの騎馬軍を東征のために集め始め、あなたの宮廷は武断的なエネルギーで沸き立ちます。あなたはクシャーナ朝の玉座の尊厳を主張したのです。\n\n結果は予想よりも早く訪れます。カシュガルの漢の駐屯部隊は数ヶ月以内に兵力を倍増させ、あなたの徴収人に交易通行料を支払っていたいくつかのオアシス都市の支配者たちが、今や漢の代理人にそれを向け直しています。シルクロード北部の収益が急落します。さらに心配なことに、パルティアの代表団が珍しく大胆な要求を携えて宮廷に到着します——彼らはサトランジュカが恐れていた通り、外交的摩擦に注目し、今こそ西部国境に対する自分たちの主張を押し進める時だと判断したのです。あなたは同じ国庫で二つの辺境を同時に管理しています。プルシャプラの商人たちはもはや神経質なのではありません；彼らは恐怖に陥っています。",
+        "zh-CN": "使者未得贡品便离去，面色平静，但眼神将讯息带回：贵霜拒绝臣服。你的将领们欢呼这一决定。萨特兰茹卡立即开始在大夏集结骑兵以备东征，你的宫廷弥漫着好战的激情。你维护了贵霜皇位的尊严。\n\n后果来得比你预料的更快。疏勒的汉朝驻军在数月内兵力翻倍，此前向你的征收官缴纳贸易通行费的几处绿洲城邦统治者，如今将这些款项转向了汉朝的代理人。丝绸之路北线收益急剧下滑。更令人忧虑的是，帕提亚代表团带着异常强硬的要求抵达宫廷——他们正如萨特兰茹卡所担心的，注意到了外交摩擦，决定此刻正是在西部边境推进己方主张的良机。你用同一个国库同时应对两条边境。富楼沙城的商人们已不再只是紧张；他们陷入了恐慌。"
+      },
+      "nextSceneId": "kushan-empire-127-scene-003",
+      "stateChanges": [
+        { "variable": "tradeProsperity", "operation": "add", "value": -20 },
+        { "variable": "silkRoadInfluence", "operation": "add", "value": -15 },
+        { "variable": "militaryControl", "operation": "add", "value": 10 },
+        { "variable": "kushanaStrength", "operation": "add", "value": -10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

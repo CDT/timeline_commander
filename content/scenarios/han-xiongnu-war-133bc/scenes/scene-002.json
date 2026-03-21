@@ -1,0 +1,113 @@
+{
+  "id": "han-xiongnu-war-133bc-scene-002",
+  "scenarioId": "han-xiongnu-war-133bc",
+  "title": {
+    "en": "The Chanyu Hesitates",
+    "ja": "単于の躊躇",
+    "zh-CN": "单于踟蹰"
+  },
+  "date": {
+    "en": "Midsummer, 133 BC — Ridge above the Mayi road, Han frontier",
+    "ja": "紀元前133年、真夏——馬邑街道を見下ろす稜線、漢の辺境",
+    "zh-CN": "公元前133年仲夏——俯瞰马邑道路的山脊，汉朝边境"
+  },
+  "location": {
+    "en": "Observation ridge east of Mayi, Wang Hui's command position",
+    "ja": "馬邑東方の観測稜線、王恢の指揮所",
+    "zh-CN": "马邑以东的观察山脊，王恢指挥所"
+  },
+  "narrativePrompt": {
+    "en": "The dust cloud that marks the Xiongnu column has stopped moving. You have been watching it for the past hour from your ridge, and the realization settles in your chest like cold iron: the Chanyu has halted.\n\nHis outriders and the main cavalry mass are still north of the optimal ambush point — still outside the killing ground where your three hundred thousand men wait. The trap has not yet closed. And now, inexplicably, the column has stopped.\n\nYour most experienced frontier scouts give you the likely explanation: the Xiongnu have spotted something wrong. Perhaps it was the absent herders. Perhaps a patrol saw a Han soldier shift his position. Perhaps one of the local residents of Mayi managed to send a signal to a Xiongnu contact despite your absolute prohibition on all communication. Whatever the cause, the Chanyu has clearly told his commanders to halt and investigate.\n\nYou have perhaps two hours — maybe less — before the Chanyu makes a decision. Either he will conclude the alarm was false and press forward into the killing ground, or he will turn and ride north before your armies can close the trap. The initiative is rapidly passing out of your hands.\n\nYour subordinate commanders are sending frantic messages. The commander of the northern blocking force wants to know if he should begin advancing to try to catch the Xiongnu while they're stationary. Your cavalry reserve commander believes that if they break into the open now and attack the halted column, they can cause enough chaos to prevent an organized retreat. The temptation to act, to do something — anything — is enormous.\n\nBut you are the senior commander. You can see the larger picture that your subordinates cannot. If you spring the trap now, with the Chanyu still outside the main killing ground, the geometry of the ambush is wrong. Your encircling forces will not have closed the cordon completely. Large parts of the Xiongnu force — including, possibly, the Chanyu himself — may escape to the north and west before your blocking armies can intercept them.\n\nOn the other hand, if you wait, you risk the Chanyu making the correct decision and withdrawing entirely. If he turns north now, with his force still intact and alert, the terrain favors the Xiongnu cavalry's speed over your infantry-heavy Han army. You cannot catch a hundred thousand horsemen in open steppe if they decide to run.\n\nEvery minute you hesitate, the Chanyu's scouts are working. Every minute you wait, your own troops' nerves are fraying. A han soldier in the western pass has reportedly vomited from stress and the noise may have carried. The plan you have spent months constructing is balanced on the edge of a blade.\n\nA messenger arrives from General Han Anguo: he has identified what he believes is the source of the Xiongnu halt. One of the border patrol stations was apparently left manned — a Han garrison lieutenant was captured by Xiongnu advance scouts approximately one li north of your current position. The Chanyu may already be interrogating him. You have at most an hour before whatever the captive knows is extracted and acted upon.",
+    "ja": "匈奴の縦隊を示す砂煙が動きを止めた。過去一時間、あなたはこれを稜線から見守ってきた。そして冷たい鉄のような感覚が胸に沈みこんでくる——単于は停止した。\n\n彼の外騎と騎馬主力はまだ最適な伏兵発動地点の北側に——あなたの三十万の兵が待つ包囲圏の外側に——いる。罠はまだ閉じていない。それなのに今、不可解なことに縦隊が止まった。\n\nあなたの最も経験豊富な辺境の斥候が考えられる説明を告げてくる：匈奴が何かおかしいと感づいた。牧人がいないことかもしれない。あるいは一隊の巡察が漢の兵士が姿勢を変えるのを見たかもしれない。あるいは馬邑の地元住民の一人が、あなたの絶対的な通信禁止令にもかかわらず匈奴の連絡先に何らかの信号を送り込むことができたのかもしれない。原因が何であれ、単于が明らかに司令官たちに停止して調査するよう告げた。\n\n単于が決断を下すまで、あなたにはおそらく二時間——もしかしたらそれ以下——しかない。彼は警戒が誤りだと結論し、包囲圏へと前進するか、あるいはあなたの軍が罠を閉じる前に方向を転換して北へ向かうかだ。主導権が急速に手を離れつつある。\n\n配下の司令官たちが狂ったように伝言を送ってくる。北方遮断部隊の指揮官は、匈奴が停止している間に捕捉しようとして前進を始めるべきかどうか知りたがっている。騎兵予備隊の指揮官は、今開けた場所に飛び出して停止した縦隊を攻撃すれば、組織的な撤退を防ぐのに十分な混乱を引き起こせると考えている。何かをしよう、何かを——どんなことでも——という衝動は絶大だ。\n\nしかしあなたは最上級の司令官だ。部下には見えない大局が見える。今、単于がまだ主要な包囲圏の外にいる状態で罠を発動すれば、伏兵の幾何学が狂う。包囲する部隊は警戒線を完全に閉じていないだろう。匈奴の大部分——単于自身も含め——が遮断軍に阻止される前に北と西に逃げうる。\n\n一方、待てば、単于が正しい判断を下して完全に撤退するリスクがある。もし彼が今、軍を温存した状態で警戒しながら北へ向かえば、地形は重歩兵主体の漢軍よりも匈奴騎兵の速さを有利にする。広大な草原で十万の騎馬が逃げると決めれば追いつけない。\n\nあなたが躊躇するたびに単于の斥候は働いている。あなたが待つたびに、自軍の兵士の神経は磨り減っている。西の関所の漢の兵士が一人、緊張で吐いたとの報告があり、その音が響いた可能性がある。何ヶ月もかけて組み上げてきた計画が刃の端に乗って揺れている。\n\n韓安国将軍から伝令が届いた：彼は匈奴が停止した理由だと思われるものを特定した。辺境哨所の一つが人員を残したまま放置されていたようで——現在地の北約一里で、漢の駐屯地の一尉史が匈奴の前衛斥候に捕らえられた。単于はすでに彼を尋問しているかもしれない。捕虜が知っていることが引き出されて対処されるまで、せいぜい一時間しかない。",
+    "zh-CN": "标志着匈奴纵队位置的尘云停止了移动。你已在山脊上注视它整整一个时辰，一种感悟如同冷铁般沉入胸口：单于止步了。\n\n他的外围骑手和骑兵主力仍停在最佳伏击点以北——仍在你三十万大军等候的死地之外。陷阱尚未合拢。然而此刻，纵队莫名其妙地停了下来。\n\n你最有经验的边境斥候给出了最可能的解释：匈奴察觉到了异常。也许是因为看不见牧人，也许是一队巡骑目睹了某个汉军士兵变换姿势，也许是马邑当地某位居民趁着你的绝对封锁令之机，悄悄向匈奴线人发出了信号。不管原因何在，单于显然已命令麾下将领停止前进，展开侦察。\n\n单于做出决断，也许只剩下两个时辰——也许更短。他要么断定警报是虚惊一场，继续向伏击圈前进；要么在你的大军合围之前拨马北返。主动权正在飞速脱离你的掌控。\n\n各路部将纷纷传来焦急的消息。北路截击部队的指挥官想知道是否应该趁匈奴停驻期间出击。骑兵预备队的指挥官认为，现在冲出阵地攻击停驻中的纵队，足以造成足够的混乱来阻止有组织的撤退。采取行动、做任何事情的冲动极为强烈。\n\n但你是最高指挥官，你能看到部将们看不到的全局。若现在就发动伏击，单于的主力尚在包围圈之外，伏击的合围态势就不对了。包围各路的封锁线尚未完全合拢，匈奴的大部分兵力——包括单于本人——可能在截击部队到位之前就向北、向西逃脱。\n\n另一方面，若继续等待，单于做出正确判断、全军撤退的风险就会上升。一旦他率领兵力完好、警觉十足的部队北返，地形将更有利于匈奴骑兵的速度，而非你这支以步兵为主的汉军。十万铁骑若决心奔逃，你在开阔的草原上追无可追。\n\n你每犹豫一刻，单于的斥候就多工作一刻。你每等待片刻，自己部队的神经就多消磨一分。据报西侧关隘一名汉军士兵因紧张而呕吐，声音可能已经传出去了。你花费数月心血搭建的计划，此刻正架在刀刃之上。\n\n韩安国将军传来消息：他认为已找到匈奴止步的原因。一处边境哨所似乎留有驻守人员——就在你当前阵位以北约一里处，一名汉军守备尉史被匈奴前哨斥候俘获。单于此刻可能已在审讯他。那名俘虏所知道的一切被审出并付诸行动，留给你的时间最多只有一个时辰。"
+  },
+  "situationReport": [
+    {
+      "en": "The Xiongnu column has halted north of the main ambush zone; the Chanyu is investigating suspicious signs",
+      "ja": "匈奴の縦隊が主要伏兵区域の北で停止しており、単于が不審な兆候を調査している",
+      "zh-CN": "匈奴纵队已在主要伏击区域北侧停止前进，单于正在调查可疑迹象"
+    },
+    {
+      "en": "A captured Han garrison officer may be revealing the ambush plan to the Chanyu under interrogation",
+      "ja": "捕らえられた漢の駐屯兵士が尋問で単于に伏兵計画を漏らしているかもしれない",
+      "zh-CN": "一名被俘的汉军驻守尉史可能正在审讯中向单于透露伏击计划"
+    },
+    {
+      "en": "300,000 Han troops remain in position but morale and concealment discipline are both deteriorating under extended waiting",
+      "ja": "三十万の漢軍は所定の位置にいるが、長期の待機で士気と隠蔽規律の両方が低下しつつある",
+      "zh-CN": "三十万汉军仍坚守阵位，但漫长等待使士气和隐蔽纪律均在下滑"
+    },
+    {
+      "en": "Wang Hui's eastern blocking force is fully ready but the Xiongnu are not yet in the optimal encirclement position",
+      "ja": "王恢の東方遮断部隊は完全に準備ができているが、匈奴はまだ最適な包囲位置にいない",
+      "zh-CN": "王恢东路截击部队已全员戒备，但匈奴尚未进入最佳合围位置"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide whether to spring the trap immediately before the Chanyu can escape, or wait for the optimal encirclement",
+      "ja": "単于が逃げる前に今すぐ罠を発動するか、最適な包囲のために待つかを決める",
+      "zh-CN": "决定是在单于逃脱前立即发动伏击，还是等待最佳合围时机"
+    },
+    {
+      "en": "Prevent the Xiongnu from learning the full scope of the ambush before the trap can close",
+      "ja": "罠が閉じる前に匈奴が伏兵の全容を知ることを防ぐ",
+      "zh-CN": "在陷阱合拢之前阻止匈奴得知伏击的完整情报"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Chanyu is not yet in the killing ground; springing the ambush now means many Xiongnu units will escape encirclement",
+      "ja": "単于はまだ包囲圏にいない。今伏兵を発動すれば多くの匈奴部隊が包囲から逃れることになる",
+      "zh-CN": "单于尚未进入包围圈；现在发动伏击意味着许多匈奴部队将逃脱合围"
+    },
+    {
+      "en": "Every minute of delay risks the captured Han officer fully disclosing the plan and triggering a full Xiongnu withdrawal",
+      "ja": "一分の遅れが捕らえられた漢の兵士が計画を完全に暴露し、匈奴の全面撤退を引き起こすリスクをはらんでいる",
+      "zh-CN": "每多拖延一刻，被俘的汉军尉史就可能全盘吐露计划，触发匈奴全军撤退"
+    }
+  ],
+  "choices": [
+    {
+      "id": "han-xiongnu-war-133bc-scene-002-choice-a",
+      "text": {
+        "en": "Spring the trap now — signal all five armies to attack immediately before the Chanyu can be fully warned and withdraw",
+        "ja": "今すぐ罠を発動する——単于に完全な警告が届いて撤退できる前に、全五軍に直ちに攻撃するよう合図する",
+        "zh-CN": "立即发动伏击——在单于得到完整警报撤退之前，向全部五路大军发出立即出击的信号"
+      },
+      "historicalContext": "Some Han commanders at the scene urged immediate action once the Chanyu halted, reasoning that a partial success catching even part of the Xiongnu force was better than no engagement at all.",
+      "outcomePrompt": {
+        "en": "You give the signal. Five armies erupt from the hills simultaneously. For a brief, glorious moment, the plan seems to work — Han infantry pours from every mountain pass, banners unfurled, filling the valley with the thunder of a hundred thousand boots.\n\nBut the Chanyu has already turned his horse. The moment your signal fires went up, he took it as confirmation of the betrayal he suspected and ordered an immediate retreat northward. His cavalry, unencumbered by heavy equipment, accelerates into a full gallop within seconds. The terrain north of the ambush zone is open enough for cavalry to outrun infantry.\n\nYour five armies give chase, but you are too far behind and the geometry is wrong. Han Anguo's western contingent, having had less time to emerge from concealment, closes the western exit too slowly. A large body of Xiongnu cavalry — perhaps thirty thousand — breaks through the western gap and rides hard for the steppe.\n\nThe Chanyu himself escapes with his personal guard heading due north, beyond the reach of any Han force. You have fought a battle, but you have not caught the Chanyu. Emperor Wu will be told that the Chanyu was warned, and that your early signal allowed him to escape. The question now is how you justify your decision.",
+        "ja": "あなたは合図を送った。五つの軍が同時に丘から飛び出した。束の間、輝かしい瞬間があった——漢の歩兵が全ての山の関所から溢れ出し、旗を翻しながら十万の足音の轟きで谷を満たした。\n\nしかし単于はすでに馬首を巡らせていた。あなたの狼煙が上がった瞬間、彼は自分が疑っていた裏切りの確証を得たと受け取り、即座に北への撤退を命じた。重装備を持たない彼の騎兵は、数秒のうちに全速力の疾走に移った。伏兵発動地点より北の地形は、歩兵よりも騎兵が速く走れるほど開けていた。\n\n五軍が追撃したが、後れを取りすぎており幾何学的な配置が狂っていた。韓安国の西方部隊は、隠れ場所から出るのに時間がかかったため、西の出口を閉鎖するのが遅れた。大規模な匈奴騎兵の一団——おそらく三万騎——が西の隙間を突破して草原目指して疾駆した。\n\n単于自身は親衛隊を率いてほぼ真北に逃走し、いかなる漢軍の届かぬところへ去った。あなたは戦闘を行ったが、単于を捕らえられなかった。武帝には、単于に警告が届き、あなたの早まった合図が彼の逃亡を可能にしたと報告されるだろう。今問題となるのは、あなたがどのように自分の決断を正当化するかだ。",
+        "zh-CN": "你发出了信号。五路大军同时从山中冲出。有那么短暂而辉煌的一刻，计划似乎奏效了——汉军步兵从每一处山口蜂拥而出，旌旗展开，十万人的脚步声轰鸣着充满了山谷。\n\n然而单于已经调转了马头。你的烽火刚刚升起，他便将此视为他所怀疑的背叛得到了证实，当即命令全军向北撤退。他的骑兵不受重装备拖累，片刻间便进入全速奔驰。伏击区域以北的地形开阔，足以让骑兵甩开步兵。\n\n五路大军追击，却已落后太远，合围态势又有偏差。韩安国的西路部队从隐蔽处出动较慢，封锁西侧出口不够及时。一大股匈奴骑兵——大约三万骑——突破西侧缺口，向草原方向策马疾驰。\n\n单于本人率亲卫径直向北遁逃，到达任何汉军都够不着的地方。你打了一仗，却未能擒获单于。汉武帝得到的报告将是：单于提前得到了警报，而你过早发出的信号让他得以逃脱。眼下的问题，是你如何为自己的决断作出辩护。"
+      },
+      "nextSceneId": "han-xiongnu-war-133bc-scene-003",
+      "stateChanges": [
+        { "variable": "ambushReadiness", "operation": "add", "value": -20 },
+        { "variable": "imperialSupport", "operation": "add", "value": -15 },
+        { "variable": "xiongnutension", "operation": "add", "value": 20 }
+      ]
+    },
+    {
+      "id": "han-xiongnu-war-133bc-scene-002-choice-b",
+      "text": {
+        "en": "Hold position — wait for the Chanyu to either advance into the killing ground or reveal his intention to retreat; do not spring the trap prematurely",
+        "ja": "位置を保持する——単于が包囲圏に前進するか、撤退の意図を明らかにするかのどちらかになるまで待つ。罠を早まって発動しない",
+        "zh-CN": "坚守阵位——等待单于或是进入包围圈，或是暴露撤退意图；不提前发动伏击"
+      },
+      "historicalContext": "Wang Hui's historical position was east of Mayi with a blocking force. His decision not to engage the retreating Xiongnu — even as the main ambush collapsed — was the action for which he was ultimately executed.",
+      "outcomePrompt": {
+        "en": "You hold. The signal fires stay unlit. For another agonizing half hour, the Xiongnu column remains stationary north of the killing ground. Your scouts report that the Chanyu's command tent has been erected — he is deliberating, not fleeing. There is still a chance he will decide the alarm was false and press south.\n\nThen the Xiongnu move. But they move north, not south. The column turns, and within minutes the entire force is in full retreat at cavalry speed. Your window to spring the ambush has closed.\n\nYou watch from your ridge as the dust cloud recedes northward. Three hundred thousand Han soldiers emerge from their concealment, bewildered, their months of waiting ended by an enemy who simply turned around and left. The killing ground is empty. The plan is over.\n\nYour force — positioned east of the road — could theoretically pursue. But pursuing a hundred thousand cavalry at full gallop with a mixed infantry-cavalry force is not a battle; it is a chase you cannot win. You make the decision not to engage, to preserve your force intact rather than throw it into a futile pursuit where your men would be cut down piecemeal by Xiongnu rearguard cavalry on terrain that favors the horse.\n\nThe messengers are already riding south to report to Emperor Wu. You know what the report will say, and you know how the Emperor will receive it. The question is whether there is any argument you can make that will save you from his fury.",
+        "ja": "あなたは待った。狼煙は上がらなかった。さらに苦しい半時間、匈奴の縦隊は包囲圏の北で静止したままだった。あなたの斥候が報告した——単于の本営天幕が張られた。彼は逃げているのではなく、思案している。警報が誤りだと判断して南へ前進する可能性はまだある。\n\nそして匈奴が動いた。しかし、南ではなく北へと。縦隊は向きを変え、数分のうちに全軍が騎馬の速さで全速退却に入った。伏兵を発動する窓は閉じた。\n\nあなたは稜線から砂煙が北へと遠ざかっていくのを眺めた。三十万の漢の兵士が隠れ場所から困惑して現れた——何ヶ月もの待機が、ただ向きを変えて去っていった敵によって終わらされた。包囲圏は空っぽだ。計画は終わった。\n\nあなたの部隊——街道の東に配置された——は理論上は追撃できる。しかし、歩兵と騎兵の混成部隊で全速疾走する十万の騎馬を追いかけることは戦闘ではない——それは勝てない追跡だ。馬にとって有利な地形で匈奴の後衛騎兵に各個撃破される結果になるだけの無駄な追撃に部隊を投入するより、部隊を温存することを選んで交戦しない決断を下した。\n\n伝令たちはすでに武帝に報告しに南へと騎馬を走らせていた。報告書が何を言うか、皇帝がどのように受け取るかはわかっていた。問題は、彼の怒りからあなたを救うことのできる何らかの論拠が存在するかどうかだ。",
+        "zh-CN": "你坚守阵位。烽火没有点燃。又是煎熬的半个时辰，匈奴纵队仍停驻在包围圈以北动弹不动。你的斥候报告：单于的大帐已经搭起——他在思量，并非在逃跑。也许他还会判定虚惊一场，继续南下。\n\n然后匈奴动了。但他们向北而非向南运动。纵队调头，片刻之间全军以骑兵的速度全速撤退。发动伏击的窗口就此关闭。\n\n你从山脊上看着尘云向北消散。三十万汉军士兵茫然地从藏身处钻出，数月的等待被一个只是掉头离去的敌人宣告终结。包围圈空空荡荡，计划就此告终。\n\n理论上，你的东路部队可以追击。但以步骑混合的部队去追逐全速奔逃的十万铁骑，那不是战斗，而是一场你赢不了的追逐——你的士兵将在有利于骑兵的地形上被匈奴后卫骑兵逐段歼灭。你决定不出击，保全部队建制，而不是将其投入这场无谓的追击。\n\n传令兵已经策马向南飞奔，去向汉武帝禀报。你知道报告的内容，也知道皇帝将如何接受它。问题在于，是否还有任何理由能使你免于他的震怒。"
+      },
+      "nextSceneId": "han-xiongnu-war-133bc-scene-003",
+      "stateChanges": [
+        { "variable": "armyConcealment", "operation": "add", "value": 5 },
+        { "variable": "imperialSupport", "operation": "add", "value": -25 },
+        { "variable": "ambushReadiness", "operation": "add", "value": -30 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

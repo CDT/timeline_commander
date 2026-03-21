@@ -1,0 +1,113 @@
+{
+  "id": "genpei-war-1185-scene-002",
+  "scenarioId": "genpei-war-1185",
+  "title": {
+    "en": "The Turning Tide",
+    "ja": "潮の変わり目",
+    "zh-CN": "潮流逆转"
+  },
+  "date": {
+    "en": "April 25, 1185 — Mid-Morning",
+    "ja": "1185年4月25日 — 午前中頃",
+    "zh-CN": "1185年4月25日 — 上午"
+  },
+  "location": {
+    "en": "Dan-no-ura, Kanmon Strait",
+    "ja": "壇ノ浦、関門海峡",
+    "zh-CN": "坛之浦，关门海峡"
+  },
+  "narrativePrompt": {
+    "en": "The change comes not with a crash but with a subtle shift in the quality of the water's surface — a momentary hesitation in the current, a slight confusion among the Taira helmsmen as the strait's deep tidal pulse reverses itself. You have been watching for this moment since before dawn, studying the eddies at the base of every exposed rock, feeling the drag change beneath your flagship's hull. It has come. The tide has turned.\n\nAcross the narrow water, the Taira fleet — some five hundred vessels, ranging from great warships to small provisioning craft — holds its position with practiced confidence. They have fought well this morning. Their smaller, agile vessels used the eastward current to dart among your fleet, disrupting formations and preventing your heavier ships from bringing their full weight to bear. But their helmsmen, reading the same water you read, are now exchanging urgent signals. The advantage that was theirs for two hours is dissolving beneath their keels.\n\nYour senior captains have gathered at the stern rail. They see what you see. The question burning in every face is the same: how do you press this advantage? The straightforward answer — engage their warships directly now that the current no longer shields them — has a certain brutal appeal. Your soldiers are eager, their frustration from the morning's difficult maneuvering sharpened into something fierce. But you have already noted something the Taira fleet cannot function without: its rowers and helmsmen, the men who are not warriors, who carry no swords, who exist in the warrior codes of conduct as something beyond legitimate targets.\n\nIf you order your archers to strike them down — to silence the oars and freeze the rudders — the Taira fleet will become a collection of drifting, ungovernable hulls in a matter of minutes. It is not the honorable application of force the warrior codes envision. It may cost you the regard of your own officers. But the child Emperor Antoku is somewhere on that water, and with him the Three Sacred Treasures, and beyond all of that, your brother Yoritomo waits in Kamakura for news that the war is over. The tide has turned. You must decide what to do with it.",
+    "ja": "変化は衝撃と共にではなく、水面の性質にさりげない変化として訪れる——海峡の深い潮の鼓動が逆転するにつれ、一瞬の流れの躊躇い、平氏の舵取りたちの間に広がる小さな戸惑い。あなたはこの瞬間を夜明け前から待ち望んでいた。露出した岩の根元に生じる渦を観察し、旗艦の船底の下で変化する抵抗を感じ取りながら。その時が来た。潮が変わった。\n\n狭い水域の向こう、平氏の艦隊——大型の戦船から小さな補給船まで、およそ五百艘——は熟練した自信をもって陣を保っている。今朝、彼らはよく戦った。東向きの潮を利用した小回りの利く小型船があなたの艦隊の間を縫って攻撃し、陣形を乱し、大型船の力を十分に発揮させなかった。しかし、あなたと同じ海を読んでいる彼らの舵取りたちが今、急を告げる合図を交わしている。二時間彼らのものであった優位が、船底の下で溶けていく。\n\n上級の船頭たちが艦尾の手すりに集まった。彼らもあなたが見ているものを見ている。誰の顔にも燃えているのは同じ問いだ：この優位をどう活かすか？直接的な答え——潮流がもはや守ってくれない今、正面から彼らの戦船に当たる——には、荒々しい魅力がある。あなたの兵士たちは意気に燃えており、今朝の困難な機動で溜まった不満が研ぎ澄まされた何かへと変わっている。しかし、あなたはすでに平氏の艦隊が機能するために欠かせないものに気づいている：水手と舵取り——武士ではなく、刀を持たず、武士の倫理の中では正当な標的を超えた存在として位置付けられている者たちだ。\n\nもし弓兵に彼らを射るよう命じれば——オールを止め、舵を凍らせれば——平氏の艦隊は数分のうちに、漂流する制御不能な船の集まりになる。それは武士の掟が想定する名誉ある力の行使ではない。自軍の将校たちの信頼を失うかもしれない。しかし、どこかあの海の上に幼帝・安徳天皇がおり、彼とともに三種の神器があり、その一切を越えて、兄・頼朝が鎌倉で戦が終わったという知らせを待っている。潮が変わった。あなたはこの機をどう使うかを決めなければならない。",
+    "zh-CN": "变化来临时没有轰鸣，只是水面性质的一次微妙转变——海峡深处潮汐脉动逆转之际，水流瞬息间的迟疑，平氏舵手中间漫开的一丝慌乱。你从天亮之前就在等候这一刻，观察每块露出水面的岩石根部形成的漩涡，感受旗舰船底之下阻力的变化。时机已到，潮流已转。\n\n对岸，平氏舰队——从大型战舰到小型补给船，约五百艘——以熟练的自信固守阵位。今晨他们战得出色。借助东流的潮水，他们那些小巧灵活的船只穿梭于你的舰队之间，打乱阵形，令你的大型战舰无法充分发挥力量。然而，读着同一片海水的他们的舵手，此刻正在彼此交换着紧急信号。属于他们的两小时优势，正在船底之下悄然消融。\n\n你麾下的高级船长聚集到船尾栏杆旁。他们看见了你所看见的一切。每张脸上燃烧着同一个问题：如何趁势而为？直接的答案——既然潮流不再庇护他们，就正面冲击他们的战舰——有着某种粗粝的吸引力。你的士卒斗志昂扬，今晨艰难机动积累的压抑已磨砺成一股锐利的意志。然而你已注意到一个平氏舰队赖以运转的关键：划桨手与舵手——他们不是武士，不持刀剑，在武士的行为准则中，他们处于正当攻击目标之外。\n\n若你命令弓手射杀他们——让桨声沉寂，让舵杆僵死——平氏舰队在几分钟内便将化为一群随波漂流、无法操控的空壳。这不是武士准则所设想的光明正大的力量运用方式，或许会令你自己的将官心生异议。然而，年幼的安德天皇就在那片海面的某处，与他同在的还有三种神器，超越这一切之上，兄长赖朝在镰仓等候战争终结的消息。潮流已转。你必须决定如何利用它。"
+  },
+  "situationReport": [
+    {
+      "en": "Tidal reversal confirmed: the Kanmon Strait current has shifted to flow westward, eliminating the Taira fleet's primary tactical advantage for this engagement.",
+      "ja": "潮流の逆転確認：関門海峡の流れが西向きに変わり、今次の交戦における平氏艦隊の主要な戦術的優位が消えた。",
+      "zh-CN": "潮流逆转确认：关门海峡水流已转为向西，平氏舰队在本次交战中的主要战术优势已告消失。"
+    },
+    {
+      "en": "Taira fleet status: approximately 500 vessels of varying sizes, now showing signs of disorganization as helmsmen adjust to the reversed current. Morale appears to be wavering.",
+      "ja": "平氏艦隊の状況：様々な大きさの約500艘。舵取りたちが逆流に対応する中、組織の乱れの兆候が見られる。士気は揺らいでいるようだ。",
+      "zh-CN": "平氏舰队状态：各型船只约五百艘，舵手忙于应对逆转的潮流，已出现混乱迹象。士气似有动摇。"
+    },
+    {
+      "en": "Emperor Antoku and the Three Sacred Treasures are confirmed aboard the Taira flagship. Capture must be weighed against the risk of the Taira destroying the treasures or taking the Emperor's life.",
+      "ja": "安徳天皇と三種の神器が平氏の旗艦に乗船していることが確認された。捕捉は、平氏が神器を破壊したり天皇の命を奪ったりするリスクと天秤にかけなければならない。",
+      "zh-CN": "已确认安德天皇与三种神器在平氏旗舰上。夺取须与平氏毁损神器或危及天皇性命的风险相权衡。"
+    },
+    {
+      "en": "Minamoto fleet: approximately 840 vessels. Morning skirmishing has cost some casualties but morale is rising with the tidal change. Archers report good positioning and visibility.",
+      "ja": "源氏艦隊：約840艘。午前の小競り合いでいくらかの損害が出たが、潮目の変化で士気は上がっている。弓兵は良好な態勢と視界を報告している。",
+      "zh-CN": "源氏舰队：约八百四十艘。上午的前哨战有所损耗，但随着潮流逆转，士气正在回升。弓手报告位置与视野俱佳。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Exploit the tidal reversal to seize naval supremacy and drive the Taira fleet into total defeat before they can reorganize",
+      "ja": "潮流の逆転を活かして制海権を握り、平氏が立て直す前に艦隊を完全な敗北に追い込む",
+      "zh-CN": "利用潮流逆转夺取制海权，在平氏重整之前将其舰队彻底击溃"
+    },
+    {
+      "en": "Secure or preserve the Three Sacred Treasures and prevent the death of Emperor Antoku if at all possible",
+      "ja": "三種の神器を確保・保全し、できる限り安徳天皇の死を防ぐ",
+      "zh-CN": "尽一切可能保护或取回三种神器，并防止安德天皇遇难"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Warrior codes of conduct prohibit targeting non-combatants such as rowers and helmsmen — violating this may damage your standing with your own officers",
+      "ja": "武士の慣習上、水手や舵取りといった非戦闘員を攻撃することは禁じられている——この掟を破れば自軍の将校たちの信頼を損なうかもしれない",
+      "zh-CN": "武士行为准则禁止攻击划桨手与舵手等非战斗人员——违反此准则可能损害你在本军将官中的威信"
+    },
+    {
+      "en": "A Taira collapse that is too swift and absolute may drive their nobles and the Emperor's retinue to mass suicide rather than surrender",
+      "ja": "平氏の崩壊があまりにも迅速かつ完全なものとなれば、その公達や天皇の側近が降伏ではなく集団自決を選ぶかもしれない",
+      "zh-CN": "平氏若溃败过于迅速彻底，其贵族及天皇随从可能选择集体殉死而非投降"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Order your archers to target Taira helmsmen and rowers — immobilize the fleet at the cost of warrior honor, then close in for the killing blow",
+        "ja": "弓兵に平氏の舵取りと水手を狙うよう命じる——武士の誉れを犠牲にして艦隊を動けなくし、そのまま止めを刺す",
+        "zh-CN": "命令弓手瞄准平氏舵手与划桨手——以牺牲武士荣誉为代价使敌舰动弹不得，随后一举击溃"
+      },
+      "historicalContext": "This is what historically happened. Yoshitsune ordered his archers to target the non-combatant sailors — a violation of warrior etiquette that shocked contemporary observers but proved devastatingly effective. The immobilized Taira fleet could not maneuver and was overwhelmed.",
+      "outcomePrompt": {
+        "en": "The order leaves your mouth and does not come back. Within moments your archers have shifted targets, and the Taira fleet begins to die in an unfamiliar way — not from the arrows that strike their warriors, but from the collapse of the men who move their ships. Helmsmen drop from their tillers. Rowers lose their oars. One by one, ship after ship begins to drift, losing direction, swinging broadside to the current that now runs against the Taira.\n\nThe silence from your own officers is palpable. This is not how wars are supposed to be fought. You have seen the look on their faces before — at Ichinotani, when you drove horses down a cliff no sane commander would attempt. They think you are brilliant and they think you are dangerous, and they are right on both counts. But the Taira ships are drifting, and your fleet is closing, and the battle is becoming a rout.\n\nTaira commander Tomomori is seen standing tall in his armor on the flagship's deck, looking at what has become of his fleet. He asks those around him how he appears. Then he dons a second suit of armor over the first, so that he will sink quickly, and walks into the sea. The Taira women and nobles follow. Somewhere in that last desperate movement, Lady Nii takes the child Emperor in her arms. History does not give you a way to stop what comes next.",
+        "ja": "命令が口から出て、戻ってこない。ほどなく弓兵たちが狙いを変え、平氏艦隊は見慣れぬ形で崩れ始める——武士に命中した矢によってではなく、船を動かす者たちの崩落によって。舵取りたちが舵棒から崩れ落ちる。水手たちがオールを失う。一艘また一艘と船が漂流し始め、方向を失い、今や平氏に逆らって流れる潮流に横腹を向ける。\n\n自軍の将校たちの沈黙が肌に伝わる。これは戦のあるべき戦い方ではない。以前にも、まともな将帥なら試みない崖を馬で駆け下りた一ノ谷で、彼らのその顔を見たことがある。彼らはあなたを天才と思っており、あなたを危険だとも思っている——どちらも正しい。しかし平氏の船は漂流し、あなたの艦隊は詰め寄り、戦いは潰走となっていく。\n\n平氏の大将・知盛が旗艦の甲板に鎧姿で凛として立っているのが見える。艦隊の成れの果てを見つめながら、周囲の者に自分の顔がどう見えるかを問う。そして早く沈むように鎧の上にもう一枚を纏い、海へと歩いていく。平氏の女性と公達が続く。その最後の絶望的な動きの中で、どこかで二位尼が幼帝を腕に抱く。歴史はあなたに、次に来るものを止める手段を与えない。",
+        "zh-CN": "命令脱口而出，便再无法收回。片刻之间，你的弓手已然转移目标，平氏舰队开始以一种陌生的方式瓦解——不是因为射中武士的箭矢，而是因为驱动船只之人的倒下。舵手从舵柄旁跌倒。划桨手失去了桨。一艘接一艘，船只开始漂流，失去方向，将舷侧转向如今逆着平氏而流的水流。\n\n自己将官们的沉默触手可及。这不是战争应有的打法。你以前见过他们脸上那种神情——在一之谷，当你驱马冲下任何理智的将帅都不会尝试的峭壁之时。他们认为你是天才，也认为你危险——两点都没说错。但平氏的船在漂流，你的舰队在逼近，战斗正在演变为一场溃败。\n\n平氏主将知盛身着铠甲，岿然站立在旗舰甲板上，凝视着自己舰队的残局。他询问周围的人，自己看起来怎么样。然后他在原有铠甲之上再披一副，以便迅速下沉，走入大海。平氏的女眷与贵族随之而去。在那最后一场绝望的行动中，某处的二位尼将年幼的天皇抱入怀中。历史没有给你任何方式去阻止接下来发生的事。"
+      },
+      "nextSceneId": "genpei-war-1185-scene-003",
+      "stateChanges": [
+        { "variable": "minamotoMorale", "operation": "add", "value": 10 },
+        { "variable": "navalControl", "operation": "add", "value": 20 },
+        { "variable": "imperialLegitimacy", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Conduct standard naval combat targeting only armed Taira warriors — honor the warrior code, close in ship to ship, and let the reversed current do the work",
+        "ja": "武装した平氏の武士のみを標的とする通常の海戦を行う——武士の掟を守り、船同士で接近し、逆流に仕事をさせる",
+        "zh-CN": "实施常规海战，仅攻击持械的平氏武士——恪守武士准则，舰船接近交战，任由逆流发挥作用"
+      },
+      "historicalContext": "The counterfactual — fighting with conventional warrior honor, targeting only armed combatants. This approach would have been slower and more costly, potentially allowing the Taira to reorganize or the imperial family to escape by sea.",
+      "outcomePrompt": {
+        "en": "You fight as a warrior should fight — ship against ship, sword against sword, arrow aimed at sword-bearing men. The reversed current does indeed help, pushing the Taira fleet back and making it harder for their vessels to close with yours on their own terms. Your heavier ships, freed from the morning's disadvantage, begin to press the engagement with grinding force.\n\nBut it is slow. The Taira, whatever else they are, are skilled seamen, and their helmsmen — untouched, still at their posts — continue to work small miracles of seamanship, maneuvering even against the adverse current to preserve formation. What could have been a rout takes hours. Your men fight hard and well, but so do the Taira warriors, and the casualties mount on both sides.\n\nBy mid-afternoon, the Taira formation begins to crack — too many ships have been taken, too many captains killed. But in the confusion of a slower collapse, the Taira flagship breaks away. There is a desperate scramble aboard the vessel you can see but cannot reach in time. Whether the Emperor and the Sacred Treasures survive what happens next will depend on the speed of your pursuit. History, as written, closes around the Taira on their own terms — but on a different timeline than the one you know.",
+        "ja": "武士が戦うべきように戦う——船と船、剣と剣、刀を持つ者たちに向けられた矢。逆流が確かに助けとなり、平氏の艦隊を押し返し、彼らの船が自分たちの思い通りにあなたの船と接触するのを難しくする。今朝の不利から解放されたあなたの大型船が、力強く戦いを押し進め始める。\n\nしかし、遅い。平氏は何であれ、熟練した海人であり、その舵取りたち——無傷で、まだ持ち場にいる——は逆流にさえ抗って陣形を保ち、小さな奇跡のような操船を続ける。潰走になり得たものが何時間もかかる。あなたの兵は懸命によく戦うが、平氏の武士たちも同様であり、双方の損害が積み重なっていく。\n\n午後の中ごろ、平氏の陣形が崩れ始める——あまりにも多くの船が奪われ、あまりにも多くの大将が討たれた。しかし、より緩慢な崩壊の混乱の中で、平氏の旗艦が離れていく。見えているが間に合わない船の上で、必死の動きが起きる。天皇と三種の神器が次に何が起きるかを生き延びるかどうかは、追撃の速さにかかっている。記録に残る歴史は平氏を彼ら自身の条件で包み込んでいくが、あなたが知るものとは異なる時の流れの中で。",
+        "zh-CN": "你以武士应有的方式作战——舰船对舰船，刀剑对刀剑，箭矢指向持刀之人。逆转的潮流确实奏效，将平氏舰队向后推去，使他们的船只更难以按自己的节奏与你接战。你那些从上午不利中解脱出来的大型战舰，开始以沉重的力量逼压交战态势。\n\n然而进展缓慢。平氏无论如何都是技艺精湛的海人，他们的舵手——毫发无损，仍在岗位上——继续创造着小小的操船奇迹，甚至在逆流中依然机动以维持阵形。本可演变为溃败的战局拖延了数小时。你的将士拼命苦战，但平氏武士同样如此，双方伤亡都在不断累积。\n\n午后时分，平氏阵形开始崩裂——太多船只被夺，太多将帅阵亡。然而在这场更为缓慢的崩溃的混乱中，平氏旗舰脱离了阵列。在那艘你看得见却来不及追上的船上，一场绝望的骚动正在发生。天皇与三种神器能否在接下来的事件中留存，将取决于你追击的速度。历史如实记载，在属于平氏自己的方式中将他们合围——只是在一条与你所知不同的时间线上。"
+      },
+      "nextSceneId": "genpei-war-1185-scene-003",
+      "stateChanges": [
+        { "variable": "minamotoMorale", "operation": "add", "value": 5 },
+        { "variable": "navalControl", "operation": "add", "value": 5 },
+        { "variable": "imperialLegitimacy", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

@@ -1,0 +1,83 @@
+{
+  "scenarioId": "silk-road-crisis-100",
+  "timeline": [
+    {
+      "date": "0060-01-01",
+      "description": {
+        "en": "Han China's Western Regions Protectorate, established under Emperor Wu in the previous century to secure the Silk Road, has collapsed. The Xiongnu nomadic confederation has reasserted control over the Central Asian kingdoms and their trade routes. Han envoys are expelled, killed, or ignored. The Silk Road trade that fueled Han prosperity is severely disrupted.",
+        "ja": "前世紀の武帝の下でシルクロードを確保するために設立された漢の西域都護府が崩壊した。匈奴遊牧民連合が中央アジアの王国とその貿易ルートへの支配を回復した。漢の使節は追放され、殺され、無視される。漢の繁栄を支えたシルクロード貿易が深刻に混乱している。",
+        "zh-CN": "上世纪汉武帝为保障丝绸之路而建立的汉朝西域都护府已经崩溃。匈奴游牧联盟重新确立了对中亚各王国及其贸易路线的控制。汉朝使节遭到驱逐、杀害或无视，支撑汉朝繁荣的丝绸之路贸易严重受阻。"
+      }
+    },
+    {
+      "date": "0073-01-01",
+      "description": {
+        "en": "Emperor Ming of Han dispatches Ban Chao on a diplomatic mission to the Western Regions with only 36 soldiers. Ban Chao is the younger brother of the historian Ban Gu. His mission is to use diplomacy to win back the Central Asian kingdoms from Xiongnu influence and reopen the Silk Road to Han trade.",
+        "ja": "漢の明帝がわずか36人の兵士を率いた班超を西域への外交使節として派遣する。班超は歴史家・班固の弟だ。彼の使命は外交を使って中央アジアの王国を匈奴の影響力から取り戻し、シルクロードを漢の貿易に再開することだ。",
+        "zh-CN": "汉明帝派遣班超率仅36名士兵出使西域。班超是史学家班固之弟，其使命是运用外交手段，将中亚各王国从匈奴影响下赢回，重开丝绸之路以恢复汉朝贸易。"
+      }
+    },
+    {
+      "date": "0073-06-01",
+      "description": {
+        "en": "Ban Chao arrives at Shanshan (Loulan), a key kingdom at the eastern end of the Tarim Basin. He discovers that a Xiongnu envoy and his party are also present, pressuring the Shanshan king to reject Han alliance. Ban Chao makes a bold decision: he attacks and kills the Xiongnu envoy and his entire party at night. He then presents the Shanshan king with a fait accompli — Xiongnu protection is gone, and Han is here.",
+        "ja": "班超がタリム盆地の東端にある重要な王国・鄯善（楼蘭）に到着する。匈奴の使節とその一行もそこにいて、鄯善王に漢との同盟を拒否するよう圧力をかけていることを発見する。班超は大胆な決断を下す：彼は夜に匈奴の使節とその一行全員を攻撃して殺す。そして鄯善王に既成事実を提示する——匈奴の保護はなくなり、漢がここにいる。",
+        "zh-CN": "班超抵达塔里木盆地东端的关键王国鄯善（楼兰）。他发现一名匈奴使节及其随从也在此地，正向鄯善王施压，要求拒绝与汉结盟。班超做出了大胆的决断：夜间袭杀匈奴使节及其全部随从，随后将一个既成事实呈于鄯善王面前——匈奴的庇护已经消失，汉朝就在眼前。"
+      }
+    },
+    {
+      "date": "0076-01-01",
+      "description": {
+        "en": "Over three years, Ban Chao has traveled across the Tarim Basin, combining diplomacy with selective violence to bring kingdom after kingdom under Han influence. When diplomacy fails, he engineers coups, aids rival claimants to local thrones, and occasionally leads his tiny force in raids. His reputation grows across the region — both for ruthlessness and for delivering on his promises to allied kingdoms.",
+        "ja": "三年かけて、班超はタリム盆地を旅し、外交と選択的な暴力を組み合わせて王国を次々と漢の影響下に置いてきた。外交が失敗した時は、クーデターを画策し、地元の王位への対立候補を支援し、時には小さな部隊を率いて急襲する。彼の評判が地域全体に広まる——冷酷さにおいても、同盟した王国への約束を果たすことにおいても。",
+        "zh-CN": "三年间，班超走遍塔里木盆地，将外交与有选择性的武力相结合，将一个又一个王国纳入汉朝影响之下。外交失败时，他策动政变，扶植地方王位的竞争者，偶尔也率领他那支微型军队发动突袭。他的声誉在整个地区广为传播——既以其铁腕著称，也以信守对盟国许诺而闻名。"
+      }
+    },
+    {
+      "date": "0091-01-01",
+      "description": {
+        "en": "Ban Chao achieves the summit of his campaign: the kingdom of Kucha, the most powerful in the Tarim Basin, submits to Han. With Kucha's submission, Han influence extends over all major Silk Road kingdoms. Emperor He appoints Ban Chao as Protector General of the Western Regions — the highest military-diplomatic post in the region. He is now 60 years old and has been in the Western Regions for 18 years.",
+        "ja": "班超が作戦の頂点を達成する：タリム盆地で最も強力な王国である亀茲が漢に服属する。亀茲の服属により、漢の影響力がシルクロードのすべての主要王国に及ぶ。和帝が班超を西域都護に任命する——地域で最高の軍事・外交ポスト。彼は今60歳で、18年間西域にいる。",
+        "zh-CN": "班超迎来了其征程的顶点：塔里木盆地最强大的王国龟兹臣服于汉。随着龟兹的归顺，汉朝影响力延伸至丝绸之路所有主要王国。和帝任命班超为西域都护——该地区最高的军事外交职位。此时他已年届六旬，在西域已度过了十八个年头。"
+      }
+    },
+    {
+      "date": "0097-01-01",
+      "description": {
+        "en": "Ban Chao dispatches his deputy Gan Ying on an embassy to the Roman Empire (Da Qin). Gan Ying travels as far as the Persian Gulf, where he is dissuaded from continuing by Parthian merchants who have no interest in direct China-Rome contact. He writes the first detailed Chinese account of the lands west of Parthia. Han China and Rome are now in indirect contact through Silk Road intermediaries.",
+        "ja": "班超が副官・甘英をローマ帝国（大秦）への使節として派遣する。甘英はペルシャ湾まで旅し、そこで直接の中国・ローマ接触に利益がないパルティア商人に進むことを思い止まらされる。彼はパルティア西方の土地についての最初の詳細な中国の記録を書く。漢の中国とローマが今やシルクロードの仲介者を通じた間接的な接触にある。",
+        "zh-CN": "班超派遣副手甘英出使罗马帝国（大秦）。甘英一路行至波斯湾，在那里被无意于促成中罗直接接触的安息商人劝阻而止步。他写下了关于安息以西诸地的第一份详细中文记录。汉朝中国与罗马如今通过丝绸之路中间商建立起了间接联系。"
+      }
+    },
+    {
+      "date": "0102-08-13",
+      "description": {
+        "en": "Ban Chao, now 70 years old, petitions the Emperor to be allowed to return home to China. He writes that he does not expect to see China again alive, but wishes to die in his homeland. The Emperor grants his request. Ban Chao arrives in Luoyang and dies one month later. He spent thirty years in the Western Regions with never more than a few thousand soldiers, restoring Han influence over fifty kingdoms spanning thousands of kilometers.",
+        "ja": "今や70歳の班超が、中国の故郷に帰ることを許可するよう皇帝に請願する。彼は生きて再び中国を見ることは期待しないが、故郷で死にたいと書く。皇帝が彼の要求を認める。班超が洛陽に到着し、一ヶ月後に死去する。彼は三十年間西域にいて、数千人以上の兵士を率いることなく、数千キロにわたる五十の王国に対する漢の影響力を回復した。",
+        "zh-CN": "年届七旬的班超上疏请求皇帝准许他返回故土。他在奏疏中写道，已不期望能活着再见中国，但愿死在故乡。皇帝批准了他的请求。班超抵达洛阳，一个月后溘然长逝。他在西域度过了三十年，从未拥有过数千以上的兵力，却恢复了汉朝对绵延数千公里的五十个王国的影响力。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "Ban Chao's mission was one of history's most successful exercises in asymmetric power projection. With never more than a few thousand soldiers in the field, he restored Han suzerainty over the fifty-plus kingdoms of the Western Regions for thirty years. The Silk Road was reopened. His deputy's embassy reached the edge of the Roman Empire — the first direct Chinese diplomatic contact with the West. Ban Chao became one of the most celebrated generals in Chinese history despite fighting almost no large-scale battles.",
+    "ja": "班超の使命は歴史上最も成功した非対称的な権力投射の事例の一つだった。野戦で数千人以上の兵士を持ったことがなく、三十年間西域の五十以上の王国に対する漢の宗主権を回復した。シルクロードが再開された。彼の副官の使節がローマ帝国の端に到達した——西方との最初の直接的な中国の外交接触。班超はほとんど大規模な戦いを戦わなかったにもかかわらず、中国史上最も称えられた将軍の一人となった。",
+    "zh-CN": "班超的使命是历史上最成功的非对称权力投射案例之一。他从未在战场上拥有过数千以上的兵力，却在三十年间恢复了汉朝对西域五十余个王国的宗主权。丝绸之路重新贯通，他的副手的出使抵达了罗马帝国的边缘——这是中国与西方的第一次直接外交接触。尽管几乎没有打过什么大规模战役，班超仍成为中国历史上最受推崇的将领之一。"
+  },
+  "casualties": {
+    "en": "Ban Chao's campaigns were notable for how few casualties they produced on either side. His strategy was to avoid large-scale battles entirely, preferring targeted assassinations of hostile leaders, support for local rivals, and the credible threat of Chinese military force (backed by the knowledge that China could send large armies if provoked). His most famous action — the night attack on the Xiongnu envoys at Shanshan — involved fewer than 40 fighters.",
+    "ja": "班超の作戦はどちらの側にも引き起こす死傷者が如何に少なかったかで注目に値する。彼の戦略は大規模な戦いを完全に避け、敵対的なリーダーへの標的を絞った暗殺、地元の競争相手への支援、そして（挑発すれば中国が大軍を送れるという知識に裏打ちされた）信頼できる中国軍事力の脅威を好んだ。彼の最も有名な行動——鄯善での匈奴使節への夜間攻撃——は40人未満の戦闘員を伴っていた。",
+    "zh-CN": "班超的征战以双方伤亡之少而著称。他的战略是完全避免大规模战斗，倾向于对敌对领袖实施有针对性的暗杀、支持地方竞争者，以及凭借可信的中国军事力量威胁（以中国若被激怒可派遣大军的认知为后盾）。他最著名的行动——在鄯善夜袭匈奴使团——参与战斗者不足40人。"
+  },
+  "significance": {
+    "en": "Ban Chao's career represents one of history's greatest examples of strategic influence without proportionate military force. He demonstrated that a great power can maintain an imperial periphery through credible threat, skilled diplomacy, and the management of local political dynamics — rather than through costly occupation armies. His mission also produced the first Chinese contact with the Roman Empire, a milestone in the history of globalization. The Silk Road trade he reopened funded Han China's classical golden age.",
+    "ja": "班超の経歴は、比例した軍事力なしの戦略的影響力の歴史上最大の例の一つを代表する。大国が高コストの占領軍によってではなく、信頼できる脅威、巧みな外交、地元の政治的ダイナミクスの管理によって帝国の周辺を維持できることを示した。彼の使命はまた、ローマ帝国との最初の中国の接触を生み出した——グローバル化の歴史におけるマイルストーン。彼が再開したシルクロード貿易が漢の中国の古典的黄金時代に資金を提供した。",
+    "zh-CN": "班超的生涯是历史上最伟大的以非相称军事力量实施战略影响的案例之一。他证明了一个大国可以通过可信的威慑、高超的外交手腕以及对地方政治动态的管理来维持帝国的边疆——而非依赖耗费巨大的占领军队。他的使命还促成了中国与罗马帝国的第一次接触——全球化历史上的一个里程碑。他重开的丝绸之路贸易为汉朝中国的古典黄金时代提供了资金来源。"
+  },
+  "furtherReading": [
+    "Rafe de Crespigny, A Biographical Dictionary of Later Han to the Three Kingdoms (Brill, 2007)",
+    "Xinru Liu, The Silk Road in World History (Oxford, 2010)",
+    "Valerie Hansen, The Silk Road: A New History (Oxford, 2012)",
+    "Michael Loewe, The Government of the Qin and Han Empires (Hackett, 2006)",
+    "Jerry Bentley, Old World Encounters: Cross-Cultural Contacts and Exchanges in Pre-Modern Times (Oxford, 1993)"
+  ]
+}

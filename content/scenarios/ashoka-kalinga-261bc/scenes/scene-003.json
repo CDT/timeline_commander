@@ -1,0 +1,113 @@
+{
+  "id": "ashoka-kalinga-261bc-scene-003",
+  "scenarioId": "ashoka-kalinga-261bc",
+  "title": {
+    "en": "The Edicts",
+    "ja": "法勅",
+    "zh-CN": "法令"
+  },
+  "date": {
+    "en": "260 BC — Pataliputra, the Mauryan capital",
+    "ja": "紀元前260年——マウリヤ朝の都、パータリプトラ",
+    "zh-CN": "公元前260年——孔雀王朝都城华氏城"
+  },
+  "location": {
+    "en": "Pataliputra (modern Patna, Bihar, India)",
+    "ja": "パータリプトラ（現・インド、ビハール州パトナ）",
+    "zh-CN": "华氏城（今印度比哈尔邦巴特那）"
+  },
+  "narrativePrompt": {
+    "en": "You have returned to Pataliputra. The palace is as magnificent as you left it — the carved pillars, the reflecting pools, the gardens your father built, the audience halls where supplicants wait. The empire is intact. The treasury is filling. All the mechanisms of power that your grandfather and father perfected are humming like a well-tuned instrument.\n\nBut you are a different person than the man who left for Kalinga. You have spent months in conversation with monks, with scholars, with the common people of the empire who live far from its glories. You have read what exists of the Buddha's teachings. You have sat in the evenings thinking thoughts that Chanakya would have considered a dangerous indulgence. You have decided — and the decision feels as clear and irreversible as a stone dropped into water — that you cannot be the emperor you were.\n\nThe question that remains is how far to go. You could embrace the path of dharma privately: practice compassion, reduce your own killing, instruct your officials to govern with mercy — but maintain the outward apparatus of a warrior-king. No foreign power needs to know that the Mauryan emperor has become a philosopher. That is the cautious path, the path that protects the empire's external reputation as a military power.\n\nOr you could go further. You could write it into stone. You could command that your words be carved into the living rock at every corner of your empire — not laws, but reflections, confessions, instructions on how to live. You could proclaim religious tolerance at a time when most rulers do no such thing. You could send your own children to carry the dharma to foreign lands. You could make your transformation public, irreversible, a thing that can be read in your own voice for a thousand years.\n\nThe stone carvers await your commission. The dharma is either a private comfort or a public declaration. The world is watching, though it does not know it yet.",
+    "ja": "あなたはパータリプトラへ帰還した。宮殿は出立したときと同じように壮麗だ——刻まれた柱、反射する池、父が造った庭園、嘆願者が待つ謁見の間。帝国は無傷だ。国庫は満ちつつある。祖父と父が完成させた権力の機構はすべて、よく調律された楽器のように唸りを上げている。\n\nしかし、あなたはカリンガへ出発した男とは別人だ。何ヶ月もの間、僧侶たちと、学者たちと、その栄光からほど遠いところで生きる帝国の庶民たちと語り合ってきた。仏陀の教えが記された文書を読んだ。夕暮れに座り、チャナキャならば危険な放埒と見なしたであろう考えにふけった。あなたは決断した——そしてその決断は、水に落とされた石のように明確で取り消しのないものとして感じられる——かつての皇帝であり続けることはできない。\n\n残っている問いは、どこまで進むかだ。あなたは法の道を私的に歩むことができる：慈悲を実践し、自らの殺生を減らし、役人たちに慈悲をもって統治するよう命じる——しかし戦士の王としての外観の装置を維持する。外国勢力は、マウリヤの皇帝が哲学者になったと知る必要はない。それは慎重な道、帝国の軍事大国としての対外的名声を守る道だ。\n\nあるいは、さらに進むことができる。それを石に刻み込むことができる。帝国の隅々にある生きた岩にあなたの言葉を刻むよう命じることができる——法律ではなく、省察、告白、生き方の教え。ほとんどの支配者がそんなことをしない時代に、宗教的寛容を宣言することができる。法を外国の地へ運ぶために自分の子供たちを派遣することができる。あなたの変貌を公のものとし、取り消しのないものとし、あなた自身の声で千年にわたって読まれ続けるものにすることができる。\n\n石工たちはあなたの発注を待っている。法は私的な慰めか、公的な宣言か。世界は見ている——まだ気づいてはいないが。",
+    "zh-CN": "你已归返华氏城。宫殿依然如你离去时那般辉煌——雕刻精美的廊柱、倒映天光的水池、父亲建造的花园、请愿者等候的谒见大厅。帝国完好无损。国库正在充盈。祖父和父亲所完善的一切权力机制，如同一件调音精准的乐器，嗡嗡作响。\n\n然而，你已不是出发前往羯陵伽的那个人。你花了数月时间与僧侣们、学者们、生活在帝国荣光之外的普通百姓们交谈。你研读了现存的佛陀教义文本。你在傍晚独坐，沉浸于考底利耶会视为危险放纵的沉思。你已做出决定——这个决定如同落入水中的石块一般清晰而不可逆——你无法继续做那个从前的皇帝。\n\n剩下的问题是该走多远。你可以私下走上法的道路：修行慈悲，减少自己的杀戮，训令官员以仁慈施政——但维持武士王者的外在形象。任何外国势力都无需知道孔雀帝国的皇帝已经成为一位哲人。那是谨慎的道路，是守护帝国作为军事强权之对外声誉的道路。\n\n或者，你可以走得更远。你可以将它刻入石头。你可以命人将你的话语刻进帝国每一个角落的天然岩壁——不是法律，而是省思、忏悔、关于如何生活的教导。你可以在一个大多数统治者从未如此行事的时代宣告宗教宽容。你可以派遣自己的子女将法带往异邦。你可以让你的蜕变成为公开的、不可撤销的、以你自己的声音被千年传读的存在。\n\n石刻工匠们等待着你的委托。法，是私人的慰藉，还是公开的宣言？世界正在观看，尽管它尚未意识到这一点。"
+  },
+  "situationReport": [
+    {
+      "en": "The Mauryan Empire is stable and prosperous. The integration of Kalinga is proceeding. Military advisors report no significant external threats for at least two campaign seasons.",
+      "ja": "マウリヤ帝国は安定し繁栄している。カリンガの統合は進んでいる。軍事顧問は少なくとも二遠征シーズンの間、重大な外部の脅威はないと報告している。",
+      "zh-CN": "孔雀帝国稳定繁荣。羯陵伽的整合工作正在推进。军事顾问报告，至少在两个战役季节内不存在重大的外部威胁。"
+    },
+    {
+      "en": "Ashoka has been studying Buddhist texts and meeting with monks for several months. His inner circle is aware of his changed spiritual orientation but no public statement has been made.",
+      "ja": "アショーカ王は数ヶ月間、仏教の文書を研究し、僧侶たちと会見してきた。側近たちは彼の変化した精神的傾向を認識しているが、公的な声明はまだ出されていない。",
+      "zh-CN": "阿育王数月来一直在研习佛教典籍并与僧侣会面。他的核心圈子已知晓他精神取向的转变，但尚未发表任何公开声明。"
+    },
+    {
+      "en": "Stone carvers and court scribes are available to begin work on a major proclamation. The technology exists to inscribe messages on natural rock faces throughout the empire — an unprecedented form of imperial communication.",
+      "ja": "石工と宮廷書記官が重大な宣言のための作業を開始できる状態にある。帝国全土の自然の岩面にメッセージを刻む技術は存在する——前例のない形の帝国的コミュニケーション。",
+      "zh-CN": "石刻工匠和宫廷书记官随时可以开始重大宣言的刻制工作。将信息刻于帝国各地天然岩面的技术已经具备——这是一种前所未有的帝国传播形式。"
+    },
+    {
+      "en": "Buddhist communities in Sri Lanka and the Ganges Valley have requested that Ashoka send a formal mission to help establish the sangha in their regions. His son Mahinda has expressed willingness to lead such a mission.",
+      "ja": "スリランカとガンジス川流域の仏教共同体が、アショーカ王に彼らの地域での僧伽設立を助ける正式な使節団の派遣を求めている。息子マヒンダがこのような使節団を率いる意欲を示している。",
+      "zh-CN": "斯里兰卡和恒河流域的佛教团体请求阿育王派遣正式使团，帮助在他们的地区建立僧伽。他的儿子摩哂陀已表示愿意率领这样的使团。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Determine the scope and public nature of your commitment to dharma governance",
+      "ja": "法による統治へのあなたの関与の範囲と公的性質を決める",
+      "zh-CN": "确定你对法治承诺的范围及其公开程度"
+    },
+    {
+      "en": "Leave a legacy that reflects who you have become after Kalinga",
+      "ja": "カリンガ以後のあなたが何者であるかを反映した遺産を残す",
+      "zh-CN": "留下一份反映羯陵伽之后你所成为之人的历史遗产"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "A public renunciation of warfare may be interpreted as weakness by neighboring kingdoms and could invite aggression",
+      "ja": "戦争の公的な放棄は、隣接する王国によって弱さと解釈され、侵略を招く可能性がある",
+      "zh-CN": "公开放弃战争可能被邻近王国解读为软弱，进而招致侵略"
+    },
+    {
+      "en": "The resources required for a grand missionary program and empire-wide edict construction are substantial",
+      "ja": "大規模な宣教プログラムと帝国全土にわたる法勅建立に必要な資源は相当なものだ",
+      "zh-CN": "大规模传教计划和帝国范围内法令刻制所需的资源相当可观"
+    }
+  ],
+  "choices": [
+    {
+      "id": "ashoka-kalinga-261bc-scene-003-choice-a",
+      "text": {
+        "en": "Publicly renounce warfare. Commission the Rock Edicts to be carved throughout the empire. Send Mahinda and Sanghamitta to Sri Lanka. Dispatch missions to the Hellenistic kingdoms, Central Asia, and the Deccan. Make your transformation a matter of permanent public record.",
+        "ja": "戦争を公式に放棄する。帝国各地に磨崖法勅を刻むよう発注する。マヒンダとサンガミッタをスリランカへ派遣する。ヘレニズム諸王国・中央アジア・デカンへ使節団を送る。あなたの変貌を恒久的な公的記録にする。",
+        "zh-CN": "公开放弃战争。委托在帝国各地刻制磨崖法令。派遣摩哂陀和僧伽密多赴斯里兰卡。向希腊化诸王国、中亚和德干派遣使团。将你的蜕变变为永久性的公开记录。"
+      },
+      "historicalContext": "This is what Ashoka did. His Rock Edicts survive to this day — some of the oldest legible inscriptions on the subcontinent. Mahinda's mission to Sri Lanka succeeded beyond all expectation, establishing Theravada Buddhism there. Ashoka became a legend across Asia.",
+      "outcomePrompt": {
+        "en": "The stone carvers work for years. On cliff faces in Kandahar, in the mountain passes of Girnar, on boulders near Dhauli where the Kalinga dead were thickest — your voice appears in Prakrit, in Greek, in Aramaic. Religious tolerance. The welfare of animals. The importance of hearing the views of others before judging them. The acknowledgment that no one religion holds the whole truth. Words that are, in their time, extraordinary.\n\nMahinda sails to Sri Lanka with five monks and a cutting from the Bodhi tree. He converts King Devanampiya Tissa. The island becomes Buddhist. It remains so. Your missionaries reach the court of Antiochus II in Syria, Ptolemy III in Egypt. Whether they convert anyone there is unclear. But the world learns that a great king in the east has become a man of peace.\n\nYour generals never fully forgive you for the southern campaign you never launched. But they serve loyally until your death. The Mauryan Empire will fragment after you — no successor quite holds it together — but the Ashokan Wheel of Dharma will appear in the sky over your grave, and two thousand years later it will appear on the flag of a nation that does not yet exist, and schoolchildren will read your words and know your name.",
+        "ja": "石工たちは何年もかけて働く。カンダハールの崖面に、ギルナールの山道に、カリンガの死者が最も多く横たわったダウリ近郊の岩塊に——あなたの声がプラークリット語で、ギリシャ語で、アラム語で現れる。宗教的寛容。動物の福祉。他者の見解を判断する前に聞くことの重要性。いかなる宗教も真理の全てを持つわけではないという認識。その時代において、驚異的な言葉だ。\n\nマヒンダは五人の僧侶と菩提樹の切り枝を携えてスリランカへ出航する。彼は王デーワーナンピヤ・ティッサを改宗させる。島は仏教徒の地となる。そして今もそうだ。あなたの宣教師たちはシリアのアンティオコス二世の宮廷に、エジプトのプトレマイオス三世の元に到達する。彼らがそこで誰かを改宗させたかどうかは定かでない。しかし世界は、東方の大王が平和の人となったことを知る。\n\nあなたの将軍たちはあなたが決して行わなかった南方遠征を最後まで完全には許さない。しかし彼らはあなたの死まで忠実に仕える。マウリヤ帝国はあなたの後に分裂する——いかなる後継者もうまく維持できなかった——しかしアショーカの法輪はあなたの墓の上の空に現れ、二千年後にはまだ存在しない国家の旗に現れ、学校の子供たちはあなたの言葉を読み、あなたの名を知るだろう。",
+        "zh-CN": "石刻工匠们工作了数年。在坎大哈的峭壁上，在吉尔纳尔的山口中，在卡林纳死者最为密集的达乌利附近的岩石上——你的声音以巴利语、希腊语、阿拉米语出现。宗教宽容。动物的福祉。在评判他人之前先倾听他们观点的重要性。没有任何一种宗教拥有全部真理的认知。这些话语，在那个时代，是非同凡响的。\n\n摩哂陀带着五名僧侣和一株菩提树枝条航向斯里兰卡。他使国王天爱帝须皈依了佛教。这座岛屿成为佛教之地，并延续至今。你的传教士们抵达了叙利亚安条克二世的宫廷，到达了埃及托勒密三世的身边。他们是否在那里使任何人皈依，尚不清楚。但世界得知，东方的一位伟大君王已成为和平之人。\n\n你的将领们从未完全原谅你没有发动的那场南征。但他们忠诚地侍奉直至你驾崩。孔雀帝国在你之后分裂——没有任何继承者能完整地维持它——但阿育王的法轮将出现在你墓地上方的天空中，两千年后又将出现在一个尚不存在的国家的旗帜上，学童们将阅读你的话语，知晓你的名字。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "dharmaConviction", "operation": "add", "value": 40 },
+        { "variable": "subjectWelfare", "operation": "add", "value": 30 },
+        { "variable": "spiritualAwakening", "operation": "add", "value": 25 }
+      ]
+    },
+    {
+      "id": "ashoka-kalinga-261bc-scene-003-choice-b",
+      "text": {
+        "en": "Practice dharma privately. Reform the administration to be more compassionate, reduce the use of torture and capital punishment, and promote welfare — but maintain the image of the warrior-king to deter rivals. No public renunciation of warfare.",
+        "ja": "法を私的に実践する。行政をより慈悲深くなるよう改革し、拷問と死刑の使用を減らし、福祉を促進する——しかし、対抗勢力を抑止するために戦士の王のイメージを維持する。戦争の公的な放棄はしない。",
+        "zh-CN": "私下修行法。改革行政使其更具慈悲，减少酷刑和死刑的使用，促进民众福祉——但维持战士王者的形象以威慑对手。不公开放弃战争。"
+      },
+      "historicalContext": "This is the counterfactual path Ashoka rejected. A private, quieter reform would have been more politically cautious but far less historically significant. The public nature of Ashoka's conversion is precisely what made it transformative.",
+      "outcomePrompt": {
+        "en": "The administrative reforms proceed quietly. Torture is reduced — though not eliminated — from the judicial system. The slaughter of certain animals is restricted near palace grounds. Physicians are deployed to more districts. Roads are improved. These are real improvements in the lives of real people, and you should not underestimate them.\n\nBut the warrior-king's image holds. No foreign king learns that Ashoka has changed. Your frontier commanders continue in the tradition of deterrence. The court Brahmins are satisfied. Radhagupta is satisfied. The mechanism of power continues to run as designed.\n\nIn quiet moments — in the garden, in the hour before dawn — you know what you kept and what you gave away. The reforms help the living. But the 100,000 dead of Kalinga remain a sealed account in your soul, never publicly addressed, never written in stone for the world to read. You are a better emperor than you were. Whether that is enough is a question only the dawn hours ask, in the garden, where no one can hear you not answer it.",
+        "ja": "行政改革は静かに進む。拷問は——完全になくなりはしないが——司法制度から減らされる。特定の動物の屠殺が宮殿の敷地近くで制限される。より多くの地区に医師が派遣される。道路が整備される。これらは現実の人々の生活における現実の改善であり、過小評価すべきではない。\n\nしかし戦士の王のイメージは保たれる。アショーカが変わったことを知る外国の王はいない。辺境の司令官たちは抑止の伝統の中で活動し続ける。宮廷のバラモンたちは満足している。ラーダグプタは満足している。権力の機構は設計通りに動き続ける。\n\n静かな瞬間に——庭園で、夜明け前の時間に——あなたは何を保ち、何を手放したかを知っている。改革は生きている者たちを助ける。しかしカリンガの10万人の死者は、あなたの魂の中で封印された勘定として残り、公的に向き合われることも、世界が読めるよう石に刻まれることもない。あなたはかつてよりも優れた皇帝だ。それで十分かどうかは、夜明けの時間だけが問う問いだ——庭園で、誰もあなたが答えないのを聞けないところで。",
+        "zh-CN": "行政改革悄然推进。酷刑从司法体系中有所减少——尽管没有彻底消除。宫殿周围特定动物的屠宰受到限制。更多地区得到了医师的派驻。道路得到了改善。这些是真实改善了真实百姓生活的举措，你不应低估它们的价值。\n\n但战士王者的形象依然维持。没有哪个外国君王得知阿育王已经改变。你的边疆指挥官们继续秉承威慑传统行事。宫廷婆罗门们满意了。罗陀笈多满意了。权力的机制继续按照设计运转。\n\n在宁静的时刻——在花园里，在黎明前的那个小时——你知道自己保住了什么，又放弃了什么。这些改革帮助了活着的人。但羯陵伽的十万死者依然是你灵魂中一本封存的账册，从未被公开面对，从未被刻于石上供世人阅读。你是一个比从前更好的皇帝。这是否足够，是只有黎明时分才会在花园里提出的问题——在那里，没有人能听见你没有回答它。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "militaryControl", "operation": "add", "value": 10 },
+        { "variable": "subjectWelfare", "operation": "add", "value": 15 },
+        { "variable": "dharmaConviction", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

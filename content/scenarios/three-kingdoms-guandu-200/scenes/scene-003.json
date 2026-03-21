@@ -1,0 +1,114 @@
+{
+  "id": "three-kingdoms-guandu-200-scene-003",
+  "scenarioId": "three-kingdoms-guandu-200",
+  "title": {
+    "en": "Fire at Wuchao",
+    "ja": "烏巣の炎",
+    "zh-CN": "火烧乌巢"
+  },
+  "date": {
+    "en": "October 4, 200 AD",
+    "ja": "西暦200年10月4日",
+    "zh-CN": "公元200年10月4日"
+  },
+  "location": {
+    "en": "Wuchao supply depot, northwest of Guandu",
+    "ja": "官渡北西、烏巣の兵站拠点",
+    "zh-CN": "官渡西北，乌巢粮仓"
+  },
+  "narrativePrompt": {
+    "en": "The first fires catch fast — the grain stores are dry from the autumn, packed dense and high, and when the torches find them the light leaps skyward like a signal to heaven. Your cavalry has circled the depot and overwhelmed the outer guards in the first rush. Chunyu Qiong himself is somewhere in the chaos — hungover, disoriented, his garrison scrambling to form up while your men tear through their positions.\n\nThen comes the messenger. Hard-riding, from the direction of Guandu: Yuan Shao has detected the absence of your raiding force and is moving cavalry toward Wuchao to relieve the depot. A secondary force of Yuan Shao's cavalry is also probing the weakened Guandu camp. The fires are burning magnificently — enormous columns of orange and black smoke rising into the morning air — but they are not yet finished. Chunyu Qiong's remaining men have rallied around the inner granaries and are fighting hard. There is still grain that has not burned.\n\nYour officers give you contradictory advice in the space of thirty seconds. One urges you to complete the destruction of every grain store before withdrawing, even if it means fighting Yuan Shao's relief column at Wuchao. Another urges immediate withdrawal — the camp cannot hold long without you. A third says split your force: half to finish the burning, half riding back to reinforce the camp. In the orange firelight, with screaming and the clash of arms around you and a pillar of smoke that will be visible for fifty li, you must decide right now.\n\nThe fate of northern China hangs on the next few minutes. You can feel it — that crystalline clarity that comes in the center of chaos, when history is being made and you are the one making it. Every man here is watching you. The fires are spreading. Yuan Shao's column is coming. Decide.",
+    "ja": "最初の炎は速く燃え広がる——兵糧は秋の乾燥で乾き切り、高く密集して積み上げられており、松明がそこに触れると炎は天への信号のように空へと跳ね上がる。あなたの騎兵は兵站を包囲し、最初の突進で外周の警備を圧倒した。淳于瓊自身は混乱の中のどこかにいる——二日酔いで、錯乱し、彼の守備隊はあなたの兵が陣地を蹂躙する中で何とか隊形を整えようとしている。\n\nそこへ使者が来る。官渡の方角から疾駆する馬上の使者：袁紹が奇襲部隊の不在を察知し、兵站の救援に騎兵を向かわせているという。袁紹の別の騎兵部隊も、手薄になった官渡の本陣を探っているとのことだ。炎は壮麗に燃え上がっている——巨大なオレンジと黒の煙柱が朝の空へと立ち昇っている——しかしまだ終わっていない。淳于瓊の残存部隊が内側の穀倉周辺に集結して激しく抵抗している。まだ燃えていない兵糧がある。\n\nあなたの将校たちが三十秒の間に相反する進言をする。一人は袁紹の救援隊と烏巣で交戦することになっても、撤退前にすべての兵糧を焼き尽くすよう促す。もう一人は即時撤退を求める——本陣はあなたなしでは長くは持たないと。三人目は部隊を分割することを提案する——半分が燃やし続け、半分が本陣の増援に戻る。オレンジ色の炎の光の中で、周囲に叫び声と刃の交錯が響き、五十里先まで見える煙の柱が立ち昇る中で、あなたは今すぐ決断しなければならない。\n\n北方中国の命運は、次の数分にかかっている。それを感じることができる——混乱の中心にいるときに訪れる、あの水晶のような明澄さを。歴史が作られており、作っているのはあなただというときの。ここにいるすべての男があなたを見ている。炎は広がり続けている。袁紹の隊が迫ってくる。決断せよ。",
+    "zh-CN": "最初的火焰蔓延极快——粮草经秋日晒干，堆积紧密，高耸如山，火把触及之处，火光腾空而起，宛如射向苍天的信号。你的骑兵已将粮仓团团围住，第一波冲击便压制了外围守卫。淳于琼本人就在某处混乱之中——宿醉未醒，神志不清，他的守军正在你的人马冲击阵地的同时仓皇列阵。\n\n就在此时，信使驰至，从官渡方向而来：袁绍已察觉你的突袭队离营，正遣骑兵向乌巢驰援。另有袁绍骑兵也在试探兵力空虚的官渡营地。火势蔓延壮烈——巨大的橙红与黑色烟柱冲天而起——但大局尚未告终。淳于琼的残部已在内层粮仓周围重新集结，顽强抵抗。尚有未被焚毁的粮草。\n\n你的将领们在三十秒内各献相反之策：一人力劝在撤退前将每一处粮仓烧尽，哪怕须在乌巢迎战袁绍的援军；另一人力主立即撤回——大营若无你久守不住；第三人建议分兵：一半继续焚烧，一半驰回增援本营。橙色火光之中，四周喊杀声与兵刃交击声不绝，烟柱高扬五十里可见，你必须立刻做出决断。\n\n北方中国的命运，悬于接下来的数分钟之内。你能感受到——那种身处混乱核心时降临的水晶般的清明，当历史正在被书写，而执笔之人正是你自己。此间每一个人都在注视着你。火势在蔓延。袁绍的队伍正在逼近。决断吧。"
+  },
+  "situationReport": [
+    {
+      "en": "Approximately 60-70% of the Wuchao depot has been set alight; complete destruction requires another 30-60 minutes of fighting",
+      "ja": "烏巣の兵站の約60〜70%が炎上中。完全な壊滅にはさらに30〜60分の戦闘が必要",
+      "zh-CN": "乌巢粮仓约60%至70%已被点燃，彻底摧毁还需再战30至60分钟"
+    },
+    {
+      "en": "Yuan Shao's relief cavalry force is approximately one hour away at current speed",
+      "ja": "袁紹の救援騎馬部隊は現在の速度で約1時間の距離にいる",
+      "zh-CN": "袁绍援骑以目前速度估计约一小时后抵达"
+    },
+    {
+      "en": "The Guandu camp is under probing attacks and the garrison is holding, but may not hold indefinitely without reinforcement",
+      "ja": "官渡の本陣は試探攻撃を受けており守備隊は持ちこたえているが、増援なしには無限には持たないかもしれない",
+      "zh-CN": "官渡本营正在承受试探性进攻，守军目前坚守，但若无增援或难以长期支撑"
+    },
+    {
+      "en": "Chunyu Qiong has been wounded but not captured; morale among depot defenders is breaking but not broken",
+      "ja": "淳于瓊は負傷したが捕らえられていない。兵站守備隊の士気は崩れかけているが、まだ崩れてはいない",
+      "zh-CN": "淳于琼已受伤但尚未被俘；粮仓守军士气动摇但尚未崩溃"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Destroy enough of Wuchao to make Yuan Shao's strategic position untenable",
+      "ja": "袁紹の戦略的立場を維持不可能にするほど烏巣を壊滅させる",
+      "zh-CN": "对乌巢造成足够的破坏，使袁绍的战略处境无以为继"
+    },
+    {
+      "en": "Return your army to Guandu to prevent the camp from falling while you are away",
+      "ja": "留守中に本陣が陥落しないよう、軍を官渡に戻す",
+      "zh-CN": "率军返回官渡，防止留守大营趁你不在之际失守"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "You cannot be in two places at once — Wuchao and Guandu both need attention",
+      "ja": "あなたは一度に二箇所には居られない——烏巣も官渡も注意が必要だ",
+      "zh-CN": "你分身乏术——乌巢与官渡同时需要你的关注"
+    },
+    {
+      "en": "Staying to fight Yuan Shao's relief force risks your entire raiding army in a pitched battle far from the camp",
+      "ja": "留まって袁紹の救援部隊と戦えば、本陣から遠く離れた場所での正面戦闘で奇襲軍全体を危険に晒す",
+      "zh-CN": "留下迎战袁绍援军，意味着将整支突袭军暴露于远离大营的正面交战之中"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-003-choice-a",
+      "text": {
+        "en": "Hold at Wuchao and complete the destruction. Fight off Yuan Shao's relief force if necessary — the depot must be totally destroyed, not merely damaged. Trust Cao Ren and the garrison to hold the camp. A partial burning is a partial victory; Yuan Shao must have nothing left to sustain his army.",
+        "ja": "烏巣に留まり、完全な壊滅を遂げる。必要なら袁紹の救援部隊を迎え撃つ——兵站は単に損傷するだけでなく完全に壊滅させなければならない。曹仁と守備隊が本陣を守り通すことを信じよ。半焼きは半勝利に過ぎない。袁紹に軍を養うものを何も残してはならない。",
+        "zh-CN": "坚守乌巢，彻底摧毁粮仓。必要时迎击袁绍援军——粮仓必须彻底焚毁，不能只是受损。相信曹仁和守军能守住大营。半毁等于半胜；袁绍军中不能留下任何可以维系其军队的东西。"
+      },
+      "historicalContext": "This reflects the historical outcome. Cao Cao reportedly rejected advice to return and insisted on completing the destruction, even fighting off Yuan Shao's relief force at Wuchao. The completeness of the destruction was what caused Yuan Shao's army to collapse rather than merely retreat.",
+      "outcomePrompt": {
+        "en": "You make the decision that your officers will argue about for decades. 'We finish what we came to do,' you say. 'Cao Ren holds the camp or he doesn't — that's his battle. This is mine.' The last of the grain stores go up in a roar of fire that turns the morning sky orange for thirty li around. Yuan Shao's relief column arrives to find the depot already an inferno and your cavalry drawn up to receive them. The fighting is fierce but brief — the relieving force, demoralized at the sight of the destruction, falters and retreats.\n\nBack at Guandu, the news that Wuchao has fallen spreads through Yuan Shao's army like a crack through ice. Within hours, generals begin switching sides. Zhang He and Gao Lan, two of Yuan Shao's best commanders, surrender to you with their troops intact. Yuan Shao's army — that vast, overwhelming host — simply comes apart. By nightfall, Yuan Shao himself has fled north across the Yellow River with fewer than a thousand followers. The Central Plains are yours.\n\nYou stand at Guandu as the sun sets, watching Yuan Shao's abandoned camp burn in the distance, and you think about what it means to be the kind of man who, when they tell you the odds, decides to change them. The histories will call this the Battle of Guandu. They will study it for a thousand years. You just lived it.",
+        "ja": "あなたは将校たちが何十年も議論するであろう決断を下す。「やりに来たことを終わらせる」とあなたは言う。「曹仁が本陣を守り通せるかどうかは彼の戦いだ——これは俺の戦いだ」。最後の穀倉が、三十里四方の朝空をオレンジに染める轟々たる炎とともに燃え上がる。袁紹の救援隊が到着したとき、兵站はすでに火の海となっており、あなたの騎兵が彼らを迎え撃つ態勢を整えている。戦闘は激烈だが短い——救援部隊は壊滅の光景に意気消沈し、ひるんで退却する。\n\n官渡に戻ると、烏巣が落ちたという知らせが袁紹軍に氷の亀裂のように広まっていく。数時間のうちに、将軍たちが次々と裏切り始める。袁紹の最良の将軍の二人、張郃と高覧が兵力を温存したまま降伏してくる。袁紹の軍——あの広大な、圧倒的な大軍勢——は単純に崩れ去る。日没までに、袁紹自身が千に満たない従者とともに北へ黄河を渡って逃れた。中原はあなたのものだ。\n\nあなたは夕日の中で官渡に立ち、遠くで燃える袁紹の放棄された陣営を眺めながら、勝ち目を告げられたときにそれを変えようと決める人間であるということの意味について考える。歴史書はこれを官渡の戦いと呼ぶだろう。千年にわたって研究されるだろう。あなたはそれを生きた。",
+        "zh-CN": "你做出了那个将被手下将领争论数十年的决断。「我们要完成来此的使命，」你说，「曹仁能不能守住大营是他的仗——这是我的仗。」最后一座粮仓在轰天的大火中化为灰烬，方圆三十里的清晨天空被染成橙红。袁绍的援军赶到时，粮仓已是一片火海，你的骑兵严阵以待迎击他们。战斗激烈而短促——援军望见这毁灭性的景象，士气瞬间崩溃，踉跄撤退。\n\n回到官渡，乌巢失陷的消息在袁绍军中如冰上裂纹般蔓延。数小时内，将领们开始纷纷倒戈。张郃与高览，袁绍麾下最骁勇的两位将军，率部完整地向你投降。袁绍大军——那支广袤无际、气势压人的军队——就此瓦解。日落之前，袁绍本人已率不足千名随从渡河北逃。中原是你的了。\n\n你立于官渡，望着落日余晖中远处袁绍被弃大营燃起的火光，心中思索着一件事：当别人告诉你胜算几何，而你决意改变这个胜算——做这样的人意味着什么。史书将称此役为官渡之战，千年之内必被反复研习。而你，亲历了它。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 35 },
+        { "variable": "yuanShaoMorale", "operation": "add", "value": -60 },
+        { "variable": "caoCaoMorale", "operation": "add", "value": 30 }
+      ]
+    },
+    {
+      "id": "scene-003-choice-b",
+      "text": {
+        "en": "Withdraw now. The fires already burning are enough to cripple Yuan Shao's supply chain. Preserve the raiding force, return to Guandu at speed to reinforce the camp, and let the existing conflagration do its work. A damaged depot is still a ruined campaign.",
+        "ja": "今すぐ撤退する。すでに燃えている炎は袁紹の補給路を麻痺させるのに十分だ。奇襲部隊を温存し、全速力で官渡に戻って本陣を増強する。既存の大火に仕事をさせよ。損傷した兵站でも、それはやはり潰れた戦役だ。",
+        "zh-CN": "立即撤退。已经燃起的大火足以重创袁绍的补给线。保存突袭兵力，全速返回官渡增援大营，让这场已燃起的大火继续发挥作用。残破的粮仓同样意味着一场失败的战役。"
+      },
+      "historicalContext": "This is the more cautious counterfactual. A partial burning would have damaged Yuan Shao significantly but might not have caused the total psychological collapse that the complete destruction did. Yuan Shao might have been able to reorganize and continue fighting, though perhaps with reduced effectiveness.",
+      "outcomePrompt": {
+        "en": "The order to withdraw is given and your cavalry pulls back in good order, riding hard for Guandu. Behind you, the fires continue to burn — three-quarters of the depot is already gone, and the smoke column is still visible as you ride away. Yuan Shao's relief cavalry reaches Wuchao to find the worst of the damage already done, and perhaps one quarter of the stored grain salvageable if they act quickly.\n\nBack at Guandu, your return steadies the garrison and Yuan Shao's probing attack withdraws. But the reports from across the river tell a more complicated story. Yuan Shao's army is shaken — the loss is enormous. But it has not collapsed. Yuan Shao himself, in one of his rare decisive moments, rallies his commanders and declares that the surviving grain stores will be rationed to sustain the campaign. Zhang He and Gao Lan still waver, but they do not yet defect.\n\nThe battle is not over. You have struck a devastating blow, and Yuan Shao's position is deeply weakened. But you will need to find a way to deliver the killing stroke in the weeks ahead, for the campaign has not ended — only changed its nature. The margin is thinner. The outcome less certain. The north remains contested for now.",
+        "ja": "撤退の命令が下され、あなたの騎兵は整然と引き上げ、官渡へ向かって全力疾走する。背後では炎が燃え続けている——兵站の四分の三はすでに失われており、遠ざかりながらもまだ煙柱が見える。袁紹の救援騎兵が烏巣に到着したとき、すでに最大の被害は出ており、迅速に行動すれば備蓄穀物の四分の一ほどは救い出せるかもしれない。\n\n官渡に戻ると、あなたの帰還が守備隊を安定させ、袁紹の試探攻撃は退く。しかし川向こうからの報告はより複雑な状況を伝えている。袁紹軍は動揺している——損失は甚大だ。しかし崩壊はしていない。袁紹自身が、彼には珍しい果断な一瞬に、将軍たちを糾合し、残存の兵糧を配給制にして戦役を続けると宣言する。張郃と高覧はなお動揺しているが、まだ離反しない。\n\n戦いはまだ終わっていない。あなたは壊滅的な一撃を与え、袁紹の立場は深刻に弱体化した。しかし今後数週間で止めを刺す方法を見つけなければならない。戦役は終わっていない——ただその性質が変わっただけだ。余裕は薄く、結果の確実性は低い。北方は今のところまだ争われている。",
+        "zh-CN": "撤退命令下达，你的骑兵井然有序地撤出，疾驰回官渡。身后的大火仍在燃烧——粮仓四分之三已付之一炬，烟柱在你策马离去时仍依稀可见。袁绍的援骑抵达乌巢时，最惨重的破坏已无可挽回，若动作迅速，或许还能抢救出约四分之一的存粮。\n\n回到官渡，你的归来稳住了守军，袁绍的试探进攻随之撤退。然而来自河对岸的报告呈现出更为复杂的局面。袁绍军人心惶惶——损失极为惨重。但大军并未崩溃。袁绍本人在他罕见的果决时刻，召集将领，宣布对残余粮草实行配给，继续坚持战役。张郃与高览仍在动摇，却尚未倒戈。\n\n战事尚未终结。你打出了沉重一击，袁绍的处境已岌岌可危。但在接下来的数周内，你仍需寻找给予致命一击的方法，因为战役并未结束——只是换了一种形态。胜算的余地更薄，结局更难确定。北方的归属，暂时仍悬而未决。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 15 },
+        { "variable": "yuanShaoMorale", "operation": "add", "value": -30 },
+        { "variable": "caoCaoMorale", "operation": "add", "value": 10 },
+        { "variable": "supplyStatus", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

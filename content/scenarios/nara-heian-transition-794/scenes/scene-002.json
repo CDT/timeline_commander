@@ -1,0 +1,69 @@
+{
+  "sceneId": "scene-002",
+  "scenarioId": "nara-heian-transition-794",
+  "title": {
+    "en": "The Curse of Prince Sawara",
+    "ja": "早良親王の呪い",
+    "zh-CN": "早良亲王的诅咒"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-003",
+  "background": {
+    "en": "793 AD. Construction at the Yamashiro site is well advanced. But the court is frightened. Your empress has died suddenly. A mysterious illness is sweeping through the capital. Floods have damaged the construction site twice. Diviners and court officials near-unanimously attribute these disasters to the vengeful spirit of your brother Prince Sawara, who died in exile after being blamed for the assassination of the construction supervisor at Nagaoka. You do not personally believe the curse — but many of your closest advisors do, and their fear is affecting the entire construction project.",
+    "ja": "793年。山背での建設は順調に進んでいる。しかし宮廷は怯えている。皇后が突然崩御した。謎の病が都を席巻している。洪水が建設現場を二度損傷した。陰陽師と宮廷官僚はほぼ全員がこれらの災難を、長岡での建設監督の暗殺を非難されて流罪先で死去したあなたの弟・早良親王の怨霊のせいだと言う。あなた個人は呪いを信じていない——しかし最も近い顧問たちの多くは信じており、彼らの恐怖が建設事業全体に影響を与えている。",
+    "zh-CN": "公元793年。山背选址的建设工程进展顺利。但朝廷人心惶惶。皇后突然薨逝，神秘的疾疫横扫都城，洪水两度损毁建设工地。阴阳师与宫廷官员几乎异口同声，将这些灾难归咎于早良亲王的怨灵——你的兄弟，因被指控参与长冈建设监督被刺案而遭流放，客死途中。你个人并不相信诅咒——但你最亲近的顾问们大多信以为真，他们的恐惧正在影响整个建设工程。"
+  },
+  "prompt": {
+    "en": "You must address the curse question before it paralyzes the project. The diviners propose two options: hold elaborate posthumous ceremonies to appease Prince Sawara's spirit, or posthumously elevate him to full imperial rank, acknowledging his innocence and treating his death as unjust. Both address the spiritual concern — but they have very different political implications.",
+    "ja": "事業が麻痺する前に呪いの問題に対処しなければならない。陰陽師たちが二つの選択肢を提案する：早良親王の御霊を慰めるための精緻な追悼の儀式を行うか、または彼を没後に完全な皇位に昇格させ、無実を認めてその死を不当と扱うか。どちらも霊的な懸念に対処するが——政治的な含意は大きく異なる。",
+    "zh-CN": "你必须在工程陷入瘫痪之前解决诅咒问题。阴阳师提出两种方案：举行精心的追悼仪式以安抚早良亲王的亡灵；或追封他为天皇尊位，承认其无辜，将其死亡视为不公正之举。两者都能应对灵异之忧——但政治含意却大相径庭。"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Perform elaborate appeasement ceremonies",
+        "ja": "精緻な慰霊の儀式を行う",
+        "zh-CN": "举行精心的慰灵仪式"
+      },
+      "description": {
+        "en": "Commission extensive Buddhist memorial services and Shinto purification rituals for Prince Sawara's spirit, without making any political acknowledgment of wrongdoing. The ceremonies are sincere — you will spare no expense — but they stop short of rewriting the official record of events at Nagaoka. This satisfies spiritual protocols without reopening politically dangerous questions about your own role in your brother's fate.",
+        "ja": "早良親王の御霊のために、長岡での出来事の公式記録を書き直すことなく、政治的に不正行為を認めることなく、広範な仏教の追悼法要と神道の禊の儀式を委託する。儀式は誠実なものだ——費用を惜しまない——しかしそれは長岡での出来事の公式記録を書き直すには至らない。これは自分の弟の運命における自分自身の役割について政治的に危険な問いを再び開かずに霊的なプロトコルを満たす。",
+        "zh-CN": "委托为早良亲王亡灵举行大规模佛教追悼法事和神道祓除仪式，不作任何政治上承认过失的表示。仪式是诚心诚意的——不惜花费——但止步于重写长冈事件的官方记录。这在不重新开启有关你在兄弟命运中所扮演角色这一政治敏感问题的前提下，满足了灵异礼仪的要求。"
+      },
+      "outcome": {
+        "en": "The ceremonies are magnificent and the diviners declare the spirit partially appeased. Disasters continue for another year, but at a reduced pace that allows construction to proceed. The illness in the capital eventually passes. Most court officials accept the resolution. You have handled the crisis without creating a political precedent that could be used against you.",
+        "ja": "儀式は壮麗で、陰陽師たちは御霊が部分的に慰められたと宣言する。災害はもう一年続くが、建設を進められる程度の速度に減少する。都の病は最終的に収まる。ほとんどの宮廷官僚が解決策を受け入れる。あなたは自分に対して使われる可能性のある政治的前例を作ることなく危機を処理した。",
+        "zh-CN": "仪式庄严隆重，阴阳师宣布亡灵已得到部分安慰。灾难又持续了一年，但频率有所降低，足以让建设工程继续推进。都城中的疫病最终平息。大多数宫廷官员接受了这一解决方案。你在未创造可能被用于对付自己的政治先例的前提下，妥善处理了这场危机。"
+      },
+      "stateChanges": [
+        { "variable": "courtSupport", "operation": "add", "value": 12 },
+        { "variable": "capitalProgress", "operation": "add", "value": 15 },
+        { "variable": "imperialPrestige", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Posthumously elevate Sawara to imperial status",
+        "ja": "早良を没後に皇帝の地位に昇格させる",
+        "zh-CN": "追封早良为天皇尊位"
+      },
+      "description": {
+        "en": "Declare Prince Sawara posthumously as Emperor Sudo, acknowledging that the original charges against him were unjust and his exile and death were wrongs committed by the state. This is a profound act of imperial clemency — and an implicit admission of guilt. It will fully appease the spiritual crisis and demonstrate your magnanimity. The cost: it opens questions about the original judicial proceedings and your family's role in your brother's death.",
+        "ja": "早良親王を没後に崇道天皇として宣言し、彼に対する当初の罪状が不当であり、流罪と死が国家によって犯された過ちであることを認める。これは皇帝の寛大さの深い行為だ——そして過ちの暗黙の承認だ。それは霊的危機を完全に鎮め、あなたの寛大さを示す。代償：当初の司法手続きとあなたの弟の死におけるあなたの家族の役割についての問いを開く。",
+        "zh-CN": "追封早良亲王为崇道天皇，承认当初对他的指控不公正，流放与死亡是国家犯下的过错。这是一种深刻的皇室宽仁之举——也是对过失的隐性承认。它将完全平息灵异危机，彰显你的宽厚。代价：这将引发对当初司法程序以及你的家族在兄弟之死中所扮演角色的追问。"
+      },
+      "outcome": {
+        "en": "The posthumous elevation resolves the spiritual crisis dramatically — diviners declare the spirit fully pacified. The disasters stop almost immediately. Court confidence in the capital project soars. But political opponents use the acknowledgment of injustice to question your family's conduct at Nagaoka. The debates are managed, but the question lingers in court memory for a generation.",
+        "ja": "没後の昇格は霊的危機を劇的に解決する——陰陽師たちは御霊が完全に鎮まったと宣言する。災害はほぼ即座に止まる。遷都事業への宮廷の信頼が急上昇する。しかし政治的反対者が不公正の認識を利用して長岡でのあなたの家族の行為を問う。議論は管理されるが、問いは一世代にわたって宮廷の記憶に残る。",
+        "zh-CN": "追封天皇之举戏剧性地化解了灵异危机——阴阳师宣布亡灵已完全平息。灾难几乎立即停止，朝廷对迁都工程的信心大增。然而政治对手借助这一认错，质疑你的家族在长冈的行为。争论得到控制，但这一问题在宫廷记忆中萦绕了整整一代人。"
+      },
+      "stateChanges": [
+        { "variable": "courtSupport", "operation": "add", "value": 20 },
+        { "variable": "capitalProgress", "operation": "add", "value": 20 },
+        { "variable": "imperialPrestige", "operation": "add", "value": -10 }
+      ]
+    }
+  ]
+}

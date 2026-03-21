@@ -1,0 +1,76 @@
+{
+  "sceneId": "scene-001",
+  "scenarioId": "baekgang-663",
+  "title": {
+    "en": "The Council Before the River",
+    "ja": "川の前の軍議",
+    "zh-CN": "江前军议"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-002",
+  "background": {
+    "en": "August 25, 663 AD. You are Buyeo Pung, restored king of Baekje, commanding the allied Baekje-Yamato force from the fortress of Churyu on the Baekgang River. The Japanese fleet — over 1,000 ships — has arrived in the estuary. The Tang fleet under Liu Rengui has 170 warships but they are larger, heavier, and better armed than the Japanese vessels. Your generals are arguing about strategy. Japanese admiral Abe no Hirafu and his colleagues believe sheer numbers will overwhelm the Tang fleet if they attack aggressively in concentrated waves. Your surviving Baekje commanders, who have seen Tang warfare up close, urge caution and a defensive river position.",
+    "ja": "663年8月25日。あなたは扶余豊璋、百済の回復された王で、白村江沿いの周留城から百済・倭連合軍を指揮している。倭の艦隊——1,000隻以上の船——が河口に到着した。劉仁軌率いる唐の艦隊には170隻の戦艦があるが、倭の船より大きく、重く、武装も優れている。将軍たちが戦略について議論している。阿倍比羅夫と日本の提督たちは、集中した波状攻撃で積極的に攻撃すれば純粋な数が唐の艦隊を圧倒するだろうと信じている。唐の戦争を間近で見てきた生き残りの百済指揮官たちは、慎重に川の防衛陣地を取るよう主張する。",
+    "zh-CN": "公元663年8月25日。你是扶余丰璋，百济复位国王，从白江河畔的周留城指挥百济倭国联军。倭国舰队——逾千艘战船——已抵达河口。刘仁轨率领的唐军舰队有170艘战舰，但比倭船更大、更重、武装更精良。你的将领们正就战略争论不休。阿倍比罗夫及日本将领们相信，若以密集波次发动积极攻击，单凭数量便能压垮唐朝舰队。亲眼目睹过唐军作战的幸存百济指挥官们则力主谨慎，坚守江上防御阵地。"
+  },
+  "prompt": {
+    "en": "You must decide the battle strategy before dawn tomorrow. Your Yamato allies are eager to fight — they believe their numerical superiority is decisive. Your Baekje veterans counsel that Tang ships are fundamentally superior in open water engagements and that you should use the river's narrowness to neutralize their advantage. As king, the decision is yours.",
+    "ja": "明日の夜明け前に戦闘戦略を決定しなければならない。倭の同盟国たちは戦いたがっている——数的優位が決定的だと信じている。百済のベテランたちは、唐の船は開けた水域の交戦で根本的に優れており、川の狭さを利用して彼らの優位を中和すべきだと助言する。王として、決断はあなたにある。",
+    "zh-CN": "你必须在明天黎明前决定作战策略。倭国盟友急于开战——他们相信数量优势具有决定性意义。百济老兵们则提醒，唐船在开阔水域交战中从根本上占优，应利用江面的狭窄来化解其优势。身为国王，决断权在你。"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Support the Yamato admirals — attack in concentrated waves",
+        "ja": "大和提督を支持する——集中波状攻撃",
+        "zh-CN": "支持倭国将领——以密集波次发动攻击"
+      },
+      "description": {
+        "en": "Align with the Japanese commanders. Launch the full fleet in four concentrated attack waves, using the numbers advantage to overwhelm the Tang fleet before they can deploy their fire weapons effectively. The risk: Tang vessels are higher-sided and the river is wide enough for them to maneuver. The reward if it works: the Tang fleet is overwhelmed and Baekje lives.",
+        "ja": "日本の指揮官たちに賛同する。全艦隊を四つの集中攻撃波として展開し、唐が効果的に火器を展開する前に数的優位で圧倒する。リスク：唐の船は舷側が高く、川は彼らが機動するのに十分な広さがある。成功した場合の報酬：唐の艦隊が圧倒されて百済が生き残る。",
+        "zh-CN": "与日本指挥官保持一致。以四波密集攻击发动全舰队，趁唐军有效部署火器之前以数量优势将其压垮。风险：唐船舷侧更高，江面足够宽阔供其机动。若成功的回报：唐军舰队被压制，百济得以生存。"
+      },
+      "outcome": {
+        "en": "The Yamato admirals take the decision as validation and launch the attack with enormous confidence. The first wave crashes against the Tang line — and finds that Tang ships are simply higher, better armed, and that Japanese arrows cannot reach the Tang archers shooting down from above. The Tang fire attacks ignite wave after wave of Japanese vessels. The fourth wave collapses in fire and panic.",
+        "ja": "大和の提督たちは決断を支持として受け取り、莫大な自信を持って攻撃を開始する。第一波が唐の戦線に激突する——そして唐の船は単純に高く、武装も優れており、日本の矢が上から射ち下ろす唐の弓兵に届かないことがわかる。唐の火攻めが次々と倭の船を燃やす。第四波が炎と恐慌の中で崩壊する。",
+        "zh-CN": "倭国将领们将此视为认可，以巨大的信心发动攻击。第一波冲向唐军战线——却发现唐船更高、武装更精良，倭军箭矢根本无法射到从高处俯射的唐军弓手。唐军火攻一波又一波地点燃倭国战船。第四波在烈火与恐慌中土崩瓦解。"
+      },
+      "stateChanges": [
+        { "variable": "yamatoNavy", "operation": "add", "value": -20 },
+        { "variable": "tangNavalStrength", "operation": "add", "value": 10 },
+        { "variable": "allianceCohesion", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Follow your Baekje veterans — use the river defensively",
+        "ja": "百済のベテランたちに従う——川を防衛的に使う",
+        "zh-CN": "听从百济老兵建议——以防御方式利用江面"
+      },
+      "description": {
+        "en": "Overrule the Japanese admirals — a politically costly move — and position the fleet in the narrowest part of the Baekgang channel, where Tang numbers advantage disappears and their larger ships cannot maneuver. Force the Tang fleet to come to you in the narrows. If the Tang attack, they come in smaller groups that can be met with concentrated resistance.",
+        "ja": "日本の提督たちを否決する——政治的にコストのかかる動き——そして艦隊を白村江の最も狭い部分に配置する。そこでは唐の数的優位が消え、より大きな船が機動できない。唐の艦隊を狭い水路であなたのところに来させる。唐が攻撃してくれば、集中した抵抗で迎えられる小さなグループでやってくる。",
+        "zh-CN": "否决日本将领们——这是政治上代价高昂的举动——将舰队部署在白江最狭窄的水道处，在那里唐军数量优势消失，更大的战船无法机动。迫使唐朝舰队来狭水处与你交战。若唐军来攻，他们将以较小的群体接近，可以集中抵抗迎敌。"
+      },
+      "outcome": {
+        "en": "The Japanese admirals are furious — they believe you are throwing away your greatest advantage. Alliance tension spikes. But the river position is sound. Tang ships probe the narrows cautiously. The first skirmish is inconclusive — neither side can decisively engage. You have bought time, but the Yamato admirals are chafing. Pressure mounts to resume the offensive.",
+        "ja": "大和の提督たちは激怒する——最大の優位を捨てていると信じる。同盟の緊張が高まる。しかし川の陣地は堅固だ。唐の船が慎重に狭い水路を探る。最初の小競り合いは決着がつかない——どちらの側も決定的に交戦できない。時間を稼いだが、大和の提督たちは苦々しく思っている。攻撃再開への圧力が高まる。",
+        "zh-CN": "倭国将领们勃然大怒——他们认为你正在白白葬送最大的优势。联盟紧张局势骤然升温。但江上阵地本身是稳固的。唐船谨慎地探测狭水道。首次小规模冲突不分胜负——双方都无法决定性地交战。你赢得了时间，但倭国将领们愤愤不平。重启进攻的压力持续升高。"
+      },
+      "stateChanges": [
+        { "variable": "riverPosition", "operation": "add", "value": 20 },
+        { "variable": "allianceCohesion", "operation": "add", "value": -15 },
+        { "variable": "baekjeMorale", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "initialState": {
+    "baekjeMorale": 55,
+    "yamatoNavy": 70,
+    "tangNavalStrength": 65,
+    "riverPosition": 45,
+    "allianceCohesion": 50
+  }
+}

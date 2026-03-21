@@ -1,0 +1,91 @@
+{
+  "scenarioId": "genpei-war-1185",
+  "timeline": [
+    {
+      "date": "1180-05-01",
+      "description": {
+        "en": "Prince Mochihito issues a call to arms against the Taira, triggering the Genpei War. Minamoto no Yoritomo and other Minamoto chieftains begin raising armies.",
+        "ja": "以仁王が平氏打倒の令旨を発し、源平合戦が幕を開ける。源頼朝をはじめとする源氏の頭領たちが挙兵し始める。",
+        "zh-CN": "以仁王发出讨伐平氏的令旨，源平合战爆发。源赖朝等源氏首领相继举兵。"
+      }
+    },
+    {
+      "date": "1183-06-01",
+      "description": {
+        "en": "Minamoto no Yoshinaka defeats the Taira at the Battle of Kurikara, forcing the Taira to flee Kyoto with Emperor Antoku and the Sacred Treasures.",
+        "ja": "源義仲が倶利伽羅峠の戦いで平氏を破り、平氏は安徳天皇と三種の神器を奉じて京を脱出する。",
+        "zh-CN": "源义仲在俱利伽罗峠之战中击败平氏，平氏携安德天皇与三种神器仓皇出逃京都。"
+      }
+    },
+    {
+      "date": "1184-02-01",
+      "description": {
+        "en": "Minamoto no Yoshitsune defeats the Taira at the Battle of Ichinotani, famously leading cavalry down sheer cliffs to attack the Taira camp from above.",
+        "ja": "源義経が一ノ谷の戦いで平氏を打ち破る。断崖を馬で駆け下り、平氏の陣を上方から急襲したことで名高い。",
+        "zh-CN": "源义经在一之谷之战中击败平氏，以骑兵从峭壁冲下、自上方奇袭平氏营地而名垂青史。"
+      }
+    },
+    {
+      "date": "1185-02-01",
+      "description": {
+        "en": "Yoshitsune launches a night raid on the Taira fleet at Yashima across stormy seas, surprising the Taira on land and forcing them to retreat by sea.",
+        "ja": "義経が嵐の海を越えて屋島の平氏水軍に夜襲をかけ、陸上で奇襲を受けた平氏は海上に退却を余儀なくされる。",
+        "zh-CN": "义经率军横越暴风雨中的大海，对屋岛的平氏舰队发动夜袭，平氏遭受奇袭后被迫撤退入海。"
+      }
+    },
+    {
+      "date": "1185-04-25",
+      "description": {
+        "en": "The Battle of Dan-no-ura begins in the Kanmon Strait. The Taira initially hold an advantage due to favorable tidal currents and superior seamanship.",
+        "ja": "壇ノ浦の戦いが関門海峡で始まる。潮流の優位と優れた海戦能力により、平氏は当初優勢を保つ。",
+        "zh-CN": "坛之浦之战在关门海峡打响。平氏凭借有利的潮流与精湛的海战技艺，初期占据上风。"
+      }
+    },
+    {
+      "date": "1185-04-25",
+      "description": {
+        "en": "The tidal current reverses. Yoshitsune orders his archers to target Taira rowers and helmsmen, immobilizing the enemy fleet. Taira commander Tomomori recognizes that all is lost.",
+        "ja": "潮流が逆転する。義経は弓兵に平氏の水手や舵取りを狙うよう命じ、敵艦隊を動けなくする。平氏の総大将・知盛はすべてが終わったと悟る。",
+        "zh-CN": "潮流逆转。义经命弓手射击平氏的划桨手与舵手，使敌舰动弹不得。平氏主将知盛意识到大势已去。"
+      }
+    },
+    {
+      "date": "1185-04-25",
+      "description": {
+        "en": "Lady Nii, grandmother of Emperor Antoku, takes the seven-year-old emperor in her arms and walks into the sea. Most senior Taira warriors and noblewomen follow, committing mass suicide by drowning. The sacred sword Kusanagi is lost to the sea.",
+        "ja": "安徳天皇の祖母・二位尼が7歳の天皇を腕に抱いて海中へと身を投じる。平氏の上級武士や公達のほとんどが後に続き、集団入水する。草薙剣が海中に沈む。",
+        "zh-CN": "安德天皇祖母二位尼将七岁的天皇抱入怀中，走入大海。平氏大多数高级武士与贵族女眷随之投海，集体殉死。草薙剑沉入海底。"
+      }
+    },
+    {
+      "date": "1185-11-01",
+      "description": {
+        "en": "Minamoto no Yoritomo establishes the Kamakura Shogunate, inaugurating Japan's first warrior government. Yoshitsune, falsely accused of treason, is declared a fugitive by his own brother.",
+        "ja": "源頼朝が鎌倉幕府を開き、日本初の武家政権が誕生する。義経は謀反の濡れ衣を着せられ、実兄によって追討の対象とされる。",
+        "zh-CN": "源赖朝建立镰仓幕府，日本第一个武家政权诞生。义经遭亲兄诬以谋反，被宣布为叛逆追捕。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Minamoto won a complete naval victory at Dan-no-ura, annihilating the Taira clan as a political and military power. Emperor Antoku drowned with Lady Nii. The sacred sword Kusanagi was lost to the sea and has never been recovered. Go-Toba was enthroned as Emperor. Minamoto no Yoritomo established the Kamakura Shogunate in 1185, beginning the era of samurai governance in Japan.",
+    "ja": "壇ノ浦において源氏は完全な海戦の勝利を収め、平氏を政治的・軍事的勢力として壊滅させた。安徳天皇は二位尼とともに入水した。草薙剣は海中に沈んだまま、今日に至るまで発見されていない。後鳥羽天皇が即位した。源頼朝は1185年に鎌倉幕府を開き、武家による統治の時代が始まった。",
+    "zh-CN": "源氏在坛之浦取得了完全的海战胜利，将平氏作为政治与军事力量彻底消灭。安德天皇随二位尼一同溺亡。草薙剑沉入大海，至今未被找回。后鸟羽天皇即位。源赖朝于1185年建立镰仓幕府，开启了武家统治的时代。"
+  },
+  "casualties": {
+    "en": "Estimated several thousand Taira warriors and clan members killed or drowned. The child Emperor Antoku (age 7) and Lady Nii among those who drowned. Minamoto casualties were significantly lower.",
+    "ja": "平氏の武士や一族のうち、数千人が討たれ、あるいは入水したと推定される。安徳天皇（7歳）と二位尼も入水者に含まれる。源氏の損害は大幅に少なかった。",
+    "zh-CN": "估计数千名平氏武士及族人战死或溺亡。七岁的安德天皇与二位尼在溺亡者之列。源氏伤亡人数明显较少。"
+  },
+  "significance": {
+    "en": "Dan-no-ura ended the Heian period and the civilian aristocratic rule of Japan. It established the precedent of military (samurai) governance that defined Japan for the next 700 years through the Kamakura, Muromachi, Sengoku, and Edo periods. The tragedy embedded itself into Japanese literary culture through the Heike Monogatari (Tale of the Heike), one of Japan's greatest literary works.",
+    "ja": "壇ノ浦の戦いは平安時代と文人貴族による統治に終止符を打った。その後700年間にわたる武家政治の先例を確立し、鎌倉・室町・戦国・江戸時代を通じて日本を規定した。この悲劇は日本文学の最高傑作『平家物語』を通じて日本の文化に深く刻み込まれた。",
+    "zh-CN": "坛之浦之战终结了平安时代与日本文人贵族的统治，确立了此后七百年武家政治的先例。这场悲剧通过日本最伟大的文学作品之一《平家物语》深深嵌入日本文化记忆。"
+  },
+  "furtherReading": [
+    "The Tale of the Heike (Heike Monogatari), translated by Royall Tyler (Penguin Classics, 2012)",
+    "Ivan Morris, The Nobility of Failure: Tragic Heroes in the History of Japan (1975)",
+    "Stephen Turnbull, The Genpei War 1180-85: The Great Samurai Civil War (Osprey, 2010)",
+    "Helen Craig McCullough, Yoshitsune: A Fifteenth-Century Japanese Chronicle (1966)",
+    "Thomas D. Conlan, Weapons and Fighting Techniques of the Samurai Warrior 1200-1877 (2008)"
+  ]
+}

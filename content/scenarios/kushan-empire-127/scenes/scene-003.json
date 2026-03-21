@@ -1,0 +1,113 @@
+{
+  "id": "kushan-empire-127-scene-003",
+  "scenarioId": "kushan-empire-127",
+  "title": {
+    "en": "The Succession Question",
+    "ja": "後継者問題",
+    "zh-CN": "继承人之问"
+  },
+  "date": {
+    "en": "c. 150 AD — Late Reign of Kanishka I",
+    "ja": "紀元150年頃 — カニシュカ1世治世晩期",
+    "zh-CN": "约公元150年 — 卡尼什卡一世晚年"
+  },
+  "location": {
+    "en": "Purushapura (modern Peshawar), Kushan Royal Court",
+    "ja": "プルシャプラ（現ペシャーワル）、クシャーン王宮",
+    "zh-CN": "布路沙布逻（今白沙瓦），贵霜王宫"
+  },
+  "narrativePrompt": {
+    "en": "The years have not been unkind to the empire, but they have been unkind to you. The campaigns are behind you — the long marches into the Gangetic plain, the embassies to Rome and Han China, the councils of Buddhist monks in Kashmir where scholars spoke for weeks and the lamps burned through cold mountain nights. Your empire stretches from Bactria to the mouth of the Indus, from the Fergana valley to the burning plains of Mathura. No ruler in the world commands a crossroads of such consequence.\n\nBut empires are only as durable as the men who inherit them. You have sons — more than one — and each believes himself most fit to wear the diadem that has sat upon your head for a generation. Your counselors speak carefully, watching your face as they speak, measuring which answer you wish to hear before they give it. Your Buddhist advisors speak of the dharma of righteous kingship. Your Zoroastrian nobles speak of blood and lineage. Your Hellenistic administrators speak of law and clear succession. None of them agrees, and time, you know, is no longer something you can spend as freely as you once did.\n\nTwo paths lie before you, and the empire's fate rests in the choosing. You may name one son as sole heir, concentrating power in a single hand — the surest method of maintaining the empire's unity, but a declaration that will breed resentment among the others and perhaps precipitate the very conflict you seek to prevent. Or you may divide the empire among your sons, giving each a territory commensurate with his abilities, hoping that brotherhood and shared heritage will hold the pieces together — but knowing, in the part of yourself that has governed for decades, that fragmentation, once begun, is rarely stopped.",
+    "ja": "歳月は帝国に対してそれほど無慈悲ではなかったが、あなたに対しては無慈悲だった。遠征はすべて過去のことだ——ガンジス平野への長い進軍、ローマと漢への使節団、カシミールで学者たちが幾週間も語り続け、冷たい山の夜に灯が燃え続けた仏典結集。あなたの帝国はバクトリアからインダス川河口まで、フェルガナ盆地からマトゥラーの灼熱の平原まで広がっている。これほど重要な交差点を支配する君主は世界にいない。\n\nしかし帝国の耐久性は、それを継ぐ者たちと同じだけの強さしかない。あなたには息子たちがいる——一人ではなく——そして誰もが、一代をかけてあなたの頭上に置かれてきた王冠を戴くのに自分こそ最もふさわしいと信じている。顧問たちはあなたの顔を伺いながら慎重に言葉を選ぶ。仏教の助言者たちは正しい王権のダルマについて語る。ゾロアスター教の貴族たちは血統と系譜について語る。ヘレニズムの行政官たちは法律と明確な継承について語る。誰も同意せず、あなたはもはや時間を以前のように自由に使えないことを知っている。\n\n二つの道があなたの前に横たわっている。一人の息子を唯一の後継者として指名し、権力を一つの手に集中させること——帝国の統一を維持する最も確実な方法だが、他の息子たちの中に憤りを生み、あなたが防ごうとしている紛争そのものを引き起こしかねない宣言だ。あるいは帝国を息子たちで分割し、それぞれの能力に見合った領土を与え、兄弟愛と共有の遺産が部分を一体に保つことを願うこと——しかし数十年間統治してきた自分の内なる部分では、一度始まった分裂はほとんど止まらないということを知っている。",
+    "zh-CN": "岁月对帝国并不算太无情，但对你却毫不留情。那些征伐岁月已成过去——进入恒河平原的漫长行军，前往罗马与汉朝的使节之行，克什米尔那场学者们论辩数周、山间寒夜灯火不熄的佛典结集。你的帝国从巴克特里亚延伸至印度河河口，从费尔干纳河谷延伸至马图拉的炙热平原。世界上没有哪位君主掌控着如此举足轻重的十字路口。\n\n然而，帝国的持久性与继承它的人一样。你有儿子们——不止一个——每一个都相信自己最有资格戴上那顶在你头顶放置了整整一代的王冠。顾问们小心措辞，说话时打量着你的神情，先揣度你希望听到什么答案再开口。佛教谋士谈论正法王权的达摩。拜火教贵族谈论血统与世系。希腊化行政官谈论法律与清晰的继承秩序。没有人意见相同，而你清楚，时间已不再是你能像往昔那般随意挥霍的东西。\n\n两条道路横陈于你面前，帝国的命运系于这一选择。你可以指定一个儿子为唯一继承人，将权力集中于一人之手——维持帝国统一的最稳妥之法，但这一宣示将在其他儿子心中种下怨恨，或许反而引发你本欲阻止的纷争。或者，你可以将帝国分割给诸子，各自依照才能授予相应领土，寄望于手足情谊与共同遗产能将各部分凝聚在一起——然而，在那个执政数十年的内心深处，你知道，分裂一旦开始，便鲜有停止之时。"
+  },
+  "situationReport": [
+    {
+      "en": "The empire at its greatest extent: territory stretches from Bactria to the Indus delta and from the Fergana valley to Mathura, encompassing the most productive Silk Road trade routes in the ancient world.",
+      "ja": "帝国は最大版図に達している：バクトリアからインダス川デルタ、フェルガナ盆地からマトゥラーまで広がり、古代世界で最も生産性の高いシルクロードの交易路を包括している。",
+      "zh-CN": "帝国版图达到最大：从巴克特里亚至印度河三角洲，从费尔干纳盆地至马图拉，涵盖了古代世界最具生产力的丝绸之路贸易路线。"
+    },
+    {
+      "en": "Multiple sons with competing claims: each has established connections among different factions of the nobility, military, and clergy, making any choice politically sensitive.",
+      "ja": "複数の息子が互いに競合する継承権を持つ：それぞれが貴族・軍・聖職者の異なる派閥との繋がりを築いており、いかなる選択も政治的に繊細だ。",
+      "zh-CN": "多名儿子各持竞争性继承主张：每人都在贵族、军队与宗教人士的不同派系中建立了各自的关系，任何选择都政治敏感。"
+    },
+    {
+      "en": "Buddhist institutions — energized by the Fourth Council and the Gandhara artistic renaissance — are now embedded throughout the empire and will be affected by any succession instability.",
+      "ja": "第四回結集とガンダーラ芸術の再生によって活性化された仏教施設は、今や帝国全体に根を張っており、いかなる継承の不安定さにも影響を受ける。",
+      "zh-CN": "在第四次结集与犍陀罗艺术复兴的激励下，佛教机构现已遍布帝国各地，任何继承动荡都将波及其中。"
+    },
+    {
+      "en": "Sassanid Persia is rising in the west and the Parthians are weakening — the empire's western frontier will require sustained attention from whatever ruler follows you.",
+      "ja": "西方ではサーサーン朝ペルシアが台頭しパルティアが弱体化している。帝国の西部国境は、あなたの後継者にかかわらず継続的な注意を要するだろう。",
+      "zh-CN": "西方萨珊波斯正在崛起，帕提亚日趋式微——无论谁继承你，帝国西部边疆都将需要持续关注。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Secure a succession arrangement that preserves the political and commercial unity of the Kushan Empire",
+      "ja": "クシャーン帝国の政治的・商業的統一を維持する継承体制を確保する",
+      "zh-CN": "确保一种能够维护贵霜帝国政治与商业统一的继承安排"
+    },
+    {
+      "en": "Protect the Buddhist and cultural legacy that defines the Kushan Empire's place in history",
+      "ja": "クシャーン帝国の歴史的地位を定義する仏教的・文化的遺産を守る",
+      "zh-CN": "保护界定贵霜帝国历史地位的佛教与文化遗产"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "No legal or religious framework exists to enforce a succession decree once you are gone — only loyalty, fear, and the bonds of kinship",
+      "ja": "あなたが去った後に継承の勅令を強制できる法的・宗教的枠組みは存在しない——忠誠心、恐れ、そして血縁の絆のみがある",
+      "zh-CN": "一旦你离去，便不存在任何能够强制执行继承诏令的法律或宗教框架——只有忠诚、恐惧与血缘纽带"
+    },
+    {
+      "en": "Whichever son is not chosen — or receives a lesser portion — retains his own network of allies and his own ambitions",
+      "ja": "選ばれなかった息子、あるいはより少ない領分しか与えられなかった息子は、自分自身の同盟者のネットワークと野望を持ち続ける",
+      "zh-CN": "未被选中或所得份额较少的儿子，将保留各自的盟友网络与政治野心"
+    }
+  ],
+  "choices": [
+    {
+      "id": "kushan-empire-127-scene-003-choice-a",
+      "text": {
+        "en": "Declare one son as sole heir and supreme ruler of the entire Kushan Empire, with your other sons serving as subordinate governors bound by oath",
+        "ja": "一人の息子をクシャーン帝国全体の唯一の後継者・最高統治者として宣言し、他の息子たちは誓いに縛られた従属的な太守として仕えさせる",
+        "zh-CN": "宣布一名儿子为整个贵霜帝国的唯一继承人与最高统治者，其余儿子以誓约约束，担任从属总督"
+      },
+      "historicalContext": "Concentrated succession was the model advocated by Kanishka's Hellenistic and Iranian administrative traditions. However, in practice the Kushan succession after Kanishka's death was contested, and later emperors such as Huvishka and Vasudeva I had to fight or maneuver to consolidate power.",
+      "outcomePrompt": {
+        "en": "The ceremony is solemn and the oaths are sworn before the assembled court — Buddhist monks, Zoroastrian priests, Greek-speaking merchants, and Bactrian nobles all witness the declaration. Your chosen son receives the diadem and the symbols of Kushan sovereignty: the coins bearing the image of Kanishka, the imperial correspondence seals, the command of the royal bodyguard. He is visibly moved, and visibly nervous.\n\nThe others are not moved. They bow when they must, and they leave when they may, and in the days that follow, you notice how the court rearranges itself — old friends clustering around disappointed sons, whispered conversations that stop when you enter a room. You do not have the strength to pursue these currents to their source. You have made your choice, and the machinery of succession has begun to move.\n\nWhat history will show is this: the single-heir model holds — barely — through the reign of your successor, who proves competent if not brilliant. But the sons you did not choose, and their sons after them, never fully accept the decision. The Kushan Empire after your generation will fragment into eastern and western branches, and though the empire endures in name for another century, the unified commercial and spiritual power you created will gradually disperse. The Silk Road will still carry goods and ideas, but no single Kushan hand will guide it all. The Buddhist legacy you seeded, however, will prove more durable than any dynasty — the monks will still walk the road when the last Kushan coin has been melted down for another ruler's treasury.",
+        "ja": "式典は厳粛に執り行われ、集まった廷臣たちの前で誓いが交わされる——仏教の僧侶、ゾロアスターの祭司、ギリシャ語を話す商人、バクトリアの貴族たちが宣言を見届ける。選ばれた息子は王冠とクシャーンの主権を象徴するものを受け取る：カニシュカの像が刻まれた貨幣、皇帝の文書印鑑、王室護衛隊の指揮権。彼は明らかに感動し、明らかに緊張している。\n\n他の息子たちは感動していない。彼らは必要な時に頭を垂れ、可能な時に去っていく。その後の日々、宮廷がどのように再編されていくかに気づく——失望した息子たちの周りに集まる旧友たち、あなたが部屋に入ると止まってしまう囁き声。あなたにはもはやこれらの流れをその源まで追う力はない。選択は済んだ。継承の仕組みが動き始めた。\n\n歴史が示すことはこうだ：単一相続モデルは——かろうじて——あなたの後継者の治世を通じて保たれる。彼は非凡とは言えないが、有能であることを証明する。しかしあなたが選ばなかった息子たちと、その後の孫たちは、この決定を完全には受け入れない。あなたの世代の後、クシャーン帝国は東西の支流に分裂し、帝国は名目上さらに一世紀存続するが、あなたが作り出した統一された商業的・精神的権力は徐々に散り散りになっていく。シルクロードは引き続き物資と思想を運ぶが、すべてを導くクシャーンの単一の手はもはや存在しない。しかしあなたが蒔いた仏教の遺産は、いかなる王朝よりも長く残るだろう——最後のクシャーンの貨幣が別の支配者の宝庫のために溶かされた後も、僧侶たちはまだその道を歩み続けるだろう。",
+        "zh-CN": "典礼庄严隆重，誓言在聚集的朝臣面前郑重宣誓——佛教僧侣、拜火教祭司、说希腊语的商人、巴克特里亚贵族，皆见证了这一宣告。你选定的儿子接过王冠与贵霜主权的象征：铸有卡尼什卡像的钱币、皇室文书印章、王室护卫队的指挥权。他显然深受感动，也显然满怀紧张。\n\n其他儿子并不感动。他们在必须时俯首，在可以时离去。此后数日，你注意到宫廷如何重新排列自身——旧日故交聚拢在失意儿子们周围，低语的交谈在你踏入房间时戛然而止。你已没有力气将这些暗流追溯至源头。选择已定，继承的机器已然启动。\n\n历史将昭示的是：单一继承模式勉强撑过了你继承人的统治时期，他虽称不上卓越，却证明了自己的能力。然而你未曾选择的儿子们，以及他们此后的子孙，从未真正接受这一决定。你身后的贵霜帝国将分裂为东西两支，帝国之名虽又延续了一个世纪，但你所创造的统一商业与精神力量将逐渐消散。丝绸之路仍将运载货物与思想，却再无单一的贵霜之手统筹其间。然而你所播下的佛教遗产，将比任何王朝都更为长久——当最后一枚贵霜钱币被熔入另一位君主的国库之时，僧侣们仍将行走在那条古道之上。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "imperialUnity", "operation": "add", "value": 20 },
+        { "variable": "successionStability", "operation": "add", "value": 15 },
+        { "variable": "nobilityLoyalty", "operation": "add", "value": -15 }
+      ]
+    },
+    {
+      "id": "kushan-empire-127-scene-003-choice-b",
+      "text": {
+        "en": "Divide the empire among your sons, assigning each a major territory and revenue base, hoping brotherhood and shared interest prevent open war",
+        "ja": "帝国を息子たちで分割し、それぞれに主要な領土と収入基盤を割り当て、兄弟愛と共通の利益が公然たる戦争を防ぐことを期待する",
+        "zh-CN": "将帝国分配给诸子，各授主要领土与收入基础，寄望于手足情谊与共同利益能防止公开战争"
+      },
+      "historicalContext": "Division among heirs was a common pattern in Central Asian and Kushan political tradition. The later Kushan Empire did effectively fragment into semi-independent branches — the Kidarites and eventually the Kushano-Sassanid territories — suggesting that division of authority was indeed the historical trajectory after Kanishka's era.",
+      "outcomePrompt": {
+        "en": "You call your sons to you one by one, and you give them each a portion of what you have built. The eldest receives the northern territories — the Bactrian heartland, the gateway to the Silk Road's western branches, the Greek-speaking cities with their mints and their libraries. The middle son takes the Gangetic provinces and Mathura, the beating heart of Kushan Buddhist culture. The youngest holds the Indus corridor, the trade ports, the routes to the Arabian Sea. You tell yourself this is wisdom: no one son strong enough to be tyrannical, no one territory so rich that its lord has no need of his brothers.\n\nFor the first years after your passing, the arrangement holds in the way that a cracked vessel holds water — carefully, and not for long. Your sons send envoys to one another and maintain the form of brotherhood. The Silk Road continues its commerce; the caravans do not know or care which Kushan prince stamps the coins they carry. The Buddhist monasteries, endowed by all three, remain neutral ground. There is peace, of a kind.\n\nBut the cracks widen. A dispute over toll revenues on a shared border. A marriage alliance that one brother reads as directed against him. A drought in the Gangetic plain that sends refugees into the Bactrian territories and strains relations. Within two generations, the three portions have become three kingdoms, each calling itself Kushan, none controlling what you controlled. The western branch falls first to Sassanid pressure; the eastern lingers. The Silk Road does not die — roads never do — but it passes through smaller hands, and the great cultural synthesis you and your predecessors created, the fusion of Greek and Indian and Iranian and Chinese influences that was the Kushan miracle, disperses into its component traditions. History remembers the Kushan Empire as one of the ancient world's great civilizing forces. It remembers Kanishka. It does not much remember his sons.",
+        "ja": "あなたは息子たちを一人ずつ呼び寄せ、自分が築いたものの一部をそれぞれに与える。長男は北の領土を受け取る——バクトリアの中枢、シルクロード西方支線への入口、造幣所と図書館を持つギリシャ語圏の都市群。次男はガンジス諸州とマトゥラーを引き継ぐ——クシャーン仏教文化の鼓動する心臓部。末息子はインダス回廊、貿易港、アラビア海への道を保持する。あなたは自分に言い聞かせる——これこそ知恵だ：どの息子も専制を振るえるほど強くなく、どの領土もその主がもはや兄弟を必要としないほど豊かではない。\n\nあなたの死後最初の数年間、この取り決めは割れた器が水を保つように成立している——注意深く、そして長くは続かない。息子たちは互いに使節を送り合い、兄弟の形を保つ。シルクロードは交易を続け、商人たちは運ぶ貨幣にどのクシャーンの王子の刻印があるかを知らないし、気にもしない。三者全員から寄進を受けた仏教寺院群は中立の地であり続ける。ある種の平和がある。\n\nしかし亀裂は広がっていく。共有する国境での通行税収をめぐる争い。一人の兄弟が自分に向けられたと読む婚姻同盟。ガンジス平野の干ばつがバクトリア領土に難民を送り込み、関係を緊張させる。二世代のうちに、三つの部分は三つの王国となり、それぞれがクシャーンを名乗り、あなたが支配したものを誰も支配していない。西の支流が最初にサーサーン朝の圧力に屈し、東の支流が残る。シルクロードは死なない——道は決して死なない——しかしそれはより小さな手を通り、あなたとあなたの前任者たちが創り出した、ギリシャ的・インド的・イラン的・中国的な影響の融合というクシャーンの奇跡である大いなる文化的統合は、その構成要素の伝統へと解散していく。歴史はクシャーン帝国を古代世界の偉大な文明化の力の一つとして記憶する。カニシュカを記憶する。彼の息子たちはそれほど記憶されない。",
+        "zh-CN": "你将儿子们一个个召来，将你所建立的一切各分予其中一份。长子获得北方领土——巴克特里亚腹地、通向丝绸之路西线的门户、那些拥有铸币厂与图书馆的希腊语城市。次子接管恒河诸省与马图拉——贵霜佛教文化跳动的心脏。幼子则持有印度河走廊、贸易港口、通往阿拉伯海的道路。你告诫自己，这才是智慧：没有哪个儿子强大到足以施行专制，没有哪片领土富裕到让其主人不再需要兄弟。\n\n你离去后最初数年，这一安排如同一只裂缝的容器盛水——小心翼翼，且终究不长。儿子们互派使节，维持着兄弟情谊的表象。丝绸之路照常通商，商队并不知道也不在乎他们携带的钱币上是哪位贵霜王子的印记。三人共同资助的佛寺保持中立之地。某种形式的和平存在着。\n\n然而裂缝不断扩大。共享边境上过路税收入的争议。一个兄弟将某桩婚姻联盟读作针对自己的举动。恒河平原的旱灾将难民涌入巴克特里亚领土，令关系愈发紧张。不出两代，三个部分已成三个王国，各自以贵霜自称，却没有一个掌控你当年所掌控的一切。西支最先屈服于萨珊的压力；东支苦撑较久。丝绸之路并未消亡——道路从不消亡——但它流经更小的手，而你与先辈们所创造的、融合希腊、印度、伊朗与中国诸般影响的贵霜奇迹，那场伟大的文化综合，逐渐分散回归其各自的源流传统。历史将贵霜帝国铭记为古代世界伟大的文明化力量之一，将卡尼什卡铭记于心，至于他的儿子们，则不会被历史过多地记住。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "imperialUnity", "operation": "add", "value": -20 },
+        { "variable": "successionStability", "operation": "add", "value": -10 },
+        { "variable": "nobilityLoyalty", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

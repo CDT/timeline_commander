@@ -1,0 +1,114 @@
+{
+  "id": "three-kingdoms-guandu-200-scene-001",
+  "scenarioId": "three-kingdoms-guandu-200",
+  "title": {
+    "en": "The Guandu Stalemate",
+    "ja": "官渡の膠着",
+    "zh-CN": "官渡僵局"
+  },
+  "date": {
+    "en": "August, 200 AD",
+    "ja": "西暦200年8月",
+    "zh-CN": "公元200年8月"
+  },
+  "location": {
+    "en": "Cao Cao's command tent, Guandu fortifications, Yellow River, Central Plains",
+    "ja": "曹操の指揮幕舎、官渡防塁、黄河、中原",
+    "zh-CN": "曹操帅帐，官渡防线，黄河，中原"
+  },
+  "narrativePrompt": {
+    "en": "The summer heat inside your command tent is suffocating, but you hardly notice it anymore. For four months you have lived inside these earthworks — watching, waiting, bleeding men and supplies with each passing week. The grain reports arrive each morning now with a dread regularity: down another ten percent, down another fifteen. Your quartermaster stopped meeting your eyes last week. He doesn't need to say anything. You can read the numbers yourself.\n\nAcross the fortifications, Yuan Shao's camp sprawls to the horizon — cooking fires that outnumber your men, banners as far as you can see, the distant sound of drums that never fully fade. He has everything you lack. Grain enough for a year. Fresh cavalry from the northern steppe. The loyalty of three full provinces. What he does not have — what you are counting on — is the wit to use it properly. His prisoners tell you that his advisors Tian Feng and Ju Shou are no longer permitted near him. They counseled caution and he had them arrested for their impertinence. Good. An enemy who punishes wisdom is an enemy who will eventually blunder.\n\nBut eventually is not now. Now, your men's ribs are beginning to show through their tunics. Desertion has picked up in the past two weeks — not a flood, but enough to notice. Last night a squad of five archers from the Qing Province battalion slipped away in the dark. You had a man flogged this morning for stealing another soldier's ration, and you watched the assembled troops with their hollow eyes and said nothing about mercy. You cannot afford mercy. What you can barely afford is time, and that is running out too.\n\nXun Yu's letter sits on the campaign table: 'The situation at Guandu is like a wrestling match. He who moves first loses his footing. Lord Cao, hold. A great opportunity is near.' You have read it a dozen times. You want to believe him. But tonight, the grain report sits beside his letter, and the numbers are very plain. You must make a decision about the defense of this line — whether to hold at all costs or to begin a staged withdrawal that preserves your army for another day.",
+    "ja": "指揮幕舎の中の夏の暑さは息が詰まるほどだが、あなたはもうそれを気に留めることもなくなった。四ヶ月間、この土塁の中で過ごしてきた——毎週、兵と物資を少しずつ失いながら、見張り、待ち続けて。兵糧の報告は今や毎朝、恐ろしいほど規則正しく届く。またさらに十パーセント減、また十五パーセント減。兵站担当の将校は先週から目を合わせなくなった。彼は何も言う必要がない。あなた自身が数字を読める。\n\n防塁の向こう、袁紹の陣営は地平線まで広がっている——あなたの兵力を上回る数の炊事の火、視界の及ぶ限りに翻る旗、決して完全には消えない遠くの太鼓の音。彼はあなたの持っていないものをすべて持っている。一年分の兵糧。北方の草原からの新鮮な騎馬隊。三つの州全体の忠誠。彼が持っていないもの——あなたが頼りにしているもの——は、それを適切に使う知恵だ。捕虜たちから、参謀の田豊と沮授がもはや彼に近づくことを許されていないと聞いた。彼らは慎重を諫言し、その無礼を咎められて投獄された。いい傾向だ。知恵を罰する敵は、いつかは必ず過ちを犯す。\n\nしかし「いつか」は今ではない。今、あなたの兵士たちの肋骨が衣を通して浮き出てきている。過去二週間で脱走が増えた——洪水ではないが、気づくには十分なほど。昨夜、青州大隊から弓兵五人が夜陰に乗じて姿を消した。今朝、仲間の兵糧を盗んだ男を鞭刑に処し、あなたは虚ろな目をした整列した将兵を前に、慈悲については何も言わなかった。慈悲を示す余裕はない。余裕がかろうじてあるのは時間だが、それも尽きかけている。\n\n荀彧の書簡が作戦机の上にある。「官渡の情勢は相撲のようなもの。先に動いた者が足を取られる。曹公、堅守されたし。好機は近い」。あなたはそれを何十回も読んだ。信じたい。しかし今夜、彼の書簡の隣には兵糧の報告書があり、数字はあまりにも明白だ。あなたはこの防衛線について決断しなければならない——何が何でも守り続けるか、それとも軍を温存して次の機会に備えるための段階的撤退を始めるか。",
+    "zh-CN": "帅帐内的夏日酷热令人窒息，但你早已不再在意。四个月了，你就生活在这片土垒之中——每一周都在失血般地消耗着兵力与粮草，却只能观察、等待。粮草报告如今每日清晨按时送到，规律得令人心惊：又减了一成，又减了一成半。军需官上周开始不再与你对视。他什么都不需要说，你自己能看懂那些数字。\n\n防线对面，袁绍的大营绵延至天际——炊火的数量多过你的士兵，旗帜铺展到目力所及之处，远处的鼓声从未真正平息。他有你所缺的一切：足支一年的粮草，来自北方草原的生力骑兵，三个完整州郡的效忠。他所没有的——你所有的倚仗——是善加利用这一切的智谋。俘虏告诉你，他的谋士田丰与沮授如今已不得再接近他。他们劝他慎重，他以无礼之名将其下狱。好。惩罚忠言的敌人，迟早必然自误。\n\n但迟早并非今日。今日，你的士兵的肋骨已透过衣衫隐隐可见。过去两周逃亡渐增——不是洪流，却已足够引人注意。昨夜，青州营一队五名弓兵趁黑溜走。今晨，你下令鞭打了一名偷窃同袍口粮的士兵，面对列队的将士那双双空洞的眼睛，你一字未提宽赦。你没有施恩的余裕。你勉强还有余裕的，是时间——而那也快撑不住了。\n\n荀彧的书信摆在案头：「官渡之势，如相扑者，先动者必失其势。曹公，坚守，良机在即。」你已读了十数遍。你想相信他。然而今夜，粮草报告就摆在他书信旁边，数字清晰得无可回避。你必须就防线的去留做出决断——究竟是不惜一切代价死守，还是开始有序后撤，为日后保存军力。"
+  },
+  "situationReport": [
+    {
+      "en": "Grain reserves have fallen to approximately 10-15 days of full rations; half-rations could extend this to 25-30 days",
+      "ja": "兵糧の備蓄は満配給で約10〜15日分まで減少。半配給にすれば25〜30日まで延ばせる可能性がある",
+      "zh-CN": "粮草储备仅余约10至15日满额口粮；减为半额配给可延至约25至30日"
+    },
+    {
+      "en": "Yuan Shao's army remains at approximately 100,000 men with intact supply lines to the north; Cao Cao's effective strength is 20,000-25,000",
+      "ja": "袁紹軍は約10万の兵力を維持し、北方への補給路も健在。曹操の実戦力は2万〜2万5千",
+      "zh-CN": "袁绍军仍保有约十万兵力，北方补给线完好；曹操实际战斗力约两万至两万五千"
+    },
+    {
+      "en": "Desertion has increased 40% in the past two weeks; morale among Qing Province conscripts is particularly fragile",
+      "ja": "脱走が過去2週間で40%増加。青州徴兵の士気が特に危うい",
+      "zh-CN": "过去两周逃亡率上升40%；青州征召士卒士气尤为脆弱"
+    },
+    {
+      "en": "Intelligence reports suggest Yuan Shao's supply depot at Wuchao is large but details on its garrison strength are unconfirmed",
+      "ja": "情報によると、袁紹の烏巣における補給基地は大規模だが、その守備兵力の詳細は未確認",
+      "zh-CN": "情报显示袁绍在乌巢的补给基地规模庞大，但其驻守兵力的详情尚未证实"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Maintain the coherence of your army and defensive position through the coming weeks",
+      "ja": "来るべき数週間、軍の結束と防御態勢を維持する",
+      "zh-CN": "在未来数周内维持军队的凝聚力与防御态势"
+    },
+    {
+      "en": "Preserve enough combat strength to exploit any opportunity that emerges",
+      "ja": "生じる可能性のあるいかなる機会も活用できる十分な戦闘力を温存する",
+      "zh-CN": "保留足够的战斗力，以便抓住任何可能出现的战机"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Withdrawing from Guandu abandons the Yellow River line and opens the road to Xu Chang",
+      "ja": "官渡からの撤退は黄河防衛線を放棄し、許昌への道を開くことになる",
+      "zh-CN": "从官渡撤退意味着放弃黄河防线，打开通往许昌的道路"
+    },
+    {
+      "en": "Any offensive action requires committing reserves that cannot be easily replaced",
+      "ja": "いかなる攻勢行動も、容易には補充できない予備兵力の投入を必要とする",
+      "zh-CN": "任何进攻行动均需动用难以补充的预备队"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-001-choice-a",
+      "text": {
+        "en": "Hold the line at all costs. Implement strict rationing, execute deserters as an example, and send urgent messages demanding emergency supply convoys from Xu Chang. Yuan Shao's indecision is your greatest weapon — do not surrender the ground you've paid for in blood.",
+        "ja": "何が何でも防衛線を守り通す。厳格な配給制を敷き、脱走兵を見せしめに処刑し、許昌への緊急の補給輸送を求める急使を送る。袁紹の優柔不断こそあなたの最大の武器——血を代価に守ってきた陣地を手放すな。",
+        "zh-CN": "不惜一切代价守住防线。实行严格定量配给，处决逃兵以儆效尤，紧急向许昌催要补给车队。袁绍的优柔寡断是你最大的武器——不能放弃以血换来的阵地。"
+      },
+      "historicalContext": "This reflects Cao Cao's actual decision, supported by Xun Yu's counsel to hold. The historical Cao Cao did impose brutal discipline and maintained the line despite the desperate supply situation.",
+      "outcomePrompt": {
+        "en": "The order goes out with your personal seal on it — hold, or face the sword. The floggings and one public execution of a deserter sergeant produce their grim effect: the whispering about retreat stops, at least openly. Rations are cut to two-thirds, then to half. Men grow leaner, angrier, more dangerous in that paradoxical way that desperate soldiers sometimes become.\n\nThe supply convoy from Xu Chang arrives seventeen days later — smaller than you demanded, larger than you feared. It buys perhaps three more weeks. Xun Yu's letter arrives with it: 'Heaven will not delay long. Something will change.' You fold both letters into your armor and return to watching Yuan Shao's fires burn across the river, counting his banners in the fading light. The line holds. For now.",
+        "ja": "あなたの個人印を押した命令が発せられる——守り通せ、さもなくば剣を受けよ。鞭打ちと脱走した小隊長一名の公開処刑は、陰鬱な効果をもたらす。撤退の囁きは消える、少なくとも表立っては。配給は三分の二に削減され、やがて半分になる。兵士たちは痩せ細り、苛立ち、そして追い詰められた兵士がそうなることがあるように、逆説的に危険な戦力へと変わっていく。\n\n許昌からの補給車列は十七日後に到着する——要求したものより少なく、恐れていたものより多い。おそらくさらに三週間は凌げる。荀彧の書簡がそれとともに届く。「天はいつまでも遅滞させない。必ず何かが変わる」。あなたは両方の書簡を甲冑の内側に折り入れ、川向こうの袁紹の炊事の火を眺めながら、薄れゆく光の中で彼の旗の数を数えることに戻る。防衛線は持ちこたえている。今のところは。",
+        "zh-CN": "命令加盖你的私印发出——守住，否则人头落地。鞭打与一名逃亡伍长的公开处决发挥了阴沉的效果：撤退的私语消失了，至少在明面上。口粮削至三分之二，再削至一半。士兵们愈发消瘦、愤懑，却也以那种绝境之人特有的矛盾方式，变得愈加危险。\n\n来自许昌的补给车队十七天后抵达——比你要求的少，却比你担心的多。大约还能撑三周。荀彧的书信随之而来：「天不会迟延太久，必有转机。」你将两封信折入铠甲内侧，重新凝望河对岸袁绍营地的灯火，在渐暗的暮色中默数他的旗帜。防线守住了。暂时。"
+      },
+      "nextSceneId": "three-kingdoms-guandu-200-scene-002",
+      "stateChanges": [
+        { "variable": "caoCaoMorale", "operation": "add", "value": 10 },
+        { "variable": "supplyStatus", "operation": "add", "value": 15 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "scene-001-choice-b",
+      "text": {
+        "en": "Begin a staged withdrawal northward to shorten your supply lines and preserve the army. Sacrifice the Guandu position but maintain your force in better condition for a future engagement. A living army can fight again; a starved one cannot.",
+        "ja": "補給路を短縮し軍を温存するため、北への段階的撤退を開始する。官渡の陣地を犠牲にするが、将来の戦いに向けてより良い状態で軍を維持する。生きている軍隊は再び戦えるが、飢えた軍隊には戦えない。",
+        "zh-CN": "开始向北有序后撤，以缩短补给线、保存军力。牺牲官渡阵地，但以更佳状态保留部队，以待日后决战。活着的军队能再战，挨饿的军队则不然。"
+      },
+      "historicalContext": "This is the counterfactual option. Historically, Cao Cao did consider withdrawal but Xun Yu's counsel persuaded him to hold. A retreat would likely have been catastrophic, as it would have emboldened Yuan Shao and surrendered the strategic initiative.",
+      "outcomePrompt": {
+        "en": "The withdrawal begins under cover of darkness, orderly at first — the professionals know their trade, and the rearguard holds while the main force slips back. But by the second day word spreads through the ranks faster than your messengers can contain it, and order begins to fray. Yuan Shao's cavalry probes the abandoned earthworks by midday and realizes what has happened.\n\nYou establish a new line twenty li back, shorter and more defensible. The men are better fed now, the supply situation briefly stabilized. But something has changed in the camp — the mood, the way officers hold themselves. You have given ground. Even those who know the military logic can feel what it means. Yuan Shao's banners now fly over Guandu, and his drums beat a victor's rhythm through the night. You have preserved your army, but at a cost that is harder to measure than grain.",
+        "ja": "撤退は夜陰に乗じて始まる。最初は秩序立っていた——熟練の兵たちは自分たちの仕事を心得ており、殿軍は堅守しながら主力が後退していく。しかし二日目になると、あなたの伝令が制御できる速さを超えて噂が兵の間に広まり、秩序が乱れ始める。袁紹の騎馬隊は昼ごろには放棄された土塁を探りに来て、何が起きたかを悟る。\n\n二十里後方に新たな防線を構える。より短く、より守りやすい。兵士たちの食事状況は良くなり、補給の事態は一時的に安定した。しかし陣営で何かが変わった——雰囲気が、将校たちの立ち居振る舞いが。あなたは地を退いた。軍事的理屈を理解している者でさえ、それが何を意味するかを感じ取っている。袁紹の旗が今や官渡にはためき、彼の太鼓が夜通し勝者のリズムを打ち鳴らしている。軍を温存した。しかし失ったものの代価は、兵糧よりも量りにくい。",
+        "zh-CN": "撤退趁夜幕掩护展开，起初井然有序——老兵们训练有素，殿军坚守阵线，主力悄然后撤。然而到第二天，消息以快过传令兵所能压制的速度在队伍中蔓延，秩序开始松动。袁绍的骑兵到正午便已前来探查被弃的土垒，随即明白发生了什么。\n\n你在二十里后方重新建立防线，更短，更易守御。士兵们的饮食有所改善，补给局面暂时稳定。然而营中有什么东西变了——那种气氛，将官们站立的姿态。你退让了土地。即便那些懂得军事逻辑的人，也能感受到这意味着什么。袁绍的旗帜如今飘扬在官渡之上，他的战鼓整夜擂响，打出胜者的节奏。你保住了军队，却付出了一种比粮草更难衡量的代价。"
+      },
+      "nextSceneId": "three-kingdoms-guandu-200-scene-002",
+      "stateChanges": [
+        { "variable": "caoCaoMorale", "operation": "add", "value": -15 },
+        { "variable": "supplyStatus", "operation": "add", "value": 20 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": -20 },
+        { "variable": "yuanShaoMorale", "operation": "add", "value": 15 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

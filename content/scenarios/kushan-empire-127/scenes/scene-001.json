@@ -1,0 +1,113 @@
+{
+  "id": "kushan-empire-127-scene-001",
+  "scenarioId": "kushan-empire-127",
+  "title": {
+    "en": "The Fourth Buddhist Council",
+    "ja": "第四回仏典結集",
+    "zh-CN": "第四次佛典结集"
+  },
+  "date": {
+    "en": "circa 128 AD, Purushapura",
+    "ja": "西暦128年頃、プルシャプラ",
+    "zh-CN": "约公元128年，富楼沙城"
+  },
+  "location": {
+    "en": "The Royal Court, Purushapura (modern Peshawar, Pakistan)",
+    "ja": "王宮、プルシャプラ（現在のパキスタン、ペシャワール）",
+    "zh-CN": "王宫，富楼沙城（今巴基斯坦白沙瓦）"
+  },
+  "narrativePrompt": {
+    "en": "The delegation of Buddhist scholars has been waiting in your outer chambers for three days. They come from monasteries as distant as Taxila in the west and Mathura in the east, their robes road-dusty and their eyes bright with doctrinal urgency. The monk Ashvaghosha, the finest mind in your kingdom, leads them. He speaks of schisms tearing the sangha apart — the Sthaviravada monks of the south insisting on one reading of the Vinaya, the Sarvastivada schools of the north insisting on another. Without a great council to codify the tradition, he warns, Buddhism will fracture into a hundred squabbling sects, each claiming the true teaching of the Enlightened One.\n\nIn your meditation room, you have spent the dawn hours contemplating this. You have seen the Buddha's image on your own gold coins, flanked by images of Ahura Mazda and Shiva, and the thought has always pleased you — that you are a sovereign above sectarian divisions, a protector of all faiths. But the truth is that Buddhism has gripped you more deeply than the others. The ideas of impermanence and compassion seem to you the most truthful account of the human condition. If the Dharma could be settled, clarified, written in copper plates and dispatched to every monastery in your empire, it would be a greater achievement than any military conquest.\n\nBut your chief minister, an astute Zoroastrian nobleman from Bactria named Spalarizos, has counseled caution. He has reminded you that the great Zoroastrian dasturs of the western provinces and the Brahmin pandits who manage the temple complexes of Mathura are watching closely. If the Emperor throws his full weight behind Buddhism, what message does that send to the other faiths? Some of your most prosperous trading communities — the Parthian merchants, the old Saka nobility — are Zoroastrian to the bone. Antagonize them, and you risk the quiet loyalty that keeps the empire's western frontier peaceful.\n\nThe monks wait. Ashvaghosha has composed a hymn of praise in your honor that is being sung in every monastery from Gandhara to Varanasi. The people know you are considering this council. To refuse now would damage your prestige among the Buddhist majority of your eastern provinces. Yet to proceed without diplomatic preparation could fracture the religious coalition that holds your diverse empire together. The choice is before you, Maharaja.",
+    "ja": "仏教学者の代表団があなたの控えの間で三日間待ち続けています。彼らは西はタクシラ、東はマトゥラーと離れた寺院から来ており、袈裟は旅の埃にまみれ、目には教義的な緊迫感が宿っています。あなたの王国で最高の知性であるアシュヴァゴーシャ僧が彼らを率いています。彼は分裂がサンガを引き裂いていると語ります——南の上座部の僧侶たちがヴィナヤの一つの解釈を主張し、北の説一切有部の学派が別の解釈を主張している、と。偉大な結集で伝統を整理しなければ、彼は警告します、仏教は百の言い争う宗派に分裂し、それぞれが覚者の真の教えを主張することになるでしょう。\n\nあなたは瞑想室で夜明けの時間をこの問題の考察に費やしました。あなた自身の金貨に描かれた仏陀の像を、アフラ・マズダーとシヴァの像に挟まれて見てきました。そしてその考えは常にあなたを喜ばせてきました——あなたは宗派的分断を超えた君主であり、すべての信仰の守護者である、という考えが。しかし真実は、仏教が他の信仰よりも深くあなたを捉えているということです。無常と慈悲の思想は、人間の条件について最も真実の説明であるとあなたには思われます。もし法が確定し、明確化され、銅板に書かれて帝国内のすべての寺院に送られれば、それはいかなる軍事的征服よりも偉大な業績となるでしょう。\n\nしかしあなたの筆頭大臣、バクトリア出身のスパラリゾスという聡明なゾロアスター教貴族は、慎重を促しています。彼は、西部州の偉大なゾロアスター教の最高祭司たちとマトゥラーの寺院施設を管理するバラモンの学者たちが注意深く見守っていることをあなたに思い出させました。皇帝が全力で仏教を支持すれば、他の信仰にどんなメッセージを送ることになるか？最も繁栄しているあなたの交易コミュニティの一部——パルティア商人たち、古いサカの貴族たち——は骨の髄までゾロアスター教徒です。彼らを敵に回せば、帝国の西部辺境を平和に保っている静かな忠誠心を失うリスクがあります。\n\n僧侶たちは待っています。アシュヴァゴーシャはあなたを称える賛歌を作り、ガンダーラからヴァーラーナシーまでのすべての寺院でそれが歌われています。民はあなたがこの結集を検討していることを知っています。今これを断れば、東部州の仏教徒の多数派の間であなたの名声が傷つくでしょう。しかし外交的な準備なしに進めれば、多様な帝国を支えている宗教的連合を分裂させる恐れがあります。選択はあなたの前にあります、マハーラージャよ。",
+    "zh-CN": "佛教学者代表团已在你的外厅等候了三日。他们来自远至西方的呾叉始罗与东方的马图拉的各处寺院，袈裟沾满旅途风尘，眼中燃烧着教义紧迫的光芒。你王国中最卓越的心灵——僧侣马鸣——率领着他们。他讲述着分裂正在撕裂僧团——南方上座部僧侣坚持一种律藏解读，北方说一切有部坚持另一种。他警告道，若无一次伟大的结集来整理传统，佛教将裂变为百个相互争吵的宗派，各自声称持有觉悟者的真实教义。\n\n在你的禅室里，你已在黎明时分将大量时间用于沉思此事。你见过自己金币上佛陀的形象，左右各有阿胡拉·马兹达与湿婆的像相陪，这个画面向来令你感到欣慰——你是超越宗派分歧的君主，是一切信仰的护持者。然而事实是，佛教对你的吸引远比其他信仰更为深刻。无常与慈悲的思想，在你看来是对人类处境最为真实的诠释。若法得以确定、澄清，刻于铜板之上，传至帝国每一座寺院，那将是超越任何军事征服的伟大成就。\n\n然而你的首席大臣——来自大夏的精明祆教贵族斯帕拉里佐斯——建议你保持谨慎。他提醒你，西部各省的伟大祆教达斯图尔们以及管理马图拉神庙建筑群的婆罗门班智达们正在密切观察。若皇帝倾力支持佛教，那将向其他信仰传递什么讯号？你最繁荣的一些贸易社群——帕提亚商人、古老的塞种贵族——都是骨子里的祆教徒。触怒他们，你将失去维持帝国西部边境平静的那种隐形忠诚。\n\n僧侣们在等待。马鸣已为你谱写了一首赞歌，从犍陀罗到瓦拉纳西的每一座寺院都在吟唱。人民知道你在考虑这次结集。若现在拒绝，将损害你在东部各省佛教多数民众中的声望。然而若不经外交铺垫便贸然推进，可能撕裂维系你这多元帝国的宗教联盟。抉择就在你面前，大王。"
+  },
+  "situationReport": [
+    {
+      "en": "Buddhist scholars from across the empire have assembled in Purushapura, urgently requesting an imperial council to unify the Buddhist canon and resolve doctrinal disputes",
+      "ja": "帝国各地の仏教学者たちがプルシャプラに集まり、仏典を統一し教義上の論争を解決するための帝国会議を緊急に要請している",
+      "zh-CN": "帝国各地的佛教学者聚集富楼沙城，紧急请求召开帝国会议以统一佛典并解决教义争端"
+    },
+    {
+      "en": "Zoroastrian and Hindu leaders in the western and southern provinces are watching carefully, concerned that excessive Buddhist patronage will disadvantage their own communities",
+      "ja": "西部および南部州のゾロアスター教とヒンドゥー教の指導者たちは注意深く見守っており、過度な仏教庇護が自分たちのコミュニティを不利にするとの懸念を持っている",
+      "zh-CN": "西部和南部各省的祆教与印度教领袖密切关注，担忧过度的佛教护持将不利于本教社群"
+    },
+    {
+      "en": "Silk Road revenues are strong, but maintaining religious harmony across the empire's diverse faiths is essential to keeping trade communities loyal and cooperative",
+      "ja": "シルクロードの収益は好調だが、帝国の多様な信仰にわたる宗教的調和を維持することは、交易コミュニティの忠誠と協力を保つために不可欠である",
+      "zh-CN": "丝绸之路收益稳健，但维持帝国多元信仰间的宗教和谐对保持贸易社群的忠诚与合作至关重要"
+    },
+    {
+      "en": "The monk Ashvaghosha warns that without imperial intervention, Buddhist schisms will deepen and weaken the faith's social cohesion throughout the empire",
+      "ja": "僧侶アシュヴァゴーシャは、皇帝の介入なしでは仏教の分裂が深まり、帝国全土において信仰の社会的結束が弱まると警告している",
+      "zh-CN": "僧侣马鸣警告，若无帝国介入，佛教内部分裂将加深，削弱全帝国内的信仰社会凝聚力"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Decide whether to convene the Fourth Buddhist Council and how to frame it politically",
+      "ja": "第四回仏典結集を召集するかどうか、またそれを政治的にどのように位置づけるかを決定する",
+      "zh-CN": "决定是否召集第四次佛典结集，以及如何从政治上定位此次结集"
+    },
+    {
+      "en": "Maintain religious harmony across Buddhist, Zoroastrian, Hindu, and Greek communities within the empire",
+      "ja": "帝国内の仏教、ゾロアスター教、ヒンドゥー教、ギリシア系コミュニティにわたる宗教的調和を維持する",
+      "zh-CN": "维持帝国内佛教、祆教、印度教与希腊信仰社群间的宗教和谐"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Any decision that appears to favor Buddhism exclusively risks alienating Zoroastrian and Hindu court factions and wealthy merchant communities",
+      "ja": "仏教だけを優遇するように見える決断は、ゾロアスター教とヒンドゥー教の宮廷派閥および裕福な商人コミュニティを疎外するリスクがある",
+      "zh-CN": "任何看似专门偏袒佛教的决定，都有疏远祆教与印度教宫廷派系及富裕商人社群的风险"
+    },
+    {
+      "en": "The logistics of assembling hundreds of monks from across the empire require significant resources and time",
+      "ja": "帝国各地から何百人もの僧侶を集める物流には、多大な資源と時間が必要である",
+      "zh-CN": "从帝国各地召集数百名僧侣所需的后勤工作，要求大量资源与时间投入"
+    }
+  ],
+  "choices": [
+    {
+      "id": "kushan-empire-127-scene-001-choice-a",
+      "text": {
+        "en": "Convene the Fourth Buddhist Council in Kashmir with full imperial support — commission monks, fund monasteries, and issue imperial proclamations affirming the council's authority",
+        "ja": "全面的な帝国の支援のもとでカシミールにおいて第四回仏典結集を召集する——僧侶を任命し、寺院に資金を提供し、結集の権威を確認する帝国の宣言を発する",
+        "zh-CN": "以全面帝国支持在克什米尔召集第四次佛典结集——任命僧侣、资助寺院，并颁布帝国诏令确认结集的权威"
+      },
+      "historicalContext": "This is the historically attested action. Kanishka convened the Fourth Buddhist Council in Kashmir, chaired by the monk Vasumitra with Ashvaghosha as a key participant. The council produced major commentaries and helped shape Mahayana Buddhism.",
+      "outcomePrompt": {
+        "en": "The proclamation goes out from Purushapura in all the languages of your empire: Sanskrit, Greek, Bactrian, Prakrit. Five hundred monks assemble in Kashmir over the coming months, the greatest gathering of Buddhist scholars since the council of Ashoka. You commission scholars to write their deliberations in copper plates, to be distributed to every major monastery. Ashvaghosha's eyes shine with gratitude. In the eastern provinces, the news is greeted with rejoicing — donations to monasteries double, pilgrims fill the roads, and the great stupa at Purushapura becomes a site of mass veneration.\n\nYour minister Spalarizos is grim. Three Zoroastrian temple communities in Bactria have sent petitions complaining of favoritism. But you have anticipated this: you issue a simultaneous proclamation reaffirming the protection of all faiths and grant the Zoroastrian fire temples in Bactria a tax exemption. It is not everything they want, but it blunts the worst resentment. The Brahmin pandits of Mathura grumble but do not act. For now, the balance holds.",
+        "ja": "宣言はプルシャプラから帝国のあらゆる言語で発せられました：サンスクリット語、ギリシア語、バクトリア語、プラークリット語。五百人の僧侶が数ヶ月にわたってカシミールに集まり、アショーカ王の結集以来最大の仏教学者の集いとなります。あなたは学者たちにその審議を銅板に記し、すべての主要な寺院に配布するよう委任します。アシュヴァゴーシャの目は感謝で輝いています。東部州では、この知らせが喜びをもって迎えられ——寺院への布施が倍増し、巡礼者が道を埋め、プルシャプラの大仏塔は大規模な崇拝の場となります。\n\nあなたの大臣スパラリゾスは暗い表情をしています。バクトリアの三つのゾロアスター教寺院コミュニティが優遇措置に抗議する請願書を送ってきました。しかしあなたはこれを予測していました：あなたは同時に、すべての信仰の保護を再確認する宣言を発し、バクトリアのゾロアスター教の拝火壇に税免除を与えます。それは彼らが望むすべてではありませんが、最悪の怨恨を和らげます。マトゥラーのバラモンの学者たちは不満を言いますが、行動には移しません。今のところ、バランスは保たれています。",
+        "zh-CN": "诏令从富楼沙城以帝国所有语言发出：梵语、希腊语、大夏语、俗语。五百位僧侣在接下来数月间汇聚克什米尔，成为自阿育王结集以来规模最大的佛教学者盛会。你委任学者将审议内容刻于铜板，分发至每一座主要寺院。马鸣的眼中闪烁着感激的光芒。东部各省以欢呼迎接这一消息——寺院布施倍增，朝圣者填满道路，富楼沙城的大窣堵坡成为大规模礼拜的圣地。\n\n你的大臣斯帕拉里佐斯神色阴郁。大夏三处祆教神庙社群已呈递请愿书，抗议偏袒之举。然而你早有预料：你同步颁布诏令，重申对所有信仰的保护，并向大夏的祆教圣火神庙赐予税收豁免。这并非他们所期望的全部，但足以化解最深的怨恨。马图拉的婆罗门班智达们发出不满之声，却未付诸行动。眼下，平衡尚得维持。"
+      },
+      "nextSceneId": "kushan-empire-127-scene-002",
+      "stateChanges": [
+        { "variable": "religiousHarmony", "operation": "add", "value": 20 },
+        { "variable": "kushanaStrength", "operation": "add", "value": 10 },
+        { "variable": "tradeProsperity", "operation": "add", "value": -5 }
+      ]
+    },
+    {
+      "id": "kushan-empire-127-scene-001-choice-b",
+      "text": {
+        "en": "Offer conditional support — fund the council privately without official imperial proclamation, framing it as a private religious gathering rather than a state event to avoid alienating other faiths",
+        "ja": "条件付きの支援を提供する——他の信仰を疎外しないために、それを国家行事ではなく私的な宗教集会として位置づけ、公式の帝国宣言なしに個人的に結集に資金援助する",
+        "zh-CN": "提供有条件支持——私下资助结集，不发布正式帝国诏令，将其定位为私人宗教集会而非国家活动，以避免疏远其他信仰"
+      },
+      "historicalContext": "This is a counterfactual approach. Historically, Kanishka gave full imperial backing to the council. A more cautious, private approach might have reduced religious tension but potentially diminished the council's authoritative impact on Buddhist doctrine.",
+      "outcomePrompt": {
+        "en": "You summon Ashvaghosha privately and tell him: the Emperor supports the assembly of scholars, but this will be a gathering of the learned, not a proclamation of state. Imperial gold will flow to the monasteries of Kashmir — quietly, through intermediaries — and your personal attendance at certain ceremonies will signal your blessing. But there will be no copper plates stamped with imperial seals, no proclamations to the provinces.\n\nAshvaghosha accepts, though his disappointment is visible. He had hoped for something bolder, something that would give the council's conclusions the weight of imperial authority. The gathering proceeds in Kashmir — three hundred monks rather than five hundred, and the deliberations feel less definitive without the stamp of imperial sanction. The Zoroastrian and Hindu leaders hear rumors of your support but cannot formally object to a private religious event. For now, harmony holds, though at a cost: the council's conclusions will carry less weight in the doctrinal disputes ahead, and the Buddhist monasteries of the eastern provinces feel subtly undervalued.",
+        "ja": "あなたはアシュヴァゴーシャを個人的に召喚し、告げます：皇帝は学者の集会を支持するが、これは国家宣言ではなく、学識ある者たちの集いとなる。帝国の黄金はカシミールの寺院へと流れるでしょう——静かに、仲介者を通じて——そしていくつかの式典への個人的な参加があなたの祝福を示すでしょう。しかし帝国の印章が押された銅板も、各州への宣言もありません。\n\nアシュヴァゴーシャは受け入れますが、その失望は目に見えます。彼はもっと大胆なものを、結集の結論に帝国権威の重みを与えるものを期待していました。集まりはカシミールで進行します——五百人ではなく三百人の僧侶、そして帝国の認可の印がなければ審議はそれほど決定的な感触を持ちません。ゾロアスター教とヒンドゥー教の指導者たちはあなたの支援についての噂を聞きますが、私的な宗教行事に正式に異議を申し立てることはできません。今のところ調和は保たれていますが、代償があります：結集の結論はその後の教義論争においてそれほどの重みを持たず、東部州の仏教寺院たちは微妙に過小評価されていると感じています。",
+        "zh-CN": "你秘密传召马鸣，告诉他：皇帝支持学者的聚会，但这将是一次学人的集会，而非国家宣言。帝国的黄金将静静地通过中间人流入克什米尔的寺院——你对某些仪式的亲身出席将传递你的祝福。但不会有盖着帝国印章的铜板，也不会有发往各省的诏令。\n\n马鸣接受了，尽管他的失望显而易见。他曾希望有更大胆的举动，能给予结集结论以帝国权威分量的举动。集会在克什米尔进行——三百名僧侣而非五百名，缺少帝国认可印章的审议感觉不那么确定。祆教与印度教领袖听闻了你支持的传言，但无法正式反对一场私人宗教活动。眼下，和谐得以维持，但代价是：结集的结论在未来的教义争论中分量将减轻，东部各省的佛教寺院们感到自己隐约受到了冷落。"
+      },
+      "nextSceneId": "kushan-empire-127-scene-002",
+      "stateChanges": [
+        { "variable": "religiousHarmony", "operation": "add", "value": 8 },
+        { "variable": "kushanaStrength", "operation": "add", "value": 3 },
+        { "variable": "tradeProsperity", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

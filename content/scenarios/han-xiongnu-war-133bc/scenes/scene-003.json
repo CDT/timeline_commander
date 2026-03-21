@@ -1,0 +1,111 @@
+{
+  "id": "han-xiongnu-war-133bc-scene-003",
+  "scenarioId": "han-xiongnu-war-133bc",
+  "title": {
+    "en": "The Emperor's Fury",
+    "ja": "皇帝の怒り",
+    "zh-CN": "帝怒"
+  },
+  "date": {
+    "en": "Autumn, 133 BC — Chang'an, the Han Capital",
+    "ja": "紀元前133年、秋——漢の都、長安",
+    "zh-CN": "公元前133年秋——汉朝都城长安"
+  },
+  "location": {
+    "en": "The Han Imperial Court, Chang'an",
+    "ja": "漢の宮廷、長安",
+    "zh-CN": "漢朝皇廷，长安"
+  },
+  "narrativePrompt": {
+    "en": "Chang'an is a city of whispers since the armies returned. The commanders do not look each other in the eye in the corridors of the palace. The silk merchants who profited from the heqin trade are rumored to be celebrating. Han Anguo, who always doubted the plan, has already written his version of events for the imperial record — a version that emphasizes his own reservations and does not spare your reputation.\n\nYou have been summoned to appear before Emperor Wu. The walk through the palace complex feels like walking to your own execution — which, you understand with grim clarity, it may well be. The Son of Heaven is twenty-seven years old, brilliant, volcanic, and unforgiving. He was told the Mayi plan would end the humiliation of heqin forever. He told the court this would be the dawn of a new era. He committed his dynasty's prestige to the success of an operation that produced nothing — no prisoners, no enemy dead, no territory, no glory. Only three hundred thousand soldiers standing in empty hills watching dust clouds retreat north.\n\nThe charges against you are specific. You are accused of having commanded a force charged with intercepting the Xiongnu retreat — and then declining to engage. Your defenders argue that engaging a hundred thousand Xiongnu cavalry with your comparatively smaller force would have been suicidal. Your accusers respond that you were placed there precisely to make that sacrifice if necessary, and that your cowardice in the face of the enemy is what allowed the Chanyu to escape unscathed.\n\nThe real politics of the situation are even more poisonous. Emperor Wu needs someone to blame. The plan's failure cannot be attributed to the plan itself — that would implicate the Emperor's own judgment. It cannot be attributed to Nie Yi, the merchant, whose contribution was actually flawlessly executed. It cannot be attributed to the informer who betrayed the plan — that man is already dead. It can only be attributed to you: the senior commander, the plan's champion, the man who staked his career on this operation and lost.\n\nYou have one audience with the Emperor to make your case. You can hear the court officials murmuring as you enter the throne room. General Han Anguo is present, watching you with an expression carefully neutral. The Emperor's chief minister has already reviewed the charges. Emperor Wu sits on the throne, his face a controlled mask of imperial displeasure that barely conceals something colder and more implacable beneath.\n\nYou have prepared two arguments. One is a defense of your military judgment — a logical case for why attacking the retreating Xiongnu with your smaller force would have accomplished nothing. The other is an appeal to the larger picture — that the Mayi operation, though tactically unsuccessful, has changed the strategic calculus forever and laid the groundwork for the campaigns that must now follow. Both arguments have merit. Neither argument may be enough.",
+    "ja": "軍が帰還して以来、長安は囁きの街となっている。宮殿の廊下では、司令官たちは互いに目を合わせない。和親交易で利益を得た絹商人たちが祝杯を上げているという噂がある。常に計画を疑っていた韓安国は、すでに皇帝の記録のために自分の事件の記録を書き上げており——その記録は自らの懸念を強調し、あなたの名声を容赦しない内容だ。\n\nあなたは武帝の御前に出るよう召喚された。宮殿の建物の中を歩くことは、自分自身の処刑へと向かうように感じられる——実際そうなるかもしれないと、あなたは冷酷な明晰さで理解している。天子は二十七歳、聡明で、火山のようで、容赦がない。彼には馬邑の計画が和親の屈辱を永遠に終わらせると言われていた。彼は廷臣にこれが新時代の夜明けになると語った。彼の王朝の威信を、何も生み出さなかった作戦の成功にかけた——捕虜もなく、敵の死体もなく、領土もなく、栄光もない。ただ三十万の兵士が北へ撤退していく砂煙を眺めながら空の丘に立っているだけだった。\n\nあなたに対する告発は具体的だ。あなたは匈奴の退路を遮断する任務を帯びた部隊を指揮しながら、交戦を拒否したと告発されている。あなたの弁護者は、比較的小さな部隊で十万の匈奴騎兵と交戦することは自殺行為だったと主張する。あなたの告発者は、あなたはまさにそういう犠牲を必要であれば払うために配置されたのであり、敵前での臆病さが単于を無傷で逃がしたのだと反論する。\n\n状況の実際の政治はさらに毒性が高い。武帝は誰かを責める必要がある。計画の失敗を計画そのものに帰することはできない——それは皇帝自身の判断を巻き込むことになる。商人の聶壱に帰することもできない——彼の貢献は実際には完璧に実行された。計画を暴露した内通者に帰することもできない——その男はすでに死んでいる。帰せられるのはあなただけだ：最上級の司令官、計画の主唱者、この作戦に自分の経歴を賭けて失った男。\n\nあなたには皇帝に自分の主張を述べる謁見が一度ある。玉座の間に入ると廷臣たちの囁きが聞こえる。韓安国将軍が出席しており、注意深く中立的な表情であなたを見ている。皇帝の宰相はすでに告発状を検討した。武帝は玉座に座り、その表情は帝王としての不満の制御されたお面を保っているが、その下にはより冷たく、より抑えがたいものが透けて見える。\n\nあなたは二つの論拠を用意してきた。一つは軍事的判断の弁護——より小さな部隊で撤退する匈奴を攻撃しても何も達成できなかったという論理的な主張だ。もう一つはより大きな展望への訴え——馬邑の作戦は戦術的には失敗したが、戦略的な計算を永久に変え、今後必然的に続くべき遠征の基礎を築いたという主張だ。どちらの論拠にも価値がある。どちらの論拠も十分ではないかもしれない。",
+    "zh-CN": "自军队返回，长安便成了一座低语之城。宫廷走廊上，各路将领都不敢彼此对视。据说，那些从和亲贸易中渔利的丝绸商人正在私下庆祝。一贯对此计划持有疑虑的韩安国，已经为御档写好了他版本的事件经过——那份记录着重强调了他自己当初的保留意见，对你的声誉毫不留情。\n\n你被传唤觐见汉武帝。走过宫殿建筑群的这段路，感觉像是走向自己的行刑场——你以一种冷峻的清醒意识到，这或许确实如此。天子二十七岁，英睿过人，性如烈火，毫无宽仁之量。他曾被告知，马邑之谋将永远终结和亲的屈辱。他曾向满朝文武宣称，这将是新纪元的黎明。他将王朝的声誉押注于一场一无所获的行动的成败之上——没有俘虏，没有敌军阵亡，没有寸土，没有荣耀。只有三十万大军站在空空如也的山丘上，目送尘云向北消散。\n\n对你的指控条条具体。你被控指挥着一支担负截断匈奴退路使命的部队，却拒绝出击交战。为你辩护的人说，以兵力相对薄弱的部队去冲击十万匈奴骑兵，无异于以卵击石。而你的指控者反驳说，你被部署在那里，正是为了在必要时做出这种牺牲，是你临敌的怯懦让单于得以全身而退。\n\n整个局势在政治上更是凶险至极。汉武帝需要一个可以问责的人。计划的失败不能归咎于计划本身——那样就牵连到了皇帝自己的判断。不能归咎于商人聂壹——他的那一部分任务实际上执行得无可挑剔。不能归咎于泄密的叛徒——那人已经死了。能够承担责任的只有你：最高指挥官，这个计划的主要倡导者，押上了自己全部仕途而最终落空的人。\n\n你只有一次向皇帝陈情的机会。进入御殿时，你听到廷臣们的低语声。韩安国将军在场，神情刻意保持中立地注视着你。皇帝的首席大臣已经审阅了弹劾文书。汉武帝端坐于御座之上，面容是帝王式不满的控制面具，而面具之下，有什么更冷、更不可撼动的东西隐隐透出。\n\n你准备了两条论据。一是为你的军事判断辩护——从逻辑上论证以较少兵力攻击撤退中的匈奴毫无意义。另一条是诉诸更宏观的格局——马邑之谋虽在战术上未竟全功，但已永久改变了战略态势，为此后必须发动的系列军事行动奠定了基础。两条论据都有其道理。但两条论据可能都无济于事。"
+  },
+  "situationReport": [
+    {
+      "en": "Wang Hui faces imperial charges of cowardice and dereliction of duty for failing to attack the retreating Xiongnu",
+      "ja": "王恢は撤退する匈奴を攻撃しなかったとして臆病と職務放棄の帝国告発に直面している",
+      "zh-CN": "王恢因未能出击撤退中的匈奴，正面临皇帝以怯懦和渎职加身的指控"
+    },
+    {
+      "en": "The Mayi operation produced no military results; 300,000 Han soldiers were mobilized for nothing",
+      "ja": "馬邑の作戦は軍事的成果をもたらさなかった。三十万の漢軍が無駄に動員された",
+      "zh-CN": "马邑之谋毫无军事成果；三十万汉军的动员化为泡影"
+    },
+    {
+      "en": "Emperor Wu has staked his personal prestige on the operation's success; political pressure demands accountability",
+      "ja": "武帝は作戦の成功に個人的な威信をかけていた。政治的圧力が責任の追及を求めている",
+      "zh-CN": "汉武帝将个人威望押注于行动的成败；政治压力要求追究责任"
+    },
+    {
+      "en": "Court opponents of the plan, led by General Han Anguo, are now vindicated and positioning themselves as voices of caution",
+      "ja": "韓安国将軍が率いる宮廷の計画反対派が今や正当性を証明され、慎重論の代弁者として地位を固めている",
+      "zh-CN": "以韩安国将军为首的朝廷反对派如今获得了平反，正以谋虑周全者的姿态巩固地位"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Present the most compelling defense possible before Emperor Wu to preserve your life and honor",
+      "ja": "命と名誉を守るため、武帝の前でできる限り説得力のある弁護を行う",
+      "zh-CN": "在汉武帝面前作出最有力的辩护，以保全性命与荣誉"
+    },
+    {
+      "en": "Frame the Mayi failure in terms that preserve the case for future aggressive action against the Xiongnu",
+      "ja": "今後の匈奴への積極的な行動の論拠を守る形で馬邑の失敗を位置づける",
+      "zh-CN": "将马邑失败以维护日后对匈奴主动出击论据的方式加以诠释"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Emperor Wu's anger is enormous and his court requires a scapegoat; complete vindication may not be achievable",
+      "ja": "武帝の怒りは甚大であり、その朝廷は生贄を必要としている。完全な雪冤は達成不可能かもしれない",
+      "zh-CN": "汉武帝怒火难平，朝廷急需一个替罪羊；完全洗脱罪名或许根本无法实现"
+    },
+    {
+      "en": "The historical record is already being written by your enemies; your version of events must be stated clearly on the record",
+      "ja": "歴史の記録はすでにあなたの政敵たちによって書かれている。事件についてのあなたの説明を記録に明確に残さなければならない",
+      "zh-CN": "历史记录已经在你的政敌笔下成形；你对事件的陈述必须清晰地留存于史册"
+    }
+  ],
+  "choices": [
+    {
+      "id": "han-xiongnu-war-133bc-scene-003-choice-a",
+      "text": {
+        "en": "Present a clear military defense: attacking a hundred thousand Xiongnu cavalry with a smaller force would have achieved nothing but the destruction of your own army",
+        "ja": "明確な軍事的弁護を行う：小規模な部隊で十万の匈奴騎兵を攻撃しても、自軍の壊滅以外の何も達成できなかった",
+        "zh-CN": "提出明确的军事辩护：以较少兵力攻击十万匈奴骑兵，除了葬送自己的部队，不会有任何成效"
+      },
+      "historicalContext": "Wang Hui's defenders argued that his decision preserved a Han force that would have been destroyed in a futile charge. However, Emperor Wu was unmoved by this logic, holding that Wang Hui's failure to engage was the primary reason the Chanyu escaped.",
+      "outcomePrompt": {
+        "en": "You make your case with the calm clarity of a man who has done the arithmetic. You explain the numbers: your force, the Xiongnu cavalry's speed, the terrain north of Mayi that would have allowed them to turn and envelope you. You explain that throwing your army into that pursuit would have handed the Chanyu not merely an escape but a victory — a victory in which Han soldiers died for nothing, which would embolden future Xiongnu raids and undermine the very aggressive policy you have championed.\n\nThe court is silent as you speak. Some officials nod slightly. General Han Anguo's face remains carefully neutral. Emperor Wu listens with the focused attention of a man cataloguing every word as evidence for a verdict he has already reached.\n\nWhen you finish, the Emperor speaks. His voice is level and very cold. He acknowledges your arithmetic. He does not dispute your logic about the terrain. He simply states that a general who will not fight when he has the enemy in sight — for any reason — has failed in the fundamental duty of a commander. The heqin policy was ended. The Chanyu was in front of you. And you chose not to fight.\n\nThe sentence comes quickly. You are to be executed. Your attempts to find intercession through court connections fail when the Emperor makes clear that anyone who speaks for you participates in your disgrace. You face the end with whatever dignity the moment allows, knowing that the war against the Xiongnu you spent your career advocating will now begin without you — carried forward by men who learn from your fate what the Emperor expects of his generals.",
+        "ja": "あなたは計算を終えた男の冷静な明晰さで自分の主張を述べた。数字を説明した：あなたの部隊、匈奴騎兵の速さ、彼らが向きを転換してあなたを包囲することを可能にしたであろう馬邑北方の地形。あなたの軍をその追撃に投入することは、単于に単なる逃亡だけでなく勝利を与えることになったと説明した——漢の兵士が無駄死にする勝利であり、それは将来の匈奴の略奪を勢いづかせ、あなたが主唱してきた積極的な政策そのものを弱体化させただろう、と。\n\nあなたが話す間、法廷は静まり返った。一部の官吏がわずかに頷いた。韓安国将軍の顔は注意深く中立を保ち続けた。武帝はすでに達した評決の証拠として全ての言葉を整理する男の集中した注意でもって聞いていた。\n\nあなたが話し終えると、皇帝が口を開いた。その声は平静で、非常に冷たかった。彼はあなたの計算を認めた。地形についてのあなたの論理は否定しなかった。彼はただ述べた——いかなる理由であれ、目の前に敵を見ながら戦おうとしない将軍は、指揮官の根本的な義務を怠ったのだ、と。和親政策は終わった。単于はあなたの前にいた。そしてあなたは戦わないことを選んだ。\n\n判決は速やかに下された。あなたは処刑されることになった。廷臣のコネクションを通じた助命嘆願の試みは、あなたのために口を利く者は誰でもあなたの不名誉に参加することになると皇帝が明確にしたとき、全て失敗した。あなたはその瞬間に許される限りの尊厳をもって最期に向かい、自分がキャリアをかけて主唱した匈奴との戦争が、今やあなたなしで始まることを知りながら——あなたの運命から皇帝が将軍に何を求めるかを学ぶ者たちによって受け継がれていく。",
+        "zh-CN": "你以完成计算的人所特有的冷静清醒陈述了自己的立场。你解释了那些数字：你的兵力、匈奴骑兵的速度、马邑以北那片足以让他们掉头将你合围的地形。你说明，将自己的军队投入那场追击，给单于带来的不只是脱身，而是一场胜利——汉军将士白白送死的胜利，那只会给日后的匈奴侵掠助长气焰，从根本上削弱你一生所倡导的主动进攻方针。\n\n你说话的当口，朝堂一片沉寂。几名官员微微颔首。韩安国将军的神情刻意保持中立。汉武帝以一种专注的神情倾听，像是在将你的每一句话都归档，作为一个他早已做出裁决的案子的证据。\n\n你说完，皇帝开口了。语声平静，极为寒冷。他承认你的计算。他没有否认你关于地形的判断。他只是说：一个将军，无论何种理由，在目见敌人时仍选择不战——便已失职于为将的根本职责。和亲已经结束了。单于就在你面前。而你选择了不战。\n\n判决来得很快。你将被处死。你试图通过朝中关系求情，但当皇帝明确表示，任何为你说话之人都将分担你的耻辱，一切努力都归于失败。你以那一刻所允许的一切尊严迎向终结，心中明白：你倾毕生之力所倡导的对匈奴的战争，将在没有你的情况下开始——由那些从你的命运中读懂皇帝对将领期望的人继续推进。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "imperialSupport", "operation": "add", "value": -30 },
+        { "variable": "ambushReadiness", "operation": "add", "value": 5 }
+      ]
+    },
+    {
+      "id": "han-xiongnu-war-133bc-scene-003-choice-b",
+      "text": {
+        "en": "Appeal to the larger strategic picture: even in failure, the Mayi operation ended heqin and created the conditions for the successful campaigns that must now follow",
+        "ja": "より大きな戦略的展望に訴える：たとえ失敗であっても、馬邑の作戦は和親を終わらせ、今後続くべき成功した遠征のための条件を作り出した",
+        "zh-CN": "诉诸更宏观的战略格局：即便失败，马邑之谋也终结了和亲，为此后必须发动的成功征战创造了条件"
+      },
+      "historicalContext": "Some historians argue that Wang Hui's greatest contribution was not the Mayi operation itself but his years of advocacy for ending heqin and beginning offensive campaigns — advocacy that bore fruit in the wars of Wei Qing and Huo Qubing.",
+      "outcomePrompt": {
+        "en": "You shift your argument from your personal actions to the historical moment. You remind the Emperor of what has been achieved even in failure: the heqin policy is over. The Chanyu now knows that the Han will use deception, will mobilize three hundred thousand men, will reach deep into the frontier to try to destroy him. The age of tribute is finished. What remains is only the question of which generals will finish what Mayi began.\n\nYou tell Emperor Wu that the campaigns of the next decade, which must now come, will be built on the intelligence gathered from this operation, the supply lines established, the knowledge of Xiongnu movement patterns that Nie Yi's network provided. You tell him that your life, if he takes it, is a small price for what was achieved in political terms — but that it would be a waste of a commander who understands the northern frontier better than any man alive.\n\nFor a moment, something flickers in the Emperor's expression — the recognition of a man who thinks in decades and sees what you are saying. Then it closes.\n\nThe verdict is execution. But in the weeks before it is carried out, the Emperor orders his ministers to review and preserve the intelligence reports from the Mayi operation. The supply routes. The Xiongnu patrol patterns. The weaknesses in the Xiongnu formation that Wang Hui identified. He is already planning the next campaign. He takes what you offered — the strategic vision — and discards the man who offered it. It is the nature of emperors.\n\nYou die having started a war that will reshape East Asia. You will not see it finished. But the men who fight it — Wei Qing, Huo Qubing — will know your name.",
+        "ja": "あなたは自分の個人的な行動から歴史的な瞬間へと論拠を移した。失敗の中でも何が達成されたかを皇帝に思い起こさせた：和親政策は終わった。単于は今、漢が謀略を用い、三十万の兵を動員し、国境の奥深くまで手を伸ばして彼を殲滅しようとすることを知った。貢物の時代は終わった。残るのは、どの将軍が馬邑が始めたことを完結させるかという問いだけだ。\n\nあなたは武帝に語った。今後十年の遠征は——それは今や必ず来なければならない——この作戦から得た情報、確立した補給路、聶壱の情報網が提供した匈奴の移動パターンの知識の上に構築されるだろう。もし皇帝があなたの命を奪うなら、政治的な観点で達成されたことへの代償として小さなものではあるが——それでも北方辺境を生きている誰よりも熟知している指揮官を無駄にすることになると。\n\n一瞬、皇帝の表情に何かが瞬いた——十年単位で考え、あなたが言っていることが見える男の認識。そしてそれは閉じた。\n\n判決は処刑だった。しかし、それが執行される前の数週間、皇帝は大臣たちに馬邑作戦の情報報告を検討して保存するよう命じた。補給路。匈奴の巡察パターン。王恢が特定した匈奴の陣形の弱点。彼はすでに次の遠征を計画している。あなたが提供したもの——戦略的ビジョン——を取り、それを提供した男は捨てた。それが皇帝というものの本質だ。\n\nあなたは東アジアを塗り替える戦争を始めながら死ぬ。それが終わるのを見ることはない。しかし、それを戦う者たち——衛青、霍去病——はあなたの名を知るだろう。",
+        "zh-CN": "你将论据从自身的个人行为转向了历史的宏观时刻。你提醒皇帝，即便是在失败之中，某些事情已经实现：和亲政策已经终结。单于现在知道，汉朝会用欺骗之术，会调动三十万大军，会将手臂伸入边境深处试图消灭他。纳贡的时代已经结束，剩下的只是由哪位将军来完成马邑所开创的事业。\n\n你告诉汉武帝，未来十年必将到来的征战，将建立在这次行动所获情报的基础之上——那些补给路线，那些由聂壹情报网提供的匈奴行进规律，那些王恢亲自勘察出的匈奴阵型弱点。你告诉他，如果他取你性命，那在政治层面已经取得的成就而言代价尚小——然而这将白白损失一位对北方边境的了解深于天下任何人的将领。\n\n片刻之间，皇帝的神情有什么东西一闪而过——那是一个以十年为单位思考、洞见你所言之意的人的神情。然后，它合上了。\n\n判决是处死。然而在执行之前的数周里，皇帝命令大臣们审阅并保存马邑行动的情报报告——补给路线，匈奴巡逻规律，王恢识别出的匈奴阵势弱点。他已经在谋划下一次征战。他取走了你献上的东西——战略远见——而将献上者一并舍弃。这是帝王的本性。\n\n你开启了一场将重塑东亚的战争，却在战争的终结之前离世。但那些去战斗的人——卫青、霍去病——将知道你的名字。"
+      },
+      "nextSceneId": null,
+      "stateChanges": [
+        { "variable": "imperialSupport", "operation": "add", "value": -20 },
+        { "variable": "xiongnutension", "operation": "add", "value": 10 }
+      ]
+    }
+  ],
+  "isTerminal": true
+}

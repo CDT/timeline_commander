@@ -1,0 +1,113 @@
+{
+  "id": "warring-states-changping-260bc-scene-001",
+  "scenarioId": "warring-states-changping-260bc",
+  "title": {
+    "en": "The Change of Command",
+    "ja": "指揮の交代",
+    "zh-CN": "易帅之变"
+  },
+  "date": {
+    "en": "July 260 BC — First Days at Changping",
+    "ja": "紀元前260年7月 — 長平着任直後",
+    "zh-CN": "公元前260年7月 — 抵达长平之初"
+  },
+  "location": {
+    "en": "Changping, the Zhao Forward Command Post",
+    "ja": "長平、趙の前線指揮所",
+    "zh-CN": "长平，赵军前线指挥所"
+  },
+  "narrativePrompt": {
+    "en": "The command post that Lian Po built is everything you expected it to be: solid, methodical, and deeply uninspiring. The maps on the walls show months of incremental adjustment — a trench line here, an observation post there, a carefully calculated withdrawal when Qin pressed too hard. They tell the story of a man who believed that time was his ally and caution his greatest weapon. You have replaced him, and now you must decide what to do with the fortress he built and the army that trusts — or does not trust — in its walls.\n\nThe senior officers who received you this morning were correct in their bearing, which is to say they showed you what was required of them without offering anything more. They had served with Lian Po. Some had been with him for a decade. When you replaced two of the most senior among them yesterday — men who had made clear through questions and hesitation that they believed Lian Po's approach was right — the message to the others was received, though not perhaps in the spirit you intended. They are watching you now the way soldiers always watch a new commander: looking for the moment that tells them who you actually are.\n\nThe Qin army sits approximately twelve li to the northwest. Through the morning mist you can see the banners on their forward positions. They have been there for months, Lian Po's reports tell you — probing, testing, finding the places where the Zhao line was thin and reinforcing their own where it was not. Their supply lines run north through passes you do not control. By Lian Po's calculation, those lines would have begun to strain within another two months.\n\nTwo months that the king of Zhao is not willing to wait. You are here because the king was not willing to wait. The question you must answer today — the first and most consequential decision of your command — is whether Lian Po's calculation was correct, and whether two months of patience is a price worth paying, or whether the moment of decisive action is already past due.",
+    "ja": "廉頗が築いた指揮所は、あなたが予想した通りのものだった：堅固で、几帳面で、そして著しく意欲をそがれる。壁の地図は何ヶ月にもわたる漸進的な調整を示している——ここに塹壕線、あそこに観測所、秦が押しすぎたときの慎重に計算された後退。時間を味方とし、慎重さを最大の武器と信じた男の物語を語っている。あなたは彼の後任となり、今彼が築いた要塞と、その壁を——あるいは壁に——信頼する軍をどうするかを決めなければならない。\n\n今朝あなたを迎えた上級将校たちは礼儀正しかった。つまり彼らに求められていることを示したが、それ以上何も差し出さなかった。廉頗とともに仕えていた。何人かは10年来の仲間だ。昨日、彼らの中で最も上級の二人を——廉頗のアプローチが正しいと疑問と躊躇いで明らかにした者たちを——交代させたとき、他の者たちへのメッセージは届いた、ただしあなたが意図した精神ではないかもしれない。彼らは今、新しい指揮官を兵士が常に見るように見ている：あなたが実際に何者かを教える瞬間を探して。\n\n秦軍はおよそ十二里の北西にいる。朝霧を通して彼らの前哨陣地の旗を見ることができる。廉頗の報告によれば彼らはそこに何ヶ月もいた——探り、試し、趙の防衛線が薄い場所を見つけ、自分たちが薄いところを補強した。彼らの補給線はあなたが支配していない峠を通って北に走っている。廉頗の計算では、その線はあと二ヶ月でひずみ始めるはずだった。\n\n趙王が待つ気のない二ヶ月。あなたがここにいるのは王が待つ気がなかったからだ。今日あなたが答えなければならない問い——あなたの指揮の最初で最も重大な決断——は、廉頗の計算が正しかったかどうか、そして二ヶ月の忍耐が支払う価値のある代価かどうか、それとも果断な行動の瞬間はすでに遅すぎるほど来ていないかどうかだ。",
+    "zh-CN": "廉颇建造的指挥所与你预想的完全一致：坚固、工整，却令人深感鼓舞乏力。墙上的地图显示出数月来的渐进调整——这里一道壕沟线，那里一座观测哨，秦军压迫过猛时便是一次精心计算的后撤。它们讲述的是一个相信时间是盟友、以谨慎为最大武器之人的故事。你已取代了他，现在你必须决定如何处置他所筑的这座要塞，以及那支信任——或者不信任——这些城墙的军队。\n\n今晨迎接你的高级将领们礼数周全——也就是说，他们表现出对他们的要求，不多给一分。他们曾追随廉颇效命，其中有些人长达十年。当你昨日撤换了他们中最高级的两人——那些通过提问和迟疑明白表示认为廉颇做法正确的人——其余人收到了这个信号，尽管接收方式未必是你所期待的。他们现在看你的眼神，正是士兵打量新主将时永远如此的方式：搜寻那个告诉他们你究竟是谁的时刻。\n\n秦军距此约十二里，在西北方向。透过晨雾，你可以看见他们前哨阵地上的旗帜。廉颇的报告告诉你，他们已在那里驻守数月——探查、试探、寻找赵国防线的薄弱之处，并在己方薄弱处加以补强。他们的补给线穿越你无法控制的山隘，向北延伸。按廉颇的推算，这条补给线再有两个月便会开始显现出紧绷的迹象。\n\n两个月的时间，是赵王不愿等待的。你来到这里，正是因为赵王不愿等待。你今日必须回答的问题——你指挥生涯中第一个也是最具决定性的抉择——是：廉颇的计算是否正确？两个月的忍耐是否值得付出？还是说，果断出击的时机早就应当到来，此刻已是迟延过久？"
+  },
+  "situationReport": [
+    {
+      "en": "Zhao defensive line: approximately 400,000 soldiers in well-fortified positions along the Changping ridgeline, with good supply connections back to Zhao territory. The fortifications are several months old and have been repeatedly strengthened.",
+      "ja": "趙の防衛線：長平の尾根に沿った十分に要塞化された陣地に約40万の兵士がおり、趙の領土への良好な補給連絡がある。要塞は数ヶ月前のものでたびたび強化されてきた。",
+      "zh-CN": "赵军防线：约四十万士兵驻守于长平山脊沿线完善工事之中，与赵国腹地的补给联络畅通。工事已有数月之久，并经多次加固。"
+    },
+    {
+      "en": "Qin forces: estimated at comparable strength, positioned across a wide front. Intelligence suggests a recent change in Qin command but cannot confirm the identity of the new commander.",
+      "ja": "秦軍：比較可能な規模と推定され、広い前線に展開している。秦の指揮変更があったことを示す情報があるが、新しい指揮官の身元を確認できない。",
+      "zh-CN": "秦军：估计兵力相当，沿宽正面展开。情报显示秦国近来更换了主将，但无法确认新任主将身份。"
+    },
+    {
+      "en": "Supply situation: Zhao currently holds sufficient provisions for approximately 60 days of sustained operations. Qin supply lines are stretched, but not yet critically so.",
+      "ja": "補給状況：趙は現在約60日間の持続的な作戦に十分な兵糧を保有している。秦の補給線は伸びきっているが、まだ危機的なほどではない。",
+      "zh-CN": "补给状况：赵军目前持有约六十天持续作战的充足粮草。秦国补给线虽然绵长，但尚未达到危急程度。"
+    },
+    {
+      "en": "Morale: Zhao soldiers are experienced but fatigued from months of waiting. The change of command has introduced uncertainty. Officer loyalty to the new commander is unproven.",
+      "ja": "士気：趙の兵士たちは経験豊富だが、何ヶ月も待ち続けた疲労がある。指揮の交代が不確実性をもたらした。新しい指揮官に対する将校の忠誠心は証明されていない。",
+      "zh-CN": "士气：赵军将士经验丰富，但因数月等待而疲惫。指挥权更迭带来了不确定性，将领们对新主将的忠诚度尚未得到检验。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Assess the tactical situation at Changping and determine the most effective operational posture for the Zhao army",
+      "ja": "長平の戦術的状況を評価し、趙軍にとって最も効果的な作戦態勢を決定する",
+      "zh-CN": "评估长平战术态势，确定赵军最有效的作战姿态"
+    },
+    {
+      "en": "Establish your authority and command culture among officers who loyally served your predecessor",
+      "ja": "先任者に忠実に仕えた将校たちの間に自分の権威と指揮文化を確立する",
+      "zh-CN": "在曾忠诚追随你前任的将领中树立自己的权威与指挥文化"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "King Xiaocheng appointed you to attack — a decision to maintain Lian Po's defensive posture may be seen as weakness",
+      "ja": "孝成王はあなたを攻撃するために任命した——廉頗の守備態勢を維持する決定は弱さと見られるかもしれない",
+      "zh-CN": "孝成王任命你是为了发起进攻——维持廉颇防御态势的决定可能被视为软弱"
+    },
+    {
+      "en": "Your intelligence on Qin command changes is incomplete — you cannot be certain who commands the enemy army",
+      "ja": "秦の指揮変更に関するあなたの情報は不完全だ——敵軍を誰が指揮しているか確信が持てない",
+      "zh-CN": "你对秦军指挥更迭的情报不完整——你无法确认敌军主将究竟是谁"
+    }
+  ],
+  "choices": [
+    {
+      "id": "warring-states-changping-260bc-scene-001-choice-a",
+      "text": {
+        "en": "Launch an immediate offensive — reverse Lian Po's defensive orders and advance the Zhao army against the Qin positions before the enemy can consolidate",
+        "ja": "即座に攻勢を開始する——廉頗の守備命令を覆し、敵が態勢を整える前に趙軍を秦の陣地に向けて前進させる",
+        "zh-CN": "立即发起攻势——推翻廉颇的防御命令，趁敌军尚未巩固阵地之前，率赵军向秦军阵地发动进攻"
+      },
+      "historicalContext": "This is what historically happened. Zhao Kuo reversed Lian Po's defensive orders and led the Zhao army in an offensive that Bai Qi was fully prepared to exploit. The advance walked directly into the Qin encirclement plan.",
+      "outcomePrompt": {
+        "en": "The orders go out before evening. You can see the relief on the king's envoy's face — he had worried you might hesitate, might prove to be another Lian Po, another old man with an old man's patience. You are not old, and you do not intend to be patient. The army begins to reorganize for offensive movement, the fortifications reduced from primary positions to fallback points, the forward units pulling back slightly to prepare for the advance that will take them beyond the ridgeline and onto open ground.\n\nThe first engagements are encouraging. Qin's forward positions give way without fierce resistance, falling back in a manner that seems at first like ordinary tactical withdrawal. Your officers — the ones you kept, the ones who are willing to fight — are energized. This is the war they signed up for, not the interminable waiting of Lian Po's endless defensive chess. The ground ahead is rugged but passable, and your army moves with a speed that surprise the Qin rear screens.\n\nIt is on the third day that you begin to notice something. The Qin withdrawal is too clean, too controlled. There is no panic in it, no sign of a force that is genuinely surprised or pressed beyond its comfort. And then, in a valley where the ridgelines converge and the passes narrow, the reports start coming in from your flanks. Cavalry, they say. Qin cavalry, behind you. The supply route — the road back to Zhao — is being cut. The encirclement that will hold your army for 46 days has closed.",
+        "ja": "命令は夕方前に出る。王の使者の顔に安堵の表情が浮かぶのが分かる——あなたが躊躇するかもしれない、別の廉頗になるかもしれない、老人の忍耐を持つ別の老人になるかもしれないと心配していたのだ。あなたは老いていない、そして忍耐するつもりもない。軍は攻勢移動に向けて再編成を始め、要塞は主陣地から予備陣地へと格下げされ、前進部隊は尾根線を越えて開けた地に出る前進の準備のためにわずかに後退する。\n\n最初の交戦は心強い。秦の前哨陣地は激しい抵抗なしに退き、最初は通常の戦術的撤退のように見える形で後退する。あなたの将校たち——残した者たち、戦う気のある者たち——は活気付いている。これが彼らが志願した戦争だ、廉頗の終わりのない守備の将棋の果てしない待ちではなく。前方の地形は険しいが通行可能で、あなたの軍は秦の後方警戒部隊を驚かせる速さで動く。\n\n三日目に何かに気づき始める。秦の退却はあまりにも整然として、あまりにも制御されている。それには混乱がなく、本当に驚いたり安全領域を押し出されたりした軍の兆候がない。そして、尾根線が合流し峠が狭まる谷で、側面からの報告が入り始める。騎兵だ、と彼らは言う。秦の騎兵が後方にいる。補給路——趙への道——が断たれている。あなたの軍を46日間拘束する包囲が閉じた。",
+        "zh-CN": "命令在傍晚之前发出。你看得出赵王使者脸上的宽慰——他一直担心你可能会犹豫，可能证明自己不过是另一个廉颇，另一个老人般充满老人耐性的人。你并不老，也无意忍耐。军队开始重组以备攻势移动，工事从主阵地降级为后备阵地，前方部队稍稍后撤，为越过山脊线、进入开阔地带的前进做好准备。\n\n最初的交战令人鼓舞。秦军前哨阵地未经激烈抵抗便告退让，以一种起初看来像是常规战术撤退的方式后撤。你的将领们——你留下来的那些人，那些愿意一战的人——士气高涨。这才是他们从军所要打的仗，而不是廉颇那无休无止的防御棋局中永无止境的等待。前方地形崎岖但可以通行，你的军队以一种令秦军后方警戒部队感到惊讶的速度推进。\n\n到第三天，你开始注意到某些异常。秦军的撤退过于整洁，过于从容。其中没有慌乱，没有一支真正受到奇袭或被迫超出承受极限的军队所应有的迹象。然后，在一处山脊线交汇、山口收窄的谷地，来自两翼的报告开始涌来。骑兵，他们说。秦国骑兵，在你身后。补给线——退往赵国的道路——正在被截断。那个将把你的军队困住四十六天的包围圈，已经合拢。"
+      },
+      "nextSceneId": "warring-states-changping-260bc-scene-002",
+      "stateChanges": [
+        { "variable": "zhaoMorale", "operation": "add", "value": 10 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": -25 },
+        { "variable": "daysOfProvisions", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "warring-states-changping-260bc-scene-001-choice-b",
+      "text": {
+        "en": "Maintain the defensive posture Lian Po established — study the situation, improve the fortifications, and wait for Qin's supply difficulties to force their hand",
+        "ja": "廉頗が確立した守備態勢を維持する——状況を研究し、要塞を強化し、秦の補給困難が彼らに行動を強いるのを待つ",
+        "zh-CN": "维持廉颇确立的防御态势——研究态势，加固工事，等待秦国补给困难迫使他们采取行动"
+      },
+      "historicalContext": "The counterfactual — maintaining Lian Po's sound defensive strategy. Military historians generally agree this was the correct approach given Zhao's position and Qin's overextended supply lines. Patience would have forced Qin to either attack the Zhao fortifications or withdraw.",
+      "outcomePrompt": {
+        "en": "It costs you something to give the order. Not in confidence — you believe you are making the right decision — but in the currency of face, of expectation, of what the king's envoy will report back to Handan when he returns. You tell your officers that the fortifications will be maintained and improved, that the army will hold its position, that the time to attack will come but it is not yet. Some of them are relieved. The veterans who served with Lian Po allow themselves a fraction of visible relaxation. The ones you appointed nod, though you can see them calculating what this means for them.\n\nThe weeks that follow are not glorious. The Qin army probes your perimeter repeatedly, feeling for weakness, and your officers rebuff each probe efficiently and without drama. Lian Po's fortifications prove their worth: well-positioned, interlocking fields of fire, retreat routes that allow orderly disengagement. Your supply situation is healthy. Qin's, you begin to hear through informants, is growing strained. The passes they depend on have been plagued by autumn rains; two supply convoys have been delayed, a third was lost to Zhao cavalry operating on the northern roads.\n\nBut Handan is not patient, and messages arrive with increasing urgency. The king wants action. The king's advisors argue that the army costs more each month than it takes. Your position is weakening at court even as it strengthens in the field. History, in this alternative, does not write itself cleanly — the pressure from Handan will not stop, and what happens next depends on whether you can hold the political line as firmly as you hold the tactical one.",
+        "ja": "命令を下すのは何かを犠牲にする。自信においてではなく——あなたは正しい決断をしていると信じている——しかし面目の通貨において、期待において、王の使者が帰還するとき邯鄲に報告する内容において。あなたは将校たちに、要塞は維持・改善され、軍は陣地を保ち、攻撃する時が来るがそれはまだではないと告げる。何人かは安堵する。廉頗とともに仕えた老兵たちは目に見えるわずかな弛緩を自らに許す。あなたが任命した者たちは頷くが、これが彼らにとって何を意味するかを計算しているのが見える。\n\nその後の数週間は栄光とは無縁だ。秦軍は弱点を探して外周を繰り返し探りを入れ、あなたの将校たちは各探りを効率的に、大げさな動きなく退ける。廉頗の要塞はその価値を証明する：うまく配置された相互支援する射撃域、整然とした退却を可能にする後退経路。あなたの補給状況は健全だ。情報提供者を通じて、秦の補給状況は圧迫されつつあると聞き始める。彼らが依存している峠は秋の雨に苦しめられており、二つの補給隊が遅延し、三つ目は北の道路で活動している趙の騎兵に失われた。\n\nしかし邯鄲は忍耐強くなく、ますます緊急のメッセージが届く。王は行動を望む。王の顧問たちは軍が毎月獲得するものより多くの費用がかかると主張する。あなたの立場は宮廷では弱くなりながら、戦場では強くなっている。この代替の歴史では、歴史は自らをきれいに書かない——邯鄲からの圧力は止まらず、次に何が起きるかはあなたが戦術的な線を保つのと同じくらい政治的な線を保てるかどうかにかかっている。",
+        "zh-CN": "下达这道命令是有代价的。不在于信心——你相信自己做出了正确的决定——而在于颜面的代价，在于期望的代价，在于赵王使者返回邯鄲后将要禀报什么的代价。你告诉将领们：工事将得到维护和加强，军队将坚守阵地，进攻的时机终将到来，但尚未到来。其中一些人松了口气。曾追随廉颇的老兵们允许自己流露出些许可见的宽松。你亲自任命的那些人点头称是，尽管你看得出他们在盘算这意味着什么。\n\n此后数周毫无荣光可言。秦军反复试探你的外围防线，寻找弱点，你的将领们每次都高效而从容地将其击退。廉颇的工事证明了其价值：阵位精心布置、相互交叉的射击域、允许有序脱离接触的后撤通道。你的补给状况良好。从线人处，你开始听说秦军的补给状况正日益紧绷。他们所依赖的山隘饱受秋雨侵扰，两支补给队伍延误，第三支被在北方道路活动的赵国骑兵所截。\n\n然而邯鄲没有耐心，信使带来的消息愈发急迫。赵王要求行动。赵王的谋士们争辩说，军队每月的耗费超过其所带来的收益。你在朝廷中的地位日渐削弱，即便在战场上日趋稳固。在这条另一种可能的历史线上，历史不会简洁地将自己写就——来自邯鄲的压力不会停止，接下来发生什么，将取决于你能否像守住战术防线一样守住政治防线。"
+      },
+      "nextSceneId": "warring-states-changping-260bc-scene-002",
+      "stateChanges": [
+        { "variable": "zhaoMorale", "operation": "add", "value": -5 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 15 },
+        { "variable": "daysOfProvisions", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

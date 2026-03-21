@@ -1,0 +1,115 @@
+{
+  "id": "genpei-war-1185-scene-001",
+  "scenarioId": "genpei-war-1185",
+  "title": {
+    "en": "The Tidal Turn",
+    "ja": "潮目の変わり目",
+    "zh-CN": "潮流逆转"
+  },
+  "date": {
+    "en": "April 25, 1185 — Dawn, Dan-no-ura",
+    "ja": "1185年4月25日 — 夜明け、壇ノ浦",
+    "zh-CN": "1185年4月25日 — 黎明，坛之浦"
+  },
+  "location": {
+    "en": "Kanmon Strait, Dan-no-ura (modern Shimonoseki, Japan)",
+    "ja": "関門海峡、壇ノ浦（現在の下関）",
+    "zh-CN": "关门海峡，坛之浦（今下关市）"
+  },
+  "narrativePrompt": {
+    "en": "The gray light of dawn reveals a sight that will be remembered for a thousand years. Across the narrow waters of the Kanmon Strait, the Taira fleet holds formation — some five hundred vessels in their estimation, though chaos and fear may be adding ghosts to the count. You stand at the prow of your flagship, feeling the deck shudder beneath you as the current pushes against the hull, and you understand with the clarity of a mind made for warfare that the water is against you.\n\nThe tide runs east to west this morning. For the Taira — born and raised on the Inland Sea, tutored in its treacheries by generations of seafaring ancestors — this is simply home water. Their helmsmen need only read the tide's pulse to know where each eddy will form, how the reverse current behind the western headland will offer a hidden channel, when the main flow will accelerate through the narrows and drive a ship where its captain does not wish to go. Your men from Kanto know rivers. They do not know this sea.\n\nYou have already read the signs. The sea birds wheel lower over the eastern shore. The color of the chop changes fifty yards ahead of you — that subtle darkening that means depth increasing, that means the bottom current is beginning to shift. You have perhaps two hours before the tide reverses and the water that now serves the Taira will begin to serve you. Two hours in which the Taira's boats, smaller and quicker, will harry your flanks and make every arrow shot a gamble against a moving platform.\n\nYour senior commander Kajiwara Kagetoki has already counseled patience — wait for the tide, let the current be your weapon. Across the water, you can see the Taira's flagship, its great golden chrysanthemum banner visible even in this pale light. Somewhere aboard that vessel is the seven-year-old emperor and the three sacred objects that make him the legitimate ruler of Japan. The question that presses on you now is not whether you will fight, but when — and the answer may determine whether Japan's next century unfolds in order or in chaos.",
+    "ja": "夜明けの薄明かりが、千年後も語り継がれることになる光景を照らし出す。関門海峡の狭い水域の向こう、平氏の艦隊は隊列を組んでいる——諸説あるが五百艘ほどとも言われる、もっとも混乱と恐怖がその数を幻影で水増ししているかもしれない。あなたは旗艦の舳先に立ち、潮流が船腹を押す感触で甲板が震えるのを感じながら、戦のために作られた精神の明晰さで、水があなたに敵対していることを悟る。\n\n今朝、潮は東から西へと流れている。瀬戸内海で生まれ育ち、幾代もの航海者の先祖からその裏表を学んだ平氏にとって、ここはただの地元の海だ。その舵取りたちは潮の脈動を読むだけで、どこに渦が生まれるかを知り、西の岬の裏に隠された逆流の水路を見つけ、本流がいつ瀬戸を加速して通り抜け、船頭の望まぬ方向へと船を押し流すかを把握している。関東育ちのあなたの兵は川を知っている。この海は知らない。\n\nあなたはすでに兆しを読んでいた。東の岸の上空を、海鳥がより低く旋回している。五十歩先の波浪の色が変わっている——あの微妙な濃さの変化は水深が増すことを意味し、底の流れが変わり始めていることを示す。潮が逆転し、今は平氏に奉仕する水があなたに仕え始めるまで、おそらくあと二時間だ。その二時間の間、平氏の小回りの利く小型船があなたの側面を翻弄し、すべての矢射を揺れる足場との賭けにする。\n\n上席の将・梶原景時はすでに待機を勧めている——潮を待ち、流れを武器にせよ、と。海の向こうに、平氏の旗艦が見える。この薄明かりの中でも黄金の菊紋の大旗がはっきりと見えている。あの船のどこかに、7歳の天皇と、彼を日本の正統な支配者たらしめる三つの神器がある。今あなたに迫る問いは、戦うかどうかではなく、いつ戦うかだ——そしてその答えが、日本の次の世紀が秩序の中で展開するか混乱の中で展開するかを左右するかもしれない。",
+    "zh-CN": "黎明的灰光照亮了一幅将被铭记千年的景象。在关门海峡狭窄的水面彼端，平氏舰队严阵以待——据估约有五百艘之多，尽管混乱与恐惧或许令这个数字充斥着幻影。你立于旗舰的船头，感受着甲板因潮流冲击船舷而震颤，以那种为战争而生的心智之清醒，你明白：水流正在与你为敌。\n\n今晨，潮流自东向西流淌。对于在濑户内海出生成长、世代航海的先祖将其险峻奥秘倾囊相授的平氏来说，这里只是寻常的家乡水域。他们的舵手只需读懂潮流的脉动，便能知晓漩涡将在何处形成，如何利用西侧岬角背后隐蔽的逆流水道，以及主流何时会在狭道中加速，将船只推向船长不愿去的方向。来自关东的你的部下熟悉河流，但不熟悉这片大海。\n\n你已经读出了迹象。海鸟在东岸上空盘旋得更低了。前方五十步处的浪涛颜色正在改变——那种微妙的加深意味着水深增加，意味着底层水流已开始移动。或许再有两个时辰，潮流将会逆转，那时现在服务于平氏的水流将开始为你效力。在这两个时辰里，平氏那些小巧灵活的船只将骚扰你的两翼，使每一支箭的射出都变成在摇动平台上的赌博。\n\n你的主将梶原景时已经进言要求等待——等潮流，让水流成为你的武器。海的对面，平氏旗舰清晰可见，那面硕大的金色菊纹战旗即便在这淡淡的晨光中也一目了然。那艘船上某处，乘坐着七岁的天皇，以及使他成为日本合法统治者的三件神器。现在压迫你的问题不是要不要战，而是何时战——而这个答案，或许将决定日本下一个世纪是在秩序中展开，还是在混乱中延伸。"
+  },
+  "situationReport": [
+    {
+      "en": "The Taira fleet numbers approximately 500 vessels; the Minamoto fleet approximately 300, but Minamoto ships are generally larger and carry more warriors.",
+      "ja": "平氏の艦隊は約500艘、源氏の艦隊は約300艘だが、源氏の船は概して大きく、より多くの兵を乗せている。",
+      "zh-CN": "平氏舰队约有500艘，源氏舰队约300艘，但源氏的船只普遍更大，载兵更多。"
+    },
+    {
+      "en": "The current tide favors the Taira, aiding the maneuverability of their smaller vessels. Tidal reversal is expected within two hours.",
+      "ja": "現在の潮流は平氏に有利で、小型船の機動性を高めている。潮の逆転は2時間以内に見込まれる。",
+      "zh-CN": "当前潮流有利于平氏，增强了其小型船只的机动性。预计两小时内潮流将会逆转。"
+    },
+    {
+      "en": "Emperor Antoku and the Three Sacred Treasures are aboard the Taira flagship. Their protection is the Taira's top priority and potentially their greatest tactical asset.",
+      "ja": "安徳天皇と三種の神器は平氏の旗艦に乗船している。その保護は平氏の最優先事項であり、同時に最大の戦術的切り札でもある。",
+      "zh-CN": "安德天皇与三种神器乘坐平氏旗舰。保护他们是平氏的首要任务，也是其最大的战术筹码。"
+    },
+    {
+      "en": "Taira commander Tomomori is highly capable. Several Taira generals, including Taguchi Shigeyoshi, are wavering in loyalty and may defect.",
+      "ja": "平氏の総大将・知盛は非常に有能だ。田口重能をはじめとする平氏の複数の将が忠義に迷いを見せており、離反する可能性がある。",
+      "zh-CN": "平氏主将知盛能力极强。田口重能等数名平氏将领忠诚动摇，可能临阵倒戈。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Engage the Taira fleet and begin breaking their formation before their positional advantage becomes decisive",
+      "ja": "平氏の艦隊に戦いを挑み、彼らの陣地的優位が決定的になる前に隊列を崩し始める",
+      "zh-CN": "与平氏舰队交战，在其阵地优势变得决定性之前开始瓦解其阵型"
+    },
+    {
+      "en": "Preserve the cohesion of the Minamoto fleet against Taira harassing attacks during the unfavorable tidal period",
+      "ja": "潮流が不利な時期の平氏の嫌がらせ攻撃に対し、源氏艦隊の結束を維持する",
+      "zh-CN": "在不利潮流期间对抗平氏的骚扰攻击，保持源氏舰队的凝聚力"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "The Taira hold the tidal advantage for approximately two more hours — any attack now risks being pushed back by current",
+      "ja": "平氏はあと約2時間、潮流の優位を保つ——今すぐ攻撃すれば、潮流に押し返されるリスクがある",
+      "zh-CN": "平氏还有约两小时的潮流优势——现在进攻有被潮流推回的风险"
+    },
+    {
+      "en": "Waiting allows the Taira to set terms of engagement and potentially screen the Emperor's vessel for escape",
+      "ja": "待機すれば、平氏が交戦の条件を設定し、天皇の乗る船を逃がすための掩護ができてしまう可能性がある",
+      "zh-CN": "等待将使平氏能够掌控交战主动权，并可能为天皇座舰的逃脱提供掩护"
+    }
+  ],
+  "choices": [
+    {
+      "id": "genpei-war-1185-scene-001-choice-a",
+      "text": {
+        "en": "Attack immediately — press the engagement before the Taira can reposition. Accept higher losses now for the chance to break their formation while they are still reacting.",
+        "ja": "直ちに攻撃する——平氏が陣形を立て直す前に攻撃を仕掛ける。彼らがまだ対応しているうちに隊列を崩す機会のために、今より多くの損害を受け入れる。",
+        "zh-CN": "立即发动进攻——在平氏重新布阵之前压上去。为了趁对方尚未反应过来打乱其阵型，接受现在更大的损失。"
+      },
+      "historicalContext": "Yoshitsune was famous for audacious attacks at unexpected times; however, the historical battle began with Taira advantage and only shifted when the tide turned. An immediate attack against the tide was not the historical choice.",
+      "outcomePrompt": {
+        "en": "You give the order and your fleet surges forward, three hundred vessels driving against the current, oars churning white water. The Taira respond exactly as you feared they might: their smaller craft, aided by the tidal flow, dart between your larger ships like water insects, loosing arrows at close range before spinning away. Your flagship shudders as a volley strikes the hull. Men shout and die. The cost is real and immediate.\n\nBut chaos has its own momentum. Several of the Taira's wavering commanders — Taguchi Shigeyoshi among them — see the aggression of your advance and make a choice that will not be reversed: they turn their vessels toward you and signal surrender. The Taira's confidence fractures. Tomomori wheels his flagship to plug the gap, but the formation has lost its integrity. The battle is not won, but it is truly begun, on your terms, not the Taira's.\n\nYour losses in this opening phase are heavier than they needed to be — a hundred men, perhaps more, killed or thrown into the churning straits. But the tide is already beginning to slow. In an hour, it will reverse entirely, and when that happens, the Minamoto's strength will be multiplied by the sea itself. You have bought that hour at a price, and now you must not waste it.",
+        "ja": "あなたは命令を下し、艦隊が前進する——三百艘が潮に逆らって突き進み、櫓が白波を立てる。平氏はあなたが恐れていた通りに反応する：小型船が潮流の助けを借りて大型船の間を水の虫のように縫い、至近距離から矢を放ち、くるりと身をかわす。旗艦が一斉射撃を受けて震動する。兵たちが叫び、倒れる。代償は現実であり、即座にやってくる。\n\nしかし混乱には固有の勢いがある。平氏の中の迷える武将たち——田口重能もその一人だ——があなたの進撃の勢いを見て、取り返しのつかない選択をする：彼らは船首をあなたに向け、降伏の合図を送る。平氏の自信が砕け散る。知盛は旗艦を回してその穴を塞ごうとするが、隊形はもはや崩れている。戦いに勝ったわけではないが、確かに始まった。平氏の条件ではなく、あなたの条件で。\n\nこの序盤の損害は必要以上に大きかった——百人、あるいはそれ以上が、激流の瀬戸に倒れ、あるいは投げ込まれた。しかし潮はもう緩み始めている。一時間後には完全に逆転し、そうなれば海そのものが源氏の力を倍増させる。あなたはその一時間を代償を払って手に入れた。今はそれを無駄にしてはならない。",
+        "zh-CN": "你下令出击，舰队向前猛冲——三百艘船逆流而上，船桨激起白色浪花。平氏的反应与你所担忧的一模一样：他们的小型船借助潮流，像水虫一般穿梭于你的大型战舰之间，近距离放箭后迅速脱开。旗舰被一轮箭雨击中，剧烈颤抖。士兵们嚎叫着倒下。代价真实而即时。\n\n然而混乱有其自身的动量。平氏中几位摇摆不定的将领——田口重能在其中——看到你进攻的气势，做出了一个无法反悔的选择：他们调转船头向你靠拢，发出投降的信号。平氏的信心随之崩裂。知盛驾驭旗舰企图填补缺口，但阵型已然瓦解。战斗尚未取胜，但已真正打响——是按照你的条件，而非平氏的条件。\n\n这一开局阶段的损失比预期的要大——百余人，甚至更多，死于或被抛入湍急的海峡。但潮流已经开始减缓。一小时后将完全逆转，届时大海本身将成倍增强源氏的战力。你已经付出代价换来了这一小时，现在绝不能将它浪费。"
+      },
+      "nextSceneId": "genpei-war-1185-scene-002",
+      "stateChanges": [
+        { "variable": "minamotoMorale", "operation": "add", "value": 10 },
+        { "variable": "tairaMorale", "operation": "add", "value": -15 },
+        { "variable": "navalControl", "operation": "add", "value": 15 },
+        { "variable": "tidalAdvantage", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "genpei-war-1185-scene-001-choice-b",
+      "text": {
+        "en": "Hold formation and wait for the tide to reverse — use the next two hours to rest your crews, harass with long-range archery, and be at full strength when the current becomes your ally.",
+        "ja": "隊形を保って潮の逆転を待つ——次の2時間を使って乗員を休ませ、遠距離弓矢で嫌がらせをしながら、潮流が味方になったときに万全の状態で臨む。",
+        "zh-CN": "保持阵型等待潮流逆转——利用接下来的两小时让士兵休整，以远程弓箭骚扰对方，等到潮流成为盟友时以全力迎战。"
+      },
+      "historicalContext": "This is closer to what historically happened in the battle's opening phase. The Taira initially held the advantage due to tidal conditions and the Minamoto fleet engaged cautiously before the tide turned decisively in their favor.",
+      "outcomePrompt": {
+        "en": "You signal for formation hold and the fleet settles into a disciplined waiting pattern, your archers on the forward rails sending measured volleys at long range while the rowers keep position against the current. It is hard, grinding work — holding station against a tide that wants to push you back — but your men have been at sea for weeks and they know how to endure.\n\nAcross the water, the Taira seem uncertain. They probe your flanks with skirmishing boats, testing your resolve, and you give ground slowly, deliberately, maintaining the formation's integrity. Kajiwara Kagetoki nods approval from the adjacent vessel. You are reading the battle like a physician reads a fever — letting the crisis approach its peak before intervening with full force.\n\nThen, in the space of half an hour, the sea changes. The chop that was running west begins to falter. A minute later it is still. Then, as clearly as a door swinging open, the current reverses, running east, running now with you and against the Taira. Your fleet, rested and intact, is suddenly downstream. The Taira's small craft, so nimble before, are now fighting against both you and the tide. You raise your commander's fan. It is time.",
+        "ja": "あなたは陣形保持の合図を出し、艦隊は規律ある待機態勢に落ち着く。前方の舷側に立つ弓兵が遠距離から計算された一斉射撃を送り、漕ぎ手たちは潮流に抗いながら位置を保つ。それは辛く、単調な仕事だ——引き戻そうとする潮流に逆らって位置を保ち続けること——しかしあなたの兵は何週間も海上にいたし、耐え忍ぶ術を心得ている。\n\n海の向こうで、平氏は迷っているようだ。小型の遊撃船であなたの側面を探り、意志の固さを試してくる。あなたはゆっくり、意図的に地を与えながら、隊形の完全性を保つ。梶原景時が隣の船から頷いて承認を示す。あなたは医者が熱を診るように戦を読んでいる——全力で介入する前に、危機がその頂点に達するのを待ちながら。\n\nそれから、半時ほどの間に、海が変わる。西に流れていた波浪が勢いを失い始める。一分後、静止する。そして扉が開くように鮮やかに、潮流が逆転し、東へと流れ、今度はあなたとともに、平氏に逆らって流れる。休息し、無傷のあなたの艦隊は突然、下流に立つ。かつてあれほど機敏だった平氏の小型船が、今はあなたと潮流の両方に立ち向かっている。あなたは采配を高く掲げる。今こそ、その時だ。",
+        "zh-CN": "你发出保持阵型的信号，舰队进入沉稳有序的等待状态。前排舷侧的弓手以稳定的节奏向远处进行弓箭骚扰，划桨手则逆流保持阵位。这是艰苦而单调的工作——逆着想将你推回的潮流维持阵位——但你的士兵已在海上数周，深知如何坚忍。\n\n对岸的平氏似乎拿捏不定。他们以小型游击船探测你的两翼，试探你的决心，而你缓慢、刻意地让出空间，维持着阵型的完整。梶原景时在邻舰上点头表示认可。你如医者察病一般读解着这场战局——在以全力介入之前，先让危机达到顶点。\n\n然后，在半个时辰之内，大海改变了。向西流动的浪涌开始减弱。片刻之后，归于平静。接着，清晰得如同一扇门被推开，潮流逆转了，转而向东流去，现在与你同向，与平氏相逆。你那休整完毕、完好无损的舰队，突然处于了顺流之位。那些曾经如此灵活的平氏小型船只，现在要同时与你和潮流抗争。你高举起指挥扇。时机已到。"
+      },
+      "nextSceneId": "genpei-war-1185-scene-002",
+      "stateChanges": [
+        { "variable": "minamotoMorale", "operation": "add", "value": 20 },
+        { "variable": "tairaMorale", "operation": "add", "value": -10 },
+        { "variable": "navalControl", "operation": "add", "value": 25 },
+        { "variable": "tidalAdvantage", "operation": "add", "value": 30 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

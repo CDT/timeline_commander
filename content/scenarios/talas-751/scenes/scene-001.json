@@ -1,0 +1,76 @@
+{
+  "sceneId": "scene-001",
+  "scenarioId": "talas-751",
+  "title": {
+    "en": "Allies of Convenience",
+    "ja": "便宜上の同盟",
+    "zh-CN": "权宜之盟"
+  },
+  "isTerminal": false,
+  "nextSceneId": "scene-002",
+  "background": {
+    "en": "July 750 AD. You are Gao Xianzhi, Military Governor of the Western Regions, born in Goguryeo and risen to become the most celebrated Tang frontier commander. Your forces have marched west from Kucha — 10,000 Tang regulars, 10,000 Ferghana auxiliaries, and crucially, 20,000 Karluk Turkic cavalry whose cooperation you purchased rather than earned. Word has reached you that the Abbasid army under Ziyad ibn Salih is already encamped near the Talas River. Your supply lines stretch thin over the Tian Shan passes. The Karluks, led by their chieftain, have ridden with you these past weeks, but their scouts meet privately with riders from the Arab camp each evening.",
+    "ja": "750年7月。あなたは高仙芝、西域の節度使であり、高句麗生まれでありながら唐で最も名高い辺境の武将となった。クチャから西へ進軍してきた——唐の正規兵1万、フェルガナの補助兵1万、そして最も重要なのは2万のカルルク突厥騎兵で、その協力は稼いだものではなく購ったものだ。ジヤード・イブン・サーリフ指揮下のアッバース朝軍がすでにタラス川付近に陣を敷いたとの報が届いた。補給線は天山山脈の峠を越えて細く延びている。カルルクは族長に率いられてここ数週間共に行軍してきたが、その斥候たちは毎晩アラブの陣営からの使者と密かに会っている。",
+    "zh-CN": "公元750年七月。你是高仙芝，西域节度使，生于高句丽，却成为大唐最声名显赫的边疆大将。你率军自龟兹西进——唐朝正规军一万、费尔干纳辅助兵一万，以及最关键的两万葛逻禄突厥骑兵，他们的合作是花钱买来的，并非出于忠诚。探报传来，齐亚德·伊本·萨利赫麾下的阿拔斯军队已在怛逻斯河附近安营扎寨。补给线越过天山山口，拉得极为细长。葛逻禄人在其首领率领下与你并肩行军数周，但他们的斥候每晚都在与阿拉伯营地来的使者秘密会面。"
+  },
+  "prompt": {
+    "en": "Your scouts report a Karluk chieftain's envoy slipping out of camp after midnight — the third such incident this week. Tomorrow you must position your forces before the Talas River crossing. The Karluks form your entire cavalry wing. Without them, your infantry and crossbowmen will be exposed on both flanks. How do you address the Karluk loyalty problem before the battle begins?",
+    "ja": "斥候が報告する——カルルクの族長の使者が真夜中過ぎに陣を抜け出した、今週これで三度目だ。明日はタラス川の渡河前に部隊を配置しなければならない。カルルクはあなたの騎兵翼全体を形成している。彼らなしでは、歩兵と弩兵が両翼を露出することになる。戦いが始まる前にカルルクの忠誠心の問題にどう対処するか？",
+    "zh-CN": "斥候来报：葛逻禄首领的使者在午夜后溜出营地——这是本周第三次了。明日你必须在怛逻斯河渡口前完成部署。葛逻禄人构成了你整个骑兵翼。没有他们，步兵与弩兵两翼将完全暴露。在战斗打响前，你将如何解决葛逻禄的忠诚问题？"
+  },
+  "choices": [
+    {
+      "id": "A",
+      "label": {
+        "en": "Confront and bind",
+        "ja": "直接対峙して縛り付ける",
+        "zh-CN": "直面并约束"
+      },
+      "description": {
+        "en": "Summon the Karluk chieftain to your tent tonight. Present evidence of the secret contacts without accusation — frame it as intelligence you need to share. Offer an enhanced payment and a written promise of Tang recognition of Karluk autonomy after victory. Assign Tang officers to ride alongside Karluk unit commanders as liaisons tomorrow.",
+        "ja": "今夜カルルクの族長を自分の天幕に呼び出す。非難することなく秘密接触の証拠を提示し、共有すべき情報として提示する。勝利後にカルルクの自治を唐が認めるという書面での約束と報酬の増額を申し出る。明日、唐の将校をカルルクの部隊長の傍らに連絡将校として配置する。",
+        "zh-CN": "今夜将葛逻禄首领召入你的营帐。不加指责地摆出秘密接触的证据——以需要共享情报的方式呈现。许以更优厚的酬劳，并附上书面承诺：胜利后大唐将承认葛逻禄的自治权。明日安排唐朝军官骑马随行于葛逻禄各部将领旁侧充任联络官。"
+      },
+      "outcome": {
+        "en": "The chieftain accepts your gifts and pledge with a warrior's embrace. He explains — unconvincingly — that his riders were gathering intelligence on Arab movements. Your Tang liaison officers are embedded with the Karluk units. You cannot know if this buys loyalty or merely postpones betrayal.",
+        "ja": "族長は戦士の抱擁であなたの贈り物と誓約を受け入れる。彼は——説得力なく——自分の騎兵がアラブの動向について情報を収集していたと説明する。あなたの唐人連絡将校がカルルクの部隊に配置された。これが忠誠を買うのか、それとも裏切りを先送りするだけなのか、知る術はない。",
+        "zh-CN": "首领以武士的方式拥抱你，接受了你的礼物与誓言。他解释说——听来并不可信——他的骑手们是在收集阿拉伯军的动向情报。你的唐朝联络官员被嵌入葛逻禄各部队。这究竟是买来了忠诚，还是只是推迟了背叛，你无从知晓。"
+      },
+      "stateChanges": [
+        { "variable": "karluktrust", "operation": "add", "value": 12 },
+        { "variable": "tangMorale", "operation": "add", "value": 5 },
+        { "variable": "tacticalPosition", "operation": "add", "value": 8 }
+      ]
+    },
+    {
+      "id": "B",
+      "label": {
+        "en": "Restructure the formation",
+        "ja": "陣形を再編する",
+        "zh-CN": "重组阵型"
+      },
+      "description": {
+        "en": "Do not confront the Karluks directly — suspicion will drive them away faster. Instead, quietly restructure your battle formation. Place your most reliable Tang heavy infantry at the flanks, use the Ferghana auxiliaries as a buffer between your main line and the Karluk cavalry, and position the Karluks so their most natural retreat path points toward your rear, not away from it. A mercenary who defects mid-battle must charge through your own lines to reach the Arabs.",
+        "ja": "カルルクに直接対峙しない——疑念は彼らを速く遠ざけるだけだ。代わりに、静かに戦闘陣形を再編する。最も頼れる唐の重歩兵を側面に配置し、フェルガナの補助兵を主力線とカルルク騎兵の間の緩衝材として使い、カルルクを最も自然な退路が後方を指すように位置づける。戦闘中に離反した傭兵がアラブに到達するには、あなた自身の戦線を突破しなければならない。",
+        "zh-CN": "不要正面对质葛逻禄人——猜忌只会让他们更快离去。转而悄悄重组战斗阵型。将最可靠的唐朝重步兵置于两翼，以费尔干纳辅助兵在主战线与葛逻禄骑兵之间形成缓冲，并将葛逻禄人布置得使其最自然的退路指向你的后方，而非远离。临阵叛变的雇佣兵要抵达阿拉伯人那边，必须先冲破你自己的战线。"
+      },
+      "outcome": {
+        "en": "Your formation adjustments are subtle enough that the Karluks do not realize what you have done. Your Tang flanks are stronger; your overall cavalry force is less mobile. You have traded offensive striking power for insurance against defection. The formation works — until it does not.",
+        "ja": "あなたの陣形調整は十分に微妙で、カルルクは何をされたか気づいていない。唐の側面は強化され、全体的な騎兵部隊の機動性は低下した。攻撃的打撃力を離反に対する保険と交換した。この陣形は機能する——機能しなくなるまでは。",
+        "zh-CN": "你的阵型调整足够微妙，葛逻禄人未曾察觉你的用意。唐军两翼更加稳固，但整体骑兵部队的机动性有所削弱。你用进攻打击力换来了防叛变的保险。这个阵型确实有效——直到它失效为止。"
+      },
+      "stateChanges": [
+        { "variable": "tacticalPosition", "operation": "add", "value": 15 },
+        { "variable": "karluktrust", "operation": "add", "value": 3 },
+        { "variable": "supplyLine", "operation": "add", "value": 5 }
+      ]
+    }
+  ],
+  "initialState": {
+    "tangMorale": 60,
+    "abbasidStrength": 65,
+    "karluktrust": 50,
+    "tacticalPosition": 45,
+    "supplyLine": 40
+  }
+}

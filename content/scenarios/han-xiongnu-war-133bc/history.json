@@ -1,0 +1,115 @@
+{
+  "scenarioId": "han-xiongnu-war-133bc",
+  "timeline": [
+    {
+      "date": "-0141-01-01",
+      "description": {
+        "en": "Emperor Wu ascends the Han throne at age 15; he inherits the heqin appeasement policy toward the Xiongnu",
+        "ja": "武帝が15歳で漢の皇帝に即位し、匈奴に対する和親政策を引き継ぐ",
+        "zh-CN": "汉武帝十五岁即位，继承了对匈奴的和亲绥靖政策"
+      }
+    },
+    {
+      "date": "-0135-01-01",
+      "description": {
+        "en": "Empress Dowager Dou dies, removing the last major constraint on Emperor Wu's desire for an aggressive policy toward the Xiongnu",
+        "ja": "皇太后竇氏が崩御し、武帝が匈奴に対する積極政策を望む上での最後の主要な制約が取り除かれる",
+        "zh-CN": "窦太皇太后驾崩，汉武帝推行对匈奴强硬政策的最后重大阻碍由此消除"
+      }
+    },
+    {
+      "date": "-0133-03-01",
+      "description": {
+        "en": "Border merchant Nie Yi presents his plan to lure the Xiongnu Chanyu into an ambush at Mayi; Wang Hui champions the scheme at court",
+        "ja": "辺境商人の聶壱が馬邑で匈奴の単于を伏兵に誘い込む計画を提示し、王恢が朝廷でこの計画を支持する",
+        "zh-CN": "边境商人聂壹献策，提出在马邑诱骗匈奴单于入伏；王恢在朝廷力陈此计"
+      }
+    },
+    {
+      "date": "-0133-05-01",
+      "description": {
+        "en": "The Han mobilizes 300,000 soldiers into five armies and conceals them in the mountain passes and valleys surrounding Mayi",
+        "ja": "漢は三十万の兵士を五つの軍に編成し、馬邑周辺の山岳の関所と谷に潜ませる",
+        "zh-CN": "汉朝将三十万大军编为五路，秘密部署于马邑周围的山谷关隘之中"
+      }
+    },
+    {
+      "date": "-0133-06-01",
+      "description": {
+        "en": "Nie Yi returns to Mayi, kills the local administrator, and hangs the head from the city wall as false evidence of the city's fall",
+        "ja": "聶壱が馬邑に戻り、地元の行政官を殺害し、城の陥落の偽証拠としてその首を城壁に掲げる",
+        "zh-CN": "聂壳返回马邑，杀死县尉，将其首级悬挂于城墙，以此作为城池陷落的假证据"
+      }
+    },
+    {
+      "date": "-0133-06-15",
+      "description": {
+        "en": "Junchen Chanyu leads an estimated 100,000 cavalry south through the Wuzhou Fortress toward Mayi, taking the bait",
+        "ja": "軍臣単于が推定十万の騎兵を率いて武州要塞を経由して馬邑へと南下し、餌に食いつく",
+        "zh-CN": "军臣单于率据称十万铁骑穿越武州塞，向马邑方向南下，上钩入套"
+      }
+    },
+    {
+      "date": "-0133-06-20",
+      "description": {
+        "en": "Xiongnu scouts notice the suspicious absence of herders with livestock near Mayi; the Chanyu halts his advance",
+        "ja": "匈奴の斥候が馬邑近くの家畜に牧人がいないという不審な状況に気づき、単于が進軍を停止する",
+        "zh-CN": "匈奴斥候察觉马邑附近牛羊遍野却无人看管的异常情况，单于下令停止进军"
+      }
+    },
+    {
+      "date": "-0133-06-21",
+      "description": {
+        "en": "A captured Han border patrol officer reveals the entire ambush plan to the Chanyu; the Xiongnu immediately reverse course and withdraw",
+        "ja": "捕らえられた漢の辺境哨所の兵士が伏兵計画の全容を単于に暴露し、匈奴は直ちに方向を転換して撤退する",
+        "zh-CN": "被俘的汉朝边境哨所尉史将整个伏击计划和盘托出，匈奴单于当即下令掉头撤退"
+      }
+    },
+    {
+      "date": "-0133-06-22",
+      "description": {
+        "en": "Wang Hui, facing a retreating Xiongnu force far larger than his own, decides not to attack; the entire Han operation collapses without a battle",
+        "ja": "王恢は自軍をはるかに上回る兵力の撤退する匈奴軍を前にして攻撃しないことを決断し、漢の作戦全体が戦わずして崩壊する",
+        "zh-CN": "王恢面对兵力远超自身且正在撤退的匈奴军队，决定按兵不动；汉军整场行动不战而溃"
+      }
+    },
+    {
+      "date": "-0133-08-01",
+      "description": {
+        "en": "Wang Hui is arrested on Emperor Wu's orders and charged with cowardice and dereliction of duty; he dies in custody, either executed or by suicide",
+        "ja": "王恢は武帝の命令により逮捕され、臆病と職務放棄の罪で起訴される。彼は拘留中に処刑されるかまたは自死により命を落とす",
+        "zh-CN": "王恢奉汉武帝之命被捕，以怯懦和渎职获罪；他在羁押期间或被处决，或自杀身亡"
+      }
+    },
+    {
+      "date": "-0130-01-01",
+      "description": {
+        "en": "Han China formally abandons the heqin policy and begins sustained military campaigns against the Xiongnu under generals including Wei Qing",
+        "ja": "漢は和親政策を正式に放棄し、衛青をはじめとする将軍たちの下で匈奴に対する持続的な軍事遠征を開始する",
+        "zh-CN": "汉朝正式放弃和亲政策，在卫青等将领率领下对匈奴发动持续的军事攻势"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Mayi Ambush was a complete operational failure. The Xiongnu Chanyu escaped without engaging the Han forces, and Wang Hui was executed for his failure to attack the retreating enemy. However, the failure accelerated rather than reversed the shift in Han policy. Emperor Wu committed to decades of aggressive warfare against the Xiongnu, eventually driving them from the Hexi Corridor and transforming the strategic landscape of East Asia.",
+    "ja": "馬邑の伏兵作戦は作戦的に完全な失敗だった。匈奴の単于は漢軍と交戦することなく脱出し、王恢は退却する敵を攻撃しなかったことで処刑された。しかし、この失敗はかえって漢の政策転換を加速させた。武帝は数十年にわたる匈奴への積極的な戦争に乗り出し、最終的に彼らを河西回廊から追い払い、東アジアの戦略的地勢を塗り替えた。",
+    "zh-CN": "马邑之谋在战术层面彻底失败。匈奴单于未与汉军交战便全身而退，王恢因未能出击撤退之敌而被处死。然而，此次失败非但没有逆转汉朝的政策转变，反而加速了这一进程。汉武帝此后数十年坚持对匈奴的主动进攻，最终将其逐出河西走廊，深刻改变了东亚的战略格局。"
+  },
+  "casualties": {
+    "en": "No significant casualties were suffered by either side during the Mayi incident itself, as the trap was sprung without contact. Wang Hui and the Han officer who defected to the Xiongnu were the primary human cost on the Han side — one executed, one a traitor. The true casualties of the subsequent decades of Han-Xiongnu warfare numbered in the hundreds of thousands on both sides.",
+    "ja": "馬邑事件そのものでは、罠が接触なしに発動したため、双方に大きな損害はなかった。漢側の主な人的損失は、王恢と匈奴に寝返った漢の兵士の二名だった——一方は処刑され、他方は裏切り者となった。その後数十年の漢と匈奴の戦争における真の犠牲者は、双方合わせて数十万人に上った。",
+    "zh-CN": "马邑事件本身双方均未产生重大伤亡，因为整个陷阱在未发生接触的情况下便告瓦解。汉方的主要人员代价是王恢和向匈奴告密的那名尉史——一个被处死，一个成了叛徒。而此后数十年汉匈战争的真实伤亡，双方合计则高达数十万之众。"
+  },
+  "significance": {
+    "en": "The Mayi Ambush marks the definitive end of the heqin appeasement era and the beginning of Han China's sustained military confrontation with the Xiongnu. Though a tactical failure, it galvanized Emperor Wu's commitment to offensive warfare and led directly to the careers of generals Wei Qing and Huo Qubing, who would transform the strategic balance of the steppe. The operation also demonstrates the inherent difficulty of large-scale deception operations and the danger of over-reliance on secrecy in military planning.",
+    "ja": "馬邑之謀は和親宥和時代の決定的な終焉を告げ、漢の匈奴との持続的な軍事対決の始まりを示す。戦術的には失敗だったものの、それは武帝の攻勢的な戦争への決意を固め、ひいては草原の戦略的均衡を塗り替えることになる衛青と霍去病の台頭に直結した。また、この作戦は大規模な欺瞞作戦に内在する困難と、軍事計画における秘密への過度の依存の危険性をも示している。",
+    "zh-CN": "马邑之谋标志着和亲绥靖时代的彻底终结，以及汉朝与匈奴展开持续军事对抗的历史开端。尽管战术上以失败告终，但它坚定了汉武帝主动出击的决心，并直接催生了卫青、霍去病等将领的崛起，由此从根本上改变了草原上的战略均势。这次行动也揭示了大规模欺骗战术的内在难度，以及军事谋划中过度依赖保密的危险。"
+  },
+  "furtherReading": [
+    "Sima Qian - Records of the Grand Historian (Shiji), Volume 108: Account of the Xiongnu",
+    "Ban Gu - Book of Han (Hanshu), Chapters on the Xiongnu and Emperor Wu",
+    "Nicola Di Cosmo - Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History",
+    "Yü Ying-shih - Trade and Expansion in Han China: A Study in the Structure of Sino-Barbarian Economic Relations",
+    "Michael Loewe - Crisis and Conflict in Han China"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "warring-states-changping-260bc-scene-002",
+  "scenarioId": "warring-states-changping-260bc",
+  "title": {
+    "en": "The Encirclement",
+    "ja": "包囲網",
+    "zh-CN": "合围"
+  },
+  "date": {
+    "en": "Late Summer, 260 BC",
+    "ja": "紀元前260年、晩夏",
+    "zh-CN": "公元前260年，夏末"
+  },
+  "location": {
+    "en": "Zhao Forward Camp, Changping Valley",
+    "ja": "長平谷、趙軍前進キャンプ",
+    "zh-CN": "长平谷，赵军前进营地"
+  },
+  "narrativePrompt": {
+    "en": "The news arrives in fragments, each piece worse than the last, like the slow collapse of a wall whose cracks you had refused to see. The Qin cavalry force that swung around your eastern flank has not merely threatened the supply depot — it has seized the high ground behind you, and a second Qin force of 25,000 infantry has simultaneously blocked the northern pass through which your reinforcements and provisions must travel. You are surrounded. The realization hits the camp like a physical blow, the kind of silence that falls before men either steady themselves or begin to break.\n\nYou dispatch riders to Handan immediately, pleading for relief forces and emergency provisions. But you know what Handan will say — they sent everything they had to this valley. The army of Zhao is here, not there. And the riders must pass through Qin-patrolled territory to reach the capital, a journey of uncertain length with an uncertain outcome. You think of the provisions: sixty days, or perhaps fifty now after the advance. Fifty days for a relief army to gather, march, and break through Qin's blocking force. The mathematics do not favor you.\n\nThe Qin general — your scouts finally confirm it — is not Wang He. It never was. The man commanding these perfectly coordinated movements, this flawless encirclement, is Bai Qi. The name alone moves through your camp like a cold wind. Officers who had been confident this morning are pale by evening. Bai Qi does not merely win battles; he annihilates armies. He has never lost. You, Zhao Kuo, the brilliant theorist, now face the greatest military mind of the age with your army trapped and your provisions dwindling. Your father's words echo in the dark.\n\nYour council of war that night is tense and fractured. Some urge an immediate massive breakout before the encirclement is fully consolidated — the ring is not yet solid, they argue, and a single concentrated thrust might punch through. Others counsel patience: wait for relief, ration strictly, maintain order. Every day you wait, they say, Handan gets closer to marshaling a relief force. Every day you wait, others counter, the men grow weaker and the Qin ring grows stronger. The decision will define not just this battle, but your place in history.",
+    "ja": "知らせは断片的に届く。各報告は前のものより悪く、まるで亀裂を見て見ぬふりをしていた壁がゆっくりと崩落するようだ。東翼を迂回した秦の騎兵部隊は補給所を脅かしたのみならず——あなたの背後の高地を占拠し、同時に2万5000の秦歩兵部隊が援軍と兵糧が通らなければならない北の峠を封鎖した。包囲された。その認識が野営地を物理的な打撃のように襲い、男たちが気力を取り戻すか崩れ始めるかの前に降りる種類の沈黙が訪れる。\n\nただちに邯鄲へ使者を飛ばし、救援軍と緊急の兵糧を求める。しかし邯鄲が何と言うか、あなたは知っている——彼らはこの谷に持てるものすべてを送り出した。趙の軍はここにあり、あちらにはない。そして使者たちは秦が巡回する領地を通って都に達しなければならず、不確かな時間のかかる旅の結末も不確かだ。兵糧のことを考える——六十日分、前進の後では五十日かもしれない。救援軍が集結し、行軍し、秦の封鎖部隊を突破するまでの五十日。数字はあなたに味方していない。\n\n秦の将軍は——斥候がついに確認する——王齕ではない。最初からそうではなかった。この完璧に調整された動き、この精緻な包囲を指揮しているのは白起だ。その名前だけで、あなたの野営地を冷たい風のように駆け抜ける。今朝まで自信に満ちていた将校たちが夕方には青ざめている。白起はただ戦いに勝つのではなく、軍を殲滅する。彼は一度も負けたことがない。あなた、趙括、天才理論家は今、軍が罠に嵌まり兵糧が尽きかけている中で時代最高の軍事的頭脳と対峙している。父の言葉が闇の中に響く。\n\nその夜の軍議は緊張し、意見が割れる。包囲網がまだ完全に固まらぬうちに直ちに大規模な突破を試みることを主張する者もいる——囲いはまだ固まっていない、集中した一撃で突破できるかもしれない、と彼らは論じる。他方、忍耐を勧める者もいる。救援を待ち、厳格に配給し、秩序を維持せよ。毎日待てば邯鄲が救援軍をまとめる可能性が高まる、と彼らは言う。しかし毎日待てば兵は弱り、秦の包囲は強固になる、と反論する者もいる。この決断は、この戦いだけでなく、歴史におけるあなたの位置を定めることになる。",
+    "zh-CN": "消息以碎片的形式传来，每一条都比上一条更加糟糕，犹如一堵你拒绝正视裂缝的墙壁正在缓缓崩塌。迂回你东翼的秦军骑兵不仅仅威胁了粮草辎重营地——他们已占据你背后的制高点，与此同时，另一支两万五千秦军步兵已封堵北面隘口，援军和粮草的唯一通道就此被切断。你被包围了。这个认识如同一记实打实的重击击中营地，紧随其后的是那种寂静——那种男人们在崩溃或者重整旗鼓之前降临的寂静。\n\n你立即派出快骑赶往邯郸，请求援军和紧急粮草。但你清楚邯郸会说什么——他们已将能调动的一切都送进了这条谷地。赵国的军队就在这里，不在那里。而信使还必须穿越秦军巡逻的地域才能抵达都城，旅途时日难料，结果更难预测。你计算粮草——六十天，进攻之后或许只剩五十天。援军要在五十天内集结、出发、突破秦军封锁线。这道算术不站在你这边。\n\n秦军主将——斥候终于证实——并非王龁。从来就不是。指挥着这些分毫不差的协调行动、这道无懈可击包围圈的人，是白起。仅仅这个名字，便如一阵冷风穿营而过。今晨还满怀信心的将官们，到傍晚已面如土色。白起不只是赢得战役；他消灭军队。他从未败过。你——赵括，那位才华横溢的理论家——如今以被困之军、告罄之粮，面对这个时代最卓越的军事头脑。父亲的话在黑暗中回响。\n\n当夜的军事会议气氛剑拔弩张，意见分歧。有人力主趁包围圈尚未完全巩固，立即发动大规模突围——包围圈还不够坚实，他们争辩道，集中兵力猛攻一点或许能够突破。另一些人则主张忍耐：等待援军，严格节粮，维持军纪。他们说，每多等一天，邯郸就多一天来集结救援军队。然而反对者针锋相对：每多等一天，士卒就愈发虚弱，秦军的包围圈就愈发牢固。这个决断不仅关乎这场战役，更将决定你在历史中的位置。"
+  },
+  "situationReport": [
+    {
+      "en": "Encirclement confirmed: Qin forces have blocked all supply and retreat routes. The Zhao army of approximately 450,000 is trapped with no reinforcement possible in the near term.",
+      "ja": "包囲確認：秦軍があらゆる補給路と退路を封鎖した。約45万の趙軍は閉じ込められ、近い将来の増援は不可能な状況だ。",
+      "zh-CN": "包围已成：秦军封堵所有补给线和退路。约四十五万赵军陷入重围，近期内不可能获得增援。"
+    },
+    {
+      "en": "Provisions situation: approximately 45-50 days of rations remain. Strict rationing may extend this to 60 days, but the army will be significantly weakened by then.",
+      "ja": "兵糧状況：約45〜50日分の兵糧が残っている。厳格な配給によって60日まで延長できるかもしれないが、その時点で軍は著しく弱体化しているだろう。",
+      "zh-CN": "粮草状况：约余四十五至五十天口粮。严格配给或可延至六十天，但届时军队战力将大幅下降。"
+    },
+    {
+      "en": "Enemy identification: Qin forces are commanded by Bai Qi, confirmed by multiple source reports. This represents a significant upgrade in threat level over initial intelligence.",
+      "ja": "敵の確認：複数の情報源による確認で、秦軍は白起が指揮していることが判明した。これは当初の情報からの大幅な脅威レベルの引き上げを意味する。",
+      "zh-CN": "敌情确认：经多源情报核实，秦军由白起统率，威胁等级较初期情报大幅提升。"
+    },
+    {
+      "en": "Relief prospects: Handan has been contacted but has no immediately available relief force. Any relief effort will require 4-6 weeks minimum. Diplomatic efforts to have other states pressure Qin are underway but uncertain.",
+      "ja": "救援の見通し：邯鄲に連絡したが、すぐに利用できる救援部隊がない。いかなる救援活動も最低4〜6週間を要する。他国に秦への圧力をかけさせる外交努力が進んでいるが、結果は不確かだ。",
+      "zh-CN": "救援前景：已联络邯郸，但无可即刻调遣的援军。任何救援行动至少需要四至六周时间。促使他国向秦施压的外交努力正在进行，但前景不明。"
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Preserve army strength and morale long enough for relief forces to arrive, or break the encirclement before provisions run out",
+      "ja": "救援軍が到着するまで十分に軍の強さと士気を維持するか、兵糧が尽きる前に包囲を突破する",
+      "zh-CN": "保持军队实力与士气，坚守至援军抵达；或在粮草耗尽之前突破包围圈"
+    },
+    {
+      "en": "Maintain unit cohesion and prevent panic-driven desertions that would unravel the army before any decisive action",
+      "ja": "部隊の結束を維持し、いかなる決定的行動の前にも軍を崩壊させる恐慌による脱走を防ぐ",
+      "zh-CN": "维持部队凝聚力，防止因恐慌引发的逃亡瓦解军队，在任何决定性行动之前保全战力"
+    }
+  ],
+  "constraints": [
+    {
+      "en": "Bai Qi is almost certainly anticipating a breakout attempt; any unsupported or poorly coordinated assault on the encirclement ring will be met with a prepared defense",
+      "ja": "白起はほぼ確実に突破の試みを予期している。包囲環への支援のない、または協調のとれていない攻撃は準備された防衛に遭遇するだろう",
+      "zh-CN": "白起几乎可以肯定已预判突围行动；对包围圈任何缺乏配合的散乱突击，都将迎来严阵以待的防御"
+    },
+    {
+      "en": "The army cannot survive another month of full rations; any strategy must account for the deteriorating provisions situation",
+      "ja": "軍はもう一ヶ月の満額配給には耐えられない。どんな戦略も悪化する兵糧状況を考慮しなければならない",
+      "zh-CN": "军队无力再承受一个月的正常口粮消耗；任何策略都必须将日益恶化的粮草状况纳入考量"
+    }
+  ],
+  "choices": [
+    {
+      "id": "scene-002-choice-a",
+      "text": {
+        "en": "Attempt an immediate concentrated breakout — mass your best troops at a single point on the Qin line and punch through before the encirclement fully hardens, accepting heavy casualties for the chance of escape",
+        "ja": "直ちに集中した突破を試みる——精鋭部隊を秦軍の一点に集中させ、包囲が完全に固まる前に突破口を開き、脱出の可能性のために重い犠牲を受け入れる",
+        "zh-CN": "立即发动集中突围——将精锐部队集结于秦军一点，趁包围圈尚未完全巩固之前强行突破，以重大伤亡换取突围机会"
+      },
+      "historicalContext": "An early breakout, while the encirclement was not yet fully set, would have been more feasible than the later desperate attempt. However, Bai Qi had planned for this contingency.",
+      "outcomePrompt": {
+        "en": "You concentrate your best soldiers — the elite infantry, the heavy crossbowmen — into a single hammer force and hurl it at the weakest point in the Qin encirclement ring. The assault is fierce and determined, and for a breathless moment it seems the line might break. Your soldiers fight with the courage of men who understand what failure means. But Bai Qi had anticipated this, and the Qin reinforcements pour in with a speed that defies belief.\n\nThe breakthrough fails at terrible cost. Thousands of your best soldiers are lost in the assault. The survivors fall back into the main camp, bloodied and broken in spirit. The Qin ring holds and, if anything, tightens. The remaining provisions now must sustain a weakened, demoralized army for however many days remain before the next decision point. The camp grows quieter each day. Men stop talking about Handan and relief armies.\n\nWith your offensive capacity spent and provisions dwindling, you face the starkest of choices. The only question now is whether to try again with what remains — a desperate final gamble — or to wait in dwindling hope for a relief that may never come. History moves toward its appointed end.",
+        "ja": "精鋭兵士——エリート歩兵、重弩手——を一つの打撃部隊に集め、秦の包囲環の最も弱い点に叩きつける。突撃は激しく決然としており、息を呑む一瞬、陣線が崩れるかに思われた。兵士たちは失敗が何を意味するかを理解している男たちの勇気をもって戦う。しかし白起はこれを予期しており、秦の増援が信じ難い速さで流れ込んでくる。\n\n突破は甚大な犠牲を払って失敗する。最精鋭の兵士数千が突撃で失われる。生き残った者たちは血まみれで精神的に打ちのめされ、本陣に退却する。秦の包囲環は持ちこたえ、むしろ締まっていく。残余の兵糧は今や、次の決断点まで残り何日あるかを問わず、弱体化し士気の崩れた軍を支えなければならない。野営地は日ごとに静かになっていく。邯鄲と救援軍についての話をする者がいなくなっていく。\n\n攻撃力を使い果たし、兵糧が尽きかけている中、あなたは最も過酷な選択に直面する。今問われているのはただ一つ——残り少ない兵力で再び試みるか——絶望的な最後の賭け——それとも来るかどうかもわからない救援を消え入りそうな希望の中で待つかだ。歴史はその定められた結末へと進んでいく。",
+        "zh-CN": "你将精锐士卒——重甲步兵、强弩手——集结为一支突击铁拳，猛攻秦军包围圈最薄弱之处。冲锋猛烈而坚决，在屏息凝神的一刻，阵线似乎摇摇欲溃。你的士卒以深知失败意味着什么的男人的勇气奋勇搏杀。然而白起早有预判，秦军增援以令人难以置信的速度涌入。\n\n突围以惨重代价宣告失败。你最精锐的数千将士葬身于这场冲锋。生还者血迹斑斑、精神崩溃，退回大营。秦军包围圈纹丝不动，甚至更加收紧。余下的粮草如今必须撑起一支已然虚弱、士气涣散的军队，直到下一个决断时刻的到来。营地每天都更加沉寂。再没有人谈论邯郸和援军。\n\n进攻力量耗尽，粮草殆尽，你面临最为严峻的抉择。眼下唯一的问题是：是否以残余兵力再赌一次——孤注一掷的最后豪赌——还是在渐渐熄灭的希望中等待一支可能永远不会到来的援军。历史正朝着它既定的终点行进。"
+      },
+      "nextSceneId": "warring-states-changping-260bc-scene-003",
+      "stateChanges": [
+        { "variable": "zhaoMorale", "operation": "add", "value": -15 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": -10 },
+        { "variable": "zhaoCasualties", "operation": "add", "value": 30 },
+        { "variable": "daysOfProvisions", "operation": "add", "value": -10 }
+      ]
+    },
+    {
+      "id": "scene-002-choice-b",
+      "text": {
+        "en": "Implement strict rationing and defensive consolidation — hold the army together, await the relief force from Handan, and prepare a coordinated breakout plan while strength remains",
+        "ja": "厳格な配給と守備の強化を実施する——軍をまとめ、邯鄲からの救援軍を待ち、まだ力がある間に協調した突破計画を準備する",
+        "zh-CN": "实施严格配给与防御收缩——凝聚军心，等待邯郸援军，趁尚有余力时准备协调周全的突围方案"
+      },
+      "historicalContext": "Waiting for relief was the other option considered at the time, but no relief force was ever sent in sufficient strength. The siege lasted 46 days total before the final breakout attempt.",
+      "outcomePrompt": {
+        "en": "You reduce rations to half portions and tighten the defensive perimeter, pulling units back to more defensible ground. Officers carry out your orders with the grim efficiency of men who have accepted that this will be a long ordeal. The morale cost is immediate — hungry men are frightened men — but the army holds its structure, and structure is what prevents a rout.\n\nWeeks pass. The relief force from Handan does not come, or rather it comes in pieces — a vanguard that attempts to break through Qin's blocking force and is repulsed, then another attempt that also fails. Word filters back of the difficulties at Handan: the treasury is strained, the other great generals are absent or reluctant, and the logistics of forcing a corridor through Qin's blocking army are proving immense. The diplomatic efforts to pressure Qin through Wei and Chu produce words but no soldiers.\n\nOn the forty-second day of the siege, your provisions are essentially exhausted. The men are weak from hunger, some beyond recovery. You have maintained order better than most could have, and your careful rationing has bought time — but time for what? The relief is not coming in strength sufficient to matter. The army that Zhao sent to Changping will die here unless you act. There is only one option left: break out or die attempting it. You call your officers together for what may be the last council of war.",
+        "ja": "食糧を半分に削減し、守備陣地を縮小し、部隊をより防衛しやすい地形に引き戻す。将校たちはこれが長い試練になると受け入れた男たちの暗澹たる効率性であなたの命令を実行する。士気への代償は即座に現れる——飢えた男は怯えた男だ——しかし軍は組織を維持し、組織こそが崩壊を防ぐものだ。\n\n数週間が過ぎる。邯鄲からの救援軍は来ない、というよりは断片的に来る——秦の封鎖部隊を突破しようとする先鋒が撃退され、次の試みも失敗する。邯鄲の困難の知らせが少しずつ届く。国庫は逼迫し、他の偉大な将軍たちは不在か乗り気でなく、秦の封鎖軍を通じて回廊を強引に開く兵站は途方もなく困難であることが判明しつつある。魏と楚を通じて秦に圧力をかけようとする外交的努力は言葉を生むが兵士は生まない。\n\n包囲の四十二日目、兵糧はほぼ底をついた。男たちは飢えで弱り、回復の見込みのない者もいる。ほとんどの者より秩序を維持し、慎重な配給が時間を稼いだ——しかし何のための時間か？救援は問題を変えるに十分な力では来ない。趙が長平に送った軍は、あなたが行動しなければここで死ぬ。残された選択肢は一つだけだ。突破するか、それを試みて死ぬか。最後の軍議になるかもしれない場に将校たちを集める。",
+        "zh-CN": "你将口粮削减至半份，收缩防御圈，将部队后撤至更易据守的地形。将官们以接受了漫长苦难的男人的阴沉效率执行你的命令。士气的损伤立竿见影——饥饿的人是惶恐的人——但军队依然保持建制，而建制正是防止溃败的最后屏障。\n\n数周流逝。邯郸的援军没有到来，或者说是零零碎碎地来了——先头部队试图突破秦军封锁线，遭到击退，再次尝试，再次失败。邯郸困境的消息点滴传来：国库告急，其他大将或缺席或消极，强行凿开穿越秦军封锁军队的通道，其后勤之难已被证明极为巨大。通过魏、楚向秦施压的外交努力，换来的是言辞，而非兵马。\n\n被围的第四十二天，粮草几近告罄。将士因饥饿而虚弱，有些人已无力回天。你维持秩序的表现胜过大多数人能做到的，你审慎的配给争取了时间——但争取时间来做什么呢？援军到来的规模根本不足以扭转局面。赵国送至长平的军队，若你不采取行动，便将就地覆灭。只剩下一条路：突围，或者死于尝试之中。你召集将官，召开这或许是最后一次的军事会议。"
+      },
+      "nextSceneId": "warring-states-changping-260bc-scene-003",
+      "stateChanges": [
+        { "variable": "zhaoMorale", "operation": "add", "value": -20 },
+        { "variable": "tacticalAdvantage", "operation": "add", "value": 5 },
+        { "variable": "zhaoCasualties", "operation": "add", "value": 10 },
+        { "variable": "daysOfProvisions", "operation": "add", "value": -40 }
+      ]
+    }
+  ],
+  "isTerminal": false
+}

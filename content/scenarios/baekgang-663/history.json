@@ -1,0 +1,83 @@
+{
+  "scenarioId": "baekgang-663",
+  "timeline": [
+    {
+      "date": "0660-07-01",
+      "description": {
+        "en": "A combined Tang-Silla force of 130,000 troops invades Baekje. Silla attacks overland from the east while Tang general Su Dingfang leads a naval force that lands at the Baekgang estuary. The Baekje army is defeated at the Battle of Hwangsanbeol. The capital Sabi (modern Buyeo) falls within weeks, and King Uija is captured and taken to Tang China.",
+        "ja": "13万の唐・新羅連合軍が百済を侵攻する。新羅が東から陸路で攻撃する一方、唐の将軍・蘇定方が白村江河口に上陸する海軍を率いる。百済軍は黄山の戦いで敗れる。首都・泗沘（現在の扶余）は数週間で陥落し、義慈王は捕らえられて唐に連行される。",
+        "zh-CN": "唐罗联军十三万人入侵百济。新罗从东面陆路进攻，唐朝将领苏定方率海军在白江口登陆。百济军在黄山之战中落败，首都泗沘（今扶余）数周内陷落，义慈王被俘送往唐朝。"
+      }
+    },
+    {
+      "date": "0660-09-01",
+      "description": {
+        "en": "Baekje resistance forces rally in the western part of the kingdom. Loyalists led by Heukchi Sangji and others hold various fortresses against Silla control. A delegation of Baekje nobles travels to Japan, where Prince Buyeo Pung — son of the captured king — has been living in exile at the Yamato court. They ask Japan to send an army and restore the kingdom.",
+        "ja": "百済の抵抗勢力が王国の西部に集結する。黒歯常之らに率いられた忠臣たちが新羅の支配に対して様々な要塞を保持する。百済貴族の使節団が日本に渡り、ヤマト朝廷に亡命中の捕虜王の息子・扶余豊璋王子に、軍を送って王国を回復するよう求める。",
+        "zh-CN": "百济抵抗力量在王国西部重新集结。以黑齿常之等人为首的忠臣坚守各处要塞，抵抗新罗控制。百济贵族使团赴日，请求在大和朝廷流亡的被俘国王之子扶余丰璋王子，请求日本出兵复国。"
+      }
+    },
+    {
+      "date": "0661-01-01",
+      "description": {
+        "en": "The Yamato court, alarmed at the Tang-Silla conquest of a longstanding Japanese ally and fearing what a unified Korean peninsula under Tang influence might mean for Japan, decides to intervene. Empress Saimei authorizes an expedition. Buyeo Pung is sent to Korea with an advance force of 5,000 men and recognized as Baekje's restored king.",
+        "ja": "ヤマト朝廷は、長年の日本の同盟国に対する唐・新羅の征服に危機感を覚え、唐の影響下に置かれた統一朝鮮半島が日本にとって何を意味するかを恐れて、介入を決定する。斉明天皇が遠征を承認する。扶余豊璋が5,000人の先遣隊とともに朝鮮に送られ、百済の回復された王として認められる。",
+        "zh-CN": "大和朝廷对唐罗征服这一长期日本盟友深感警惕，担忧唐朝影响下统一朝鲜半岛对日本意味着什么，决定介入。齐明天皇批准出兵。扶余丰璋率五千人先遣队赴朝鲜，被承认为百济复国之王。"
+      }
+    },
+    {
+      "date": "0663-03-01",
+      "description": {
+        "en": "The main Japanese expedition assembles — over 1,000 ships carrying an estimated 27,000 soldiers. This is Japan's largest overseas military expedition in its history to this point. The fleet sails for Korea to reinforce the Baekje resistance fighters who have been holding out in river fortress complexes near the Baekgang estuary.",
+        "ja": "日本の主力遠征軍が集結する——推定2万7千人の兵士を乗せた1,000隻以上の船。これはこの時点まで日本史上最大の海外軍事遠征だ。艦隊は白村江河口近くの川の要塞群で持ちこたえてきた百済の抵抗戦士たちを増強するために朝鮮に向けて出航する。",
+        "zh-CN": "日本主力远征军集结完毕——逾千艘战船载运估计两万七千名士兵。这是日本历史上迄此为止规模最大的海外军事远征。舰队向朝鲜进发，增援一直坚守在白江口附近江上要塞群的百济抵抗战士。"
+      }
+    },
+    {
+      "date": "0663-08-27",
+      "description": {
+        "en": "The Battle of Baekgang. The Tang fleet of 170 warships under Liu Rengui confronts the Japanese fleet at the river mouth. The Japanese attack in four waves. Despite numerical superiority in ships, the Japanese vessels are smaller and lighter; the Tang ships are larger, higher-sided, and better armed. Tang fire attacks set the Japanese fleet ablaze. The battle ends in complete defeat for the Japanese-Baekje force.",
+        "ja": "白村江の戦い。劉仁軌率いる170隻の唐の戦艦が河口で倭の艦隊と対峙する。倭は四波に分けて攻撃する。船の数では圧倒的に優位にあるにもかかわらず、倭の船は小さく軽い；唐の船は大きく、舷側が高く、武装も優れている。唐の火攻めが倭の艦隊を炎上させる。戦いは日本・百済連合軍の完全な敗北で終わる。",
+        "zh-CN": "白江口之战。刘仁轨率唐朝170艘战舰在江口与倭国舰队对峙。倭军分四波发动攻击。尽管船只数量占据压倒优势，倭船却更小更轻；唐船更大、舷侧更高、武装更精良。唐军火攻将倭国舰队付之一炬。此役以日本百济联军的彻底失败告终。"
+      }
+    },
+    {
+      "date": "0663-09-01",
+      "description": {
+        "en": "Following the naval defeat, the remaining Baekje land fortresses surrender to Tang-Silla forces. King Buyeo Pung escapes to Goguryeo. Japanese survivors return home. The kingdom of Baekje ceases to exist permanently. Tang and Silla then turn to the final conquest of Goguryeo, which falls in 668 AD.",
+        "ja": "海戦での敗北に続き、残存する百済の陸上要塞が唐・新羅軍に降伏する。扶余豊璋王は高句麗に逃れる。倭の生存者たちは帰国する。百済王国は永続的に消滅する。唐と新羅はその後、668年に滅亡する高句麗の最終征服に向かう。",
+        "zh-CN": "水战失败后，剩余的百济陆上要塞相继向唐罗联军投降。扶余丰璋王逃往高句丽。日本幸存者返回故土，百济王国就此永久消亡。唐与新罗随后转而完成对高句丽的最终征服，高句丽于668年覆灭。"
+      }
+    },
+    {
+      "date": "0668-01-01",
+      "description": {
+        "en": "Japan, shocked by its defeat and the total elimination of its Korean allies, undertakes a dramatic strategic reorientation. The Yamato court accelerates domestic reforms modeled on Tang Chinese institutions — the Taika Reform project — transforming Japan's governance. Japan withdraws from mainland Korea permanently and focuses on defending the home islands.",
+        "ja": "日本は敗北と朝鮮同盟国の完全消滅に衝撃を受け、劇的な戦略的再方向転換を行う。ヤマト朝廷は唐の中国的制度を模した国内改革を加速し——大化の改新計画——日本の統治を変革する。日本は朝鮮半島から永続的に撤退し、本土防衛に集中する。",
+        "zh-CN": "日本因战败及朝鲜盟友的彻底覆灭而深受震动，进行了深刻的战略转向。大和朝廷加速推行以唐朝制度为蓝本的国内改革——大化改新——对日本的治理体制进行变革。日本永久撤出朝鲜半岛大陆，转而专注于防御本土列岛。"
+      }
+    }
+  ],
+  "outcome": {
+    "en": "The Battle of Baekgang was a decisive Tang-Silla victory. Japan lost the majority of its fleet and army; Baekje was permanently extinguished. Japan's defeat had profound consequences: it accelerated Japan's internal Taika reforms, ended Japanese ambitions on the Korean mainland for over 900 years, and drove Japan toward the cultural project of building a distinctly Japanese civilization rather than a tributary state in the Chinese orbit.",
+    "ja": "白村江の戦いは唐・新羅の決定的な勝利だった。日本は艦隊と軍の大部分を失い、百済は永続的に消滅した。日本の敗北には深遠な影響があった：大化の改新を加速し、900年以上にわたって朝鮮半島における日本の野望を終わらせ、日本を中国の衛星国としてではなく独自の日本文明を構築する文化的プロジェクトへと向かわせた。",
+    "zh-CN": "白江口之战是唐罗的决定性胜利。日本损失了大部分舰队和军队，百济就此永久覆灭。日本的失败产生了深远影响：它加速了大化改新，终结了日本在朝鲜半岛逾900年的野心，并促使日本转向构建独特日本文明的文化事业，而非成为中国藩属体系中的一员。"
+  },
+  "casualties": {
+    "en": "Japanese fleet losses were catastrophic: hundreds of ships burned or sunk, thousands of soldiers drowned or killed in the naval engagement. Estimates of Japanese dead range from 10,000 to 27,000. Tang-Silla forces suffered comparatively light casualties. The fall of the remaining Baekje fortresses resulted in additional Baekje military and civilian casualties, with surviving nobles and soldiers primarily fleeing to Japan.",
+    "ja": "倭の艦隊の損失は壊滅的だった：数百隻の船が燃やされるか沈められ、数千人の兵士が海戦で溺死または戦死した。倭の死者の推定は1万から2万7千人に及ぶ。唐・新羅軍の死傷者は比較的軽微だった。残存する百済の要塞の陥落により追加の百済軍・民間人の死傷者が出たが、生き残った貴族と兵士は主に日本に逃れた。",
+    "zh-CN": "倭国舰队损失惨烈：数百艘战船被焚毁或击沉，数千名士兵在水战中溺死或阵亡。日方死亡人数估计从一万到两万七千不等。唐罗联军伤亡相对较轻。残余百济要塞的陷落造成了更多百济军民伤亡，幸存的贵族和士兵主要逃往日本。"
+  },
+  "significance": {
+    "en": "The Battle of Baekgang is one of the most consequential battles in East Asian history, though it is little known outside the region. It permanently ended the three-kingdom era of Korea, enabling the Silla unification. More significantly, Japan's defeat ended its continental ambitions and accelerated its turn toward internal development and a distinctly Japanese cultural identity — the very trajectory that would produce the rich Nara and Heian court cultures. The battle also marks the last time Japan would send military forces to Korea for nearly 900 years.",
+    "ja": "白村江の戦いは東アジア史上最も重大な戦いの一つだが、域外ではほとんど知られていない。それは朝鮮の三国時代を永続的に終わらせ、新羅の統一を可能にした。より重要なのは、日本の敗北が大陸への野望を終わらせ、内部発展と独特の日本文化的アイデンティティへの転換を加速したことだ——豊かな奈良・平安朝廷文化を生み出すまさにその軌跡だ。この戦いはまた、日本が約900年間にわたって最後に朝鮮に軍事力を送った時でもある。",
+    "zh-CN": "白江口之战是东亚历史上最具深远意义的战役之一，尽管在该地区以外鲜为人知。它永久终结了朝鲜三国时代，使新罗统一成为可能。更为重要的是，日本的失败终结了其大陆野心，加速了它转向内部发展与独特日本文化认同的进程——正是这一轨迹孕育了丰富的奈良和平安宫廷文化。这场战役也是日本近900年内最后一次向朝鲜派遣军事力量。"
+  },
+  "furtherReading": [
+    "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche (Harvard, 2006)",
+    "Farris, William Wayne, Sacred Texts and Buried Treasures: Issues in the Historical Archaeology of Ancient Japan (University of Hawaii, 1998)",
+    "Piggott, Joan, The Emergence of Japanese Kingship (Stanford, 1997)",
+    "Holcombe, Charles, The Genesis of East Asia: 221 BC — AD 907 (University of Hawaii, 2001)",
+    "Lee, Ki-baik, A New History of Korea, translated by Edward W. Wagner (Harvard, 1984)"
+  ]
+}
